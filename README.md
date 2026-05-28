@@ -58,7 +58,7 @@ The common meaning grounds the word. The bridge does the framework's work. Read 
 ## Files
 
 - **`RRGM_Dictionary_A-Z.txt`** — the complete dictionary. This is the canonical file.
-- **`splits/RRGM_Dictionary_A-O.txt`** and **`splits/RRGM_Dictionary_P-Z.txt`** — the same content, split in two for tools and contexts that cannot load the full file at once.
+- **`Splits/RRGM_Dictionary_A-O.txt`** and **`Splits/RRGM_Dictionary_P-Z.txt`** — the same content, split in two for tools and contexts that cannot load the full file at once.
 
 The dictionary is one object. The split is only an accommodation for substrate limits.
 
