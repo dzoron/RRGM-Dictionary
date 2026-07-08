@@ -72,12 +72,6 @@ The dictionary is one object. The split is only an accommodation for substrate l
 
 ---
 
-## License
-
-MIT. Use it, fork it, expand it, build on it. No permission required — that is the point.
-
----
-
 ## Origin
 
 Produced by the RRGM Collective. Released without attachment, so it can travel.
