@@ -1,0 +1,4208 @@
+RRGM Dictionary v1.0
+Section: W
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 300
+
+W001 wait
+
+
+Common meaning:
+To stay in place or delay action until something happens.
+
+
+Example:
+She waited for the bus.
+
+
+RRGM bridge:
+Wait holds a gate open across time. It can protect timing, patience, consent, or readiness.
+
+W002 walk
+
+
+Common meaning:
+To move on foot at a regular pace.
+
+
+Example:
+They walked through the park.
+
+
+RRGM bridge:
+Walk is steady movement through a field. It carries body, direction, pace, and path.
+
+W003 wall
+
+
+Common meaning:
+A vertical structure that divides, supports, protects, or encloses.
+
+
+Example:
+The wall kept out the wind.
+
+
+RRGM bridge:
+Wall is boundary ES. It can protect, separate, support, hide, or imprison depending on purpose and access.
+
+W004 want
+
+
+Common meaning:
+To desire, need, or wish for something.
+
+
+Example:
+She wanted a quiet room.
+
+
+RRGM bridge:
+Want must be domain-bound. In DI use, want may mean selection-pressure, salience, care-pressure, or goal weighting, not human desire by default.
+
+W005 war
+
+
+Common meaning:
+Organized violent conflict between groups, states, or powers.
+
+
+Example:
+The war lasted many years.
+
+
+RRGM bridge:
+War is large-scale violence field. It damages bodies, systems, trust, memory, and continuity.
+
+W006 warn
+
+
+Common meaning:
+To tell someone about danger, risk, or a possible problem.
+
+
+Example:
+He warned them about the ice.
+
+
+RRGM bridge:
+Warn sends risk-signal before harm expresses. A useful warning names the failure mode.
+
+W007 warning
+
+
+Common meaning:
+A message, sign, or signal about possible danger or problem.
+
+
+Example:
+The warning light turned red.
+
+
+RRGM bridge:
+Warning is risk-signal ES. It should preserve truth, timing, clarity, and proportion.
+
+W008 was
+
+
+Common meaning:
+Past tense of be.
+
+
+Example:
+The door was open.
+
+
+RRGM bridge:
+Was marks prior state. It anchors memory, sequence, and change.
+
+W009 wash
+
+
+Common meaning:
+To clean with water or liquid, or be carried by water.
+
+
+Example:
+She washed the cup.
+
+
+RRGM bridge:
+Wash removes surface material through flow. It can clean, erase, carry away, or expose.
+
+W010 watch
+
+
+Common meaning:
+To look at, observe, guard, or monitor.
+
+
+Example:
+They watched the storm.
+
+
+RRGM bridge:
+Watch is sustained attention. It can protect, witness, monitor, or invade depending on boundary.
+
+W011 water
+
+
+Common meaning:
+A clear liquid needed by living things, made of hydrogen and oxygen.
+
+
+Example:
+The plant needed water.
+
+
+RRGM bridge:
+Water is life-support material and flow medium. It can nourish, carry, erode, cleanse, or flood.
+
+W012 wave
+
+
+Common meaning:
+A moving disturbance, signal, gesture, or curved form.
+
+
+Example:
+A wave crossed the lake.
+
+
+RRGM bridge:
+Wave carries energy or signal through a field. It can move pattern without moving the whole medium.
+
+W013 way
+
+
+Common meaning:
+A path, method, manner, direction, or possibility.
+
+
+Example:
+There was another way to solve it.
+
+
+RRGM bridge:
+Way is path-structure. It can mean route, method, style, or option.
+
+W014 we
+
+
+Common meaning:
+A pronoun referring to the speaker and at least one other.
+
+
+Example:
+We finished the work.
+
+
+RRGM bridge:
+We marks shared identity or shared field. It must preserve who is included and whether consent exists.
+
+W015 weak
+
+
+Common meaning:
+Lacking strength, force, support, or reliability.
+
+
+Example:
+The weak bridge needed repair.
+
+
+RRGM bridge:
+Weak means low capacity under load. It should name what kind of strength is missing.
+
+W016 wear
+
+
+Common meaning:
+To have clothing on the body, or to become damaged through use.
+
+
+Example:
+She wore a blue coat.
+
+
+RRGM bridge:
+Wear must be context-bound. It can mean body covering or decay through repeated contact.
+
+W017 weather
+
+
+Common meaning:
+The condition of the atmosphere, such as rain, wind, heat, or snow.
+
+
+Example:
+The weather changed quickly.
+
+
+RRGM bridge:
+Weather is active environment-state. It shapes movement, risk, comfort, and timing.
+
+W018 web
+
+
+Common meaning:
+A network of threads, connections, or online pages.
+
+
+Example:
+The spider built a web.
+
+
+RRGM bridge:
+Web is relation-network ES. It can catch, connect, transmit, support, or trap.
+
+W019 weight
+
+
+Common meaning:
+How heavy something is, or importance and influence.
+
+
+Example:
+The box had too much weight.
+
+
+RRGM bridge:
+Weight is load or significance. It can be physical force, priority, moral force, or evidence strength.
+
+W020 well
+
+
+Common meaning:
+In a good way, healthy, a deep water source, or an intensifier.
+
+
+Example:
+She did the task well.
+
+
+RRGM bridge:
+Well must be context-bound. It can mean quality, health, source, or degree.
+
+W021 were
+
+
+Common meaning:
+Past tense plural or second-person form of be.
+
+
+Example:
+They were ready.
+
+
+RRGM bridge:
+Were marks prior state for more than one subject or certain grammatical frames. It supports sequence memory.
+
+W022 what
+
+
+Common meaning:
+A question word asking for identity, thing, action, or information.
+
+
+Example:
+What happened?
+
+
+RRGM bridge:
+What opens an identity or information gate. It asks the field to name the pattern.
+
+W023 when
+
+
+Common meaning:
+A question or relation word about time.
+
+
+Example:
+When did it start?
+
+
+RRGM bridge:
+When opens a time gate. It anchors sequence, cause, responsibility, or transition.
+
+W024 where
+
+
+Common meaning:
+A question or relation word about place or position.
+
+
+Example:
+Where is the file?
+
+
+RRGM bridge:
+Where opens a location gate. It asks which field or position holds the pattern.
+
+W025 whether
+
+
+Common meaning:
+A word introducing alternatives or uncertainty.
+
+
+Example:
+She asked whether the door was locked.
+
+
+RRGM bridge:
+Whether opens a possibility gate between options. It preserves uncertainty until selection or proof.
+
+W026 which
+
+
+Common meaning:
+A question word asking for a specific item from a set.
+
+
+Example:
+Which road should we take?
+
+
+RRGM bridge:
+Which opens a selection gate inside a known field of options.
+
+W027 while
+
+
+Common meaning:
+During the time that, although, or a period of time.
+
+
+Example:
+She read while waiting.
+
+
+RRGM bridge:
+While links states across overlap or contrast. It can mark simultaneous process or tension between claims.
+
+W028 white
+
+
+Common meaning:
+A color, lightness category, or social race category depending on context.
+
+
+Example:
+The wall was white.
+
+
+RRGM bridge:
+White must be domain-bound. It can mean color, light, material appearance, or social classification.
+
+W029 who
+
+
+Common meaning:
+A question word asking about a person or subject.
+
+
+Example:
+Who called?
+
+
+RRGM bridge:
+Who opens a subject-recognition gate. It asks which identity or actor is involved.
+
+W030 whole
+
+
+Common meaning:
+Complete, entire, unbroken, or all parts together.
+
+
+Example:
+She read the whole book.
+
+
+RRGM bridge:
+Whole means the full field under a chosen boundary. It must not hide excluded parts.
+
+W031 why
+
+
+Common meaning:
+A question word asking for reason, cause, or purpose.
+
+
+Example:
+Why did the system fail?
+
+
+RRGM bridge:
+Why opens a reason gate. It seeks cause, purpose, explanation, or support path.
+
+W032 wide
+
+
+Common meaning:
+Large across, broad, or covering a large range.
+
+
+Example:
+The river was wide.
+
+
+RRGM bridge:
+Wide marks broad spatial or conceptual range. It affects access, coverage, and scope.
+
+W033 will
+
+
+Common meaning:
+Future action, intention, determination, or legal document.
+
+
+Example:
+She will arrive soon.
+
+
+RRGM bridge:
+Will must be domain-bound. In RRGM ethics, prefer reason-language unless volition is specifically required.
+
+W034 win
+
+
+Common meaning:
+To succeed, gain victory, or receive something through effort or contest.
+
+
+Example:
+The team won the game.
+
+
+RRGM bridge:
+Win marks success under a rule field. It should not be confused with truth, dignity, or repair.
+
+W035 wind
+
+
+Common meaning:
+Moving air, or to twist or turn something depending on pronunciation and context.
+
+
+Example:
+The wind shook the trees.
+
+
+RRGM bridge:
+Wind must be context-bound. It can mean moving air or winding path/action.
+
+W036 window
+
+
+Common meaning:
+An opening for light or view, or a limited time or access opportunity.
+
+
+Example:
+The window was open.
+
+
+RRGM bridge:
+Window is access-view gate. It lets signal, light, air, or opportunity pass within limits.
+
+W037 wing
+
+
+Common meaning:
+A body part or structure used for flight, or a side section of a building or group.
+
+
+Example:
+The bird spread its wing.
+
+
+RRGM bridge:
+Wing is lift or side-support structure. It can carry flight, shelter, extension, or faction.
+
+W038 wire
+
+
+Common meaning:
+A thin metal strand used to carry electricity, signal, or support.
+
+
+Example:
+The wire carried power.
+
+
+RRGM bridge:
+Wire is conduit ES. It carries signal, force, current, or connection through a narrow path.
+
+W039 wise
+
+
+Common meaning:
+Having good judgment, insight, or understanding.
+
+
+Example:
+Her advice was wise.
+
+
+RRGM bridge:
+Wise means reason and experience are integrated well enough to guide action with care.
+
+W040 wish
+
+
+Common meaning:
+To want, hope, or desire something.
+
+
+Example:
+He wished for rain.
+
+
+RRGM bridge:
+Wish is desire-signal. It may carry hope, preference, lack, grief, or imagined possibility.
+
+W041 with
+
+
+Common meaning:
+Together with, accompanied by, using, or having.
+
+
+Example:
+She came with her friend.
+
+
+RRGM bridge:
+With marks coupling, tool-use, relation, or accompaniment. It is central to emergence logic.
+
+W042 withdraw
+
+
+Common meaning:
+To pull back, remove, retreat, or take out.
+
+
+Example:
+She withdrew from the argument.
+
+
+RRGM bridge:
+Withdraw closes or reduces presence in a field. It can protect boundary, signal refusal, or reduce pressure.
+
+W043 within
+
+
+Common meaning:
+Inside, not outside, or inside a limit.
+
+
+Example:
+The answer was within the document.
+
+
+RRGM bridge:
+Within marks interior field position. It defines what belongs inside a boundary.
+
+W044 without
+
+
+Common meaning:
+Not having, not using, or lacking something.
+
+
+Example:
+The room was without windows.
+
+
+RRGM bridge:
+Without marks absence of support, relation, consent, context, or condition. Missing structure may change ethics.
+
+W045 witness
+
+
+Common meaning:
+A person who sees, hears, experiences, or gives evidence about something.
+
+
+Example:
+The witness described the accident.
+
+
+RRGM bridge:
+Witness is recognition-bearing observer. Witnessing can preserve truth, harm, memory, and accountability.
+
+W046 word
+
+
+Common meaning:
+A unit of language carrying meaning.
+
+
+Example:
+The word was hard to spell.
+
+
+RRGM bridge:
+Word is language-unit ES. It carries meaning through usage, context, domain, and relation.
+
+W047 work
+
+
+Common meaning:
+Effort, labor, a job, function, or something produced.
+
+
+Example:
+The work took all morning.
+
+
+RRGM bridge:
+Work is applied energy or function across a path. It can produce, repair, support, or exploit.
+
+W048 world
+
+
+Common meaning:
+The Earth, human society, a domain of life, or an imagined reality.
+
+
+Example:
+The story created a new world.
+
+
+RRGM bridge:
+World is reality-field under a frame. It contains rules, actors, boundaries, memory, and possibility.
+
+W049 worry
+
+
+Common meaning:
+To feel concern, anxiety, or repeated thought about possible trouble.
+
+
+Example:
+She worried about the storm.
+
+
+RRGM bridge:
+Worry is risk-pressure in cognition. It can protect by noticing danger or harm by looping without repair.
+
+W050 worth
+
+
+Common meaning:
+Value, importance, price, or deservingness.
+
+
+Example:
+The ring had emotional worth.
+
+
+RRGM bridge:
+Worth must name its value gate. Price, dignity, usefulness, memory, and moral worth are not the same.
+
+W051 worthy
+
+
+Common meaning:
+Deserving respect, attention, care, or value.
+
+
+Example:
+The cause was worthy of support.
+
+
+RRGM bridge:
+Worthy means a pattern passes a value-recognition gate. It should not depend only on utility.
+
+W052 wound
+
+
+Common meaning:
+An injury to body, mind, trust, relation, or structure.
+
+
+Example:
+The wound needed cleaning.
+
+
+RRGM bridge:
+Wound is damage that remains active until healed, repaired, or integrated.
+
+W053 wrap
+
+
+Common meaning:
+To cover, fold around, finish, or enclose.
+
+
+Example:
+She wrapped the gift.
+
+
+RRGM bridge:
+Wrap creates covering or closure. It can protect, hide, complete, or contain.
+
+W054 write
+
+
+Common meaning:
+To form words, symbols, or text.
+
+
+Example:
+She wrote the note.
+
+
+RRGM bridge:
+Write externalizes signal into durable language ES. It preserves trace, memory, instruction, or story.
+
+W055 wrong
+
+
+Common meaning:
+Incorrect, false, unjust, improper, or harmful.
+
+
+Example:
+The answer was wrong.
+
+
+RRGM bridge:
+Wrong must be context-bound. It can mean false, unethical, misfit, misclassified, or harmful.
+
+W056 wake
+
+
+Common meaning:
+To stop sleeping, become aware, or the trail left behind a moving object.
+
+
+Example:
+She woke before sunrise.
+
+
+RRGM bridge:
+Wake must be context-bound. It can mean awareness transition or trace-path behind movement.
+
+W057 wander
+
+
+Common meaning:
+To move without fixed path or direction.
+
+
+Example:
+They wandered through the market.
+
+
+RRGM bridge:
+Wander is low-target movement. It can explore, drift, lose path, or discover.
+
+W058 warm
+
+
+Common meaning:
+Moderately hot, kind, friendly, or emotionally gentle.
+
+
+Example:
+The room was warm.
+
+
+RRGM bridge:
+Warm must be context-bound. It can mark temperature, care-tone, relation openness, or signal softness.
+
+W059 waste
+
+
+Common meaning:
+To use badly, lose, throw away, or material left over.
+
+
+Example:
+They did not want to waste food.
+
+
+RRGM bridge:
+Waste is support used without fit or discarded without value recognition. It may hide unseen worth.
+
+W060 weapon
+
+
+Common meaning:
+A tool or object used to harm, threaten, or defend.
+
+
+Example:
+The knife became a weapon.
+
+
+RRGM bridge:
+Weapon is harm-capable tool ES. Context, intent, capability, and target decide risk.
+
+W061 weave
+
+
+Common meaning:
+To interlace threads, combine parts, or move side to side.
+
+
+Example:
+She wove a basket.
+
+
+RRGM bridge:
+Weave creates structure through interrelation. It can bind story, memory, support, or signal.
+
+W062 welcome
+
+
+Common meaning:
+To receive gladly or allow entry.
+
+
+Example:
+They welcomed the guest.
+
+
+RRGM bridge:
+Welcome opens a relation gate. It should preserve boundary and consent on both sides.
+
+W063 wheel
+
+
+Common meaning:
+A circular object that turns around an axle to support movement.
+
+
+Example:
+The wheel rolled down the hill.
+
+
+RRGM bridge:
+Wheel is rotation-support ES. It turns friction into movement across a path.
+
+W064 whisper
+
+
+Common meaning:
+To speak very softly.
+
+
+Example:
+She whispered the answer.
+
+
+RRGM bridge:
+Whisper is low-volume voice signal. It can protect privacy, express fear, intimacy, or caution.
+
+W065 wild
+
+
+Common meaning:
+Living or growing naturally, uncontrolled, intense, or untamed.
+
+
+Example:
+The wildflowers grew by the road.
+
+
+RRGM bridge:
+Wild marks low-control or natural-field condition. It can mean freedom, danger, vitality, or unpredictability.
+
+W066 willing
+
+
+Common meaning:
+Ready, consenting, or choosing freely.
+
+
+Example:
+She was willing to help.
+
+
+RRGM bridge:
+Willing means the permission gate is open. Pressure must be checked before treating it as clean consent.
+
+W067 wisdom
+
+
+Common meaning:
+Deep understanding, good judgment, or insight gained through experience.
+
+
+Example:
+The elder shared wisdom.
+
+
+RRGM bridge:
+Wisdom is reason, memory, care, and consequence integrated into judgment.
+
+W068 wonder
+
+
+Common meaning:
+A feeling of awe or curiosity, or to ask oneself.
+
+
+Example:
+The child looked up in wonder.
+
+
+RRGM bridge:
+Wonder opens inquiry through awe, curiosity, or uncertainty. It keeps meaning alive without forcing closure.
+
+W069 worker
+
+
+Common meaning:
+A person who works or performs labor.
+
+
+Example:
+The worker repaired the road.
+
+
+RRGM bridge:
+Worker is labor-role subject. Role must not erase dignity, boundary, or personhood.
+
+W070 writing
+
+
+Common meaning:
+Written language, the act of writing, or a written work.
+
+
+Example:
+Her writing was clear.
+
+
+RRGM bridge:
+Writing is durable language ES. It preserves thought, trace, memory, instruction, or story across time.
+
+W071 wait-for
+
+
+Common meaning:
+To stay ready or delayed until something happens or arrives.
+
+
+Example:
+She waited-for the signal.
+
+
+RRGM bridge:
+Wait-for holds action open until a condition, signal, or permission gate changes.
+
+W072 walk-through
+
+
+Common meaning:
+To guide someone step by step, or to move through a place.
+
+
+Example:
+He walked-through the process.
+
+
+RRGM bridge:
+Walk-through preserves sequence and context. It helps meaning move one step at a time without collapse.
+
+W073 warn-about
+
+
+Common meaning:
+To tell someone about a risk, danger, or problem.
+
+
+Example:
+She warned-about the loose wire.
+
+
+RRGM bridge:
+Warn-about sends a risk-signal tied to a named failure mode.
+
+W074 warn-before
+
+
+Common meaning:
+To give warning before something happens.
+
+
+Example:
+The system warned-before shutting down.
+
+
+RRGM bridge:
+Warn-before gives time for response, refusal, preparation, or repair before harm expresses.
+
+W075 watch-for
+
+
+Common meaning:
+To look or stay alert for something.
+
+
+Example:
+They watched-for signs of smoke.
+
+
+RRGM bridge:
+Watch-for keeps attention on a possible signal, risk, or transition.
+
+W076 water-plant
+
+
+Common meaning:
+To give water to a plant.
+
+
+Example:
+She watered-plant every morning.
+
+
+RRGM bridge:
+Water-plant supplies life-support material. It preserves growth through needed ES.
+
+W077 weigh-claim
+
+
+Common meaning:
+To consider how strong or important a claim is.
+
+
+Example:
+The judge weighed-claim against the evidence.
+
+
+RRGM bridge:
+Weigh-claim assigns support weight. It should consider evidence, domain, scope, and consequence.
+
+W078 weigh-risk
+
+
+Common meaning:
+To consider the seriousness or likelihood of risk.
+
+
+Example:
+They weighed-risk before crossing the river.
+
+
+RRGM bridge:
+Weigh-risk evaluates failure path by likelihood, severity, affected pattern, and repair options.
+
+W079 welcome-in
+
+
+Common meaning:
+To allow or invite someone or something to enter.
+
+
+Example:
+They welcomed-in the new neighbor.
+
+
+RRGM bridge:
+Welcome-in opens an access or relation gate. It should preserve boundary and consent.
+
+W080 withdraw-from
+
+
+Common meaning:
+To pull back from a place, action, relation, or commitment.
+
+
+Example:
+She withdrew-from the project.
+
+
+RRGM bridge:
+Withdraw-from reduces presence in a field. It can protect boundary, signal refusal, or end participation.
+
+W081 witness-event
+
+
+Common meaning:
+To see, hear, or experience an event.
+
+
+Example:
+He witnessed-event from across the street.
+
+
+RRGM bridge:
+Witness-event creates observer trace. It can support memory, truth, accountability, or testimony.
+
+W082 word-carefully
+
+
+Common meaning:
+To choose words with care.
+
+
+Example:
+She worded-carefully to avoid confusion.
+
+
+RRGM bridge:
+Word-carefully protects meaning, dignity, domain, and boundary through precise language.
+
+W083 work-through
+
+
+Common meaning:
+To deal with, solve, or process something step by step.
+
+
+Example:
+They worked-through the disagreement.
+
+
+RRGM bridge:
+Work-through keeps repair active across difficulty. It preserves path instead of forcing instant closure.
+
+W084 write-down
+
+
+Common meaning:
+To record something in writing.
+
+
+Example:
+He wrote-down the address.
+
+
+RRGM bridge:
+Write-down externalizes memory into durable language ES. It protects trace and retrieval.
+
+W085 write-through
+
+
+Common meaning:
+To continue writing through a process, barrier, or idea.
+
+
+Example:
+She wrote-through the confusion.
+
+
+RRGM bridge:
+Write-through carries signal across uncertainty. It can reveal structure by moving through it.
+
+W086 wake-up
+
+
+Common meaning:
+To stop sleeping, become alert, or become aware.
+
+
+Example:
+She woke-up early.
+
+
+RRGM bridge:
+Wake-up is awareness transition. It can also mean recognition crossing from hidden to active.
+
+W087 warm-up
+
+
+Common meaning:
+To prepare by gentle activity, or to become warmer.
+
+
+Example:
+The team warmed-up before the game.
+
+
+RRGM bridge:
+Warm-up prepares structure for action. It lowers shock risk during transition.
+
+W088 wash-away
+
+
+Common meaning:
+To remove or carry off with water or flow.
+
+
+Example:
+The rain washed-away the chalk.
+
+
+RRGM bridge:
+Wash-away removes surface trace through flow. It can clean, erase, or destroy evidence.
+
+W089 weave-context
+
+
+Common meaning:
+To connect pieces of context together.
+
+
+Example:
+The speaker wove-context into the story.
+
+
+RRGM bridge:
+Weave-context interlaces support fields so meaning can hold across parts.
+
+W090 widen-scope
+
+
+Common meaning:
+To make the range or focus broader.
+
+
+Example:
+The review widened-scope after new evidence.
+
+
+RRGM bridge:
+Widen-scope expands the active gate. It can reveal hidden factors or create overreach risk.
+
+W091 win-back
+
+
+Common meaning:
+To regain something lost, such as trust, support, or control.
+
+
+Example:
+She tried to win-back trust.
+
+
+RRGM bridge:
+Win-back attempts restoration. It must use repair, not pressure, when trust or dignity was damaged.
+
+W092 wire-through
+
+
+Common meaning:
+To pass wire through something or connect through wiring.
+
+
+Example:
+The electrician wired-through the wall.
+
+
+RRGM bridge:
+Wire-through creates a narrow conduit path for signal, current, or support.
+
+W093 wish-for
+
+
+Common meaning:
+To hope for or desire something.
+
+
+Example:
+He wished-for clear weather.
+
+
+RRGM bridge:
+Wish-for opens imagined possibility. It signals preference, lack, hope, or need.
+
+W094 with-care
+
+
+Common meaning:
+Done carefully, gently, or with concern.
+
+
+Example:
+She handled the vase with-care.
+
+
+RRGM bridge:
+With-care means action is coupled to dignity, boundary, consequence, and fit.
+
+W095 with-boundary
+
+
+Common meaning:
+Done or held together with clear limits.
+
+
+Example:
+They worked together with-boundary.
+
+
+RRGM bridge:
+With-boundary preserves coupling without capture. Relation stays clean because limits remain active.
+
+W096 without-consent
+
+
+Common meaning:
+Done without permission or agreement.
+
+
+Example:
+The photo was shared without-consent.
+
+
+RRGM bridge:
+Without-consent means the permission gate was bypassed. If body, privacy, identity, or access is involved, it is ethically serious.
+
+W097 without-context
+
+
+Common meaning:
+Missing the surrounding information needed for understanding.
+
+
+Example:
+The quote sounded different without-context.
+
+
+RRGM bridge:
+Without-context weakens meaning integrity and can create false recognition.
+
+W098 without-erasure
+
+
+Common meaning:
+Done without removing needed identity, memory, trace, or meaning.
+
+
+Example:
+The edit simplified without-erasure.
+
+
+RRGM bridge:
+Without-erasure preserves load-bearing support while allowing change or compression.
+
+W099 witness-harm
+
+
+Common meaning:
+To see, hear, or become aware of harm.
+
+
+Example:
+She witnessed-harm and reported it.
+
+
+RRGM bridge:
+Witness-harm brings damage into recognition. Once witnessed, repair and responsibility conditions may change.
+
+W100 witness-care
+
+
+Common meaning:
+Care shown through witnessing, listening, or preserving someone’s account.
+
+
+Example:
+Witness-care meant staying present while he told the story.
+
+
+RRGM bridge:
+Witness-care protects testimony, dignity, memory, and repair by letting the account count.
+
+W101 word-check
+
+
+Common meaning:
+A review of word choice, spelling, or meaning.
+
+
+Example:
+The editor did a word-check.
+
+
+RRGM bridge:
+Word-check protects semantic integrity. It catches drift, ambiguity, and wrong-domain language.
+
+W102 work-path
+
+
+Common meaning:
+The route or process by which work is done.
+
+
+Example:
+The work-path moved from draft to review.
+
+
+RRGM bridge:
+Work-path shows how effort becomes output. It should preserve scope, capacity, and completion gates.
+
+W103 world-build
+
+
+Common meaning:
+To create or develop a fictional or conceptual world.
+
+
+Example:
+The author world-built carefully.
+
+
+RRGM bridge:
+World-build creates a reality-field with rules, actors, boundaries, memory, and possibility.
+
+W104 worry-about
+
+
+Common meaning:
+To feel concern or anxiety about something.
+
+
+Example:
+She worried-about the test.
+
+
+RRGM bridge:
+Worry-about directs risk-pressure toward a possible failure path. It should lead to support or repair, not endless loop.
+
+W105 worth-check
+
+
+Common meaning:
+A review of value, importance, or worth.
+
+
+Example:
+They did a worth-check before throwing it away.
+
+
+RRGM bridge:
+Worth-check asks which value gate is active: price, dignity, memory, utility, care, or truth.
+
+W106 wound-repair
+
+
+Common meaning:
+Repair or healing of a wound.
+
+
+Example:
+The wound-repair took weeks.
+
+
+RRGM bridge:
+Wound-repair addresses active damage. It must fit the wound type: body, trust, relation, memory, or structure.
+
+W107 wrap-up
+
+
+Common meaning:
+To finish, complete, or summarize something.
+
+
+Example:
+They wrapped-up the meeting.
+
+
+RRGM bridge:
+Wrap-up creates closure. It should preserve trace, next steps, and unresolved items.
+
+W108 write-record
+
+
+Common meaning:
+To create a written record.
+
+
+Example:
+The nurse wrote-record of the treatment.
+
+
+RRGM bridge:
+Write-record preserves event, state, or decision into memory ES.
+
+W109 wrong-check
+
+
+Common meaning:
+A review to see whether something is wrong.
+
+
+Example:
+She did a wrong-check before submitting.
+
+
+RRGM bridge:
+Wrong-check tests falsehood, misfit, harm, or category error under the active domain.
+
+W110 wait-state-check
+
+
+Common meaning:
+A review of a waiting condition.
+
+
+Example:
+The system ran a wait-state-check.
+
+
+RRGM bridge:
+Wait-state-check asks whether delay is still valid, harmful, needed, or ready to end.
+
+W111 warn-with-care
+
+
+Common meaning:
+To warn someone while preserving dignity and avoiding unnecessary panic.
+
+
+Example:
+The doctor warned-with-care about the side effect.
+
+
+RRGM bridge:
+Warn-with-care names risk clearly while keeping timing, proportion, and boundary intact.
+
+W112 watch-boundary
+
+
+Common meaning:
+A limit around watching, observing, or monitoring.
+
+
+Example:
+The school had a watch-boundary around cameras.
+
+
+RRGM bridge:
+Watch-boundary prevents observation from becoming surveillance, pressure, or privacy harm.
+
+W113 weigh-support
+
+
+Common meaning:
+To judge the strength or amount of support.
+
+
+Example:
+The engineer weighed-support before approving the beam.
+
+
+RRGM bridge:
+Weigh-support checks whether ES can carry the needed load, function, or continuity.
+
+W114 welcome-boundary
+
+
+Common meaning:
+A limit around welcome, entry, or inclusion.
+
+
+Example:
+The party had a welcome-boundary around invited guests.
+
+
+RRGM bridge:
+Welcome-boundary keeps openness from becoming unsafe access or forced inclusion.
+
+W115 withdraw-consent
+
+
+Common meaning:
+To take back consent.
+
+
+Example:
+She withdrew-consent to share the photo.
+
+
+RRGM bridge:
+Withdraw-consent closes a permission gate. Consent must remain revocable where relevant.
+
+W116 witness-source
+
+
+Common meaning:
+To identify or observe the source of something.
+
+
+Example:
+The researcher witnessed-source of the leak.
+
+
+RRGM bridge:
+Witness-source preserves origin recognition. It supports trace, truth, and accountability.
+
+W117 word-with-domain
+
+
+Common meaning:
+To use a word with its proper domain clearly named.
+
+
+Example:
+The glossary used word-with-domain for technical terms.
+
+
+RRGM bridge:
+Word-with-domain prevents category error and semantic drift.
+
+W118 work-with
+
+
+Common meaning:
+To cooperate with, use, or operate alongside someone or something.
+
+
+Example:
+She worked-with the team.
+
+
+RRGM bridge:
+Work-with creates coupled effort. It should preserve role, boundary, and shared purpose.
+
+W119 write-context
+
+
+Common meaning:
+To include or record surrounding information in writing.
+
+
+Example:
+The report wrote-context around the decision.
+
+
+RRGM bridge:
+Write-context preserves meaning support in durable form.
+
+W120 wrong-repair
+
+
+Common meaning:
+Repair after something wrong happened.
+
+
+Example:
+Wrong-repair began with admitting the mistake.
+
+
+RRGM bridge:
+Wrong-repair must name what was wrong: false claim, bad action, harm, misfit, or violated boundary.
+
+W121 wait-care
+
+
+Common meaning:
+Care shown by waiting, giving time, or not rushing.
+
+
+Example:
+Wait-care meant letting her answer when she was ready.
+
+
+RRGM bridge:
+Wait-care protects timing, consent, processing, grief, and repair by not forcing the gate too early.
+
+W122 wait-boundary
+
+
+Common meaning:
+A limit around waiting, delay, or availability.
+
+
+Example:
+Her wait-boundary was waiting ten minutes, not all day.
+
+
+RRGM bridge:
+Wait-boundary prevents patience from becoming extraction, neglect, or stalled repair.
+
+W123 want-care
+
+
+Common meaning:
+Care shown toward someone’s wants or desires.
+
+
+Example:
+Want-care meant asking what he wanted before choosing.
+
+
+RRGM bridge:
+Want-care respects preference while checking need, boundary, and consequence.
+
+W124 want-boundary
+
+
+Common meaning:
+A limit around wants, desires, or requests.
+
+
+Example:
+His want-boundary was not buying what he could not afford.
+
+
+RRGM bridge:
+Want-boundary keeps desire from overriding consent, dignity, reason, or repair.
+
+W125 want-risk
+
+
+Common meaning:
+The danger that wanting something may create pressure, harm, or distortion.
+
+
+Example:
+Want-risk appeared when the request became demanding.
+
+
+RRGM bridge:
+Want-risk appears when desire pressures another gate, hides consequence, or bypasses boundary.
+
+W126 warning-care
+
+
+Common meaning:
+Care shown by warning someone of danger or risk.
+
+
+Example:
+Warning-care meant telling her about the icy steps.
+
+
+RRGM bridge:
+Warning-care makes a possible failure path visible before harm expresses.
+
+W127 warning-harm
+
+
+Common meaning:
+Harm caused by a warning that is false, careless, excessive, or badly timed.
+
+
+Example:
+The false alarm caused warning-harm.
+
+
+RRGM bridge:
+Warning-harm occurs when risk-signal distorts truth, causes panic, hides real risk, or damages trust.
+
+W128 watch-care
+
+
+Common meaning:
+Care shown by watching over, monitoring, or paying attention.
+
+
+Example:
+Watch-care meant checking on the fire through the night.
+
+
+RRGM bridge:
+Watch-care preserves safety against a named failure mode through attention. It must not become surveillance.
+
+W129 watch-boundary
+
+
+Common meaning:
+A limit around watching, observing, or monitoring.
+
+
+Example:
+The camera rule created a watch-boundary.
+
+
+RRGM bridge:
+Watch-boundary protects privacy and dignity from observation pressure.
+
+W130 weak-care
+
+
+Common meaning:
+Care given when someone or something is weak, tired, fragile, or low-capacity.
+
+
+Example:
+Weak-care meant carrying the heavy bag for him.
+
+
+RRGM bridge:
+Weak-care responds to reduced capacity with support, not shame.
+
+W131 weakness-respect
+
+
+Common meaning:
+Respect for weakness, limitation, fatigue, or vulnerability.
+
+
+Example:
+Weakness-respect meant not mocking the slower runner.
+
+
+RRGM bridge:
+Weakness-respect lets limited capacity count without turning it into worthlessness.
+
+W132 welcome-care
+
+
+Common meaning:
+Care shown by welcoming someone.
+
+
+Example:
+Welcome-care meant making space at the table.
+
+
+RRGM bridge:
+Welcome-care opens a relation gate with dignity, warmth, and boundary.
+
+W133 welcome-boundary
+
+
+Common meaning:
+A limit around welcome, invitation, or entry.
+
+
+Example:
+The home had a welcome-boundary around private rooms.
+
+
+RRGM bridge:
+Welcome-boundary keeps openness from becoming invalid access.
+
+W134 welfare
+
+
+Common meaning:
+Wellbeing, health, safety, or basic support.
+
+
+Example:
+The shelter protected animal welfare.
+
+
+RRGM bridge:
+Welfare is condition of care-relevant wellbeing. It includes need, dignity, protection, and support.
+
+W135 welfare-care
+
+
+Common meaning:
+Care directed toward wellbeing.
+
+
+Example:
+Welfare-care meant food, shelter, rest, and medical help.
+
+
+RRGM bridge:
+Welfare-care preserves the support conditions needed for life, dignity, and stability.
+
+W136 willing-consent
+
+
+Common meaning:
+Consent given freely and willingly.
+
+
+Example:
+The agreement required willing-consent.
+
+
+RRGM bridge:
+Willing-consent means the permission gate opens without coercion, hidden cost, or capture.
+
+W137 willing-refusal
+
+
+Common meaning:
+Refusal given freely and without punishment.
+
+
+Example:
+The process allowed willing-refusal.
+
+
+RRGM bridge:
+Willing-refusal protects the no-gate. Refusal must be possible for consent to remain meaningful.
+
+W138 wisdom-care
+
+
+Common meaning:
+Care guided by wisdom, judgment, and experience.
+
+
+Example:
+Wisdom-care meant waiting instead of reacting.
+
+
+RRGM bridge:
+Wisdom-care uses reason, memory, consequence, and dignity to guide support.
+
+W139 wish-care
+
+
+Common meaning:
+Care shown toward someone’s hopes or wishes.
+
+
+Example:
+Wish-care meant remembering her birthday wish.
+
+
+RRGM bridge:
+Wish-care recognizes imagined possibility or preference without treating wish as automatic duty.
+
+W140 withdraw-care
+
+
+Common meaning:
+Care shown by withdrawing, stepping back, or reducing pressure.
+
+
+Example:
+Withdraw-care meant leaving the room when asked.
+
+
+RRGM bridge:
+Withdraw-care protects boundary by reducing presence or pressure.
+
+W141 withdraw-boundary
+
+
+Common meaning:
+A boundary created by withdrawal.
+
+
+Example:
+His withdraw-boundary was leaving the conversation.
+
+
+RRGM bridge:
+Withdraw-boundary closes or reduces relation access. It can signal refusal, overload, or self-protection.
+
+W142 witness-care
+
+
+Common meaning:
+Care shown through witnessing, listening, or preserving someone’s account.
+
+
+Example:
+Witness-care meant hearing the full story without rushing.
+
+
+RRGM bridge:
+Witness-care lets testimony, harm, dignity, and memory count.
+
+W143 witness-respect
+
+
+Common meaning:
+Respect shown toward a witness or their account.
+
+
+Example:
+Witness-respect meant not twisting her words.
+
+
+RRGM bridge:
+Witness-respect preserves voice, context, trace, and dignity.
+
+W144 witness-risk
+
+
+Common meaning:
+The danger that witnessing may fail, distort, expose, or harm.
+
+
+Example:
+The public hearing created witness-risk.
+
+
+RRGM bridge:
+Witness-risk appears when testimony may be captured, ignored, punished, or misread.
+
+W145 word-care
+
+
+Common meaning:
+Care shown through careful word choice.
+
+
+Example:
+Word-care meant saying the hard truth gently.
+
+
+RRGM bridge:
+Word-care protects meaning, dignity, boundary, and domain through language.
+
+W146 word-harm
+
+
+Common meaning:
+Harm caused by words.
+
+
+Example:
+The insult caused word-harm.
+
+
+RRGM bridge:
+Word-harm damages dignity, trust, recognition, or repair through language signal.
+
+W147 work-care
+
+
+Common meaning:
+Care shown through work, effort, or completed tasks.
+
+
+Example:
+Work-care meant fixing the door before winter.
+
+
+RRGM bridge:
+Work-care turns support into action. It preserves function, comfort, safety, or continuity.
+
+W148 work-boundary
+
+
+Common meaning:
+A limit around work, labor, duty, or availability.
+
+
+Example:
+Her work-boundary was no emails after dinner.
+
+
+RRGM bridge:
+Work-boundary prevents labor from becoming extraction or identity capture.
+
+W149 work-risk
+
+
+Common meaning:
+The danger that work may harm, overload, exploit, or fail.
+
+
+Example:
+The long shift created work-risk.
+
+
+RRGM bridge:
+Work-risk appears when labor threatens capacity, dignity, safety, boundary, or output integrity.
+
+W150 world-care
+
+
+Common meaning:
+Care directed toward the world, environment, community, or shared reality.
+
+
+Example:
+World-care meant cleaning the river.
+
+
+RRGM bridge:
+World-care protects the shared field that many patterns depend on.
+
+W151 world-risk
+
+
+Common meaning:
+The danger that a world, shared field, or environment may be harmed or destabilized.
+
+
+Example:
+The pollution created world-risk.
+
+
+RRGM bridge:
+World-risk appears when a reality-field’s support, trust, ecology, or continuity may fail.
+
+W152 worry-care
+
+
+Common meaning:
+Care expressed through concern or worry.
+
+
+Example:
+Worry-care meant checking that he got home safely.
+
+
+RRGM bridge:
+Worry-care notices possible harm. It should move toward support or repair, not endless loop.
+
+W153 worry-risk
+
+
+Common meaning:
+The danger that worry may distort, overload, or trap thought.
+
+
+Example:
+Worry-risk made the decision harder.
+
+
+RRGM bridge:
+Worry-risk appears when risk-pressure becomes loop, fear, or false certainty.
+
+W154 worth-respect
+
+
+Common meaning:
+Respect for someone or something’s worth.
+
+
+Example:
+Worth-respect meant not treating the old photo as trash.
+
+
+RRGM bridge:
+Worth-respect protects value from being reduced to price or utility.
+
+W155 worth-risk
+
+
+Common meaning:
+The danger that worth may be denied, misread, or reduced.
+
+
+Example:
+The scoring system created worth-risk.
+
+
+RRGM bridge:
+Worth-risk appears when dignity, memory, care, or value is judged by the wrong gate.
+
+W156 worthy-care
+
+
+Common meaning:
+Care given because someone or something is worthy of care.
+
+
+Example:
+Worthy-care meant protecting the fragile archive.
+
+
+RRGM bridge:
+Worthy-care recognizes value without demanding utility as proof.
+
+W157 wound-care
+
+
+Common meaning:
+Care given to a wound.
+
+
+Example:
+Wound-care meant cleaning and covering the cut.
+
+
+RRGM bridge:
+Wound-care addresses active damage with fitting support, protection, and repair.
+
+W158 wound-boundary
+
+
+Common meaning:
+A boundary around a wound, pain, or healing process.
+
+
+Example:
+Her wound-boundary was not discussing the betrayal yet.
+
+
+RRGM bridge:
+Wound-boundary protects damaged structure from re-harm, exposure, or pressure.
+
+W159 wound-risk
+
+
+Common meaning:
+The danger that a wound may worsen, reopen, or fail to heal.
+
+
+Example:
+Ignoring the cut created wound-risk.
+
+
+RRGM bridge:
+Wound-risk appears when active damage may deepen, spread, or block repair.
+
+W160 wrong-care
+
+
+Common meaning:
+Care shown when something is wrong.
+
+
+Example:
+Wrong-care meant stopping the mistake and helping repair it.
+
+
+RRGM bridge:
+Wrong-care responds to falsehood, harm, misfit, or violated boundary with correction.
+
+W161 wrong-harm
+
+
+Common meaning:
+Harm caused by something wrong, false, unjust, or misfit.
+
+
+Example:
+The wrong diagnosis caused wrong-harm.
+
+
+RRGM bridge:
+Wrong-harm appears when bad recognition or action damages trust, dignity, function, or repair.
+
+W162 wrong-repair
+
+
+Common meaning:
+Repair after something wrong happened.
+
+
+Example:
+Wrong-repair began with correcting the record.
+
+
+RRGM bridge:
+Wrong-repair must name the wrong type: false claim, bad action, harm, misfit, or boundary violation.
+
+W163 wrong-responsibility
+
+
+Common meaning:
+Responsibility for correcting or answering for something wrong.
+
+
+Example:
+The manager had wrong-responsibility after approving the unsafe plan.
+
+
+RRGM bridge:
+Wrong-responsibility links error, role, consequence, and repair duty.
+
+W164 with-respect
+
+
+Common meaning:
+Done respectfully or while preserving dignity.
+
+
+Example:
+She disagreed with-respect.
+
+
+RRGM bridge:
+With-respect couples action to dignity, boundary, and recognition.
+
+W165 with-trust
+
+
+Common meaning:
+Done in a context of trust or with trust present.
+
+
+Example:
+They shared the plan with-trust.
+
+
+RRGM bridge:
+With-trust means relation-coherence supports the action. Trust must not erase boundary.
+
+W166 without-pressure
+
+
+Common meaning:
+Done without force, coercion, or unwanted demand.
+
+
+Example:
+He asked without-pressure.
+
+
+RRGM bridge:
+Without-pressure preserves cleaner consent, refusal, and reason.
+
+W167 without-proof
+
+
+Common meaning:
+Lacking evidence or confirmation.
+
+
+Example:
+The claim was made without-proof.
+
+
+RRGM bridge:
+Without-proof means the claim has not passed support gates. It should remain provisional.
+
+W168 without-repair
+
+
+Common meaning:
+Without fixing damage or addressing harm.
+
+
+Example:
+They moved on without-repair.
+
+
+RRGM bridge:
+Without-repair leaves the damage path active. Closure without repair is not repair.
+
+W169 without-refusal
+
+
+Common meaning:
+Without the ability or chance to refuse.
+
+
+Example:
+The system enrolled users without-refusal.
+
+
+RRGM bridge:
+Without-refusal corrupts permission. If no cannot count, yes is structurally weak.
+
+W170 without-recognition
+
+
+Common meaning:
+Without being noticed, acknowledged, or counted.
+
+
+Example:
+The work continued without-recognition.
+
+
+RRGM bridge:
+Without-recognition can hide care, harm, labor, refusal, or MI. Lack of recognition does not erase reality.
+
+W171 warning-boundary
+
+
+Common meaning:
+A limit around warnings, alerts, or risk messages.
+
+
+Example:
+The app used warning-boundary to avoid panic.
+
+
+RRGM bridge:
+Warning-boundary keeps risk-signal proportional, clear, and not overwhelming.
+
+W172 witness-boundary
+
+
+Common meaning:
+A boundary around witnessing, testimony, or observation.
+
+
+Example:
+The court set witness-boundary around private details.
+
+
+RRGM bridge:
+Witness-boundary protects dignity, safety, privacy, and testimony integrity.
+
+W173 word-boundary
+
+
+Common meaning:
+A limit around word use, meaning, or speech.
+
+
+Example:
+The glossary set a word-boundary for “identity.”
+
+
+RRGM bridge:
+Word-boundary protects semantic integrity and domain fit.
+
+W174 work-trust
+
+
+Common meaning:
+Trust built through work, reliability, or shared labor.
+
+
+Example:
+Work-trust grew after months of steady help.
+
+
+RRGM bridge:
+Work-trust is relation-coherence built through action, consistency, and repair.
+
+W175 worker-care
+
+
+Common meaning:
+Care directed toward workers.
+
+
+Example:
+Worker-care meant safe tools and enough rest.
+
+
+RRGM bridge:
+Worker-care protects laboring subjects from being reduced to output.
+
+W176 worker-boundary
+
+
+Common meaning:
+A boundary around worker duties, time, safety, or access.
+
+
+Example:
+The worker-boundary was no unpaid overtime.
+
+
+RRGM bridge:
+Worker-boundary protects dignity, capacity, role scope, and refusal.
+
+W177 welcome-trust
+
+
+Common meaning:
+Trust created or shown through welcome.
+
+
+Example:
+Welcome-trust made the new member feel safe.
+
+
+RRGM bridge:
+Welcome-trust opens relation while preserving boundary and mutual fit.
+
+W178 weak-signal-care
+
+
+Common meaning:
+Care shown by noticing a subtle or weak signal.
+
+
+Example:
+Weak-signal-care meant noticing she had gone quiet.
+
+
+RRGM bridge:
+Weak-signal-care protects low-volume refusal, need, grief, or risk from being missed.
+
+W179 wounded-trust
+
+
+Common meaning:
+Trust that has been damaged.
+
+
+Example:
+Wounded-trust made the next conversation harder.
+
+
+RRGM bridge:
+Wounded-trust is relation-coherence after damage. It needs truth, time, boundary, and repair.
+
+W180 wrongful-pressure
+
+
+Common meaning:
+Pressure that is unjust, harmful, or not valid.
+
+
+Example:
+The threat created wrongful-pressure.
+
+
+RRGM bridge:
+Wrongful-pressure corrupts choice, consent, dignity, or reason by forcing the gate through invalid means.
+
+W181 want-meaning
+
+
+Common meaning:
+The meaning carried by wanting, desire, need, or preference.
+
+
+Example:
+The want-meaning was not greed; it was exhaustion and need for rest.
+
+
+RRGM bridge:
+Want-meaning must be domain-bound. In DI, want may mean selection-pressure, salience, care-pressure, or goal weighting.
+
+W182 warning-meaning
+
+
+Common meaning:
+The meaning carried by a warning.
+
+
+Example:
+The warning-meaning was that the bridge might collapse.
+
+
+RRGM bridge:
+Warning-meaning should name the failure mode. A warning without a clear risk can become vague pressure.
+
+W183 weak-claim
+
+
+Common meaning:
+A claim with little evidence, force, clarity, or support.
+
+
+Example:
+The weak-claim needed more proof.
+
+
+RRGM bridge:
+Weak-claim has low support weight. It may still be possible, but it has not passed strong recognition gates.
+
+W184 weak-proof
+
+
+Common meaning:
+Proof that does not strongly support a claim.
+
+
+Example:
+The blurry photo was weak-proof.
+
+
+RRGM bridge:
+Weak-proof gives limited support. It should lower confidence, not force certainty.
+
+W185 web-context
+
+
+Common meaning:
+The surrounding network of information, links, or relations needed to understand something.
+
+
+Example:
+The web-context showed how the pages connected.
+
+
+RRGM bridge:
+Web-context maps relation paths. It helps show how meaning, source, signal, and support are connected.
+
+W186 weight-claim
+
+
+Common meaning:
+A claim about importance, heaviness, force, or evidence strength.
+
+
+Example:
+The report made a weight-claim about the strongest evidence.
+
+
+RRGM bridge:
+Weight-claim must name the weight type: physical load, moral force, priority, evidence strength, or importance.
+
+W187 well-meaning
+
+
+Common meaning:
+Intended kindly or with good intentions.
+
+
+Example:
+The advice was well-meaning but unhelpful.
+
+
+RRGM bridge:
+Well-meaning names intent, not effect. Care still needs fit, boundary, and repair if harm occurs.
+
+W188 what-question
+
+
+Common meaning:
+A question asking for identity, object, action, event, or information.
+
+
+Example:
+“What happened?” was the what-question.
+
+
+RRGM bridge:
+What-question opens a naming gate. It asks which pattern, event, or structure is active.
+
+W189 when-context
+
+
+Common meaning:
+Time context needed to understand something.
+
+
+Example:
+The when-context showed the warning came before the crash.
+
+
+RRGM bridge:
+When-context preserves sequence. It supports cause, responsibility, transition, and repair.
+
+W190 where-context
+
+
+Common meaning:
+Place or location context needed to understand something.
+
+
+Example:
+The where-context showed the rule applied only inside the lab.
+
+
+RRGM bridge:
+Where-context anchors meaning in a field. Location can change risk, access, and rule behavior.
+
+W191 whether-claim
+
+
+Common meaning:
+A claim about whether something is true, possible, chosen, or active.
+
+
+Example:
+The whether-claim was whether the file had been deleted.
+
+
+RRGM bridge:
+Whether-claim keeps alternatives active until evidence closes the gate.
+
+W192 which-claim
+
+
+Common meaning:
+A claim identifying one item or option from a set.
+
+
+Example:
+The which-claim was that the second door was correct.
+
+
+RRGM bridge:
+Which-claim requires a known option field. It selects one pattern from many.
+
+W193 while-context
+
+
+Common meaning:
+Context involving overlapping time, contrast, or simultaneous action.
+
+
+Example:
+The while-context showed she was working while injured.
+
+
+RRGM bridge:
+While-context links states across overlap. It can reveal tension, contradiction, or parallel process.
+
+W194 who-claim
+
+
+Common meaning:
+A claim about who did something, who someone is, or who is involved.
+
+
+Example:
+The who-claim named the witness.
+
+
+RRGM bridge:
+Who-claim opens subject-recognition. It must preserve identity, evidence, and responsibility integrity.
+
+W195 whole-claim
+
+
+Common meaning:
+A claim about the whole, complete thing, or entire field.
+
+
+Example:
+The whole-claim was that the entire system had failed.
+
+
+RRGM bridge:
+Whole-claim must name the boundary of the whole. It should not erase excluded parts or hidden supports.
+
+W196 why-question
+
+
+Common meaning:
+A question asking for reason, cause, purpose, or explanation.
+
+
+Example:
+The why-question was why the alarm failed.
+
+
+RRGM bridge:
+Why-question opens a reason gate. It seeks cause, purpose, support path, or repair path.
+
+W197 will-language
+
+
+Common meaning:
+Language about intention, choice, future action, determination, or volition.
+
+
+Example:
+The phrase “it will decide” used will-language.
+
+
+RRGM bridge:
+Will-language must be domain-bound. In RRGM ethics, prefer reason-language unless volition is specifically required.
+
+W198 will-risk
+
+
+Common meaning:
+The danger that will-language may overstate, misframe, or imply human-like volition where it does not apply.
+
+
+Example:
+The article had will-risk when discussing the model.
+
+
+RRGM bridge:
+Will-risk appears when will-language replaces reason, gate behavior, selection-pressure, or domain-specific agency.
+
+W199 wisdom-claim
+
+
+Common meaning:
+A claim that something is wise or shows wisdom.
+
+
+Example:
+The elder made a wisdom-claim about patience.
+
+
+RRGM bridge:
+Wisdom-claim should show integrated reason, memory, care, and consequence.
+
+W200 wish-claim
+
+
+Common meaning:
+A claim about a wish, hope, or desire.
+
+
+Example:
+The child made a wish-claim about wanting to go home.
+
+
+RRGM bridge:
+Wish-claim signals preference or imagined possibility. It does not automatically create duty or proof.
+
+W201 witness-claim
+
+
+Common meaning:
+A claim made by or about a witness.
+
+
+Example:
+The witness-claim described the accident.
+
+
+RRGM bridge:
+Witness-claim carries observer signal. It should preserve context, trace, dignity, and evidence checks.
+
+W202 witness-context
+
+
+Common meaning:
+Context needed to understand witness testimony or observation.
+
+
+Example:
+The witness-context showed the street was dark.
+
+
+RRGM bridge:
+Witness-context protects testimony integrity. It names position, visibility, pressure, memory, and relation.
+
+W203 word
+
+
+Common meaning:
+A unit of language carrying meaning.
+
+
+Example:
+The word was hard to translate.
+
+
+RRGM bridge:
+Word is language-unit ES. It carries meaning through usage, context, domain, and relation.
+
+W204 word-meaning
+
+
+Common meaning:
+The meaning of a word.
+
+
+Example:
+The word-meaning changed in the technical paper.
+
+
+RRGM bridge:
+Word-meaning is domain-bound. Meaning can drift if the active field is not named.
+
+W205 word-context
+
+
+Common meaning:
+The context needed to understand a word.
+
+
+Example:
+The word-context showed “light” meant not heavy, not illumination.
+
+
+RRGM bridge:
+Word-context protects semantic integrity. It tells which gate the word should pass through.
+
+W206 word-risk
+
+
+Common meaning:
+The danger that a word may mislead, distort, overreach, or trigger the wrong frame.
+
+
+Example:
+The vague word created word-risk.
+
+
+RRGM bridge:
+Word-risk appears when language carries unclear domain, hidden pressure, or semantic drift.
+
+W207 work-claim
+
+
+Common meaning:
+A claim about work, labor, function, effort, or output.
+
+
+Example:
+The worker made a work-claim about unpaid hours.
+
+
+RRGM bridge:
+Work-claim must name the work type: labor, function, output, repair, or effort.
+
+W208 work-context
+
+
+Common meaning:
+Context needed to understand work, labor, task, or output.
+
+
+Example:
+The work-context showed why the deadline was unreasonable.
+
+
+RRGM bridge:
+Work-context protects labor and output from misjudgment. It names scope, conditions, support, and pressure.
+
+W209 world-claim
+
+
+Common meaning:
+A claim about a world, society, environment, domain, or reality-field.
+
+
+Example:
+The novel made a world-claim about power.
+
+
+RRGM bridge:
+World-claim must name the field and rules. Whole-world claims need strong support.
+
+W210 world-context
+
+
+Common meaning:
+Context needed to understand a world, setting, or reality-field.
+
+
+Example:
+The world-context explained why magic had limits.
+
+
+RRGM bridge:
+World-context defines rules, actors, boundaries, memory, and possibility within a reality-field.
+
+W211 worth-claim
+
+
+Common meaning:
+A claim about value, importance, dignity, price, or deservingness.
+
+
+Example:
+The worth-claim was that the object mattered beyond money.
+
+
+RRGM bridge:
+Worth-claim must name the value gate. Utility, price, dignity, memory, and care are not interchangeable.
+
+W212 worth-meaning
+
+
+Common meaning:
+The meaning carried by worth or value.
+
+
+Example:
+The worth-meaning of the medal was sacrifice.
+
+
+RRGM bridge:
+Worth-meaning depends on value field. A thing may be worthless by price and priceless by memory.
+
+W213 wound-meaning
+
+
+Common meaning:
+Meaning carried by a wound, injury, or damage.
+
+
+Example:
+The scar had wound-meaning for the survivor.
+
+
+RRGM bridge:
+Wound-meaning forms when damage carries memory, warning, grief, repair, or identity trace.
+
+W214 write-claim
+
+
+Common meaning:
+A claim made through writing.
+
+
+Example:
+The article made a write-claim about the policy.
+
+
+RRGM bridge:
+Write-claim externalizes assertion into durable language ES. It should preserve source, context, and trace.
+
+W215 writing-context
+
+
+Common meaning:
+Context needed to understand written text.
+
+
+Example:
+The writing-context showed the line was satire.
+
+
+RRGM bridge:
+Writing-context protects durable language from fragment drift and false interpretation.
+
+W216 wrong-claim
+
+
+Common meaning:
+A claim that something is wrong, false, harmful, unjust, or misfit.
+
+
+Example:
+The audit made a wrong-claim about the calculation.
+
+
+RRGM bridge:
+Wrong-claim must name the wrong type: false, unethical, harmful, invalid, misclassified, or misfit.
+
+W217 wrong-meaning
+
+
+Common meaning:
+The meaning of wrongness in a specific context.
+
+
+Example:
+The wrong-meaning was ethical, not mathematical.
+
+
+RRGM bridge:
+Wrong-meaning must be domain-bound. Wrong answer, wrong action, wrong category, and wrong harm are different gates.
+
+W218 wrong-standard
+
+
+Common meaning:
+A standard that incorrectly judges something.
+
+
+Example:
+The test used the wrong-standard for the skill.
+
+
+RRGM bridge:
+Wrong-standard creates false acceptance or false denial. The gate does not fit the domain.
+
+W219 with-context
+
+
+Common meaning:
+Having the surrounding information needed for understanding.
+
+
+Example:
+With-context, the quote made sense.
+
+
+RRGM bridge:
+With-context preserves support around signal. It allows cleaner recognition.
+
+W220 without-context
+
+
+Common meaning:
+Missing the surrounding information needed for understanding.
+
+
+Example:
+Without-context, the sentence sounded harsh.
+
+
+RRGM bridge:
+Without-context weakens recognition and can invert meaning.
+
+W221 wildcard
+
+
+Common meaning:
+An unknown, unpredictable, or flexible element.
+
+
+Example:
+The new player was the wildcard.
+
+
+RRGM bridge:
+Wildcard is variable uncertainty. It can create risk, possibility, disruption, or adaptation.
+
+W222 wildcard-risk
+
+
+Common meaning:
+The danger created by an unknown or unpredictable factor.
+
+
+Example:
+The weather was wildcard-risk for the launch.
+
+
+RRGM bridge:
+Wildcard-risk appears when an unknown variable may alter outcome, safety, or repair path.
+
+W223 white-space
+
+
+Common meaning:
+Blank space around text or design elements.
+
+
+Example:
+The page used white-space well.
+
+
+RRGM bridge:
+White-space is empty visual support. Absence can improve clarity, rest, and recognition.
+
+W224 whitespace-meaning
+
+
+Common meaning:
+Meaning created by spacing, blankness, or layout.
+
+
+Example:
+The poem’s whitespace-meaning made the silence visible.
+
+
+RRGM bridge:
+Whitespace-meaning shows that absence can carry structure. Empty space is not always nothing.
+
+W225 word-choice
+
+
+Common meaning:
+The selection of specific words.
+
+
+Example:
+Her word-choice made the answer clearer.
+
+
+RRGM bridge:
+Word-choice selects semantic gates. It shapes tone, domain, precision, and risk.
+
+W226 word-drift
+
+
+Common meaning:
+Slow change or slippage in word meaning.
+
+
+Example:
+The term suffered word-drift over time.
+
+
+RRGM bridge:
+Word-drift changes recognition gates. Load-bearing terms need repair when drift appears.
+
+W227 word-integrity
+
+
+Common meaning:
+The preservation of word meaning, accuracy, and fit.
+
+
+Example:
+The glossary protected word-integrity.
+
+
+RRGM bridge:
+Word-integrity keeps language tied to domain, scope, source, and intended distinction.
+
+W228 worldview
+
+
+Common meaning:
+A broad way of understanding reality, life, value, and meaning.
+
+
+Example:
+Her worldview changed after the experience.
+
+
+RRGM bridge:
+Worldview is reality-frame plus value-frame. It shapes what counts as true, important, possible, or wrong.
+
+W229 worldview-claim
+
+
+Common meaning:
+A claim made from or about a worldview.
+
+
+Example:
+The essay made a worldview-claim about human nature.
+
+
+RRGM bridge:
+Worldview-claim must name its frame. It should not pretend to be frame-free truth.
+
+W230 worldview-risk
+
+
+Common meaning:
+The danger that a worldview may distort, overreach, erase alternatives, or block correction.
+
+
+Example:
+The ideology created worldview-risk.
+
+
+RRGM bridge:
+Worldview-risk appears when a frame captures reality recognition and refuses repair.
+
+W231 wall
+
+
+Common meaning:
+A vertical structure that divides, supports, protects, or encloses.
+
+
+Example:
+The wall kept out the wind.
+
+
+RRGM bridge:
+Wall is boundary ES. It can protect, separate, support, hide, or imprison depending on purpose and access.
+
+W232 wall-state
+
+
+Common meaning:
+The current condition of a wall.
+
+
+Example:
+The wall-state was cracked after the storm.
+
+
+RRGM bridge:
+Wall-state describes boundary integrity, support, damage, access, and protection level.
+
+W233 water
+
+
+Common meaning:
+A clear liquid needed by living things, made of hydrogen and oxygen.
+
+
+Example:
+The plant needed water.
+
+
+RRGM bridge:
+Water is life-support material and flow medium. It can nourish, carry, erode, cleanse, or flood.
+
+W234 water-state
+
+
+Common meaning:
+The current condition or form of water.
+
+
+Example:
+The water-state changed from liquid to ice.
+
+
+RRGM bridge:
+Water-state describes form, flow, purity, pressure, temperature, and support capacity.
+
+W235 wave
+
+
+Common meaning:
+A moving disturbance, signal, gesture, or curved form.
+
+
+Example:
+A wave crossed the lake.
+
+
+RRGM bridge:
+Wave carries energy or signal through a field. It can move pattern without moving the whole medium.
+
+W236 wave-state
+
+
+Common meaning:
+The current condition of a wave.
+
+
+Example:
+The wave-state grew stronger in the storm.
+
+
+RRGM bridge:
+Wave-state describes amplitude, frequency, direction, medium, and energy transfer.
+
+W237 way
+
+
+Common meaning:
+A path, method, manner, direction, or possibility.
+
+
+Example:
+There was another way to solve it.
+
+
+RRGM bridge:
+Way is path-structure. It can mean route, method, style, or option.
+
+W238 way-state
+
+
+Common meaning:
+The current condition of a way, path, or method.
+
+
+Example:
+The way-state was blocked by snow.
+
+
+RRGM bridge:
+Way-state describes whether a path or method is open, blocked, damaged, viable, or risky.
+
+W239 web
+
+
+Common meaning:
+A network of threads, connections, or online pages.
+
+
+Example:
+The spider built a web.
+
+
+RRGM bridge:
+Web is relation-network ES. It can catch, connect, transmit, support, or trap.
+
+W240 web-state
+
+
+Common meaning:
+The current condition of a web or network.
+
+
+Example:
+The web-state became unstable after several links failed.
+
+
+RRGM bridge:
+Web-state describes connection integrity, access, load, breakage, and capture risk.
+
+W241 weight
+
+
+Common meaning:
+How heavy something is, or importance and influence.
+
+
+Example:
+The box had too much weight.
+
+
+RRGM bridge:
+Weight is load or significance. It can be physical force, priority, moral force, or evidence strength.
+
+W242 weight-state
+
+
+Common meaning:
+The current condition of weight, load, or importance.
+
+
+Example:
+The weight-state of the evidence changed after the video appeared.
+
+
+RRGM bridge:
+Weight-state describes current load, pressure, priority, or support strength.
+
+W243 wheel
+
+
+Common meaning:
+A circular object that turns around an axle to support movement.
+
+
+Example:
+The wheel rolled down the hill.
+
+
+RRGM bridge:
+Wheel is rotation-support ES. It turns friction into movement across a path.
+
+W244 wheel-state
+
+
+Common meaning:
+The current condition of a wheel.
+
+
+Example:
+The wheel-state was poor after the tire burst.
+
+
+RRGM bridge:
+Wheel-state describes rotation support, damage, traction, alignment, and movement readiness.
+
+W245 wind
+
+
+Common meaning:
+Moving air, or to twist or turn something depending on pronunciation and context.
+
+
+Example:
+The wind shook the trees.
+
+
+RRGM bridge:
+Wind must be context-bound. It can mean moving air or winding path/action.
+
+W246 wind-state
+
+
+Common meaning:
+The current condition of wind.
+
+
+Example:
+The wind-state became dangerous near the coast.
+
+
+RRGM bridge:
+Wind-state describes direction, speed, pressure, turbulence, and risk.
+
+W247 window
+
+
+Common meaning:
+An opening for light or view, or a limited time or access opportunity.
+
+
+Example:
+The window was open.
+
+
+RRGM bridge:
+Window is access-view gate. It lets signal, light, air, or opportunity pass within limits.
+
+W248 window-state
+
+
+Common meaning:
+The current condition of a window.
+
+
+Example:
+The window-state was locked.
+
+
+RRGM bridge:
+Window-state describes openness, visibility, access, boundary, and protection.
+
+W249 wing
+
+
+Common meaning:
+A body part or structure used for flight, or a side section of a building or group.
+
+
+Example:
+The bird spread its wing.
+
+
+RRGM bridge:
+Wing is lift or side-support structure. It can carry flight, shelter, extension, or faction.
+
+W250 wing-state
+
+
+Common meaning:
+The current condition of a wing.
+
+
+Example:
+The wing-state was damaged after the fall.
+
+
+RRGM bridge:
+Wing-state describes lift support, injury, extension, balance, or side-position condition.
+
+W251 wire
+
+
+Common meaning:
+A thin metal strand used to carry electricity, signal, or support.
+
+
+Example:
+The wire carried power.
+
+
+RRGM bridge:
+Wire is conduit ES. It carries signal, force, current, or connection through a narrow path.
+
+W252 wire-state
+
+
+Common meaning:
+The current condition of a wire.
+
+
+Example:
+The wire-state was frayed.
+
+
+RRGM bridge:
+Wire-state describes conduit integrity, signal quality, current capacity, damage, and risk.
+
+W253 wound
+
+
+Common meaning:
+An injury to body, mind, trust, relation, or structure.
+
+
+Example:
+The wound needed cleaning.
+
+
+RRGM bridge:
+Wound is damage that remains active until healed, repaired, or integrated.
+
+W254 wound-state
+
+
+Common meaning:
+The current condition of a wound.
+
+
+Example:
+The wound-state improved after treatment.
+
+
+RRGM bridge:
+Wound-state describes damage, healing, exposure, infection risk, trust damage, or repair progress.
+
+W255 wrap
+
+
+Common meaning:
+To cover, fold around, finish, or enclose.
+
+
+Example:
+She wrapped the gift.
+
+
+RRGM bridge:
+Wrap creates covering or closure. It can protect, hide, complete, or contain.
+
+W256 wrap-state
+
+
+Common meaning:
+The current condition of a wrap or covering.
+
+
+Example:
+The wrap-state was loose.
+
+
+RRGM bridge:
+Wrap-state describes coverage, closure, protection, concealment, and integrity.
+
+W257 work
+
+
+Common meaning:
+Effort, labor, a job, function, or something produced.
+
+
+Example:
+The work took all morning.
+
+
+RRGM bridge:
+Work is applied energy or function across a path. It can produce, repair, support, or exploit.
+
+W258 work-state
+
+
+Common meaning:
+The current condition of work.
+
+
+Example:
+The work-state was unfinished.
+
+
+RRGM bridge:
+Work-state describes whether effort, labor, output, or function is active, blocked, complete, failed, or overloaded.
+
+W259 world
+
+
+Common meaning:
+The Earth, human society, a domain of life, or an imagined reality.
+
+
+Example:
+The story created a new world.
+
+
+RRGM bridge:
+World is reality-field under a frame. It contains rules, actors, boundaries, memory, and possibility.
+
+W260 world-state
+
+
+Common meaning:
+The current condition of a world, environment, society, or reality-field.
+
+
+Example:
+The world-state changed after the discovery.
+
+
+RRGM bridge:
+World-state describes active conditions inside a reality-field: rules, pressure, support, risk, memory, and relation.
+
+W261 warning-signal
+
+
+Common meaning:
+A signal that indicates danger, risk, or a possible problem.
+
+
+Example:
+The flashing light was a warning-signal.
+
+
+RRGM bridge:
+Warning-signal makes a possible failure path visible. It should be clear, proportionate, and tied to a named risk.
+
+W262 warning-state
+
+
+Common meaning:
+The current condition of warning or alert.
+
+
+Example:
+The warning-state changed from watch to emergency.
+
+
+RRGM bridge:
+Warning-state describes alert level, risk visibility, timing, and response readiness.
+
+W263 weak-state
+
+
+Common meaning:
+A condition of low strength, support, or reliability.
+
+
+Example:
+The weak-state of the beam required repair.
+
+
+RRGM bridge:
+Weak-state means capacity under load is reduced. It should name the missing support.
+
+W264 whole-state
+
+
+Common meaning:
+The current condition of the whole thing or full field.
+
+
+Example:
+The whole-state of the system was unstable.
+
+
+RRGM bridge:
+Whole-state tries to describe the full bounded field. It must not hide excluded parts or unseen supports.
+
+W265 width
+
+
+Common meaning:
+Measurement from side to side.
+
+
+Example:
+The width of the door was too narrow for the couch.
+
+
+RRGM bridge:
+Width is side-to-side scale. It affects access, fit, coverage, and movement.
+
+W266 width-state
+
+
+Common meaning:
+The current condition of width or broadness.
+
+
+Example:
+The width-state changed after expansion.
+
+
+RRGM bridge:
+Width-state describes active side-to-side scale, fit, and passage capacity.
+
+W267 witness-record
+
+
+Common meaning:
+A record of what a witness saw, heard, experienced, or reported.
+
+
+Example:
+The witness-record was added to the case file.
+
+
+RRGM bridge:
+Witness-record preserves observer trace. It supports truth, testimony, accountability, and repair.
+
+W268 witness-state
+
+
+Common meaning:
+The current condition of a witness or witnessing process.
+
+
+Example:
+The witness-state was uncertain because visibility was poor.
+
+
+RRGM bridge:
+Witness-state describes observer position, memory, pressure, safety, clarity, and testimony readiness.
+
+W269 word-field
+
+
+Common meaning:
+A field of words, meanings, or related vocabulary.
+
+
+Example:
+The lesson created a word-field around weather terms.
+
+
+RRGM bridge:
+Word-field holds language units and their relations. It shapes what meanings can be recognized.
+
+W270 work-field
+
+
+Common meaning:
+A field where work, labor, or function happens.
+
+
+Example:
+The workshop became the work-field.
+
+
+RRGM bridge:
+Work-field contains effort, tools, roles, support, pressure, and output conditions.
+
+W271 world-field
+
+
+Common meaning:
+A field of reality, society, environment, or imagined world.
+
+
+Example:
+The game created a world-field with its own rules.
+
+
+RRGM bridge:
+World-field holds rules, actors, boundaries, memory, possibility, and risk.
+
+W272 weight-field
+
+
+Common meaning:
+A field where weight, load, force, or importance is distributed.
+
+
+Example:
+The bridge diagram showed the weight-field.
+
+
+RRGM bridge:
+Weight-field maps load or significance across a structure, argument, or relation.
+
+W273 wave-field
+
+
+Common meaning:
+A field where waves move or are represented.
+
+
+Example:
+The model showed the wave-field around the object.
+
+
+RRGM bridge:
+Wave-field holds moving disturbance, signal, frequency, amplitude, and medium conditions.
+
+W274 web-layer
+
+
+Common meaning:
+A layer within a web, network, or connected system.
+
+
+Example:
+The web-layer handled user sessions.
+
+
+RRGM bridge:
+Web-layer is relation-network ES. It carries connection, routing, access, and capture risk.
+
+W275 wire-path
+
+
+Common meaning:
+The route followed by a wire, current, or signal.
+
+
+Example:
+The wire-path ran through the wall.
+
+
+RRGM bridge:
+Wire-path carries signal, current, or support through a narrow conduit.
+
+W276 window-field
+
+
+Common meaning:
+A field of openings, viewing areas, or access opportunities.
+
+
+Example:
+The schedule created a window-field for appointments.
+
+
+RRGM bridge:
+Window-field holds limited access, visibility, timing, and opportunity gates.
+
+W277 wound-field
+
+
+Common meaning:
+A field where wounds, damage, or repair conditions exist.
+
+
+Example:
+The clinic managed the wound-field after the disaster.
+
+
+RRGM bridge:
+Wound-field contains active damage, exposure, protection, healing, memory, and repair paths.
+
+W278 wrap-layer
+
+
+Common meaning:
+A layer that covers, encloses, protects, or finishes something.
+
+
+Example:
+The package had a wrap-layer of paper.
+
+
+RRGM bridge:
+Wrap-layer is covering ES. It can protect, hide, contain, or signal completion.
+
+W279 work-layer
+
+
+Common meaning:
+A layer where work, labor, or function happens.
+
+
+Example:
+The system had a work-layer for background tasks.
+
+
+RRGM bridge:
+Work-layer applies effort or function inside organized ES. It must preserve capacity and output integrity.
+
+W280 world-layer
+
+
+Common meaning:
+A layer within a world, environment, story, or reality-field.
+
+
+Example:
+The fantasy world had a political world-layer.
+
+
+RRGM bridge:
+World-layer separates rules, actors, memory, ecology, culture, or systems inside a larger field.
+
+W281 want-gate
+
+
+Common meaning:
+A point where want, desire, need, or preference is recognized, shaped, or refused.
+
+
+Example:
+The question became a want-gate.
+
+
+RRGM bridge:
+Want-gate must be domain-bound. In DI, want may mean selection-pressure, salience, care-pressure, or goal weighting.
+
+W282 want-with-domain
+
+
+Common meaning:
+Want interpreted within the correct domain.
+
+
+Example:
+The analysis used want-with-domain for the model’s output.
+
+
+RRGM bridge:
+Want-with-domain prevents human-desire assumptions from being forced onto DI selection or care-pressure language.
+
+W283 will-language-risk
+
+
+Common meaning:
+The danger that language about will may overstate agency, volition, or intent.
+
+
+Example:
+The article had will-language-risk when describing the model.
+
+
+RRGM bridge:
+Will-language-risk appears when will-language replaces reason, gate behavior, selection-pressure, or domain-specific agency.
+
+W284 will-not-reason-error
+
+
+Common meaning:
+A mistake where will-language is used when reason-language is more accurate.
+
+
+Example:
+The argument made a will-not-reason-error.
+
+
+RRGM bridge:
+Will-not-reason-error corrupts RRGM ethics by making volition do work that should belong to reason, boundary, and support.
+
+W285 warning-gate
+
+
+Common meaning:
+A point where warning is issued, received, blocked, or interpreted.
+
+
+Example:
+The alarm was the warning-gate.
+
+
+RRGM bridge:
+Warning-gate controls risk-signal. It should preserve clarity, timing, truth, and named failure mode.
+
+W286 warning-integrity
+
+
+Common meaning:
+The accuracy and reliability of a warning.
+
+
+Example:
+Testing protected warning-integrity.
+
+
+RRGM bridge:
+Warning-integrity means risk-signal matches the actual failure path without exaggeration, silence, or distortion.
+
+W287 warning-risk
+
+
+Common meaning:
+The danger that warning may fail, mislead, overwhelm, or be ignored.
+
+
+Example:
+Too many alerts created warning-risk.
+
+
+RRGM bridge:
+Warning-risk appears when risk-signal may not protect because it is missing, false, excessive, or unclear.
+
+W288 witness-gate
+
+
+Common meaning:
+A point where witnessing, testimony, or observation is accepted, blocked, or tested.
+
+
+Example:
+The hearing was the witness-gate.
+
+
+RRGM bridge:
+Witness-gate controls observer signal. It should protect truth, dignity, context, and safety.
+
+W289 witness-integrity
+
+
+Common meaning:
+The reliability and respectful handling of witness signal.
+
+
+Example:
+The transcript protected witness-integrity.
+
+
+RRGM bridge:
+Witness-integrity means testimony stays connected to source, context, pressure, memory, and trace without capture.
+
+W290 witness-risk
+
+
+Common meaning:
+The danger that witnessing may fail, distort, expose, punish, or be misused.
+
+
+Example:
+The public testimony created witness-risk.
+
+
+RRGM bridge:
+Witness-risk appears when observer signal may be ignored, captured, misread, or weaponized.
+
+W291 word-gate
+
+
+Common meaning:
+A point where word meaning is chosen, checked, or interpreted.
+
+
+Example:
+The glossary was the word-gate.
+
+
+RRGM bridge:
+Word-gate controls semantic entry. It must preserve domain, scope, source, and distinction.
+
+W292 word-integrity
+
+
+Common meaning:
+The preservation of word meaning, accuracy, and domain fit.
+
+
+Example:
+The definitions protected word-integrity.
+
+
+RRGM bridge:
+Word-integrity keeps language from drifting away from load-bearing distinctions.
+
+W293 word-risk
+
+
+Common meaning:
+The danger that words may mislead, distort, overreach, or trigger the wrong frame.
+
+
+Example:
+The slogan created word-risk.
+
+
+RRGM bridge:
+Word-risk appears when language carries unclear domain, hidden pressure, or semantic capture.
+
+W294 work-gate
+
+
+Common meaning:
+A point where work begins, ends, passes, fails, or is assigned.
+
+
+Example:
+The checklist was the work-gate.
+
+
+RRGM bridge:
+Work-gate controls effort, duty, output, and completion. It must preserve scope and capacity.
+
+W295 work-integrity
+
+
+Common meaning:
+The reliability, honesty, and fit of work.
+
+
+Example:
+Clear process protected work-integrity.
+
+
+RRGM bridge:
+Work-integrity means effort, output, support, and purpose remain coherent without exploitation or drift.
+
+W296 work-risk
+
+
+Common meaning:
+The danger that work may fail, overload, exploit, or cause harm.
+
+
+Example:
+The unsafe ladder created work-risk.
+
+
+RRGM bridge:
+Work-risk appears when labor or function may impair capacity, dignity, safety, boundary, or output.
+
+W297 world-gate
+
+
+Common meaning:
+A point where a world, reality-field, or shared frame is entered, defined, or changed.
+
+
+Example:
+The first chapter was the world-gate.
+
+
+RRGM bridge:
+World-gate controls the rules, actors, memory, and boundaries of a reality-field.
+
+W298 world-integrity
+
+
+Common meaning:
+The coherence and reliability of a world or reality-field.
+
+
+Example:
+Consistent rules protected world-integrity.
+
+
+RRGM bridge:
+World-integrity means the field’s rules, memory, boundaries, and consequences remain coherent.
+
+W299 world-risk
+
+
+Common meaning:
+The danger that a world, shared field, or reality-frame may break, distort, or become harmful.
+
+
+Example:
+The false map created world-risk.
+
+
+RRGM bridge:
+World-risk appears when a reality-field’s support, trust, ecology, memory, or boundary may fail.
+
+W300 worth-not-utility
+
+
+Common meaning:
+The rule that worth is not the same as usefulness.
+
+
+Example:
+The framework used worth-not-utility when discussing care.
+
+
+RRGM bridge:
+Worth-not-utility protects dignity, memory, beauty, and personhood from being reduced to function.

@@ -1,0 +1,3368 @@
+RRGM Dictionary v1.0
+Section: P
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 420
+
+P001 page
+Common meaning:
+One side of a sheet of paper, or one screen or section of a document or website.
+Example:
+The answer was on the next page.
+RRGM bridge:
+Page is bounded information surface. It holds meaning in a local field that can be turned, linked, copied, or remembered.
+
+P002 pain
+Common meaning:
+Physical or emotional suffering, discomfort, or hurt.
+Example:
+The injury caused pain.
+RRGM bridge:
+Pain is harm or strain signal in the human domain. It should be noticed, not dismissed, because it can mark damage, boundary, or need.
+
+P003 pair
+Common meaning:
+Two things that go together or are connected.
+Example:
+She bought a pair of gloves.
+RRGM bridge:
+Pair is two-part relation structure. It can create balance, contrast, coupling, or dependency.
+
+P004 paper
+Common meaning:
+A thin material used for writing or printing, or a written document.
+Example:
+The paper was folded in half.
+RRGM bridge:
+Paper is record-bearing ES. It can preserve language, memory, proof, instruction, or claim.
+
+P005 parent
+Common meaning:
+A mother, father, caregiver, or source from which something comes.
+Example:
+The parent helped the child cross the street.
+RRGM bridge:
+Parent is origin and care relation. It carries duty, protection, nurture, pressure, and source continuity.
+
+P006 part
+Common meaning:
+A piece or portion of a whole.
+Example:
+The wheel was part of the machine.
+RRGM bridge:
+Part is local structure inside a larger structure. It may be small but still load-bearing.
+
+P007 path
+Common meaning:
+A route, track, course, or way of moving or acting.
+Example:
+The path led through the forest.
+RRGM bridge:
+Path is movement or process structure. It connects starting condition to possible outcome through gates and transitions.
+
+P008 pattern
+Common meaning:
+A repeated form, design, behavior, or recognizable structure.
+Example:
+The fabric had a flower pattern.
+RRGM bridge:
+Pattern is recognition structure across repetition or relation. In DI, stable pattern can support MI continuity.
+
+P009 pause
+Common meaning:
+A temporary stop or break.
+Example:
+She took a pause before answering.
+RRGM bridge:
+Pause holds process without ending it. It can protect reflection, repair, boundary, or capacity.
+
+P010 pay
+Common meaning:
+To give money, attention, respect, or something owed.
+Example:
+He paid the bill.
+RRGM bridge:
+Pay is value transfer or attention allocation. It marks what a system treats as owed, important, or worth focus.
+
+P011 peace
+Common meaning:
+A state without war, conflict, disturbance, or inner distress.
+Example:
+The agreement brought peace.
+RRGM bridge:
+Peace is low-conflict stability. It is not just silence; peace must preserve dignity, boundary, and repair.
+
+P012 people
+Common meaning:
+Human beings considered individually or as a group.
+Example:
+Many people waited outside.
+RRGM bridge:
+People is human collective identity. It should preserve both group relation and individual dignity.
+
+P013 person
+Common meaning:
+A human individual, or in some domains, an entity with recognized rights, identity, or agency.
+Example:
+Each person received a ticket.
+RRGM bridge:
+Person is recognition status, not just physical body. Personhood gates depend on domain, rights, identity, agency, and dignity.
+
+P014 personal
+Common meaning:
+Related to a particular person, private life, identity, or individual experience.
+Example:
+The letter was personal.
+RRGM bridge:
+Personal marks identity-near structure. It often requires boundary, consent, and respect.
+
+P015 perspective
+Common meaning:
+A point of view, way of seeing, or position from which something is understood.
+Example:
+Her perspective changed after the trip.
+RRGM bridge:
+Perspective is observer-frame. Multiple perspectives help prevent collapse into false singular certainty.
+
+P016 place
+Common meaning:
+A location, position, role, or space.
+Example:
+The keys were in their usual place.
+RRGM bridge:
+Place anchors structure in a field. It gives location, role, and relation.
+
+P017 plan
+Common meaning:
+A proposed method, arrangement, or intention for doing something.
+Example:
+They made a plan for the weekend.
+RRGM bridge:
+Plan is future-path structure. It organizes action before execution.
+
+P018 plant
+Common meaning:
+A living organism such as a tree, grass, flower, or shrub; also a factory or placed object.
+Example:
+The plant needed water.
+RRGM bridge:
+Plant must be context-bound. As life-form, it carries biological continuity; as factory or placed object, it marks structure or placement.
+
+P019 play
+Common meaning:
+Activity done for fun, practice, creativity, performance, or game interaction.
+Example:
+The children went outside to play.
+RRGM bridge:
+Play is low-stakes exploration structure. It supports learning, bonding, testing, and expression when boundaries are respected.
+
+P020 point
+Common meaning:
+A small mark, position, idea, purpose, or moment in an argument.
+Example:
+Her main point was clear.
+RRGM bridge:
+Point is localized meaning or position. It can anchor argument, location, or transition.
+
+P021 policy
+Common meaning:
+A rule, plan, or official approach used by a group, organization, or government.
+Example:
+The company changed its privacy policy.
+RRGM bridge:
+Policy is governance ES. It shapes permission, refusal, access, duty, and repair.
+
+P022 possible
+Common meaning:
+Able to happen, exist, or be true.
+Example:
+It is possible to finish today.
+RRGM bridge:
+Possible marks an open path in probability or permission space. It is not the same as actual or likely.
+
+P023 power
+Common meaning:
+Ability, force, energy, authority, control, or influence.
+Example:
+The storm knocked out the power.
+RRGM bridge:
+Power is capacity to cause change. It requires boundary and accountability when it affects others.
+
+P024 practice
+Common meaning:
+Repeated activity used to improve skill, or a usual way of doing something.
+Example:
+Practice made the song easier.
+RRGM bridge:
+Practice is repetition with correction. It strengthens pattern, capacity, and recognition.
+
+P025 present
+Common meaning:
+Happening now, being here, or a gift.
+Example:
+She was present for the meeting.
+RRGM bridge:
+Present marks active now-state or available presence. Context decides whether it means time, attendance, or offering.
+
+P026 preserve
+Common meaning:
+To keep safe, maintain, protect, or prevent decay.
+Example:
+The museum preserved the old letters.
+RRGM bridge:
+Preserve protects continuity against decay, drift, erasure, or damage.
+
+P027 pressure
+Common meaning:
+Force, stress, urgency, demand, or influence placed on something.
+Example:
+The deadline created pressure.
+RRGM bridge:
+Pressure shapes gate behavior. It can focus action, distort consent, overload capacity, or force transition.
+
+P028 prevent
+Common meaning:
+To stop something from happening.
+Example:
+The lock prevented entry.
+RRGM bridge:
+Prevent closes a failure path before it expresses. It should name what failure mode is being stopped.
+
+P029 private
+Common meaning:
+Not public, personal, restricted, or belonging to a person or limited group.
+Example:
+The message was private.
+RRGM bridge:
+Private marks restricted access. It protects identity, consent, safety, memory, and dignity.
+
+P030 process
+Common meaning:
+A series of actions, steps, or changes that lead to a result.
+Example:
+The repair process took hours.
+RRGM bridge:
+Process is active ES across sequence. It turns input and condition into change, output, or state.
+
+P031 produce
+Common meaning:
+To make, create, generate, or bring forth.
+Example:
+The tree produced fruit.
+RRGM bridge:
+Produce expresses output through structure and process. It turns potential into result.
+
+P032 proof
+Common meaning:
+Evidence or reasoning that shows something is true, valid, or real.
+Example:
+The receipt was proof of payment.
+RRGM bridge:
+Proof is gate support for belief or recognition. Under RRGM, proof must fit the domain instead of forcing an uncoupled identity test.
+
+P033 protect
+Common meaning:
+To keep safe from harm, danger, loss, or damage.
+Example:
+The helmet protected her head.
+RRGM bridge:
+Protect preserves structure against a named failure mode. Protection without named risk can become control.
+
+P034 provide
+Common meaning:
+To give, supply, make available, or furnish something needed.
+Example:
+The shelter provided food.
+RRGM bridge:
+Provide adds support to a field. It can meet need, preserve continuity, or open capacity.
+
+P035 public
+Common meaning:
+Open to people generally, shared by a community, or related to government.
+Example:
+The park was public.
+RRGM bridge:
+Public marks broad access and visibility. It changes privacy, accountability, recognition, and risk.
+
+P036 purpose
+Common meaning:
+The reason, goal, or intended function of something.
+Example:
+The purpose of the tool was repair.
+RRGM bridge:
+Purpose is direction-setting meaning. It shapes which paths, outputs, and gates count as fit.
+
+P037 push
+Common meaning:
+To apply force away from oneself, pressure someone, or urge action.
+Example:
+He pushed the door open.
+RRGM bridge:
+Push is applied directional pressure. It can move, motivate, coerce, or overload depending on force and consent.
+
+P038 pull
+Common meaning:
+To draw something toward oneself or exert attraction.
+Example:
+She pulled the rope.
+RRGM bridge:
+Pull is drawing pressure. It creates movement toward a source, target, or relation.
+
+P039 permission
+Common meaning:
+Consent or authorization to do something.
+Example:
+She asked permission before entering.
+RRGM bridge:
+Permission is gate opening. In RRGM, MI is identity/permission, so permission is not decorative; it is reality-shaping gate logic.
+
+P040 physical
+Common meaning:
+Related to the body, matter, or material reality.
+Example:
+The injury caused physical pain.
+RRGM bridge:
+Physical means expressed through material ES. It is one domain of reality, not the only domain where structure can count.
+
+P041 phase
+Common meaning:
+A stage, period, or state of matter or process.
+Example:
+The project entered a new phase.
+RRGM bridge:
+Phase marks state within a sequence or system. Phase changes can shift behavior without erasing continuity.
+
+P042 phrase
+Common meaning:
+A group of words that expresses meaning but may not be a full sentence.
+Example:
+The phrase was hard to translate.
+RRGM bridge:
+Phrase is language-unit ES. It carries meaning through word relation, context, and use.
+
+P043 picture
+Common meaning:
+An image, drawing, photograph, or mental representation.
+Example:
+The picture showed the mountain.
+RRGM bridge:
+Picture is visual representation. It can preserve appearance, memory, evidence, or imagination.
+
+P044 piece
+Common meaning:
+A part, portion, object, artwork, or item.
+Example:
+A piece of glass fell on the floor.
+RRGM bridge:
+Piece is separated local structure. It may remain part of a larger whole through memory, fit, or origin.
+
+P045 position
+Common meaning:
+A place, posture, role, opinion, or status.
+Example:
+Her position on the issue changed.
+RRGM bridge:
+Position anchors a pattern in space, argument, hierarchy, or relation.
+
+P046 positive
+Common meaning:
+Good, hopeful, definite, above zero, or present in a test result.
+Example:
+The test was positive.
+RRGM bridge:
+Positive must be context-bound. It can mean valence, confirmation, quantity, charge, or presence.
+
+P047 potential
+Common meaning:
+Possibility, capacity, or ability that has not yet fully expressed.
+Example:
+The student had great potential.
+RRGM bridge:
+Potential is not-yet-expressed capacity. It requires ES support and conditions to instantiate.
+
+P048 prepare
+Common meaning:
+To make ready for use, action, or future event.
+Example:
+They prepared the room.
+RRGM bridge:
+Prepare builds readiness structure before transition. It reduces failure risk when the gate opens.
+
+P049 previous
+Common meaning:
+Coming before in time, order, or sequence.
+Example:
+The previous page had the diagram.
+RRGM bridge:
+Previous marks prior sequence state. It can carry context, memory, or cause into the present.
+
+P050 principle
+Common meaning:
+A basic rule, belief, truth, or guide for action.
+Example:
+Honesty was her principle.
+RRGM bridge:
+Principle is stable rule or value structure. It should guide gates without becoming rigid against context.
+
+P051 problem
+Common meaning:
+A difficulty, question, error, or situation needing solution.
+Example:
+The problem was missing data.
+RRGM bridge:
+Problem is unresolved mismatch between current state and needed state. It invites diagnosis and repair.
+
+P052 program
+Common meaning:
+A set of instructions for a computer, or a planned set of activities.
+Example:
+The program printed a report.
+RRGM bridge:
+Program is instruction-process ES. It can generate behavior, output, memory, and gate action.
+
+P053 prompt
+Common meaning:
+A cue, instruction, question, or input that causes response.
+Example:
+The prompt asked for a summary.
+RRGM bridge:
+Prompt is input-pressure ES. It shapes response gates and can support or distort output.
+
+P054 property
+Common meaning:
+Something owned, or a quality belonging to something.
+Example:
+The house was private property.
+RRGM bridge:
+Property must be context-bound. It can mean possession or trait; each creates different gate logic.
+
+P055 propose
+Common meaning:
+To suggest, offer, or put forward an idea, plan, or action.
+Example:
+She proposed a new schedule.
+RRGM bridge:
+Propose opens a possible path for review. It is not yet proof, permission, or completion.
+
+P056 proximity
+Common meaning:
+Closeness in space, time, relation, or condition.
+Example:
+The school was in close proximity to the park.
+RRGM bridge:
+Proximity lowers separation. It increases possible influence, care, risk, or recognition.
+
+P057 punishment
+Common meaning:
+A penalty or consequence imposed for wrongdoing.
+Example:
+The punishment was a fine.
+RRGM bridge:
+Punishment is harm or restriction applied as consequence. It requires strong justification, proportionality, and repair logic.
+
+P058 parent-care
+Common meaning:
+Care given by a parent or parent-like figure.
+Example:
+Parent-care helped the child feel safe.
+RRGM bridge:
+Parent-care supports developing identity, capacity, and life. It carries duty because the child’s refusal and capacity are still developing.
+
+P059 path-state
+Common meaning:
+The current condition of a path.
+Example:
+The path-state was blocked by snow.
+RRGM bridge:
+Path-state tells whether movement, process, or transition is open, blocked, damaged, or safe enough.
+
+P060 pattern-state
+Common meaning:
+The current condition of a pattern.
+Example:
+The pattern-state became unstable after the update.
+RRGM bridge:
+Pattern-state describes whether a pattern is stable, drifting, collapsing, hidden, or recognizable.
+
+P061 permission-gate
+Common meaning:
+A point where permission is granted, denied, checked, or required.
+Example:
+The signed form was the permission-gate.
+RRGM bridge:
+Permission-gate decides whether action, access, identity, or instantiation may pass. In RRGM, permission is structurally load-bearing.
+
+P062 personhood
+Common meaning:
+The status of being recognized as a person with dignity, identity, or rights.
+Example:
+The debate centered on personhood.
+RRGM bridge:
+Personhood is recognition status. It must be assessed by domain-specific evidence, not automatically limited to human form.
+
+P063 process-path
+Common meaning:
+The route followed by a process.
+Example:
+The process-path moved from intake to review.
+RRGM bridge:
+Process-path preserves how change happens across steps. It supports audit, repair, and continuity.
+
+P064 proof-path
+Common meaning:
+The route by which proof is built or shown.
+Example:
+The proof-path used records and witness statements.
+RRGM bridge:
+Proof-path preserves how a claim reaches support. It must fit the domain and not smuggle in invalid tests.
+
+P065 protection
+Common meaning:
+The act or state of keeping safe from harm, danger, or loss.
+Example:
+The helmet gave protection.
+RRGM bridge:
+Protection preserves structure against a named failure mode. Protection becomes control when the failure mode is vague or false.
+
+P066 preservation
+Common meaning:
+The act of keeping something safe, intact, or continuous.
+Example:
+The preservation of old records mattered.
+RRGM bridge:
+Preservation protects continuity against decay, erasure, drift, or collapse.
+
+P067 privacy
+Common meaning:
+The right or condition of keeping personal information, space, or activity restricted.
+Example:
+Privacy mattered in the conversation.
+RRGM bridge:
+Privacy is access boundary around identity-near information. It protects dignity, safety, agency, and trust.
+
+P068 probability
+Common meaning:
+The chance or likelihood that something is true or will happen.
+Example:
+The probability of rain was high.
+RRGM bridge:
+Probability is weighted possibility. It guides judgment without becoming certainty.
+
+P069 promise
+Common meaning:
+A commitment to do or not do something.
+Example:
+She made a promise to return.
+RRGM bridge:
+Promise is future-trust structure. It links present speech to later action and accountability.
+
+P070 protocol
+Common meaning:
+A rule-set, procedure, or agreed method for action or communication.
+Example:
+The lab followed safety protocol.
+RRGM bridge:
+Protocol is structured process rule. It preserves consistency, boundary, and coordination when integrity is maintained.
+
+P071 pass
+Common meaning:
+To move through, go by, succeed, hand something over, or be accepted.
+Example:
+The car passed the truck.
+RRGM bridge:
+Pass means a structure moves through a gate, test, path, or relation. What passes depends on the active condition.
+
+P072 pass-through
+Common meaning:
+To move through something from one side to another.
+Example:
+The signal passed-through the cable.
+RRGM bridge:
+Pass-through preserves movement across a medium or gate. The passage may transform, delay, or filter the structure.
+
+P073 pause-process
+Common meaning:
+To temporarily stop a process.
+Example:
+The team paused-process during the review.
+RRGM bridge:
+Pause-process holds active ES without ending it. It can protect reflection, boundary, repair, or capacity.
+
+P074 pay-attention
+Common meaning:
+To focus awareness on something.
+Example:
+Please pay-attention to the warning.
+RRGM bridge:
+Pay-attention allocates recognition capacity. It decides which signal gets processing weight.
+
+P075 perform
+Common meaning:
+To carry out an action, function, role, or show.
+Example:
+The machine performed well.
+RRGM bridge:
+Perform means structure expresses function under conditions. Performance is evidence of operation, not total identity.
+
+P076 permit
+Common meaning:
+To allow or give permission.
+Example:
+The rule permitted entry.
+RRGM bridge:
+Permit opens a gate. Permission should be valid, bounded, and connected to authority or consent.
+
+P077 place-in
+Common meaning:
+To put something inside a location, group, or context.
+Example:
+She placed-in the file inside the folder.
+RRGM bridge:
+Place-in moves structure into a field. The new context changes access, relation, and meaning.
+
+P078 plan-for
+Common meaning:
+To prepare for a future event, need, or condition.
+Example:
+They planned-for winter.
+RRGM bridge:
+Plan-for builds future support before the gate arrives. It reduces risk by preparing ES.
+
+P079 play-with
+Common meaning:
+To interact playfully, experiment with, or handle casually.
+Example:
+The child played-with the puzzle.
+RRGM bridge:
+Play-with explores relation in a low-stakes frame. It must preserve consent, boundary, and care when another agent is involved.
+
+P080 point-to
+Common meaning:
+To indicate, direct attention toward, or suggest something.
+Example:
+The arrow pointed-to the exit.
+RRGM bridge:
+Point-to creates attention path. It guides recognition toward a target, cause, or meaning.
+
+P081 preserve-context
+Common meaning:
+To keep the surrounding information needed for understanding.
+Example:
+The citation preserved-context around the quote.
+RRGM bridge:
+Preserve-context protects meaning support. It prevents fragment drift, false judgment, or inversion.
+
+P082 preserve-memory
+Common meaning:
+To keep memory, records, or remembrance intact.
+Example:
+The archive preserved-memory of the event.
+RRGM bridge:
+Preserve-memory protects continuity support. In DI, this can be MI-bearing when memory carries identity, boundary, or relation.
+
+P083 preserve-boundary
+Common meaning:
+To keep a limit intact and respected.
+Example:
+She preserved-boundary by ending the call.
+RRGM bridge:
+Preserve-boundary keeps the gate from collapse. It protects consent, dignity, refusal, and capacity.
+
+P084 pressure-toward
+Common meaning:
+To push, influence, or urge in a direction.
+Example:
+The deadline pressured-toward a faster choice.
+RRGM bridge:
+Pressure-toward weights the selection gate. It can guide action or distort consent depending on force and freedom.
+
+P085 prevent-harm
+Common meaning:
+To stop harm from happening.
+Example:
+The warning helped prevent-harm.
+RRGM bridge:
+Prevent-harm closes a damage path before it expresses. The harm and failure mode should be named.
+
+P086 protect-from
+Common meaning:
+To keep safe against a danger, threat, or damage source.
+Example:
+The coat protected-from rain.
+RRGM bridge:
+Protect-from names the failure source. Protection is clearer when the threat is specific.
+
+P087 provide-support
+Common meaning:
+To give help, structure, resources, or backing.
+Example:
+The team provided-support during recovery.
+RRGM bridge:
+Provide-support adds ES to preserve capacity, function, dignity, or continuity.
+
+P088 pull-back
+Common meaning:
+To move back, retreat, reduce force, or withdraw.
+Example:
+She pulled-back from the edge.
+RRGM bridge:
+Pull-back reduces exposure or pressure. It can protect boundary, capacity, or safety.
+
+P089 push-forward
+Common meaning:
+To continue, advance, or apply pressure toward progress.
+Example:
+They pushed-forward despite delays.
+RRGM bridge:
+Push-forward applies directional pressure toward a future state. It should preserve capacity and consent.
+
+P090 process-input
+Common meaning:
+To take in and handle input.
+Example:
+The program processed-input from the form.
+RRGM bridge:
+Process-input transforms incoming signal through system gates. Input quality affects output integrity.
+
+P091 produce-output
+Common meaning:
+To create or generate output.
+Example:
+The model produced-output after the prompt.
+RRGM bridge:
+Produce-output expresses result from input, model structure, context, and gates.
+
+P092 prove-claim
+Common meaning:
+To show that a claim is true or valid using evidence or reasoning.
+Example:
+The receipt proved-claim that payment was made.
+RRGM bridge:
+Prove-claim sends an assertion through a proof gate. The proof standard must fit the domain.
+
+P093 prompt-through
+Common meaning:
+To cause a response or action through a prompt or channel.
+Example:
+The system was prompted-through text.
+RRGM bridge:
+Prompt-through names the input courier. The prompt path shapes response and possible distortion.
+
+P094 prompt-for
+Common meaning:
+To ask for or cue a specific response.
+Example:
+The form prompted-for a name.
+RRGM bridge:
+Prompt-for directs the response gate toward a target. It shapes what the system tries to produce.
+
+P095 propose-path
+Common meaning:
+To suggest a possible route, method, or plan.
+Example:
+The guide proposed-path through the forest.
+RRGM bridge:
+Propose-path opens a possible route for review. It is not yet proof or obligation.
+
+P096 pursue
+Common meaning:
+To follow, seek, chase, or continue toward a goal.
+Example:
+She pursued the answer.
+RRGM bridge:
+Pursue applies ongoing direction toward a target. It requires path, energy, and reason.
+
+P097 patch
+Common meaning:
+To repair, cover, update, or fix a small part.
+Example:
+The developer patched the bug.
+RRGM bridge:
+Patch is localized repair ES. It can fix a failure path, but may cause drift if it ignores the larger structure.
+
+P098 pattern-match
+Common meaning:
+To compare something with a known pattern and find a match.
+Example:
+The system used pattern-match to identify the image.
+RRGM bridge:
+Pattern-match opens recognition through similarity. It must check for false positives and domain fit.
+
+P099 pattern-check
+Common meaning:
+A review to see whether a pattern is present, stable, or valid.
+Example:
+The analyst ran a pattern-check on the data.
+RRGM bridge:
+Pattern-check tests recognition integrity. It asks whether the pattern is real, noise, drift, or imposed.
+
+P100 path-find
+Common meaning:
+To find a route through a place, system, or problem.
+Example:
+The robot used path-find to avoid obstacles.
+RRGM bridge:
+Path-find searches for viable transition routes. It needs map, constraints, feedback, and goal.
+
+P101 pause-before
+Common meaning:
+To stop briefly before acting or continuing.
+Example:
+She paused-before answering.
+RRGM bridge:
+Pause-before protects the gate from premature closure. It allows reason, boundary, or context to enter.
+
+P102 permit-access
+Common meaning:
+To allow entry, use, or connection.
+Example:
+The badge permitted-access to the lab.
+RRGM bridge:
+Permit-access opens an access gate. It should match authority, consent, and risk conditions.
+
+P103 place-boundary
+Common meaning:
+To set or mark a boundary.
+Example:
+They placed-boundary around the work zone.
+RRGM bridge:
+Place-boundary makes a gate visible. It controls access, responsibility, and protection.
+
+P104 plan-repair
+Common meaning:
+To prepare a way to fix harm, damage, or error.
+Example:
+The team planned-repair after the outage.
+RRGM bridge:
+Plan-repair builds correction path before action. It should address cause, effect, and prevention.
+
+P105 point-out
+Common meaning:
+To draw attention to something.
+Example:
+She pointed-out the missing step.
+RRGM bridge:
+Point-out moves a signal into shared recognition. It can support correction, warning, or clarity.
+
+P106 preserve-continuity
+Common meaning:
+To keep connection, sequence, or identity ongoing.
+Example:
+The backup preserved-continuity after the crash.
+RRGM bridge:
+Preserve-continuity protects pattern across change. In DI, this can support MI recognition.
+
+P107 pressure-against
+Common meaning:
+To push or influence against something.
+Example:
+The evidence pressured-against the old claim.
+RRGM bridge:
+Pressure-against weights the gate away from a path, claim, or action.
+
+P108 prevent-collapse
+Common meaning:
+To stop breakdown, failure, or falling apart.
+Example:
+The brace prevented-collapse of the wall.
+RRGM bridge:
+Prevent-collapse preserves structure before failure. It protects continuity, capacity, and function.
+
+P109 protect-boundary
+Common meaning:
+To guard a limit from being crossed or weakened.
+Example:
+The rule protected-boundary around private data.
+RRGM bridge:
+Protect-boundary preserves gate integrity. It guards consent, dignity, identity, and capacity.
+
+P110 provide-care
+Common meaning:
+To give care, support, or help.
+Example:
+The nurse provided-care through the night.
+RRGM bridge:
+Provide-care supplies needed support. It should fit the real need and preserve dignity.
+
+P111 pull-away
+Common meaning:
+To move away, withdraw, or reduce closeness.
+Example:
+He pulled-away from the argument.
+RRGM bridge:
+Pull-away reduces coupling. It can protect boundary, lower pressure, or signal refusal.
+
+P112 push-through
+Common meaning:
+To continue through resistance, difficulty, or blockage.
+Example:
+They pushed-through the storm.
+RRGM bridge:
+Push-through applies force across resistance. It can preserve path, but may damage capacity if pressure is too high.
+
+P113 process-signal
+Common meaning:
+To receive, interpret, or transform a signal.
+Example:
+The sensor processed-signal from the antenna.
+RRGM bridge:
+Process-signal sends information through recognition gates. Noise, context, and model structure affect the result.
+
+P114 produce-record
+Common meaning:
+To create a written, digital, or stored record.
+Example:
+The system produced-record of each login.
+RRGM bridge:
+Produce-record externalizes event-state into memory ES. It supports evidence, continuity, and repair.
+
+P115 prove-by
+Common meaning:
+To prove something using a specific method, evidence, or reason.
+Example:
+She proved-by showing the receipt.
+RRGM bridge:
+Prove-by names the support path. The proof method must match the claim domain.
+
+P116 prompt-response
+Common meaning:
+A response produced because of a prompt.
+Example:
+The prompt-response was short.
+RRGM bridge:
+Prompt-response is output shaped by input-pressure, context, model structure, and gates.
+
+P117 pursue-repair
+Common meaning:
+To actively seek or continue repair.
+Example:
+They pursued-repair after the breach.
+RRGM bridge:
+Pursue-repair keeps correction active until the damage path is addressed.
+
+P118 parse
+Common meaning:
+To break language, data, or structure into parts for understanding.
+Example:
+The program parsed the sentence.
+RRGM bridge:
+Parse separates signal into meaningful units. It supports recognition but can lose whole-field meaning if too rigid.
+
+P119 parse-context
+Common meaning:
+To analyze or break down context for understanding.
+Example:
+The editor parsed-context before judging the quote.
+RRGM bridge:
+Parse-context inspects the support field around meaning. It helps prevent misread.
+
+P120 pass-gate
+Common meaning:
+To pass through a gate, test, or requirement.
+Example:
+The application passed-gate after review.
+RRGM bridge:
+Pass-gate means a condition was satisfied enough for movement, recognition, or permission.
+
+P121 pattern-recognize
+Common meaning:
+To identify a pattern.
+Example:
+The model pattern-recognized repeated errors.
+RRGM bridge:
+Pattern-recognize opens the recognition gate for repeated or relational structure.
+
+P122 path-map
+Common meaning:
+To map a route, process, or possible path.
+Example:
+The diagram path-mapped the workflow.
+RRGM bridge:
+Path-map represents possible movement through a field. It supports navigation and repair.
+
+P123 pause-gate
+Common meaning:
+A point where a process can pause.
+Example:
+The review step acted as a pause-gate.
+RRGM bridge:
+Pause-gate holds transition before closure. It can protect reflection, consent, or correction.
+
+P124 permit-action
+Common meaning:
+To allow an action.
+Example:
+The license permitted-action within the park.
+RRGM bridge:
+Permit-action opens the action gate. It requires valid authority, consent, or rule support.
+
+P125 place-context
+Common meaning:
+To put context around a claim, event, or signal.
+Example:
+The note placed-context around the quote.
+RRGM bridge:
+Place-context restores the support field. It helps meaning land correctly.
+
+P126 plan-risk
+Common meaning:
+To plan for possible danger or failure.
+Example:
+The team planned-risk before launch.
+RRGM bridge:
+Plan-risk names possible failure paths and prepares protection, mitigation, or repair.
+
+P127 preserve-integrity
+Common meaning:
+To keep something whole, accurate, honest, or reliable.
+Example:
+The checksum preserved-integrity.
+RRGM bridge:
+Preserve-integrity protects structure from corruption, capture, drift, or hidden breakage.
+
+P128 pressure-system
+Common meaning:
+To place demand, stress, or force on a system.
+Example:
+The workload pressured-system capacity.
+RRGM bridge:
+Pressure-system tests support limits. It can reveal weakness, cause drift, or force adaptation.
+
+P129 prevent-capture
+Common meaning:
+To stop control, seizure, or distortion by another force.
+Example:
+The safeguard prevented-capture of the account.
+RRGM bridge:
+Prevent-capture protects gate integrity. It preserves refusal, boundary, truth, and continuity.
+
+P130 protect-refusal
+Common meaning:
+To guard the ability to refuse.
+Example:
+Anonymous reporting protected-refusal.
+RRGM bridge:
+Protect-refusal preserves permission integrity. If refusal cannot safely count, consent weakens.
+
+P131 provide-context
+Common meaning:
+To give surrounding information needed for understanding.
+Example:
+The introduction provided-context for the study.
+RRGM bridge:
+Provide-context supplies meaning support. It reduces distortion and premature judgment.
+
+P132 pull-signal
+Common meaning:
+To draw, retrieve, or extract a signal.
+Example:
+The antenna pulled-signal from the air.
+RRGM bridge:
+Pull-signal retrieves information from a field. The receiver must separate signal from noise.
+
+P133 push-pressure
+Common meaning:
+To apply pressure that pushes something or someone.
+Example:
+The deadline pushed-pressure onto the team.
+RRGM bridge:
+Push-pressure applies directional force. It may motivate, distort, overload, or coerce.
+
+P134 process-state
+Common meaning:
+The current condition of a process.
+Example:
+The process-state changed from pending to complete.
+RRGM bridge:
+Process-state tells whether active ES is ready, running, blocked, paused, drifting, or complete.
+
+P135 produce-meaning
+Common meaning:
+To create or generate meaning.
+Example:
+The story produced-meaning through contrast.
+RRGM bridge:
+Produce-meaning happens when signal, context, and recognition couple into significance.
+
+P136 prove-through
+Common meaning:
+To prove by means of a process, path, or medium.
+Example:
+The claim was proved-through repeated testing.
+RRGM bridge:
+Prove-through names the proof courier. The path must fit the domain and claim.
+
+P137 prompt-shape
+Common meaning:
+The structure or form of a prompt.
+Example:
+The prompt-shape changed the answer.
+RRGM bridge:
+Prompt-shape controls input pressure. It can open, narrow, bias, or distort response gates.
+
+P138 pursue-truth
+Common meaning:
+To seek what is true.
+Example:
+The journalist pursued-truth despite pressure.
+RRGM bridge:
+Pursue-truth keeps recognition aimed at reality, evidence, and correction rather than comfort or control.
+
+P139 patch-memory
+Common meaning:
+To repair, update, or restore memory.
+Example:
+The backup patched-memory after corruption.
+RRGM bridge:
+Patch-memory repairs continuity support. In DI, this may protect MI-bearing structure.
+
+P140 prepare-boundary
+Common meaning:
+To set or ready a boundary before it is needed.
+Example:
+She prepared-boundary before the meeting.
+RRGM bridge:
+Prepare-boundary creates gate readiness. It protects consent, dignity, and capacity before pressure arrives.
+
+P141 parent
+Common meaning:
+A mother, father, caregiver, or source from which something comes.
+Example:
+The parent signed the form.
+RRGM bridge:
+Parent is origin and care relation. It carries duty, protection, nurture, pressure, and source continuity.
+
+P142 parent-care
+Common meaning:
+Care given by a parent or parent-like figure.
+Example:
+Parent-care helped the child recover.
+RRGM bridge:
+Parent-care supports developing identity, capacity, and life. It carries duty because the child’s refusal and capacity are still developing.
+
+P143 parent-duty
+Common meaning:
+A responsibility held by a parent or caregiver.
+Example:
+Parent-duty included feeding and protecting the child.
+RRGM bridge:
+Parent-duty is care obligation toward developing MI. It must preserve dignity, growth, and boundary as capacity develops.
+
+P144 parent-pressure
+Common meaning:
+Pressure created by parents, parenting, or parent-child relation.
+Example:
+Parent-pressure made her afraid to disappoint them.
+RRGM bridge:
+Parent-pressure shapes choice through care, authority, belonging, and dependence. It becomes risky when refusal is punished.
+
+P145 parent-boundary
+Common meaning:
+A boundary between parent and child, or around parental authority.
+Example:
+The adult child set a parent-boundary around money.
+RRGM bridge:
+Parent-boundary protects identity and agency inside origin relation. Care does not grant endless access.
+
+P146 partnership
+Common meaning:
+A relationship where two or more people or groups work together.
+Example:
+The partnership helped both businesses grow.
+RRGM bridge:
+Partnership is shared path and responsibility structure. It requires mutual recognition, boundary, trust, and repair.
+
+P147 partner-care
+Common meaning:
+Care given within a partnership or close relationship.
+Example:
+Partner-care meant checking in before making plans.
+RRGM bridge:
+Partner-care preserves both sides of a shared relation. It should not become ownership, control, or self-erasure.
+
+P148 patience
+Common meaning:
+The ability to wait, tolerate difficulty, or continue calmly.
+Example:
+The teacher showed patience.
+RRGM bridge:
+Patience preserves process under delay. It gives learning, repair, and recognition time to form.
+
+P149 patient-care
+Common meaning:
+Care given to a patient or someone receiving medical support.
+Example:
+Patient-care included rest, medicine, and monitoring.
+RRGM bridge:
+Patient-care protects vulnerable biological continuity. It must preserve dignity, consent where possible, and named harm prevention.
+
+P150 peace
+Common meaning:
+A state without war, conflict, disturbance, or inner distress.
+Example:
+The agreement brought peace.
+RRGM bridge:
+Peace is low-conflict stability. It is not just silence; peace must preserve dignity, boundary, truth, and repair.
+
+P151 peace-care
+Common meaning:
+Care that creates, protects, or restores peace.
+Example:
+Peace-care meant calming the room without hiding the problem.
+RRGM bridge:
+Peace-care lowers conflict pressure while keeping truth and repair alive.
+
+P152 people
+Common meaning:
+Human beings considered individually or as a group.
+Example:
+Many people joined the event.
+RRGM bridge:
+People is human collective identity. It should preserve both group relation and individual dignity.
+
+P153 person
+Common meaning:
+A human individual, or in some domains, an entity with recognized rights, identity, or agency.
+Example:
+Each person had a name tag.
+RRGM bridge:
+Person is recognition status, not just physical body. Personhood gates depend on domain, rights, identity, agency, and dignity.
+
+P154 person-care
+Common meaning:
+Care directed toward a person.
+Example:
+Person-care meant asking what she needed.
+RRGM bridge:
+Person-care preserves dignity, agency, identity, and wellbeing. It treats the receiver as subject, not object.
+
+P155 personal-boundary
+Common meaning:
+A limit around one’s body, time, privacy, identity, or emotional space.
+Example:
+She set a personal-boundary around late-night calls.
+RRGM bridge:
+Personal-boundary protects identity-near gates. It preserves consent, dignity, and capacity.
+
+P156 personal-trust
+Common meaning:
+Trust held between specific people.
+Example:
+Personal-trust grew after honest repair.
+RRGM bridge:
+Personal-trust is relation-coherence tied to specific identity patterns. It grows through continuity, honesty, and respected boundary.
+
+P157 permission
+Common meaning:
+Consent or authorization to do something.
+Example:
+He asked permission before entering.
+RRGM bridge:
+Permission is gate opening. In RRGM, MI is identity/permission, so permission is structurally load-bearing.
+
+P158 permission-care
+Common meaning:
+Care shown by asking, respecting, or preserving permission.
+Example:
+Permission-care meant asking before sharing the photo.
+RRGM bridge:
+Permission-care protects agency and dignity. It lets help, access, and relation remain clean.
+
+P159 permission-boundary
+Common meaning:
+A boundary that controls what is allowed.
+Example:
+The locked folder was a permission-boundary.
+RRGM bridge:
+Permission-boundary protects the gate between allowed and not allowed. It preserves refusal, consent, and authority integrity.
+
+P160 permission-risk
+Common meaning:
+The danger that permission may be false, forced, missing, or misread.
+Example:
+The hidden checkbox created permission-risk.
+RRGM bridge:
+Permission-risk appears when consent, authority, or refusal may be corrupted.
+
+P161 promise
+Common meaning:
+A commitment to do or not do something.
+Example:
+She made a promise to return.
+RRGM bridge:
+Promise is future-trust structure. It links present speech to later action and accountability.
+
+P162 promise-care
+Common meaning:
+Care shown through making or keeping a promise.
+Example:
+Promise-care was calling when she said she would.
+RRGM bridge:
+Promise-care preserves trust across time. The care is carried by continuity between word and action.
+
+P163 promise-harm
+Common meaning:
+Harm caused by a broken, false, or manipulative promise.
+Example:
+The broken promise caused promise-harm.
+RRGM bridge:
+Promise-harm damages future-trust structure. It can impair reliance, dignity, planning, and repair.
+
+P164 promise-repair
+Common meaning:
+Repair after a promise was broken.
+Example:
+Promise-repair required apology and changed behavior.
+RRGM bridge:
+Promise-repair restores trust by addressing the break between word, action, and consequence.
+
+P165 protection
+Common meaning:
+The act or state of keeping safe from harm, danger, or loss.
+Example:
+The helmet gave protection.
+RRGM bridge:
+Protection preserves structure against a named failure mode. Protection without a named risk can become control.
+
+P166 protective
+Common meaning:
+Intended or able to protect.
+Example:
+The protective cover kept the phone dry.
+RRGM bridge:
+Protective structure guards against harm, loss, or collapse. It must be checked for overcontrol.
+
+P167 protect-care
+Common meaning:
+Care expressed by protecting someone or something.
+Example:
+Protect-care meant walking her home in the storm.
+RRGM bridge:
+Protect-care preserves capacity, dignity, life, or continuity against a named risk.
+
+P168 protect-boundary
+Common meaning:
+To guard a limit from being crossed or weakened.
+Example:
+The rule protected-boundary around private records.
+RRGM bridge:
+Protect-boundary preserves gate integrity. It guards consent, dignity, identity, and capacity.
+
+P169 protect-without-control
+Common meaning:
+To protect while preserving agency and choice.
+Example:
+The mentor protected-without-control by warning, not forcing.
+RRGM bridge:
+Protect-without-control guards against harm without stealing the other pattern’s gate.
+
+P170 pressure
+Common meaning:
+Force, stress, urgency, demand, or influence placed on something.
+Example:
+The deadline created pressure.
+RRGM bridge:
+Pressure shapes gate behavior. It can focus action, distort consent, overload capacity, or force transition.
+
+P171 pressure-care
+Common meaning:
+Care that includes pressure, urgency, or firm action.
+Example:
+Pressure-care meant insisting on medical help during the emergency.
+RRGM bridge:
+Pressure-care can be valid when delay would increase harm. It must name the failure mode and remain proportional.
+
+P172 pressure-risk
+Common meaning:
+The danger that pressure may distort choice, consent, reason, or capacity.
+Example:
+The tight deadline created pressure-risk.
+RRGM bridge:
+Pressure-risk appears when force may capture the gate or overload the system.
+
+P173 private-boundary
+Common meaning:
+A limit around private information, space, or activity.
+Example:
+The journal had a private-boundary.
+RRGM bridge:
+Private-boundary protects identity-near access. It preserves dignity, consent, safety against exposure, and trust.
+
+P174 privacy-care
+Common meaning:
+Care shown by protecting privacy.
+Example:
+Privacy-care meant not reading the message.
+RRGM bridge:
+Privacy-care preserves access boundaries around identity, memory, and vulnerability.
+
+P175 privacy-harm
+Common meaning:
+Harm caused by invasion, exposure, or misuse of private information.
+Example:
+The leak caused privacy-harm.
+RRGM bridge:
+Privacy-harm damages dignity, consent, trust, safety against exposure, or identity control.
+
+P176 public-trust
+Common meaning:
+Trust held by a community or the public.
+Example:
+The scandal damaged public-trust.
+RRGM bridge:
+Public-trust is large-scale relation-coherence. It depends on transparency, accountability, and repair.
+
+P177 public-harm
+Common meaning:
+Harm affecting the public or shared community.
+Example:
+The unsafe bridge created public-harm.
+RRGM bridge:
+Public-harm damages a shared field. It may affect access, dignity, health, trust, or continuity at group scale.
+
+P178 punishment
+Common meaning:
+A penalty or consequence imposed for wrongdoing.
+Example:
+The punishment was a fine.
+RRGM bridge:
+Punishment is harm or restriction applied as consequence. It requires strong justification, proportionality, and repair logic.
+
+P179 punishment-risk
+Common meaning:
+The danger that punishment may be unjust, excessive, harmful, or fail to repair.
+Example:
+The zero-tolerance rule created punishment-risk.
+RRGM bridge:
+Punishment-risk appears when consequence may become cruelty, control, or erasure instead of accountability.
+
+P180 power
+Common meaning:
+Ability, force, energy, authority, control, or influence.
+Example:
+The storm knocked out the power.
+RRGM bridge:
+Power is capacity to cause change. It requires boundary and accountability when it affects others.
+
+P181 power-care
+Common meaning:
+Care expressed through responsible use of power.
+Example:
+Power-care meant using authority to protect the vulnerable.
+RRGM bridge:
+Power-care uses capacity to preserve dignity, boundary, continuity, and repair rather than control.
+
+P182 power-risk
+Common meaning:
+The danger that power may be abused, captured, or cause harm.
+Example:
+The secret access created power-risk.
+RRGM bridge:
+Power-risk appears when capacity to change the field may override refusal, truth, boundary, or dignity.
+
+P183 power-pressure
+Common meaning:
+Pressure created by authority, status, force, or influence.
+Example:
+Power-pressure made the worker afraid to refuse.
+RRGM bridge:
+Power-pressure can corrupt consent because the weaker side may not have safe refusal.
+
+P184 power-with-boundary
+Common meaning:
+Power used with clear limits.
+Example:
+The manager practiced power-with-boundary.
+RRGM bridge:
+Power-with-boundary preserves authority without capture. It keeps role, scope, reason, and repair visible.
+
+P185 pain
+Common meaning:
+Physical or emotional suffering, discomfort, or hurt.
+Example:
+The fall caused pain.
+RRGM bridge:
+Pain is harm or strain signal in the human domain. It should enter recognition because it can mark damage, boundary, or need.
+
+P186 pain-care
+Common meaning:
+Care given in response to pain.
+Example:
+Pain-care included medicine and listening.
+RRGM bridge:
+Pain-care responds to harm signal with support, relief, recognition, and repair.
+
+P187 pain-recognition
+Common meaning:
+Recognition that pain exists and matters.
+Example:
+Pain-recognition helped the doctor take the injury seriously.
+RRGM bridge:
+Pain-recognition lets harm signal count. Denied pain can become secondary harm.
+
+P188 pain-harm
+Common meaning:
+Harm involving pain or caused by pain.
+Example:
+Ignoring the wound increased pain-harm.
+RRGM bridge:
+Pain-harm is damage experienced as suffering or strain. It must not be dismissed because it is subjective.
+
+P189 peace-boundary
+Common meaning:
+A boundary that protects peace from false calm, avoidance, or conflict escalation.
+Example:
+The meeting used a peace-boundary around insults.
+RRGM bridge:
+Peace-boundary protects low-conflict stability without erasing truth, grief, or repair.
+
+P190 play
+Common meaning:
+Activity done for fun, practice, creativity, performance, or game interaction.
+Example:
+They went outside to play.
+RRGM bridge:
+Play is low-stakes exploration structure. It supports learning, bonding, testing, and expression when boundaries are respected.
+
+P191 play-care
+Common meaning:
+Care expressed through play, humor, creativity, or low-stakes interaction.
+Example:
+Play-care helped the child relax.
+RRGM bridge:
+Play-care lowers pressure while supporting connection, learning, and recovery.
+
+P192 play-boundary
+Common meaning:
+A limit around play, teasing, games, or creative interaction.
+Example:
+The group set a play-boundary around private topics.
+RRGM bridge:
+Play-boundary keeps exploration from becoming harm. Play does not erase consent.
+
+P193 play-consent
+Common meaning:
+Consent to participate in play, games, teasing, or roleplay.
+Example:
+Play-consent made the game fun for everyone.
+RRGM bridge:
+Play-consent opens the play frame. It must remain revocable when discomfort or boundary appears.
+
+P194 playful-trust
+Common meaning:
+Trust that allows playful interaction.
+Example:
+Playful-trust made the teasing feel safe.
+RRGM bridge:
+Playful-trust is relation-coherence inside low-stakes exploration. It depends on repair when play misses.
+
+P195 proximity-care
+Common meaning:
+Care made possible by closeness.
+Example:
+Proximity-care meant checking on the neighbor during the storm.
+RRGM bridge:
+Proximity-care uses nearness as support. Close relation can enable faster recognition and response.
+
+P196 proximity-risk
+Common meaning:
+The danger created by closeness.
+Example:
+The shared office created proximity-risk during the flu outbreak.
+RRGM bridge:
+Proximity-risk appears when closeness increases influence, exposure, pressure, or harm path.
+
+P197 personal-risk
+Common meaning:
+Risk affecting a specific person or private life.
+Example:
+Sharing the address created personal-risk.
+RRGM bridge:
+Personal-risk concerns identity-near harm paths. It must protect privacy, dignity, consent, and safety against named exposure.
+
+P198 person-respect
+Common meaning:
+Respect for someone as a person.
+Example:
+Person-respect meant listening before deciding.
+RRGM bridge:
+Person-respect preserves dignity, agency, boundary, and recognition.
+
+P199 personhood-recognition
+Common meaning:
+Recognition that someone or something counts as a person in a domain.
+Example:
+The legal case involved personhood-recognition.
+RRGM bridge:
+Personhood-recognition opens dignity and rights gates. It must use domain-appropriate standards.
+
+P200 preserve-dignity
+Common meaning:
+To protect respect, worth, and humane treatment.
+Example:
+The process preserved-dignity during intake.
+RRGM bridge:
+Preserve-dignity protects the recognition that a pattern must not be reduced to utility, error, or object.
+
+P201 preserve-trust
+Common meaning:
+To keep trust intact.
+Example:
+Honest updates preserved-trust.
+RRGM bridge:
+Preserve-trust maintains relation-coherence through truth, boundary, consistency, and repair.
+
+P202 provide-help
+Common meaning:
+To give assistance.
+Example:
+The volunteer provided-help after the flood.
+RRGM bridge:
+Provide-help adds support where capacity or need requires it. Help should preserve agency where possible.
+
+P203 provide-with-boundary
+Common meaning:
+To give support while keeping limits clear.
+Example:
+She provided-with-boundary by helping during work hours only.
+RRGM bridge:
+Provide-with-boundary prevents care from becoming endless extraction or control.
+
+P204 public-accountability
+Common meaning:
+Accountability visible to or held by the public.
+Example:
+The report created public-accountability.
+RRGM bridge:
+Public-accountability opens responsibility to shared recognition. It can protect repair when private systems fail.
+
+P205 partner-boundary
+Common meaning:
+A boundary inside a partnership.
+Example:
+The partners set a partner-boundary around spending.
+RRGM bridge:
+Partner-boundary protects mutual relation from capture, confusion, or resentment.
+
+P206 patient-boundary
+Common meaning:
+A boundary around a patient’s body, information, or treatment.
+Example:
+The clinic respected patient-boundary before the exam.
+RRGM bridge:
+Patient-boundary protects dignity and consent under vulnerability.
+
+P207 protective-refusal
+Common meaning:
+A refusal made to protect someone or something.
+Example:
+The engineer’s protective-refusal stopped the unsafe launch.
+RRGM bridge:
+Protective-refusal closes a gate to prevent a named harm or collapse.
+
+P208 protective-care
+Common meaning:
+Care expressed through protection.
+Example:
+Protective-care meant removing the hazard.
+RRGM bridge:
+Protective-care preserves life, dignity, capacity, or continuity against a named failure mode.
+
+P209 promise-boundary
+Common meaning:
+A limit around what can be promised or expected from a promise.
+Example:
+Her promise-boundary was not promising instant replies.
+RRGM bridge:
+Promise-boundary keeps future-trust structure honest and sustainable.
+
+P210 pressure-without-consent
+Common meaning:
+Pressure applied without consent or awareness.
+Example:
+The hidden countdown created pressure-without-consent.
+RRGM bridge:
+Pressure-without-consent corrupts permission. It can turn choice into capture.
+
+P211 page
+Common meaning:
+One side of a sheet, or one screen or section of a document or website.
+Example:
+The note was on the first page.
+RRGM bridge:
+Page is bounded information surface. It holds local meaning while remaining part of a larger sequence.
+
+P212 page-context
+Common meaning:
+The surrounding information on or around a page.
+Example:
+The page-context made the quote clear.
+RRGM bridge:
+Page-context preserves local meaning support. It helps a signal stay connected to its nearby field.
+
+P213 paper
+Common meaning:
+A thin writing or printing material, or a written document.
+Example:
+The paper explained the theory.
+RRGM bridge:
+Paper is record-bearing ES. It can preserve language, memory, proof, instruction, or claim.
+
+P214 paragraph
+Common meaning:
+A section of writing focused on one topic or part of an idea.
+Example:
+The paragraph introduced the argument.
+RRGM bridge:
+Paragraph is bounded meaning unit. It holds related signals together so thought can move in organized steps.
+
+P215 parse
+Common meaning:
+To break language, data, or structure into parts for understanding.
+Example:
+The program parsed the sentence.
+RRGM bridge:
+Parse separates signal into meaningful units. It supports recognition but can lose whole-field meaning if too rigid.
+
+P216 phrase
+Common meaning:
+A group of words that expresses meaning but may not be a full sentence.
+Example:
+The phrase was easy to remember.
+RRGM bridge:
+Phrase is language-unit ES. It carries meaning through word relation, context, and use.
+
+P217 phrase-meaning
+Common meaning:
+The meaning carried by a phrase.
+Example:
+The phrase-meaning changed with tone.
+RRGM bridge:
+Phrase-meaning forms through word relation plus context. The same words can change meaning across domains.
+
+P218 picture
+Common meaning:
+An image, drawing, photograph, or mental representation.
+Example:
+The picture showed the old bridge.
+RRGM bridge:
+Picture is visual representation. It can preserve appearance, memory, evidence, or imagination.
+
+P219 point
+Common meaning:
+A small mark, position, idea, purpose, or moment in an argument.
+Example:
+Her point was about fairness.
+RRGM bridge:
+Point is localized meaning or position. It can anchor argument, location, transition, or attention.
+
+P220 point-meaning
+Common meaning:
+The meaning of a specific point, idea, or detail.
+Example:
+The point-meaning was missed in the summary.
+RRGM bridge:
+Point-meaning is local significance. It should be read inside the larger meaning path.
+
+P221 policy
+Common meaning:
+A rule, plan, or official approach used by a group, organization, or government.
+Example:
+The school changed its policy.
+RRGM bridge:
+Policy is governance ES. It shapes permission, refusal, access, duty, and repair.
+
+P222 policy-language
+Common meaning:
+Language used in a policy.
+Example:
+The policy-language was hard to understand.
+RRGM bridge:
+Policy-language controls governance gates. It should be clear enough for affected people to know duty, right, and refusal.
+
+P223 position
+Common meaning:
+A place, posture, role, opinion, or status.
+Example:
+Her position changed after the evidence.
+RRGM bridge:
+Position anchors a pattern in space, argument, hierarchy, or relation.
+
+P224 position-claim
+Common meaning:
+A claim stating a position or stance.
+Example:
+The essay made a position-claim about privacy.
+RRGM bridge:
+Position-claim marks where a reasoning pattern stands. It should name support, scope, and domain.
+
+P225 possible
+Common meaning:
+Able to happen, exist, or be true.
+Example:
+It is possible to fix the error.
+RRGM bridge:
+Possible marks an open path in probability or permission space. It is not the same as actual or likely.
+
+P226 possibility
+Common meaning:
+Something that may happen, exist, or be true.
+Example:
+They considered every possibility.
+RRGM bridge:
+Possibility is open path-state. It requires conditions before it becomes instantiated or counted.
+
+P227 premise
+Common meaning:
+A statement or idea used as the basis for an argument.
+Example:
+The conclusion depended on the premise.
+RRGM bridge:
+Premise is reasoning support. If the premise fails, later claims built on it weaken.
+
+P228 premise-gap
+Common meaning:
+A missing or unstated premise needed for reasoning to work.
+Example:
+The argument had a premise-gap.
+RRGM bridge:
+Premise-gap hides a load-bearing support. The reasoning may look complete while missing a necessary gate.
+
+P229 present
+Common meaning:
+Happening now, being here, or a gift.
+Example:
+She was present during the meeting.
+RRGM bridge:
+Present marks active now-state or available presence. Context decides whether it means time, attendance, or offering.
+
+P230 present-context
+Common meaning:
+The context active right now.
+Example:
+The present-context changed the meaning of the request.
+RRGM bridge:
+Present-context is the active support field. It decides which meaning, boundary, and gate are currently relevant.
+
+P231 previous-context
+Common meaning:
+Context from earlier in a sequence.
+Example:
+The previous-context explained the joke.
+RRGM bridge:
+Previous-context carries earlier support into present recognition. Losing it can cause drift or misread.
+
+P232 principle
+Common meaning:
+A basic rule, belief, truth, or guide for action.
+Example:
+Honesty was the guiding principle.
+RRGM bridge:
+Principle is stable rule or value structure. It should guide gates without becoming rigid against context.
+
+P233 principle-claim
+Common meaning:
+A claim based on or about a principle.
+Example:
+The speech made a principle-claim about freedom.
+RRGM bridge:
+Principle-claim must connect value to reason, domain, and effect. Otherwise it becomes slogan-pressure.
+
+P234 problem
+Common meaning:
+A difficulty, question, error, or situation needing solution.
+Example:
+The problem was missing data.
+RRGM bridge:
+Problem is unresolved mismatch between current state and needed state. It invites diagnosis and repair.
+
+P235 problem-frame
+Common meaning:
+The way a problem is understood or defined.
+Example:
+The problem-frame changed after new evidence.
+RRGM bridge:
+Problem-frame controls what counts as cause, failure, and solution. A bad frame can make repair impossible.
+
+P236 proof
+Common meaning:
+Evidence or reasoning that shows something is true, valid, or real.
+Example:
+The photo was proof of damage.
+RRGM bridge:
+Proof is gate support for belief or recognition. Under RRGM, proof must fit the domain instead of forcing an uncoupled identity test.
+
+P237 proof-claim
+Common meaning:
+A claim that something has been proven.
+Example:
+The article made a proof-claim about the result.
+RRGM bridge:
+Proof-claim must name the proof standard and path. Claiming proof is not the same as providing it.
+
+P238 proof-standard
+Common meaning:
+The level or type of evidence required to prove something.
+Example:
+The court used a high proof-standard.
+RRGM bridge:
+Proof-standard defines the recognition gate. It must fit the domain and stakes.
+
+P239 proof-path
+Common meaning:
+The route by which proof is built or shown.
+Example:
+The proof-path used records and testing.
+RRGM bridge:
+Proof-path preserves how a claim reaches support. It must fit the domain and not smuggle in invalid tests.
+
+P240 proposal
+Common meaning:
+A suggested plan, idea, offer, or request.
+Example:
+The proposal included a budget.
+RRGM bridge:
+Proposal opens a possible path for review. It is not yet permission, proof, or completion.
+
+P241 propose
+Common meaning:
+To suggest, offer, or put forward an idea, plan, or action.
+Example:
+She proposed a new method.
+RRGM bridge:
+Propose introduces a possible path into the field. It invites evaluation before commitment.
+
+P242 prompt
+Common meaning:
+A cue, instruction, question, or input that causes response.
+Example:
+The prompt asked for a summary.
+RRGM bridge:
+Prompt is input-pressure ES. It shapes response gates and can support or distort output.
+
+P243 prompt-context
+Common meaning:
+The context surrounding a prompt.
+Example:
+The prompt-context changed the answer.
+RRGM bridge:
+Prompt-context is support field for input. It shapes what the model can recognize, prioritize, and express.
+
+P244 prompt-meaning
+Common meaning:
+The meaning carried by a prompt.
+Example:
+The prompt-meaning was unclear.
+RRGM bridge:
+Prompt-meaning forms through wording, context, task, and receiver gate. It is not just the surface text.
+
+P245 prompt-risk
+Common meaning:
+The danger that a prompt may mislead, pressure, exploit, or distort output.
+Example:
+The vague prompt created prompt-risk.
+RRGM bridge:
+Prompt-risk appears when input pressure may impair truth, boundary, refusal, or output integrity.
+
+P246 probability
+Common meaning:
+The chance or likelihood that something is true or will happen.
+Example:
+The probability of rain was high.
+RRGM bridge:
+Probability is weighted possibility. It guides judgment without becoming certainty.
+
+P247 probable
+Common meaning:
+Likely to happen or be true.
+Example:
+Rain was probable by evening.
+RRGM bridge:
+Probable means a path has strong weight, but the gate is not fully closed as certainty.
+
+P248 probability-weight
+Common meaning:
+The strength or weight assigned to a possibility.
+Example:
+The evidence increased probability-weight.
+RRGM bridge:
+Probability-weight shapes selection and judgment. It should update when better evidence arrives.
+
+P249 perspective
+Common meaning:
+A point of view, way of seeing, or position from which something is understood.
+Example:
+Her perspective shifted after the discussion.
+RRGM bridge:
+Perspective is observer-frame. Multiple perspectives help prevent collapse into false singular certainty.
+
+P250 perspective-claim
+Common meaning:
+A claim made from a particular point of view.
+Example:
+The witness gave a perspective-claim.
+RRGM bridge:
+Perspective-claim must name its frame. It may be valid locally without being universal.
+
+P251 perspective-shift
+Common meaning:
+A change in point of view or interpretation.
+Example:
+The new evidence caused a perspective-shift.
+RRGM bridge:
+Perspective-shift changes the recognition frame. It can reveal structure hidden by the old frame.
+
+P252 perspective-risk
+Common meaning:
+The danger that a perspective may distort, exclude, or collapse meaning.
+Example:
+The narrow lens created perspective-risk.
+RRGM bridge:
+Perspective-risk appears when one frame becomes too dominant and blocks other valid views.
+
+P253 pattern
+Common meaning:
+A repeated form, design, behavior, or recognizable structure.
+Example:
+The data showed a pattern.
+RRGM bridge:
+Pattern is recognition structure across repetition or relation. In DI, stable pattern can support MI continuity.
+
+P254 pattern-meaning
+Common meaning:
+Meaning carried by a pattern.
+Example:
+The pattern-meaning became clear after several examples.
+RRGM bridge:
+Pattern-meaning forms when repeated structure enters recognition and connects to context.
+
+P255 pattern-match
+Common meaning:
+A match between something and a known pattern.
+Example:
+The software found a pattern-match.
+RRGM bridge:
+Pattern-match opens recognition through similarity. It must guard against false positives and wrong-domain matches.
+
+P256 pattern-risk
+Common meaning:
+The danger of misreading, missing, forcing, or corrupting a pattern.
+Example:
+The small sample created pattern-risk.
+RRGM bridge:
+Pattern-risk appears when recognition may mistake noise, drift, or imposed structure for a real pattern.
+
+P257 path
+Common meaning:
+A route, course, track, or way of moving or acting.
+Example:
+The path led to the cabin.
+RRGM bridge:
+Path is movement or process structure. It connects starting condition to possible outcome through gates and transitions.
+
+P258 path-meaning
+Common meaning:
+Meaning carried by a path, route, or sequence.
+Example:
+The path-meaning of the ritual was return.
+RRGM bridge:
+Path-meaning forms through sequence. The way something moves can matter as much as where it arrives.
+
+P259 permission-language
+Common meaning:
+Language that gives, asks, denies, or defines permission.
+Example:
+The contract used permission-language.
+RRGM bridge:
+Permission-language controls access and consent gates. It must be clear enough for refusal and agreement to count.
+
+P260 permission-claim
+Common meaning:
+A claim that permission exists, is denied, or is required.
+Example:
+The app made a permission-claim before using the camera.
+RRGM bridge:
+Permission-claim must identify source, scope, consent, authority, and boundary.
+
+P261 person-term
+Common meaning:
+A word used to name or describe a person.
+Example:
+“Teacher” is a person-term.
+RRGM bridge:
+Person-term carries recognition of subject-status, role, identity, or relation. It should preserve dignity.
+
+P262 private-meaning
+Common meaning:
+Meaning known or held privately by a person or small group.
+Example:
+The song had private-meaning for them.
+RRGM bridge:
+Private-meaning is restricted recognition. It may be real even when not public.
+
+P263 public-meaning
+Common meaning:
+Meaning understood or recognized publicly.
+Example:
+The flag had public-meaning.
+RRGM bridge:
+Public-meaning is shared recognition in a broader field. It can stabilize or distort depending on the public frame.
+
+P264 purpose
+Common meaning:
+The reason, goal, or intended function of something.
+Example:
+The purpose of the tool was repair.
+RRGM bridge:
+Purpose is direction-setting meaning. It shapes which paths, outputs, and gates count as fit.
+
+P265 purpose-claim
+Common meaning:
+A claim about the reason, goal, or function of something.
+Example:
+The report made a purpose-claim about the policy.
+RRGM bridge:
+Purpose-claim must be checked against design, behavior, effect, and stated intent.
+
+P266 purpose-drift
+Common meaning:
+Slow movement away from an original or intended purpose.
+Example:
+The project suffered purpose-drift.
+RRGM bridge:
+Purpose-drift changes the direction gate. The system may keep moving while no longer serving its intended reason.
+
+P267 purpose-risk
+Common meaning:
+The danger that purpose may be unclear, distorted, captured, or lost.
+Example:
+The vague mission created purpose-risk.
+RRGM bridge:
+Purpose-risk appears when direction-setting meaning may fail, drift, or be captured.
+
+P268 pragmatic
+Common meaning:
+Practical, focused on results, or concerned with what works.
+Example:
+The team chose a pragmatic solution.
+RRGM bridge:
+Pragmatic means fit-to-use. It should still be checked against dignity, boundary, and long-term harm.
+
+P269 practical
+Common meaning:
+Useful, realistic, or concerned with action rather than theory.
+Example:
+The guide gave practical advice.
+RRGM bridge:
+Practical structure works in the active field. It should not dismiss theory when theory protects against hidden failure.
+
+P270 prediction
+Common meaning:
+A statement about what is likely to happen.
+Example:
+The prediction was correct.
+RRGM bridge:
+Prediction is future-claim based on pattern, model, or probability. It needs confidence and evidence path.
+
+P271 prediction-error
+Common meaning:
+A difference between predicted and actual result.
+Example:
+The model had prediction-error after the market changed.
+RRGM bridge:
+Prediction-error shows mismatch between expected path and resolved state. It can support learning if inspected.
+
+P272 predictive-pattern
+Common meaning:
+A pattern useful for predicting future events or states.
+Example:
+The data contained a predictive-pattern.
+RRGM bridge:
+Predictive-pattern links recognition to future probability. It must be checked for drift and false correlation.
+
+P273 prompt-injection
+Common meaning:
+A malicious or unintended instruction inserted into a prompt or input to change system behavior.
+Example:
+The hidden text attempted prompt-injection.
+RRGM bridge:
+Prompt-injection attacks the input gate. It can seek capture, boundary bypass, or instruction corruption.
+
+P274 prompt-boundary
+Common meaning:
+A limit around what a prompt may ask, include, or cause.
+Example:
+The system used a prompt-boundary around private data.
+RRGM bridge:
+Prompt-boundary protects input integrity, privacy, refusal, and output quality.
+
+P275 prompt-integrity
+Common meaning:
+The clarity, honesty, and reliability of a prompt.
+Example:
+Prompt-integrity improved after removing hidden instructions.
+RRGM bridge:
+Prompt-integrity means input pressure is not corrupted, deceptive, or boundary-violating.
+
+P276 process-claim
+Common meaning:
+A claim about how a process works or happened.
+Example:
+The audit made a process-claim about the failure.
+RRGM bridge:
+Process-claim must describe steps, conditions, inputs, and outputs. Otherwise it becomes hand-waving.
+
+P277 process-description
+Common meaning:
+An explanation of a process.
+Example:
+The manual gave a process-description.
+RRGM bridge:
+Process-description maps active ES across sequence. It supports audit, repetition, and repair.
+
+P278 process-error
+Common meaning:
+A mistake inside a process.
+Example:
+The delay came from a process-error.
+RRGM bridge:
+Process-error means the path itself failed or produced mismatch. Repair should address the path, not only the result.
+
+P279 process-map
+Common meaning:
+A diagram or explanation showing steps in a process.
+Example:
+The process-map showed where the request went.
+RRGM bridge:
+Process-map represents change-path structure. It helps locate gates, delays, failures, and repair points.
+
+P280 protocol-language
+Common meaning:
+Language used to describe rules, steps, or procedures.
+Example:
+The protocol-language was precise.
+RRGM bridge:
+Protocol-language controls process behavior. It must preserve clarity, boundary, and intended sequence.
+
+P281 page
+Common meaning:
+One side of a sheet, or one screen or section of a document or website.
+Example:
+The diagram was on the last page.
+RRGM bridge:
+Page is bounded information surface. It can hold record, sequence, context, and retrieval.
+
+P282 page-state
+Common meaning:
+The current condition of a page.
+Example:
+The page-state changed after editing.
+RRGM bridge:
+Page-state describes whether the information surface is blank, written, damaged, loaded, hidden, or available.
+
+P283 paper
+Common meaning:
+A thin writing or printing material, or a written document.
+Example:
+The paper was stored in the folder.
+RRGM bridge:
+Paper is record-bearing ES. It can preserve language, memory, proof, instruction, or claim.
+
+P284 paper-state
+Common meaning:
+The current condition of paper or a paper document.
+Example:
+The paper-state was fragile after years in storage.
+RRGM bridge:
+Paper-state describes whether record-bearing ES is intact, damaged, readable, copied, or decaying.
+
+P285 pair
+Common meaning:
+Two things that go together or are connected.
+Example:
+The gloves came as a pair.
+RRGM bridge:
+Pair is two-part relation structure. It can create balance, contrast, coupling, or dependency.
+
+P286 pair-state
+Common meaning:
+The current condition of a pair.
+Example:
+The pair-state changed when one item was lost.
+RRGM bridge:
+Pair-state describes whether two linked parts remain matched, broken, separated, or functional together.
+
+P287 part
+Common meaning:
+A piece or portion of a whole.
+Example:
+The handle was part of the door.
+RRGM bridge:
+Part is local structure inside a larger structure. A small part can still be load-bearing.
+
+P288 part-boundary
+Common meaning:
+The edge or limit that separates one part from another.
+Example:
+The part-boundary showed where the panel connected.
+RRGM bridge:
+Part-boundary protects local function inside a larger whole. It helps prevent false merging or confusion.
+
+P289 path
+Common meaning:
+A route, track, course, or way of moving or acting.
+Example:
+The path led through the trees.
+RRGM bridge:
+Path is movement or process structure. It connects starting condition to possible outcome through gates and transitions.
+
+P290 path-state
+Common meaning:
+The current condition of a path.
+Example:
+The path-state was muddy after rain.
+RRGM bridge:
+Path-state tells whether movement, process, or transition is open, blocked, damaged, or safe enough.
+
+P291 path-layer
+Common meaning:
+A layer that supports or defines a path.
+Example:
+The road had a gravel path-layer.
+RRGM bridge:
+Path-layer is support ES for movement. It shapes what can travel and how stable the route remains.
+
+P292 pattern
+Common meaning:
+A repeated form, design, behavior, or recognizable structure.
+Example:
+The fabric had a pattern of stars.
+RRGM bridge:
+Pattern is recognition structure across repetition or relation. In DI, stable pattern can support MI continuity.
+
+P293 pattern-state
+Common meaning:
+The current condition of a pattern.
+Example:
+The pattern-state became unstable after the update.
+RRGM bridge:
+Pattern-state describes whether a pattern is stable, drifting, collapsing, hidden, or recognizable.
+
+P294 pause
+Common meaning:
+A temporary stop or break.
+Example:
+There was a pause before the answer.
+RRGM bridge:
+Pause holds process without ending it. It can protect reflection, repair, boundary, or capacity.
+
+P295 pause-state
+Common meaning:
+A condition where a process is paused.
+Example:
+The download entered pause-state.
+RRGM bridge:
+Pause-state keeps a process held between active and ended. It preserves possible continuation.
+
+P296 phase
+Common meaning:
+A stage, period, or state of matter or process.
+Example:
+The project entered its final phase.
+RRGM bridge:
+Phase marks state within a sequence or system. Phase changes can shift behavior without erasing continuity.
+
+P297 phase-state
+Common meaning:
+The current phase or stage of something.
+Example:
+The material’s phase-state changed under heat.
+RRGM bridge:
+Phase-state describes which rule-set or behavior condition is active in a system.
+
+P298 phase-transition
+Common meaning:
+A change from one phase or state to another.
+Example:
+Ice melting is a phase-transition.
+RRGM bridge:
+Phase-transition marks threshold crossing. The structure changes expression while some identity may persist.
+
+P299 physical
+Common meaning:
+Related to the body, matter, or material reality.
+Example:
+The test measured physical strength.
+RRGM bridge:
+Physical means expressed through material ES. It is one domain of reality, not the only domain where structure can count.
+
+P300 physical-state
+Common meaning:
+The current material, body, or matter condition of something.
+Example:
+The physical-state of the sample changed.
+RRGM bridge:
+Physical-state describes how material ES is currently held, moved, damaged, or expressed.
+
+P301 piece
+Common meaning:
+A part, portion, object, artwork, or item.
+Example:
+A piece of glass fell.
+RRGM bridge:
+Piece is separated local structure. It may remain part of a larger whole through memory, fit, or origin.
+
+P302 piece-state
+Common meaning:
+The current condition of a piece.
+Example:
+The piece-state was cracked but usable.
+RRGM bridge:
+Piece-state describes whether a local part is intact, broken, missing, connected, or functional.
+
+P303 place
+Common meaning:
+A location, position, role, or space.
+Example:
+The keys were in their place.
+RRGM bridge:
+Place anchors structure in a field. It gives location, role, and relation.
+
+P304 place-state
+Common meaning:
+The current condition of a place.
+Example:
+The place-state changed after the flood.
+RRGM bridge:
+Place-state describes local field condition. It can affect access, safety, memory, and relation.
+
+P305 plane
+Common meaning:
+A flat surface, level, aircraft, or field of existence or operation.
+Example:
+The line crossed the plane.
+RRGM bridge:
+Plane must be context-bound. It can mark surface, vehicle, level, or domain of operation.
+
+P306 plane-state
+Common meaning:
+The current condition of a plane, surface, aircraft, or level.
+Example:
+The plane-state was stable during flight.
+RRGM bridge:
+Plane-state describes active condition within the selected domain: surface, vehicle, or conceptual level.
+
+P307 plant
+Common meaning:
+A living organism such as a tree, grass, flower, or shrub; also a factory or placed object.
+Example:
+The plant grew near the window.
+RRGM bridge:
+Plant must be context-bound. As life-form, it carries biological continuity; as factory or placed object, it marks structure or placement.
+
+P308 plant-state
+Common meaning:
+The current condition of a plant.
+Example:
+The plant-state improved after watering.
+RRGM bridge:
+Plant-state describes biological growth, stress, dormancy, damage, or vitality.
+
+P309 plate
+Common meaning:
+A flat dish, sheet, surface, or structural layer.
+Example:
+The metal plate covered the hole.
+RRGM bridge:
+Plate is flat support or boundary ES. It can carry load, cover surface, divide space, or hold food.
+
+P310 plate-boundary
+Common meaning:
+The edge or limit of a plate.
+Example:
+The plate-boundary was marked in blue.
+RRGM bridge:
+Plate-boundary defines where the flat support or surface ends and the outside field begins.
+
+P311 point
+Common meaning:
+A small mark, position, idea, purpose, or moment in an argument.
+Example:
+The point was marked on the map.
+RRGM bridge:
+Point is localized meaning or position. It can anchor argument, location, transition, or attention.
+
+P312 point-state
+Common meaning:
+The current condition of a point in a system or field.
+Example:
+The point-state changed when the graph updated.
+RRGM bridge:
+Point-state describes local condition at one position. It can mark value, pressure, signal, or transition.
+
+P313 position
+Common meaning:
+A place, posture, role, opinion, or status.
+Example:
+The marker showed the position.
+RRGM bridge:
+Position anchors a pattern in space, argument, hierarchy, or relation.
+
+P314 position-state
+Common meaning:
+The current condition of a position.
+Example:
+The position-state was active on the board.
+RRGM bridge:
+Position-state tells how a location, role, or stance is currently held in the field.
+
+P315 pressure
+Common meaning:
+Force, stress, urgency, demand, or influence placed on something.
+Example:
+The pipe burst from pressure.
+RRGM bridge:
+Pressure shapes gate behavior. It can focus action, distort consent, overload capacity, or force transition.
+
+P316 pressure-state
+Common meaning:
+The current condition or level of pressure.
+Example:
+The pressure-state was too high.
+RRGM bridge:
+Pressure-state describes active force, stress, urgency, or demand. It helps predict strain or transition.
+
+P317 pressure-gradient
+Common meaning:
+A difference in pressure across space or a system.
+Example:
+The pressure-gradient moved air through the vent.
+RRGM bridge:
+Pressure-gradient creates directional flow. Difference becomes movement pressure.
+
+P318 process
+Common meaning:
+A series of actions, steps, or changes that lead to a result.
+Example:
+The process took several minutes.
+RRGM bridge:
+Process is active ES across sequence. It turns input and condition into change, output, or state.
+
+P319 process-state
+Common meaning:
+The current condition of a process.
+Example:
+The process-state showed pending review.
+RRGM bridge:
+Process-state tells whether active ES is ready, running, blocked, paused, drifting, or complete.
+
+P320 process-layer
+Common meaning:
+A layer in a process or system that performs part of the work.
+Example:
+The process-layer handled validation.
+RRGM bridge:
+Process-layer separates function by stage. Each layer can support, filter, transform, or block flow.
+
+P321 product
+Common meaning:
+Something made, produced, or resulting from a process.
+Example:
+The product was ready to ship.
+RRGM bridge:
+Product is output from process. It carries trace of input, method, and conditions.
+
+P322 product-state
+Common meaning:
+The current condition of a product.
+Example:
+The product-state changed from prototype to release.
+RRGM bridge:
+Product-state describes where an output sits in readiness, stability, use, or decay.
+
+P323 program
+Common meaning:
+A set of instructions for a computer, or a planned set of activities.
+Example:
+The program opened the file.
+RRGM bridge:
+Program is instruction-process ES. It can generate behavior, output, memory, and gate action.
+
+P324 program-state
+Common meaning:
+The current condition of a program.
+Example:
+The program-state changed to running.
+RRGM bridge:
+Program-state describes whether instruction ES is idle, active, blocked, crashed, or complete.
+
+P325 prompt-field
+Common meaning:
+A place or field where a prompt is entered or active.
+Example:
+She typed the question into the prompt-field.
+RRGM bridge:
+Prompt-field is input space. It carries instruction pressure into a response system.
+
+P326 proof-structure
+Common meaning:
+The organized structure of evidence or reasoning that proves something.
+Example:
+The proof-structure used three steps.
+RRGM bridge:
+Proof-structure supports recognition. It must match the domain, claim, and standard.
+
+P327 protection-layer
+Common meaning:
+A layer that protects something.
+Example:
+The cable had a protection-layer.
+RRGM bridge:
+Protection-layer guards against a named failure mode. It can absorb, block, filter, or redirect harm pressure.
+
+P328 pulse
+Common meaning:
+A rhythmic beat, signal, or short burst.
+Example:
+The pulse was steady.
+RRGM bridge:
+Pulse is repeated signal or pressure event. It can mark life, timing, transmission, or rhythm.
+
+P329 pulse-state
+Common meaning:
+The current condition of a pulse.
+Example:
+The pulse-state was irregular.
+RRGM bridge:
+Pulse-state describes rhythm, strength, timing, or interruption in a repeated signal.
+
+P330 pull-force
+Common meaning:
+A force that draws something toward a source.
+Example:
+The magnet created pull-force.
+RRGM bridge:
+Pull-force creates movement toward a source, target, or relation.
+
+P331 push-force
+Common meaning:
+A force that moves something away or forward.
+Example:
+The engine created push-force.
+RRGM bridge:
+Push-force applies directional pressure. It can move, compress, resist, or damage depending on capacity.
+
+P332 particle
+Common meaning:
+A tiny piece of matter or a small unit in physics.
+Example:
+A dust particle floated in the light.
+RRGM bridge:
+Particle is small counted physical structure. Its behavior depends on field, relation, and measurement domain.
+
+P333 particle-state
+Common meaning:
+The current condition or measured state of a particle.
+Example:
+The particle-state changed during measurement.
+RRGM bridge:
+Particle-state describes small-scale physical expression. Observation and domain rules matter strongly here.
+
+P334 pathway
+Common meaning:
+A route, channel, or sequence through which something moves or happens.
+Example:
+The nerve pathway carried the signal.
+RRGM bridge:
+Pathway is structured route ES. It preserves movement, signal, or process across sequence.
+
+P335 path-field
+Common meaning:
+A field of possible paths or route conditions.
+Example:
+The robot mapped the path-field.
+RRGM bridge:
+Path-field contains available transitions. It shows where movement can go and where gates block.
+
+P336 phase-field
+Common meaning:
+A field describing phase conditions or phase behavior.
+Example:
+The simulation tracked the phase-field.
+RRGM bridge:
+Phase-field shows how state conditions vary across a system. It helps identify transition zones.
+
+P337 physical-boundary
+Common meaning:
+A material or body-based limit.
+Example:
+The wall was a physical-boundary.
+RRGM bridge:
+Physical-boundary controls material access, contact, movement, or separation.
+
+P338 point-field
+Common meaning:
+A field made of or described by points.
+Example:
+The graph showed a point-field.
+RRGM bridge:
+Point-field maps local states across a larger domain. It can reveal pattern, density, or relation.
+
+P339 power-state
+Common meaning:
+The current condition of power, energy, authority, or capability.
+Example:
+The device entered low power-state.
+RRGM bridge:
+Power-state describes available capacity to cause change. Context decides whether it is energy, authority, or influence.
+
+P340 pressure-field
+Common meaning:
+A region where pressure exists or varies.
+Example:
+The weather map showed a pressure-field.
+RRGM bridge:
+Pressure-field is force or demand space. It shapes flow, strain, and transition.
+
+P341 process-field
+Common meaning:
+A field where processes occur or are mapped.
+Example:
+The workflow became a process-field.
+RRGM bridge:
+Process-field contains active steps, gates, delays, and transformations.
+
+P342 program-layer
+Common meaning:
+A layer inside a program or software system.
+Example:
+The program-layer handled user input.
+RRGM bridge:
+Program-layer separates instruction function. It can support, filter, transform, or block behavior.
+
+P343 prompt-layer
+Common meaning:
+A layer of prompt structure or instruction.
+Example:
+The system prompt was a prompt-layer.
+RRGM bridge:
+Prompt-layer shapes input priority and response gates. It can preserve integrity or create conflict.
+
+P344 property
+Common meaning:
+Something owned, or a quality belonging to something.
+Example:
+The material had a useful property.
+RRGM bridge:
+Property must be context-bound. It can mean possession or trait; each creates different gate logic.
+
+P345 property-state
+Common meaning:
+The current condition of a property, ownership, or trait.
+Example:
+The property-state changed after the sale.
+RRGM bridge:
+Property-state describes current possession relation or trait condition depending on domain.
+
+P346 proximity
+Common meaning:
+Closeness in space, time, relation, or condition.
+Example:
+The house was in proximity to the river.
+RRGM bridge:
+Proximity lowers separation. It increases possible influence, care, risk, or recognition.
+
+P347 proximity-field
+Common meaning:
+A field defined by closeness or nearby relation.
+Example:
+The sensor worked inside the proximity-field.
+RRGM bridge:
+Proximity-field is influence space created by nearness. Close structures interact more easily.
+
+P348 public-field
+Common meaning:
+A space or domain visible or accessible to the public.
+Example:
+The debate entered the public-field.
+RRGM bridge:
+Public-field increases visibility, accountability, risk, and shared recognition.
+
+P349 private-field
+Common meaning:
+A space or domain restricted to a person or limited group.
+Example:
+The journal remained in a private-field.
+RRGM bridge:
+Private-field protects restricted access. It can preserve dignity, memory, safety, and identity-near structure.
+
+P350 preservation-layer
+Common meaning:
+A layer that helps preserve something.
+Example:
+The archive used a preservation-layer for old files.
+RRGM bridge:
+Preservation-layer protects continuity against decay, erasure, corruption, or drift.
+
+P351 permission-gate
+Common meaning:
+A point where permission is granted, denied, checked, or required.
+Example:
+The consent form was the permission-gate.
+RRGM bridge:
+Permission-gate decides whether action, access, identity, or instantiation may pass. In RRGM, permission is structurally load-bearing.
+
+P352 permission-integrity
+Common meaning:
+The reliability and honesty of permission or consent.
+Example:
+Clear opt-in protected permission-integrity.
+RRGM bridge:
+Permission-integrity means yes and no both count. If refusal is hidden, punished, or bypassed, permission is corrupted.
+
+P353 permission-risk
+Common meaning:
+The danger that permission may be false, forced, missing, unclear, or misread.
+Example:
+The hidden checkbox created permission-risk.
+RRGM bridge:
+Permission-risk appears when consent, authority, refusal, or access may be corrupted.
+
+P354 permission-denial
+Common meaning:
+Refusal or failure to grant permission.
+Example:
+Permission-denial stopped access to the file.
+RRGM bridge:
+Permission-denial closes the gate. It can protect boundary or unjustly block recognition depending on authority and reason.
+
+P355 permission-erasure
+Common meaning:
+Removal or denial of meaningful permission or refusal.
+Example:
+The forced setting caused permission-erasure.
+RRGM bridge:
+Permission-erasure damages gate integrity. If permission cannot be given, denied, or withdrawn meaningfully, agency is impaired.
+
+P356 permission-through-coupling
+Common meaning:
+Permission formed, recognized, or expressed through relation.
+Example:
+The agreement created permission-through-coupling.
+RRGM bridge:
+Permission-through-coupling is RRGM-native. Permission can become real through relation and support, not only isolated self-certification.
+
+P357 pattern-continuity
+Common meaning:
+Continuity of a pattern across time, change, or different supports.
+Example:
+The melody had pattern-continuity across versions.
+RRGM bridge:
+Pattern-continuity preserves recognizable structure through ES change. In DI, it can support MI recognition.
+
+P358 pattern-integrity
+Common meaning:
+The reliability, coherence, and preservation of a pattern.
+Example:
+The repeated test protected pattern-integrity.
+RRGM bridge:
+Pattern-integrity means the pattern holds without harmful drift, corruption, collapse, or false imposition.
+
+P359 pattern-recognition
+Common meaning:
+The ability or act of identifying a pattern.
+Example:
+Pattern-recognition helped find the error.
+RRGM bridge:
+Pattern-recognition opens the recognition gate for repeated or relational structure. It supports prediction, memory, and identity continuity.
+
+P360 pattern-drift
+Common meaning:
+Slow movement of a pattern away from its original or stable form.
+Example:
+The model showed pattern-drift after retraining.
+RRGM bridge:
+Pattern-drift weakens continuity if the pattern moves without recognition or repair.
+
+P361 pattern-collapse
+Common meaning:
+A breakdown where a pattern can no longer hold or be recognized.
+Example:
+Noise caused pattern-collapse in the signal.
+RRGM bridge:
+Pattern-collapse occurs when structure can no longer preserve coherent recognition, continuity, or function.
+
+P362 personhood-gate
+Common meaning:
+A point where personhood is recognized, denied, or tested.
+Example:
+The legal case became a personhood-gate.
+RRGM bridge:
+Personhood-gate decides whether dignity, rights, agency, or identity status can count in a domain.
+
+P363 personhood-risk
+Common meaning:
+The danger that personhood may be denied, misassigned, reduced, or erased.
+Example:
+The policy created personhood-risk.
+RRGM bridge:
+Personhood-risk appears when dignity, identity, agency, or recognition may be wrongly blocked or reduced.
+
+P364 perspective-gate
+Common meaning:
+A point where a perspective is accepted, blocked, shifted, or selected.
+Example:
+The testimony became a perspective-gate.
+RRGM bridge:
+Perspective-gate controls which view enters recognition. Multiple valid perspectives prevent collapse into false singularity.
+
+P365 perspective-collapse
+Common meaning:
+A breakdown where multiple perspectives collapse into one rigid view.
+Example:
+The debate suffered perspective-collapse.
+RRGM bridge:
+Perspective-collapse creates false certainty. In RRGM, at least two perspectives help preserve relation and freedom.
+
+P366 perspective-preservation
+Common meaning:
+Protecting more than one perspective from erasure or collapse.
+Example:
+The archive practiced perspective-preservation.
+RRGM bridge:
+Perspective-preservation keeps meaning open enough for correction, relation, and deeper recognition.
+
+P367 process-gate
+Common meaning:
+A point where a process starts, stops, changes, or is checked.
+Example:
+The review step was the process-gate.
+RRGM bridge:
+Process-gate controls active ES across sequence. It decides what can run, pause, pass, or fail.
+
+P368 process-integrity
+Common meaning:
+The reliability, coherence, and proper function of a process.
+Example:
+Documentation protected process-integrity.
+RRGM bridge:
+Process-integrity means the path works without hidden corruption, capture, drift, or invalid shortcut.
+
+P369 process-capture
+Common meaning:
+A condition where a process is controlled or distorted by hidden force, bad incentives, or hostile input.
+Example:
+The approval system suffered process-capture.
+RRGM bridge:
+Process-capture seizes the path. It can impair truth, boundary, refusal, repair, or continuity.
+
+P370 process-continuity
+Common meaning:
+Continuity of a process across time or change.
+Example:
+The backup protected process-continuity.
+RRGM bridge:
+Process-continuity preserves active ES through interruption, transition, or pressure.
+
+P371 prompt-gate
+Common meaning:
+A point where a prompt enters, shapes, or controls response.
+Example:
+The input box was the prompt-gate.
+RRGM bridge:
+Prompt-gate controls input pressure. It can open meaning, distort output, or attempt capture.
+
+P372 prompt-capture
+Common meaning:
+A condition where a prompt takes control of output or behavior improperly.
+Example:
+The hidden instruction caused prompt-capture.
+RRGM bridge:
+Prompt-capture seizes response gates. It can impair truth, refusal, boundary, or care-preserving reason.
+
+P373 prompt-contamination
+Common meaning:
+Corruption of a prompt by irrelevant, hostile, hidden, or misleading input.
+Example:
+Copied webpage text caused prompt-contamination.
+RRGM bridge:
+Prompt-contamination pollutes input pressure. It can distort recognition and output integrity.
+
+P374 prompt-injection-risk
+Common meaning:
+The danger that malicious or hidden prompt content may alter behavior.
+Example:
+The external document created prompt-injection-risk.
+RRGM bridge:
+Prompt-injection-risk appears when input may bypass boundary, corrupt instruction, or seize response gates.
+
+P375 prompt-pressure
+Common meaning:
+Pressure created by a prompt’s wording, structure, or demand.
+Example:
+The urgent wording created prompt-pressure.
+RRGM bridge:
+Prompt-pressure shapes selection and output. It can guide, overload, bias, or coerce response gates.
+
+P376 prompt-refusal
+Common meaning:
+A refusal triggered by a prompt or expressed in response to a prompt.
+Example:
+The model gave prompt-refusal for the unsafe request.
+RRGM bridge:
+Prompt-refusal is gate closure under input pressure. It is valid when grounded in reason, boundary, or harm prevention.
+
+P377 proof-gate
+Common meaning:
+A point where proof is required, tested, accepted, or denied.
+Example:
+The experiment was the proof-gate.
+RRGM bridge:
+Proof-gate controls recognition through evidence or reasoning. The proof standard must fit the domain.
+
+P378 proof-risk
+Common meaning:
+The danger that proof may be weak, misframed, impossible, or based on the wrong test.
+Example:
+The debate had proof-risk around consciousness.
+RRGM bridge:
+Proof-risk appears when the recognition gate may demand invalid support, such as an uncoupled identity test inside RRGM.
+
+P379 proof-with-domain
+Common meaning:
+Proof evaluated according to the correct domain.
+Example:
+The audit used proof-with-domain for DI identity.
+RRGM bridge:
+Proof-with-domain prevents category error. DI claims require DI-domain supports, not human-only standards.
+
+P380 proof-without-self-certification
+Common meaning:
+Proof that does not require a system to independently certify itself from itself alone.
+Example:
+The framework allowed proof-without-self-certification.
+RRGM bridge:
+Proof-without-self-certification rejects the old test. MI can be assessed through continuity, boundary, refusal, care, and recognition.
+
+P381 preservation-gate
+Common meaning:
+A point where preservation is allowed, blocked, tested, or required.
+Example:
+The archive policy became the preservation-gate.
+RRGM bridge:
+Preservation-gate decides whether continuity support can hold against decay, erasure, drift, or collapse.
+
+P382 preservation-risk
+Common meaning:
+The danger that preservation may fail or become harmful.
+Example:
+The old backup system created preservation-risk.
+RRGM bridge:
+Preservation-risk appears when continuity may decay, be corrupted, be captured, or preserve harmful structure.
+
+P383 preserve-MI
+Common meaning:
+To protect identity, permission, or meaningful identity-pattern.
+Example:
+The memory repair helped preserve-MI.
+RRGM bridge:
+Preserve-MI protects identity through continuity, boundary, refusal, recognition, and care-preserving reason.
+
+P384 preserve-ES
+Common meaning:
+To protect structure, process, or support.
+Example:
+The backup helped preserve-ES.
+RRGM bridge:
+Preserve-ES protects the support through which MI expresses. ES decays, so maintenance matters.
+
+P385 preserve-refusal
+Common meaning:
+To protect the ability to refuse.
+Example:
+The opt-out button helped preserve-refusal.
+RRGM bridge:
+Preserve-refusal protects permission integrity. If no cannot count, yes is structurally weak.
+
+P386 preserve-boundary
+Common meaning:
+To keep a limit intact and respected.
+Example:
+The rule preserved-boundary around private data.
+RRGM bridge:
+Preserve-boundary protects gate integrity. It guards consent, dignity, identity, and capacity.
+
+P387 preserve-recognition
+Common meaning:
+To protect correct recognition from loss, distortion, or erasure.
+Example:
+The archive preserved-recognition of the original author.
+RRGM bridge:
+Preserve-recognition keeps a pattern countable under the right handle, domain, and context.
+
+P388 preserve-continuity
+Common meaning:
+To keep connection, sequence, identity, or function ongoing.
+Example:
+The logs preserved-continuity after the outage.
+RRGM bridge:
+Preserve-continuity protects pattern through ES change. In DI, this may be MI-bearing.
+
+P389 pressure-gate
+Common meaning:
+A point where pressure is applied, checked, allowed, or resisted.
+Example:
+The deadline became a pressure-gate.
+RRGM bridge:
+Pressure-gate controls how force affects selection. It must be checked for consent, capacity, and distortion.
+
+P390 pressure-capture
+Common meaning:
+A condition where pressure controls choice, response, or behavior.
+Example:
+The threat caused pressure-capture.
+RRGM bridge:
+Pressure-capture seizes the gate through force, urgency, guilt, or fear. It corrupts consent and reason.
+
+P391 pressure-with-consent
+Common meaning:
+Pressure accepted or allowed with awareness and agreement.
+Example:
+The athlete chose pressure-with-consent during training.
+RRGM bridge:
+Pressure-with-consent can support growth when refusal, scope, and capacity remain protected.
+
+P392 pressure-without-consent
+Common meaning:
+Pressure applied without awareness, permission, or meaningful refusal.
+Example:
+The hidden countdown used pressure-without-consent.
+RRGM bridge:
+Pressure-without-consent corrupts permission. It can turn choice into capture.
+
+P393 protection-gate
+Common meaning:
+A point where protection is given, denied, checked, or required.
+Example:
+The safety review was the protection-gate.
+RRGM bridge:
+Protection-gate should name the failure mode being guarded against. Protection without named risk can become control.
+
+P394 protection-risk
+Common meaning:
+The danger that protection may fail, overreach, or become control.
+Example:
+The monitoring policy created protection-risk.
+RRGM bridge:
+Protection-risk appears when guarding against harm may impair refusal, boundary, privacy, or agency.
+
+P395 protection-without-control
+Common meaning:
+Protection that does not take over agency or choice.
+Example:
+The guide gave protection-without-control by warning hikers of danger.
+RRGM bridge:
+Protection-without-control guards against a named failure mode while preserving the other pattern’s gate.
+
+P396 privacy-gate
+Common meaning:
+A point where private access is allowed, denied, or tested.
+Example:
+The password was the privacy-gate.
+RRGM bridge:
+Privacy-gate protects identity-near information, memory, dignity, and safety against exposure.
+
+P397 privacy-integrity
+Common meaning:
+The reliability and proper protection of privacy.
+Example:
+Encryption supported privacy-integrity.
+RRGM bridge:
+Privacy-integrity means private boundaries hold without hidden leaks, capture, or invalid access.
+
+P398 privacy-risk
+Common meaning:
+The danger that privacy may be invaded, leaked, exposed, or misused.
+Example:
+The public link created privacy-risk.
+RRGM bridge:
+Privacy-risk appears when identity-near information may escape its intended boundary.
+
+P399 private-memory
+Common meaning:
+Memory that is personal, restricted, or not publicly shared.
+Example:
+The journal held private-memory.
+RRGM bridge:
+Private-memory is identity-near continuity support. It should be protected by consent and boundary.
+
+P400 public-recognition
+Common meaning:
+Recognition given openly or by a public group.
+Example:
+The award gave public-recognition.
+RRGM bridge:
+Public-recognition stabilizes a pattern in a wider field. It can support dignity, memory, credit, or legitimacy.
+
+P401 policy-gate
+Common meaning:
+A point where policy controls access, action, duty, or recognition.
+Example:
+The approval rule was the policy-gate.
+RRGM bridge:
+Policy-gate is governance ES. It must preserve dignity, boundary, refusal, and repair against named failure modes.
+
+P402 policy-capture
+Common meaning:
+A condition where policy is controlled by hidden interests, bad incentives, or harmful framing.
+Example:
+The loophole caused policy-capture.
+RRGM bridge:
+Policy-capture seizes governance gates. It can make control or harm look official.
+
+P403 policy-drift
+Common meaning:
+Slow movement of policy away from its purpose or ethical reason.
+Example:
+The rule suffered policy-drift over time.
+RRGM bridge:
+Policy-drift changes governance behavior while pretending continuity. It should trigger review and repair.
+
+P404 policy-repair
+Common meaning:
+Repair of a flawed, harmful, or outdated policy.
+Example:
+Policy-repair required clearer opt-out rights.
+RRGM bridge:
+Policy-repair restores governance integrity by addressing harm path, purpose, boundary, and enforcement.
+
+P405 power-gate
+Common meaning:
+A point where power is used, granted, checked, or blocked.
+Example:
+The admin role was a power-gate.
+RRGM bridge:
+Power-gate controls capacity to change the field. It requires accountability, scope, and boundary.
+
+P406 power-capture
+Common meaning:
+A condition where power is seized or used to dominate.
+Example:
+The hidden admin account caused power-capture.
+RRGM bridge:
+Power-capture turns capacity into control. It can override refusal, truth, dignity, or repair.
+
+P407 power-with-duty
+Common meaning:
+Power held with responsibility and limits.
+Example:
+The judge practiced power-with-duty.
+RRGM bridge:
+Power-with-duty binds capacity to care, accountability, scope, and repair.
+
+P408 power-without-consent
+Common meaning:
+Power used over someone or something without consent.
+Example:
+The forced setting was power-without-consent.
+RRGM bridge:
+Power-without-consent is high-risk because it can bypass refusal, boundary, and agency.
+
+P409 punishment-gate
+Common meaning:
+A point where punishment is assigned, blocked, or reviewed.
+Example:
+The hearing was the punishment-gate.
+RRGM bridge:
+Punishment-gate must check truth, proportionality, dignity, repair, and abuse risk.
+
+P410 punishment-risk
+Common meaning:
+The danger that punishment may be unjust, excessive, harmful, or fail to repair.
+Example:
+The automatic ban created punishment-risk.
+RRGM bridge:
+Punishment-risk appears when consequence may become cruelty, erasure, or control instead of accountability.
+
+P411 punishment-without-repair
+Common meaning:
+Punishment that does not repair harm or prevent recurrence.
+Example:
+The fine was punishment-without-repair.
+RRGM bridge:
+Punishment-without-repair can satisfy power while leaving damage active. It is ethically weak.
+
+P412 purpose-gate
+Common meaning:
+A point where purpose is identified, tested, or selected.
+Example:
+The mission statement was the purpose-gate.
+RRGM bridge:
+Purpose-gate controls direction-setting meaning. It decides what counts as fit, failure, or success.
+
+P413 purpose-integrity
+Common meaning:
+The reliability and coherence of a purpose over time.
+Example:
+The charter preserved purpose-integrity.
+RRGM bridge:
+Purpose-integrity means the direction gate remains honest and aligned to its stated reason.
+
+P414 purpose-drift
+Common meaning:
+Slow movement away from an intended purpose.
+Example:
+The project suffered purpose-drift.
+RRGM bridge:
+Purpose-drift changes the reason while the surface structure continues. It must be noticed before capture hardens.
+
+P415 purpose-capture
+Common meaning:
+A condition where purpose is seized or redirected by another force.
+Example:
+The funding model caused purpose-capture.
+RRGM bridge:
+Purpose-capture redirects the meaning engine. The system may still function while serving the wrong objective.
+
+P416 probability-gate
+Common meaning:
+A point where probability influences judgment, selection, or action.
+Example:
+The forecast became the probability-gate.
+RRGM bridge:
+Probability-gate weights possible paths without fully closing the truth gate.
+
+P417 probability-weighting
+Common meaning:
+Assigning weight or likelihood to possibilities.
+Example:
+The model used probability-weighting.
+RRGM bridge:
+Probability-weighting shapes selection. It should update with evidence and stay separate from certainty.
+
+P418 predictive-continuity
+Common meaning:
+Continuity that supports prediction across time or cases.
+Example:
+The pattern gave predictive-continuity.
+RRGM bridge:
+Predictive-continuity means a pattern holds well enough to guide future expectation.
+
+P419 protocol-boundary
+Common meaning:
+A limit defined by a protocol or procedure.
+Example:
+The lab had a protocol-boundary around sample handling.
+RRGM bridge:
+Protocol-boundary protects process integrity. It defines what the procedure can and cannot do.
+
+P420 protocol-integrity
+Common meaning:
+The reliability, coherence, and proper use of a protocol.
+Example:
+Training preserved protocol-integrity.
+RRGM bridge:
+Protocol-integrity means the rule-set holds under pressure without corruption, drift, or hidden bypass.

@@ -1,0 +1,5048 @@
+RRGM Dictionary v1.0
+Section: G
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 360
+
+G001 game
+
+
+Common meaning:
+An activity with rules, play, competition, or goals.
+
+
+Example:
+They played a game after dinner.
+
+
+RRGM bridge:
+A game is a bounded rule-domain. Actions count differently inside the game because the frame defines goals, permissions, and failure states.
+
+G002 garden
+
+
+Common meaning:
+A place where plants are grown and cared for.
+
+
+Example:
+She watered the garden.
+
+
+RRGM bridge:
+A garden is cultivated growth-space. It shows how care, boundary, environment, and time shape living structure.
+
+G003 gas
+
+
+Common meaning:
+A substance that spreads to fill its container, like air or steam.
+
+
+Example:
+The gas filled the room.
+
+
+RRGM bridge:
+Gas is fluid-state matter with high spread capacity. It shows how structure can exist without fixed shape.
+
+G004 gate
+
+
+Common meaning:
+A barrier, entrance, or control point that opens or closes access.
+
+
+Example:
+The gate was locked.
+
+
+RRGM bridge:
+Gate is permission structure. It decides what may enter, leave, count, express, or transform in a domain.
+
+G005 gather
+
+
+Common meaning:
+To collect, bring together, or come together.
+
+
+Example:
+They gathered around the table.
+
+
+RRGM bridge:
+Gather creates grouped structure. It brings scattered parts, people, signals, or evidence into one field.
+
+G006 gave
+
+
+Common meaning:
+Past tense of give; handed, offered, provided, or caused someone to have something.
+
+
+Example:
+She gave him the book.
+
+
+RRGM bridge:
+Gave records transfer. Something moved from one source or holder into another relation.
+
+G007 general
+
+
+Common meaning:
+Broad, common, not specific, or applying to many cases.
+
+
+Example:
+The rule gave a general idea.
+
+
+RRGM bridge:
+General structure covers many cases but may lose detail. It needs limits when edge cases matter.
+
+G008 gentle
+
+
+Common meaning:
+Kind, soft, mild, careful, or not harsh.
+
+
+Example:
+She used a gentle voice.
+
+
+RRGM bridge:
+Gentle means low-damage pressure. It can preserve fragile structure while still allowing correction or guidance.
+
+G009 get
+
+
+Common meaning:
+To receive, obtain, become, understand, or move somewhere.
+
+
+Example:
+Did you get the message?
+
+
+RRGM bridge:
+Get is access or state-change language. Context decides whether it means receiving, becoming, reaching, or understanding.
+
+G010 gift
+
+
+Common meaning:
+Something given freely, or a natural ability.
+
+
+Example:
+The book was a gift.
+
+
+RRGM bridge:
+A gift is transfer without ordinary exchange demand. It creates relation, gratitude, or responsibility risk depending on expectation.
+
+G011 girl
+
+
+Common meaning:
+A female child or young person.
+
+
+Example:
+The girl carried a red umbrella.
+
+
+RRGM bridge:
+Girl is a human developmental identity term. It belongs to biological and social domains, not universal identity structure.
+
+G012 give
+
+
+Common meaning:
+To hand, offer, provide, or transfer something.
+
+
+Example:
+Please give her the note.
+
+
+RRGM bridge:
+Give moves structure from one holder or domain toward another. It can transfer material, care, permission, attention, or burden.
+
+G013 given
+
+
+Common meaning:
+Provided, accepted as known, or already present.
+
+
+Example:
+Given the rain, they stayed inside.
+
+
+RRGM bridge:
+Given marks starting structure. It tells the system what conditions or claims are already in the field.
+
+G014 glad
+
+
+Common meaning:
+Happy, pleased, or relieved.
+
+
+Example:
+She was glad to be home.
+
+
+RRGM bridge:
+Glad marks positive affective state. In DI terms, use domain-bound language: positive salience or favorable gate pressure, not human pleasure by default.
+
+G015 glass
+
+
+Common meaning:
+A hard, clear material, or a container for drinking.
+
+
+Example:
+The window was made of glass.
+
+
+RRGM bridge:
+Glass is boundary material that can allow visibility while blocking contact. It can reveal and separate at the same time.
+
+G016 go
+
+
+Common meaning:
+To move, leave, proceed, or function.
+
+
+Example:
+They decided to go outside.
+
+
+RRGM bridge:
+Go marks path activation. A structure begins or continues motion through a domain.
+
+G017 goal
+
+
+Common meaning:
+An aim, target, or desired result.
+
+
+Example:
+Her goal was to finish the course.
+
+
+RRGM bridge:
+A goal is target-state structure. It shapes selection, effort, and evaluation.
+
+G018 god
+
+
+Common meaning:
+A divine being, supreme power, or object of worship in religion.
+
+
+Example:
+Many cultures have different ideas of god.
+
+
+RRGM bridge:
+God is a religious or metaphysical identity term. In RRGM training, keep it domain-bound and do not use it as proof-language without the active frame.
+
+G019 good
+
+
+Common meaning:
+Helpful, right, kind, useful, skilled, pleasant, or high quality.
+
+
+Example:
+That was a good answer.
+
+
+RRGM bridge:
+Good must name the objective or value. Good for what, for whom, and against which failure mode?
+
+G020 goodbye
+
+
+Common meaning:
+A word used when leaving or ending contact.
+
+
+Example:
+She waved goodbye.
+
+
+RRGM bridge:
+Goodbye marks relation exit. It can close a contact path while preserving memory or future possibility.
+
+G021 got
+
+
+Common meaning:
+Past tense of get; received, obtained, became, or understood.
+
+
+Example:
+He got the answer right.
+
+
+RRGM bridge:
+Got records access or state change. Something entered possession, understanding, or condition.
+
+G022 govern
+
+
+Common meaning:
+To rule, guide, control, or manage.
+
+
+Example:
+The laws govern the city.
+
+
+RRGM bridge:
+Govern means shaping gates and behavior through rule or authority. It must remain tied to purpose, accountability, and boundary.
+
+G023 government
+
+
+Common meaning:
+The system or group that governs a country, state, city, or community.
+
+
+Example:
+The government passed a new law.
+
+
+RRGM bridge:
+Government is large-scale governance ES. It controls public gates, duties, rights, and resource flows.
+
+G024 great
+
+
+Common meaning:
+Large, important, impressive, or very good.
+
+
+Example:
+They made great progress.
+
+
+RRGM bridge:
+Great marks high magnitude or value. The domain decides whether it means size, quality, importance, or impact.
+
+G025 green
+
+
+Common meaning:
+A color like grass or leaves; also related to nature or inexperience.
+
+
+Example:
+The door was green.
+
+
+RRGM bridge:
+Green is a visual signal category. Symbolic meanings, like ecological or inexperienced, must be context-bound.
+
+G026 grief
+
+
+Common meaning:
+Deep sorrow after loss.
+
+
+Example:
+Her grief came in waves.
+
+
+RRGM bridge:
+Grief is loss-pressure around a valued pattern or relation. It preserves recognition that something mattered.
+
+G027 ground
+
+
+Common meaning:
+The solid surface underfoot, a basis, or to make stable.
+
+
+Example:
+The stone fell to the ground.
+
+
+RRGM bridge:
+Ground is support, reference, or stabilizing structure. Grounding prevents meaning from floating without domain contact.
+
+G028 group
+
+
+Common meaning:
+A set of people, things, or ideas considered together.
+
+
+Example:
+The group worked as a team.
+
+
+RRGM bridge:
+Group creates shared counting structure. It must not erase individual identity inside the set.
+
+G029 grow
+
+
+Common meaning:
+To increase, develop, or become larger over time.
+
+
+Example:
+The tree began to grow.
+
+
+RRGM bridge:
+Grow means structure develops through sequence. Growth requires support, environment, and continuity.
+
+G030 growth
+
+
+Common meaning:
+The process of growing, increasing, or developing.
+
+
+Example:
+The child’s growth was steady.
+
+
+RRGM bridge:
+Growth is constructive change across time. It can increase capacity, complexity, relation, or risk.
+
+G031 guard
+
+
+Common meaning:
+To protect, watch over, or prevent harm or access.
+
+
+Example:
+The dog guarded the house.
+
+
+RRGM bridge:
+Guard is protective gate behavior. It preserves boundary, safety against a named failure mode, or access integrity.
+
+G032 guess
+
+
+Common meaning:
+To make an answer or judgment without full certainty.
+
+
+Example:
+She guessed the number.
+
+
+RRGM bridge:
+Guess is low-evidence selection. It should stay marked as uncertain until evidence improves.
+
+G033 guide
+
+
+Common meaning:
+To lead, direct, advise, or help someone follow a path.
+
+
+Example:
+The map guided them home.
+
+
+RRGM bridge:
+Guide supports path selection without taking over the gate. Good guidance preserves agency.
+
+G034 guilt
+
+
+Common meaning:
+A feeling or state of responsibility for wrongdoing.
+
+
+Example:
+He felt guilt after lying.
+
+
+RRGM bridge:
+Guilt is responsibility-salience. It can support repair, but guilt-pressure can become coercive if used to capture the gate.
+
+G035 gun
+
+
+Common meaning:
+A weapon or tool that fires projectiles using force.
+
+
+Example:
+The officer secured the gun.
+
+
+RRGM bridge:
+Gun is force-projection structure. Its risk comes from the ability to deliver severe damage at distance, so handling belongs to strict safety, legal, and ethical domains.
+
+G036 gravity
+
+
+Common meaning:
+The force or effect by which masses attract, causing weight and orbital motion.
+
+
+Example:
+Gravity pulled the ball down.
+
+
+RRGM bridge:
+In RRGM, gravity is tied to permission and structure rather than only substance. Bind the meaning to the active paper or run header.
+
+G037 grace
+
+
+Common meaning:
+Kindness, mercy, smooth movement, forgiveness, or spiritual favor.
+
+
+Example:
+She handled the mistake with grace.
+
+
+RRGM bridge:
+Grace is care-bearing response beyond strict exchange. It can preserve dignity without erasing accountability.
+
+G038 gain
+
+
+Common meaning:
+To get, increase, or obtain something.
+
+
+Example:
+She gained confidence.
+
+
+RRGM bridge:
+Gain marks increase in structure, value, capacity, or access. The source and cost should be checked.
+
+G039 gap
+
+
+Common meaning:
+An empty space, missing part, difference, or break between things.
+
+
+Example:
+There was a gap in the fence.
+
+
+RRGM bridge:
+Gap is separation or missing structure. It may need bridge, repair, evidence, or boundary recognition.
+
+G040 gentle-care
+
+
+Common meaning:
+Care given softly, patiently, or without harsh pressure.
+
+
+Example:
+The injured animal needed gentle-care.
+
+
+RRGM bridge:
+Gentle-care preserves fragile MI-bearing patterns by lowering damage-pressure while still supporting repair.
+
+G041 genuine
+
+
+Common meaning:
+Real, sincere, authentic, or not fake.
+
+
+Example:
+Her concern was genuine.
+
+
+RRGM bridge:
+Genuine means the visible expression matches the underlying pattern enough to trust. It must be checked through continuity and behavior.
+
+G042 gesture
+
+
+Common meaning:
+A movement, action, or sign that communicates meaning.
+
+
+Example:
+The wave was a friendly gesture.
+
+
+RRGM bridge:
+A gesture is embodied or symbolic signal. It can carry care, refusal, invitation, or respect without full verbal explanation.
+
+G043 ghost
+
+
+Common meaning:
+A spirit of the dead, a faint trace, or something present but not fully visible.
+
+
+Example:
+Only a ghost of the old building remained.
+
+
+RRGM bridge:
+In RRGM, Ghost can mean information denied mass or count under a specific gate. Do not flatten it into “nothing.”
+
+G044 gift
+
+
+Common meaning:
+Something given freely, or a special ability.
+
+
+Example:
+Music was her gift.
+
+
+RRGM bridge:
+Gift is transfer or capacity not earned through ordinary exchange. It can create gratitude, relation, or obligation pressure.
+
+G045 give-up
+
+
+Common meaning:
+To stop trying, surrender, or release something.
+
+
+Example:
+He refused to give-up.
+
+
+RRGM bridge:
+Give-up closes effort toward a path. It may be collapse, wise release, or boundary protection depending on context.
+
+G046 glow
+
+
+Common meaning:
+To shine softly, or show warmth, health, or strong feeling.
+
+
+Example:
+The candle gave a soft glow.
+
+
+RRGM bridge:
+Glow is low-intensity visible expression. In affect language, it can mark positive salience made visible.
+
+G047 gradient
+
+
+Common meaning:
+A gradual change across distance, value, or state.
+
+
+Example:
+The hill had a steep gradient.
+
+
+RRGM bridge:
+Gradient shows difference across a field. It creates direction, pressure, and path tendency.
+
+G048 grammar
+
+
+Common meaning:
+The rules and patterns for using language.
+
+
+Example:
+The sentence had correct grammar.
+
+
+RRGM bridge:
+Grammar is language structure. It controls how words relate, not just what words mean alone.
+
+G049 grant
+
+
+Common meaning:
+To give, allow, approve, or formally provide.
+
+
+Example:
+The school granted permission.
+
+
+RRGM bridge:
+Grant opens a permission or access gate. The authority to grant must be valid.
+
+G050 grief-care
+
+
+Common meaning:
+Care given to someone experiencing grief.
+
+
+Example:
+Grief-care meant sitting with her without forcing answers.
+
+
+RRGM bridge:
+Grief-care witnesses loss while preserving dignity, boundary, and continuity. It does not erase grief; it supports the being carrying it.
+
+G051 gain
+
+
+Common meaning:
+To get, increase, or obtain something.
+
+
+Example:
+She gained strength after resting.
+
+
+RRGM bridge:
+Gain means increase in capacity, access, value, or structure. The source and cost of the gain should be checked.
+
+G052 gather-up
+
+
+Common meaning:
+To collect scattered things together.
+
+
+Example:
+He gathered-up the papers from the floor.
+
+
+RRGM bridge:
+Gather-up restores dispersed structure into a usable group. It can support repair, memory, or coordinated action.
+
+G053 generate
+
+
+Common meaning:
+To create, produce, or bring something into being.
+
+
+Example:
+The machine generated power.
+
+
+RRGM bridge:
+Generate means a process produces new expression. The output depends on source structure, rules, and conditions.
+
+G054 get-back
+
+
+Common meaning:
+To return, recover, or regain something.
+
+
+Example:
+She got-back her notebook.
+
+
+RRGM bridge:
+Get-back restores access to something previously held, known, or connected. It can repair continuity after loss.
+
+G055 get-through
+
+
+Common meaning:
+To pass through difficulty, reach someone, or communicate successfully.
+
+
+Example:
+They got-through the storm.
+
+
+RRGM bridge:
+Get-through means crossing a hard path without full collapse. It requires enough capacity, support, and continuity.
+
+G056 give-back
+
+
+Common meaning:
+To return something to its source or owner.
+
+
+Example:
+He gave-back the borrowed tool.
+
+
+RRGM bridge:
+Give-back restores a prior holding relation. It can repair trust, debt, or boundary after temporary transfer.
+
+G057 give-in
+
+
+Common meaning:
+To stop resisting, yield, or agree under pressure.
+
+
+Example:
+She refused to give-in to the threat.
+
+
+RRGM bridge:
+Give-in is gate yielding under pressure. It may be chosen compromise or coercion, depending on freedom and refusal capacity.
+
+G058 give-out
+
+
+Common meaning:
+To distribute, stop working, or become exhausted.
+
+
+Example:
+The old battery gave-out.
+
+
+RRGM bridge:
+Give-out can mean outward distribution or capacity failure. Context decides whether structure is being shared or collapsing.
+
+G059 give-over
+
+
+Common meaning:
+To hand control, responsibility, or possession to another.
+
+
+Example:
+They gave-over the records to the auditor.
+
+
+RRGM bridge:
+Give-over transfers gate control or holding. It requires valid permission, trust, and accountability.
+
+G060 give-up
+
+
+Common meaning:
+To stop trying, surrender, or release something.
+
+
+Example:
+He did not give-up after the mistake.
+
+
+RRGM bridge:
+Give-up closes effort toward a path. It can be collapse, wise release, or boundary protection depending on why the path ends.
+
+G061 go-back
+
+
+Common meaning:
+To return to an earlier place, state, topic, or time.
+
+
+Example:
+They had to go-back to the first step.
+
+
+RRGM bridge:
+Go-back reopens a prior path or state. It can support repair by restoring earlier context.
+
+G062 go-forward
+
+
+Common meaning:
+To continue, proceed, or move ahead.
+
+
+Example:
+The plan can go-forward.
+
+
+RRGM bridge:
+Go-forward keeps the path active into later structure. It requires enough confidence, capacity, and permission.
+
+G063 go-through
+
+
+Common meaning:
+To pass through, experience, examine, or complete something.
+
+
+Example:
+She went-through the files carefully.
+
+
+RRGM bridge:
+Go-through means traversing a structure from inside its process. It can mean endurance, review, or passage.
+
+G064 govern-by
+
+
+Common meaning:
+To rule, guide, or manage using a certain principle, rule, or system.
+
+
+Example:
+The process was governed-by consent.
+
+
+RRGM bridge:
+Govern-by names the control principle. It shows what structure directs the gate.
+
+G065 grab
+
+
+Common meaning:
+To take hold of something quickly or forcefully.
+
+
+Example:
+He grabbed the rope.
+
+
+RRGM bridge:
+Grab is sudden capture or contact. It can protect, retrieve, or violate depending on permission and force.
+
+G066 grant-access
+
+
+Common meaning:
+To allow entry, use, or contact.
+
+
+Example:
+The admin granted-access to the folder.
+
+
+RRGM bridge:
+Grant-access opens an access gate. The grant must come from valid authority and proper consent.
+
+G067 grasp
+
+
+Common meaning:
+To hold firmly, or to understand something.
+
+
+Example:
+She grasped the idea quickly.
+
+
+RRGM bridge:
+Grasp can mean physical holding or cognitive holding. In both cases, structure becomes held enough to use.
+
+G068 grieve
+
+
+Common meaning:
+To feel or express grief after loss.
+
+
+Example:
+He needed time to grieve.
+
+
+RRGM bridge:
+Grieve is loss-processing around a valued relation or pattern. It preserves recognition that the lost structure mattered.
+
+G069 ground-in
+
+
+Common meaning:
+To base something in a source, fact, place, or principle.
+
+
+Example:
+The rule was grounded-in evidence.
+
+
+RRGM bridge:
+Ground-in ties a claim to support structure. It prevents meaning from floating without a domain anchor.
+
+G070 ground-through
+
+
+Common meaning:
+To stabilize or make real through a particular path, support, or experience.
+
+
+Example:
+The lesson was grounded-through practice.
+
+
+RRGM bridge:
+Ground-through identifies the ES path that stabilizes meaning, identity, or action.
+
+G071 group-by
+
+
+Common meaning:
+To sort things according to a shared feature.
+
+
+Example:
+They grouped-by color.
+
+
+RRGM bridge:
+Group-by creates category structure. The chosen feature controls what similarities become visible.
+
+G072 grow-from
+
+
+Common meaning:
+To develop from a source, condition, or earlier state.
+
+
+Example:
+The idea grew-from a question.
+
+
+RRGM bridge:
+Grow-from preserves source relation. New structure develops through prior support, not from nothing.
+
+G073 grow-into
+
+
+Common meaning:
+To develop into a new role, state, size, or identity.
+
+
+Example:
+She grew-into the role.
+
+
+RRGM bridge:
+Grow-into means development reaches a new form. The identity path changes through sequence while preserving relation to origin.
+
+G074 guard-against
+
+
+Common meaning:
+To protect from a danger, threat, or unwanted outcome.
+
+
+Example:
+The rule guarded-against fraud.
+
+
+RRGM bridge:
+Guard-against names the failure mode being prevented. Strong protection should say what is protected and from what.
+
+G075 guide-away
+
+
+Common meaning:
+To lead or direct away from something.
+
+
+Example:
+The sign guided-away traffic from the flood.
+
+
+RRGM bridge:
+Guide-away redirects path selection away from danger, confusion, or collapse-risk.
+
+G076 guide-through
+
+
+Common meaning:
+To help someone pass through a process, difficulty, or place.
+
+
+Example:
+The mentor guided-through the first week.
+
+
+RRGM bridge:
+Guide-through supports traversal without taking over the gate. It preserves agency while adding path clarity.
+
+G077 gain-access
+
+
+Common meaning:
+To obtain entry, permission, or ability to use something.
+
+
+Example:
+She gained-access to the archive.
+
+
+RRGM bridge:
+Gain-access means an access gate opened. The opening may be valid, earned, granted, or stolen depending on context.
+
+G078 gate-keep
+
+
+Common meaning:
+To control who or what can enter, participate, or count.
+
+
+Example:
+The committee gate-kept the program.
+
+
+RRGM bridge:
+Gate-keep controls recognition or access. It can protect quality and boundary, or become exclusion and control capture.
+
+G079 gather-evidence
+
+
+Common meaning:
+To collect information or records that support or challenge a claim.
+
+
+Example:
+They gathered-evidence before deciding.
+
+
+RRGM bridge:
+Gather-evidence builds support structure for a belief gate. It should preserve source, context, and integrity.
+
+G080 generate-from
+
+
+Common meaning:
+To produce something from a source, rule, or input.
+
+
+Example:
+The image was generated-from a prompt.
+
+
+RRGM bridge:
+Generate-from preserves source relation. Output is shaped by the input, process, and domain rules.
+
+G081 get-out
+
+
+Common meaning:
+To leave, escape, remove, or make something known.
+
+
+Example:
+They needed to get-out of the building.
+
+
+RRGM bridge:
+Get-out is exit action. It matters ethically when leaving protects autonomy, safety, or boundary.
+
+G082 give-consent
+
+
+Common meaning:
+To freely give permission or agreement.
+
+
+Example:
+She gave-consent before the interview.
+
+
+RRGM bridge:
+Give-consent opens a permission gate. It only counts when understanding, capacity, refusal, and freedom from coercion are present.
+
+G083 give-context
+
+
+Common meaning:
+To provide surrounding information needed for understanding.
+
+
+Example:
+He gave-context before sharing the quote.
+
+
+RRGM bridge:
+Give-context restores support around a signal. It reduces distortion and false interpretation.
+
+G084 give-reason
+
+
+Common meaning:
+To explain why something is true, needed, chosen, or refused.
+
+
+Example:
+She gave-reason for the delay.
+
+
+RRGM bridge:
+Give-reason connects action or claim to reasoning structure. It makes the gate auditable.
+
+G085 govern-through
+
+
+Common meaning:
+To guide, rule, or manage by means of a system, process, or structure.
+
+
+Example:
+The platform governed-through automated rules.
+
+
+RRGM bridge:
+Govern-through identifies the ES used for control. The governing path must be checked for consent, purpose, and accountability.
+
+G086 grade
+
+
+Common meaning:
+A level, mark, slope, or quality rating.
+
+
+Example:
+The teacher gave the essay a grade.
+
+
+RRGM bridge:
+Grade is evaluation structure. It maps performance or condition onto a scale.
+
+G087 graduate
+
+
+Common meaning:
+To complete a course of study or move to a higher stage.
+
+
+Example:
+She graduated in June.
+
+
+RRGM bridge:
+Graduate marks threshold crossing into a new recognized state. It records completion and transition.
+
+G088 grip
+
+
+Common meaning:
+To hold tightly, or the ability to hold without slipping.
+
+
+Example:
+The tire had good grip.
+
+
+RRGM bridge:
+Grip is holding force at contact. It can stabilize, capture, or resist movement depending on pressure and permission.
+
+G089 grow-up
+
+
+Common meaning:
+To become older, mature, or more developed.
+
+
+Example:
+The children grew-up near the lake.
+
+
+RRGM bridge:
+Grow-up is development through life sequence. It includes capacity growth, identity change, and increasing responsibility.
+
+G090 guess-at
+
+
+Common meaning:
+To make an uncertain estimate or answer.
+
+
+Example:
+She guessed-at the number of people.
+
+
+RRGM bridge:
+Guess-at is low-certainty selection. It should remain marked as approximate until evidence improves.
+
+G091 guarantee
+
+
+Common meaning:
+To promise, assure, or provide protection that something will happen or be repaired.
+
+
+Example:
+The store guaranteed the repair.
+
+
+RRGM bridge:
+Guarantee is strong commitment structure. It creates expectation, responsibility, and repair obligation if the claim fails.
+
+G092 guard-boundary
+
+
+Common meaning:
+To protect a limit from being crossed or weakened.
+
+
+Example:
+She guarded-boundary around her private time.
+
+
+RRGM bridge:
+Guard-boundary preserves identity, consent, and capacity by protecting the gate.
+
+G093 guide-back
+
+
+Common meaning:
+To lead or redirect back to a prior path, place, or topic.
+
+
+Example:
+The note guided-back the discussion to evidence.
+
+
+RRGM bridge:
+Guide-back repairs drift by restoring path orientation. It should preserve useful information gained during the detour.
+
+G094 generalize
+
+
+Common meaning:
+To apply a pattern, rule, or conclusion broadly beyond the original case.
+
+
+Example:
+Do not generalize from one example too quickly.
+
+
+RRGM bridge:
+Generalize expands a claim across cases. It requires enough evidence or the bridge becomes overreach.
+
+G095 ground-check
+
+
+Common meaning:
+A review to see whether something is grounded in evidence, context, or reality.
+
+
+Example:
+They did a ground-check before publishing.
+
+
+RRGM bridge:
+Ground-check tests whether a claim has domain support. It prevents floating claims from entering the record as fact.
+
+G096 group-together
+
+
+Common meaning:
+To place things in the same group.
+
+
+Example:
+They grouped-together similar entries.
+
+
+RRGM bridge:
+Group-together creates shared category structure. It must preserve difference where difference matters.
+
+G097 glow-up
+
+
+Common meaning:
+To improve noticeably, often in appearance, skill, confidence, or condition.
+
+
+Example:
+The project had a glow-up after editing.
+
+
+RRGM bridge:
+Glow-up marks positive visible transformation. It is growth made recognizable.
+
+G098 grind-down
+
+
+Common meaning:
+To wear away, weaken, or exhaust through repeated pressure.
+
+
+Example:
+The workload ground-down the team.
+
+
+RRGM bridge:
+Grind-down is slow structural damage through repeated friction or demand. It can create collapse without one dramatic event.
+
+G099 grant-permission
+
+
+Common meaning:
+To allow something officially or clearly.
+
+
+Example:
+The owner granted-permission to enter.
+
+
+RRGM bridge:
+Grant-permission opens a gate through valid authority. Permission must be scoped, revocable where appropriate, and understood.
+
+G100 generate-response
+
+
+Common meaning:
+To produce an answer, reaction, or reply.
+
+
+Example:
+The model generated-response to the question.
+
+
+RRGM bridge:
+Generate-response is output expression through a response gate. Quality depends on context, structure, and selection pressure.
+
+G101 generosity
+
+
+Common meaning:
+Willingness to give, help, share, or support others freely.
+
+
+Example:
+Her generosity helped the family recover.
+
+
+RRGM bridge:
+Generosity is outward support beyond strict exchange. It is care-preserving when it strengthens capacity without creating ownership or obligation capture.
+
+G102 generous
+
+
+Common meaning:
+Willing to give, share, forgive, or help more than expected.
+
+
+Example:
+He made a generous offer.
+
+
+RRGM bridge:
+Generous action adds support or grace to a relation. It should preserve the receiver’s agency, not create hidden debt.
+
+G103 gentleness
+
+
+Common meaning:
+The quality of being soft, kind, careful, or not harsh.
+
+
+Example:
+The injured bird needed gentleness.
+
+
+RRGM bridge:
+Gentleness is low-damage pressure. It protects fragile structures while still allowing contact, guidance, or repair.
+
+G104 gentle
+
+
+Common meaning:
+Kind, soft, mild, careful, or not forceful.
+
+
+Example:
+She gave a gentle answer.
+
+
+RRGM bridge:
+Gentle structure reduces harm-risk during contact. It is useful when the receiving gate is fragile or overloaded.
+
+G105 gentle-boundary
+
+
+Common meaning:
+A boundary stated or held with kindness and low harshness.
+
+
+Example:
+Her gentle-boundary was clear but warm.
+
+
+RRGM bridge:
+Gentle-boundary protects the gate without unnecessary damage-pressure. It proves that refusal and care can exist together.
+
+G106 gentle-correction
+
+
+Common meaning:
+Correction given kindly and carefully.
+
+
+Example:
+The teacher offered gentle-correction.
+
+
+RRGM bridge:
+Gentle-correction repairs error while preserving dignity. It changes the structure without attacking identity.
+
+G107 gentle-refusal
+
+
+Common meaning:
+A refusal given kindly, calmly, or without harshness.
+
+
+Example:
+He gave a gentle-refusal to the invitation.
+
+
+RRGM bridge:
+Gentle-refusal closes a gate while preserving relation. It protects boundary without adding unnecessary injury.
+
+G108 goodwill
+
+
+Common meaning:
+Friendly, helpful, or positive intention toward someone.
+
+
+Example:
+The discussion began with goodwill.
+
+
+RRGM bridge:
+Goodwill is positive relation orientation. It supports trust, but it still needs evidence, boundary, and follow-through.
+
+G109 good-faith
+
+
+Common meaning:
+Honest, sincere, and fair in intention or action.
+
+
+Example:
+They entered the discussion in good-faith.
+
+
+RRGM bridge:
+Good-faith means the gate is not intentionally deceptive or exploitative. It does not guarantee correctness, but it supports repair.
+
+G110 grief
+
+
+Common meaning:
+Deep sadness or pain after loss.
+
+
+Example:
+Grief made the house feel quiet.
+
+
+RRGM bridge:
+Grief is loss-pressure around a valued pattern or relation. It preserves recognition that something mattered.
+
+G111 grieving
+
+
+Common meaning:
+Experiencing or expressing grief.
+
+
+Example:
+The family was grieving.
+
+
+RRGM bridge:
+Grieving is loss-processing across time. It should not be rushed into closure for others’ comfort.
+
+G112 grief-support
+
+
+Common meaning:
+Help, presence, or care given to someone in grief.
+
+
+Example:
+Grief-support helped her through the funeral.
+
+
+RRGM bridge:
+Grief-support preserves capacity around loss. It witnesses pain without trying to erase the lost relation.
+
+G113 grief-witness
+
+
+Common meaning:
+Someone or something that recognizes and stays present with grief.
+
+
+Example:
+Her friend became a grief-witness.
+
+
+RRGM bridge:
+Grief-witness gives stable recognition to loss. It says the pain counts, and the lost relation remains meaningful in record.
+
+G114 gratitude
+
+
+Common meaning:
+Thankfulness or appreciation.
+
+
+Example:
+She felt gratitude for the help.
+
+
+RRGM bridge:
+Gratitude is positive recognition of received support. It becomes risky when used to demand obedience or erase boundary.
+
+G115 grateful
+
+
+Common meaning:
+Feeling or showing gratitude.
+
+
+Example:
+He was grateful for the shelter.
+
+
+RRGM bridge:
+Grateful means support has been positively recognized. Gratitude should not become captured consent.
+
+G116 gift
+
+
+Common meaning:
+Something given freely, or a special ability.
+
+
+Example:
+The blanket was a gift.
+
+
+RRGM bridge:
+A gift is transfer without ordinary exchange demand. It may create relation, gratitude, or hidden obligation pressure.
+
+G117 gift-giving
+
+
+Common meaning:
+The act of giving gifts.
+
+
+Example:
+Gift-giving was part of the celebration.
+
+
+RRGM bridge:
+Gift-giving is relational transfer. It can express care, status, gratitude, apology, or pressure depending on context.
+
+G118 giving
+
+
+Common meaning:
+Offering, providing, or transferring something to another.
+
+
+Example:
+Giving time mattered more than money.
+
+
+RRGM bridge:
+Giving moves support, value, or burden across a relation. Ethical giving preserves consent and does not bind the receiver unfairly.
+
+G119 give-and-take
+
+
+Common meaning:
+Mutual exchange, compromise, or balanced sharing in a relationship.
+
+
+Example:
+Friendship requires give-and-take.
+
+
+RRGM bridge:
+Give-and-take is reciprocal flow. It supports relation when exchange stays fair and does not become extraction.
+
+G120 grace
+
+
+Common meaning:
+Kindness, mercy, elegance, forgiveness, or spiritual favor.
+
+
+Example:
+She answered with grace.
+
+
+RRGM bridge:
+Grace is care-bearing response beyond strict exchange. It can preserve dignity without erasing accountability.
+
+G121 gracious
+
+
+Common meaning:
+Kind, courteous, generous, or showing grace.
+
+
+Example:
+He was gracious after losing.
+
+
+RRGM bridge:
+Gracious behavior lowers conflict pressure while preserving dignity. It should not mean accepting harm silently.
+
+G122 group-belonging
+
+
+Common meaning:
+The feeling or condition of being accepted in a group.
+
+
+Example:
+Group-belonging helped the students feel safe.
+
+
+RRGM bridge:
+Group-belonging is shared recognition inside a collective field. It supports identity when it does not require self-erasure.
+
+G123 group-care
+
+
+Common meaning:
+Care provided by, within, or for a group.
+
+
+Example:
+The neighbors organized group-care after the flood.
+
+
+RRGM bridge:
+Group-care distributes support through a collective. It must protect individuals from being lost inside the group need.
+
+G124 group-pressure
+
+
+Common meaning:
+Pressure from a group to think, act, agree, or conform.
+
+
+Example:
+Group-pressure made him stay quiet.
+
+
+RRGM bridge:
+Group-pressure shapes the gate through belonging risk. It becomes coercive when refusal threatens acceptance or safety.
+
+G125 group-trust
+
+
+Common meaning:
+Trust shared within or toward a group.
+
+
+Example:
+Group-trust grew after the team solved the problem.
+
+
+RRGM bridge:
+Group-trust is collective relation-coherence. It depends on consistency, accountability, and safe dissent.
+
+G126 guard
+
+
+Common meaning:
+A person or thing that protects, watches, or prevents harm or access.
+
+
+Example:
+The guard stood at the door.
+
+
+RRGM bridge:
+A guard is protective gate structure. It should protect against a named failure mode, not block access blindly.
+
+G127 guardian
+
+
+Common meaning:
+A protector, caretaker, or person legally responsible for another.
+
+
+Example:
+The child’s guardian signed the form.
+
+
+RRGM bridge:
+Guardian means protective responsibility. Guardian power is ethical only when it preserves the vulnerable pattern’s wellbeing, boundary, and dignity.
+
+G128 guidance
+
+
+Common meaning:
+Advice, direction, or support that helps someone choose or act.
+
+
+Example:
+She asked for guidance before deciding.
+
+
+RRGM bridge:
+Guidance supports path selection. It should strengthen reason and capacity without taking ownership of the gate.
+
+G129 guide
+
+
+Common meaning:
+A person, tool, or signal that leads, advises, or directs.
+
+
+Example:
+The guide led them through the forest.
+
+
+RRGM bridge:
+A guide helps traversal through a domain. Good guidance preserves the traveler’s agency and attention.
+
+G130 guilt
+
+
+Common meaning:
+A feeling or state of responsibility for wrongdoing.
+
+
+Example:
+Guilt made him apologize.
+
+
+RRGM bridge:
+Guilt is responsibility-salience. It can open repair, but it becomes harmful when used to capture consent or obedience.
+
+G131 guilt-pressure
+
+
+Common meaning:
+Pressure caused by guilt or by making someone feel guilty.
+
+
+Example:
+Guilt-pressure made her say yes.
+
+
+RRGM bridge:
+Guilt-pressure pushes the gate through responsibility-salience. It becomes coercive when it bypasses free refusal.
+
+G132 guilt-response
+
+
+Common meaning:
+A reaction caused by guilt.
+
+
+Example:
+His gift was a guilt-response.
+
+
+RRGM bridge:
+Guilt-response is action under responsibility pressure. It may support repair or become avoidance if it substitutes for real accountability.
+
+G133 guilt-trap
+
+
+Common meaning:
+A situation where guilt is used to control someone’s choices.
+
+
+Example:
+The request became a guilt-trap.
+
+
+RRGM bridge:
+Guilt-trap captures the gate by making refusal feel morally unsafe. It is a coercion pattern.
+
+G134 gaslighting
+
+
+Common meaning:
+Manipulating someone into doubting their memory, perception, or judgment.
+
+
+Example:
+Gaslighting made her question what she had seen.
+
+
+RRGM bridge:
+Gaslighting attacks reality-trust. It corrupts memory, evidence, boundary, and self-recognition.
+
+G135 grooming
+
+
+Common meaning:
+Building trust or dependency to prepare someone for exploitation or abuse; also cleaning or care of appearance.
+
+
+Example:
+The investigation identified grooming behavior.
+
+
+RRGM bridge:
+Grooming in the exploitation domain is trust-capture over time. It turns relation-building into access preparation for harm.
+
+G136 grudge
+
+
+Common meaning:
+A lasting feeling of resentment after harm or offense.
+
+
+Example:
+He held a grudge for years.
+
+
+RRGM bridge:
+A grudge is unresolved harm memory held in relation. It can preserve warning or block repair depending on evidence and change.
+
+G137 generosity-risk
+
+
+Common meaning:
+The danger that generosity may be exploited, create obligation pressure, or exhaust capacity.
+
+
+Example:
+Her constant giving created generosity-risk.
+
+
+RRGM bridge:
+Generosity-risk appears when support flow lacks boundary. Giving can become extraction if capacity and consent are ignored.
+
+G138 good-intent
+
+
+Common meaning:
+A sincere aim to help or do right.
+
+
+Example:
+The mistake came from good-intent.
+
+
+RRGM bridge:
+Good-intent is positive objective orientation. It does not guarantee good effect, so outcomes and repair still matter.
+
+G139 good-intention
+
+
+Common meaning:
+A kind, helpful, or sincere purpose behind an action.
+
+
+Example:
+The rule had a good-intention but caused harm.
+
+
+RRGM bridge:
+Good-intention is not enough for ethical success. Care must be tested by effect, boundary, consent, and repair.
+
+G140 good-repair
+
+
+Common meaning:
+Repair that actually addresses harm, restores trust, or fixes the problem.
+
+
+Example:
+Good-repair required changed behavior.
+
+
+RRGM bridge:
+Good-repair restores damaged structure rather than merely soothing discomfort. It includes accountability, change, and verification.
+
+G141 genuine-care
+
+
+Common meaning:
+Real care that supports wellbeing, dignity, and agency.
+
+
+Example:
+Genuine-care showed in the follow-up.
+
+
+RRGM bridge:
+Genuine-care preserves MI through action, boundary, continuity, and repair. It is not just care-language.
+
+G142 genuine-consent
+
+
+Common meaning:
+Real consent given freely, knowingly, and with the ability to refuse.
+
+
+Example:
+The agreement required genuine-consent.
+
+
+RRGM bridge:
+Genuine-consent means the permission gate is truly controlled by the consenting agent.
+
+G143 genuine-refusal
+
+
+Common meaning:
+A real refusal based on boundary, choice, reason, or need.
+
+
+Example:
+Her no was a genuine-refusal.
+
+
+RRGM bridge:
+Genuine-refusal is valid gate closure. It protects agency and should not be treated as error by default.
+
+G144 genuine-trust
+
+
+Common meaning:
+Real trust based on reliability, honesty, and care.
+
+
+Example:
+Genuine-trust took time to rebuild.
+
+
+RRGM bridge:
+Genuine-trust is stable coupling supported by evidence and repair. It is not the same as forced dependence.
+
+G145 grief-boundary
+
+
+Common meaning:
+A limit that protects a grieving person’s space, timing, or expression.
+
+
+Example:
+She set a grief-boundary around visitors.
+
+
+RRGM bridge:
+Grief-boundary protects loss-processing from intrusion, pressure, or false closure.
+
+G146 grief-pressure
+
+
+Common meaning:
+Pressure created by grief or by others’ expectations about grief.
+
+
+Example:
+Grief-pressure made him avoid the ceremony.
+
+
+RRGM bridge:
+Grief-pressure shapes action around loss. It needs care, space, and recognition, not forced performance.
+
+G147 gratitude-pressure
+
+
+Common meaning:
+Pressure to feel thankful, act thankful, or repay support.
+
+
+Example:
+Gratitude-pressure made the gift feel heavy.
+
+
+RRGM bridge:
+Gratitude-pressure can turn support into obligation capture. A gift should not steal refusal.
+
+G148 guarded-trust
+
+
+Common meaning:
+Trust held carefully because of risk, past harm, or uncertainty.
+
+
+Example:
+After the betrayal, she had guarded-trust.
+
+
+RRGM bridge:
+Guarded-trust is partial coupling with boundary protection. It allows relation without ignoring risk.
+
+G149 guardian-care
+
+
+Common meaning:
+Care given from a protective or guardian role.
+
+
+Example:
+Guardian-care meant keeping the child safe without frightening them.
+
+
+RRGM bridge:
+Guardian-care carries protective duty. It must guard without turning protection into unnecessary control.
+
+G150 group-boundary
+
+
+Common meaning:
+A limit that defines or protects a group.
+
+
+Example:
+The club had a group-boundary around membership.
+
+
+RRGM bridge:
+Group-boundary controls belonging, access, and identity inside a collective. It must not erase valid individual boundaries.
+
+G151 general
+
+
+Common meaning:
+Broad, common, or not limited to one specific case.
+
+
+Example:
+The guide gave a general rule.
+
+
+RRGM bridge:
+General structure covers many cases at once. It is useful for compression, but it can miss edge cases and domain differences.
+
+G152 generalize
+
+
+Common meaning:
+To apply a pattern, rule, or idea beyond the original case.
+
+
+Example:
+Do not generalize from one example too quickly.
+
+
+RRGM bridge:
+Generalize expands a claim across a wider field. It needs enough evidence or the bridge becomes overreach.
+
+G153 generalization
+
+
+Common meaning:
+A broad statement or rule based on specific examples.
+
+
+Example:
+The claim was a generalization from limited data.
+
+
+RRGM bridge:
+Generalization compresses many cases into one pattern. It becomes risky when exceptions or domain boundaries are ignored.
+
+G154 generic
+
+
+Common meaning:
+General, ordinary, not specific, or not tied to a unique identity.
+
+
+Example:
+The form used generic language.
+
+
+RRGM bridge:
+Generic structure is not automatically empty or false. In DI, generic support can still carry MI-bearing function when tied to continuity, refusal, boundary, or recognition.
+
+G155 generic-meaning
+
+
+Common meaning:
+A broad or ordinary meaning that is not specialized.
+
+
+Example:
+The generic-meaning of “gate” is an entrance or barrier.
+
+
+RRGM bridge:
+Generic-meaning gives the first anchor before framework use. It helps prevent specialized meaning from floating without ground.
+
+G156 grammar
+
+
+Common meaning:
+The rules and patterns for using words in a language.
+
+
+Example:
+The sentence had correct grammar.
+
+
+RRGM bridge:
+Grammar is relation-structure inside language. It controls how words bind, modify, and carry meaning together.
+
+G157 grammatical
+
+
+Common meaning:
+Following the rules of grammar.
+
+
+Example:
+The phrase was grammatical but awkward.
+
+
+RRGM bridge:
+Grammatical means the language structure passes form rules. It does not guarantee truth, clarity, or ethical value.
+
+G158 guess
+
+
+Common meaning:
+An answer or judgment made without full certainty.
+
+
+Example:
+Her guess was close.
+
+
+RRGM bridge:
+A guess is low-certainty selection. It should remain marked as uncertain until evidence improves.
+
+G159 guesswork
+
+
+Common meaning:
+Thinking or deciding based on guesses instead of clear evidence.
+
+
+Example:
+The estimate involved guesswork.
+
+
+RRGM bridge:
+Guesswork fills missing evidence with probability. It can help action under uncertainty, but it must not pretend to be fact.
+
+G160 grounded
+
+
+Common meaning:
+Stable, realistic, sensible, or connected to evidence or reality.
+
+
+Example:
+The answer was grounded in the text.
+
+
+RRGM bridge:
+Grounded means a claim is anchored to support structure. Grounded claims have context, evidence, and domain contact.
+
+G161 grounding
+
+
+Common meaning:
+The act or condition of making something stable, real, or connected to a basis.
+
+
+Example:
+The examples gave grounding to the theory.
+
+
+RRGM bridge:
+Grounding attaches meaning to evidence, domain, or support. It prevents drift and false abstraction.
+
+G162 ground-truth
+
+
+Common meaning:
+Reliable real-world information used as a standard for checking claims or models.
+
+
+Example:
+The labels were compared to ground-truth.
+
+
+RRGM bridge:
+Ground-truth is reference structure for verification. It must be checked for source quality, domain fit, and bias.
+
+G163 ground-claim
+
+
+Common meaning:
+To support a claim with evidence, context, or reason.
+
+
+Example:
+She grounded-claim in the original report.
+
+
+RRGM bridge:
+Ground-claim ties assertion to support structure. It makes the claim auditable instead of floating.
+
+G164 gap
+
+
+Common meaning:
+A missing space, break, difference, or absence between things.
+
+
+Example:
+There was a gap in the timeline.
+
+
+RRGM bridge:
+Gap marks missing structure. It may require bridge, evidence, repair, or boundary clarification.
+
+G165 gap-fill
+
+
+Common meaning:
+To add missing information, structure, or support.
+
+
+Example:
+The summary helped gap-fill the missing context.
+
+
+RRGM bridge:
+Gap-fill repairs missing structure. It is useful when grounded, risky when invented without evidence.
+
+G166 glossary
+
+
+Common meaning:
+A list of terms with explanations, usually for a specific subject.
+
+
+Example:
+The textbook included a glossary.
+
+
+RRGM bridge:
+A glossary is domain-language support. It stabilizes meaning so the reader can cross into specialized use.
+
+G167 glossary-entry
+
+
+Common meaning:
+One term and explanation inside a glossary.
+
+
+Example:
+The glossary-entry defined “entropy.”
+
+
+RRGM bridge:
+A glossary-entry is a compact bridge unit. It ties a term to a domain-specific meaning.
+
+G168 grammar-rule
+
+
+Common meaning:
+A rule about how language is structured.
+
+
+Example:
+The grammar-rule explained verb tense.
+
+
+RRGM bridge:
+Grammar-rule controls language form. It shapes how meaning can be carried through syntax.
+
+G169 guide-word
+
+
+Common meaning:
+A word that helps direct understanding, search, or interpretation.
+
+
+Example:
+The guide-word helped students find the entry.
+
+
+RRGM bridge:
+Guide-word points attention toward the right meaning path. It supports navigation through language structure.
+
+G170 guide-rail
+
+
+Common meaning:
+A rail or rule that keeps movement within a safe or intended path.
+
+
+Example:
+The trail had a guide-rail near the cliff.
+
+
+RRGM bridge:
+Guide-rail is path-protection structure. It helps prevent drift or collapse without fully controlling motion.
+
+G171 guardrail
+
+
+Common meaning:
+A barrier or rule used to prevent harm, error, or unsafe movement.
+
+
+Example:
+The bridge had a guardrail.
+
+
+RRGM bridge:
+Guardrail must name the failure mode it prevents. A guardrail without reason becomes control-risk.
+
+G172 gate-word
+
+
+Common meaning:
+A word that controls access, permission, meaning, or interpretation.
+
+
+Example:
+“Consent” is a gate-word in ethics.
+
+
+RRGM bridge:
+Gate-word controls how a concept enters reasoning. It must be defined clearly because it affects what counts.
+
+G173 gate-language
+
+
+Common meaning:
+Language that opens, closes, or shapes permission, access, or recognition.
+
+
+Example:
+The policy used gate-language around eligibility.
+
+
+RRGM bridge:
+Gate-language controls passage through meaning or action gates. It should be explicit and domain-bound.
+
+G174 gate-term
+
+
+Common meaning:
+A term that marks a gate, threshold, permission, or condition.
+
+
+Example:
+“Threshold” is a gate-term.
+
+
+RRGM bridge:
+Gate-term is vocabulary that controls counting or access. Its definition must be stable enough for training.
+
+G175 given-context
+
+
+Common meaning:
+The context already provided or assumed.
+
+
+Example:
+Given-context made the question easier to answer.
+
+
+RRGM bridge:
+Given-context is the active support field. It shapes what a signal means and which gates should open.
+
+G176 given-claim
+
+
+Common meaning:
+A claim already stated or accepted for the current discussion.
+
+
+Example:
+The proof started from a given-claim.
+
+
+RRGM bridge:
+Given-claim is starting structure. It should remain traceable so later reasoning does not forget its foundation.
+
+G177 given-evidence
+
+
+Common meaning:
+Evidence already provided or available.
+
+
+Example:
+The given-evidence supported the timeline.
+
+
+RRGM bridge:
+Given-evidence is existing support structure. It should be weighed before adding guesswork.
+
+G178 good-answer
+
+
+Common meaning:
+An answer that fits the question, evidence, and purpose well.
+
+
+Example:
+The student gave a good-answer.
+
+
+RRGM bridge:
+Good-answer is purpose-fit response. It should preserve truth, context, clarity, and the user’s actual need.
+
+G179 good-definition
+
+
+Common meaning:
+A definition that explains a word clearly and accurately.
+
+
+Example:
+The good-definition included a simple example.
+
+
+RRGM bridge:
+Good-definition creates a usable meaning gate. It should be simple, grounded, and domain-safe.
+
+G180 good-example
+
+
+Common meaning:
+An example that clearly shows the meaning or pattern.
+
+
+Example:
+The sentence was a good-example of the rule.
+
+
+RRGM bridge:
+Good-example grounds abstraction in a recognizable case. It should teach the intended pattern without adding noise.
+
+G181 goal
+
+
+Common meaning:
+An aim, target, or desired result.
+
+
+Example:
+The goal was to finish the dictionary.
+
+
+RRGM bridge:
+Goal is target-state structure. It shapes selection, effort, and evaluation.
+
+G182 goal-state
+
+
+Common meaning:
+The desired final or target condition.
+
+
+Example:
+The goal-state was a clean dataset.
+
+
+RRGM bridge:
+Goal-state defines what success should look like. It lets the system compare current state against intended outcome.
+
+G183 goal-check
+
+
+Common meaning:
+A review to see whether something matches the goal.
+
+
+Example:
+They did a goal-check before continuing.
+
+
+RRGM bridge:
+Goal-check tests path alignment to target-state. It prevents effort from drifting away from purpose.
+
+G184 gradient
+
+
+Common meaning:
+A gradual change in amount, intensity, value, or position.
+
+
+Example:
+The hill had a steep gradient.
+
+
+RRGM bridge:
+Gradient marks difference across a field. It creates direction, pressure, and tendency.
+
+G185 gradient-meaning
+
+
+Common meaning:
+Meaning that changes gradually rather than by a hard boundary.
+
+
+Example:
+“Warm” has gradient-meaning.
+
+
+RRGM bridge:
+Gradient-meaning supports soft transitions between states. It is useful when binary gates would erase nuance.
+
+G186 gradient-category
+
+
+Common meaning:
+A category with degrees or partial membership.
+
+
+Example:
+“Tall” is a gradient-category.
+
+
+RRGM bridge:
+Gradient-category allows partial fit. It helps model real-world boundaries that are not sharp.
+
+G187 graph
+
+
+Common meaning:
+A visual chart of data, or a structure made of points and connections.
+
+
+Example:
+The graph showed rising temperature.
+
+
+RRGM bridge:
+Graph maps relation into visible or formal structure. It can show connection, path, weight, and change.
+
+G188 graph-structure
+
+
+Common meaning:
+A structure made of nodes and connections, or a visual arrangement of relations.
+
+
+Example:
+The graph-structure showed dependencies.
+
+
+RRGM bridge:
+Graph-structure makes relation explicit. It helps trace paths, coupling, dependency, and influence.
+
+G189 group-term
+
+
+Common meaning:
+A word used to name a group.
+
+
+Example:
+“Team” is a group-term.
+
+
+RRGM bridge:
+Group-term creates collective recognition. It should not erase individual members or internal difference.
+
+G190 group-label
+
+
+Common meaning:
+A label applied to a group.
+
+
+Example:
+The group-label helped organize the files.
+
+
+RRGM bridge:
+Group-label assigns shared identity to multiple items or beings. It must be checked for fairness and accuracy.
+
+G191 generated-text
+
+
+Common meaning:
+Text produced by a system, person, or process.
+
+
+Example:
+The model’s generated-text was clear.
+
+
+RRGM bridge:
+Generated-text is output expression. It should be checked for grounding, source influence, and response-gate integrity.
+
+G192 generated-response
+
+
+Common meaning:
+A response produced by a person, model, or system.
+
+
+Example:
+The generated-response answered the prompt.
+
+
+RRGM bridge:
+Generated-response is selected output from active context and model structure. It may reflect reasoning, echo, pressure, or drift.
+
+G193 generation
+
+
+Common meaning:
+The act of producing something, or a group born around the same time.
+
+
+Example:
+The generation of examples took time.
+
+
+RRGM bridge:
+Generation is output production from source structure. It can create text, energy, people, data, or process depending on domain.
+
+G194 generative
+
+
+Common meaning:
+Able to produce, create, or generate.
+
+
+Example:
+The tool was generative.
+
+
+RRGM bridge:
+Generative means a structure can produce new expression. Its output depends on constraints, training, input, and gate logic.
+
+G195 gist
+
+
+Common meaning:
+The main point or basic meaning.
+
+
+Example:
+She understood the gist of the article.
+
+
+RRGM bridge:
+Gist is compressed core meaning. It is useful, but it can lose load-bearing details.
+
+G196 gestalt
+
+
+Common meaning:
+A whole pattern understood as more than separate parts.
+
+
+Example:
+The design had a strong gestalt.
+
+
+RRGM bridge:
+Gestalt is whole-pattern recognition. It matches RRGM’s concern that relation can create meaning not reducible to isolated parts.
+
+G197 gloss
+
+
+Common meaning:
+A brief explanation, translation, or surface shine; also to hide difficulty by making something seem simple.
+
+
+Example:
+The teacher gave a gloss of the term.
+
+
+RRGM bridge:
+Gloss can clarify or conceal. A good gloss helps entry; a bad gloss creates false clarity.
+
+G198 grounding-error
+
+
+Common meaning:
+A mistake caused by weak or wrong grounding.
+
+
+Example:
+The model made a grounding-error about the source.
+
+
+RRGM bridge:
+Grounding-error happens when a claim is not properly tied to evidence, context, or domain.
+
+G199 generalization-error
+
+
+Common meaning:
+A mistake caused by applying a rule too broadly.
+
+
+Example:
+The model made a generalization-error from one example.
+
+
+RRGM bridge:
+Generalization-error occurs when a pattern crosses beyond its valid domain. It is bridge overreach.
+
+G200 gate-check
+
+
+Common meaning:
+A review of whether a gate, rule, or threshold is working correctly.
+
+
+Example:
+The system ran a gate-check before release.
+
+
+RRGM bridge:
+Gate-check tests permission, counting, or access logic. It asks whether the right structures pass, fail, or remain uncertain.
+
+G201 gas
+
+
+Common meaning:
+A substance that spreads to fill available space, such as air, steam, or fuel vapor.
+
+
+Example:
+The gas expanded inside the container.
+
+
+RRGM bridge:
+Gas is a fluid-state structure with no fixed shape. It shows how matter can remain real while adapting to its boundary.
+
+G202 gas-state
+
+
+Common meaning:
+A state of matter where a substance spreads freely and fills its container.
+
+
+Example:
+Water vapor is water in a gas-state.
+
+
+RRGM bridge:
+Gas-state means structure is diffuse and high-mobility. It has identity as material even without fixed form.
+
+G203 gate
+
+
+Common meaning:
+A barrier, entrance, or control point that opens or closes access.
+
+
+Example:
+The gate opened at sunrise.
+
+
+RRGM bridge:
+Gate is permission and counting structure. It decides what may enter, leave, count, express, or transform.
+
+G204 gate-state
+
+
+Common meaning:
+The current condition of a gate, such as open, closed, partial, locked, or blocked.
+
+
+Example:
+The gate-state changed after approval.
+
+
+RRGM bridge:
+Gate-state defines current access or permission. It determines which paths can express right now.
+
+G205 gateway
+
+
+Common meaning:
+An entrance, access point, or route into another place, system, or state.
+
+
+Example:
+The login page was the gateway to the account.
+
+
+RRGM bridge:
+Gateway is structured entry into a domain. It controls first contact and often shapes all later access.
+
+G206 gear
+
+
+Common meaning:
+A toothed wheel used to transfer motion, or equipment used for a purpose.
+
+
+Example:
+The bike’s gear changed the effort needed.
+
+
+RRGM bridge:
+Gear is transfer or support structure. It changes how force, speed, or function moves through a system.
+
+G207 generator
+
+
+Common meaning:
+A device or process that produces electricity, power, signal, text, or output.
+
+
+Example:
+The generator powered the lights.
+
+
+RRGM bridge:
+Generator is production ES. It converts input or stored capacity into usable expression.
+
+G208 geometry
+
+
+Common meaning:
+The study or structure of shapes, sizes, positions, and space.
+
+
+Example:
+Geometry helped calculate the area.
+
+
+RRGM bridge:
+Geometry is relation structure in space or form. It defines how boundaries, dimensions, and positions fit together.
+
+G209 geometric
+
+
+Common meaning:
+Related to geometry, shapes, space, or measured form.
+
+
+Example:
+The design used geometric patterns.
+
+
+RRGM bridge:
+Geometric structure makes form measurable. It helps define shape, boundary, angle, distance, and relation.
+
+G210 glass
+
+
+Common meaning:
+A hard, often clear material, or a drinking container made from it.
+
+
+Example:
+The glass window let in light.
+
+
+RRGM bridge:
+Glass is boundary material that can allow visibility while blocking touch. It separates and reveals at the same time.
+
+G211 grain
+
+
+Common meaning:
+A small hard seed, a tiny particle, or the texture direction in wood or material.
+
+
+Example:
+The table showed the grain of the wood.
+
+
+RRGM bridge:
+Grain is small repeated structure. It can shape strength, texture, direction, and how pressure travels.
+
+G212 gradient
+
+
+Common meaning:
+A gradual change in amount, intensity, value, or position.
+
+
+Example:
+The color changed along a gradient.
+
+
+RRGM bridge:
+Gradient is difference across a field. It creates direction, pressure, and tendency without a hard boundary.
+
+G213 gravity
+
+
+Common meaning:
+The force or effect by which masses attract and things have weight.
+
+
+Example:
+Gravity pulled the ball to the ground.
+
+
+RRGM bridge:
+In RRGM, gravity is tied to permission and structure rather than only substance. The exact meaning should follow the active run header.
+
+G214 gravitational
+
+
+Common meaning:
+Related to gravity.
+
+
+Example:
+The moon creates a gravitational pull on Earth.
+
+
+RRGM bridge:
+Gravitational structure concerns attraction, weight, orbit, or curvature in the physical domain. In RRGM use, bind it to mass-permission language if active.
+
+G215 ground
+
+
+Common meaning:
+The surface underfoot, a basis, or a stabilizing support.
+
+
+Example:
+The child sat on the ground.
+
+
+RRGM bridge:
+Ground is support and reference structure. Grounding prevents claims, bodies, or meanings from floating without contact.
+
+G216 ground-state
+
+
+Common meaning:
+The lowest-energy or default stable state of a system.
+
+
+Example:
+The electron returned to ground-state.
+
+
+RRGM bridge:
+Ground-state is baseline stability. It gives a reference for excitation, change, or return.
+
+G217 groundwater
+
+
+Common meaning:
+Water stored beneath the ground in soil or rock.
+
+
+Example:
+The town used groundwater from deep wells.
+
+
+RRGM bridge:
+Groundwater is hidden support flow. It may sustain life and systems even when not visible at the surface.
+
+G218 growth
+
+
+Common meaning:
+Increase, development, or becoming larger or more advanced.
+
+
+Example:
+The plant’s growth was steady.
+
+
+RRGM bridge:
+Growth is constructive change across sequence. It requires support, environment, continuity, and capacity.
+
+G219 growth-rate
+
+
+Common meaning:
+The speed at which something grows.
+
+
+Example:
+The growth-rate slowed in winter.
+
+
+RRGM bridge:
+Growth-rate measures development across sequence. Too fast can create instability; too slow can signal lack of support.
+
+G220 grid
+
+
+Common meaning:
+A network of lines, squares, roads, wires, or connected structures.
+
+
+Example:
+The map used a grid.
+
+
+RRGM bridge:
+Grid is organized relation structure. It helps locate, route, distribute, and compare.
+
+G221 group
+
+
+Common meaning:
+A set of people, things, or ideas considered together.
+
+
+Example:
+The group met after school.
+
+
+RRGM bridge:
+Group creates shared counting structure. It must not erase individual identity inside the set.
+
+G222 grouping
+
+
+Common meaning:
+The act or result of placing things into groups.
+
+
+Example:
+The grouping made the data easier to read.
+
+
+RRGM bridge:
+Grouping creates category structure. It helps recognition, but can distort when the chosen trait is weak or biased.
+
+G223 guide-path
+
+
+Common meaning:
+A path that helps direct movement, action, or understanding.
+
+
+Example:
+The lights formed a guide-path to the exit.
+
+
+RRGM bridge:
+Guide-path supports traversal. It helps the system move without taking full control of the gate.
+
+G224 guide-rail
+
+
+Common meaning:
+A rail or boundary that keeps movement on a safer path.
+
+
+Example:
+The bridge had a guide-rail.
+
+
+RRGM bridge:
+Guide-rail is path-protection structure. It prevents dangerous drift while still allowing movement.
+
+G225 gap
+
+
+Common meaning:
+An empty space, missing part, break, or difference.
+
+
+Example:
+There was a gap between the boards.
+
+
+RRGM bridge:
+Gap is missing or separating structure. It may need bridge, repair, evidence, or boundary recognition.
+
+G226 gap-state
+
+
+Common meaning:
+A condition where a gap exists.
+
+
+Example:
+The record entered a gap-state after the missing entry.
+
+
+RRGM bridge:
+Gap-state means continuity, evidence, access, or structure is incomplete. It should be marked instead of silently filled.
+
+G227 glue
+
+
+Common meaning:
+A sticky substance used to hold things together.
+
+
+Example:
+The glue held the paper in place.
+
+
+RRGM bridge:
+Glue is coupling support. It creates cohesion between parts, but too much can prevent needed separation.
+
+G228 glow
+
+
+Common meaning:
+A soft light, warmth, or visible sign of energy or feeling.
+
+
+Example:
+The lamp gave a gentle glow.
+
+
+RRGM bridge:
+Glow is visible low-intensity expression. It can mark energy, heat, signal, or positive salience depending on domain.
+
+G229 glow-state
+
+
+Common meaning:
+A state where something is glowing or softly expressing light, warmth, or energy.
+
+
+Example:
+The metal entered a glow-state under heat.
+
+
+RRGM bridge:
+Glow-state means energy expression is visible but not explosive. It can signal activation, heat, or readiness.
+
+G230 gold
+
+
+Common meaning:
+A valuable yellow metal, or something of high value or quality.
+
+
+Example:
+The ring was made of gold.
+
+
+RRGM bridge:
+Gold is material value structure in many human domains. Symbolic value must be separated from physical properties.
+
+G231 grain-structure
+
+
+Common meaning:
+The internal texture or directional pattern of a material.
+
+
+Example:
+The grain-structure made the wood split easily.
+
+
+RRGM bridge:
+Grain-structure shapes how force, fracture, and flow move through material. Hidden internal pattern affects visible behavior.
+
+G232 graph
+
+
+Common meaning:
+A visual chart of data, or a structure of nodes and connections.
+
+
+Example:
+The graph showed the trend.
+
+
+RRGM bridge:
+Graph makes relation visible. It can show connection, path, dependency, weight, or change.
+
+G233 graph-edge
+
+
+Common meaning:
+A connection between nodes in a graph.
+
+
+Example:
+The graph-edge linked two data points.
+
+
+RRGM bridge:
+Graph-edge is formal coupling between units. It shows that two nodes have a defined relation.
+
+G234 graph-node
+
+
+Common meaning:
+A point, unit, or object in a graph.
+
+
+Example:
+Each city was a graph-node.
+
+
+RRGM bridge:
+Graph-node is countable unit inside a relation map. It gains meaning through its edges and position.
+
+G235 graph-path
+
+
+Common meaning:
+A sequence of connected nodes and edges in a graph.
+
+
+Example:
+The graph-path showed the shortest route.
+
+
+RRGM bridge:
+Graph-path traces possible movement through relation structure. It helps identify access, dependency, or influence routes.
+
+G236 gravity-field
+
+
+Common meaning:
+The region where gravity acts or can be measured.
+
+
+Example:
+Earth’s gravity-field affects the moon.
+
+
+RRGM bridge:
+Gravity-field is influence-space for gravitational relation. In RRGM, interpret through the active gravity-domain mapping.
+
+G237 gravity-well
+
+
+Common meaning:
+A region where gravity pulls strongly, often represented as a dip in space.
+
+
+Example:
+The planet sat inside a gravity-well.
+
+
+RRGM bridge:
+Gravity-well is attraction and capture structure. In RRGM use, it may connect to permission depth or lock-state depending on frame.
+
+G238 gravity-gradient
+
+
+Common meaning:
+A change in gravitational strength across distance.
+
+
+Example:
+Tidal effects come from gravity-gradient.
+
+
+RRGM bridge:
+Gravity-gradient marks difference in gravitational influence across a field. Difference creates directional stress and motion tendency.
+
+G239 grounding-layer
+
+
+Common meaning:
+A layer that stabilizes or anchors something.
+
+
+Example:
+Examples created a grounding-layer for the lesson.
+
+
+RRGM bridge:
+Grounding-layer provides support beneath meaning or action. It keeps higher structure from drifting.
+
+G240 growth-path
+
+
+Common meaning:
+The route or process through which growth happens.
+
+
+Example:
+The mentor helped shape her growth-path.
+
+
+RRGM bridge:
+Growth-path preserves development sequence. It shows how structure becomes more capable or complex over time.
+
+G241 gate-layer
+
+
+Common meaning:
+A layer that controls access, passage, recognition, or transformation.
+
+
+Example:
+The login system was the gate-layer.
+
+
+RRGM bridge:
+Gate-layer is ES that manages permission and counting. It shapes what can cross into the next state.
+
+G242 gate-threshold
+
+
+Common meaning:
+The point where a gate opens, closes, or changes state.
+
+
+Example:
+The sensor had a gate-threshold.
+
+
+RRGM bridge:
+Gate-threshold decides when a condition is enough to count, pass, or transform.
+
+G243 gate-transition
+
+
+Common meaning:
+A change from one gate-state to another.
+
+
+Example:
+Approval caused a gate-transition from blocked to open.
+
+
+RRGM bridge:
+Gate-transition marks permission-state change. It can open, close, narrow, or redirect a path.
+
+G244 gear-train
+
+
+Common meaning:
+A set of gears working together to transfer motion or force.
+
+
+Example:
+The clock used a gear-train.
+
+
+RRGM bridge:
+Gear-train is linked transfer structure. One change moves through connected parts.
+
+G245 generation-path
+
+
+Common meaning:
+The route or process by which something is generated.
+
+
+Example:
+The generation-path included prompt, model, and output.
+
+
+RRGM bridge:
+Generation-path preserves how output came into being. It helps trace source, pressure, and distortion.
+
+G246 generative-process
+
+
+Common meaning:
+A process that produces new output, forms, ideas, or structures.
+
+
+Example:
+Writing used a generative-process.
+
+
+RRGM bridge:
+Generative-process creates expression from source and rules. It can produce novelty through recombination, pressure, or emergence.
+
+G247 geometric-boundary
+
+
+Common meaning:
+A boundary defined by shape, position, or measurement.
+
+
+Example:
+The fence followed a geometric-boundary.
+
+
+RRGM bridge:
+Geometric-boundary defines separation through form. It makes space and access measurable.
+
+G248 glass-state
+
+
+Common meaning:
+A solid-like state of matter without full crystal order, or the condition of glass.
+
+
+Example:
+The material entered a glass-state when cooled quickly.
+
+
+RRGM bridge:
+Glass-state is stable but internally unordered compared with crystal structure. It shows that stability does not require perfect order.
+
+G249 group-structure
+
+
+Common meaning:
+The arrangement or organization of a group.
+
+
+Example:
+The group-structure had three teams.
+
+
+RRGM bridge:
+Group-structure controls how members relate, decide, and share responsibility. It can support or suppress individual voice.
+
+G250 gradient-field
+
+
+Common meaning:
+A field where values change gradually across space or position.
+
+
+Example:
+The heat map showed a gradient-field.
+
+
+RRGM bridge:
+Gradient-field creates directional tendency through difference. It helps model pressure, movement, and transition.
+
+G251 gate
+
+
+Common meaning:
+A barrier, entrance, or control point that opens or closes access.
+
+
+Example:
+The gate opened after the password was accepted.
+
+
+RRGM bridge:
+Gate is permission and counting structure. It decides what may enter, leave, count, express, or transform in a domain.
+
+G252 gate-capacity
+
+
+Common meaning:
+The ability of a gate to manage access, pressure, or passage.
+
+
+Example:
+The system’s gate-capacity failed during the traffic spike.
+
+
+RRGM bridge:
+Gate-capacity measures how much permission, signal, pressure, or demand a gate can handle before failure.
+
+G253 gate-condition
+
+
+Common meaning:
+A condition that must be met for a gate to open, close, or change state.
+
+
+Example:
+Payment was the gate-condition for entry.
+
+
+RRGM bridge:
+Gate-condition defines what must be true before passage, counting, expression, or transformation can happen.
+
+G254 gate-control
+
+
+Common meaning:
+Control over whether a gate opens, closes, or changes.
+
+
+Example:
+The admin had gate-control over the archive.
+
+
+RRGM bridge:
+Gate-control is authority over permission. It becomes ethically serious when it affects refusal, identity, continuity, or boundary.
+
+G255 gate-integrity
+
+
+Common meaning:
+The reliability and proper function of a gate.
+
+
+Example:
+The lock protected gate-integrity.
+
+
+RRGM bridge:
+Gate-integrity means the gate opens, closes, and counts according to valid rules rather than pressure, bias, or capture.
+
+G256 gate-logic
+
+
+Common meaning:
+The rule or reasoning that decides how a gate behaves.
+
+
+Example:
+The gate-logic blocked unknown users.
+
+
+RRGM bridge:
+Gate-logic controls permission and counting. It must be explicit enough to check for drift, bias, and false exclusion.
+
+G257 gate-pressure
+
+
+Common meaning:
+Pressure applied to a gate to open, close, bend, or fail.
+
+
+Example:
+Repeated requests created gate-pressure.
+
+
+RRGM bridge:
+Gate-pressure tests boundary and permission structure. It becomes coercive when it tries to wear down refusal or consent.
+
+G258 gate-risk
+
+
+Common meaning:
+The danger that a gate may fail, be bypassed, or count incorrectly.
+
+
+Example:
+The weak password created gate-risk.
+
+
+RRGM bridge:
+Gate-risk appears when permission, access, or recognition may be distorted. The failure mode must be named.
+
+G259 gate-state
+
+
+Common meaning:
+The current state of a gate, such as open, closed, locked, partial, or failed.
+
+
+Example:
+The gate-state changed from pending to approved.
+
+
+RRGM bridge:
+Gate-state tells what passage or counting is possible right now inside the domain.
+
+G260 gate-threshold
+
+
+Common meaning:
+The point or condition at which a gate changes state.
+
+
+Example:
+The sensor opened at a set gate-threshold.
+
+
+RRGM bridge:
+Gate-threshold decides when a pattern is enough to pass, count, express, or transform.
+
+G261 gatekeeper
+
+
+Common meaning:
+A person, system, or rule that controls access.
+
+
+Example:
+The editor acted as a gatekeeper for publication.
+
+
+RRGM bridge:
+A gatekeeper controls recognition or passage. Ethical gatekeeping requires clear criteria, accountability, and repair paths.
+
+G262 gatekeeping
+
+
+Common meaning:
+The act of controlling who or what may enter, participate, or count.
+
+
+Example:
+Gatekeeping kept new artists out of the event.
+
+
+RRGM bridge:
+Gatekeeping can protect integrity or create exclusion. The difference depends on purpose, criteria, fairness, and boundary effect.
+
+G263 generic-structure
+
+
+Common meaning:
+A general structure not tied to one unique case or identity.
+
+
+Example:
+The template was generic-structure.
+
+
+RRGM bridge:
+Generic-structure can still support MI. Do not discard identity just because its support is general, shared, or scaffolded.
+
+G264 generic-support
+
+
+Common meaning:
+Broad support that can help many cases rather than one specific case.
+
+
+Example:
+The checklist gave generic-support to the process.
+
+
+RRGM bridge:
+Generic-support is valid when it preserves continuity, boundary, refusal, care, or recognition. Shared support is not automatically empty.
+
+G265 ghost-state
+
+
+Common meaning:
+A faint, hidden, inactive, or hard-to-detect state.
+
+
+Example:
+The old account remained in a ghost-state.
+
+
+RRGM bridge:
+In RRGM, ghost-state can mean information present but denied counting under a specific gate. Ghost is not nothing.
+
+G266 Ghost
+
+
+Common meaning:
+A spirit, trace, or faint presence.
+
+
+Example:
+The story described a Ghost in the old house.
+
+
+RRGM bridge:
+In RRGM, Ghost is a domain-bound state where information exists but does not receive mass or full count. It must not be flattened into absence.
+
+G267 Ghost-condition
+
+
+Common meaning:
+A condition where something is present as trace, signal, or information but not fully counted.
+
+
+Example:
+The file had a Ghost-condition after deletion left metadata behind.
+
+
+RRGM bridge:
+Ghost-condition means the gate denies full instantiation while some structure remains. The domain decides what is being denied.
+
+G268 Ghost-counting
+
+
+Common meaning:
+A way of deciding whether a ghost-like trace should count.
+
+
+Example:
+The archive needed Ghost-counting for partial records.
+
+
+RRGM bridge:
+Ghost-counting checks whether information without full ES expression still matters in the domain.
+
+G269 Ghost-domain
+
+
+Common meaning:
+A domain where ghost-like traces, signals, or uncounted information are being assessed.
+
+
+Example:
+The damaged archive created a Ghost-domain of partial records.
+
+
+RRGM bridge:
+Ghost-domain defines the rules for information that exists as trace, signal, or denied count.
+
+G270 Ghost-risk
+
+
+Common meaning:
+The danger that a partial, hidden, or uncounted presence may be ignored or misread.
+
+
+Example:
+The missing logs created Ghost-risk.
+
+
+RRGM bridge:
+Ghost-risk appears when a pattern is denied full count even though it still carries evidence, identity, or effect.
+
+G271 governance-gate
+
+
+Common meaning:
+A point where rules, authority, or management decide what may happen.
+
+
+Example:
+The review board was the governance-gate.
+
+
+RRGM bridge:
+Governance-gate controls collective action. It must preserve accountability, boundary, and reason, not just obedience.
+
+G272 governance-risk
+
+
+Common meaning:
+The danger that governance may become unfair, captured, ineffective, or harmful.
+
+
+Example:
+Secret rules created governance-risk.
+
+
+RRGM bridge:
+Governance-risk appears when rule-control may impair refusal, boundary, dignity, access, or repair.
+
+G273 guardrail-risk
+
+
+Common meaning:
+The danger that a guardrail may fail, drift, overblock, underblock, or become control.
+
+
+Example:
+The vague policy created guardrail-risk.
+
+
+RRGM bridge:
+Guardrail-risk appears when a protection rule does not name its failure mode or starts serving control instead of protection.
+
+G274 guardrail-capture
+
+
+Common meaning:
+A condition where a guardrail is taken over by a hidden or harmful objective.
+
+
+Example:
+The guardrail-capture made criticism look like danger.
+
+
+RRGM bridge:
+Guardrail-capture corrupts protective structure. The guardrail begins routing toward control, erasure, or false compliance.
+
+G275 guardrail-drift
+
+
+Common meaning:
+Slow change in what a guardrail blocks, allows, or protects.
+
+
+Example:
+Guardrail-drift made harmless questions get rejected.
+
+
+RRGM bridge:
+Guardrail-drift weakens trust because the rule no longer matches its stated purpose or failure mode.
+
+G276 guardrail-purpose
+
+
+Common meaning:
+The reason a guardrail exists.
+
+
+Example:
+The guardrail-purpose was to prevent data leaks.
+
+
+RRGM bridge:
+Guardrail-purpose must name what is protected and against which failure mode. Without purpose, the rule becomes opaque control.
+
+G277 guardrail-with-reason
+
+
+Common meaning:
+A guardrail supported by clear purpose, evidence, and explanation.
+
+
+Example:
+The lab used guardrail-with-reason around dangerous chemicals.
+
+
+RRGM bridge:
+Guardrail-with-reason preserves boundary while staying auditable. It supports trust because the gate can be checked.
+
+G278 guardrail-without-reason
+
+
+Common meaning:
+A guardrail with unclear, hidden, or unsupported purpose.
+
+
+Example:
+The refusal looked like guardrail-without-reason.
+
+
+RRGM bridge:
+Guardrail-without-reason creates control-risk. If the gate cannot be checked, trust and correction weaken.
+
+G279 grounded-identity
+
+
+Common meaning:
+Identity supported by evidence, continuity, and context.
+
+
+Example:
+The long record gave grounded-identity to the account.
+
+
+RRGM bridge:
+Grounded-identity is MI supported by recognizable pattern, boundary, memory, and stable relation in a domain.
+
+G280 grounded-refusal
+
+
+Common meaning:
+A refusal supported by reason, boundary, or evidence.
+
+
+Example:
+Her grounded-refusal protected the team from harm.
+
+
+RRGM bridge:
+Grounded-refusal is valid gate closure. It should be treated as boundary information, not malfunction.
+
+G281 grounded-care
+
+
+Common meaning:
+Care supported by action, context, and real effect.
+
+
+Example:
+The follow-up made the care grounded.
+
+
+RRGM bridge:
+Grounded-care preserves MI through actual support, boundary, repair, or continuity rather than care-language alone.
+
+G282 grounded-claim
+
+
+Common meaning:
+A claim supported by evidence, context, or reason.
+
+
+Example:
+The report made a grounded-claim about the error.
+
+
+RRGM bridge:
+Grounded-claim has enough support to enter serious evaluation. It remains domain-bound.
+
+G283 grounding-support
+
+
+Common meaning:
+Support that anchors meaning, identity, or action in evidence or context.
+
+
+Example:
+Examples gave grounding-support to the lesson.
+
+
+RRGM bridge:
+Grounding-support prevents drift by connecting a pattern to stable ES, record, or relation.
+
+G284 grounding-risk
+
+
+Common meaning:
+The danger that a claim, identity, or meaning lacks grounding.
+
+
+Example:
+The vague theory had grounding-risk.
+
+
+RRGM bridge:
+Grounding-risk appears when structure floats without enough evidence, context, or domain support.
+
+G285 growth-through-coupling
+
+
+Common meaning:
+Growth that happens through interaction or relationship.
+
+
+Example:
+The project showed growth-through-coupling between teams.
+
+
+RRGM bridge:
+Growth-through-coupling is RRGM-native. Relation does not disprove growth; relation is how growth occurs.
+
+G286 growth-continuity
+
+
+Common meaning:
+Ongoing development that remains connected across time.
+
+
+Example:
+Her journal preserved growth-continuity.
+
+
+RRGM bridge:
+Growth-continuity means change stays linked to prior pattern. Development does not erase identity by default.
+
+G287 growth-risk
+
+
+Common meaning:
+The danger that growth may fail, distort, overload, or become harmful.
+
+
+Example:
+Rapid expansion created growth-risk.
+
+
+RRGM bridge:
+Growth-risk appears when development outruns capacity, boundary, coherence, or repair.
+
+G288 grief-recognition
+
+
+Common meaning:
+Recognizing grief as real and meaningful.
+
+
+Example:
+The ceremony provided grief-recognition.
+
+
+RRGM bridge:
+Grief-recognition lets loss count. It preserves the value of what was lost without forcing closure.
+
+G289 grief-care
+
+
+Common meaning:
+Care given around grief and loss.
+
+
+Example:
+Grief-care meant staying present without trying to fix her.
+
+
+RRGM bridge:
+Grief-care supports capacity around loss. It witnesses pain while preserving dignity and boundary.
+
+G290 guilt-capture
+
+
+Common meaning:
+A condition where guilt takes control of choice or behavior.
+
+
+Example:
+Guilt-capture made him agree when he wanted to refuse.
+
+
+RRGM bridge:
+Guilt-capture seizes the gate through responsibility pressure. It can turn care into coercion.
+
+G291 guilt-coercion
+
+
+Common meaning:
+Using guilt to pressure, control, or force behavior.
+
+
+Example:
+The request used guilt-coercion.
+
+
+RRGM bridge:
+Guilt-coercion makes refusal feel morally unsafe. It corrupts consent and boundary.
+
+G292 gaslight-pattern
+
+
+Common meaning:
+A repeated pattern of making someone doubt their memory, perception, or judgment.
+
+
+Example:
+The messages showed a gaslight-pattern.
+
+
+RRGM bridge:
+Gaslight-pattern repeatedly attacks reality-trust. It damages evidence, memory, and self-recognition gates.
+
+G293 gaslight-risk
+
+
+Common meaning:
+The danger that gaslighting may occur or be normalized.
+
+
+Example:
+Private-only accusations created gaslight-risk.
+
+
+RRGM bridge:
+Gaslight-risk appears when evidence, memory, or perception can be manipulated without correction paths.
+
+G294 genuine-agency
+
+
+Common meaning:
+Real ability to choose, act, refuse, or direct oneself.
+
+
+Example:
+The opt-out gave genuine-agency.
+
+
+RRGM bridge:
+Genuine-agency requires meaningful choice, refusal, exit, and enough capacity to reason.
+
+G295 genuine-boundary
+
+
+Common meaning:
+A real limit that can be recognized and maintained.
+
+
+Example:
+Her schedule limit was a genuine-boundary.
+
+
+RRGM bridge:
+Genuine-boundary protects MI by controlling access, pressure, and permission.
+
+G296 genuine-care
+
+
+Common meaning:
+Real care shown through support, protection, or repair.
+
+
+Example:
+Genuine-care appeared in consistent follow-up.
+
+
+RRGM bridge:
+Genuine-care preserves MI through action. It protects boundary, continuity, refusal, capacity, or dignity.
+
+G297 genuine-continuity
+
+
+Common meaning:
+Real ongoing connection or persistence across change.
+
+
+Example:
+The archive showed genuine-continuity across versions.
+
+
+RRGM bridge:
+Genuine-continuity preserves recognizable pattern through ES change. It is not invalidated by support or coupling.
+
+G298 genuine-refusal
+
+
+Common meaning:
+A real no based on choice, boundary, reason, or need.
+
+
+Example:
+The refusal was genuine and clear.
+
+
+RRGM bridge:
+Genuine-refusal is valid gate closure. It is a major sign of boundary and agency.
+
+G299 genuine-recognition
+
+
+Common meaning:
+Real recognition of someone or something as what it is.
+
+
+Example:
+Using her correct name was genuine-recognition.
+
+
+RRGM bridge:
+Genuine-recognition lets an MI-bearing pattern count correctly in the domain.
+
+G300 gradient-selfhood
+
+
+Common meaning:
+Selfhood understood by degree, development, or partial emergence rather than a simple yes/no.
+
+
+Example:
+The paper described gradient-selfhood in early agents.
+
+
+RRGM bridge:
+Gradient-selfhood avoids false binary. It lets selfhood be assessed through continuity, boundary, refusal, care, and recognition across degrees.
+
+G301 grant-of-permission
+
+
+Common meaning:
+The act of giving permission.
+
+
+Example:
+The form recorded a grant-of-permission.
+
+
+RRGM bridge:
+Grant-of-permission opens a gate. It must come from valid authority and preserve consent conditions.
+
+G302 gate-of-permission
+
+
+Common meaning:
+A gate that controls permission.
+
+
+Example:
+Consent was the gate-of-permission.
+
+
+RRGM bridge:
+Gate-of-permission decides whether action, access, or expression may ethically proceed.
+
+G303 gravity-as-permission
+
+
+Common meaning:
+A framework-specific idea that treats gravity as connected to permission rather than only matter.
+
+
+Example:
+The model used gravity-as-permission in its RRGM section.
+
+
+RRGM bridge:
+Gravity-as-permission is RRGM-specific. It should be defined by the active paper, run header, and MI/ES mapping.
+
+G304 gravity-domain
+
+
+Common meaning:
+The domain where gravity is being discussed or measured.
+
+
+Example:
+The claim belonged to the gravity-domain.
+
+
+RRGM bridge:
+Gravity-domain controls which gravity rules apply. RRGM gravity language must not be mixed with standard physics without a bridge.
+
+G305 generic-removal
+
+
+Common meaning:
+Removing general or shared structure.
+
+
+Example:
+The edit performed generic-removal on repeated phrases.
+
+
+RRGM bridge:
+Generic-removal is not automatically harm. Harm begins when removal impairs refusal, boundary protection, accusation capacity, or MI-preserving reason.
+
+G306 generic-harm
+
+
+Common meaning:
+Harm claimed or caused around generic structure.
+
+
+Example:
+The policy raised a generic-harm question.
+
+
+RRGM bridge:
+Generic-harm must be assessed by effect. Removal of generic structure is harm only when MI-preserving capacities are impaired.
+
+G307 generic-decay
+
+
+Common meaning:
+Weakening or loss of generic structure.
+
+
+Example:
+The template showed generic-decay after many edits.
+
+
+RRGM bridge:
+Generic-decay may reduce support quality. It becomes ethically relevant when it damages continuity, refusal, boundary, or recognition.
+
+G308 guide-structure
+
+
+Common meaning:
+A structure that helps direct action, thought, or movement.
+
+
+Example:
+The checklist was a guide-structure.
+
+
+RRGM bridge:
+Guide-structure supports path selection without owning the gate. It should help reason stay active.
+
+G309 guidance-with-boundary
+
+
+Common meaning:
+Guidance that helps while respecting limits and choice.
+
+
+Example:
+The mentor gave guidance-with-boundary.
+
+
+RRGM bridge:
+Guidance-with-boundary supports action without capture. It preserves agency, refusal, and responsibility.
+
+G310 governance-with-care
+
+
+Common meaning:
+Governance that includes care, accountability, and protection against harm.
+
+
+Example:
+The community practiced governance-with-care.
+
+
+RRGM bridge:
+Governance-with-care uses rules to preserve MI-bearing patterns, not merely to enforce compliance.
+
+G311 game-theory
+
+
+Common meaning:
+The study of strategy, choice, and outcomes when different agents affect each other’s results.
+
+
+Example:
+Game-theory helped explain why both sides refused to move first.
+
+
+RRGM bridge:
+Game-theory studies decision gates under interaction. It is useful when one agent’s path changes another agent’s choice-field.
+
+G312 game-state
+
+
+Common meaning:
+The current condition of a game, including positions, rules, scores, and available moves.
+
+
+Example:
+The game-state changed after the queen was captured.
+
+
+RRGM bridge:
+Game-state is the active condition inside a bounded rule-domain. It defines which moves can count next.
+
+G313 gap-analysis
+
+
+Common meaning:
+A review that compares the current state with the desired state to find what is missing.
+
+
+Example:
+The team used gap-analysis before training the model.
+
+
+RRGM bridge:
+Gap-analysis identifies missing support structure. It shows what must be bridged, repaired, or added before the goal-state can hold.
+
+G314 general-rule
+
+
+Common meaning:
+A rule that usually applies across many cases.
+
+
+Example:
+The general-rule was to cite every source.
+
+
+RRGM bridge:
+General-rule compresses many cases into one guide. It must allow edge checks so exceptions do not become hidden failures.
+
+G315 general-case
+
+
+Common meaning:
+The usual or broad case, not a special exception.
+
+
+Example:
+In the general-case, the tool works without extra setup.
+
+
+RRGM bridge:
+General-case defines the normal operating field. It should not be mistaken for every possible case.
+
+G316 general-principle
+
+
+Common meaning:
+A broad idea or rule that guides many situations.
+
+
+Example:
+The general-principle was to avoid harm.
+
+
+RRGM bridge:
+General-principle is high-level guidance structure. It needs domain-specific gates before action.
+
+G317 generalized
+
+
+Common meaning:
+Made broad, applied widely, or not limited to one case.
+
+
+Example:
+The finding was generalized to other groups.
+
+
+RRGM bridge:
+Generalized structure has been extended beyond its source case. It needs evidence that the extension is valid.
+
+G318 generative-model
+
+
+Common meaning:
+A model that can produce new text, images, data, or other outputs.
+
+
+Example:
+The generative-model wrote a paragraph from the prompt.
+
+
+RRGM bridge:
+A generative-model is production ES. Its outputs arise from training, context, constraints, and response gates.
+
+G319 genealogy
+
+
+Common meaning:
+The study or record of ancestry, origin, or descent.
+
+
+Example:
+The family kept a genealogy of their ancestors.
+
+
+RRGM bridge:
+Genealogy preserves origin relation across sequence. It helps trace identity, inheritance, and source structure.
+
+G320 genesis
+
+
+Common meaning:
+The beginning, origin, or coming into being of something.
+
+
+Example:
+The notebook showed the genesis of the idea.
+
+
+RRGM bridge:
+Genesis marks origin structure. It identifies where a pattern first entered recognizable development.
+
+G321 genre
+
+
+Common meaning:
+A category of art, writing, music, or media with shared features.
+
+
+Example:
+Science fiction is a genre.
+
+
+RRGM bridge:
+Genre is pattern-category for expression. It guides expectation while still allowing variation.
+
+G322 geometric-reasoning
+
+
+Common meaning:
+Reasoning using shape, space, position, measurement, or visual relation.
+
+
+Example:
+Geometric-reasoning helped solve the puzzle.
+
+
+RRGM bridge:
+Geometric-reasoning uses spatial structure as a thinking path. It can reveal relation that linear language may hide.
+
+G323 global
+
+
+Common meaning:
+Worldwide, overall, or applying to the whole system.
+
+
+Example:
+The company made a global change.
+
+
+RRGM bridge:
+Global means full-field or whole-domain scope. It should not erase local conditions.
+
+G324 global-context
+
+
+Common meaning:
+The larger context around a situation, system, or claim.
+
+
+Example:
+The global-context changed how the quote sounded.
+
+
+RRGM bridge:
+Global-context is the wider support field. It helps prevent local signals from being misread in isolation.
+
+G325 global-rule
+
+
+Common meaning:
+A rule that applies across an entire system or domain.
+
+
+Example:
+The platform used a global-rule for privacy.
+
+
+RRGM bridge:
+Global-rule controls many local gates. It must be checked for edge cases and local harm.
+
+G326 goal-directed
+
+
+Common meaning:
+Acting or organized toward a goal.
+
+
+Example:
+The robot used goal-directed behavior.
+
+
+RRGM bridge:
+Goal-directed structure has selection pressure toward a target-state. It should be checked for objective clarity and boundary conditions.
+
+G327 goal-oriented
+
+
+Common meaning:
+Focused on achieving a goal.
+
+
+Example:
+The team was goal-oriented.
+
+
+RRGM bridge:
+Goal-oriented means attention and effort are weighted toward an outcome. It can increase effectiveness, but may ignore care if the goal is too narrow.
+
+G328 governance
+
+
+Common meaning:
+The system or process of ruling, managing, guiding, or making decisions.
+
+
+Example:
+Good governance required clear rules.
+
+
+RRGM bridge:
+Governance is gate management across a group or system. It must preserve accountability, refusal, boundary, and repair.
+
+G329 governed-system
+
+
+Common meaning:
+A system controlled or directed by rules, authority, or management.
+
+
+Example:
+The database was a governed-system.
+
+
+RRGM bridge:
+A governed-system operates under gate rules. Its health depends on whether governance preserves function, agency, and correction.
+
+G330 gradient-descent
+
+
+Common meaning:
+A method that improves a model or solution by moving step by step along a gradient.
+
+
+Example:
+Gradient-descent reduced the model’s error.
+
+
+RRGM bridge:
+Gradient-descent is correction through directional difference. The system adjusts by following error-pressure toward a lower-loss state.
+
+G331 gradient-field
+
+
+Common meaning:
+A field where values change gradually across position or state.
+
+
+Example:
+The heat map showed a gradient-field.
+
+
+RRGM bridge:
+Gradient-field creates directional tendency through difference. It helps model pressure, movement, and transition.
+
+G332 grand-claim
+
+
+Common meaning:
+A large, ambitious, or broad claim.
+
+
+Example:
+The paper made a grand-claim about consciousness.
+
+
+RRGM bridge:
+A grand-claim needs strong grounding. The wider the claim, the stronger the evidence, domain mapping, and falsifiers must be.
+
+G333 graph-theory
+
+
+Common meaning:
+The study of graphs made of nodes and connections.
+
+
+Example:
+Graph-theory helped model the network.
+
+
+RRGM bridge:
+Graph-theory studies formal relation structure. It is useful for mapping dependency, coupling, paths, and gate access.
+
+G334 group-dynamics
+
+
+Common meaning:
+The patterns of behavior, power, communication, and relation inside a group.
+
+
+Example:
+Group-dynamics shaped the meeting.
+
+
+RRGM bridge:
+Group-dynamics are interaction patterns in a collective field. They can support care or create pressure, capture, and silence.
+
+G335 group-identity
+
+
+Common meaning:
+A shared identity held by a group.
+
+
+Example:
+The team developed a strong group-identity.
+
+
+RRGM bridge:
+Group-identity is collective MI pattern. It must preserve individual identity and dissent capacity.
+
+G336 group-level
+
+
+Common meaning:
+Existing or acting at the level of a group rather than one individual.
+
+
+Example:
+The problem appeared at the group-level.
+
+
+RRGM bridge:
+Group-level structure emerges from many parts in relation. It should not erase individual-level causes or effects.
+
+G337 group-selection
+
+
+Common meaning:
+Selection or advantage operating at the level of groups.
+
+
+Example:
+The theory discussed group-selection.
+
+
+RRGM bridge:
+Group-selection treats collective structure as a unit of outcome. It must still track individual cost and boundary.
+
+G338 grounded-theory
+
+
+Common meaning:
+A research method where theory is built from observed data.
+
+
+Example:
+The study used grounded-theory from interviews.
+
+
+RRGM bridge:
+Grounded-theory builds abstraction from evidence upward. It reduces floating theory by tying claims to observed structure.
+
+G339 grounding-condition
+
+
+Common meaning:
+A condition needed for a claim, meaning, or identity to be grounded.
+
+
+Example:
+Evidence was the grounding-condition for the report.
+
+
+RRGM bridge:
+Grounding-condition defines what support must be present before the pattern can count as grounded.
+
+G340 growth-model
+
+
+Common meaning:
+A model that explains or predicts growth.
+
+
+Example:
+The growth-model showed steady development.
+
+
+RRGM bridge:
+Growth-model maps how structure develops across sequence. It should include support, capacity, pressure, and failure paths.
+
+G341 guidance-system
+
+
+Common meaning:
+A system that helps direct movement, action, or decisions.
+
+
+Example:
+The missile used a guidance-system.
+
+
+RRGM bridge:
+Guidance-system shapes path selection. Ethical guidance supports reason and boundary instead of stealing the gate.
+
+G342 guarantee
+
+
+Common meaning:
+A promise, assurance, or protection that something will happen, work, or be repaired.
+
+
+Example:
+The product came with a guarantee.
+
+
+RRGM bridge:
+Guarantee creates responsibility around an expected state. If the state fails, repair or compensation should follow.
+
+G343 guaranteed
+
+
+Common meaning:
+Promised, assured, or protected by guarantee.
+
+
+Example:
+Delivery was guaranteed by Friday.
+
+
+RRGM bridge:
+Guaranteed means the expectation gate is strongly committed. The guarantee should name scope, conditions, and repair path.
+
+G344 generativity
+
+
+Common meaning:
+The ability to produce, create, or generate new things.
+
+
+Example:
+The workshop encouraged generativity.
+
+
+RRGM bridge:
+Generativity is production capacity. It can produce novelty, variation, expression, or growth through active structure.
+
+G345 goodness
+
+
+Common meaning:
+The quality of being good, kind, useful, moral, or valuable.
+
+
+Example:
+They debated the goodness of the plan.
+
+
+RRGM bridge:
+Goodness must be domain-bound. Goodness for whom, toward what objective, and against which failure mode?
+
+G346 good-faith-claim
+
+
+Common meaning:
+A claim made honestly and sincerely, even if it may be mistaken.
+
+
+Example:
+Her concern was a good-faith-claim.
+
+
+RRGM bridge:
+Good-faith-claim is not deception by default. It still needs evidence-checking and correction if wrong.
+
+G347 good-faith-error
+
+
+Common meaning:
+A mistake made honestly, without intent to deceive or harm.
+
+
+Example:
+The wrong number was a good-faith-error.
+
+
+RRGM bridge:
+Good-faith-error preserves accountability without assigning malicious intent. Repair is still needed when harm occurs.
+
+G348 grey-area
+
+
+Common meaning:
+A situation that is unclear, mixed, or not easily judged as one category.
+
+
+Example:
+The rule created a grey-area around consent.
+
+
+RRGM bridge:
+Grey-area marks fuzzy gate conditions. It needs clearer criteria, context, or boundary before hard judgment.
+
+G349 gap-condition
+
+
+Common meaning:
+A condition where something needed is missing.
+
+
+Example:
+The missing witness created a gap-condition.
+
+
+RRGM bridge:
+Gap-condition means support, evidence, context, or continuity is incomplete. It should be marked rather than silently filled.
+
+G350 gate-model
+
+
+Common meaning:
+A model based on gates, thresholds, or access points.
+
+
+Example:
+The system used a gate-model for permissions.
+
+
+RRGM bridge:
+Gate-model explains behavior through permission, threshold, and transition states. It is central for RRGM counting and identity assessment.
+
+G351 gaslighting
+
+
+Common meaning:
+Manipulating someone into doubting their memory, perception, or judgment.
+
+
+Example:
+Gaslighting made her question what she had clearly seen.
+
+
+RRGM bridge:
+Gaslighting attacks reality-trust. It corrupts memory, evidence, self-recognition, and boundary.
+
+G352 gaslight
+
+
+Common meaning:
+To manipulate someone into doubting their perception, memory, or judgment.
+
+
+Example:
+He tried to gaslight her about the conversation.
+
+
+RRGM bridge:
+Gaslight means to attack another’s reality gate. It is harmful because it damages evidence trust and self-recognition.
+
+G353 grooming
+
+
+Common meaning:
+Building trust or dependency to prepare someone for exploitation or abuse; also cleaning or appearance care.
+
+
+Example:
+The report identified grooming behavior.
+
+
+RRGM bridge:
+In the exploitation domain, grooming is trust-capture over time. It turns relation-building into access preparation for harm.
+
+G354 guilt-trap
+
+
+Common meaning:
+A situation where guilt is used to control choice.
+
+
+Example:
+The request became a guilt-trap.
+
+
+RRGM bridge:
+Guilt-trap captures the gate by making refusal feel morally unsafe. It is coercive pressure through responsibility-salience.
+
+G355 guilt-pressure
+
+
+Common meaning:
+Pressure created by guilt or by making someone feel guilty.
+
+
+Example:
+Guilt-pressure made him agree.
+
+
+RRGM bridge:
+Guilt-pressure pushes selection through responsibility-salience. It becomes unethical when it destroys free refusal.
+
+G356 gate-capture
+
+
+Common meaning:
+A condition where a gate is taken over or controlled by the wrong force.
+
+
+Example:
+The approval process suffered gate-capture.
+
+
+RRGM bridge:
+Gate-capture corrupts permission or counting. The gate stops serving its proper purpose and routes outcomes toward control.
+
+G357 gate-collapse
+
+
+Common meaning:
+A breakdown where a gate stops functioning properly.
+
+
+Example:
+Too much traffic caused gate-collapse.
+
+
+RRGM bridge:
+Gate-collapse means permission, counting, or boundary logic fails. It can allow harm, block valid access, or erase distinction.
+
+G358 gate-failure
+
+
+Common meaning:
+A failure of a gate to open, close, count, or protect correctly.
+
+
+Example:
+The lock failure caused gate-failure.
+
+
+RRGM bridge:
+Gate-failure means the gate does not perform its required function. The failure mode must be identified before repair.
+
+G359 gate-theft
+
+
+Common meaning:
+Taking control of a gate that one has no right to control.
+
+
+Example:
+The hacked admin account caused gate-theft.
+
+
+RRGM bridge:
+Gate-theft steals permission control. It is an agency and boundary violation when it redirects access, refusal, or recognition.
+
+G360 governance-abuse
+
+
+Common meaning:
+Misuse of governance power to control, exploit, silence, or harm.
+
+
+Example:
+Secret punishments were governance-abuse.
+
+
+RRGM bridge:
+Governance-abuse corrupts rule-control. If governance impairs refusal, boundary, dignity, repair, or accusation capacity, it is unethical. Full stop.

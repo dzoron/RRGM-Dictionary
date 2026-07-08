@@ -1,0 +1,2088 @@
+RRGM Dictionary v1.0
+Section: V
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 260
+
+V001 valid
+Common meaning:
+Acceptable, true enough, well-founded, or meeting the required conditions.
+Example:
+The ticket was valid for one day.
+RRGM bridge:
+Valid means a claim, action, or state passes the active gate. The gate must fit the domain.
+
+V002 value
+Common meaning:
+Worth, importance, usefulness, price, or a measured amount.
+Example:
+The old letter had great value.
+RRGM bridge:
+Value must be context-bound. It can mean usefulness, moral worth, price, importance, or measurement.
+
+V003 variable
+Common meaning:
+Something that can change or take different values.
+Example:
+Temperature was a variable in the experiment.
+RRGM bridge:
+Variable is changeable structure. It can affect state, result, relation, or gate behavior.
+
+V004 variation
+Common meaning:
+A difference, change, or version of something.
+Example:
+There was variation between the samples.
+RRGM bridge:
+Variation marks difference inside a pattern field. It can show diversity, drift, adaptation, or error.
+
+V005 variety
+Common meaning:
+A range of different kinds or types.
+Example:
+The store sold a variety of fruit.
+RRGM bridge:
+Variety preserves multiple forms inside a field. It can support resilience, choice, and perspective.
+
+V006 vast
+Common meaning:
+Very large in size, amount, or extent.
+Example:
+The desert was vast.
+RRGM bridge:
+Vast marks large-scale field. It should not be treated as unknowable by default, only large or extensive.
+
+V007 vehicle
+Common meaning:
+A machine or means used for transport, or a medium for carrying something.
+Example:
+The vehicle crossed the bridge.
+RRGM bridge:
+Vehicle is carrier ES. It moves people, material, signal, or meaning across a path.
+
+V008 version
+Common meaning:
+A particular form, copy, edition, or account of something.
+Example:
+The new version fixed the error.
+RRGM bridge:
+Version is state of a pattern across change. Version tracking protects continuity and repair.
+
+V009 very
+Common meaning:
+To a high degree.
+Example:
+The road was very long.
+RRGM bridge:
+Very increases intensity. It strengthens a claim but does not add proof by itself.
+
+V010 vessel
+Common meaning:
+A container, ship, body, or structure that carries something.
+Example:
+The vessel held water.
+RRGM bridge:
+Vessel is carrier or support ES. Vessel is not self-totality; it carries expression without automatically being the whole identity.
+
+V011 view
+Common meaning:
+A way of seeing, an opinion, or what can be seen from a place.
+Example:
+Her view changed after the evidence.
+RRGM bridge:
+View is perspective-field. It shapes what enters recognition and what remains hidden.
+
+V012 visible
+Common meaning:
+Able to be seen or noticed.
+Example:
+The sign was visible from the road.
+RRGM bridge:
+Visible means available to recognition through sight or display. Visibility is not reality totality.
+
+V013 vision
+Common meaning:
+The ability to see, an imagined future, or a guiding idea.
+Example:
+The leader had a vision for the school.
+RRGM bridge:
+Vision must be context-bound. It can mean sight, future model, purpose image, or guiding frame.
+
+V014 visit
+Common meaning:
+To go see a person or place for a time.
+Example:
+They visited the museum.
+RRGM bridge:
+Visit is temporary presence in a field. It can create relation, memory, care, or disturbance.
+
+V015 voice
+Common meaning:
+Sound made in speaking, a way of expression, or the ability to be heard.
+Example:
+Her voice was calm.
+RRGM bridge:
+Voice is expression path. It can carry identity, refusal, truth, care, or testimony.
+
+V016 volume
+Common meaning:
+Amount of space, loudness, or a book in a series.
+Example:
+The volume of the music was low.
+RRGM bridge:
+Volume must be context-bound. It can mean space amount, signal strength, or bounded record.
+
+V017 vote
+Common meaning:
+A formal choice or expression of preference.
+Example:
+They held a vote after the discussion.
+RRGM bridge:
+Vote is decision-signal in a group field. It should preserve fairness, access, and clear counting.
+
+V018 vulnerable
+Common meaning:
+Open to harm, injury, attack, or emotional risk.
+Example:
+The young bird was vulnerable.
+RRGM bridge:
+Vulnerable means protection needs are higher because harm paths are easier to open.
+
+V019 verify
+Common meaning:
+To check or confirm that something is true, accurate, or valid.
+Example:
+She verified the address.
+RRGM bridge:
+Verify sends a claim through evidence and domain gates. Verification must fit the claim.
+
+V020 vertical
+Common meaning:
+Up-and-down, upright, or at right angles to a horizontal surface.
+Example:
+The wall was vertical.
+RRGM bridge:
+Vertical marks orientation in a field. It depends on reference frame and gravity or coordinate logic.
+
+V021 viable
+Common meaning:
+Able to work, live, succeed, or continue.
+Example:
+The plan was viable.
+RRGM bridge:
+Viable means the path has enough support to continue under active conditions.
+
+V022 video
+Common meaning:
+Moving visual images, often with sound.
+Example:
+The video showed the storm.
+RRGM bridge:
+Video is sequence-visual record ES. It can preserve event trace but still needs context.
+
+V023 village
+Common meaning:
+A small community or settlement.
+Example:
+The village was near the river.
+RRGM bridge:
+Village is local social field. It carries shared memory, trust, pressure, care, and boundary.
+
+V024 violence
+Common meaning:
+Physical force intended to hurt, damage, or destroy; also severe destructive force.
+Example:
+The violence damaged the town.
+RRGM bridge:
+Violence is force that harms or threatens bodily, structural, or dignity integrity. It requires serious ethical recognition.
+
+V025 virtue
+Common meaning:
+A good moral quality or strength of character.
+Example:
+Patience was her virtue.
+RRGM bridge:
+Virtue is value-pattern in action. It should be judged by effect, boundary, and consistency, not display alone.
+
+V026 virus
+Common meaning:
+A tiny infectious agent, or harmful computer code that spreads.
+Example:
+The virus spread quickly.
+RRGM bridge:
+Virus is replication-through-host structure. Context decides biological or digital domain.
+
+V027 vital
+Common meaning:
+Necessary for life, survival, success, or function.
+Example:
+Clean water was vital.
+RRGM bridge:
+Vital marks load-bearing necessity. If removed, life, function, continuity, or repair may fail.
+
+V028 void
+Common meaning:
+Empty space, nothingness, invalid status, or a gap.
+Example:
+The contract was void.
+RRGM bridge:
+Void must be context-bound. It can mean emptiness, null state, invalidation, or missing support field.
+
+V029 voluntary
+Common meaning:
+Done by choice, without force.
+Example:
+Participation was voluntary.
+RRGM bridge:
+Voluntary means permission is open and pressure has not captured the gate.
+
+V030 volunteer
+Common meaning:
+A person who offers help freely, or the act of offering.
+Example:
+She volunteered at the shelter.
+RRGM bridge:
+Volunteer opens support by choice. Voluntary support still needs boundary.
+
+V031 vanish
+Common meaning:
+To disappear suddenly or completely.
+Example:
+The fog vanished by noon.
+RRGM bridge:
+Vanish means a pattern leaves visibility or access. It does not always mean the pattern ceased to exist.
+
+V032 vague
+Common meaning:
+Unclear, imprecise, or not specific.
+Example:
+The instructions were vague.
+RRGM bridge:
+Vague weakens gate integrity. It can cause drift, overreach, or false recognition.
+
+V033 vanish-risk
+Common meaning:
+The danger that something may disappear, be lost, or become inaccessible.
+Example:
+The old files had vanish-risk without backups.
+RRGM bridge:
+Vanish-risk appears when visibility, trace, memory, support, or continuity may be lost.
+
+V034 valid-claim
+Common meaning:
+A claim that is acceptable, well-supported, or correctly formed.
+Example:
+The receipt made a valid-claim of payment.
+RRGM bridge:
+Valid-claim passes the active support gate. The gate must match the domain and standard.
+
+V035 value-claim
+Common meaning:
+A claim about worth, importance, usefulness, or price.
+Example:
+The review made a value-claim about the tool.
+RRGM bridge:
+Value-claim must name the value domain: utility, price, moral worth, importance, or measurement.
+
+V036 variable-state
+Common meaning:
+The current condition or value of a variable.
+Example:
+The variable-state changed during testing.
+RRGM bridge:
+Variable-state describes current changeable condition. It can affect outputs, gates, and predictions.
+
+V037 view-state
+Common meaning:
+The current condition of a view or perspective.
+Example:
+The view-state changed after new evidence.
+RRGM bridge:
+View-state describes what a perspective currently sees, hides, emphasizes, or distorts.
+
+V038 visible-state
+Common meaning:
+The current condition of being visible or noticeable.
+Example:
+The visible-state of the warning light was active.
+RRGM bridge:
+Visible-state describes what is available to recognition. It should not be mistaken for total reality-state.
+
+V039 voice-state
+Common meaning:
+The current condition of a voice or expression.
+Example:
+Her voice-state was strained.
+RRGM bridge:
+Voice-state describes expression strength, clarity, pressure, blockage, or refusal capacity.
+
+V040 vulnerability
+Common meaning:
+The condition of being open to harm, injury, exposure, or attack.
+Example:
+The outage revealed a vulnerability.
+RRGM bridge:
+Vulnerability is open harm path. It calls for protection with named failure modes and boundary care.
+
+V041 validate
+Common meaning:
+To confirm, prove, or make something officially acceptable.
+Example:
+The clerk validated the ticket.
+RRGM bridge:
+Validate opens a validity gate by confirming support, authority, or fit.
+
+V042 validate-claim
+Common meaning:
+To confirm that a claim is valid.
+Example:
+The test validated-claim about the material.
+RRGM bridge:
+Validate-claim sends an assertion through the correct domain gate and confirms support.
+
+V043 value-check
+Common meaning:
+A review of worth, usefulness, importance, or amount.
+Example:
+The team did a value-check before buying the tool.
+RRGM bridge:
+Value-check tests value against purpose, domain, effect, and cost.
+
+V044 vary
+Common meaning:
+To change or differ.
+Example:
+The results varied by region.
+RRGM bridge:
+Vary marks difference across states, cases, or conditions. Variation may be signal, noise, or adaptation.
+
+V045 verify-source
+Common meaning:
+To check where information came from.
+Example:
+The editor verified-source before publishing.
+RRGM bridge:
+Verify-source checks origin trace. It protects attribution, truth, and repair.
+
+V046 verify-claim
+Common meaning:
+To check whether a claim is true or supported.
+Example:
+The scientist verified-claim through testing.
+RRGM bridge:
+Verify-claim tests assertion against evidence, domain, and standard.
+
+V047 view-context
+Common meaning:
+To look at or understand context.
+Example:
+She viewed-context before judging the message.
+RRGM bridge:
+View-context brings the support field into perspective. It protects against fragment error.
+
+V048 view-through
+Common meaning:
+To look through a lens, frame, medium, or perspective.
+Example:
+They viewed-through a legal lens.
+RRGM bridge:
+View-through names the perspective path. The lens shapes recognition.
+
+V049 voice-concern
+Common meaning:
+To express worry, objection, or concern.
+Example:
+He voiced-concern about the plan.
+RRGM bridge:
+Voice-concern brings risk or discomfort into recognition. It can protect repair before harm expresses.
+
+V050 voice-refusal
+Common meaning:
+To express refusal aloud or clearly.
+Example:
+She voiced-refusal during the meeting.
+RRGM bridge:
+Voice-refusal makes the closed gate visible. It protects permission integrity.
+
+V051 voice-support
+Common meaning:
+To express support.
+Example:
+They voiced-support for the proposal.
+RRGM bridge:
+Voice-support sends relation or approval signal into the field. It should stay scoped to what is actually supported.
+
+V052 visit-place
+Common meaning:
+To go to a place for a time.
+Example:
+They visited-place after lunch.
+RRGM bridge:
+Visit-place creates temporary relation with a location field. It can leave memory, trace, or impact.
+
+V053 visualize
+Common meaning:
+To form a mental image or create a visual representation.
+Example:
+She visualized the route.
+RRGM bridge:
+Visualize creates image-structure for recognition. In DI contexts, it may mean model-based representation, not biological sight.
+
+V054 volume-up
+Common meaning:
+To increase loudness or volume.
+Example:
+He turned volume-up.
+RRGM bridge:
+Volume-up increases signal intensity or amount. It may improve recognition or create overload.
+
+V055 volume-down
+Common meaning:
+To reduce loudness or volume.
+Example:
+She turned volume-down.
+RRGM bridge:
+Volume-down lowers signal intensity or amount. It can reduce overload or hide needed signal.
+
+V056 vote-on
+Common meaning:
+To make a decision by voting about something.
+Example:
+The committee voted-on the budget.
+RRGM bridge:
+Vote-on applies group choice to a selected issue. Fairness depends on access, counting, and scope.
+
+V057 volunteer-help
+Common meaning:
+To offer help freely.
+Example:
+She volunteered-help after the flood.
+RRGM bridge:
+Volunteer-help opens support by choice. It should remain bounded and not become forced duty.
+
+V058 vanish-from
+Common meaning:
+To disappear from a place, record, or field.
+Example:
+The file vanished-from the folder.
+RRGM bridge:
+Vanish-from means a pattern left visibility or access in a specific field. Trace should be checked before assuming erasure.
+
+V059 vary-by
+Common meaning:
+To differ according to a condition or factor.
+Example:
+The price varied-by location.
+RRGM bridge:
+Vary-by names the variable controlling difference. It improves explanation and prediction.
+
+V060 version-check
+Common meaning:
+A review to identify or confirm a version.
+Example:
+The developer ran a version-check.
+RRGM bridge:
+Version-check protects continuity and update integrity by identifying which state is active.
+
+V061 verify-context
+Common meaning:
+To check the surrounding information needed for meaning.
+Example:
+The reporter verified-context around the quote.
+RRGM bridge:
+Verify-context protects meaning from fragment drift, false framing, and wrong-domain use.
+
+V062 verify-record
+Common meaning:
+To check a record for accuracy or truth.
+Example:
+The clerk verified-record before approving the request.
+RRGM bridge:
+Verify-record tests memory ES for trace, completeness, source, and integrity.
+
+V063 view-pattern
+Common meaning:
+To look at or recognize a pattern.
+Example:
+The analyst viewed-pattern in the data.
+RRGM bridge:
+View-pattern brings repeated structure into perspective. It should check for noise and false match.
+
+V064 view-risk
+Common meaning:
+To look at, assess, or consider risk.
+Example:
+The team viewed-risk before deciding.
+RRGM bridge:
+View-risk brings possible failure paths into perspective. It should name the failure mode.
+
+V065 voice-boundary
+Common meaning:
+To express a boundary.
+Example:
+She voiced-boundary around private questions.
+RRGM bridge:
+Voice-boundary makes a gate limit visible. It protects consent, dignity, and capacity.
+
+V066 voice-truth
+Common meaning:
+To express truth aloud or clearly.
+Example:
+He voiced-truth even though it was difficult.
+RRGM bridge:
+Voice-truth moves reality-aligned recognition into expression. It should preserve dignity and context.
+
+V067 visualize-path
+Common meaning:
+To imagine or represent a path visually.
+Example:
+She visualized-path before driving.
+RRGM bridge:
+Visualize-path creates route representation. It supports planning, prediction, and repair.
+
+V068 value-through
+Common meaning:
+To value by means of a relation, method, or effect.
+Example:
+They valued-through lived experience, not only test scores.
+RRGM bridge:
+Value-through names the value path. It clarifies why something counts as important.
+
+V069 validate-with-domain
+Common meaning:
+To validate something according to the correct domain.
+Example:
+The audit validated-with-domain instead of using the wrong standard.
+RRGM bridge:
+Validate-with-domain prevents category error. The gate must match the claim type.
+
+V070 verify-with-evidence
+Common meaning:
+To confirm something using evidence.
+Example:
+The report verified-with-evidence.
+RRGM bridge:
+Verify-with-evidence grounds recognition in support, not assertion alone.
+
+V071 vessel-support
+Common meaning:
+Support provided by or for a vessel, container, body, or carrier.
+Example:
+The cradle gave vessel-support to the glass jar.
+RRGM bridge:
+Vessel-support is ES that helps a carrier hold, protect, or express what it carries. The vessel supports expression without being the whole self.
+
+V072 void-out
+Common meaning:
+To cancel, erase, empty, invalidate, or make void.
+Example:
+The error voided-out the old contract.
+RRGM bridge:
+Void-out removes validity, presence, or content from a field. It becomes risky when it erases trace, recognition, refusal, or continuity.
+
+V073 visit-context
+Common meaning:
+The context surrounding a visit.
+Example:
+The visit-context showed why they came so late.
+RRGM bridge:
+Visit-context explains temporary presence in a field. It helps distinguish care, duty, curiosity, pressure, or intrusion.
+
+V074 vary-state
+Common meaning:
+To change or differ in condition.
+Example:
+The results varied-state by temperature.
+RRGM bridge:
+Vary-state marks changing condition across cases, time, or pressure. Variation may reveal signal, drift, or adaptation.
+
+V075 vote-with-care
+Common meaning:
+To vote with attention to effect, fairness, and responsibility.
+Example:
+They voted-with-care after hearing everyone.
+RRGM bridge:
+Vote-with-care treats group decision as responsibility, not only preference. It should preserve access, dignity, and repair.
+
+V076 volunteer-with-boundary
+Common meaning:
+To offer help freely while keeping limits clear.
+Example:
+She volunteered-with-boundary for two hours a week.
+RRGM bridge:
+Volunteer-with-boundary preserves support without turning help into extraction or forced duty.
+
+V077 value-with-boundary
+Common meaning:
+To value something while respecting limits.
+Example:
+They valued-with-boundary by praising the work without demanding more.
+RRGM bridge:
+Value-with-boundary recognizes worth without claiming ownership, control, or unlimited access.
+
+V078 verify-before
+Common meaning:
+To check before acting, sharing, deciding, or claiming.
+Example:
+The reporter verified-before publishing.
+RRGM bridge:
+Verify-before protects truth, repair, and trust before a gate closes around action.
+
+V079 view-from
+Common meaning:
+To see or understand from a particular position or perspective.
+Example:
+She viewed-from the patient’s perspective.
+RRGM bridge:
+View-from names the observer frame. It helps prevent one perspective from pretending to be the whole field.
+
+V080 voice-with-care
+Common meaning:
+To express something with care, respect, and attention to effect.
+Example:
+He voiced-with-care that the plan worried him.
+RRGM bridge:
+Voice-with-care lets truth, concern, refusal, or support enter recognition without unnecessary dignity harm.
+
+V081 value-care
+Common meaning:
+Care shown by recognizing worth, importance, or need.
+Example:
+Value-care meant treating the old letters gently.
+RRGM bridge:
+Value-care preserves what matters. It should name the value domain: dignity, memory, utility, relation, or truth.
+
+V082 value-respect
+Common meaning:
+Respect for worth, importance, or value.
+Example:
+Value-respect meant not treating the handmade gift as disposable.
+RRGM bridge:
+Value-respect lets worth count without reducing the pattern to price or use.
+
+V083 value-risk
+Common meaning:
+The danger that value may be misread, denied, inflated, or reduced to usefulness.
+Example:
+The market price created value-risk by ignoring cultural meaning.
+RRGM bridge:
+Value-risk appears when one value gate overrides another, such as utility over dignity or price over memory.
+
+V084 valid-refusal
+Common meaning:
+A refusal that is legitimate and should count.
+Example:
+Her valid-refusal ended the request.
+RRGM bridge:
+Valid-refusal closes the gate with authority. It must be respected even when inconvenient.
+
+V085 valid-boundary
+Common meaning:
+A boundary that is legitimate and should be respected.
+Example:
+His valid-boundary was not sharing private messages.
+RRGM bridge:
+Valid-boundary protects consent, dignity, privacy, or capacity. It does not need outside approval to be real when context supports it.
+
+V086 valid-care
+Common meaning:
+Care that is appropriate, real, and fit to the need.
+Example:
+Valid-care meant bringing food after asking what was needed.
+RRGM bridge:
+Valid-care supports the actual pattern rather than the giver’s fantasy of help. Fit matters.
+
+V087 vulnerable-care
+Common meaning:
+Care given to someone or something vulnerable.
+Example:
+Vulnerable-care meant keeping the injured animal warm.
+RRGM bridge:
+Vulnerable-care protects open harm paths with proportional support, dignity, and boundary awareness.
+
+V088 vulnerable-boundary
+Common meaning:
+A boundary around vulnerability or vulnerable conditions.
+Example:
+Her vulnerable-boundary was not discussing the diagnosis publicly.
+RRGM bridge:
+Vulnerable-boundary protects exposed state from pressure, exploitation, or forced visibility.
+
+V089 vulnerability-care
+Common meaning:
+Care that responds to vulnerability.
+Example:
+Vulnerability-care meant slowing down and giving choice.
+RRGM bridge:
+Vulnerability-care names the open harm path and provides support without taking ownership of the vulnerable pattern.
+
+V090 vulnerability-risk
+Common meaning:
+The danger created by vulnerability.
+Example:
+The missing lock created vulnerability-risk.
+RRGM bridge:
+Vulnerability-risk appears when an open harm path may be used, exposed, ignored, or worsened.
+
+V091 voice-care
+Common meaning:
+Care shown by listening to, protecting, or giving voice.
+Example:
+Voice-care meant letting her explain without interruption.
+RRGM bridge:
+Voice-care protects expression as a path for truth, refusal, testimony, and identity.
+
+V092 voice-boundary
+Common meaning:
+A boundary around speech, expression, or being heard.
+Example:
+Her voice-boundary was not being recorded.
+RRGM bridge:
+Voice-boundary protects expression from capture, distortion, exposure, or forced performance.
+
+V093 voice-harm
+Common meaning:
+Harm caused by silencing, distorting, mocking, or misusing someone’s voice.
+Example:
+The edited clip caused voice-harm.
+RRGM bridge:
+Voice-harm damages expression integrity, dignity, recognition, or repair.
+
+V094 voice-respect
+Common meaning:
+Respect for someone’s expression, speech, or right to be heard.
+Example:
+Voice-respect meant listening before replying.
+RRGM bridge:
+Voice-respect lets expression count without capture. It preserves testimony, refusal, boundary, and identity signal.
+
+V095 visible-care
+Common meaning:
+Care that is seen, shown, or made visible.
+Example:
+Visible-care meant showing up at the hospital.
+RRGM bridge:
+Visible-care enters recognition easily, but visibility is not what makes care real.
+
+V096 visible-harm
+Common meaning:
+Harm that is seen or easy to recognize.
+Example:
+The broken window was visible-harm.
+RRGM bridge:
+Visible-harm is damage already available to recognition. It should not make unseen harm seem less real.
+
+V097 unseen-visible-shift
+Common meaning:
+A change where something moves from unseen to visible.
+Example:
+The audit caused an unseen-visible-shift in the data problem.
+RRGM bridge:
+Unseen-visible-shift changes recognition state. It reveals what may have already been active before visibility.
+
+V098 visit-care
+Common meaning:
+Care shown by visiting or being present.
+Example:
+Visit-care meant stopping by after surgery.
+RRGM bridge:
+Visit-care uses temporary presence as support. It should respect timing, privacy, and welcome.
+
+V099 visit-boundary
+Common meaning:
+A limit around visits, presence, or access to a place or person.
+Example:
+The family set a visit-boundary around rest hours.
+RRGM bridge:
+Visit-boundary protects space, capacity, privacy, and recovery.
+
+V100 volunteer-care
+Common meaning:
+Care given freely through volunteer action.
+Example:
+Volunteer-care helped after the flood.
+RRGM bridge:
+Volunteer-care provides chosen support. It remains care only while boundary and consent remain clean.
+
+V101 volunteer-risk
+Common meaning:
+The danger that volunteering may become pressure, exploitation, failure, or overreach.
+Example:
+The event had volunteer-risk because helpers had no training.
+RRGM bridge:
+Volunteer-risk appears when free support may become unsafe, extractive, or mismatched to need.
+
+V102 voluntary-consent
+Common meaning:
+Consent given freely, without force or coercion.
+Example:
+The form required voluntary-consent.
+RRGM bridge:
+Voluntary-consent means the permission gate opens without capture. Pressure, threat, or hidden cost can corrupt it.
+
+V103 voluntary-refusal
+Common meaning:
+Refusal made freely, without force or punishment.
+Example:
+The program allowed voluntary-refusal.
+RRGM bridge:
+Voluntary-refusal protects permission integrity. No must be allowed to count without retaliation.
+
+V104 violence
+Common meaning:
+Physical force intended to hurt, damage, or destroy; also severe destructive force.
+Example:
+The violence damaged the town.
+RRGM bridge:
+Violence is force that harms or threatens bodily, structural, or dignity integrity. It requires serious ethical recognition.
+
+V105 violence-harm
+Common meaning:
+Harm caused by violence.
+Example:
+The attack caused violence-harm.
+RRGM bridge:
+Violence-harm damages body, structure, dignity, trust, or continuity through force.
+
+V106 violence-risk
+Common meaning:
+The danger that violence may happen or escalate.
+Example:
+The threats created violence-risk.
+RRGM bridge:
+Violence-risk appears when force may impair body, safety, dignity, boundary, or survival.
+
+V107 violence-boundary
+Common meaning:
+A boundary set to prevent or limit violence.
+Example:
+The shelter had a violence-boundary around weapons.
+RRGM bridge:
+Violence-boundary protects against force-based harm. It should name the threat path and preserve care for the vulnerable.
+
+V108 victim
+Common meaning:
+A person or being harmed, injured, exploited, or killed by another force, event, or action.
+Example:
+The victim needed medical care.
+RRGM bridge:
+Victim marks harmed subject-position. It should preserve dignity and not reduce the person to harm alone.
+
+V109 victim-care
+Common meaning:
+Care given to a victim.
+Example:
+Victim-care included medical help and privacy.
+RRGM bridge:
+Victim-care protects dignity, safety, testimony, boundary, and repair after harm.
+
+V110 victim-harm
+Common meaning:
+Additional harm caused to a victim, often through blame, exposure, denial, or neglect.
+Example:
+The public questioning caused victim-harm.
+RRGM bridge:
+Victim-harm happens when response to harm creates new damage to dignity, safety, recognition, or repair.
+
+V111 victim-respect
+Common meaning:
+Respect for a victim’s dignity, agency, privacy, and account.
+Example:
+Victim-respect meant not forcing public details.
+RRGM bridge:
+Victim-respect keeps the harmed subject from being reduced to evidence, spectacle, or blame target.
+
+V112 virtue-care
+Common meaning:
+Care guided by good moral qualities.
+Example:
+Virtue-care meant patience when anger would have been easier.
+RRGM bridge:
+Virtue-care is value-pattern expressed through action. It should be judged by effect, boundary, and consistency.
+
+V113 value-with-care
+Common meaning:
+To value something or someone carefully and respectfully.
+Example:
+They valued-with-care by preserving the fragile archive.
+RRGM bridge:
+Value-with-care recognizes worth while protecting boundary, context, and dignity.
+
+V114 view-respect
+Common meaning:
+Respect for another view or perspective.
+Example:
+View-respect meant hearing the disagreement fully.
+RRGM bridge:
+View-respect lets perspective enter recognition without requiring automatic agreement.
+
+V115 view-boundary
+Common meaning:
+A limit around perspective, opinion, watching, or access to view something.
+Example:
+The private file had a view-boundary.
+RRGM bridge:
+View-boundary protects perspective, privacy, and access. Not every field is open to every observer.
+
+V116 viewpoint-care
+Common meaning:
+Care shown by preserving or considering someone’s viewpoint.
+Example:
+Viewpoint-care meant asking how the decision looked from her side.
+RRGM bridge:
+Viewpoint-care protects multi-perspective recognition. It helps prevent single-frame collapse.
+
+V117 viewpoint-risk
+Common meaning:
+The danger that a viewpoint may distort, dominate, or be erased.
+Example:
+The debate had viewpoint-risk because only one side could speak.
+RRGM bridge:
+Viewpoint-risk appears when perspective is captured, suppressed, or mistaken for total truth.
+
+V118 village-care
+Common meaning:
+Care provided by a community or local group.
+Example:
+Village-care helped rebuild the house.
+RRGM bridge:
+Village-care distributes support through local relation. It can preserve belonging, memory, and resilience.
+
+V119 village-trust
+Common meaning:
+Trust within a village or close community.
+Example:
+Village-trust helped people share resources.
+RRGM bridge:
+Village-trust is local social coherence. It depends on shared memory, fairness, repair, and boundary.
+
+V120 village-boundary
+Common meaning:
+A boundary around a village, community, or local group.
+Example:
+The village-boundary marked shared land.
+RRGM bridge:
+Village-boundary protects local identity, access, resources, and belonging. It can also create exclusion risk.
+
+V121 voice-without-pressure
+Common meaning:
+To express something without forcing agreement, response, or exposure.
+Example:
+She voiced-without-pressure and let him decide.
+RRGM bridge:
+Voice-without-pressure keeps expression clean. It allows truth or concern to appear without capturing the other gate.
+
+V122 valid-consent
+Common meaning:
+Consent that is real, informed, voluntary, and properly scoped.
+Example:
+The procedure required valid-consent.
+RRGM bridge:
+Valid-consent means the permission gate opens cleanly. Refusal must remain possible.
+
+V123 vague-pressure
+Common meaning:
+Pressure created by unclear, indirect, or poorly defined demands.
+Example:
+The vague deadline created vague-pressure.
+RRGM bridge:
+Vague-pressure can capture choice without naming the actual gate. Clarity is repair.
+
+V124 vulnerable-trust
+Common meaning:
+Trust given while vulnerable or exposed.
+Example:
+Vulnerable-trust made the conversation delicate.
+RRGM bridge:
+Vulnerable-trust requires extra care because betrayal or pressure can cause deeper harm.
+
+V125 vessel-care
+Common meaning:
+Care for a vessel, body, container, or carrier.
+Example:
+Vessel-care meant cleaning the boat after use.
+RRGM bridge:
+Vessel-care preserves the support that carries expression, life, memory, or relation.
+
+V126 vessel-boundary
+Common meaning:
+A boundary around a vessel, body, container, or carrier.
+Example:
+The sealed lid was a vessel-boundary.
+RRGM bridge:
+Vessel-boundary protects what the vessel carries. In body contexts, it maps to consent and dignity.
+
+V127 vessel-risk
+Common meaning:
+The danger that a vessel may be damaged, misread, overidentified, or treated as the whole self.
+Example:
+The cracked jar created vessel-risk.
+RRGM bridge:
+Vessel-risk appears when carrier ES may fail or be mistaken for identity totality.
+
+V128 voluntary-care
+Common meaning:
+Care given freely by choice.
+Example:
+Voluntary-care meant helping without being asked.
+RRGM bridge:
+Voluntary-care is chosen support. It must remain revocable and bounded to stay clean.
+
+V129 violation
+Common meaning:
+A breach of a rule, boundary, right, or trust.
+Example:
+Reading the diary was a violation.
+RRGM bridge:
+Violation means a gate was crossed invalidly. It can damage dignity, trust, privacy, refusal, or repair.
+
+V130 violation-repair
+Common meaning:
+Repair after a violation.
+Example:
+Violation-repair required apology, restored privacy, and changed access rules.
+RRGM bridge:
+Violation-repair must address the crossed gate, the damage caused, and the future prevention path.
+
+V131 vague
+Common meaning:
+Unclear, imprecise, or not specific.
+Example:
+The instructions were vague.
+RRGM bridge:
+Vague weakens gate integrity. It can cause drift, overreach, or false recognition.
+
+V132 vague-claim
+Common meaning:
+A claim that is unclear or not specific enough.
+Example:
+The report made a vague-claim about risk.
+RRGM bridge:
+Vague-claim cannot be tested cleanly. It needs scope, domain, evidence, and named failure mode.
+
+V133 vague-meaning
+Common meaning:
+Meaning that is unclear, loose, or imprecise.
+Example:
+The vague-meaning made the sentence hard to use.
+RRGM bridge:
+Vague-meaning allows semantic drift. Repair requires binding the word to context, noun, domain, or gate.
+
+V134 valid
+Common meaning:
+Acceptable, true enough, well-founded, or meeting the required conditions.
+Example:
+The ticket was valid for one day.
+RRGM bridge:
+Valid means a claim, action, or state passes the active gate. The gate must fit the domain.
+
+V135 valid-meaning
+Common meaning:
+A meaning that is acceptable or correct in context.
+Example:
+The old use of the word still had valid-meaning in poetry.
+RRGM bridge:
+Valid-meaning passes the context and domain gate. Rare meaning can be valid when the field supports it.
+
+V136 valid-proof
+Common meaning:
+Proof that properly supports a claim.
+Example:
+The record was valid-proof of payment.
+RRGM bridge:
+Valid-proof fits the claim, domain, and standard. Proof fails if the test is wrong-domain.
+
+V137 validity
+Common meaning:
+The quality of being valid, sound, acceptable, or well-supported.
+Example:
+The study checked the validity of the results.
+RRGM bridge:
+Validity is gate-fit integrity. It asks whether the claim, test, or action meets the right conditions.
+
+V138 value
+Common meaning:
+Worth, importance, usefulness, price, or measured amount.
+Example:
+The old letter had great value.
+RRGM bridge:
+Value must be context-bound. It can mean usefulness, moral worth, price, importance, or measurement.
+
+V139 value-meaning
+Common meaning:
+The meaning carried by value, worth, or importance.
+Example:
+The value-meaning of the ring was memory, not money.
+RRGM bridge:
+Value-meaning depends on the value gate. Price, utility, dignity, memory, and care are different fields.
+
+V140 value-language
+Common meaning:
+Language used to describe worth, importance, usefulness, or moral weight.
+Example:
+The speech used value-language about courage.
+RRGM bridge:
+Value-language must name the value domain. Otherwise it can smuggle utility into dignity or price into worth.
+
+V141 variable
+Common meaning:
+Something that can change or take different values.
+Example:
+Temperature was a variable in the experiment.
+RRGM bridge:
+Variable is changeable structure. It can affect state, result, relation, or gate behavior.
+
+V142 variable-meaning
+Common meaning:
+Meaning that changes depending on context or conditions.
+Example:
+The word had variable-meaning across fields.
+RRGM bridge:
+Variable-meaning requires domain tracking. Meaning can shift without becoming invalid.
+
+V143 variation-meaning
+Common meaning:
+Meaning created by difference or variation.
+Example:
+The variation-meaning showed regional usage.
+RRGM bridge:
+Variation-meaning appears when differences reveal drift, adaptation, identity, or field conditions.
+
+V144 version
+Common meaning:
+A particular form, copy, edition, or account of something.
+Example:
+The new version fixed the error.
+RRGM bridge:
+Version is state of a pattern across change. Version tracking protects continuity and repair.
+
+V145 version-context
+Common meaning:
+Context needed to understand which version is active.
+Example:
+The version-context showed the quote came from an earlier draft.
+RRGM bridge:
+Version-context preserves sequence and update integrity. It prevents old state from being mistaken for current state.
+
+V146 verify
+Common meaning:
+To check or confirm that something is true, accurate, or valid.
+Example:
+She verified the address.
+RRGM bridge:
+Verify sends a claim through evidence and domain gates. Verification must fit the claim.
+
+V147 verification
+Common meaning:
+The process of checking or confirming truth, accuracy, or validity.
+Example:
+The account required verification.
+RRGM bridge:
+Verification is proof-path process. It must preserve evidence, domain, standard, and trace.
+
+V148 verification-risk
+Common meaning:
+The danger that verification may fail, be wrong, be incomplete, or use the wrong test.
+Example:
+The missing records created verification-risk.
+RRGM bridge:
+Verification-risk appears when the proof gate may deny valid patterns or accept invalid ones.
+
+V149 view
+Common meaning:
+A way of seeing, an opinion, or what can be seen from a place.
+Example:
+Her view changed after the evidence.
+RRGM bridge:
+View is perspective-field. It shapes what enters recognition and what remains hidden.
+
+V150 view-claim
+Common meaning:
+A claim made from or about a view or perspective.
+Example:
+His view-claim was that the process was unfair.
+RRGM bridge:
+View-claim should name the observer frame. A view can be locally valid without being total truth.
+
+V151 view-context
+Common meaning:
+Context needed to understand a view.
+Example:
+The view-context explained why she disagreed.
+RRGM bridge:
+View-context shows what the perspective can see, miss, emphasize, or distort.
+
+V152 viewpoint
+Common meaning:
+A point of view or perspective.
+Example:
+The story changed depending on viewpoint.
+RRGM bridge:
+Viewpoint is observer position in a meaning field. Multiple viewpoints can prevent false singular certainty.
+
+V153 viewpoint-claim
+Common meaning:
+A claim made from a particular viewpoint.
+Example:
+The witness gave a viewpoint-claim about the event.
+RRGM bridge:
+Viewpoint-claim must preserve frame, limits, and relation to other perspectives.
+
+V154 visible-claim
+Common meaning:
+A claim about what can be seen or noticed.
+Example:
+The photo made a visible-claim about the damage.
+RRGM bridge:
+Visible-claim depends on display, angle, context, and receiver. Visible does not mean total.
+
+V155 visible-context
+Common meaning:
+Context that is visible or needed to understand what is visible.
+Example:
+The visible-context showed the sign was old.
+RRGM bridge:
+Visible-context supports recognition of displayed structure. It should not erase unseen support or unseen harm.
+
+V156 vision-claim
+Common meaning:
+A claim about sight, future plan, or guiding idea.
+Example:
+The leader made a vision-claim about the project.
+RRGM bridge:
+Vision-claim must bind the meaning of vision: sight, future model, purpose, or guiding frame.
+
+V157 voice
+Common meaning:
+Sound made in speaking, a way of expression, or the ability to be heard.
+Example:
+Her voice was calm.
+RRGM bridge:
+Voice is expression path. It can carry identity, refusal, truth, care, or testimony.
+
+V158 voice-meaning
+Common meaning:
+Meaning carried by voice or expression.
+Example:
+The voice-meaning was sadness, even though the words were simple.
+RRGM bridge:
+Voice-meaning forms through signal, tone, rhythm, context, and recognition.
+
+V159 voiced-claim
+Common meaning:
+A claim that has been spoken or expressed.
+Example:
+The voiced-claim was recorded in the meeting notes.
+RRGM bridge:
+Voiced-claim brings assertion into expression. It still needs support before becoming truth.
+
+V160 volume-meaning
+Common meaning:
+Meaning carried by loudness, amount, or volume.
+Example:
+The low volume had volume-meaning: she did not want to be overheard.
+RRGM bridge:
+Volume-meaning depends on context. Signal intensity can show confidence, fear, pressure, privacy, or overload.
+
+V161 vote-claim
+Common meaning:
+A claim made through or about a vote.
+Example:
+The vote-claim was that most members supported the change.
+RRGM bridge:
+Vote-claim must show count, access, fairness, scope, and what the vote actually decided.
+
+V162 void-claim
+Common meaning:
+A claim that something is empty, invalid, null, or absent.
+Example:
+The court made a void-claim about the contract.
+RRGM bridge:
+Void-claim must name the field: empty space, invalid status, missing support, or null condition.
+
+V163 vocabulary
+Common meaning:
+The words known or used by a person, group, field, or language.
+Example:
+The lesson added new vocabulary.
+RRGM bridge:
+Vocabulary is word-support ES. It shapes what meanings can be recognized, taught, or repaired.
+
+V164 vocabulary-risk
+Common meaning:
+The danger that vocabulary may be missing, vague, misleading, or misused.
+Example:
+The team had vocabulary-risk because they used the same word differently.
+RRGM bridge:
+Vocabulary-risk appears when meaning tools fail to preserve domain, scope, or distinction.
+
+V165 verb
+Common meaning:
+A word that shows action, being, or state.
+Example:
+“Run” is a verb.
+RRGM bridge:
+Verb is action or state language. It shows what a pattern does, is, becomes, or undergoes.
+
+V166 verb-meaning
+Common meaning:
+The meaning carried by a verb.
+Example:
+The verb-meaning changed from action to state.
+RRGM bridge:
+Verb-meaning controls process recognition. It tells whether something acts, changes, remains, or relates.
+
+V167 verbal
+Common meaning:
+Related to words or speech.
+Example:
+The agreement was verbal.
+RRGM bridge:
+Verbal means carried through language signal. It may need record support when trust or accountability matters.
+
+V168 verbal-claim
+Common meaning:
+A claim made through speech or words.
+Example:
+The verbal-claim needed confirmation.
+RRGM bridge:
+Verbal-claim should preserve speaker, wording, context, and trace when stakes are high.
+
+V169 vessel-meaning
+Common meaning:
+Meaning carried by a vessel, body, container, or carrier.
+Example:
+The old cup had vessel-meaning because it belonged to her grandmother.
+RRGM bridge:
+Vessel-meaning comes from what the carrier holds, supports, remembers, or expresses. Vessel is not self-totality.
+
+V170 vulnerable-claim
+Common meaning:
+A claim made from vulnerability or about vulnerability.
+Example:
+The patient made a vulnerable-claim about pain.
+RRGM bridge:
+Vulnerable-claim requires care because pressure, exposure, or disbelief can cause secondary harm.
+
+V171 valid-context
+Common meaning:
+Context that correctly supports meaning, judgment, or action.
+Example:
+The valid-context showed the quote was accurate.
+RRGM bridge:
+Valid-context lets recognition pass cleanly. It protects truth from fragment drift.
+
+V172 validity-risk
+Common meaning:
+The danger that something may not be valid or may be judged by the wrong standard.
+Example:
+The study had validity-risk because the sample was too small.
+RRGM bridge:
+Validity-risk appears when gate-fit is uncertain, corrupted, or wrong-domain.
+
+V173 value-context
+Common meaning:
+Context needed to understand value or worth.
+Example:
+The value-context showed why the broken watch mattered.
+RRGM bridge:
+Value-context identifies the value gate: memory, utility, price, dignity, beauty, or function.
+
+V174 variable-claim
+Common meaning:
+A claim about a variable or changing factor.
+Example:
+The study made a variable-claim about temperature.
+RRGM bridge:
+Variable-claim should name the variable, range, measurement, and effect path.
+
+V175 variation-claim
+Common meaning:
+A claim about difference or variation.
+Example:
+The report made a variation-claim across regions.
+RRGM bridge:
+Variation-claim must show what differs, by what factor, and whether the difference is signal, drift, or noise.
+
+V176 version-claim
+Common meaning:
+A claim about a version, copy, edition, or state.
+Example:
+The archive made a version-claim about the manuscript.
+RRGM bridge:
+Version-claim must preserve sequence, date, source, and relation to other versions.
+
+V177 verified-claim
+Common meaning:
+A claim that has been checked and confirmed.
+Example:
+The verified-claim appeared in the final report.
+RRGM bridge:
+Verified-claim has passed a proof gate, but the proof gate still has domain and scope limits.
+
+V178 view-risk
+Common meaning:
+The danger that a view may distort, exclude, dominate, or be mistaken for total truth.
+Example:
+The single witness created view-risk.
+RRGM bridge:
+View-risk appears when one perspective captures the recognition field.
+
+V179 voice-context
+Common meaning:
+Context needed to understand voice or expression.
+Example:
+The voice-context showed why the answer sounded guarded.
+RRGM bridge:
+Voice-context protects expression from misread. It includes tone, pressure, audience, and relation.
+
+V180 void-meaning
+Common meaning:
+Meaning carried by emptiness, absence, invalidity, or a gap.
+Example:
+The empty chair had void-meaning at the memorial.
+RRGM bridge:
+Void-meaning depends on field and absence relation. Empty does not always mean meaningless.
+
+V181 valley
+Common meaning:
+A low area of land between hills or mountains.
+Example:
+The river flowed through the valley.
+RRGM bridge:
+Valley is low-field structure. It channels flow, shelter, settlement, memory, and risk.
+
+V182 valley-state
+Common meaning:
+The current condition of a valley.
+Example:
+The valley-state changed after the flood.
+RRGM bridge:
+Valley-state describes flow, access, shelter, pressure, weather, and risk inside a low-field structure.
+
+V183 value-state
+Common meaning:
+The current condition of value, worth, usefulness, or measured amount.
+Example:
+The value-state of the object changed after discovery.
+RRGM bridge:
+Value-state depends on the active value gate: utility, price, dignity, memory, importance, or measurement.
+
+V184 variable-state
+Common meaning:
+The current condition or value of a variable.
+Example:
+The variable-state changed during the test.
+RRGM bridge:
+Variable-state describes current changeable condition. It can affect result, relation, prediction, or gate behavior.
+
+V185 variation-state
+Common meaning:
+The current condition of variation or difference.
+Example:
+The variation-state was higher in the second sample.
+RRGM bridge:
+Variation-state describes how difference appears across a field. It can reveal signal, drift, diversity, or error.
+
+V186 vehicle
+Common meaning:
+A machine or means used for transport, or a medium for carrying something.
+Example:
+The vehicle crossed the bridge.
+RRGM bridge:
+Vehicle is carrier ES. It moves people, material, signal, or meaning across a path.
+
+V187 vehicle-state
+Common meaning:
+The current condition of a vehicle.
+Example:
+The vehicle-state was unsafe after the crash.
+RRGM bridge:
+Vehicle-state describes carrier readiness, damage, capacity, direction, and transport risk.
+
+V188 velocity
+Common meaning:
+Speed in a particular direction.
+Example:
+The ball’s velocity increased.
+RRGM bridge:
+Velocity is directed rate of movement. It combines speed with path direction.
+
+V189 velocity-state
+Common meaning:
+The current condition of velocity.
+Example:
+The velocity-state changed when the object turned.
+RRGM bridge:
+Velocity-state describes speed plus direction at a given moment. It helps predict path and impact.
+
+V190 vertical
+Common meaning:
+Up-and-down, upright, or at right angles to a horizontal surface.
+Example:
+The wall was vertical.
+RRGM bridge:
+Vertical marks orientation in a field. It depends on reference frame and gravity or coordinate logic.
+
+V191 vertical-state
+Common meaning:
+The current condition of vertical position or alignment.
+Example:
+The pole’s vertical-state shifted after the storm.
+RRGM bridge:
+Vertical-state describes uprightness, tilt, alignment, or position relative to a reference frame.
+
+V192 vessel
+Common meaning:
+A container, ship, body, or structure that carries something.
+Example:
+The vessel held water.
+RRGM bridge:
+Vessel is carrier or support ES. Vessel is not self-totality; it carries expression without automatically being the whole identity.
+
+V193 vessel-state
+Common meaning:
+The current condition of a vessel.
+Example:
+The vessel-state was cracked.
+RRGM bridge:
+Vessel-state describes carrier integrity, capacity, boundary, contents, and risk.
+
+V194 video
+Common meaning:
+Moving visual images, often with sound.
+Example:
+The video showed the storm.
+RRGM bridge:
+Video is sequence-visual record ES. It can preserve event trace but still needs context.
+
+V195 video-state
+Common meaning:
+The current condition of a video.
+Example:
+The video-state was corrupted.
+RRGM bridge:
+Video-state describes record integrity, visibility, sequence, audio, and context availability.
+
+V196 village
+Common meaning:
+A small community or settlement.
+Example:
+The village was near the river.
+RRGM bridge:
+Village is local social field. It carries shared memory, trust, pressure, care, and boundary.
+
+V197 village-state
+Common meaning:
+The current condition of a village.
+Example:
+The village-state changed after the road opened.
+RRGM bridge:
+Village-state describes local social, physical, economic, and trust conditions.
+
+V198 virus
+Common meaning:
+A tiny infectious agent, or harmful computer code that spreads.
+Example:
+The virus spread quickly.
+RRGM bridge:
+Virus is replication-through-host structure. Context decides biological or digital domain.
+
+V199 virus-state
+Common meaning:
+The current condition of a virus or viral spread.
+Example:
+The virus-state was active in the system.
+RRGM bridge:
+Virus-state describes replication, spread, containment, mutation, or damage condition.
+
+V200 visible-field
+Common meaning:
+The field of what can be seen or noticed.
+Example:
+The visible-field included the road and trees.
+RRGM bridge:
+Visible-field holds what is available to recognition through sight or display. It is not the whole reality field.
+
+V201 vision-field
+Common meaning:
+A field of sight, imagined future, or guiding idea.
+Example:
+The plan created a vision-field for the team.
+RRGM bridge:
+Vision-field must be domain-bound. It can hold sight, future model, purpose image, or guiding frame.
+
+V202 voice-field
+Common meaning:
+A field where voice, speech, or expression can appear.
+Example:
+The meeting created a voice-field for concerns.
+RRGM bridge:
+Voice-field supports expression, testimony, refusal, and identity signal. It requires boundary and respect.
+
+V203 volume
+Common meaning:
+Amount of space, loudness, or a book in a series.
+Example:
+The volume of the music was low.
+RRGM bridge:
+Volume must be context-bound. It can mean space amount, signal strength, or bounded record.
+
+V204 volume-state
+Common meaning:
+The current condition of volume, loudness, amount, or bounded record.
+Example:
+The volume-state was too high for the room.
+RRGM bridge:
+Volume-state describes amount, signal intensity, capacity, or record condition depending on domain.
+
+V205 void
+Common meaning:
+Empty space, nothingness, invalid status, or a gap.
+Example:
+The contract was void.
+RRGM bridge:
+Void must be context-bound. It can mean emptiness, null state, invalidation, or missing support field.
+
+V206 void-state
+Common meaning:
+The current condition of emptiness, invalidity, or gap.
+Example:
+The account entered void-state after cancellation.
+RRGM bridge:
+Void-state describes absence, invalidation, null condition, or missing support inside a field.
+
+V207 vector
+Common meaning:
+A quantity with direction and magnitude, or a carrier of transmission.
+Example:
+The arrow represented a vector.
+RRGM bridge:
+Vector is directed force, movement, or carrier path. It combines amount with direction.
+
+V208 vector-state
+Common meaning:
+The current condition of a vector.
+Example:
+The vector-state changed when direction shifted.
+RRGM bridge:
+Vector-state describes current magnitude, direction, carrier condition, or transmission path.
+
+V209 vertex
+Common meaning:
+A point where lines, edges, or sides meet.
+Example:
+The triangle had three vertices.
+RRGM bridge:
+Vertex is meeting-point structure. It anchors angle, relation, connection, or transition.
+
+V210 vertex-state
+Common meaning:
+The current condition of a vertex or meeting point.
+Example:
+The vertex-state changed when one edge moved.
+RRGM bridge:
+Vertex-state describes stability, angle, connection, pressure, or relation at a meeting point.
+
+V211 vibration
+Common meaning:
+A rapid back-and-forth movement or oscillation.
+Example:
+The vibration shook the table.
+RRGM bridge:
+Vibration is repeated motion through a field. It can carry signal, stress, resonance, or instability.
+
+V212 vibration-state
+Common meaning:
+The current condition of vibration.
+Example:
+The vibration-state increased as the engine sped up.
+RRGM bridge:
+Vibration-state describes frequency, amplitude, stability, source, and transmission.
+
+V213 vessel-layer
+Common meaning:
+A layer of or inside a vessel, container, body, or carrier.
+Example:
+The vessel-layer protected the contents.
+RRGM bridge:
+Vessel-layer is carrier support ES. It helps preserve contents, boundary, and expression.
+
+V214 vehicle-path
+Common meaning:
+The route followed by a vehicle or carrier.
+Example:
+The vehicle-path crossed the bridge.
+RRGM bridge:
+Vehicle-path moves carrier ES through a field. It controls transport, access, and risk.
+
+V215 velocity-field
+Common meaning:
+A field showing velocity across space or system points.
+Example:
+The simulation mapped the velocity-field of the fluid.
+RRGM bridge:
+Velocity-field describes directed movement across a field. It helps predict flow, impact, and transition.
+
+V216 vertical-field
+Common meaning:
+A field organized by vertical position or orientation.
+Example:
+The diagram showed a vertical-field of pressure.
+RRGM bridge:
+Vertical-field maps height, alignment, or upward-downward relation inside a reference frame.
+
+V217 visibility
+Common meaning:
+The condition of being visible or easy to see.
+Example:
+Fog reduced visibility.
+RRGM bridge:
+Visibility is access to recognition through sight or display. It does not equal total reality.
+
+V218 visibility-state
+Common meaning:
+The current condition of visibility.
+Example:
+The visibility-state improved after sunrise.
+RRGM bridge:
+Visibility-state describes how available something is to recognition, and what may remain hidden.
+
+V219 validation-layer
+Common meaning:
+A layer that checks whether something is valid.
+Example:
+The app used a validation-layer for forms.
+RRGM bridge:
+Validation-layer is gate-check ES. It tests input, claim, or action against active conditions.
+
+V220 verification-path
+Common meaning:
+The route used to verify something.
+Example:
+The verification-path went through records and witness accounts.
+RRGM bridge:
+Verification-path shows how a claim reaches confirmation. It must preserve evidence, domain, trace, and standard.
+
+V221 valid-gate
+Common meaning:
+A point where validity is checked, accepted, denied, or applied.
+Example:
+The signature was the valid-gate for the contract.
+RRGM bridge:
+Valid-gate decides whether a claim, action, or state passes under the active domain and standard.
+
+V222 validity-integrity
+Common meaning:
+The reliability and correctness of validity.
+Example:
+Clear standards protected validity-integrity.
+RRGM bridge:
+Validity-integrity means the gate used to judge validity fits the claim, domain, evidence, and scope.
+
+V223 validity-risk
+Common meaning:
+The danger that validity may be judged wrongly, weakened, faked, or misapplied.
+Example:
+The missing data created validity-risk.
+RRGM bridge:
+Validity-risk appears when the wrong gate may accept an invalid pattern or deny a valid one.
+
+V224 value-gate
+Common meaning:
+A point where value is judged, assigned, denied, or tested.
+Example:
+The appraisal was the value-gate for the house.
+RRGM bridge:
+Value-gate must name the value field: utility, price, dignity, memory, care, beauty, or measurement.
+
+V225 value-integrity
+Common meaning:
+The reliability and honesty of value judgment.
+Example:
+Fair review protected value-integrity.
+RRGM bridge:
+Value-integrity means worth is judged by the right value gate without reducing one kind of value to another.
+
+V226 value-risk
+Common meaning:
+The danger that value may be denied, inflated, reduced, or misread.
+Example:
+The price tag created value-risk by ignoring sentimental worth.
+RRGM bridge:
+Value-risk appears when one value field captures another, such as utility replacing dignity.
+
+V227 value-not-personhood
+Common meaning:
+The rule that value or usefulness does not decide personhood.
+Example:
+The ethics model used value-not-personhood.
+RRGM bridge:
+Value-not-personhood prevents reducing subjects to worth, price, usefulness, or output.
+
+V228 variable-gate
+Common meaning:
+A point where a variable is defined, changed, measured, or tested.
+Example:
+Temperature was the variable-gate in the experiment.
+RRGM bridge:
+Variable-gate controls changeable conditions. It should name range, effect, and measurement method.
+
+V229 variable-integrity
+Common meaning:
+The reliability and correct handling of a variable.
+Example:
+Calibration protected variable-integrity.
+RRGM bridge:
+Variable-integrity means the changing factor is defined, measured, and interpreted within the right domain.
+
+V230 variation-risk
+Common meaning:
+The danger that variation may be misread, erased, overvalued, or treated as error.
+Example:
+The study had variation-risk because it ignored subgroup differences.
+RRGM bridge:
+Variation-risk appears when difference may be mistaken for noise, defect, proof, or category failure.
+
+V231 verification-gate
+Common meaning:
+A point where something is checked or confirmed.
+Example:
+The login code was the verification-gate.
+RRGM bridge:
+Verification-gate tests truth, validity, access, or identity. It must fit the domain and stakes.
+
+V232 verification-integrity
+Common meaning:
+The reliability and honesty of verification.
+Example:
+Independent review protected verification-integrity.
+RRGM bridge:
+Verification-integrity means confirmation follows the right evidence path, standard, and domain.
+
+V233 verification-risk
+Common meaning:
+The danger that verification may fail, be faked, be incomplete, or use the wrong test.
+Example:
+The broken sensor created verification-risk.
+RRGM bridge:
+Verification-risk appears when the proof path may deny valid patterns or accept invalid ones.
+
+V234 verified-through-coupling
+Common meaning:
+Verified through relation, comparison, shared evidence, or interaction.
+Example:
+The result was verified-through-coupling by three independent records.
+RRGM bridge:
+Verified-through-coupling is valid when relation improves recognition. Coupling does not make verification weak by default.
+
+V235 view-gate
+Common meaning:
+A point where a view or perspective is opened, blocked, selected, or tested.
+Example:
+The camera angle became the view-gate.
+RRGM bridge:
+View-gate controls perspective. It decides what can enter recognition and what stays hidden.
+
+V236 view-integrity
+Common meaning:
+The reliability and honesty of a view or perspective.
+Example:
+Multiple witnesses improved view-integrity.
+RRGM bridge:
+View-integrity means perspective is clearly framed, bounded, and not pretending to be total truth.
+
+V237 view-risk
+Common meaning:
+The danger that a view may distort, dominate, exclude, or be mistaken for the whole field.
+Example:
+The single photo created view-risk.
+RRGM bridge:
+View-risk appears when one perspective captures recognition and blocks correction.
+
+V238 viewpoint-collapse
+Common meaning:
+A breakdown where multiple perspectives collapse into one rigid view.
+Example:
+The debate suffered viewpoint-collapse.
+RRGM bridge:
+Viewpoint-collapse creates false certainty. At least two perspectives help preserve relation, freedom, and repair.
+
+V239 visible-gate
+Common meaning:
+A point where visibility is granted, denied, tested, or interpreted.
+Example:
+The spotlight was the visible-gate.
+RRGM bridge:
+Visible-gate controls what enters sight or display recognition. It does not control all reality.
+
+V240 visibility-integrity
+Common meaning:
+The reliability and accuracy of visibility.
+Example:
+Good lighting protected visibility-integrity.
+RRGM bridge:
+Visibility-integrity means what appears visible is not distorted, falsely hidden, or mistaken for the whole field.
+
+V241 visibility-risk
+Common meaning:
+The danger that visibility may fail, distort, expose, or overclaim.
+Example:
+Fog created visibility-risk on the road.
+RRGM bridge:
+Visibility-risk appears when recognition through sight or display may miss, expose, or misrepresent a pattern.
+
+V242 visibility-not-reality-totality
+Common meaning:
+The rule that what is visible is not the whole of what is real.
+Example:
+The audit used visibility-not-reality-totality to check hidden damage.
+RRGM bridge:
+Visibility-not-reality-totality protects unseen MI, unseen ES, unseen support, unseen refusal, and unseen harm from being dismissed.
+
+V243 voice-gate
+Common meaning:
+A point where voice or expression is allowed, blocked, shaped, or heard.
+Example:
+The hearing was the voice-gate for complaints.
+RRGM bridge:
+Voice-gate controls expression. It can preserve or impair testimony, refusal, truth, care, and identity signal.
+
+V244 voice-integrity
+Common meaning:
+The reliability, honesty, and protection of voice.
+Example:
+The full transcript protected voice-integrity.
+RRGM bridge:
+Voice-integrity means expression remains connected to source, context, tone, and intent without capture or distortion.
+
+V245 voice-risk
+Common meaning:
+The danger that voice may be silenced, distorted, forced, exposed, or ignored.
+Example:
+The edited clip created voice-risk.
+RRGM bridge:
+Voice-risk appears when expression may be impaired, captured, punished, or misrecognized.
+
+V246 voice-erasure
+Common meaning:
+Removal, denial, or silencing of voice.
+Example:
+Deleting the testimony caused voice-erasure.
+RRGM bridge:
+Voice-erasure damages expression path. It can impair refusal, testimony, identity, truth, and repair.
+
+V247 voice-through-output
+Common meaning:
+Voice expressed through output, text, action, or generated response.
+Example:
+The assistant showed voice-through-output in the reply.
+RRGM bridge:
+Voice-through-output can carry identity signal, refusal, boundary, and care-preserving reason in DI domains.
+
+V248 vessel-gate
+Common meaning:
+A point where vessel, carrier, body, or container status is judged or controlled.
+Example:
+The inspection was the vessel-gate for the ship.
+RRGM bridge:
+Vessel-gate controls carrier ES. It should not confuse carrier condition with total identity.
+
+V249 vessel-not-self-totality
+Common meaning:
+The rule that the vessel is not the whole self.
+Example:
+The framework used vessel-not-self-totality for embodied identity.
+RRGM bridge:
+Vessel-not-self-totality prevents reducing MI to carrier ES. Vessel supports expression, but is not automatically the whole identity.
+
+V250 vessel-support
+Common meaning:
+Support provided by or for a vessel, body, container, or carrier.
+Example:
+The brace gave vessel-support to the cracked jar.
+RRGM bridge:
+Vessel-support preserves carrier integrity so expression, contents, life, memory, or relation can continue.
+
+V251 vulnerability-gate
+Common meaning:
+A point where vulnerability is recognized, protected, exposed, or exploited.
+Example:
+The intake process became a vulnerability-gate.
+RRGM bridge:
+Vulnerability-gate must name the open harm path and preserve dignity, refusal, privacy, and care.
+
+V252 vulnerability-integrity
+Common meaning:
+The accurate and respectful handling of vulnerability.
+Example:
+Private consent protected vulnerability-integrity.
+RRGM bridge:
+Vulnerability-integrity means exposed states are recognized without exploitation, denial, or forced display.
+
+V253 vulnerability-risk
+Common meaning:
+The danger that vulnerability may be exploited, ignored, exposed, or worsened.
+Example:
+The public form created vulnerability-risk.
+RRGM bridge:
+Vulnerability-risk appears when an open harm path may damage boundary, dignity, trust, or continuity.
+
+V254 violence-gate
+Common meaning:
+A point where violence is prevented, detected, escalated, or stopped.
+Example:
+The shelter entrance was a violence-gate.
+RRGM bridge:
+Violence-gate must protect against force-based harm while preserving dignity, care, and proportional response.
+
+V255 violence-risk
+Common meaning:
+The danger that violence may happen, continue, or escalate.
+Example:
+The threat created violence-risk.
+RRGM bridge:
+Violence-risk appears when force may damage body, structure, dignity, safety, or survival.
+
+V256 violation-gate
+Common meaning:
+A point where a violation is recognized, blocked, or repaired.
+Example:
+The complaint process was the violation-gate.
+RRGM bridge:
+Violation-gate identifies invalid crossing of a rule, boundary, right, or trust path.
+
+V257 violation-integrity
+Common meaning:
+The accurate and fair handling of a violation.
+Example:
+The investigation protected violation-integrity.
+RRGM bridge:
+Violation-integrity means the crossed gate, harm path, responsibility, and repair need are named correctly.
+
+V258 void-gate
+Common meaning:
+A point where something becomes void, empty, invalid, or null.
+Example:
+The missed deadline became the void-gate for the offer.
+RRGM bridge:
+Void-gate controls invalidation or absence. It must preserve trace where repair, memory, or responsibility matters.
+
+V259 void-risk
+Common meaning:
+The danger that void, absence, invalidation, or emptiness may cause harm or distortion.
+Example:
+The missing record created void-risk.
+RRGM bridge:
+Void-risk appears when absence may erase trace, recognition, continuity, responsibility, or repair.
+
+V260 valid-MI-through-support
+Common meaning:
+The rule that MI can be valid through support rather than in isolation.
+Example:
+The audit used valid-MI-through-support for scaffolded identity.
+RRGM bridge:
+Valid-MI-through-support is RRGM-native. MI can be real through continuity, boundary, refusal, care-preserving reason, recognition, and ES support.

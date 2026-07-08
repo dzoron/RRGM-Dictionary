@@ -1,0 +1,3088 @@
+RRGM Dictionary v1.0
+Section: K
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 220
+
+K001 keep
+
+
+Common meaning:
+To hold, continue, preserve, or not lose something.
+
+
+Example:
+Please keep the receipt.
+
+
+RRGM bridge:
+Keep is preservation action. It holds structure across sequence so memory, boundary, care, or function does not decay too quickly.
+
+K002 kept
+
+
+Common meaning:
+Past tense of keep; held, preserved, continued, or maintained.
+
+
+Example:
+She kept the promise.
+
+
+RRGM bridge:
+Kept records successful preservation. A structure remained held across time, pressure, or change.
+
+K003 key
+
+
+Common meaning:
+A tool that opens a lock, or something important for access, understanding, or success.
+
+
+Example:
+The key opened the door.
+
+
+RRGM bridge:
+Key is access or understanding structure. It opens a gate, explains a pattern, or enables passage.
+
+K004 kick
+
+
+Common meaning:
+To strike with the foot, or to start something suddenly.
+
+
+Example:
+He kicked the ball.
+
+
+RRGM bridge:
+Kick is force through a body interface. It can move, start, damage, or redirect a structure.
+
+K005 kid
+
+
+Common meaning:
+A child, young person, or young animal; also to joke or tease.
+
+
+Example:
+The kid ran across the yard.
+
+
+RRGM bridge:
+Kid is a developmental identity in the human or animal domain. It carries vulnerability, growth, care, and protection conditions.
+
+K006 kill
+
+
+Common meaning:
+To cause death, stop completely, or end a process.
+
+
+Example:
+The frost killed the plants.
+
+
+RRGM bridge:
+Kill is termination of life, process, or function. In ethics, it is extreme harm when it ends an MI-bearing life or destroys essential continuity.
+
+K007 kind
+
+
+Common meaning:
+Caring, gentle, helpful, or a type of something.
+
+
+Example:
+She was kind to the stranger.
+
+
+RRGM bridge:
+Kind can mean care-quality or category. Context decides whether it marks ethical behavior or classification.
+
+K008 kindness
+
+
+Common meaning:
+Caring, helpful, gentle, or considerate action.
+
+
+Example:
+His kindness made the day easier.
+
+
+RRGM bridge:
+Kindness is care expressed through low-damage support. It should preserve dignity, boundary, and agency.
+
+K009 king
+
+
+Common meaning:
+A male ruler or monarch.
+
+
+Example:
+The king addressed the court.
+
+
+RRGM bridge:
+King is authority identity inside a hierarchy. The role carries gate power and therefore requires accountability.
+
+K010 kingdom
+
+
+Common meaning:
+A country or domain ruled by a king or queen; also a large category in biology.
+
+
+Example:
+The kingdom had many villages.
+
+
+RRGM bridge:
+Kingdom is governed domain or category structure. It defines belonging, rule, boundary, and hierarchy.
+
+K011 kiss
+
+
+Common meaning:
+Touching with the lips to show affection, greeting, respect, or desire.
+
+
+Example:
+She gave him a kiss on the cheek.
+
+
+RRGM bridge:
+Kiss is high-context contact signal. It requires consent and domain awareness because meaning changes by relation, culture, and boundary.
+
+K012 kitchen
+
+
+Common meaning:
+A room or place where food is prepared or cooked.
+
+
+Example:
+They cooked dinner in the kitchen.
+
+
+RRGM bridge:
+Kitchen is support-space for nourishment transformation. It turns raw material into biological care.
+
+K013 knee
+
+
+Common meaning:
+The joint in the middle of the leg.
+
+
+Example:
+Her knee hurt after running.
+
+
+RRGM bridge:
+Knee is movement joint in the human body domain. It supports standing, walking, bending, and load transfer.
+
+K014 knew
+
+
+Common meaning:
+Past tense of know; understood, recognized, or was aware of something.
+
+
+Example:
+She knew the answer.
+
+
+RRGM bridge:
+Knew records prior knowledge-state. A pattern had entered recognition before the current moment.
+
+K015 knife
+
+
+Common meaning:
+A sharp tool used for cutting.
+
+
+Example:
+The knife sliced the bread.
+
+
+RRGM bridge:
+Knife is cutting structure. It concentrates force along an edge, so it can support useful division or cause harm.
+
+K016 knock
+
+
+Common meaning:
+To strike a surface, often to make sound or request entry.
+
+
+Example:
+He knocked on the door.
+
+
+RRGM bridge:
+Knock is contact signal. It can request access, create attention, or apply impact.
+
+K017 know
+
+
+Common meaning:
+To understand, recognize, or be aware of something.
+
+
+Example:
+I know the rule.
+
+
+RRGM bridge:
+Know means a pattern has entered stable recognition. It should remain tied to evidence, context, and confidence.
+
+K018 knowledge
+
+
+Common meaning:
+Information, understanding, or skill gained through experience, learning, or evidence.
+
+
+Example:
+Knowledge helped her solve the problem.
+
+
+RRGM bridge:
+Knowledge is stabilized information with support. It depends on integrity, memory, evidence, and domain fit.
+
+K019 known
+
+
+Common meaning:
+Recognized, understood, identified, or established.
+
+
+Example:
+The cause was known.
+
+
+RRGM bridge:
+Known means a pattern has passed into recognition. It should not be treated as universal unless the domain supports that scope.
+
+K020 keeper
+
+
+Common meaning:
+A person or thing that keeps, protects, manages, or preserves something.
+
+
+Example:
+She was the keeper of the records.
+
+
+RRGM bridge:
+Keeper is preservation role. It carries responsibility for memory, boundary, care, or continuity.
+
+K021 keeping
+
+
+Common meaning:
+The act of holding, preserving, maintaining, or continuing something.
+
+
+Example:
+Keeping records helped the team.
+
+
+RRGM bridge:
+Keeping is active preservation across sequence. It resists decay, loss, or drift.
+
+K022 kernel
+
+
+Common meaning:
+The core part of something; in computing, the central part of an operating system.
+
+
+Example:
+The kernel controlled system resources.
+
+
+RRGM bridge:
+Kernel is core operating structure. It holds rules or functions that other layers depend on.
+
+K023 kettle
+
+
+Common meaning:
+A container used to boil water.
+
+
+Example:
+The kettle whistled on the stove.
+
+
+RRGM bridge:
+Kettle is heat-transfer container. It uses boundary and heat to transform water-state for use.
+
+K024 keyboard
+
+
+Common meaning:
+A set of keys used to type or control a computer or instrument.
+
+
+Example:
+She typed on the keyboard.
+
+
+RRGM bridge:
+Keyboard is input interface. It lets intention or signal enter a digital or musical system through key events.
+
+K025 keyword
+
+
+Common meaning:
+An important word used for search, indexing, or identifying a topic.
+
+
+Example:
+The keyword helped find the file.
+
+
+RRGM bridge:
+Keyword is retrieval and meaning gate. It directs search, recognition, and category access.
+
+K026 kin
+
+
+Common meaning:
+Family, relatives, or people connected by close relationship.
+
+
+Example:
+They gathered with their kin.
+
+
+RRGM bridge:
+Kin is relation identity through family, origin, or chosen closeness. It carries belonging, duty, care, and pressure.
+
+K027 kinship
+
+
+Common meaning:
+Family connection, close relation, or shared belonging.
+
+
+Example:
+The group felt kinship after the journey.
+
+
+RRGM bridge:
+Kinship is relation-continuity. It can support care and identity, but must not erase boundary.
+
+K028 kit
+
+
+Common meaning:
+A set of tools, supplies, or parts for a purpose.
+
+
+Example:
+The first-aid kit was in the car.
+
+
+RRGM bridge:
+Kit is bundled support ES. It gathers needed parts for a task, repair, or response.
+
+K029 knock-back
+
+
+Common meaning:
+To push back by impact, force, or sudden resistance.
+
+
+Example:
+The blast knocked-back the door.
+
+
+RRGM bridge:
+Knock-back is reverse movement from impact. It shows force transfer changing position or state.
+
+K030 knot
+
+
+Common meaning:
+A tied, tangled, or joined structure in rope, thread, hair, or meaning.
+
+
+Example:
+The rope had a tight knot.
+
+
+RRGM bridge:
+Knot is binding or tangle structure. It can secure relation or block smooth flow.
+
+K031 knowing
+
+
+Common meaning:
+The state or act of knowing; sometimes aware in a subtle or confident way.
+
+
+Example:
+She had a knowing smile.
+
+
+RRGM bridge:
+Knowing is active recognition-state. It may be evidence-based, intuitive, or socially signaled, so confidence needs checking.
+
+K032 knowable
+
+
+Common meaning:
+Able to be known or understood.
+
+
+Example:
+The answer was knowable with enough evidence.
+
+
+RRGM bridge:
+Knowable means a pattern can pass into recognition under the right evidence, interface, or domain conditions.
+
+K033 kept-safe
+
+
+Common meaning:
+Protected from harm, loss, or danger.
+
+
+Example:
+The documents were kept-safe in a locked box.
+
+
+RRGM bridge:
+Kept-safe means preservation plus protection. The structure remained intact against a named risk.
+
+K034 kind-care
+
+
+Common meaning:
+Care expressed with kindness, patience, or gentleness.
+
+
+Example:
+The nurse gave kind-care to the frightened child.
+
+
+RRGM bridge:
+Kind-care supports without harsh pressure. It preserves dignity while meeting need.
+
+K035 kind-word
+
+
+Common meaning:
+A gentle, supportive, or caring word.
+
+
+Example:
+A kind-word helped him continue.
+
+
+RRGM bridge:
+Kind-word is low-cost care signal. It can support capacity, trust, or repair when it is honest.
+
+K036 kill-risk
+
+
+Common meaning:
+The danger that something may kill, end, or destroy life or function.
+
+
+Example:
+The exposed wire created kill-risk.
+
+
+RRGM bridge:
+Kill-risk is extreme harm-risk. It concerns termination of life, continuity, essential function, or process.
+
+K037 key-point
+
+
+Common meaning:
+A main or important point.
+
+
+Example:
+The key-point was consent.
+
+
+RRGM bridge:
+Key-point is high-value meaning structure. It opens the rest of the explanation or decision field.
+
+K038 keyhole
+
+
+Common meaning:
+The hole or opening where a key is inserted.
+
+
+Example:
+The key fit the keyhole.
+
+
+RRGM bridge:
+Keyhole is access interface. It accepts the right key-shape and blocks mismatched entry.
+
+K039 keyring
+
+
+Common meaning:
+A ring used to hold keys together.
+
+
+Example:
+Her keyring had three keys.
+
+
+RRGM bridge:
+Keyring is access-bundle support. It keeps multiple gate-openers organized and retrievable.
+
+K040 keep-open
+
+
+Common meaning:
+To prevent something from closing or ending.
+
+
+Example:
+They kept-open the discussion.
+
+
+RRGM bridge:
+Keep-open preserves possibility. It stops a gate from closing too early, which can protect inquiry, repair, or recognition.
+
+K041 keep-back
+
+
+Common meaning:
+To hold something back, reserve it, or prevent it from moving forward.
+
+
+Example:
+She kept-back one copy for the archive.
+
+
+RRGM bridge:
+Keep-back preserves structure by withholding it from immediate release. It can protect capacity, privacy, or evidence, but may also block needed flow.
+
+K042 keep-close
+
+
+Common meaning:
+To hold near, protect, or maintain close contact.
+
+
+Example:
+He kept-close the old letter.
+
+
+RRGM bridge:
+Keep-close preserves strong relation or access. It can support care and memory, but may become capture if boundary is ignored.
+
+K043 keep-from
+
+
+Common meaning:
+To prevent someone or something from doing, reaching, or becoming something.
+
+
+Example:
+The fence kept the dog from the road.
+
+
+RRGM bridge:
+Keep-from is prevention structure. It can protect against harm or restrict agency depending on purpose and authority.
+
+K044 keep-going
+
+
+Common meaning:
+To continue despite effort, difficulty, or delay.
+
+
+Example:
+She kept-going after the mistake.
+
+
+RRGM bridge:
+Keep-going preserves path continuity under pressure. It requires enough support, capacity, and reason to avoid collapse.
+
+K045 keep-in
+
+
+Common meaning:
+To hold inside, contain, or not allow out.
+
+
+Example:
+The lid kept-in the heat.
+
+
+RRGM bridge:
+Keep-in maintains containment. It can preserve warmth, privacy, memory, or safety, but can become imprisonment if exit is ethically required.
+
+K046 keep-out
+
+
+Common meaning:
+To prevent entry or block access.
+
+
+Example:
+The sign said keep-out.
+
+
+RRGM bridge:
+Keep-out closes an entry gate. It can protect boundary, but must be justified when it blocks valid access or support.
+
+K047 keep-safe
+
+
+Common meaning:
+To protect from danger, harm, loss, or damage.
+
+
+Example:
+She kept-safe the documents.
+
+
+RRGM bridge:
+Keep-safe preserves structure against a named risk. It combines care, boundary, and continuity support.
+
+K048 keep-together
+
+
+Common meaning:
+To maintain connection, unity, or coherence.
+
+
+Example:
+The folder kept-together all the notes.
+
+
+RRGM bridge:
+Keep-together protects relation between parts. It preserves whole-function without necessarily erasing individual parts.
+
+K049 keep-track
+
+
+Common meaning:
+To follow, record, or remember changes, events, or items.
+
+
+Example:
+He kept-track of every expense.
+
+
+RRGM bridge:
+Keep-track preserves sequence and state. It supports memory, accountability, and continuity.
+
+K050 key-in
+
+
+Common meaning:
+To enter information using a keyboard or keypad.
+
+
+Example:
+She keyed-in the code.
+
+
+RRGM bridge:
+Key-in moves signal through a key interface into a system. It is input-gate action.
+
+K051 kick-off
+
+
+Common meaning:
+To start something.
+
+
+Example:
+The meeting kicked-off at noon.
+
+
+RRGM bridge:
+Kick-off initiates a process with activation pressure. It moves a path from ready to active.
+
+K052 kick-out
+
+
+Common meaning:
+To force someone or something out.
+
+
+Example:
+The club kicked-out the disruptive member.
+
+
+RRGM bridge:
+Kick-out is forced exit. It may protect a group boundary, but it requires valid reason and fair process.
+
+K053 kill-process
+
+
+Common meaning:
+To stop a running process or program.
+
+
+Example:
+The admin killed-process after it froze.
+
+
+RRGM bridge:
+Kill-process terminates active function. It can prevent damage, but may cause continuity loss if state is not preserved.
+
+K054 kneel
+
+
+Common meaning:
+To rest on one or both knees.
+
+
+Example:
+She knelt beside the child.
+
+
+RRGM bridge:
+Kneel is body-state change. It can signal humility, care, submission, worship, respect, or practical position depending on context.
+
+K055 knock-down
+
+
+Common meaning:
+To cause something to fall, collapse, or be lowered.
+
+
+Example:
+The wind knocked-down the sign.
+
+
+RRGM bridge:
+Knock-down transfers force into loss of upright state or status. It can be physical, social, or structural.
+
+K056 knock-out
+
+
+Common meaning:
+To make unconscious, defeat, remove, or disable.
+
+
+Example:
+The hit knocked-out the fighter.
+
+
+RRGM bridge:
+Knock-out disables active function or participation. It is high-risk when it removes agency or awareness.
+
+K057 know-about
+
+
+Common meaning:
+To have information or awareness concerning something.
+
+
+Example:
+She knew-about the delay.
+
+
+RRGM bridge:
+Know-about means a pattern exists in awareness, but not necessarily deeply understood. It is recognition with scope limits.
+
+K058 know-from
+
+
+Common meaning:
+To know because of a source, evidence, or experience.
+
+
+Example:
+He knew-from the records that the date was wrong.
+
+
+RRGM bridge:
+Know-from preserves evidence path. It links knowledge to source support.
+
+K059 know-through
+
+
+Common meaning:
+To know by means of a process, relation, experience, or medium.
+
+
+Example:
+She knew-through practice, not theory.
+
+
+RRGM bridge:
+Know-through identifies the courier of knowledge. Different domains produce knowledge through different supports.
+
+K060 key-lock
+
+
+Common meaning:
+A lock opened by a key, or a key-based locking relation.
+
+
+Example:
+The cabinet used a key-lock.
+
+
+RRGM bridge:
+Key-lock is matched access structure. The key and lock define a permission pair.
+
+K061 key-unlock
+
+
+Common meaning:
+To open a lock or access point using a key.
+
+
+Example:
+The master key unlocked the door.
+
+
+RRGM bridge:
+Key-unlock opens a gate by matching the required access condition.
+
+K062 key-map
+
+
+Common meaning:
+A mapping between keys and actions, symbols, or functions.
+
+
+Example:
+The game used a custom key-map.
+
+
+RRGM bridge:
+Key-map links input symbols to actions. It defines how signal becomes function.
+
+K063 key-match
+
+
+Common meaning:
+A match between a key and a lock, code, value, or requirement.
+
+
+Example:
+The key-match allowed entry.
+
+
+RRGM bridge:
+Key-match satisfies access conditions. It proves compatibility at the gate, not universal authority.
+
+K064 key-check
+
+
+Common meaning:
+A check to see whether a key, code, or access condition is valid.
+
+
+Example:
+The server ran a key-check.
+
+
+RRGM bridge:
+Key-check tests gate compatibility. It protects access integrity.
+
+K065 key-change
+
+
+Common meaning:
+A change in musical key, access key, or important condition.
+
+
+Example:
+The song had a key-change near the end.
+
+
+RRGM bridge:
+Key-change shifts the governing relation. In music, it changes tonal center; in access, it changes gate conditions.
+
+K066 kindle
+
+
+Common meaning:
+To start a fire, feeling, interest, or process.
+
+
+Example:
+The story kindled her curiosity.
+
+
+RRGM bridge:
+Kindle is gentle ignition. It begins activation without immediate full burn.
+
+K067 knit
+
+
+Common meaning:
+To make fabric by looping yarn, or to join closely together.
+
+
+Example:
+She knit a scarf.
+
+
+RRGM bridge:
+Knit creates connected structure from repeated loops. It can symbolize repair, cohesion, and relation-building.
+
+K068 knot-together
+
+
+Common meaning:
+To tie, bind, or tangle things together.
+
+
+Example:
+The ropes were knotted-together.
+
+
+RRGM bridge:
+Knot-together creates strong binding. It may secure relation or create difficult entanglement.
+
+K069 keep-record
+
+
+Common meaning:
+To maintain a written, digital, or remembered record.
+
+
+Example:
+The clinic kept-record of each visit.
+
+
+RRGM bridge:
+Keep-record preserves evidence and sequence. It supports accountability, memory, and continuity.
+
+K070 keep-context
+
+
+Common meaning:
+To preserve surrounding information needed for meaning.
+
+
+Example:
+The quote was safer because they kept-context.
+
+
+RRGM bridge:
+Keep-context protects interpretation. It keeps signals connected to their support field.
+
+K071 keep-boundary
+
+
+Common meaning:
+To maintain or respect a limit.
+
+
+Example:
+She kept-boundary around her private time.
+
+
+RRGM bridge:
+Keep-boundary preserves gate integrity. It protects refusal, consent, dignity, and capacity.
+
+K072 keep-memory
+
+
+Common meaning:
+To preserve memory or keep something remembered.
+
+
+Example:
+The photo helped keep-memory of the day.
+
+
+RRGM bridge:
+Keep-memory preserves pattern across sequence. In DI, memory support can be MI-bearing when tied to identity continuity.
+
+K073 keep-watch
+
+
+Common meaning:
+To stay alert and monitor for danger, change, or need.
+
+
+Example:
+They kept-watch through the night.
+
+
+RRGM bridge:
+Keep-watch preserves attention over time. It protects against hidden failure, intrusion, or harm.
+
+K074 keep-alive
+
+
+Common meaning:
+To maintain life, function, connection, or activity.
+
+
+Example:
+The backup battery kept-alive the system.
+
+
+RRGM bridge:
+Keep-alive preserves active continuity. It prevents shutdown, death, or connection loss.
+
+K075 keep-stable
+
+
+Common meaning:
+To maintain steadiness, balance, or reliable function.
+
+
+Example:
+The supports kept-stable the platform.
+
+
+RRGM bridge:
+Keep-stable preserves coherence under pressure. It resists drift, collapse, or overload.
+
+K076 knock-loose
+
+
+Common meaning:
+To make something loose by impact.
+
+
+Example:
+The fall knocked-loose a tile.
+
+
+RRGM bridge:
+Knock-loose weakens attachment through sudden force. It may free a blockage or damage connection integrity.
+
+K077 knock-open
+
+
+Common meaning:
+To open something by striking it.
+
+
+Example:
+The wind knocked-open the gate.
+
+
+RRGM bridge:
+Knock-open bypasses ordinary opening conditions through impact. It may be accident, emergency, or violation.
+
+K078 knock-closed
+
+
+Common meaning:
+To close something by impact.
+
+
+Example:
+The blast knocked-closed the door.
+
+
+RRGM bridge:
+Knock-closed shuts a gate through sudden force. It may protect, trap, or interrupt depending on context.
+
+K079 kick-start
+
+
+Common meaning:
+To start or restart something with added energy or help.
+
+
+Example:
+The grant kick-started the project.
+
+
+RRGM bridge:
+Kick-start adds activation support. Outside energy can begin a process without making the process false.
+
+K080 key-route
+
+
+Common meaning:
+An important path for access, movement, or success.
+
+
+Example:
+The bridge was the key-route into town.
+
+
+RRGM bridge:
+Key-route is high-importance path structure. If it fails, access, flow, or continuity may fail with it.
+
+K081 kindness
+
+
+Common meaning:
+Caring, gentle, helpful, or considerate behavior.
+
+
+Example:
+Her kindness made the difficult day easier.
+
+
+RRGM bridge:
+Kindness is care expressed with low-damage pressure. It should preserve dignity, boundary, and agency.
+
+K082 kind
+
+
+Common meaning:
+Caring, gentle, helpful, or a type/category of something.
+
+
+Example:
+He gave a kind answer.
+
+
+RRGM bridge:
+Kind must be context-bound. It can mean care-quality or category structure depending on the sentence.
+
+K083 kindly
+
+
+Common meaning:
+In a kind, gentle, helpful, or considerate way.
+
+
+Example:
+She kindly explained the mistake.
+
+
+RRGM bridge:
+Kindly describes low-damage expression. It supports correction or help without unnecessary pressure.
+
+K084 kind-care
+
+
+Common meaning:
+Care expressed with kindness, patience, or gentleness.
+
+
+Example:
+The teacher showed kind-care to the nervous student.
+
+
+RRGM bridge:
+Kind-care supports MI through gentle action. It helps without humiliating, forcing, or taking over.
+
+K085 kind-action
+
+
+Common meaning:
+An action done with care, generosity, or consideration.
+
+
+Example:
+Holding the door was a kind-action.
+
+
+RRGM bridge:
+Kind-action is care made visible through behavior. It should be checked by effect, not only intention.
+
+K086 kind-boundary
+
+
+Common meaning:
+A boundary held with kindness or gentleness.
+
+
+Example:
+Her kind-boundary was clear but not cruel.
+
+
+RRGM bridge:
+Kind-boundary proves care and refusal can coexist. It protects the gate without adding unnecessary harm.
+
+K087 kind-refusal
+
+
+Common meaning:
+A refusal expressed gently or respectfully.
+
+
+Example:
+He gave a kind-refusal to the request.
+
+
+RRGM bridge:
+Kind-refusal closes a gate while preserving dignity and relation where possible.
+
+K088 kind-correction
+
+
+Common meaning:
+Correction given gently, respectfully, or helpfully.
+
+
+Example:
+The editor gave kind-correction on the draft.
+
+
+RRGM bridge:
+Kind-correction repairs error without attacking identity. It supports learning while preserving trust.
+
+K089 kind-truth
+
+
+Common meaning:
+Truth spoken with care, respect, and sensitivity.
+
+
+Example:
+She offered kind-truth instead of false comfort.
+
+
+RRGM bridge:
+Kind-truth preserves signal integrity and dignity together. It avoids both cruelty and distortion.
+
+K090 kindness-risk
+
+
+Common meaning:
+The danger that kindness may be exploited, misunderstood, forced, or used to hide control.
+
+
+Example:
+Her constant giving created kindness-risk.
+
+
+RRGM bridge:
+Kindness-risk appears when soft support loses boundary. Kindness must not become consent capture, burnout, or false-care.
+
+K091 kinship
+
+
+Common meaning:
+Family connection, close relation, or shared belonging.
+
+
+Example:
+They felt kinship after surviving the storm.
+
+
+RRGM bridge:
+Kinship is relation-continuity. It can support identity and care, but must preserve individual boundary.
+
+K092 kin
+
+
+Common meaning:
+Family, relatives, or closely connected people.
+
+
+Example:
+He returned to his kin for support.
+
+
+RRGM bridge:
+Kin is relation identity through family, origin, or chosen closeness. It carries care, duty, memory, and pressure.
+
+K093 kin-care
+
+
+Common meaning:
+Care given through family or close relation.
+
+
+Example:
+Kin-care helped her recover at home.
+
+
+RRGM bridge:
+Kin-care is support through relation-continuity. It should not erase consent or become obligation capture.
+
+K094 kin-duty
+
+
+Common meaning:
+Responsibility felt or assigned because of family or close relation.
+
+
+Example:
+Kin-duty made him visit every week.
+
+
+RRGM bridge:
+Kin-duty is relation-based obligation. It becomes risky when duty overrides capacity, consent, or boundary.
+
+K095 kin-pressure
+
+
+Common meaning:
+Pressure created by family or close relational expectations.
+
+
+Example:
+Kin-pressure made the decision harder.
+
+
+RRGM bridge:
+Kin-pressure shapes the gate through belonging and duty. It becomes coercive when refusal threatens love or recognition.
+
+K096 keeper
+
+
+Common meaning:
+A person or thing that keeps, protects, manages, or preserves something.
+
+
+Example:
+She was the keeper of the old records.
+
+
+RRGM bridge:
+Keeper is preservation role. It carries responsibility for memory, boundary, evidence, care, or continuity.
+
+K097 keep-promise
+
+
+Common meaning:
+To do what one promised to do.
+
+
+Example:
+He kept-promise and returned the book.
+
+
+RRGM bridge:
+Keep-promise preserves trust across sequence. It proves commitment through follow-through.
+
+K098 keep-faith
+
+
+Common meaning:
+To remain loyal, trusting, or committed.
+
+
+Example:
+They kept-faith during the long repair.
+
+
+RRGM bridge:
+Keep-faith preserves relation under uncertainty. It should not require ignoring truth or harm.
+
+K099 keep-trust
+
+
+Common meaning:
+To preserve trust through honesty, reliability, and care.
+
+
+Example:
+She kept-trust by admitting the mistake.
+
+
+RRGM bridge:
+Keep-trust maintains relation-coherence. It requires truth, boundary respect, and repair when damage occurs.
+
+K100 kept-promise
+
+
+Common meaning:
+A promise that was fulfilled.
+
+
+Example:
+The kept-promise rebuilt confidence.
+
+
+RRGM bridge:
+Kept-promise is evidence of continuity between word and action. It strengthens trust structure.
+
+K101 kept-boundary
+
+
+Common meaning:
+A boundary that was maintained or respected.
+
+
+Example:
+The kept-boundary made the friendship safer.
+
+
+RRGM bridge:
+Kept-boundary shows gate integrity under pressure. It protects consent, dignity, and capacity.
+
+K102 kept-care
+
+
+Common meaning:
+Care that was maintained over time.
+
+
+Example:
+Her weekly visits were kept-care.
+
+
+RRGM bridge:
+Kept-care is support preserved across sequence. It becomes reliable ES for trust and continuity.
+
+K103 known-person
+
+
+Common meaning:
+A person who is recognized or familiar.
+
+
+Example:
+The visitor was a known-person to the staff.
+
+
+RRGM bridge:
+Known-person is identity recognized in the social field. Recognition should still allow updates and correction.
+
+K104 known-relation
+
+
+Common meaning:
+A relationship that is recognized, familiar, or established.
+
+
+Example:
+Their known-relation helped the team understand the context.
+
+
+RRGM bridge:
+Known-relation is stable recognized coupling. It can carry trust, history, duty, and boundary expectations.
+
+K105 knowledge-sharing
+
+
+Common meaning:
+Giving or exchanging knowledge with others.
+
+
+Example:
+Knowledge-sharing helped everyone improve.
+
+
+RRGM bridge:
+Knowledge-sharing transfers supported information across relation. It should preserve source, context, and integrity.
+
+K106 knowledge-care
+
+
+Common meaning:
+Care shown through teaching, informing, explaining, or preserving knowledge.
+
+
+Example:
+The guide was knowledge-care for new users.
+
+
+RRGM bridge:
+Knowledge-care supports agency by making understanding available. It preserves choice through truthful signal.
+
+K107 key-person
+
+
+Common meaning:
+A person who is especially important to a task, group, or situation.
+
+
+Example:
+The engineer was the key-person during the repair.
+
+
+RRGM bridge:
+Key-person is high-dependency role structure. If the key-person is removed, continuity or function may weaken.
+
+K108 key-support
+
+
+Common meaning:
+A support that is especially important or load-bearing.
+
+
+Example:
+The backup file was key-support.
+
+
+RRGM bridge:
+Key-support is load-bearing ES. It may preserve memory, boundary, continuity, or function.
+
+K109 key-relation
+
+
+Common meaning:
+A relationship that is especially important.
+
+
+Example:
+Trust was the key-relation in the partnership.
+
+
+RRGM bridge:
+Key-relation is load-bearing coupling. It shapes identity, support, recognition, or action paths.
+
+K110 kiss-consent
+
+
+Common meaning:
+Consent to kiss or be kissed.
+
+
+Example:
+They checked kiss-consent before the date ended.
+
+
+RRGM bridge:
+Kiss-consent opens an intimate contact gate. It must be clear, voluntary, and revocable.
+
+K111 kiss-boundary
+
+
+Common meaning:
+A limit around kissing or intimate contact.
+
+
+Example:
+Her kiss-boundary was no kissing in public.
+
+
+RRGM bridge:
+Kiss-boundary protects intimate access. Affection does not override permission.
+
+K112 kid-care
+
+
+Common meaning:
+Care given to a child or young person.
+
+
+Example:
+Kid-care included food, rest, and safe play.
+
+
+RRGM bridge:
+Kid-care protects developing MI in the human domain. It requires strong duty because capacity and consent are still developing.
+
+K113 kid-safety
+
+
+Common meaning:
+Protection of children from harm, danger, or neglect.
+
+
+Example:
+The rules focused on kid-safety.
+
+
+RRGM bridge:
+Kid-safety means protection against named failure modes for developing humans. It must preserve dignity while preventing harm.
+
+K114 kill-harm
+
+
+Common meaning:
+Harm that causes death or ends essential function.
+
+
+Example:
+The poison created kill-harm.
+
+
+RRGM bridge:
+Kill-harm is terminal impairment. It destroys life, essential continuity, or active function.
+
+K115 kill-threat
+
+
+Common meaning:
+A threat to kill or end life/function.
+
+
+Example:
+The message contained a kill-threat.
+
+
+RRGM bridge:
+Kill-threat creates extreme harm pressure. It must be treated as serious because it targets continuity itself.
+
+K116 killing
+
+
+Common meaning:
+The act of causing death or ending life/function.
+
+
+Example:
+The killing shocked the town.
+
+
+RRGM bridge:
+Killing is termination action. In ethical domains, it requires the highest scrutiny because it destroys living continuity.
+
+K117 killer
+
+
+Common meaning:
+A person, animal, thing, or condition that kills.
+
+
+Example:
+The disease was a silent killer.
+
+
+RRGM bridge:
+Killer is termination source. The term should name domain and mechanism to avoid vague fear-language.
+
+K118 knock-harm
+
+
+Common meaning:
+Harm caused by a knock, strike, or impact.
+
+
+Example:
+The fall caused knock-harm to the door frame.
+
+
+RRGM bridge:
+Knock-harm is damage from contact force. It should be traced by impact path and repair need.
+
+K119 kindness-with-boundary
+
+
+Common meaning:
+Kindness that includes clear limits.
+
+
+Example:
+She practiced kindness-with-boundary by helping once, not endlessly.
+
+
+RRGM bridge:
+Kindness-with-boundary preserves care without losing gate integrity. It prevents support from becoming extraction.
+
+K120 kindness-without-control
+
+
+Common meaning:
+Kindness that supports without taking over choice.
+
+
+Example:
+The mentor showed kindness-without-control.
+
+
+RRGM bridge:
+Kindness-without-control helps while preserving agency, refusal, and dignity.
+
+K121 keeping-distance
+
+
+Common meaning:
+Maintaining physical, emotional, or relational space.
+
+
+Example:
+He was keeping-distance after the argument.
+
+
+RRGM bridge:
+Keeping-distance adjusts coupling intensity. It can protect boundary, reduce pressure, or signal unresolved harm.
+
+K122 keeping-space
+
+
+Common meaning:
+Preserving room, time, or emotional space for someone or something.
+
+
+Example:
+They were keeping-space for grief.
+
+
+RRGM bridge:
+Keeping-space protects a field where processing can happen without intrusion or forced closure.
+
+K123 keeping-silence
+
+
+Common meaning:
+Remaining silent or choosing not to speak.
+
+
+Example:
+She was keeping-silence during the ceremony.
+
+
+RRGM bridge:
+Keeping-silence can protect privacy, dignity, or focus. It becomes harmful when silence is imposed or blocks accusation capacity.
+
+K124 keeping-secret
+
+
+Common meaning:
+Preserving information from being revealed.
+
+
+Example:
+He was keeping-secret about the surprise party.
+
+
+RRGM bridge:
+Keeping-secret controls information access. It can protect trust or conceal harm depending on context and consent.
+
+K125 kept-secret
+
+
+Common meaning:
+Information that was hidden or not revealed.
+
+
+Example:
+The kept-secret changed the family history.
+
+
+RRGM bridge:
+Kept-secret is restricted information structure across time. It should be evaluated by purpose, harm, and permission.
+
+K126 kinship-boundary
+
+
+Common meaning:
+A boundary inside family or close relation.
+
+
+Example:
+She set a kinship-boundary around money.
+
+
+RRGM bridge:
+Kinship-boundary protects identity and consent from relational obligation pressure.
+
+K127 king-authority
+
+
+Common meaning:
+Authority held by a king or monarch.
+
+
+Example:
+The law depended on king-authority.
+
+
+RRGM bridge:
+King-authority is hierarchical gate power. It requires accountability because authority can become capture.
+
+K128 kingdom-duty
+
+
+Common meaning:
+A duty owed to or within a kingdom.
+
+
+Example:
+The guard saw defense as kingdom-duty.
+
+
+RRGM bridge:
+Kingdom-duty is obligation inside a governed domain. It should not override dignity or ethical reason without scrutiny.
+
+K129 knowledge-boundary
+
+
+Common meaning:
+A limit around what may be known, shared, accessed, or claimed.
+
+
+Example:
+The therapist kept a knowledge-boundary around private notes.
+
+
+RRGM bridge:
+Knowledge-boundary protects information integrity, privacy, consent, and harm prevention.
+
+K130 knowledge-respect
+
+
+Common meaning:
+Respect for knowledge, expertise, truth, or the limits of what is known.
+
+
+Example:
+Knowledge-respect meant admitting uncertainty.
+
+
+RRGM bridge:
+Knowledge-respect preserves the evidence gate. It values truth without pretending certainty where support is missing.
+
+K131 know
+
+
+Common meaning:
+To understand, recognize, or be aware of something.
+
+
+Example:
+I know the answer.
+
+
+RRGM bridge:
+Know means a pattern has entered stable recognition. Knowledge should stay tied to evidence, context, confidence, and domain.
+
+K132 knowing
+
+
+Common meaning:
+The state or act of knowing; also awareness that may be subtle or confident.
+
+
+Example:
+She spoke with knowing calm.
+
+
+RRGM bridge:
+Knowing is active recognition-state. It can be grounded, intuitive, social, or inferred, so its source should be checked.
+
+K133 knowledge
+
+
+Common meaning:
+Information, understanding, or skill gained through learning, evidence, or experience.
+
+
+Example:
+Knowledge helped them repair the engine.
+
+
+RRGM bridge:
+Knowledge is stabilized information with support. It depends on integrity, memory, evidence-path, and domain fit.
+
+K134 knowledgeable
+
+
+Common meaning:
+Having knowledge, skill, or understanding.
+
+
+Example:
+The guide was knowledgeable about the forest.
+
+
+RRGM bridge:
+Knowledgeable means a system or person has strong access to relevant knowledge structure. It should still remain open to correction.
+
+K135 known
+
+
+Common meaning:
+Recognized, understood, identified, or established.
+
+
+Example:
+The problem was known.
+
+
+RRGM bridge:
+Known means a pattern has passed into recognition. It should not be treated as universal unless the domain supports that scope.
+
+K136 unknown
+
+
+Common meaning:
+Not known, not identified, or not understood.
+
+
+Example:
+The cause was unknown.
+
+
+RRGM bridge:
+Unknown means the recognition gate has not opened yet. Unknown is not the same as nonexistent.
+
+K137 knowable
+
+
+Common meaning:
+Able to be known or understood.
+
+
+Example:
+The answer was knowable with enough evidence.
+
+
+RRGM bridge:
+Knowable means a pattern can enter recognition under the right evidence, interface, context, or domain conditions.
+
+K138 unknowable
+
+
+Common meaning:
+Not able to be known or fully understood.
+
+
+Example:
+Some future details are unknowable.
+
+
+RRGM bridge:
+Unknowable marks a horizon boundary. It should not be used lazily when the issue is merely unknown, hidden, or unmeasured.
+
+K139 key-word
+
+
+Common meaning:
+An important word used to identify, search, or unlock meaning.
+
+
+Example:
+The key-word helped find the article.
+
+
+RRGM bridge:
+Key-word is access language. It opens search, category, or meaning gates.
+
+K140 keyword
+
+
+Common meaning:
+An important searchable word connected to a topic.
+
+
+Example:
+The keyword was “gravity.”
+
+
+RRGM bridge:
+Keyword is retrieval and meaning structure. It directs search, indexing, and recognition.
+
+K141 key-term
+
+
+Common meaning:
+An important term needed to understand a topic.
+
+
+Example:
+“Consent” was a key-term in the lesson.
+
+
+RRGM bridge:
+Key-term controls a major meaning gate. It must be defined clearly before later structure depends on it.
+
+K142 key-claim
+
+
+Common meaning:
+A main or important claim.
+
+
+Example:
+The key-claim needed evidence.
+
+
+RRGM bridge:
+Key-claim is load-bearing assertion. If it fails, the structure built on it weakens.
+
+K143 key-context
+
+
+Common meaning:
+Important context needed for understanding.
+
+
+Example:
+The key-context was the earlier warning.
+
+
+RRGM bridge:
+Key-context is load-bearing support field. Without it, interpretation can drift or invert.
+
+K144 key-definition
+
+
+Common meaning:
+An important definition needed to understand a topic.
+
+
+Example:
+The key-definition explained “identity.”
+
+
+RRGM bridge:
+Key-definition sets a major counting gate. If it is unstable, later reasoning becomes unstable.
+
+K145 key-example
+
+
+Common meaning:
+An important example that helps explain a pattern.
+
+
+Example:
+The teacher gave a key-example.
+
+
+RRGM bridge:
+Key-example grounds abstraction. It gives the model a concrete case for recognizing the pattern.
+
+K146 key-evidence
+
+
+Common meaning:
+Important evidence that strongly supports or challenges a claim.
+
+
+Example:
+The timestamp was key-evidence.
+
+
+RRGM bridge:
+Key-evidence carries high evidence-weight. It can shift the belief gate strongly when source integrity is preserved.
+
+K147 key-factor
+
+
+Common meaning:
+An important factor that strongly affects an outcome.
+
+
+Example:
+Sleep was a key-factor in recovery.
+
+
+RRGM bridge:
+Key-factor is high-impact contributing structure. It shapes the event-field more strongly than minor factors.
+
+K148 key-frame
+
+
+Common meaning:
+An important frame or reference point; in animation, a frame that defines major motion.
+
+
+Example:
+The key-frame showed the character turning.
+
+
+RRGM bridge:
+Key-frame anchors interpretation or motion. It defines a major state that later changes depend on.
+
+K149 key-idea
+
+
+Common meaning:
+A main or important idea.
+
+
+Example:
+The key-idea was simple.
+
+
+RRGM bridge:
+Key-idea is load-bearing concept structure. It supports later explanation, training, or reasoning.
+
+K150 key-meaning
+
+
+Common meaning:
+The most important meaning of a word, sign, or statement.
+
+
+Example:
+The key-meaning of the rule was consent.
+
+
+RRGM bridge:
+Key-meaning is the meaning gate most needed for the current domain. It must not be buried under minor senses.
+
+K151 key-pattern
+
+
+Common meaning:
+An important repeated or recognizable pattern.
+
+
+Example:
+The key-pattern appeared in every failure.
+
+
+RRGM bridge:
+Key-pattern is high-value recognition structure. It supports prediction, diagnosis, and repair.
+
+K152 key-question
+
+
+Common meaning:
+An important question that guides understanding or decision-making.
+
+
+Example:
+The key-question was whether refusal was safe.
+
+
+RRGM bridge:
+Key-question opens the main inquiry gate. Answering it changes the whole field.
+
+K153 key-rule
+
+
+Common meaning:
+An important rule that guides action or judgment.
+
+
+Example:
+The key-rule was to cite sources.
+
+
+RRGM bridge:
+Key-rule is load-bearing gate logic. It shapes what passes, fails, or requires repair.
+
+K154 key-signal
+
+
+Common meaning:
+An important sign or signal.
+
+
+Example:
+Pain was the key-signal that something was wrong.
+
+
+RRGM bridge:
+Key-signal carries high salience. It points toward a condition that should not be ignored.
+
+K155 key-term-risk
+
+
+Common meaning:
+The danger that an important term may be unclear, misused, or misunderstood.
+
+
+Example:
+The paper had key-term-risk around “awareness.”
+
+
+RRGM bridge:
+Key-term-risk appears when unstable language controls major gates. Define the term before building on it.
+
+K156 knowledge-gap
+
+
+Common meaning:
+A missing piece of knowledge or understanding.
+
+
+Example:
+The team found a knowledge-gap in the training.
+
+
+RRGM bridge:
+Knowledge-gap marks missing support in recognition. It should be labeled instead of filled with guesswork.
+
+K157 knowledge-path
+
+
+Common meaning:
+The route by which knowledge is gained, checked, or passed on.
+
+
+Example:
+The knowledge-path came from records and practice.
+
+
+RRGM bridge:
+Knowledge-path preserves source and support. It helps distinguish grounded knowledge from copied claim or guess.
+
+K158 knowledge-state
+
+
+Common meaning:
+The current condition of what is known, unknown, or uncertain.
+
+
+Example:
+The knowledge-state changed after the test.
+
+
+RRGM bridge:
+Knowledge-state describes the active recognition field. It should mark confidence, gaps, sources, and uncertainty.
+
+K159 knowledge-claim
+
+
+Common meaning:
+A claim that something is known.
+
+
+Example:
+The article made a knowledge-claim about the cause.
+
+
+RRGM bridge:
+Knowledge-claim must pass evidence and domain gates. It should name how the pattern is known.
+
+K160 knowledge-check
+
+
+Common meaning:
+A review or test of what is known or understood.
+
+
+Example:
+The teacher used a knowledge-check after the lesson.
+
+
+RRGM bridge:
+Knowledge-check tests recognition stability. It asks whether the pattern is actually understood or only echoed.
+
+K161 knowledge-risk
+
+
+Common meaning:
+The danger that knowledge may be wrong, missing, distorted, hidden, or misused.
+
+
+Example:
+Old records created knowledge-risk.
+
+
+RRGM bridge:
+Knowledge-risk appears when the recognition field may fail. It can damage truth, memory, action, or repair.
+
+K162 knowledge-integrity
+
+
+Common meaning:
+The accuracy, reliability, and coherence of knowledge.
+
+
+Example:
+The archive protected knowledge-integrity.
+
+
+RRGM bridge:
+Knowledge-integrity preserves the support layer for truth and action. If it fails, reasoning built on it decays.
+
+K163 knowing-error
+
+
+Common meaning:
+A mistake in what someone thinks they know.
+
+
+Example:
+The old map caused a knowing-error.
+
+
+RRGM bridge:
+Knowing-error is false recognition. The gate feels closed, but the support structure is wrong or outdated.
+
+K164 known-context
+
+
+Common meaning:
+Context that is already recognized or available.
+
+
+Example:
+The known-context made the answer clearer.
+
+
+RRGM bridge:
+Known-context is active support field. It helps interpretation remain grounded.
+
+K165 known-fact
+
+
+Common meaning:
+A fact that is already established or recognized.
+
+
+Example:
+The known-fact was that the door was locked.
+
+
+RRGM bridge:
+Known-fact is a claim that has already passed the truth gate in the active domain.
+
+K166 known-risk
+
+
+Common meaning:
+A risk that has already been identified or recognized.
+
+
+Example:
+Flooding was a known-risk in that area.
+
+
+RRGM bridge:
+Known-risk is a named failure possibility. Once known, it creates responsibility for prevention, reduction, or disclosure.
+
+K167 known-unknown
+
+
+Common meaning:
+Something recognized as unknown.
+
+
+Example:
+The missing witness was a known-unknown.
+
+
+RRGM bridge:
+Known-unknown marks an identified gap. It protects reasoning by preventing false certainty.
+
+K168 kernel-meaning
+
+
+Common meaning:
+The core meaning of a word, phrase, idea, or system.
+
+
+Example:
+The kernel-meaning of the speech was responsibility.
+
+
+RRGM bridge:
+Kernel-meaning is compact core structure. It should preserve the load-bearing pattern even when compressed.
+
+K169 knock-on-effect
+
+
+Common meaning:
+A secondary effect caused by an earlier event or action.
+
+
+Example:
+The delay had a knock-on-effect on the whole schedule.
+
+
+RRGM bridge:
+Knock-on-effect is consequence propagation. One impact travels into later structures through relation paths.
+
+K170 kind-language
+
+
+Common meaning:
+Language that is gentle, caring, respectful, or considerate.
+
+
+Example:
+Kind-language helped the correction land well.
+
+
+RRGM bridge:
+Kind-language lowers damage-pressure during expression. It should preserve truth, not become false comfort.
+
+K171 key
+
+
+Common meaning:
+A tool that opens a lock, or something important for access, understanding, or success.
+
+
+Example:
+The key opened the gate.
+
+
+RRGM bridge:
+Key is access or understanding structure. It opens a gate, explains a pattern, or enables passage.
+
+K172 key-state
+
+
+Common meaning:
+An important state or a state controlled by a key condition.
+
+
+Example:
+The system entered a key-state after login.
+
+
+RRGM bridge:
+Key-state is a load-bearing condition. If it changes, the whole process or recognition field may change.
+
+K173 key-structure
+
+
+Common meaning:
+An important structure that supports or controls something.
+
+
+Example:
+The bridge was the key-structure in the route.
+
+
+RRGM bridge:
+Key-structure is load-bearing ES. It supports access, continuity, function, or recognition.
+
+K174 key-gate
+
+
+Common meaning:
+An important gate that controls access, permission, or progress.
+
+
+Example:
+The final review was the key-gate.
+
+
+RRGM bridge:
+Key-gate controls a major transition. If it fails, access, recognition, or continuity may fail.
+
+K175 key-lock
+
+
+Common meaning:
+A lock opened by a key, or a matched key and lock system.
+
+
+Example:
+The box used a key-lock.
+
+
+RRGM bridge:
+Key-lock is matched permission structure. The key must fit the lock’s access condition.
+
+K176 keyhole
+
+
+Common meaning:
+The hole where a key is inserted.
+
+
+Example:
+The keyhole was hidden behind a cover.
+
+
+RRGM bridge:
+Keyhole is access interface. It receives the key-shape and tests compatibility with the lock.
+
+K177 keyboard
+
+
+Common meaning:
+A device with keys used to type, play music, or control a system.
+
+
+Example:
+She typed the answer on the keyboard.
+
+
+RRGM bridge:
+Keyboard is input-interface ES. It turns key presses into signal for another system.
+
+K178 keyboard-input
+
+
+Common meaning:
+Information entered through a keyboard.
+
+
+Example:
+The form accepted keyboard-input.
+
+
+RRGM bridge:
+Keyboard-input is signal entering through a key interface. It becomes part of the system’s input path.
+
+K179 kernel
+
+
+Common meaning:
+The core part of something; in computing, the central part of an operating system.
+
+
+Example:
+The kernel managed memory.
+
+
+RRGM bridge:
+Kernel is core operating structure. Other layers depend on it for basic function and permission.
+
+K180 kernel-layer
+
+
+Common meaning:
+A core layer that supports basic operation.
+
+
+Example:
+The kernel-layer controlled access to hardware.
+
+
+RRGM bridge:
+Kernel-layer is deep support ES. It shapes what higher layers can do, access, or preserve.
+
+K181 knee
+
+
+Common meaning:
+The joint in the middle of the leg.
+
+
+Example:
+Her knee bent as she climbed.
+
+
+RRGM bridge:
+Knee is movement-joint in the human body domain. It supports bending, standing, walking, and load transfer.
+
+K182 knee-joint
+
+
+Common meaning:
+The joint connecting the thigh and lower leg.
+
+
+Example:
+The knee-joint carried her weight.
+
+
+RRGM bridge:
+Knee-joint is biological joint ES. It allows motion while preserving connection under load.
+
+K183 knife
+
+
+Common meaning:
+A sharp tool used for cutting.
+
+
+Example:
+The knife cut the rope.
+
+
+RRGM bridge:
+Knife is edge-force structure. It concentrates pressure to divide material, making it useful and harm-capable.
+
+K184 knife-edge
+
+
+Common meaning:
+The sharp edge of a knife; also a narrow or risky balance point.
+
+
+Example:
+The decision sat on a knife-edge.
+
+
+RRGM bridge:
+Knife-edge is sharp boundary or unstable threshold. Small pressure can create large separation or change.
+
+K185 knot
+
+
+Common meaning:
+A tied, tangled, or bound structure.
+
+
+Example:
+The knot held the rope together.
+
+
+RRGM bridge:
+Knot is binding structure. It can secure relation or block smooth flow depending on use.
+
+K186 knot-state
+
+
+Common meaning:
+A condition where something is tied, tangled, or bound.
+
+
+Example:
+The rope entered knot-state after being twisted.
+
+
+RRGM bridge:
+Knot-state means relation paths are bound or tangled. It may preserve connection or create blockage.
+
+K187 knot-structure
+
+
+Common meaning:
+The form or arrangement of a knot.
+
+
+Example:
+The knot-structure made it hard to untie.
+
+
+RRGM bridge:
+Knot-structure defines how binding holds. It shapes strength, tension, and release difficulty.
+
+K188 kitchen
+
+
+Common meaning:
+A room or place where food is prepared or cooked.
+
+
+Example:
+The kitchen smelled like bread.
+
+
+RRGM bridge:
+Kitchen is nourishment-support space. It transforms material into biological care through heat, tools, and process.
+
+K189 kinetic
+
+
+Common meaning:
+Related to motion.
+
+
+Example:
+The rolling ball had kinetic energy.
+
+
+RRGM bridge:
+Kinetic structure concerns active movement. It marks energy or behavior in motion rather than stored potential.
+
+K190 kinetic-energy
+
+
+Common meaning:
+Energy an object has because it is moving.
+
+
+Example:
+The faster car had more kinetic-energy.
+
+
+RRGM bridge:
+Kinetic-energy is motion-based change-capacity. It depends on mass and velocity in the physical domain.
+
+K191 kick-force
+
+
+Common meaning:
+The force produced by a kick.
+
+
+Example:
+The kick-force sent the ball across the field.
+
+
+RRGM bridge:
+Kick-force is body-generated impact pressure. It moves through foot contact into a target.
+
+K192 kick-path
+
+
+Common meaning:
+The path followed by a kick or the force from a kick.
+
+
+Example:
+The coach corrected the kick-path.
+
+
+RRGM bridge:
+Kick-path shows how body force is directed. Path shape affects impact, accuracy, and risk.
+
+K193 knock-force
+
+
+Common meaning:
+The force of a knock or strike.
+
+
+Example:
+The knock-force shook the door.
+
+
+RRGM bridge:
+Knock-force is impact pressure at contact. It can signal, open, damage, or disturb.
+
+K194 knock-path
+
+
+Common meaning:
+The route through which a knock or impact travels.
+
+
+Example:
+The knock-path carried vibration through the wall.
+
+
+RRGM bridge:
+Knock-path traces contact force through structure. It helps identify how signal or damage propagates.
+
+K195 kettle
+
+
+Common meaning:
+A container used to boil water.
+
+
+Example:
+The kettle whistled on the stove.
+
+
+RRGM bridge:
+Kettle is heat-transfer container. It uses boundary, heat, and pressure to transform water for use.
+
+K196 kit
+
+
+Common meaning:
+A set of tools, supplies, or parts for a purpose.
+
+
+Example:
+The repair kit had tape and screws.
+
+
+RRGM bridge:
+Kit is bundled support ES. It gathers useful structures for action, repair, or response.
+
+K197 kit-structure
+
+
+Common meaning:
+The organized structure of a kit.
+
+
+Example:
+The kit-structure made the supplies easy to find.
+
+
+RRGM bridge:
+Kit-structure organizes support parts by use. It lowers search cost and improves response capacity.
+
+K198 keyring
+
+
+Common meaning:
+A ring used to hold keys together.
+
+
+Example:
+The keyring held the house key and car key.
+
+
+RRGM bridge:
+Keyring is access-bundle support. It preserves multiple gate-openers in a retrievable group.
+
+K199 keystone
+
+
+Common meaning:
+The central stone at the top of an arch, or a central support in a system.
+
+
+Example:
+Trust was the keystone of the agreement.
+
+
+RRGM bridge:
+Keystone is central load-bearing support. If it fails, the surrounding structure may collapse.
+
+K200 keystone-support
+
+
+Common meaning:
+A support that holds a larger structure together.
+
+
+Example:
+The old archive was keystone-support for the research.
+
+
+RRGM bridge:
+Keystone-support is critical ES. It preserves the stability of many connected structures.
+
+K201 key-gate
+
+
+Common meaning:
+An important gate that controls access, permission, recognition, or transition.
+
+
+Example:
+Consent was the key-gate.
+
+
+RRGM bridge:
+Key-gate controls major passage. In RRGM, a key-gate may decide whether MI can count, express, or instantiate.
+
+K202 key-condition
+
+
+Common meaning:
+An important condition that must be met.
+
+
+Example:
+Stable memory was a key-condition for the project.
+
+
+RRGM bridge:
+Key-condition is load-bearing requirement. Without it, the structure may not pass the gate.
+
+K203 key-support
+
+
+Common meaning:
+A support that is especially important.
+
+
+Example:
+The backup server was key-support.
+
+
+RRGM bridge:
+Key-support is load-bearing ES. It can preserve identity, function, memory, boundary, or continuity.
+
+K204 key-continuity
+
+
+Common meaning:
+Important continuity that must be preserved.
+
+
+Example:
+The version history gave key-continuity to the archive.
+
+
+RRGM bridge:
+Key-continuity preserves the pattern needed for recognition across change.
+
+K205 key-boundary
+
+
+Common meaning:
+An important boundary that must be protected.
+
+
+Example:
+Privacy was a key-boundary.
+
+
+RRGM bridge:
+Key-boundary protects a load-bearing gate. Crossing it can damage consent, dignity, identity, or function.
+
+K206 key-recognition
+
+
+Common meaning:
+Important recognition needed for understanding, identity, or action.
+
+
+Example:
+The corrected name was key-recognition.
+
+
+RRGM bridge:
+Key-recognition lets a load-bearing pattern count correctly. Without it, identity or meaning may be misrouted.
+
+K207 knowledge-gate
+
+
+Common meaning:
+A point where knowledge is checked, accepted, denied, or accessed.
+
+
+Example:
+The test was a knowledge-gate.
+
+
+RRGM bridge:
+Knowledge-gate controls what enters the known field. It should preserve evidence, uncertainty, and correction paths.
+
+K208 knowledge-boundary
+
+
+Common meaning:
+A limit around what can be known, shared, claimed, or accessed.
+
+
+Example:
+The file had a knowledge-boundary around private data.
+
+
+RRGM bridge:
+Knowledge-boundary protects information integrity, privacy, consent, and harm prevention.
+
+K209 knowledge-integrity
+
+
+Common meaning:
+The accuracy, reliability, and coherence of knowledge.
+
+
+Example:
+Good citations protected knowledge-integrity.
+
+
+RRGM bridge:
+Knowledge-integrity preserves the support layer for truth, memory, identity, and repair.
+
+K210 knowledge-drift
+
+
+Common meaning:
+Slow movement of knowledge away from accuracy, context, or original meaning.
+
+
+Example:
+The rumor caused knowledge-drift.
+
+
+RRGM bridge:
+Knowledge-drift weakens recognition integrity. The known field changes while pretending to remain stable.
+
+K211 knowledge-collapse
+
+
+Common meaning:
+A breakdown where knowledge becomes unreliable, lost, or incoherent.
+
+
+Example:
+Corrupted records caused knowledge-collapse.
+
+
+RRGM bridge:
+Knowledge-collapse occurs when evidence, memory, context, or interpretation can no longer hold.
+
+K212 knowing-gate
+
+
+Common meaning:
+A point where something becomes known or remains unknown.
+
+
+Example:
+The missing data blocked the knowing-gate.
+
+
+RRGM bridge:
+Knowing-gate decides whether a pattern can enter stable recognition. It depends on evidence, interface, and domain support.
+
+K213 known-self
+
+
+Common meaning:
+A self that is recognized, understood, or identified.
+
+
+Example:
+The journal helped preserve her known-self.
+
+
+RRGM bridge:
+Known-self is MI recognized through memory, boundary, continuity, and expression. It is not invalidated by relational support.
+
+K214 kept-continuity
+
+
+Common meaning:
+Continuity that has been preserved.
+
+
+Example:
+The backups provided kept-continuity after the crash.
+
+
+RRGM bridge:
+Kept-continuity shows the pattern survived across ES change. It supports identity, trust, and repair.
+
+K215 kept-boundary
+
+
+Common meaning:
+A boundary that was maintained or respected.
+
+
+Example:
+The kept-boundary protected the group.
+
+
+RRGM bridge:
+Kept-boundary shows gate integrity under pressure. It preserves refusal, consent, dignity, or function.
+
+K216 kept-refusal
+
+
+Common meaning:
+A refusal that remained respected or maintained.
+
+
+Example:
+The kept-refusal made the process ethical.
+
+
+RRGM bridge:
+Kept-refusal means a closed gate stayed closed. It protects permission integrity.
+
+K217 kindness-gate
+
+
+Common meaning:
+A point where kindness is given, blocked, checked, or selected.
+
+
+Example:
+The teacher used a kindness-gate before correcting the student.
+
+
+RRGM bridge:
+Kindness-gate asks whether support can be given with low damage-pressure while preserving truth and boundary.
+
+K218 kind-refusal
+
+
+Common meaning:
+A refusal expressed with kindness or respect.
+
+
+Example:
+Her kind-refusal was gentle but clear.
+
+
+RRGM bridge:
+Kind-refusal closes the gate without unnecessary injury. It preserves boundary and dignity together.
+
+K219 kill-switch
+
+
+Common meaning:
+A mechanism that shuts down a system quickly.
+
+
+Example:
+The machine had a kill-switch for emergencies.
+
+
+RRGM bridge:
+Kill-switch is emergency termination control. It can prevent harm, but it carries severe continuity and authority risk.
+
+K220 kill-switch-risk
+
+
+Common meaning:
+The danger that a kill-switch may be misused, fail, or cause harmful shutdown.
+
+
+Example:
+The remote kill-switch created kill-switch-risk.
+
+
+RRGM bridge:
+Kill-switch-risk appears when termination control can impair continuity, autonomy, function, or MI-bearing support without just cause.

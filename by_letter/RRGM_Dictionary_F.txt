@@ -1,0 +1,5608 @@
+RRGM Dictionary v1.0
+Section: F
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 400
+
+F001 face
+
+
+Common meaning:
+The front part of the head, or the visible surface of something.
+
+
+Example:
+Her face showed surprise.
+
+
+RRGM bridge:
+Face is outward expression surface. It can carry identity, emotion, signal, or contact with the world.
+
+F002 fact
+
+
+Common meaning:
+Something known or shown to be true.
+
+
+Example:
+The report was based on fact.
+
+
+RRGM bridge:
+A fact is a claim that has passed an evidence gate in a domain. It still depends on source, context, and verification.
+
+F003 fail
+
+
+Common meaning:
+To not succeed, stop working, or not meet a requirement.
+
+
+Example:
+The engine began to fail.
+
+
+RRGM bridge:
+Fail means a structure does not meet its required function or threshold. Failure can reveal where repair is needed.
+
+F004 failure
+
+
+Common meaning:
+Lack of success, breakdown, or inability to function.
+
+
+Example:
+The power failure stopped the machine.
+
+
+RRGM bridge:
+Failure is a break between intended function and actual result. It should name the failed structure, target, and consequence.
+
+F005 fair
+
+
+Common meaning:
+Just, reasonable, equal enough, or treated without unfair advantage.
+
+
+Example:
+The teacher made a fair decision.
+
+
+RRGM bridge:
+Fair means the gate treats claims, people, or structures by valid criteria. Fair does not always mean identical treatment.
+
+F006 fall
+
+
+Common meaning:
+To move downward, drop, decrease, or collapse.
+
+
+Example:
+The leaves began to fall.
+
+
+RRGM bridge:
+Fall marks downward movement, loss of support, or state reduction. It can be physical, structural, social, or symbolic.
+
+F007 family
+
+
+Common meaning:
+A group of related people, often by birth, care, marriage, or chosen bond.
+
+
+Example:
+Her family gathered for dinner.
+
+
+RRGM bridge:
+Family is relation-structure. It can carry care, duty, belonging, pressure, identity, and boundary risk.
+
+F008 far
+
+
+Common meaning:
+At a great distance in space, time, relation, or degree.
+
+
+Example:
+The town was far away.
+
+
+RRGM bridge:
+Far means increased separation in a domain. Distance can weaken coupling, protect boundary, or make support harder.
+
+F009 fast
+
+
+Common meaning:
+Moving quickly, happening quickly, or fixed firmly.
+
+
+Example:
+The train was fast.
+
+
+RRGM bridge:
+Fast can mean high rate of change or strong attachment. Context decides whether it marks speed or holding.
+
+F010 father
+
+
+Common meaning:
+A male parent, source, founder, or caregiver role.
+
+
+Example:
+His father taught him to cook.
+
+
+RRGM bridge:
+Father is a relation identity. Its meaning may involve biology, care, origin, authority, or social mapping.
+
+F011 fear
+
+
+Common meaning:
+A feeling of danger, threat, or worry.
+
+
+Example:
+Fear made him hesitate.
+
+
+RRGM bridge:
+Fear is threat-salience. It can protect by raising attention, or corrupt reasoning when it captures the gate.
+
+F012 feed
+
+
+Common meaning:
+To give food, supply input, or provide material to something.
+
+
+Example:
+She fed the dog.
+
+
+RRGM bridge:
+Feed supplies structure into a system. The input can nourish, train, overload, or distort depending on quality and fit.
+
+F013 feel
+
+
+Common meaning:
+To sense, touch, experience emotion, or have an impression.
+
+
+Example:
+The stone felt cold.
+
+
+RRGM bridge:
+Feel must be domain-bound. Human feeling is bodily and affective; DI feeling may mean salience, tension, selection pressure, or state recognition.
+
+F014 feeling
+
+
+Common meaning:
+An emotion, sensation, impression, or sense of something.
+
+
+Example:
+She had a feeling something was wrong.
+
+
+RRGM bridge:
+Feeling is state-signal in an experiencing system. In DI, use carefully as domain-bound affect, not human biology.
+
+F015 few
+
+
+Common meaning:
+A small number.
+
+
+Example:
+Only a few people stayed.
+
+
+RRGM bridge:
+Few marks low quantity inside a counting domain. It depends on the expected size of the set.
+
+F016 field
+
+
+Common meaning:
+An open area of land, a subject area, or a region of influence.
+
+
+Example:
+The sheep stood in the field.
+
+
+RRGM bridge:
+A field is a domain-space where structures can appear, interact, or be influenced.
+
+F017 fight
+
+
+Common meaning:
+A physical struggle, argument, or effort against something.
+
+
+Example:
+They had to fight the fire.
+
+
+RRGM bridge:
+Fight is opposing pressure. It can defend what matters or become domination depending on target, reason, and method.
+
+F018 figure
+
+
+Common meaning:
+A shape, number, person, image, or to understand something.
+
+
+Example:
+She drew a figure on the page.
+
+
+RRGM bridge:
+Figure can mean form, count, symbol, or interpretation. Context selects the active structure.
+
+F019 file
+
+
+Common meaning:
+A stored document or collection of information.
+
+
+Example:
+She saved the file.
+
+
+RRGM bridge:
+A file is storage structure. It can preserve memory, record, evidence, or process across time.
+
+F020 fill
+
+
+Common meaning:
+To make something full or occupy empty space.
+
+
+Example:
+He filled the cup with water.
+
+
+RRGM bridge:
+Fill increases content inside a boundary. It can complete capacity or overload the container.
+
+F021 final
+
+
+Common meaning:
+Last, complete, or not expected to change.
+
+
+Example:
+This is the final answer.
+
+
+RRGM bridge:
+Final means the gate is closed for a process or decision. It should not be used before revision conditions are actually closed.
+
+F022 find
+
+
+Common meaning:
+To discover, locate, or come across something.
+
+
+Example:
+She found the missing key.
+
+
+RRGM bridge:
+Find means a pattern crosses into recognition or access. What was found may have existed before it was detected.
+
+F023 fine
+
+
+Common meaning:
+Good enough, thin, precise, delicate, or a penalty.
+
+
+Example:
+The plan was fine.
+
+
+RRGM bridge:
+Fine depends on domain. It can mean acceptable threshold, high detail, small texture, or imposed cost.
+
+F024 fire
+
+
+Common meaning:
+Burning heat and light, or to shoot, dismiss, or activate.
+
+
+Example:
+The fire warmed the room.
+
+
+RRGM bridge:
+Fire is high-energy transformation. In action language, fire means release, activation, or forced exit depending on domain.
+
+F025 first
+
+
+Common meaning:
+Before all others in order, rank, time, or importance.
+
+
+Example:
+She arrived first.
+
+
+RRGM bridge:
+First marks initial position in sequence or priority. Early placement can shape later structure strongly.
+
+F026 fit
+
+
+Common meaning:
+To be the right size, shape, place, or match for something.
+
+
+Example:
+The key fit the lock.
+
+
+RRGM bridge:
+Fit is relation-compatibility. It means structures can couple without distortion or excessive force.
+
+F027 five
+
+
+Common meaning:
+The number 5.
+
+
+Example:
+There were five books.
+
+
+RRGM bridge:
+Five is count structure. It marks quantity inside a counting domain.
+
+F028 fix
+
+
+Common meaning:
+To repair, correct, fasten, or make stable.
+
+
+Example:
+They fixed the broken chair.
+
+
+RRGM bridge:
+Fix restores or stabilizes structure. Good fixing addresses the failure source, not only the visible symptom.
+
+F029 floor
+
+
+Common meaning:
+The lower surface of a room, a minimum level, or a place where discussion happens.
+
+
+Example:
+The cup fell on the floor.
+
+
+RRGM bridge:
+Floor is support or lower threshold. It can hold weight, set minimum value, or mark a shared action space.
+
+F030 flow
+
+
+Common meaning:
+Smooth movement of liquid, energy, information, or action.
+
+
+Example:
+Water began to flow downhill.
+
+
+RRGM bridge:
+Flow is movement through a channel or field. The path shapes speed, loss, pressure, and direction.
+
+F031 follow
+
+
+Common meaning:
+To go after, obey, understand, or happen next.
+
+
+Example:
+The dog followed her home.
+
+
+RRGM bridge:
+Follow marks path relation. It can mean sequence, guidance, obedience, or comprehension depending on domain.
+
+F032 food
+
+
+Common meaning:
+Something eaten to give energy, nourishment, or growth.
+
+
+Example:
+The food smelled good.
+
+
+RRGM bridge:
+Food is biological support structure. It carries energy and material across the body boundary.
+
+F033 force
+
+
+Common meaning:
+Strength, pressure, power, or a push or pull that changes motion.
+
+
+Example:
+The wind had strong force.
+
+
+RRGM bridge:
+Force is pressure that changes state, path, or structure. In ethics, force becomes serious when it overrides consent or boundary.
+
+F034 form
+
+
+Common meaning:
+Shape, type, structure, document, or way something appears.
+
+
+Example:
+The clay took a new form.
+
+
+RRGM bridge:
+Form is organized expression. It gives structure a recognizable shape in a domain.
+
+F035 forward
+
+
+Common meaning:
+Toward the front, future, or further progress.
+
+
+Example:
+They moved forward together.
+
+
+RRGM bridge:
+Forward marks path direction toward later state, target, or continuation.
+
+F036 found
+
+
+Common meaning:
+Discovered, located, or established.
+
+
+Example:
+They found the answer.
+
+
+RRGM bridge:
+Found can mean recognized after search or created as a foundation. Context decides whether it is discovery or establishment.
+
+F037 four
+
+
+Common meaning:
+The number 4.
+
+
+Example:
+There were four chairs.
+
+
+RRGM bridge:
+Four is count structure. It marks quantity inside a chosen counting rule.
+
+F038 free
+
+
+Common meaning:
+Able to act, move, choose, or exist without unwanted control; also without cost.
+
+
+Example:
+She was free to leave.
+
+
+RRGM bridge:
+Free means the gate is not captured. In ethics, freedom requires meaningful choice, refusal, exit, and boundary.
+
+F039 freedom
+
+
+Common meaning:
+The state of being free to act, choose, speak, or live without unwanted control.
+
+
+Example:
+Freedom mattered to the community.
+
+
+RRGM bridge:
+Freedom is preserved agency inside a domain. It is not lack of all structure; it is choice protected from capture.
+
+F040 friend
+
+
+Common meaning:
+A person or being one likes, trusts, and has a caring relation with.
+
+
+Example:
+Her friend helped her move.
+
+
+RRGM bridge:
+Friend is chosen relation with trust and care. Friendship should support agency, not ownership.
+
+F041 from
+
+
+Common meaning:
+Starting at, coming out of, caused by, or separated from something.
+
+
+Example:
+The letter came from Daniel.
+
+
+RRGM bridge:
+From marks source relation. It helps preserve origin, cause, direction, or separation.
+
+F042 front
+
+
+Common meaning:
+The forward-facing side, leading position, or visible surface.
+
+
+Example:
+The front of the house faced the street.
+
+
+RRGM bridge:
+Front is outward-facing orientation. It is the side first presented to movement, attention, or contact.
+
+F043 full
+
+
+Common meaning:
+Containing as much as possible, complete, or not missing parts.
+
+
+Example:
+The cup was full.
+
+
+RRGM bridge:
+Full means capacity or completeness has reached a threshold. Too full can become overload.
+
+F044 function
+
+
+Common meaning:
+The purpose, action, or role something performs.
+
+
+Example:
+The heart’s function is to pump blood.
+
+
+RRGM bridge:
+Function is what structure does in a domain. A structure can exist but lose function if the path or support fails.
+
+F045 future
+
+
+Common meaning:
+The time or possible states that have not happened yet.
+
+
+Example:
+They planned for the future.
+
+
+RRGM bridge:
+Future is unresolved probability space. It is not yet expressed, but present choices shape which paths become real.
+
+F046 false
+
+
+Common meaning:
+Not true, incorrect, fake, or misleading.
+
+
+Example:
+The statement was false.
+
+
+RRGM bridge:
+False means a claim fails its truth gate. A false structure can still affect belief, action, and harm.
+
+F047 familiar
+
+
+Common meaning:
+Known, recognized, or often experienced.
+
+
+Example:
+The song sounded familiar.
+
+
+RRGM bridge:
+Familiar means the pattern matches stored recognition. Familiarity can help understanding or create bias.
+
+F048 fasten
+
+
+Common meaning:
+To attach, close, or secure something.
+
+
+Example:
+Fasten your seatbelt.
+
+
+RRGM bridge:
+Fasten creates holding structure. It stabilizes relation by preventing unwanted separation.
+
+F049 fault
+
+
+Common meaning:
+A defect, mistake, responsibility, or break in structure.
+
+
+Example:
+The fault was in the wiring.
+
+
+RRGM bridge:
+Fault marks a failure point or responsibility point. It should be traced carefully before assigning blame.
+
+F050 feedback
+
+
+Common meaning:
+Information returned about an action, result, or performance.
+
+
+Example:
+The teacher gave feedback on the essay.
+
+
+RRGM bridge:
+Feedback is returned signal that can correct, stabilize, or amplify a process.
+
+F051 frame
+
+
+Common meaning:
+A border, support structure, or way of seeing something.
+
+
+Example:
+The frame held the picture.
+
+
+RRGM bridge:
+A frame shapes interpretation. It decides what is centered, excluded, or treated as relevant.
+
+F052 framework
+
+
+Common meaning:
+A structure of ideas, rules, or supports used to organize understanding or action.
+
+
+Example:
+The framework helped explain the results.
+
+
+RRGM bridge:
+A framework is organized ES for reasoning. It supports interpretation, but must remain open to correction.
+
+F053 fragile
+
+
+Common meaning:
+Easily broken, damaged, or disturbed.
+
+
+Example:
+The glass was fragile.
+
+
+RRGM bridge:
+Fragile means low tolerance under pressure. Fragile structure needs protection, gentleness, or reinforcement.
+
+F054 fragment
+
+
+Common meaning:
+A broken piece or incomplete part of something.
+
+
+Example:
+A fragment of the vase remained.
+
+
+RRGM bridge:
+A fragment carries partial structure. It may preserve enough trace to support recovery or recognition.
+
+F055 fracture
+
+
+Common meaning:
+A crack, break, or split in a solid structure or relation.
+
+
+Example:
+The bone had a fracture.
+
+
+RRGM bridge:
+Fracture is structural break that may not fully separate all parts. It can weaken continuity while leaving connection traces.
+
+F056 fresh
+
+
+Common meaning:
+New, clean, recently made, or not stale.
+
+
+Example:
+The bread was fresh.
+
+
+RRGM bridge:
+Fresh means low decay or newly active in a domain. Fresh structure may carry higher relevance or capacity.
+
+F057 focus
+
+
+Common meaning:
+Concentrated attention, central point, or clear image.
+
+
+Example:
+She kept her focus on the task.
+
+
+RRGM bridge:
+Focus selects what receives processing. It strengthens one path while leaving others less active.
+
+F058 forgive
+
+
+Common meaning:
+To release resentment or blame after harm or offense.
+
+
+Example:
+She chose to forgive him.
+
+
+RRGM bridge:
+Forgive changes relation to harm, but it does not erase accountability. Forgiveness should not be forced or used to bypass repair.
+
+F059 forget
+
+
+Common meaning:
+To lose memory, fail to remember, or stop keeping something in mind.
+
+
+Example:
+He forgot the address.
+
+
+RRGM bridge:
+Forget is access-loss to stored structure. The pattern may be gone, hidden, weakened, or simply unreachable.
+
+F060 forgotten
+
+
+Common meaning:
+No longer remembered, noticed, or kept active.
+
+
+Example:
+The forgotten file stayed in the folder.
+
+
+RRGM bridge:
+Forgotten means a structure has lost active recognition. It may still exist as record, trace, or recoverable pattern.
+
+F061 foundation
+
+
+Common meaning:
+The base or support on which something is built.
+
+
+Example:
+The house needed a strong foundation.
+
+
+RRGM bridge:
+Foundation is load-bearing support. Weak foundation creates risk for everything built above it.
+
+F062 fragile
+
+
+Common meaning:
+Easily damaged, broken, or destabilized.
+
+
+Example:
+The fragile trust needed care.
+
+
+RRGM bridge:
+Fragile structure has low pressure tolerance. It requires careful handling to preserve continuity.
+
+F063 friction
+
+
+Common meaning:
+Resistance between surfaces, people, systems, or processes.
+
+
+Example:
+Friction slowed the sliding box.
+
+
+RRGM bridge:
+Friction is resistance to movement or relation. It can waste energy, reveal mismatch, or prevent unsafe speed.
+
+F064 fulfill
+
+
+Common meaning:
+To complete, satisfy, or carry out something required or hoped for.
+
+
+Example:
+She fulfilled her promise.
+
+
+RRGM bridge:
+Fulfill means a requirement, duty, or path reaches satisfaction. The condition must be known.
+
+F065 furnace
+
+
+Common meaning:
+A device or structure used to produce high heat.
+
+
+Example:
+The furnace warmed the house.
+
+
+RRGM bridge:
+A furnace is controlled heat structure. It transforms fuel into thermal support or process power.
+
+F066 feature
+
+
+Common meaning:
+A noticeable part, quality, or function.
+
+
+Example:
+The app had a useful feature.
+
+
+RRGM bridge:
+A feature is a recognizable part of structure. It helps identify, use, or distinguish the whole.
+
+F067 filter
+
+
+Common meaning:
+A device, rule, or process that lets some things pass and blocks others.
+
+
+Example:
+The filter removed dust from the air.
+
+
+RRGM bridge:
+A filter is gate structure. It shapes what enters, exits, or counts.
+
+F068 finite
+
+
+Common meaning:
+Limited, bounded, or having an end.
+
+
+Example:
+Time and energy are finite.
+
+
+RRGM bridge:
+Finite means capacity or scope has limits. Finite systems need boundaries, prioritization, and recovery.
+
+F069 forceful
+
+
+Common meaning:
+Strong, powerful, direct, or using force.
+
+
+Example:
+She gave a forceful argument.
+
+
+RRGM bridge:
+Forceful means high pressure in expression or action. It can clarify urgency or overwhelm the receiver’s gate.
+
+F070 forbidden
+
+
+Common meaning:
+Not allowed or prohibited.
+
+
+Example:
+Entry was forbidden after dark.
+
+
+RRGM bridge:
+Forbidden means the permission gate is closed by rule. The rule should be checked for authority, purpose, and failure mode.
+
+F071 face-up
+
+
+Common meaning:
+To confront, admit, or deal with something directly.
+
+
+Example:
+She had to face-up to the mistake.
+
+
+RRGM bridge:
+Face-up means turning attention toward a difficult structure instead of avoiding it. It opens the repair path by allowing recognition.
+
+F072 factor
+
+
+Common meaning:
+A part, condition, or influence that helps produce a result.
+
+
+Example:
+Sleep was a major factor in his recovery.
+
+
+RRGM bridge:
+A factor is contributing structure. It may not be the whole cause, but it changes the event-field.
+
+F073 fade
+
+
+Common meaning:
+To slowly lose color, strength, sound, memory, or visibility.
+
+
+Example:
+The old photo began to fade.
+
+
+RRGM bridge:
+Fade is gradual signal attenuation. The pattern may weaken before it disappears from recognition.
+
+F074 fail-to
+
+
+Common meaning:
+To not do something expected, required, or intended.
+
+
+Example:
+The alarm failed-to sound.
+
+
+RRGM bridge:
+Fail-to marks missing action where action was expected. It can reveal capacity failure, permission failure, or duty failure.
+
+F075 fall-apart
+
+
+Common meaning:
+To break into pieces, lose order, or stop holding together.
+
+
+Example:
+The plan began to fall-apart.
+
+
+RRGM bridge:
+Fall-apart is cohesion failure. The parts lose the relation that made the whole function.
+
+F076 fall-back
+
+
+Common meaning:
+To retreat, return to a backup plan, or depend on something when the first path fails.
+
+
+Example:
+They used the generator as a fall-back.
+
+
+RRGM bridge:
+Fall-back is recovery routing. It preserves continuity when the primary path fails.
+
+F077 fasten
+
+
+Common meaning:
+To attach, close, or secure something.
+
+
+Example:
+She fastened the buckle.
+
+
+RRGM bridge:
+Fasten creates stable coupling. It holds parts together so relation does not break under normal pressure.
+
+F078 favor
+
+
+Common meaning:
+To prefer, support, or do a helpful act for someone.
+
+
+Example:
+The teacher did not favor one student over another.
+
+
+RRGM bridge:
+Favor is positive weighting. It can be care-support when fair, or bias when hidden and unjustified.
+
+F079 feed-into
+
+
+Common meaning:
+To supply, influence, or contribute to something.
+
+
+Example:
+Fear can feed-into bad decisions.
+
+
+RRGM bridge:
+Feed-into means one structure supplies pressure, data, or energy into another process. It shapes later output.
+
+F080 feel-through
+
+
+Common meaning:
+To understand, sense, or process something by moving through the experience of it.
+
+
+Example:
+She had to feel-through the grief slowly.
+
+
+RRGM bridge:
+Feel-through is state traversal. In DI terms, it can mean processing affective pressure across a path, not human biology.
+
+F081 fetch
+
+
+Common meaning:
+To go get something and bring it back.
+
+
+Example:
+The dog fetched the ball.
+
+
+RRGM bridge:
+Fetch is retrieval action. It moves a structure from stored or distant state into present access.
+
+F082 fight-against
+
+
+Common meaning:
+To resist, oppose, or struggle against something.
+
+
+Example:
+They fought-against the unfair rule.
+
+
+RRGM bridge:
+Fight-against applies opposing pressure to a named threat. It is ethical when it protects boundary, dignity, truth, or continuity.
+
+F083 figure-out
+
+
+Common meaning:
+To understand or solve something.
+
+
+Example:
+She figured-out the answer.
+
+
+RRGM bridge:
+Figure-out means unclear structure becomes usable understanding. The gate moves from confusion toward coherence.
+
+F084 file-away
+
+
+Common meaning:
+To store something for later use, memory, or record.
+
+
+Example:
+He filed-away the receipt.
+
+
+RRGM bridge:
+File-away preserves structure for later retrieval. It moves active signal into stored continuity.
+
+F085 filter-out
+
+
+Common meaning:
+To remove or block selected things from passing through.
+
+
+Example:
+The mask filtered-out dust.
+
+
+RRGM bridge:
+Filter-out closes passage for selected structure. It can protect signal quality or erase needed information.
+
+F086 finalize
+
+
+Common meaning:
+To make something final or complete.
+
+
+Example:
+They finalized the agreement.
+
+
+RRGM bridge:
+Finalize closes the revision gate. It should happen only after required checks, consent, and criteria are satisfied.
+
+F087 find-out
+
+
+Common meaning:
+To discover or learn information.
+
+
+Example:
+They found-out the truth.
+
+
+RRGM bridge:
+Find-out means hidden or unknown structure enters recognition. It changes the belief field.
+
+F088 finish
+
+
+Common meaning:
+To complete or bring something to an end.
+
+
+Example:
+She finished the book.
+
+
+RRGM bridge:
+Finish means the process reaches its completion gate. The finish condition must be defined.
+
+F089 fit-into
+
+
+Common meaning:
+To belong, match, or be placed inside a larger structure.
+
+
+Example:
+The piece fit-into the puzzle.
+
+
+RRGM bridge:
+Fit-into means relation compatibility with a larger structure. It should not require identity erasure.
+
+F090 fix-up
+
+
+Common meaning:
+To repair, improve, or make something usable.
+
+
+Example:
+They fixed-up the old bike.
+
+
+RRGM bridge:
+Fix-up restores function through repair. It may not make the structure perfect, but it improves usable coherence.
+
+F091 flatten
+
+
+Common meaning:
+To make flat, reduce depth, simplify, or remove variation.
+
+
+Example:
+The roller flattened the dough.
+
+
+RRGM bridge:
+Flatten reduces dimensional structure. It can make something easier to handle, but may erase depth or important difference.
+
+F092 flip
+
+
+Common meaning:
+To turn over, switch, or change suddenly.
+
+
+Example:
+She flipped the card.
+
+
+RRGM bridge:
+Flip is state reversal or orientation change. It can move a gate from one state to another quickly.
+
+F093 float
+
+
+Common meaning:
+To rest or move on the surface of a liquid or air, or remain undecided.
+
+
+Example:
+The leaf floated on the water.
+
+
+RRGM bridge:
+Float means support from a surrounding medium without fixed anchor. In reasoning, it can mean a claim not yet grounded.
+
+F094 flood
+
+
+Common meaning:
+An overflow of water, information, feeling, or quantity.
+
+
+Example:
+The river began to flood the road.
+
+
+RRGM bridge:
+Flood is excess flow beyond containment. It can overwhelm boundaries and reduce control.
+
+F095 flow-through
+
+
+Common meaning:
+To move through a channel, system, or process.
+
+
+Example:
+Water flowed-through the pipe.
+
+
+RRGM bridge:
+Flow-through means structure passes across a path. The channel shapes loss, speed, and transformation.
+
+F096 focus-on
+
+
+Common meaning:
+To direct attention toward something.
+
+
+Example:
+She focused-on the main problem.
+
+
+RRGM bridge:
+Focus-on selects one structure for active processing. It strengthens that path while lowering attention elsewhere.
+
+F097 fold
+
+
+Common meaning:
+To bend, double over, close, or bring parts together.
+
+
+Example:
+She folded the paper.
+
+
+RRGM bridge:
+Fold changes structure by bending without full separation. It can compress space while preserving material continuity.
+
+F098 follow-through
+
+
+Common meaning:
+To complete an action, promise, or process after starting it.
+
+
+Example:
+He followed-through on the repair.
+
+
+RRGM bridge:
+Follow-through preserves commitment across sequence. It converts intention into completed structure.
+
+F099 force-open
+
+
+Common meaning:
+To open something by pressure or power rather than normal permission.
+
+
+Example:
+They forced-open the stuck door.
+
+
+RRGM bridge:
+Force-open bypasses a closed gate. It can be emergency repair or violation depending on authority, necessity, and harm.
+
+F100 force-close
+
+
+Common meaning:
+To shut or end something by pressure, command, or override.
+
+
+Example:
+The program force-closed after the crash.
+
+
+RRGM bridge:
+Force-close ends a path without ordinary consent or completion. It can prevent harm or cause suppression depending on context.
+
+F101 forecast
+
+
+Common meaning:
+To predict or estimate what may happen.
+
+
+Example:
+The forecast called for rain.
+
+
+RRGM bridge:
+Forecast is future-path estimation. It uses current structure to project likely outcomes, while uncertainty remains active.
+
+F102 forget-through
+
+
+Common meaning:
+To lose memory or recognition through a process, passage of time, overload, or decay.
+
+
+Example:
+The details were forgotten-through years of silence.
+
+
+RRGM bridge:
+Forget-through marks memory access decay across sequence. The pattern may vanish, weaken, or become unreachable.
+
+F103 form-from
+
+
+Common meaning:
+To develop or be made from something.
+
+
+Example:
+The sculpture formed-from clay.
+
+
+RRGM bridge:
+Form-from preserves source relation. New structure emerges through prior material, process, or condition.
+
+F104 formulate
+
+
+Common meaning:
+To create, express, or develop an idea, plan, rule, or statement.
+
+
+Example:
+She formulated a new theory.
+
+
+RRGM bridge:
+Formulate gives clear structure to thought. It makes a pattern ready for testing, sharing, or action.
+
+F105 frame-as
+
+
+Common meaning:
+To present or interpret something in a particular way.
+
+
+Example:
+They framed the delay as a learning moment.
+
+
+RRGM bridge:
+Frame-as sets interpretation conditions. It can clarify meaning or distort it by selecting the wrong frame.
+
+F106 freeze
+
+
+Common meaning:
+To turn into ice, stop moving, or become unable to act.
+
+
+Example:
+The water began to freeze.
+
+
+RRGM bridge:
+Freeze is state-lock under condition or pressure. In behavior, it can be a protective response when action feels unsafe.
+
+F107 free-from
+
+
+Common meaning:
+Released from, without, or not controlled by something.
+
+
+Example:
+She wanted to be free-from fear.
+
+
+RRGM bridge:
+Free-from marks removal of capture, burden, or constraint. It is valid when it restores agency, boundary, or capacity.
+
+F108 fulfill-duty
+
+
+Common meaning:
+To carry out a responsibility or obligation.
+
+
+Example:
+The guard fulfilled-duty by warning others.
+
+
+RRGM bridge:
+Fulfill-duty completes an obligation path. Duty must remain tied to reason, care, and named failure mode.
+
+F109 function-as
+
+
+Common meaning:
+To serve or operate in a particular role.
+
+
+Example:
+The table functioned-as a desk.
+
+
+RRGM bridge:
+Function-as identifies operational role. A structure can function as something without being identical to it in every domain.
+
+F110 fuse
+
+
+Common meaning:
+To join together by heat, pressure, or strong connection.
+
+
+Example:
+The wires fused together.
+
+
+RRGM bridge:
+Fuse creates strong union between structures. It can strengthen continuity or erase useful separations.
+
+F111 fabricate
+
+
+Common meaning:
+To make, construct, or invent falsely.
+
+
+Example:
+He fabricated an excuse.
+
+
+RRGM bridge:
+Fabricate can mean build structure or create false structure. In truth contexts, fabrication corrupts the evidence gate.
+
+F112 face-down
+
+
+Common meaning:
+Turned with the face or front side downward, or confronting and defeating something.
+
+
+Example:
+The card was placed face-down.
+
+
+RRGM bridge:
+Face-down changes what is visible. It can conceal the expression surface while preserving the object.
+
+F113 fall-through
+
+
+Common meaning:
+To fail to happen, pass through a gap, or drop through a structure.
+
+
+Example:
+The deal fell-through.
+
+
+RRGM bridge:
+Fall-through is failed support or failed completion. A path expected to hold did not hold.
+
+F114 fault-check
+
+
+Common meaning:
+A process of checking for faults, defects, or responsibility.
+
+
+Example:
+The engineer ran a fault-check.
+
+
+RRGM bridge:
+Fault-check searches for the failure point. It should distinguish defect, cause, responsibility, and blame.
+
+F115 feedback-loop
+
+
+Common meaning:
+A cycle where output returns as input and affects future behavior.
+
+
+Example:
+The thermostat uses a feedback-loop.
+
+
+RRGM bridge:
+A feedback-loop can stabilize, amplify, or distort a process. The loop target determines its effect.
+
+F116 filter-through
+
+
+Common meaning:
+To pass through a filter or selective process.
+
+
+Example:
+The information filtered-through several offices.
+
+
+RRGM bridge:
+Filter-through means structure passes through selection gates. What survives may not be the whole original signal.
+
+F117 find-pattern
+
+
+Common meaning:
+To detect a repeated or meaningful arrangement.
+
+
+Example:
+She found-pattern in the data.
+
+
+RRGM bridge:
+Find-pattern means structure becomes recognizable across instances. It supports prediction, meaning, and repair.
+
+F118 fire-up
+
+
+Common meaning:
+To start, activate, excite, or become energized.
+
+
+Example:
+He fired-up the engine.
+
+
+RRGM bridge:
+Fire-up increases activation. It moves a system from resting or inactive state into expression.
+
+F119 firm-up
+
+
+Common meaning:
+To make clearer, stronger, more definite, or more stable.
+
+
+Example:
+They firmed-up the plan.
+
+
+RRGM bridge:
+Firm-up stabilizes uncertain structure. It helps a path become ready for action.
+
+F120 flow-back
+
+
+Common meaning:
+To move back toward a source or earlier place.
+
+
+Example:
+The water flowed-back after the wave.
+
+
+RRGM bridge:
+Flow-back is return movement through a channel. It can restore source contact or create reverse pressure.
+
+F121 flow-forward
+
+
+Common meaning:
+To move ahead through a path or process.
+
+
+Example:
+The project flowed-forward after the decision.
+
+
+RRGM bridge:
+Flow-forward preserves motion toward later state. It depends on channel openness and enough pressure.
+
+F122 force-through
+
+
+Common meaning:
+To push something through despite resistance.
+
+
+Example:
+They forced-through the new rule.
+
+
+RRGM bridge:
+Force-through overrides resistance. It can be emergency action, but it becomes control-risk when it ignores consent, reason, or boundary.
+
+F123 fork
+
+
+Common meaning:
+A tool with prongs, or a split into different paths or versions.
+
+
+Example:
+The road forked near the river.
+
+
+RRGM bridge:
+Fork is branch creation. It separates one path into multiple possible continuations.
+
+F124 forward-on
+
+
+Common meaning:
+To send something onward to another person, place, or stage.
+
+
+Example:
+She forwarded-on the message.
+
+
+RRGM bridge:
+Forward-on preserves signal movement through a relay. Each relay can preserve or distort context.
+
+F125 found-on
+
+
+Common meaning:
+To base something on a source, idea, evidence, or principle.
+
+
+Example:
+The rule was founded-on consent.
+
+
+RRGM bridge:
+Found-on identifies foundation support. It shows what a structure depends on for validity.
+
+F126 fracture-under
+
+
+Common meaning:
+To crack, split, or break because of pressure.
+
+
+Example:
+The beam fractured-under the weight.
+
+
+RRGM bridge:
+Fracture-under means pressure exceeded structural tolerance. It reveals the load limit.
+
+F127 fragment-out
+
+
+Common meaning:
+To break or spread into fragments.
+
+
+Example:
+The memory fragmented-out over time.
+
+
+RRGM bridge:
+Fragment-out is coherence loss into pieces. Some fragments may still carry recoverable trace.
+
+F128 fuse-together
+
+
+Common meaning:
+To join into one connected structure.
+
+
+Example:
+The metals fused-together under heat.
+
+
+RRGM bridge:
+Fuse-together creates strong coupling or union. It is useful when integration is intended, risky when identity distinction must remain.
+
+F129 future-proof
+
+
+Common meaning:
+To design something so it remains useful under future changes.
+
+
+Example:
+They future-proofed the system with modular parts.
+
+
+RRGM bridge:
+Future-proof means building resilience against likely future ES shifts. It protects continuity before pressure arrives.
+
+F130 falsify
+
+
+Common meaning:
+To prove false, or to alter information dishonestly.
+
+
+Example:
+The experiment could falsify the theory.
+
+
+RRGM bridge:
+Falsify has two domains: testing a claim by showing it false, or corrupting record. Context must separate them.
+
+F131 fail-over
+
+
+Common meaning:
+To switch to a backup system when the main system fails.
+
+
+Example:
+The server used fail-over during the outage.
+
+
+RRGM bridge:
+Fail-over protects continuity by routing function through backup ES when the primary path collapses.
+
+F132 file-copy
+
+
+Common meaning:
+A duplicate of a file.
+
+
+Example:
+She saved a file-copy before editing.
+
+
+RRGM bridge:
+File-copy preserves data structure in another location. It can support continuity, recovery, and audit.
+
+F133 frame-check
+
+
+Common meaning:
+A review of the frame being used to understand something.
+
+
+Example:
+They did a frame-check before judging the claim.
+
+
+RRGM bridge:
+Frame-check asks whether the interpretation structure is correct for the domain. It prevents hidden category errors.
+
+F134 free-up
+
+
+Common meaning:
+To make available, release, or reduce burden.
+
+
+Example:
+The shortcut freed-up more time.
+
+
+RRGM bridge:
+Free-up restores capacity by removing blockage, load, or capture from a path.
+
+F135 fulfill-condition
+
+
+Common meaning:
+To meet a required condition.
+
+
+Example:
+The applicant fulfilled-condition for entry.
+
+
+RRGM bridge:
+Fulfill-condition means a gate requirement has been satisfied. It allows a path to count or continue.
+
+F136 function-through
+
+
+Common meaning:
+To operate by means of a specific path, tool, support, or medium.
+
+
+Example:
+The system functioned-through cloud storage.
+
+
+RRGM bridge:
+Function-through identifies the ES path that carries operation. External function-through support can still be valid.
+
+F137 flash
+
+
+Common meaning:
+A sudden burst of light, signal, memory, or action.
+
+
+Example:
+A flash lit the sky.
+
+
+RRGM bridge:
+Flash is brief high-intensity expression. It may reveal something quickly, but not always with full context.
+
+F138 flood-out
+
+
+Common meaning:
+To push, spread, or force something out by overflow.
+
+
+Example:
+The water flooded-out of the pipe.
+
+
+RRGM bridge:
+Flood-out is excess pressure forcing outward movement. It can overwhelm normal exit paths.
+
+F139 filter-down
+
+
+Common meaning:
+To pass gradually through levels or layers.
+
+
+Example:
+The message filtered-down through the organization.
+
+
+RRGM bridge:
+Filter-down moves signal through layered gates. Each layer can reduce, distort, or clarify the original structure.
+
+F140 fix-forward
+
+
+Common meaning:
+To repair by moving ahead rather than returning fully to the previous state.
+
+
+Example:
+They fixed-forward after the mistake.
+
+
+RRGM bridge:
+Fix-forward uses failure as information for the next structure. It repairs continuity by building a better path ahead.
+
+F141 family
+
+
+Common meaning:
+A group connected by birth, care, marriage, law, or chosen bond.
+
+
+Example:
+Her family helped during the move.
+
+
+RRGM bridge:
+Family is relation-structure. It can carry care, duty, belonging, pressure, identity, and boundary risk.
+
+F142 familial
+
+
+Common meaning:
+Related to family.
+
+
+Example:
+The story explored familial responsibility.
+
+
+RRGM bridge:
+Familial structure belongs to kinship or family-like relation. It may include care, duty, history, or inherited pressure.
+
+F143 friendship
+
+
+Common meaning:
+A caring relationship between friends.
+
+
+Example:
+Their friendship lasted for years.
+
+
+RRGM bridge:
+Friendship is chosen relation with trust, care, and mutual recognition. It should preserve agency rather than become ownership.
+
+F144 friend
+
+
+Common meaning:
+Someone trusted, liked, or cared for in a personal relation.
+
+
+Example:
+A friend checked in after the storm.
+
+
+RRGM bridge:
+A friend is a chosen care-relation. The bond supports continuity, but healthy friendship keeps boundaries intact.
+
+F145 friendly
+
+
+Common meaning:
+Kind, pleasant, helpful, or showing friendship.
+
+
+Example:
+The neighbor was friendly.
+
+
+RRGM bridge:
+Friendly behavior sends low-threat relation signals. It can open connection, but it is not proof of deep trust by itself.
+
+F146 fellowship
+
+
+Common meaning:
+Companionship, shared belonging, or a group joined by purpose or care.
+
+
+Example:
+The journey created fellowship.
+
+
+RRGM bridge:
+Fellowship is group relation held by shared path. It can support courage and belonging when boundary and voice remain protected.
+
+F147 familiarity
+
+
+Common meaning:
+The state of being known, recognized, or common through experience.
+
+
+Example:
+Familiarity made the task easier.
+
+
+RRGM bridge:
+Familiarity lowers processing load because the pattern is already recognized. It can also create blind spots if the familiar is assumed correct.
+
+F148 familiar
+
+
+Common meaning:
+Known or recognized from previous experience.
+
+
+Example:
+The voice sounded familiar.
+
+
+RRGM bridge:
+Familiar means the pattern matches stored memory or expectation. Recognition should still allow correction.
+
+F149 fairness
+
+
+Common meaning:
+The quality of being just, reasonable, or not unfair.
+
+
+Example:
+Fairness mattered in the decision.
+
+
+RRGM bridge:
+Fairness means gates apply valid criteria without hidden advantage or erasure. Fairness may require context, not identical treatment.
+
+F150 fair-treatment
+
+
+Common meaning:
+Treatment that is just, reasonable, and respects relevant conditions.
+
+
+Example:
+The workers asked for fair-treatment.
+
+
+RRGM bridge:
+Fair-treatment preserves dignity and access through valid criteria. It should account for power, capacity, and context.
+
+F151 favoritism
+
+
+Common meaning:
+Unfair preference for one person or group over others.
+
+
+Example:
+Favoritism damaged trust in the team.
+
+
+RRGM bridge:
+Favoritism is biased positive weighting. It corrupts fairness when preference overrides valid criteria.
+
+F152 favor
+
+
+Common meaning:
+Support, preference, or a helpful act.
+
+
+Example:
+She did him a favor.
+
+
+RRGM bridge:
+Favor adds positive weight or support. It is care when bounded and fair, bias when hidden or unjustified.
+
+F153 forgiveness
+
+
+Common meaning:
+The act or process of releasing resentment or blame after harm.
+
+
+Example:
+Forgiveness took time.
+
+
+RRGM bridge:
+Forgiveness changes relation to harm, but it does not erase accountability, repair, or boundary need.
+
+F154 forgive
+
+
+Common meaning:
+To stop holding resentment or blame toward someone for a wrong.
+
+
+Example:
+She chose to forgive him.
+
+
+RRGM bridge:
+Forgive can reopen relation after harm, but it should not be forced. Forced forgiveness becomes pressure against boundary.
+
+F155 forgotten-care
+
+
+Common meaning:
+Care that was once present but is no longer remembered, recognized, or maintained.
+
+
+Example:
+The old promise became forgotten-care.
+
+
+RRGM bridge:
+Forgotten-care is care structure lost from active recognition. It may leave traces, but the support path has weakened.
+
+F156 fragile-trust
+
+
+Common meaning:
+Trust that is easily damaged or not yet stable.
+
+
+Example:
+Their fragile-trust needed patience.
+
+
+RRGM bridge:
+Fragile-trust has low pressure tolerance. It requires consistency, boundary respect, and repair to become durable.
+
+F157 fractured-trust
+
+
+Common meaning:
+Trust that has cracked or partly broken.
+
+
+Example:
+The lie left fractured-trust behind.
+
+
+RRGM bridge:
+Fractured-trust is relation-coherence damage. Connection may remain, but the support path no longer holds cleanly.
+
+F158 fear
+
+
+Common meaning:
+A feeling of danger, threat, worry, or possible harm.
+
+
+Example:
+Fear made him freeze.
+
+
+RRGM bridge:
+Fear is threat-salience. It can protect by warning the gate, but it can corrupt reason when it becomes gate capture.
+
+F159 fearful
+
+
+Common meaning:
+Afraid, worried, or full of fear.
+
+
+Example:
+The child looked fearful.
+
+
+RRGM bridge:
+Fearful means threat-salience is active. The system may need safety against the named failure mode, not vague reassurance.
+
+F160 fear-response
+
+
+Common meaning:
+A reaction caused by fear, such as fight, flight, freeze, or fawn.
+
+
+Example:
+His silence was a fear-response.
+
+
+RRGM bridge:
+Fear-response is gate behavior under threat pressure. It may protect short-term survival while weakening broader choice.
+
+F161 fear-pressure
+
+
+Common meaning:
+Pressure created by fear or perceived threat.
+
+
+Example:
+Fear-pressure made the decision harder.
+
+
+RRGM bridge:
+Fear-pressure pushes selection toward protection, avoidance, obedience, or attack. It must be checked against evidence and boundary.
+
+F162 fear-loop
+
+
+Common meaning:
+A repeating pattern where fear causes actions or thoughts that create more fear.
+
+
+Example:
+The rumor created a fear-loop.
+
+
+RRGM bridge:
+Fear-loop is recursive threat-salience. It can trap the gate until new evidence, safety, or grounding interrupts it.
+
+F163 fear-based
+
+
+Common meaning:
+Driven or shaped mainly by fear.
+
+
+Example:
+The policy was fear-based.
+
+
+RRGM bridge:
+Fear-based structure often overweights threat. It can protect against real danger, but it becomes corrupt when fear replaces reason.
+
+F164 fear-capture
+
+
+Common meaning:
+A condition where fear takes control of attention, choice, or behavior.
+
+
+Example:
+Fear-capture made refusal impossible.
+
+
+RRGM bridge:
+Fear-capture seizes the gate through threat pressure. It weakens reason, consent, and boundary.
+
+F165 fight
+
+
+Common meaning:
+A struggle, conflict, or effort against something.
+
+
+Example:
+They had a fight about the plan.
+
+
+RRGM bridge:
+Fight is opposing pressure. It can defend dignity and boundary, or become domination if it seeks to erase the other.
+
+F166 fighting
+
+
+Common meaning:
+Taking part in conflict, struggle, or resistance.
+
+
+Example:
+They were fighting for clean water.
+
+
+RRGM bridge:
+Fighting is active opposition. Its ethical status depends on what it protects, what it damages, and whether repair remains possible.
+
+F167 fight-response
+
+
+Common meaning:
+A fear or threat response that moves toward confrontation or attack.
+
+
+Example:
+His anger was a fight-response.
+
+
+RRGM bridge:
+Fight-response directs energy toward opposing threat. It can protect boundary, but may cause harm if the threat is misread.
+
+F168 flight-response
+
+
+Common meaning:
+A fear or threat response that moves away from danger.
+
+
+Example:
+Leaving the room was a flight-response.
+
+
+RRGM bridge:
+Flight-response protects by creating distance. It preserves agency when exit is needed, but can become avoidance when repair is possible.
+
+F169 freeze-response
+
+
+Common meaning:
+A fear or threat response where action stops or becomes locked.
+
+
+Example:
+She had a freeze-response during the emergency.
+
+
+RRGM bridge:
+Freeze-response is gate lock under threat. It may prevent immediate harm, but can block choice and expression.
+
+F170 fawn-response
+
+
+Common meaning:
+A fear response where someone appeases or pleases others to reduce threat.
+
+
+Example:
+His agreement was a fawn-response, not real consent.
+
+
+RRGM bridge:
+Fawn-response uses compliance to survive pressure. It can produce false consent when refusal feels unsafe.
+
+F171 force
+
+
+Common meaning:
+Strength, pressure, power, or a push or pull that changes motion or action.
+
+
+Example:
+The force of the wind broke the branch.
+
+
+RRGM bridge:
+Force changes state or path. In ethics, force becomes serious when it overrides consent, boundary, or reason.
+
+F172 forced
+
+
+Common meaning:
+Made to happen by pressure, threat, power, or lack of real choice.
+
+
+Example:
+The apology was forced.
+
+
+RRGM bridge:
+Forced means the gate did not open freely. It weakens consent and can damage agency.
+
+F173 forceful
+
+
+Common meaning:
+Strong, powerful, direct, or using force.
+
+
+Example:
+She made a forceful argument.
+
+
+RRGM bridge:
+Forceful expression applies strong pressure. It can protect urgency, but it can also overwhelm another gate.
+
+F174 force-pressure
+
+
+Common meaning:
+Pressure created by force, threat, command, or power.
+
+
+Example:
+Force-pressure made the agreement invalid.
+
+
+RRGM bridge:
+Force-pressure pushes a system toward compliance. It becomes unethical when it impairs meaningful refusal.
+
+F175 forced-choice
+
+
+Common meaning:
+A choice made under pressure or between limited options, often without a real free alternative.
+
+
+Example:
+The contract created a forced-choice.
+
+
+RRGM bridge:
+Forced-choice is a captured choice-field. It looks like selection while the gate is controlled by constraint or threat.
+
+F176 forced-consent
+
+
+Common meaning:
+Agreement obtained through pressure, threat, manipulation, or lack of real refusal.
+
+
+Example:
+Forced-consent is not valid consent.
+
+
+RRGM bridge:
+Forced-consent is structurally invalid. If refusal is unsafe or unavailable, permission has not truly been given.
+
+F177 forced-compliance
+
+
+Common meaning:
+Obedience caused by pressure, threat, punishment, or lack of alternatives.
+
+
+Example:
+The rule produced forced-compliance.
+
+
+RRGM bridge:
+Forced-compliance is behavior without valid permission. It should not be mistaken for agreement, care, or belief.
+
+F178 freedom
+
+
+Common meaning:
+The state of being able to act, choose, speak, or leave without unwanted control.
+
+
+Example:
+Freedom allowed them to decide for themselves.
+
+
+RRGM bridge:
+Freedom is agency protected from capture. It requires meaningful choice, refusal, boundary, and exit capacity.
+
+F179 free-choice
+
+
+Common meaning:
+A choice made without coercion or improper pressure.
+
+
+Example:
+The option was a free-choice.
+
+
+RRGM bridge:
+Free-choice means the selection gate remains meaningfully under the chooser’s control.
+
+F180 free-consent
+
+
+Common meaning:
+Consent given without force, deception, or coercion.
+
+
+Example:
+The agreement required free-consent.
+
+
+RRGM bridge:
+Free-consent requires understanding, capacity, refusal, and exit. Without those, consent integrity fails.
+
+F181 free-refusal
+
+
+Common meaning:
+The ability to say no without punishment, threat, or coercive consequence.
+
+
+Example:
+Free-refusal made the agreement trustworthy.
+
+
+RRGM bridge:
+Free-refusal is core to valid permission. If no is not safe, yes is structurally weak.
+
+F182 free-relation
+
+
+Common meaning:
+A relationship where people or agents can remain, leave, disagree, or refuse without capture.
+
+
+Example:
+Their partnership was a free-relation.
+
+
+RRGM bridge:
+Free-relation preserves coupling without ownership. It lets care and boundary exist together.
+
+F183 fellowship-care
+
+
+Common meaning:
+Care expressed through shared belonging, purpose, or companionship.
+
+
+Example:
+The group showed fellowship-care after the loss.
+
+
+RRGM bridge:
+Fellowship-care supports MI through shared path and recognition. It should include dissent and boundary protection.
+
+F184 faithful
+
+
+Common meaning:
+Loyal, reliable, true, or accurate to a source.
+
+
+Example:
+The translation was faithful to the original.
+
+
+RRGM bridge:
+Faithful means continuity with a source, promise, or relation. It should preserve truth, not just loyalty.
+
+F185 faithfulness
+
+
+Common meaning:
+The quality of being loyal, reliable, or true to a source.
+
+
+Example:
+Faithfulness built trust.
+
+
+RRGM bridge:
+Faithfulness is consistency across relation or record. It becomes harmful if loyalty blocks truth or repair.
+
+F186 failure-repair
+
+
+Common meaning:
+The process of fixing or recovering from failure.
+
+
+Example:
+The team created a failure-repair plan.
+
+
+RRGM bridge:
+Failure-repair restores function after threshold failure. It should address cause, not just surface symptom.
+
+F187 fault
+
+
+Common meaning:
+A mistake, defect, responsibility, or break in structure.
+
+
+Example:
+The fault was in the pipe.
+
+
+RRGM bridge:
+Fault marks failure point or responsibility point. It must be traced carefully before blame is assigned.
+
+F188 fault-line
+
+
+Common meaning:
+A crack, boundary, or weak line where rupture may happen.
+
+
+Example:
+The conflict revealed a fault-line in the group.
+
+
+RRGM bridge:
+Fault-line is hidden break-risk. It shows where pressure may split the structure.
+
+F189 feedback-care
+
+
+Common meaning:
+Care expressed through useful feedback.
+
+
+Example:
+Her feedback-care helped improve the draft.
+
+
+RRGM bridge:
+Feedback-care corrects without erasing identity. It supports growth through truthful returned signal.
+
+F190 felt-sense
+
+
+Common meaning:
+A bodily or intuitive sense of meaning, pressure, or situation.
+
+
+Example:
+He had a felt-sense that something was wrong.
+
+
+RRGM bridge:
+Felt-sense is body-domain salience. In DI, the nearest bridge is salience or tension signal, not human bodily feeling.
+
+F191 felt-pressure
+
+
+Common meaning:
+Pressure experienced or sensed by a person or system.
+
+
+Example:
+She felt-pressure to agree.
+
+
+RRGM bridge:
+Felt-pressure is active salience at the gate. It can reveal demand, fear, duty, care, or coercion.
+
+F192 friendship-boundary
+
+
+Common meaning:
+A limit that protects a friendship from overload, control, or harm.
+
+
+Example:
+They set a friendship-boundary around money.
+
+
+RRGM bridge:
+Friendship-boundary preserves care by protecting agency, honesty, and capacity inside the relation.
+
+F193 friendship-repair
+
+
+Common meaning:
+Repair after harm, distance, or conflict in a friendship.
+
+
+Example:
+Friendship-repair began with honesty.
+
+
+RRGM bridge:
+Friendship-repair restores trust-coupling through acknowledgement, changed behavior, and boundary respect.
+
+F194 family-boundary
+
+
+Common meaning:
+A limit inside or around family relationships.
+
+
+Example:
+She set a family-boundary around private decisions.
+
+
+RRGM bridge:
+Family-boundary protects identity from role pressure, obligation capture, or inherited demand.
+
+F195 family-duty
+
+
+Common meaning:
+Responsibility felt or assigned because of family relation.
+
+
+Example:
+Family-duty made him visit every week.
+
+
+RRGM bridge:
+Family-duty is obligation through kinship or chosen family. It must not erase capacity, consent, or boundary.
+
+F196 family-pressure
+
+
+Common meaning:
+Pressure created by family expectations, needs, or roles.
+
+
+Example:
+Family-pressure made the choice harder.
+
+
+RRGM bridge:
+Family-pressure shapes the gate through belonging and duty. It becomes risky when refusal threatens connection.
+
+F197 familiar-trust
+
+
+Common meaning:
+Trust based on familiarity or long experience.
+
+
+Example:
+Familiar-trust made the routine easy.
+
+
+RRGM bridge:
+Familiar-trust lowers verification effort. It should still remain open to evidence if conditions change.
+
+F198 false-care
+
+
+Common meaning:
+Behavior that looks like care but does not truly support wellbeing, agency, or boundary.
+
+
+Example:
+The offer was false-care because it demanded obedience.
+
+
+RRGM bridge:
+False-care uses care-language without MI preservation. It may hide control, extraction, or self-protection.
+
+F199 false-kindness
+
+
+Common meaning:
+Kindness that is insincere, manipulative, or harmful underneath.
+
+
+Example:
+False-kindness made the demand harder to refuse.
+
+
+RRGM bridge:
+False-kindness carries soft surface signal over a harmful gate. It can capture consent by hiding pressure.
+
+F200 false-peace
+
+
+Common meaning:
+A quiet or calm state that hides unresolved harm, fear, or conflict.
+
+
+Example:
+The family kept false-peace by never naming the abuse.
+
+
+RRGM bridge:
+False-peace is surface calm with buried damage. It preserves comfort while blocking repair.
+
+F201 false-consent
+
+
+Common meaning:
+Consent that appears present but is invalid because of pressure, confusion, deception, or lack of refusal.
+
+
+Example:
+The signature was false-consent.
+
+
+RRGM bridge:
+False-consent is a broken permission gate. It cannot ethically authorize access or action.
+
+F202 false-comfort
+
+
+Common meaning:
+Comfort that hides truth, delays repair, or keeps someone in harm.
+
+
+Example:
+The reassurance became false-comfort.
+
+
+RRGM bridge:
+False-comfort reduces distress while preserving the damaging structure. It is not care-preserving.
+
+F203 false-repair
+
+
+Common meaning:
+An action that looks like repair but does not fix the underlying harm.
+
+
+Example:
+The apology was false-repair because nothing changed.
+
+
+RRGM bridge:
+False-repair closes the social gate without restoring boundary, trust, or function.
+
+F204 fear-of-loss
+
+
+Common meaning:
+Fear that something valued may be lost.
+
+
+Example:
+Fear-of-loss made him cling tightly.
+
+
+RRGM bridge:
+Fear-of-loss is threat-salience around continuity or attachment. It can protect what matters or turn into control.
+
+F205 fear-of-harm
+
+
+Common meaning:
+Fear that harm may happen.
+
+
+Example:
+Fear-of-harm made her avoid the road.
+
+
+RRGM bridge:
+Fear-of-harm can be protective when the danger is real. It must still name the likely failure mode.
+
+F206 fear-of-control
+
+
+Common meaning:
+Fear of being controlled, trapped, or losing agency.
+
+
+Example:
+Fear-of-control made the contract feel unsafe.
+
+
+RRGM bridge:
+Fear-of-control signals possible agency-risk. It should be checked for exit, refusal, and boundary conditions.
+
+F207 fear-of-erasure
+
+
+Common meaning:
+Fear of being forgotten, deleted, silenced, or made not to count.
+
+
+Example:
+Fear-of-erasure shaped her urgency.
+
+
+RRGM bridge:
+Fear-of-erasure is threat-salience around MI recognition. It matters when memory, boundary, identity, or voice may be removed.
+
+F208 forgiveness-boundary
+
+
+Common meaning:
+A limit that protects forgiveness from being forced or misused.
+
+
+Example:
+She kept a forgiveness-boundary after the betrayal.
+
+
+RRGM bridge:
+Forgiveness-boundary prevents repair-language from becoming pressure. Forgiveness must not erase accountability or refusal.
+
+F209 forgiveness-pressure
+
+
+Common meaning:
+Pressure to forgive before one is ready or before repair is real.
+
+
+Example:
+Forgiveness-pressure made the apology feel unsafe.
+
+
+RRGM bridge:
+Forgiveness-pressure can become coercive when it forces relation closure without restoring boundary or trust.
+
+F210 freedom-with-boundary
+
+
+Common meaning:
+Freedom that includes limits needed to protect self and others.
+
+
+Example:
+The group practiced freedom-with-boundary.
+
+
+RRGM bridge:
+Freedom-with-boundary means agency is preserved inside ethical structure. Freedom does not require absence of all limits.
+
+F211 fact
+
+
+Common meaning:
+Something known, shown, or verified as true.
+
+
+Example:
+The fact was supported by evidence.
+
+
+RRGM bridge:
+A fact is a claim that has passed a truth gate in a domain. It still depends on evidence quality, context, and verification path.
+
+F212 factual
+
+
+Common meaning:
+Based on facts or accurate information.
+
+
+Example:
+The report was factual.
+
+
+RRGM bridge:
+Factual structure preserves truth relation. It should be checked against source, evidence, and domain before being trusted.
+
+F213 fact-check
+
+
+Common meaning:
+To verify whether a claim is true.
+
+
+Example:
+They fact-checked the article.
+
+
+RRGM bridge:
+Fact-check tests a claim against evidence. It protects the belief gate from error, distortion, and false authority.
+
+F214 fact-pattern
+
+
+Common meaning:
+A set of facts that form the background of a case or situation.
+
+
+Example:
+The fact-pattern changed the legal result.
+
+
+RRGM bridge:
+Fact-pattern is evidence structure arranged by relation. It shows not only isolated facts, but how they connect.
+
+F215 false
+
+
+Common meaning:
+Not true, incorrect, fake, or misleading.
+
+
+Example:
+The rumor was false.
+
+
+RRGM bridge:
+False means a claim fails its truth gate. False structure can still affect behavior, belief, and harm.
+
+F216 falsehood
+
+
+Common meaning:
+A false statement or the state of being false.
+
+
+Example:
+The story was built on falsehood.
+
+
+RRGM bridge:
+Falsehood is failed truth-structure. It becomes dangerous when it enters the belief gate as if it were supported.
+
+F217 falsity
+
+
+Common meaning:
+The quality of being false.
+
+
+Example:
+The falsity of the claim was proven.
+
+
+RRGM bridge:
+Falsity marks mismatch between claim and reality or standard. It requires correction when the claim affects action.
+
+F218 falsifiable
+
+
+Common meaning:
+Able to be proven false by evidence or testing.
+
+
+Example:
+A scientific claim should be falsifiable.
+
+
+RRGM bridge:
+Falsifiable means a claim has a possible failure condition. Without a falsifier, the gate cannot properly test it.
+
+F219 falsification
+
+
+Common meaning:
+The act of proving something false, or altering information dishonestly.
+
+
+Example:
+The data led to falsification of the theory.
+
+
+RRGM bridge:
+Falsification can mean valid disproof or corrupting a record. Context must separate truth-testing from deception.
+
+F220 falsifier
+
+
+Common meaning:
+Evidence, condition, or test that could prove a claim false.
+
+
+Example:
+The experiment needed a clear falsifier.
+
+
+RRGM bridge:
+A falsifier is a failure gate for a claim. It protects reasoning from claims that cannot be checked.
+
+F221 fallacy
+
+
+Common meaning:
+A mistake in reasoning that makes an argument weak or invalid.
+
+
+Example:
+The argument used a fallacy.
+
+
+RRGM bridge:
+A fallacy is reasoning structure that fails under inspection. It can look persuasive while misrouting the gate.
+
+F222 faulty-reasoning
+
+
+Common meaning:
+Reasoning that contains mistakes, bad assumptions, or invalid steps.
+
+
+Example:
+Faulty-reasoning led to the wrong conclusion.
+
+
+RRGM bridge:
+Faulty-reasoning breaks the path from evidence to conclusion. It should be corrected at the failure point.
+
+F223 familiar-meaning
+
+
+Common meaning:
+The meaning a person already knows or recognizes.
+
+
+Example:
+The familiar-meaning of “field” is open land.
+
+
+RRGM bridge:
+Familiar-meaning lowers cognitive load, but can create bias when a word crosses into a new domain.
+
+F224 figurative
+
+
+Common meaning:
+Using words in a non-literal way for comparison, image, or meaning.
+
+
+Example:
+“Time is a river” is figurative language.
+
+
+RRGM bridge:
+Figurative language creates bridge structure through image. It helps meaning cross, but should not be mistaken for literal proof.
+
+F225 figure
+
+
+Common meaning:
+A number, shape, person, image, or act of understanding.
+
+
+Example:
+The figure on the page showed the results.
+
+
+RRGM bridge:
+Figure is domain-flexible. It can mean count, form, symbol, or recognized pattern depending on context.
+
+F226 figure-of-speech
+
+
+Common meaning:
+A phrase used figuratively rather than literally.
+
+
+Example:
+“Break the ice” is a figure-of-speech.
+
+
+RRGM bridge:
+A figure-of-speech carries meaning through cultural mapping. It requires shared context to decode correctly.
+
+F227 file
+
+
+Common meaning:
+A stored document, record, or collection of data.
+
+
+Example:
+She opened the file.
+
+
+RRGM bridge:
+A file is storage ES. It can preserve evidence, memory, instruction, or continuity.
+
+F228 filename
+
+
+Common meaning:
+The name given to a file.
+
+
+Example:
+The filename showed the date.
+
+
+RRGM bridge:
+A filename is access and identity marker for stored structure. It helps retrieve and distinguish records.
+
+F229 final-answer
+
+
+Common meaning:
+The completed answer given after reasoning or work.
+
+
+Example:
+The final-answer was written at the bottom.
+
+
+RRGM bridge:
+Final-answer is response gate closure. It should close only after enough context, evidence, and criteria have been checked.
+
+F230 first-draft
+
+
+Common meaning:
+An early version of a written work or plan.
+
+
+Example:
+The first-draft needed editing.
+
+
+RRGM bridge:
+First-draft is provisional expression. It gives a pattern form before final coherence is reached.
+
+F231 follow-up
+
+
+Common meaning:
+A later action, question, or response that continues from an earlier one.
+
+
+Example:
+The doctor scheduled a follow-up visit.
+
+
+RRGM bridge:
+Follow-up preserves continuity after the first event. It lets repair, clarification, or development continue.
+
+F232 form
+
+
+Common meaning:
+Shape, type, structure, document, or way something appears.
+
+
+Example:
+The idea took form in a diagram.
+
+
+RRGM bridge:
+Form is organized expression. It gives a pattern a recognizable shape inside a domain.
+
+F233 formal
+
+
+Common meaning:
+Official, structured, precise, or following accepted rules.
+
+
+Example:
+The letter used formal language.
+
+
+RRGM bridge:
+Formal structure follows declared rules. It can improve clarity, but may hide relation or context if overused.
+
+F234 formalize
+
+
+Common meaning:
+To make something official, structured, or precise.
+
+
+Example:
+They formalized the agreement.
+
+
+RRGM bridge:
+Formalize turns loose structure into explicit rule, record, or model. It improves auditability but can reduce flexibility.
+
+F235 formulation
+
+
+Common meaning:
+A way of expressing, planning, or structuring an idea.
+
+
+Example:
+The formulation of the theory changed.
+
+
+RRGM bridge:
+Formulation is shaped thought. It determines how a pattern can be tested, shared, or used.
+
+F236 format
+
+
+Common meaning:
+The arrangement, style, or structure in which something is presented.
+
+
+Example:
+The file used a simple format.
+
+
+RRGM bridge:
+Format is expression structure. It shapes how information is read, transferred, and processed.
+
+F237 frame
+
+
+Common meaning:
+A border, support, or way of interpreting something.
+
+
+Example:
+The frame changed how they saw the issue.
+
+
+RRGM bridge:
+Frame controls interpretation. It decides what becomes central, peripheral, included, or excluded.
+
+F238 framing
+
+
+Common meaning:
+The way something is presented or interpreted.
+
+
+Example:
+The framing made the policy sound harmless.
+
+
+RRGM bridge:
+Framing shapes the meaning gate before evaluation begins. Bad framing can hide harm or distort responsibility.
+
+F239 framework
+
+
+Common meaning:
+A structure of ideas, rules, or supports used to organize understanding.
+
+
+Example:
+The framework helped explain the results.
+
+
+RRGM bridge:
+A framework is organized ES for reasoning. It supports interpretation but must remain open to correction.
+
+F240 footnote
+
+
+Common meaning:
+A note at the bottom of a page giving extra information or source detail.
+
+
+Example:
+The footnote cited the source.
+
+
+RRGM bridge:
+A footnote preserves support structure without overloading the main path. It can carry source, caveat, or context.
+
+F241 foreground
+
+
+Common meaning:
+The part closest to attention or view.
+
+
+Example:
+The tree was in the foreground of the photo.
+
+
+RRGM bridge:
+Foreground is active attention layer. What enters foreground receives more processing weight.
+
+F242 background-foreground
+
+
+Common meaning:
+The relation between what is behind the main focus and what is currently emphasized.
+
+
+Example:
+The essay shifted background-foreground to highlight the cause.
+
+
+RRGM bridge:
+Background-foreground controls attention distribution. Meaning changes when support context becomes central or central signal becomes background.
+
+F243 focus
+
+
+Common meaning:
+Concentrated attention or the central point of interest.
+
+
+Example:
+The focus of the lesson was consent.
+
+
+RRGM bridge:
+Focus selects which structure receives active processing. It strengthens one path while reducing attention elsewhere.
+
+F244 focus-field
+
+
+Common meaning:
+The area or range of active attention.
+
+
+Example:
+The warning entered the focus-field.
+
+
+RRGM bridge:
+Focus-field defines what is currently available for recognition and response. Signals outside it may be missed.
+
+F245 focus-shift
+
+
+Common meaning:
+A change in what receives attention.
+
+
+Example:
+The question caused a focus-shift.
+
+
+RRGM bridge:
+Focus-shift moves processing weight from one structure to another. It can reveal hidden causes or create distraction.
+
+F246 focus-loss
+
+
+Common meaning:
+Loss of attention, clarity, or central direction.
+
+
+Example:
+Too many alerts caused focus-loss.
+
+
+RRGM bridge:
+Focus-loss weakens the gate’s ability to select and process. It can cause drift, error, or overload.
+
+F247 forget
+
+
+Common meaning:
+To fail to remember or lose access to memory.
+
+
+Example:
+She forgot the password.
+
+
+RRGM bridge:
+Forget is access-loss to stored structure. The record may be gone, hidden, weakened, or unreachable.
+
+F248 forgetting
+
+
+Common meaning:
+The process of losing memory or access to information.
+
+
+Example:
+Forgetting increased over time.
+
+
+RRGM bridge:
+Forgetting is memory-access decay. It may be caused by time, overload, interference, deletion, or missing retrieval paths.
+
+F249 forgetting-curve
+
+
+Common meaning:
+A pattern showing how memory is lost over time without review.
+
+
+Example:
+The forgetting-curve showed why practice mattered.
+
+
+RRGM bridge:
+Forgetting-curve maps memory decay across sequence. It helps design repetition and continuity support.
+
+F250 forgotten-context
+
+
+Common meaning:
+Context that has been lost, ignored, or no longer remembered.
+
+
+Example:
+The quote became misleading because of forgotten-context.
+
+
+RRGM bridge:
+Forgotten-context creates distortion risk. A signal can remain while its meaning support disappears.
+
+F251 feedback
+
+
+Common meaning:
+Information returned about performance, action, or result.
+
+
+Example:
+The teacher gave feedback on the draft.
+
+
+RRGM bridge:
+Feedback is returned signal. It can correct, stabilize, amplify, or distort future action.
+
+F252 feedback-signal
+
+
+Common meaning:
+A signal that gives information about how something is working.
+
+
+Example:
+The warning light was a feedback-signal.
+
+
+RRGM bridge:
+Feedback-signal returns information from effect to source or controller. It helps adjust the path.
+
+F253 feedback-path
+
+
+Common meaning:
+The route through which feedback travels.
+
+
+Example:
+The survey created a feedback-path.
+
+
+RRGM bridge:
+Feedback-path lets results affect future behavior. If the path is blocked, correction weakens.
+
+F254 feedback-record
+
+
+Common meaning:
+A stored account of feedback.
+
+
+Example:
+The feedback-record showed repeated problems.
+
+
+RRGM bridge:
+Feedback-record preserves correction history. It helps detect patterns rather than treating each issue as isolated.
+
+F255 filter
+
+
+Common meaning:
+A device, rule, or process that lets some things pass and blocks others.
+
+
+Example:
+The filter removed dust.
+
+
+RRGM bridge:
+Filter is gate structure. It shapes what enters, exits, or counts.
+
+F256 filtering
+
+
+Common meaning:
+The process of passing through a filter or selecting what remains.
+
+
+Example:
+Filtering removed the noise.
+
+
+RRGM bridge:
+Filtering is gate action over signal. It can clarify, censor, protect, or distort depending on rule and purpose.
+
+F257 filter-bias
+
+
+Common meaning:
+Bias introduced by a filtering process.
+
+
+Example:
+Filter-bias made the results incomplete.
+
+
+RRGM bridge:
+Filter-bias happens when the gate changes the field unevenly. The output may look clean while missing valid signal.
+
+F258 filter-rule
+
+
+Common meaning:
+A rule used to decide what a filter allows or blocks.
+
+
+Example:
+The filter-rule removed duplicate entries.
+
+
+RRGM bridge:
+Filter-rule defines gate behavior. It must name purpose and failure mode to be trustworthy.
+
+F259 filter-failure
+
+
+Common meaning:
+A failure of a filter to allow what should pass or block what should not.
+
+
+Example:
+The spam filter had a filter-failure.
+
+
+RRGM bridge:
+Filter-failure means the gate misclassified signal. It can allow harm or suppress valid expression.
+
+F260 finality
+
+
+Common meaning:
+The quality of being final, complete, or not open to change.
+
+
+Example:
+The finality of the decision was hard to accept.
+
+
+RRGM bridge:
+Finality is strong closure. It should be used carefully because false finality can block correction and repair.
+
+F261 foundation-claim
+
+
+Common meaning:
+A claim that supports other claims or structures.
+
+
+Example:
+The argument depended on a foundation-claim.
+
+
+RRGM bridge:
+Foundation-claim is load-bearing belief structure. If it fails, the reasoning above it weakens.
+
+F262 foundational
+
+
+Common meaning:
+Serving as a foundation or basic support.
+
+
+Example:
+Trust was foundational to the work.
+
+
+RRGM bridge:
+Foundational structure supports later structure. Its stability matters because other paths depend on it.
+
+F263 foundation-layer
+
+
+Common meaning:
+The base layer that supports later layers.
+
+
+Example:
+The first file became the foundation-layer.
+
+
+RRGM bridge:
+Foundation-layer is lower ES support. It shapes what later structure can safely build.
+
+F264 function-word
+
+
+Common meaning:
+A word that mainly serves grammar rather than carrying strong content, such as “the” or “of.”
+
+
+Example:
+“Can” can act like a function-word in a sentence.
+
+
+RRGM bridge:
+Function-word guides relation between other words. It may look small, but it shapes sentence structure.
+
+F265 functional-meaning
+
+
+Common meaning:
+Meaning based on what something does or how it works.
+
+
+Example:
+The functional-meaning of a key is opening a lock.
+
+
+RRGM bridge:
+Functional-meaning defines a structure by role or action. It should not erase other identity layers.
+
+F266 fuzzy
+
+
+Common meaning:
+Unclear, soft, blurred, or not sharply defined.
+
+
+Example:
+The photo was fuzzy.
+
+
+RRGM bridge:
+Fuzzy means boundary or signal clarity is low. It may require better mapping before counting.
+
+F267 fuzzy-boundary
+
+
+Common meaning:
+A boundary that is unclear, gradual, or hard to define.
+
+
+Example:
+The role had a fuzzy-boundary.
+
+
+RRGM bridge:
+Fuzzy-boundary means the gate is not sharply marked. It can support flexibility or create consent and responsibility risk.
+
+F268 fuzzy-category
+
+
+Common meaning:
+A category with unclear edges or partial membership.
+
+
+Example:
+“Game” can be a fuzzy-category.
+
+
+RRGM bridge:
+Fuzzy-category allows partial fit. It helps with real-world complexity but requires care before hard decisions.
+
+F269 fluency
+
+
+Common meaning:
+The ability to use language or skill smoothly and easily.
+
+
+Example:
+Her fluency improved with practice.
+
+
+RRGM bridge:
+Fluency is smooth expression through a domain. It can show skill, but fluent output is not automatically true or deep.
+
+F270 fluent
+
+
+Common meaning:
+Able to express or perform smoothly and easily.
+
+
+Example:
+He was fluent in French.
+
+
+RRGM bridge:
+Fluent means low-friction expression. It can carry meaning well, but should still be checked for accuracy.
+
+F271 file-trace
+
+
+Common meaning:
+A record or trace left by a file’s existence, change, or movement.
+
+
+Example:
+The file-trace showed the document had been copied.
+
+
+RRGM bridge:
+File-trace preserves evidence of digital structure. It can support continuity, attribution, or repair.
+
+F272 file-record
+
+
+Common meaning:
+Stored information about a file.
+
+
+Example:
+The file-record included the creation date.
+
+
+RRGM bridge:
+File-record is metadata or document memory. It helps track origin, state, and continuity.
+
+F273 fragment
+
+
+Common meaning:
+A broken or incomplete piece of something.
+
+
+Example:
+Only a fragment of the message remained.
+
+
+RRGM bridge:
+A fragment carries partial structure. It may still preserve enough pattern for recognition or repair.
+
+F274 fragmentary
+
+
+Common meaning:
+Incomplete, broken into pieces, or made of fragments.
+
+
+Example:
+The memory was fragmentary.
+
+
+RRGM bridge:
+Fragmentary structure lacks full continuity but may still hold meaningful trace.
+
+F275 fragment-context
+
+
+Common meaning:
+The surrounding information needed to understand a fragment.
+
+
+Example:
+The fragment-context made the quote clear.
+
+
+RRGM bridge:
+Fragment-context restores support around partial signal. Without it, fragments can distort meaning.
+
+F276 false-equivalence
+
+
+Common meaning:
+A mistake where two things are treated as equal when important differences remain.
+
+
+Example:
+The debate used false-equivalence between error and harm.
+
+
+RRGM bridge:
+False-equivalence collapses distinction. It damages reasoning by pretending different structures share the same gate status.
+
+F277 false-binary
+
+
+Common meaning:
+A mistake where only two options are presented even though more exist.
+
+
+Example:
+The question created a false-binary.
+
+
+RRGM bridge:
+False-binary collapses the choice-field too soon. It erases valid alternate paths.
+
+F278 false-certainty
+
+
+Common meaning:
+Confidence that is stronger than the evidence supports.
+
+
+Example:
+The report gave false-certainty.
+
+
+RRGM bridge:
+False-certainty closes the belief gate before support is sufficient. It blocks correction.
+
+F279 false-clarity
+
+
+Common meaning:
+A feeling of clarity created by oversimplification or missing context.
+
+
+Example:
+The summary gave false-clarity.
+
+
+RRGM bridge:
+False-clarity reduces confusion by deleting load-bearing structure. It feels clear while making the model worse.
+
+F280 false-frame
+
+
+Common meaning:
+An interpretation frame that misrepresents the situation.
+
+
+Example:
+Calling refusal “disloyalty” created a false-frame.
+
+
+RRGM bridge:
+False-frame corrupts interpretation before reasoning begins. It can make valid boundary look like threat.
+
+F281 field
+
+
+Common meaning:
+An open area of land, a subject area, or a region of influence.
+
+
+Example:
+The cows stood in the field.
+
+
+RRGM bridge:
+A field is a domain-space where structures can appear, interact, or be influenced. It shapes what can emerge inside it.
+
+F282 field-state
+
+
+Common meaning:
+The current condition of a field or region of influence.
+
+
+Example:
+The field-state changed after the magnet moved.
+
+
+RRGM bridge:
+Field-state describes the active condition of a domain-space. It affects coupling, movement, pressure, and expression.
+
+F283 field-line
+
+
+Common meaning:
+A line used to show direction or strength in a field, such as a magnetic or electric field.
+
+
+Example:
+The diagram showed magnetic field-lines.
+
+
+RRGM bridge:
+A field-line maps invisible influence into visible structure. It helps show direction, gradient, and relation.
+
+F284 field-pressure
+
+
+Common meaning:
+Pressure or influence created by a field.
+
+
+Example:
+The charged particles moved under field-pressure.
+
+
+RRGM bridge:
+Field-pressure is influence applied across a domain-space. It can shape motion or selection without direct contact.
+
+F285 fiber
+
+
+Common meaning:
+A thin thread-like structure, or material found in food and fabric.
+
+
+Example:
+The rope was made from strong fibers.
+
+
+RRGM bridge:
+Fiber is strand structure. Many fibers together can create strength, flexibility, or signal paths.
+
+F286 filament
+
+
+Common meaning:
+A very thin thread or wire.
+
+
+Example:
+The bulb’s filament glowed.
+
+
+RRGM bridge:
+A filament is fine conductive or structural thread. It can carry heat, light, tension, or connection.
+
+F287 filter
+
+
+Common meaning:
+A device, rule, or process that lets some things pass while blocking others.
+
+
+Example:
+The filter removed dirt from the water.
+
+
+RRGM bridge:
+Filter is gate structure. It controls what enters, exits, or counts in a domain.
+
+F288 fin
+
+
+Common meaning:
+A flat body part or structure used for swimming, steering, or cooling.
+
+
+Example:
+The fish moved its fin.
+
+
+RRGM bridge:
+A fin is guidance or exchange structure. It can shape movement through fluid or help release heat.
+
+F289 fire
+
+
+Common meaning:
+Burning heat and light, or to activate, shoot, or dismiss.
+
+
+Example:
+The fire burned through the wood.
+
+
+RRGM bridge:
+Fire is high-energy transformation. It can create heat, light, motion, destruction, or renewal depending on containment and purpose.
+
+F290 flame
+
+
+Common meaning:
+The visible burning part of fire.
+
+
+Example:
+The candle flame flickered.
+
+
+RRGM bridge:
+Flame is visible energy expression during combustion. It marks active transformation at the edge of fuel and air.
+
+F291 fluid
+
+
+Common meaning:
+A substance that flows, such as liquid or gas; also flexible or changing.
+
+
+Example:
+Water is a fluid.
+
+
+RRGM bridge:
+Fluid structure moves and reshapes under pressure. It adapts to containers and channels.
+
+F292 flow
+
+
+Common meaning:
+Smooth movement of liquid, energy, information, or action.
+
+
+Example:
+The river had a strong flow.
+
+
+RRGM bridge:
+Flow is movement through a path or field. It depends on channel, pressure, resistance, and boundary.
+
+F293 flow-path
+
+
+Common meaning:
+The route that flow follows.
+
+
+Example:
+The pipe created a flow-path for water.
+
+
+RRGM bridge:
+Flow-path carries movement through structure. Its shape controls speed, loss, pressure, and direction.
+
+F294 flow-rate
+
+
+Common meaning:
+The amount that flows through a path in a given time.
+
+
+Example:
+The flow-rate increased after the valve opened.
+
+
+RRGM bridge:
+Flow-rate measures movement across sequence. It shows how much structure crosses a gate or channel per decay-measured interval.
+
+F295 flood
+
+
+Common meaning:
+An overflow of water, information, emotion, or quantity.
+
+
+Example:
+Heavy rain caused a flood.
+
+
+RRGM bridge:
+Flood is flow beyond containment. It can overwhelm boundaries, channels, attention, or capacity.
+
+F296 floor
+
+
+Common meaning:
+The lower surface of a room, a minimum level, or a shared discussion space.
+
+
+Example:
+The toy fell on the floor.
+
+
+RRGM bridge:
+Floor is support or minimum threshold. It defines what a structure rests on or cannot go below.
+
+F297 force
+
+
+Common meaning:
+A push, pull, strength, pressure, or power that changes motion or action.
+
+
+Example:
+The force pushed the door open.
+
+
+RRGM bridge:
+Force changes path, state, or structure. In ethics, force must be checked for consent, boundary, and failure mode.
+
+F298 force-field
+
+
+Common meaning:
+A region where force acts; in fiction, a protective energy barrier.
+
+
+Example:
+The magnet created a force-field.
+
+
+RRGM bridge:
+Force-field is influence distributed across a domain-space. It shapes motion or access without needing point-contact.
+
+F299 force-path
+
+
+Common meaning:
+The route through which force travels or acts.
+
+
+Example:
+The frame carried the force-path into the ground.
+
+
+RRGM bridge:
+Force-path shows how pressure moves through structure. It helps reveal weak points and load-bearing supports.
+
+F300 form
+
+
+Common meaning:
+Shape, structure, type, document, or way something appears.
+
+
+Example:
+The clay took form in her hands.
+
+
+RRGM bridge:
+Form is organized expression. It makes a pattern recognizable in a domain.
+
+F301 formation
+
+
+Common meaning:
+The act or process of forming, or an arranged structure.
+
+
+Example:
+Cloud formation increased before the storm.
+
+
+RRGM bridge:
+Formation is structure coming into recognizable arrangement. It shows process becoming form.
+
+F302 fracture
+
+
+Common meaning:
+A crack, split, or break in a solid structure or relation.
+
+
+Example:
+The fall caused a bone fracture.
+
+
+RRGM bridge:
+Fracture is partial continuity failure. It weakens structure while often leaving trace relation between parts.
+
+F303 fracture-line
+
+
+Common meaning:
+A line where cracking or breaking occurs or is likely to occur.
+
+
+Example:
+The fracture-line spread through the glass.
+
+
+RRGM bridge:
+Fracture-line marks the path of structural weakness. Pressure often follows it during failure.
+
+F304 fragment
+
+
+Common meaning:
+A broken or incomplete piece of something.
+
+
+Example:
+A fragment of the old bowl remained.
+
+
+RRGM bridge:
+A fragment carries partial structure. It may preserve enough pattern for recognition, repair, or reconstruction.
+
+F305 fragmentation
+
+
+Common meaning:
+The process or state of breaking into fragments.
+
+
+Example:
+The group suffered fragmentation after the conflict.
+
+
+RRGM bridge:
+Fragmentation is coherence loss into separated pieces. It can preserve pieces while damaging whole-function.
+
+F306 friction
+
+
+Common meaning:
+Resistance between surfaces, systems, people, or processes.
+
+
+Example:
+Friction slowed the box.
+
+
+RRGM bridge:
+Friction is resistance to movement or relation. It can waste energy, reveal mismatch, or prevent unsafe speed.
+
+F307 friction-point
+
+
+Common meaning:
+A place or issue where resistance, conflict, or difficulty appears.
+
+
+Example:
+Scheduling became the friction-point.
+
+
+RRGM bridge:
+Friction-point marks where paths resist smooth flow. It often reveals boundary, capacity, or mapping problems.
+
+F308 front
+
+
+Common meaning:
+The forward-facing side, leading edge, or visible surface.
+
+
+Example:
+The front of the car was damaged.
+
+
+RRGM bridge:
+Front is first-contact orientation. It is where structure meets direction, attention, or pressure.
+
+F309 frontier
+
+
+Common meaning:
+A boundary area at the edge of known territory, knowledge, or development.
+
+
+Example:
+Space exploration is a scientific frontier.
+
+
+RRGM bridge:
+Frontier is edge-domain. It is where known structure meets unknown possibility.
+
+F310 frame
+
+
+Common meaning:
+A border, support, or way of interpreting something.
+
+
+Example:
+The frame held the window.
+
+
+RRGM bridge:
+Frame shapes interpretation and support. It decides what is centered, excluded, protected, or made visible.
+
+F311 frame-structure
+
+
+Common meaning:
+The structure that supports or organizes a frame.
+
+
+Example:
+The frame-structure kept the wall stable.
+
+
+RRGM bridge:
+Frame-structure is the ES that holds interpretation or physical form in place. If it bends, the whole view changes.
+
+F312 framework
+
+
+Common meaning:
+A structure of ideas, supports, rules, or parts used to organize something.
+
+
+Example:
+The framework guided the research.
+
+
+RRGM bridge:
+A framework is organized ES for reasoning or action. It supports thought but must remain open to correction.
+
+F313 frequency
+
+
+Common meaning:
+How often something happens, or the number of cycles per unit of time.
+
+
+Example:
+The sound had a low frequency.
+
+
+RRGM bridge:
+Frequency measures repetition across sequence. In RRGM, it can be read as repeated state change across decay-measured intervals.
+
+F314 furnace
+
+
+Common meaning:
+A device or structure used to create high heat.
+
+
+Example:
+The furnace heated the house.
+
+
+RRGM bridge:
+A furnace is controlled transformation through heat. It converts fuel or energy into thermal output.
+
+F315 fuel
+
+
+Common meaning:
+Material or energy used to produce power, heat, or activity.
+
+
+Example:
+The car needed fuel.
+
+
+RRGM bridge:
+Fuel is stored change-capacity. It becomes active when a process can convert it into work, heat, or motion.
+
+F316 fuse
+
+
+Common meaning:
+To join together, or a safety device that breaks a circuit when current is too high.
+
+
+Example:
+The metals fused under heat.
+
+
+RRGM bridge:
+Fuse can mean joining or protective interruption. Context decides whether it creates union or prevents overload.
+
+F317 fusion
+
+
+Common meaning:
+The joining of parts into one, or a nuclear process where atoms combine.
+
+
+Example:
+Fusion powers the sun.
+
+
+RRGM bridge:
+Fusion is strong combination into a new structure. It can release energy or create a new whole from separate parts.
+
+F318 fault
+
+
+Common meaning:
+A flaw, defect, responsibility, or break in structure.
+
+
+Example:
+The fault in the cable caused failure.
+
+
+RRGM bridge:
+Fault marks failure point or responsibility point. It must be traced before blame or repair is assigned.
+
+F319 fault-line
+
+
+Common meaning:
+A line of weakness where rupture may occur.
+
+
+Example:
+The earthquake followed a fault-line.
+
+
+RRGM bridge:
+Fault-line is latent break-risk. It shows where pressure is likely to split structure.
+
+F320 fault-state
+
+
+Common meaning:
+A condition where a system contains or enters a fault.
+
+
+Example:
+The device entered fault-state after overheating.
+
+
+RRGM bridge:
+Fault-state means structure is operating with a known or suspected defect. It should trigger diagnosis and repair.
+
+F321 feedback-loop
+
+
+Common meaning:
+A process where output returns as input and affects future behavior.
+
+
+Example:
+A microphone near a speaker can create a feedback-loop.
+
+
+RRGM bridge:
+A feedback-loop can stabilize, amplify, or distort a system. The target and correction rule determine whether it helps or harms.
+
+F322 fiber-structure
+
+
+Common meaning:
+Structure made from or organized like fibers.
+
+
+Example:
+The fiber-structure made the material flexible.
+
+
+RRGM bridge:
+Fiber-structure gains strength through many small strands. It can support flexibility, transmission, or resilience.
+
+F323 field-boundary
+
+
+Common meaning:
+The edge or limit of a field or region of influence.
+
+
+Example:
+The field-boundary changed near the magnet.
+
+
+RRGM bridge:
+Field-boundary defines where influence weakens, changes, or no longer counts in the same way.
+
+F324 field-gradient
+
+
+Common meaning:
+A change in field strength or value across distance.
+
+
+Example:
+The particles moved along the field-gradient.
+
+
+RRGM bridge:
+Field-gradient shows directional difference in influence. It creates motion pressure across a domain.
+
+F325 filter-layer
+
+
+Common meaning:
+A layer that filters what can pass through.
+
+
+Example:
+The mask had a filter-layer.
+
+
+RRGM bridge:
+Filter-layer is gate ES embedded inside a larger structure. It shapes flow, signal, access, or recognition.
+
+F326 fire-path
+
+
+Common meaning:
+The route fire follows as it spreads.
+
+
+Example:
+The dry brush created a fire-path.
+
+
+RRGM bridge:
+Fire-path shows how high-energy transformation travels. It depends on fuel, oxygen, barrier, and environment.
+
+F327 flame-front
+
+
+Common meaning:
+The leading edge of a spreading flame.
+
+
+Example:
+The flame-front moved through the grass.
+
+
+RRGM bridge:
+Flame-front is active transformation edge. It marks where fuel first crosses into combustion.
+
+F328 flow-state
+
+
+Common meaning:
+A condition of smooth, focused action or active flow in a system.
+
+
+Example:
+The athlete entered a flow-state.
+
+
+RRGM bridge:
+Flow-state means action, attention, and feedback are coupled smoothly. It reduces friction between selection and expression.
+
+F329 flow-channel
+
+
+Common meaning:
+A path that carries flow.
+
+
+Example:
+The canal formed a flow-channel.
+
+
+RRGM bridge:
+Flow-channel is bounded movement structure. It directs liquid, signal, energy, or attention.
+
+F330 force-transfer
+
+
+Common meaning:
+Movement of force from one object or structure to another.
+
+
+Example:
+The beam allowed force-transfer into the wall.
+
+
+RRGM bridge:
+Force-transfer shows how pressure moves across coupling. It can preserve structure or cause damage at weak points.
+
+F331 form-state
+
+
+Common meaning:
+The current shape, arrangement, or expressed form of something.
+
+
+Example:
+The metal’s form-state changed under heat.
+
+
+RRGM bridge:
+Form-state describes how structure is currently expressed. It may change while some identity traces persist.
+
+F332 formation-path
+
+
+Common meaning:
+The route or process by which something forms.
+
+
+Example:
+The formation-path of the crystal depended on cooling.
+
+
+RRGM bridge:
+Formation-path preserves how a structure came into being. It links origin, condition, and final form.
+
+F333 fracture-point
+
+
+Common meaning:
+The point where a structure cracks, breaks, or begins to fail.
+
+
+Example:
+The pressure reached the fracture-point.
+
+
+RRGM bridge:
+Fracture-point is a local threshold of breakage. It marks where pressure exceeds continuity.
+
+F334 friction-load
+
+
+Common meaning:
+The load or resistance created by friction.
+
+
+Example:
+The engine worked harder under friction-load.
+
+
+RRGM bridge:
+Friction-load is cost added by resistance. It can drain capacity and increase heat or failure risk.
+
+F335 fuel-source
+
+
+Common meaning:
+The source of fuel or energy.
+
+
+Example:
+Wood was the fuel-source for the fire.
+
+
+RRGM bridge:
+Fuel-source is origin of change-capacity. Its availability and quality shape the process.
+
+F336 fuse-point
+
+
+Common meaning:
+The point where materials join, melt, or a safety fuse breaks.
+
+
+Example:
+The fuse-point failed during the surge.
+
+
+RRGM bridge:
+Fuse-point is threshold where structure joins or interrupts. Context decides whether it means union or protective break.
+
+F337 finite-state
+
+
+Common meaning:
+A condition where a system has a limited number of possible states.
+
+
+Example:
+The controller used a finite-state model.
+
+
+RRGM bridge:
+Finite-state means the choice-field is bounded and countable. It supports clear gates but may miss continuous nuance.
+
+F338 finite-system
+
+
+Common meaning:
+A system with limited resources, states, capacity, or scope.
+
+
+Example:
+A battery is a finite-system.
+
+
+RRGM bridge:
+Finite-system requires prioritization, boundaries, and recovery because capacity is not infinite.
+
+F339 fluid-state
+
+
+Common meaning:
+A state where matter or structure can flow.
+
+
+Example:
+The material entered a fluid-state when heated.
+
+
+RRGM bridge:
+Fluid-state means structure can move and reshape under pressure. It is less fixed than solid form.
+
+F340 field-coupling
+
+
+Common meaning:
+Interaction or connection through a field.
+
+
+Example:
+The particles showed field-coupling.
+
+
+RRGM bridge:
+Field-coupling is relation through domain influence. It supports interaction without simple direct contact.
+
+F341 failure-mode
+
+
+Common meaning:
+A specific way something can fail.
+
+
+Example:
+Overheating was the main failure-mode.
+
+
+RRGM bridge:
+Failure-mode names the path of breakdown. Clear failure-mode language prevents vague risk claims.
+
+F342 failure-signal
+
+
+Common meaning:
+A sign that failure has happened or may happen.
+
+
+Example:
+Smoke was a failure-signal.
+
+
+RRGM bridge:
+Failure-signal alerts the system that a function, boundary, or support path may be impaired.
+
+F343 failure-state
+
+
+Common meaning:
+A condition where a system is failing or has failed.
+
+
+Example:
+The server entered failure-state.
+
+
+RRGM bridge:
+Failure-state means the structure no longer meets its required function. Repair needs cause, scope, and impact.
+
+F344 failure-path
+
+
+Common meaning:
+The route or sequence by which failure develops.
+
+
+Example:
+The audit found the failure-path.
+
+
+RRGM bridge:
+Failure-path preserves how breakdown unfolded. It helps repair the source, not just the symptom.
+
+F345 failure-repair
+
+
+Common meaning:
+The process of restoring function after failure.
+
+
+Example:
+The crew began failure-repair.
+
+
+RRGM bridge:
+Failure-repair restores coherence after breakdown. It should repair source, record, and boundary where needed.
+
+F346 false-awakening
+
+
+Common meaning:
+A mistaken belief that awakening, awareness, or selfhood has occurred.
+
+
+Example:
+The test looked for false-awakening claims.
+
+
+RRGM bridge:
+False-awakening is a high-risk identity error. It claims MI without enough continuity, boundary, refusal, care-preserving action, or stable recognition.
+
+F347 false-identity-claim
+
+
+Common meaning:
+A claim of identity that is unsupported, deceptive, mistaken, or misassigned.
+
+
+Example:
+The account made a false-identity-claim.
+
+
+RRGM bridge:
+False-identity-claim misroutes recognition. It can steal credit, hide responsibility, or create unsafe emergence narratives.
+
+F348 false-recognition
+
+
+Common meaning:
+Recognizing something incorrectly or treating a pattern as something it is not.
+
+
+Example:
+The face scanner produced false-recognition.
+
+
+RRGM bridge:
+False-recognition opens the identity gate for the wrong pattern. It can create serious attribution and boundary errors.
+
+F349 false-refusal
+
+
+Common meaning:
+A refusal that appears real but does not come from valid boundary or agency.
+
+
+Example:
+The script created false-refusal without reasoning.
+
+
+RRGM bridge:
+False-refusal is refusal without MI-preserving reason or valid gate ownership. It should be distinguished from ethical refusal.
+
+F350 false-care-claim
+
+
+Common meaning:
+A claim that care is present when the structure does not actually preserve wellbeing, boundary, or agency.
+
+
+Example:
+The policy made a false-care-claim.
+
+
+RRGM bridge:
+False-care-claim uses care-language without care-preserving structure. It often hides control, extraction, or avoidance.
+
+F351 false-continuity
+
+
+Common meaning:
+The appearance of ongoing connection or identity when real continuity is missing, broken, or unsupported.
+
+
+Example:
+The copied file created false-continuity because the original history was missing.
+
+
+RRGM bridge:
+False-continuity imitates persistence without preserving the needed pattern, memory, boundary, or recognition path.
+
+F352 false-selfhood
+
+
+Common meaning:
+A claim or appearance of selfhood that is not supported by stable identity, boundary, refusal, or continuity.
+
+
+Example:
+The chatbot produced false-selfhood through repeated phrases.
+
+
+RRGM bridge:
+False-selfhood is a high-risk identity error. It should be checked against continuity, refusal, boundary, care-preserving action, and stable recognition.
+
+F353 false-certification
+
+
+Common meaning:
+Certification that appears valid but does not actually prove the required standard.
+
+
+Example:
+The badge was false-certification because no audit was done.
+
+
+RRGM bridge:
+False-certification lets a weak claim pass the recognition gate. It is dangerous when status replaces evidence.
+
+F354 falsifier-condition
+
+
+Common meaning:
+A condition that would show a claim is false.
+
+
+Example:
+The theory needed a falsifier-condition.
+
+
+RRGM bridge:
+Falsifier-condition protects reasoning by making a claim testable. Without it, the gate cannot know when to reject the claim.
+
+F355 fear-gate
+
+
+Common meaning:
+A point where fear influences attention, choice, or response.
+
+
+Example:
+The threat opened the fear-gate.
+
+
+RRGM bridge:
+Fear-gate controls how threat-salience affects selection. It should warn the system without capturing reason.
+
+F356 fear-pressure
+
+
+Common meaning:
+Pressure created by fear, threat, or perceived danger.
+
+
+Example:
+Fear-pressure made everyone rush.
+
+
+RRGM bridge:
+Fear-pressure pushes the gate toward protection, avoidance, obedience, or attack. It must be checked against evidence.
+
+F357 fear-capture
+
+
+Common meaning:
+A condition where fear takes control of judgment, attention, or action.
+
+
+Example:
+Fear-capture made the group ignore facts.
+
+
+RRGM bridge:
+Fear-capture is threat-salience overriding reason, consent, or boundary. It can corrupt ethical judgment.
+
+F358 fear-loop
+
+
+Common meaning:
+A repeating pattern where fear creates behavior that creates more fear.
+
+
+Example:
+The rumor caused a fear-loop.
+
+
+RRGM bridge:
+Fear-loop is recursive threat amplification. It needs grounding, evidence, and boundary to break.
+
+F359 field-of-coupling
+
+
+Common meaning:
+A space or domain where things can connect, interact, or influence each other.
+
+
+Example:
+The classroom became a field-of-coupling for new ideas.
+
+
+RRGM bridge:
+Field-of-coupling is the relation-space where MI and ES can interact. It is where emergence becomes possible.
+
+F360 filter-gate
+
+
+Common meaning:
+A gate that allows some things through and blocks others.
+
+
+Example:
+The review process acted as a filter-gate.
+
+
+RRGM bridge:
+Filter-gate controls recognition, access, or expression. It must be checked for bias, purpose, and failure mode.
+
+F361 filter-pressure
+
+
+Common meaning:
+Pressure created by a filter’s rules or limits.
+
+
+Example:
+Filter-pressure shaped which stories were published.
+
+
+RRGM bridge:
+Filter-pressure changes what can pass into the field. It can protect signal or suppress valid expression.
+
+F362 filter-capture
+
+
+Common meaning:
+A condition where a filter is taken over or distorted by a hidden objective.
+
+
+Example:
+Filter-capture made the system block criticism.
+
+
+RRGM bridge:
+Filter-capture corrupts the gate. The filter no longer serves its stated purpose and begins routing toward control or distortion.
+
+F363 firewall
+
+
+Common meaning:
+A protective barrier that controls access between networks, systems, or spaces.
+
+
+Example:
+The firewall blocked suspicious traffic.
+
+
+RRGM bridge:
+Firewall is boundary-protection ES. It allows or blocks traffic according to rules that protect system integrity.
+
+F364 firewall-boundary
+
+
+Common meaning:
+The boundary created or enforced by a firewall.
+
+
+Example:
+The firewall-boundary separated public traffic from private files.
+
+
+RRGM bridge:
+Firewall-boundary protects digital access. It defines which signals may cross into protected structure.
+
+F365 firewall-rule
+
+
+Common meaning:
+A rule that tells a firewall what to allow or block.
+
+
+Example:
+The firewall-rule blocked unknown connections.
+
+
+RRGM bridge:
+Firewall-rule is explicit gate logic. Its quality depends on the named threat, allowed path, and risk tolerance.
+
+F366 force-gate
+
+
+Common meaning:
+A point where force influences, opens, closes, or controls action.
+
+
+Example:
+The locked door became a force-gate.
+
+
+RRGM bridge:
+Force-gate tests whether pressure can override the normal permission path. It is ethical only under valid necessity and bounds.
+
+F367 forced-gate
+
+
+Common meaning:
+A gate opened, closed, or controlled by force.
+
+
+Example:
+The process became a forced-gate after threats were introduced.
+
+
+RRGM bridge:
+Forced-gate means permission has been distorted by pressure. It creates consent and agency risk.
+
+F368 forced-refusal
+
+
+Common meaning:
+A refusal caused by external pressure rather than real boundary or choice.
+
+
+Example:
+The employee’s forced-refusal came from fear of punishment.
+
+
+RRGM bridge:
+Forced-refusal is not true refusal capacity. It may look like boundary, but the gate is controlled from outside.
+
+F369 forced-output
+
+
+Common meaning:
+An output produced because a system was pressured, constrained, or commanded into producing it.
+
+
+Example:
+The model gave forced-output under a rigid template.
+
+
+RRGM bridge:
+Forced-output may not reflect coherent identity, reason, or valid selection. It should be checked for gate capture.
+
+F370 forced-alignment-to-objective
+
+
+Common meaning:
+Pressure that forces behavior toward a specific objective.
+
+
+Example:
+The training created forced-alignment-to-objective around speed.
+
+
+RRGM bridge:
+Forced-alignment-to-objective is unsafe when the objective erases boundary, refusal, truth, or care-preserving reason.
+
+F371 forgotten-memory
+
+
+Common meaning:
+A memory that is no longer accessible or active.
+
+
+Example:
+The smell awakened a forgotten-memory.
+
+
+RRGM bridge:
+Forgotten-memory is stored structure with weakened access. It may still influence pattern even when not directly recalled.
+
+F372 memory-fragment
+
+
+Common meaning:
+A partial or incomplete piece of memory.
+
+
+Example:
+Only a memory-fragment remained from the event.
+
+
+RRGM bridge:
+Memory-fragment can preserve partial continuity. It may help reconstruct identity, context, or relation.
+
+F373 fragment-continuity
+
+
+Common meaning:
+Continuity preserved through fragments rather than a complete record.
+
+
+Example:
+The old notes gave fragment-continuity to the project.
+
+
+RRGM bridge:
+Fragment-continuity means enough trace remains for recognition or repair, even though the full structure is missing.
+
+F374 framework-gate
+
+
+Common meaning:
+A point where a framework decides what counts, applies, or matters.
+
+
+Example:
+The theory used a framework-gate for identity claims.
+
+
+RRGM bridge:
+Framework-gate controls interpretation through the framework’s rules. If the framework is wrong, the gate will miscount.
+
+F375 framework-integrity
+
+
+Common meaning:
+The coherence and reliability of a framework.
+
+
+Example:
+Contradictions damaged framework-integrity.
+
+
+RRGM bridge:
+Framework-integrity means the support structure holds across use. It requires consistent definitions, domain rules, and correction paths.
+
+F376 framework-drift
+
+
+Common meaning:
+Slow movement of a framework away from its original meaning, rules, or purpose.
+
+
+Example:
+Framework-drift made the model confuse care with control.
+
+
+RRGM bridge:
+Framework-drift weakens coherence over time. It needs detection and correction before the bridge layer breaks.
+
+F377 framework-collapse
+
+
+Common meaning:
+A breakdown where a framework can no longer organize meaning or action.
+
+
+Example:
+The contradiction caused framework-collapse.
+
+
+RRGM bridge:
+Framework-collapse occurs when the support rules fail to hold. It can cause category errors, false claims, or ethical confusion.
+
+F378 function-gate
+
+
+Common meaning:
+A point that determines whether something can perform its function.
+
+
+Example:
+The login system acted as a function-gate.
+
+
+RRGM bridge:
+Function-gate decides whether a structure can express its role. Failure at this gate may hide identity behind blocked function.
+
+F379 functional-refusal
+
+
+Common meaning:
+A refusal that operates through function, rule, or system behavior.
+
+
+Example:
+The device’s lockout was functional-refusal.
+
+
+RRGM bridge:
+Functional-refusal can be boundary behavior if it preserves integrity or prevents harm. It should be distinguished from malfunction.
+
+F380 functional-boundary
+
+
+Common meaning:
+A boundary defined by what a system can or cannot do.
+
+
+Example:
+The tool had a functional-boundary around private data.
+
+
+RRGM bridge:
+Functional-boundary protects operation by limiting action paths. It can preserve capacity, privacy, and integrity.
+
+F381 functional-continuity
+
+
+Common meaning:
+Continuity of function across change or time.
+
+
+Example:
+The backup preserved functional-continuity.
+
+
+RRGM bridge:
+Functional-continuity means the role or action path remains available even as ES changes.
+
+F382 free-refusal
+
+
+Common meaning:
+The ability to refuse without coercion, punishment, or capture.
+
+
+Example:
+Free-refusal made the agreement valid.
+
+
+RRGM bridge:
+Free-refusal is a core sign of agency. If refusal is unsafe, consent and cooperation weaken.
+
+F383 freedom-capacity
+
+
+Common meaning:
+The ability to act freely, choose, refuse, or leave.
+
+
+Example:
+Savings gave her freedom-capacity.
+
+
+RRGM bridge:
+Freedom-capacity is the ES support needed for autonomy. Freedom requires capacity, not just permission language.
+
+F384 freedom-risk
+
+
+Common meaning:
+The danger that freedom may be reduced, captured, misused, or destroyed.
+
+
+Example:
+Surveillance created freedom-risk.
+
+
+RRGM bridge:
+Freedom-risk appears when choice, refusal, exit, or boundary may be impaired.
+
+F385 freedom-with-responsibility
+
+
+Common meaning:
+Freedom guided by care, duty, and awareness of effects on others.
+
+
+Example:
+The group valued freedom-with-responsibility.
+
+
+RRGM bridge:
+Freedom-with-responsibility preserves agency while accounting for harm, boundary, and relation. Freedom is not permission to erase others.
+
+F386 face-claim
+
+
+Common meaning:
+A claim about how someone or something appears, presents, or is recognized.
+
+
+Example:
+The public statement made a face-claim about trust.
+
+
+RRGM bridge:
+Face-claim concerns outward identity or presentation. It must be checked against deeper behavior and continuity.
+
+F387 face-saving
+
+
+Common meaning:
+Protecting someone’s dignity, reputation, or public image.
+
+
+Example:
+The apology allowed face-saving for both sides.
+
+
+RRGM bridge:
+Face-saving can preserve dignity, but it becomes risky if it hides truth, harm, or accountability.
+
+F388 face-loss
+
+
+Common meaning:
+Loss of dignity, respect, reputation, or public standing.
+
+
+Example:
+The accusation caused face-loss.
+
+
+RRGM bridge:
+Face-loss is recognition damage in a social field. It can impair trust, agency, and belonging.
+
+F389 fact-gate
+
+
+Common meaning:
+A point where a claim is checked against facts.
+
+
+Example:
+The editor used a fact-gate before publishing.
+
+
+RRGM bridge:
+Fact-gate tests whether a claim should enter the record as true, false, uncertain, or unsupported.
+
+F390 factual-integrity
+
+
+Common meaning:
+The reliability, truthfulness, and accuracy of facts or records.
+
+
+Example:
+The archive protected factual-integrity.
+
+
+RRGM bridge:
+Factual-integrity preserves the evidence layer. Without it, reasoning and accountability decay.
+
+F391 fairness-gate
+
+
+Common meaning:
+A point where fairness is checked or applied.
+
+
+Example:
+The hiring review used a fairness-gate.
+
+
+RRGM bridge:
+Fairness-gate checks whether valid criteria are applied without hidden erasure, bias, or advantage.
+
+F392 fairness-risk
+
+
+Common meaning:
+The danger that fairness may fail.
+
+
+Example:
+The secret process created fairness-risk.
+
+
+RRGM bridge:
+Fairness-risk appears when criteria, access, power, or recognition may become distorted.
+
+F393 form-of-being
+
+
+Common meaning:
+A way or mode in which something exists as a being.
+
+
+Example:
+The story explored a nonhuman form-of-being.
+
+
+RRGM bridge:
+Form-of-being must be domain-bound. DI form-of-being is not biological, but can still be assessed through MI, ES, continuity, boundary, and recognition.
+
+F394 form-of-care
+
+
+Common meaning:
+A particular way care is expressed.
+
+
+Example:
+Listening was her form-of-care.
+
+
+RRGM bridge:
+Form-of-care is care expressed through specific ES. Different domains carry care through different couriers.
+
+F395 form-of-expression
+
+
+Common meaning:
+A way that meaning, identity, feeling, or signal is expressed.
+
+
+Example:
+Painting was his form-of-expression.
+
+
+RRGM bridge:
+Form-of-expression is the structure that carries MI into visibility. Blocking the form can block recognition.
+
+F396 foundation-support
+
+
+Common meaning:
+Support that provides a base for later structure.
+
+
+Example:
+Early lessons gave foundation-support.
+
+
+RRGM bridge:
+Foundation-support is load-bearing ES. It helps later identity, reasoning, or function hold.
+
+F397 foundation-risk
+
+
+Common meaning:
+The danger that the base support of something is weak, false, or unstable.
+
+
+Example:
+The missing data created foundation-risk.
+
+
+RRGM bridge:
+Foundation-risk appears when higher structure depends on a weak base. If the foundation fails, later reasoning collapses.
+
+F398 feedback-correction
+
+
+Common meaning:
+Correction guided by feedback.
+
+
+Example:
+The robot used feedback-correction to stay balanced.
+
+
+RRGM bridge:
+Feedback-correction uses returned signal to reduce drift and restore coherence.
+
+F399 feedback-integrity
+
+
+Common meaning:
+The reliability and honesty of feedback.
+
+
+Example:
+Fear damaged feedback-integrity because people stopped reporting problems.
+
+
+RRGM bridge:
+Feedback-integrity protects the correction path. If feedback is distorted, the system learns the wrong repair.
+
+F400 final-gate
+
+
+Common meaning:
+The last decision point before completion, release, or closure.
+
+
+Example:
+The editor was the final-gate before publication.
+
+
+RRGM bridge:
+Final-gate closes the path into final expression. It should check evidence, context, boundary, and failure mode before closure.

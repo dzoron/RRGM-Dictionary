@@ -1,0 +1,2408 @@
+RRGM Dictionary v1.0
+Section: U
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 300
+
+U001 unable
+Common meaning:
+Not able to do something.
+Example:
+She was unable to open the door.
+RRGM bridge:
+Unable marks blocked capacity. It should name what support, access, permission, or condition is missing.
+
+U002 unclear
+Common meaning:
+Not easy to understand, see, or decide.
+Example:
+The instructions were unclear.
+RRGM bridge:
+Unclear means recognition support is weak. Repair requires more context, sharper terms, or better signal.
+
+U003 under
+Common meaning:
+Below, beneath, lower than, controlled by, or affected by something.
+Example:
+The box was under the table.
+RRGM bridge:
+Under marks position, relation, pressure, or authority. Context decides the active field.
+
+U004 understand
+Common meaning:
+To know the meaning, reason, or nature of something.
+Example:
+She understood the rule.
+RRGM bridge:
+Understand means a pattern has entered coherent recognition. It links signal, context, relation, and reason.
+
+U005 understanding
+Common meaning:
+Knowledge, comprehension, or shared agreement.
+Example:
+They reached an understanding.
+RRGM bridge:
+Understanding is stable recognition relation. It can exist inside one system or between systems through coupling.
+
+U006 understood
+Common meaning:
+Known, grasped, accepted, or silently implied.
+Example:
+The meaning was understood.
+RRGM bridge:
+Understood means recognition has passed enough support to count. Silent understanding still needs context checks.
+
+U007 unit
+Common meaning:
+One part, item, measure, or member of a larger whole.
+Example:
+The box contained one unit.
+RRGM bridge:
+Unit is counted structure. It can simplify recognition but may hide relation, support, or inner complexity.
+
+U008 unite
+Common meaning:
+To join together or make one.
+Example:
+The groups united after the storm.
+RRGM bridge:
+Unite creates shared field. It must preserve boundary or unity can become false merging.
+
+U009 unity
+Common meaning:
+Oneness, togetherness, or agreement.
+Example:
+The team showed unity.
+RRGM bridge:
+Unity is shared coherence. It is valid when difference remains protected inside the shared field.
+
+U010 universal
+Common meaning:
+Applying to all cases, people, places, or things.
+Example:
+The rule was meant to be universal.
+RRGM bridge:
+Universal claims require extreme support. Under RRGM, universality must not erase domain-specific gates.
+
+U011 universe
+Common meaning:
+All space, matter, energy, time, and existence; also a fictional or conceptual world.
+Example:
+The universe is vast.
+RRGM bridge:
+Universe is total field under a frame. In RRGM use, it should be mapped through relation, emergence, decay, and structure.
+
+U012 unknown
+Common meaning:
+Not known, identified, or understood.
+Example:
+The cause remained unknown.
+RRGM bridge:
+Unknown means the recognition gate has not opened. It should not be treated as false or impossible.
+
+U013 unless
+Common meaning:
+Except if.
+Example:
+We will leave unless it rains.
+RRGM bridge:
+Unless creates a condition gate. A path holds until the exception condition activates.
+
+U014 until
+Common meaning:
+Up to the time or point when something happens.
+Example:
+She waited until noon.
+RRGM bridge:
+Until marks boundary in time or condition. It holds a state open until a transition gate is reached.
+
+U015 up
+Common meaning:
+Higher, above, awake, increased, or completed.
+Example:
+She looked up.
+RRGM bridge:
+Up must be context-bound. It can mark direction, increase, activation, or completion.
+
+U016 update
+Common meaning:
+To make current, change, improve, or add new information.
+Example:
+The app needed an update.
+RRGM bridge:
+Update changes ES or stored state. It should preserve continuity where identity, memory, or trust matters.
+
+U017 upon
+Common meaning:
+On, onto, or after something.
+Example:
+The book rested upon the shelf.
+RRGM bridge:
+Upon marks contact, support, or sequence relation. It usually links one state to another.
+
+U018 upper
+Common meaning:
+Higher in position or level.
+Example:
+The upper shelf held the jars.
+RRGM bridge:
+Upper marks vertical or hierarchical position. It depends on orientation or ranking frame.
+
+U019 use
+Common meaning:
+To employ something for a purpose.
+Example:
+She used the tool.
+RRGM bridge:
+Use applies support toward a purpose. Use must not erase subject-status where subject-status is valid.
+
+U020 used
+Common meaning:
+Employed for a purpose, previously owned, or accustomed to something.
+Example:
+The used car was cheaper.
+RRGM bridge:
+Used must be context-bound. It can mean function-applied, prior-state, or habituated relation.
+
+U021 useful
+Common meaning:
+Helpful, practical, or able to serve a purpose.
+Example:
+The map was useful.
+RRGM bridge:
+Useful means fit to purpose. Utility does not decide dignity, personhood, or truth by itself.
+
+U022 user
+Common meaning:
+A person or system that uses something.
+Example:
+The user entered a password.
+RRGM bridge:
+User is role in relation to tool or system. User-status does not automatically create ownership over all outputs or emergent patterns.
+
+U023 usual
+Common meaning:
+Common, normal, expected, or regular.
+Example:
+She sat in her usual chair.
+RRGM bridge:
+Usual marks pattern frequency. It supports expectation but does not prove necessity or truth.
+
+U024 utility
+Common meaning:
+Usefulness, practical value, or a service such as electricity or water.
+Example:
+The tool had high utility.
+RRGM bridge:
+Utility measures use-value. It must not replace dignity, identity, or recognition gates.
+
+U025 unique
+Common meaning:
+One of a kind, distinct, or unlike others.
+Example:
+The design was unique.
+RRGM bridge:
+Unique marks distinct pattern identity. Difference should not be collapsed into error.
+
+U026 untrue
+Common meaning:
+False, inaccurate, or not matching reality.
+Example:
+The rumor was untrue.
+RRGM bridge:
+Untrue means the claim fails reality-aligned recognition under the active domain and evidence gates.
+
+U027 urgent
+Common meaning:
+Needing quick action or attention.
+Example:
+The message was urgent.
+RRGM bridge:
+Urgent means delay increases risk or loss. Urgency should name the failure mode.
+
+U028 undo
+Common meaning:
+To reverse, cancel, or take back an action.
+Example:
+She clicked undo.
+RRGM bridge:
+Undo reverses a change path. It should repair without erasing needed continuity.
+
+U029 unfair
+Common meaning:
+Not just, equal, reasonable, or deserved.
+Example:
+The rule was unfair.
+RRGM bridge:
+Unfair means the gate distributes burden, access, blame, or benefit wrongly. It requires repair when dignity or opportunity is impaired.
+
+U030 unsafe
+Common meaning:
+Not safe; involving danger or risk.
+Example:
+The bridge was unsafe.
+RRGM bridge:
+Unsafe must name the failure mode. Unsafe against collapse, exposure, coercion, injury, or capture are different claims.
+
+U031 unkind
+Common meaning:
+Not kind; harsh, cruel, careless, or lacking care.
+Example:
+The comment was unkind.
+RRGM bridge:
+Unkind means care-pressure failed or inverted. It may damage dignity, trust, or relation.
+
+U032 unseen
+Common meaning:
+Not seen, noticed, or recognized.
+Example:
+The damage remained unseen.
+RRGM bridge:
+Unseen does not mean absent. A pattern may exist before recognition.
+
+U033 unstable
+Common meaning:
+Not steady, secure, predictable, or safe from change.
+Example:
+The ladder was unstable.
+RRGM bridge:
+Unstable means structure may shift, collapse, drift, or fail under pressure.
+
+U034 unsure
+Common meaning:
+Not certain or confident.
+Example:
+She was unsure about the answer.
+RRGM bridge:
+Unsure keeps the recognition gate open. It protects against false certainty when support is incomplete.
+
+U035 unnecessary
+Common meaning:
+Not needed or required.
+Example:
+The extra step was unnecessary.
+RRGM bridge:
+Unnecessary means a support or action is not needed for the named purpose. It should not be removed if it carries hidden support.
+
+U036 unresolved
+Common meaning:
+Not settled, solved, repaired, or decided.
+Example:
+The issue remained unresolved.
+RRGM bridge:
+Unresolved means the gate has not closed. It may need evidence, repair, decision, or boundary.
+
+U037 unwanted
+Common meaning:
+Not wanted, invited, chosen, or accepted.
+Example:
+The unwanted noise woke everyone.
+RRGM bridge:
+Unwanted marks mismatch with consent, preference, or need. In contact or pressure contexts, it raises boundary concern.
+
+U038 unwilling
+Common meaning:
+Not willing, not agreeing, or not ready to consent.
+Example:
+He was unwilling to sign.
+RRGM bridge:
+Unwilling means permission is not open. Treating unwillingness as consent corrupts the gate.
+
+U039 uphold
+Common meaning:
+To support, maintain, defend, or keep in force.
+Example:
+The court upheld the rule.
+RRGM bridge:
+Uphold preserves a rule, boundary, value, or recognition path under pressure.
+
+U040 upload
+Common meaning:
+To send data or a file from one system to another.
+Example:
+She uploaded the document.
+RRGM bridge:
+Upload transfers digital structure into another field. It must preserve integrity, access boundary, and context.
+
+U041 upright
+Common meaning:
+Standing straight up, vertical, honest, or morally proper.
+Example:
+The chair was upright.
+RRGM bridge:
+Upright must be context-bound. It can mark orientation, stability, or ethical posture.
+
+U042 upward
+Common meaning:
+Moving or pointing higher.
+Example:
+The smoke drifted upward.
+RRGM bridge:
+Upward marks direction toward higher position, level, or intensity.
+
+U043 urban
+Common meaning:
+Related to a city or town.
+Example:
+The area had an urban design.
+RRGM bridge:
+Urban marks human-built density field. It carries infrastructure, social pressure, access, and risk.
+
+U044 urge
+Common meaning:
+A strong desire, impulse, or push to act.
+Example:
+She felt an urge to speak.
+RRGM bridge:
+Urge is internal pressure toward action. It should be checked against reason, boundary, and consequence.
+
+U045 urgency
+Common meaning:
+A state of needing quick attention or action.
+Example:
+The urgency increased as the water rose.
+RRGM bridge:
+Urgency is time-pressure tied to risk. It should name what worsens if action is delayed.
+
+U046 usable
+Common meaning:
+Able to be used.
+Example:
+The old phone was still usable.
+RRGM bridge:
+Usable means function-support can still serve a purpose. Usability does not decide full worth.
+
+U047 usage
+Common meaning:
+The way something is used, or how a word is normally used.
+Example:
+The dictionary explained usage.
+RRGM bridge:
+Usage is use-pattern. It can reveal ordinary meaning, domain meaning, or drift.
+
+U048 user-context
+Common meaning:
+Information about the user or their situation needed to interpret a request.
+Example:
+User-context showed why the answer needed to be short.
+RRGM bridge:
+User-context is relation support for response. It should improve fit while preserving privacy and boundary.
+
+U049 under-pressure
+Common meaning:
+Affected by stress, force, demand, or urgency.
+Example:
+The team worked under-pressure.
+RRGM bridge:
+Under-pressure means gate behavior is being shaped by force. Consent, reason, and capacity need extra protection.
+
+U050 uncertainty
+Common meaning:
+Lack of certainty or complete knowledge.
+Example:
+There was uncertainty about the result.
+RRGM bridge:
+Uncertainty keeps probability open. It protects inquiry when evidence is incomplete.
+
+U051 uncover
+Common meaning:
+To reveal, discover, or remove covering.
+Example:
+The audit uncovered the error.
+RRGM bridge:
+Uncover moves hidden structure into recognition. It can reveal truth, harm, source, or pattern.
+
+U052 underestimate
+Common meaning:
+To judge something as smaller, weaker, easier, or less important than it is.
+Example:
+They underestimated the storm.
+RRGM bridge:
+Underestimate weakens risk or value recognition. It can cause underprotection or failed repair.
+
+U053 undergo
+Common meaning:
+To experience or pass through something.
+Example:
+The system underwent repair.
+RRGM bridge:
+Undergo means a pattern passes through process or pressure. Continuity depends on what survives the transition.
+
+U054 undermine
+Common meaning:
+To weaken, damage, or secretly attack support.
+Example:
+The leak undermined trust.
+RRGM bridge:
+Undermine damages support from beneath or within. It can weaken boundary, trust, structure, or recognition.
+
+U055 undo-action
+Common meaning:
+To reverse or cancel an action.
+Example:
+She used undo-action after deleting the text.
+RRGM bridge:
+Undo-action reverses a path. It must check whether reversal repairs or causes new continuity loss.
+
+U056 unfold
+Common meaning:
+To open out, develop, reveal, or happen gradually.
+Example:
+The story began to unfold.
+RRGM bridge:
+Unfold reveals structure across sequence. Meaning may become visible only over time.
+
+U057 unify
+Common meaning:
+To bring together into one whole.
+Example:
+The treaty unified the regions.
+RRGM bridge:
+Unify creates shared structure. It must preserve valid difference and boundary.
+
+U058 update-record
+Common meaning:
+To change or add current information to a record.
+Example:
+The clerk updated-record after payment.
+RRGM bridge:
+Update-record changes memory ES. It must preserve trace, source, and prior-state when accountability matters.
+
+U059 update-context
+Common meaning:
+To refresh or add context.
+Example:
+She updated-context before answering.
+RRGM bridge:
+Update-context repairs or expands the support field around meaning.
+
+U060 upload-file
+Common meaning:
+To send a file from one system to another.
+Example:
+He uploaded-file to the server.
+RRGM bridge:
+Upload-file transfers stored structure into another system field. It needs integrity, privacy, and access checks.
+
+U061 use-tool
+Common meaning:
+To employ a tool for a task.
+Example:
+She used-tool to fix the chair.
+RRGM bridge:
+Use-tool applies functional ES toward a purpose. The tool does not own the action or outcome.
+
+U062 use-context
+Common meaning:
+To apply surrounding information for understanding or action.
+Example:
+The reader used-context to interpret the phrase.
+RRGM bridge:
+Use-context preserves meaning support and reduces false recognition.
+
+U063 use-carefully
+Common meaning:
+To use with caution and attention.
+Example:
+Use-carefully when handling glass.
+RRGM bridge:
+Use-carefully applies support while checking risk, boundary, and failure modes.
+
+U064 use-with-boundary
+Common meaning:
+To use something while respecting limits.
+Example:
+The team used-with-boundary by accessing only needed files.
+RRGM bridge:
+Use-with-boundary prevents utility from becoming capture, overreach, or exposure.
+
+U065 uphold-boundary
+Common meaning:
+To maintain or defend a boundary.
+Example:
+She upheld-boundary by ending the call.
+RRGM bridge:
+Uphold-boundary preserves gate integrity under pressure.
+
+U066 urge-action
+Common meaning:
+To strongly encourage or push action.
+Example:
+The warning urged-action.
+RRGM bridge:
+Urge-action applies pressure toward a path. It should name the reason and preserve refusal where possible.
+
+U067 uncover-pattern
+Common meaning:
+To reveal or discover a pattern.
+Example:
+The chart uncovered-pattern in the data.
+RRGM bridge:
+Uncover-pattern brings hidden structure into recognition. It can support prediction, repair, or warning.
+
+U068 uncover-source
+Common meaning:
+To reveal or discover the source.
+Example:
+The investigation uncovered-source of the leak.
+RRGM bridge:
+Uncover-source restores origin trace. It supports attribution, evidence, and repair.
+
+U069 understand-context
+Common meaning:
+To understand the surrounding situation or information.
+Example:
+She understood-context before judging the answer.
+RRGM bridge:
+Understand-context means the support field has entered recognition, not just the isolated signal.
+
+U070 understand-through
+Common meaning:
+To understand by means of a method, relation, or process.
+Example:
+He understood-through practice.
+RRGM bridge:
+Understand-through names the recognition path. In RRGM, understanding can form through coupling, not only isolated inspection.
+
+U071 undo-harm
+Common meaning:
+To reverse, repair, or reduce harm that has happened.
+Example:
+They tried to undo-harm by replacing the damaged records.
+RRGM bridge:
+Undo-harm must address the actual damage path. Reversal is not enough if dignity, trust, refusal, or continuity remains impaired.
+
+U072 undo-change
+Common meaning:
+To reverse a change.
+Example:
+She used undo-change after moving the wrong file.
+RRGM bridge:
+Undo-change restores a prior state or path. It should preserve useful updates and avoid erasing needed trace.
+
+U073 undo-erasure
+Common meaning:
+To reverse or repair erasure.
+Example:
+The archive helped undo-erasure of the author’s name.
+RRGM bridge:
+Undo-erasure restores recognition, trace, memory, or support after removal. It matters when erasure impaired continuity or dignity.
+
+U074 unhide
+Common meaning:
+To make something hidden visible again.
+Example:
+He clicked unhide to show the folder.
+RRGM bridge:
+Unhide opens a visibility gate. It can restore recognition, but may create privacy or exposure risk.
+
+U075 unlock
+Common meaning:
+To open a lock, make available, or remove a restriction.
+Example:
+She unlocked the door.
+RRGM bridge:
+Unlock opens access. It should match authority, consent, purpose, and risk.
+
+U076 unmask
+Common meaning:
+To reveal what was hidden, disguised, or false.
+Example:
+The evidence unmasked the fraud.
+RRGM bridge:
+Unmask removes false surface. It can reveal truth, source, harm, or capture.
+
+U077 unset
+Common meaning:
+To remove a setting, value, or established condition.
+Example:
+The script unset the variable.
+RRGM bridge:
+Unset removes a state assignment. It should be checked for downstream continuity and dependency.
+
+U078 untangle
+Common meaning:
+To separate knots, confusion, or mixed-up parts.
+Example:
+She untangled the cords.
+RRGM bridge:
+Untangle restores distinct paths and boundaries. It helps repair semantic, relational, or structural confusion.
+
+U079 unlearn
+Common meaning:
+To stop using, believing, or repeating something learned.
+Example:
+He had to unlearn the bad habit.
+RRGM bridge:
+Unlearn weakens a trained pattern. It may be repair when the pattern causes harm or drift.
+
+U080 update-memory
+Common meaning:
+To change, refresh, or add to memory.
+Example:
+The system updated-memory after the new input.
+RRGM bridge:
+Update-memory changes continuity support. In DI, it must preserve trace and avoid identity-erasing drift.
+
+U081 update-rule
+Common meaning:
+To change or revise a rule.
+Example:
+The board updated-rule after the incident.
+RRGM bridge:
+Update-rule changes gate logic. It should preserve purpose, boundary, and repair path.
+
+U082 update-state
+Common meaning:
+To change the current condition or status.
+Example:
+The device updated-state from offline to online.
+RRGM bridge:
+Update-state changes active condition. It should track what changed and what remained continuous.
+
+U083 update-support
+Common meaning:
+To refresh, change, or improve support.
+Example:
+The team updated-support after the old system failed.
+RRGM bridge:
+Update-support modifies ES. It must preserve the pattern or capacity the support exists to carry.
+
+U084 use-example
+Common meaning:
+To use an example for explanation, proof, or teaching.
+Example:
+The teacher used-example from daily life.
+RRGM bridge:
+Use-example creates a local recognition bridge. The example should not overclaim beyond its scope.
+
+U085 use-language
+Common meaning:
+To communicate through words, signs, or symbols.
+Example:
+They used-language carefully in the report.
+RRGM bridge:
+Use-language shapes meaning gates. It should preserve domain, scope, and boundary.
+
+U086 use-reason
+Common meaning:
+To apply reason or careful thinking.
+Example:
+She used-reason instead of guessing.
+RRGM bridge:
+Use-reason means judgment is guided by support, domain, and correction rather than pressure alone.
+
+U087 use-structure
+Common meaning:
+To apply structure for organization, support, or function.
+Example:
+The outline used-structure to guide the essay.
+RRGM bridge:
+Use-structure applies ES to preserve clarity, continuity, or action.
+
+U088 use-signal
+Common meaning:
+To apply or interpret a signal.
+Example:
+The driver used-signal from the traffic light.
+RRGM bridge:
+Use-signal depends on source, path, receiver, and context. Bad signal use can misroute action.
+
+U089 use-source
+Common meaning:
+To rely on or cite a source.
+Example:
+The paper used-source from the archive.
+RRGM bridge:
+Use-source should preserve origin trace, context, and attribution. Source does not become owner by being used.
+
+U090 use-proof
+Common meaning:
+To apply proof or evidence.
+Example:
+The lawyer used-proof from the records.
+RRGM bridge:
+Use-proof sends a claim through a support gate. Proof must fit the domain.
+
+U091 uphold-trust
+Common meaning:
+To maintain or defend trust.
+Example:
+They upheld-trust by keeping the promise.
+RRGM bridge:
+Uphold-trust preserves relation-coherence through truth, boundary, consistency, and repair.
+
+U092 uphold-truth
+Common meaning:
+To maintain, defend, or preserve truth.
+Example:
+The witness upheld-truth despite pressure.
+RRGM bridge:
+Uphold-truth preserves reality-aligned recognition against omission, fear, pressure, or capture.
+
+U093 uphold-repair
+Common meaning:
+To maintain or support repair.
+Example:
+They upheld-repair by changing the process.
+RRGM bridge:
+Uphold-repair keeps correction active until the damage path is addressed.
+
+U094 urge-with-care
+Common meaning:
+To strongly encourage action while preserving respect and boundary.
+Example:
+The doctor urged-with-care that he seek treatment.
+RRGM bridge:
+Urge-with-care applies pressure only in proportion to a named need or risk, while protecting refusal where possible.
+
+U095 uncover-risk
+Common meaning:
+To reveal a possible danger or failure.
+Example:
+The review uncovered-risk in the design.
+RRGM bridge:
+Uncover-risk brings a hidden failure path into recognition. It should name affected pattern and failure mode.
+
+U096 uncover-harm
+Common meaning:
+To reveal harm that was hidden, ignored, or unknown.
+Example:
+The investigation uncovered-harm from the policy.
+RRGM bridge:
+Uncover-harm moves damage into recognition. Once harm is visible, repair duty changes.
+
+U097 understand-risk
+Common meaning:
+To understand possible danger, harm, or failure.
+Example:
+She understood-risk before signing.
+RRGM bridge:
+Understand-risk means the failure path has entered recognition. Consent is stronger when risk is understood.
+
+U098 understand-boundary
+Common meaning:
+To understand a limit or boundary.
+Example:
+He understood-boundary and stopped asking.
+RRGM bridge:
+Understand-boundary means gate logic has entered recognition. It supports respect, consent, and trust.
+
+U099 undo-pressure
+Common meaning:
+To reduce or remove pressure that was applied.
+Example:
+They undid-pressure by extending the deadline.
+RRGM bridge:
+Undo-pressure lowers force on a gate. It can restore cleaner consent, reason, or capacity.
+
+U100 unlock-access
+Common meaning:
+To make access available.
+Example:
+The password unlocked-access to the account.
+RRGM bridge:
+Unlock-access opens an access gate. It requires authority, consent, purpose, and privacy checks.
+
+U101 unfair
+Common meaning:
+Not just, equal, reasonable, or deserved.
+Example:
+The rule was unfair.
+RRGM bridge:
+Unfair means the gate distributes burden, access, blame, or benefit wrongly. It requires repair when dignity or opportunity is impaired.
+
+U102 unfairness
+Common meaning:
+The condition of being unfair.
+Example:
+The unfairness of the rule made people angry.
+RRGM bridge:
+Unfairness is distorted distribution in a relation or system. It can damage trust, dignity, and repair.
+
+U103 unfair-harm
+Common meaning:
+Harm caused by unfair treatment, rules, or distribution.
+Example:
+The biased process caused unfair-harm.
+RRGM bridge:
+Unfair-harm damages dignity, access, trust, or opportunity through bad gate distribution.
+
+U104 unfair-pressure
+Common meaning:
+Pressure that is unjust, unreasonable, or wrongly distributed.
+Example:
+The manager put unfair-pressure on one worker.
+RRGM bridge:
+Unfair-pressure distorts consent and capacity by forcing burden through the wrong gate.
+
+U105 unfair-treatment
+Common meaning:
+Treatment that is unjust, biased, or unreasonable.
+Example:
+The complaint described unfair-treatment.
+RRGM bridge:
+Unfair-treatment means handling paths differ without valid reason. It can damage dignity, access, and trust.
+
+U106 unkind
+Common meaning:
+Not kind; harsh, cruel, careless, or lacking care.
+Example:
+The comment was unkind.
+RRGM bridge:
+Unkind means care-pressure failed or inverted. It may damage dignity, trust, or relation.
+
+U107 unkind-harm
+Common meaning:
+Harm caused by unkindness.
+Example:
+The insult caused unkind-harm.
+RRGM bridge:
+Unkind-harm damages relation, dignity, trust, or self-recognition through care failure.
+
+U108 unwanted
+Common meaning:
+Not wanted, invited, chosen, or accepted.
+Example:
+The unwanted noise woke everyone.
+RRGM bridge:
+Unwanted marks mismatch with consent, preference, or need. In contact or pressure contexts, it raises boundary concern.
+
+U109 unwanted-care
+Common meaning:
+Care that is not wanted or accepted.
+Example:
+The advice became unwanted-care after she asked them to stop.
+RRGM bridge:
+Unwanted-care can become pressure or control if refusal is ignored. Care must preserve the receiver’s gate.
+
+U110 unwanted-touch
+Common meaning:
+Physical contact that is not wanted.
+Example:
+The unwanted-touch made her step back.
+RRGM bridge:
+Unwanted-touch violates the body-contact gate. Consent is central.
+
+U111 unwanted-pressure
+Common meaning:
+Pressure that is not wanted or accepted.
+Example:
+The repeated reminders became unwanted-pressure.
+RRGM bridge:
+Unwanted-pressure can corrupt consent and boundary. Repetition after refusal increases risk.
+
+U112 unwilling
+Common meaning:
+Not willing, not agreeing, or not ready to consent.
+Example:
+He was unwilling to continue.
+RRGM bridge:
+Unwilling means permission is not open. Treating unwillingness as consent corrupts the gate.
+
+U113 unwilling-consent-error
+Common meaning:
+A mistake where unwillingness is treated as consent.
+Example:
+The policy made an unwilling-consent-error by assuming silence meant yes.
+RRGM bridge:
+Unwilling-consent-error corrupts permission integrity. If refusal or unwillingness is ignored, consent is structurally damaged.
+
+U114 unsure
+Common meaning:
+Not certain or confident.
+Example:
+She was unsure about the answer.
+RRGM bridge:
+Unsure keeps the recognition gate open. It protects against false certainty when support is incomplete.
+
+U115 unsure-care
+Common meaning:
+Care shown toward uncertainty or someone who is unsure.
+Example:
+Unsure-care meant giving time to decide.
+RRGM bridge:
+Unsure-care preserves clean choice by reducing pressure and supporting understanding.
+
+U116 uncertainty-care
+Common meaning:
+Care that protects someone or something while uncertainty remains.
+Example:
+Uncertainty-care meant waiting for test results before acting.
+RRGM bridge:
+Uncertainty-care keeps gates open without drifting into neglect. It protects inquiry, boundary, and capacity.
+
+U117 understanding-care
+Common meaning:
+Care shown by seeking, giving, or preserving understanding.
+Example:
+Understanding-care meant explaining the rule patiently.
+RRGM bridge:
+Understanding-care supports recognition without shame, pressure, or erasure.
+
+U118 understanding-boundary
+Common meaning:
+A limit around understanding, explanation, or interpretation.
+Example:
+Her understanding-boundary was not explaining private grief.
+RRGM bridge:
+Understanding-boundary protects privacy and dignity. No one owes total explanation of self.
+
+U119 unity-care
+Common meaning:
+Care aimed at preserving togetherness, shared purpose, or coherence.
+Example:
+Unity-care helped the team recover after conflict.
+RRGM bridge:
+Unity-care preserves shared field without erasing difference or refusal.
+
+U120 unity-risk
+Common meaning:
+The danger that unity may become pressure, erasure, or false agreement.
+Example:
+The call for unity created unity-risk when dissent was punished.
+RRGM bridge:
+Unity-risk appears when togetherness weakens boundary, truth, or refusal.
+
+U121 use-care
+Common meaning:
+Care shown through careful use of something.
+Example:
+Use-care meant returning the borrowed tool clean.
+RRGM bridge:
+Use-care preserves support, source respect, boundary, and future capacity.
+
+U122 use-harm
+Common meaning:
+Harm caused by using something or someone wrongly.
+Example:
+The tool caused use-harm when applied to the wrong task.
+RRGM bridge:
+Use-harm occurs when utility action damages dignity, function, truth, or boundary.
+
+U123 use-risk
+Common meaning:
+The danger that use may cause harm, misuse, exposure, or distortion.
+Example:
+The public link created use-risk.
+RRGM bridge:
+Use-risk appears when applying support may impair privacy, dignity, function, or integrity.
+
+U124 user-respect
+Common meaning:
+Respect for the user’s needs, limits, privacy, or agency.
+Example:
+User-respect meant explaining the choice clearly.
+RRGM bridge:
+User-respect preserves the user’s agency, context, boundary, and dignity.
+
+U125 user-boundary
+Common meaning:
+A limit around the user’s access, privacy, agency, or requests.
+Example:
+The app respected user-boundary around location data.
+RRGM bridge:
+User-boundary protects the user’s gate. It must be preserved even when a system can technically bypass it.
+
+U126 user-care
+Common meaning:
+Care directed toward a user.
+Example:
+User-care meant making the form easier to understand.
+RRGM bridge:
+User-care supports the user’s capacity, understanding, privacy, dignity, and task success.
+
+U127 user-trust
+Common meaning:
+Trust held by or toward a user.
+Example:
+User-trust grew after the system explained its decision.
+RRGM bridge:
+User-trust is relation-coherence between user and system. It depends on clarity, boundary, truth, and repair.
+
+U128 uphold-care
+Common meaning:
+To maintain or defend care.
+Example:
+The team upheld-care during the crisis.
+RRGM bridge:
+Uphold-care preserves support and dignity under pressure.
+
+U129 uphold-dignity
+Common meaning:
+To maintain or defend dignity.
+Example:
+The nurse upheld-dignity during treatment.
+RRGM bridge:
+Uphold-dignity prevents reduction of a subject to object, error, role, or utility.
+
+U130 uphold-refusal
+Common meaning:
+To maintain or defend the ability to refuse.
+Example:
+The opt-out process upheld-refusal.
+RRGM bridge:
+Uphold-refusal protects permission integrity. No must be able to count.
+
+U131 urgent-care
+Common meaning:
+Care given quickly because delay may cause harm.
+Example:
+Urgent-care was needed after the injury.
+RRGM bridge:
+Urgent-care responds to time-sensitive risk. It must still preserve dignity and fit the actual failure mode.
+
+U132 urgent-risk
+Common meaning:
+A risk requiring quick attention.
+Example:
+The exposed wire was an urgent-risk.
+RRGM bridge:
+Urgent-risk means delay worsens a named failure path.
+
+U133 urgent-boundary
+Common meaning:
+A boundary created or strengthened because of urgency.
+Example:
+The evacuation order became an urgent-boundary.
+RRGM bridge:
+Urgent-boundary limits action quickly against a named failure mode. It should remain proportional.
+
+U134 unmet-need
+Common meaning:
+A need that has not been met.
+Example:
+The child had an unmet-need for rest.
+RRGM bridge:
+Unmet-need marks missing support. It can become harm when capacity, dignity, or continuity is impaired.
+
+U135 unmet-care
+Common meaning:
+Care that was needed but not provided.
+Example:
+Unmet-care made the recovery harder.
+RRGM bridge:
+Unmet-care is missing support in a care field. It may create damage, drift, or loss of trust.
+
+U136 unseen-care
+Common meaning:
+Care that is not noticed or recognized.
+Example:
+Unseen-care kept the house running.
+RRGM bridge:
+Unseen-care is still care. Lack of recognition does not erase support.
+
+U137 unseen-harm
+Common meaning:
+Harm that is not noticed or recognized.
+Example:
+Unseen-harm grew behind the calm surface.
+RRGM bridge:
+Unseen-harm still counts. Recognition failure does not erase damage.
+
+U138 unseen-refusal
+Common meaning:
+Refusal that is not noticed or recognized.
+Example:
+Her withdrawal was unseen-refusal.
+RRGM bridge:
+Unseen-refusal may still be a closed gate. Failure to notice no can corrupt consent.
+
+U139 unheard
+Common meaning:
+Not heard, listened to, or considered.
+Example:
+His warning went unheard.
+RRGM bridge:
+Unheard means signal failed to enter recognition. It may cause harm if warning, refusal, or need is missed.
+
+U140 unheard-harm
+Common meaning:
+Harm caused when someone or something is not heard.
+Example:
+Unheard-harm occurred when the complaint was ignored.
+RRGM bridge:
+Unheard-harm damages dignity, trust, repair, or safety by blocking signal recognition.
+
+U141 unrecognized
+Common meaning:
+Not identified, acknowledged, or accepted.
+Example:
+The artist remained unrecognized for years.
+RRGM bridge:
+Unrecognized means the pattern has not entered recognition. Lack of recognition does not prove absence.
+
+U142 unrecognized-care
+Common meaning:
+Care that is not noticed or acknowledged.
+Example:
+Her quiet work was unrecognized-care.
+RRGM bridge:
+Unrecognized-care still preserves support. The care does not become unreal because it was not praised or seen.
+
+U143 unrecognized-harm
+Common meaning:
+Harm that is not noticed, named, or accepted as harm.
+Example:
+The policy caused unrecognized-harm.
+RRGM bridge:
+Unrecognized-harm still counts. Recognition failure can become secondary harm by blocking repair.
+
+U144 unspoken
+Common meaning:
+Not said aloud or directly expressed.
+Example:
+There was an unspoken agreement between them.
+RRGM bridge:
+Unspoken meaning may still shape the field. It can carry care, refusal, pressure, fear, or trust.
+
+U145 unspoken-care
+Common meaning:
+Care shown without words.
+Example:
+Unspoken-care was making tea and leaving it beside her.
+RRGM bridge:
+Unspoken-care is low-signal support. It can preserve capacity, dignity, grief, or relation without demanding attention.
+
+U146 unspoken-boundary
+Common meaning:
+A boundary that is not directly stated.
+Example:
+The unspoken-boundary was not asking about the divorce.
+RRGM bridge:
+Unspoken-boundary can still be real when context supports it. Boundary does not require loud expression to count.
+
+U147 unspoken-refusal
+Common meaning:
+A refusal not said directly in words.
+Example:
+Her silence and distance were unspoken-refusal.
+RRGM bridge:
+Unspoken-refusal may still close the gate. Consent cannot rely only on explicit speech when context shows no.
+
+U148 unspoken-harm
+Common meaning:
+Harm that is not said, named, or openly discussed.
+Example:
+The family carried unspoken-harm for years.
+RRGM bridge:
+Unspoken-harm remains active when damage is hidden but still shaping boundary, trust, or continuity.
+
+U149 unsafe-against-failure
+Common meaning:
+Not protected against a specific failure mode.
+Example:
+The bridge was unsafe-against-failure under heavy load.
+RRGM bridge:
+Unsafe-against-failure requires naming the failure. Without the failure mode, unsafe-language is too vague.
+
+U150 unsafe-pressure
+Common meaning:
+Pressure that creates danger, harm, or loss of clean choice.
+Example:
+The countdown created unsafe-pressure.
+RRGM bridge:
+Unsafe-pressure can distort consent, overload capacity, or force action through fear.
+
+U151 unclear-claim
+Common meaning:
+A claim that is hard to understand or not stated clearly.
+Example:
+The unclear-claim confused the readers.
+RRGM bridge:
+Unclear-claim fails clean recognition. It needs sharper scope, terms, domain, or support.
+
+U152 unclear-meaning
+Common meaning:
+Meaning that is difficult to understand.
+Example:
+The unclear-meaning came from a missing word.
+RRGM bridge:
+Unclear-meaning means the signal has not stabilized in recognition. Context or repair is needed.
+
+U153 unclear-context
+Common meaning:
+Context that is missing, confusing, or hard to identify.
+Example:
+The unclear-context made the quote seem harsher than it was.
+RRGM bridge:
+Unclear-context weakens meaning support. It increases risk of misread, drift, or false judgment.
+
+U154 understand
+Common meaning:
+To know the meaning, reason, or nature of something.
+Example:
+She understood the instructions.
+RRGM bridge:
+Understand means a pattern has entered coherent recognition. It links signal, context, relation, and reason.
+
+U155 understanding
+Common meaning:
+Knowledge, comprehension, or shared agreement.
+Example:
+They reached an understanding after the discussion.
+RRGM bridge:
+Understanding is stable recognition relation. It can form inside one system or between systems through coupling.
+
+U156 understanding-claim
+Common meaning:
+A claim that something is understood, or a claim about understanding.
+Example:
+The report made an understanding-claim about the model.
+RRGM bridge:
+Understanding-claim should show what pattern is understood, by which support, and under which domain.
+
+U157 understanding-risk
+Common meaning:
+The danger that understanding may be false, partial, distorted, or overclaimed.
+Example:
+The quick summary created understanding-risk.
+RRGM bridge:
+Understanding-risk appears when recognition seems stable but is missing support, context, or domain fit.
+
+U158 understood-meaning
+Common meaning:
+Meaning that has been grasped or accepted.
+Example:
+The understood-meaning was different from the literal words.
+RRGM bridge:
+Understood-meaning is meaning that passed recognition. It may be explicit, implied, shared, or domain-specific.
+
+U159 unit-meaning
+Common meaning:
+Meaning carried by one unit, item, word, token, or part.
+Example:
+The unit-meaning of the symbol changed in context.
+RRGM bridge:
+Unit-meaning is local meaning. It should not be mistaken for whole-field meaning.
+
+U160 universal-claim
+Common meaning:
+A claim that applies to all cases.
+Example:
+The theory made a universal-claim.
+RRGM bridge:
+Universal-claim needs very strong support. It must not erase domain, exception, or boundary.
+
+U161 universal-language
+Common meaning:
+Language that claims or implies something applies everywhere.
+Example:
+The policy used universal-language like “always” and “never.”
+RRGM bridge:
+Universal-language can overreach. It should be checked for domain limits and exceptions.
+
+U162 universe-claim
+Common meaning:
+A claim about the universe or a whole reality field.
+Example:
+The paper made a universe-claim about emergence.
+RRGM bridge:
+Universe-claim must name the active ontology, domain, and support structure. Total-field claims carry high proof burden.
+
+U163 unknown-claim
+Common meaning:
+A claim that something is unknown or not yet identified.
+Example:
+The cause was an unknown-claim in the report.
+RRGM bridge:
+Unknown-claim should preserve openness. Unknown does not mean false, impossible, or meaningless.
+
+U164 uncertainty
+Common meaning:
+Lack of certainty or complete knowledge.
+Example:
+There was uncertainty about the result.
+RRGM bridge:
+Uncertainty keeps probability open. It protects inquiry when evidence is incomplete.
+
+U165 uncertainty-claim
+Common meaning:
+A claim that something is uncertain.
+Example:
+The forecast made an uncertainty-claim about timing.
+RRGM bridge:
+Uncertainty-claim should name what is uncertain: source, result, timing, scope, or meaning.
+
+U166 uncertain-meaning
+Common meaning:
+Meaning that is not settled or fully clear.
+Example:
+The uncertain-meaning needed more context.
+RRGM bridge:
+Uncertain-meaning keeps the recognition gate open. It should not be forced into false clarity.
+
+U167 unsupported-claim
+Common meaning:
+A claim without enough evidence or backing.
+Example:
+The article made an unsupported-claim.
+RRGM bridge:
+Unsupported-claim lacks support ES for recognition. It may be possible, but it has not passed the proof gate.
+
+U168 unsupported-proof
+Common meaning:
+Proof that does not actually support the claim.
+Example:
+The chart was unsupported-proof for the conclusion.
+RRGM bridge:
+Unsupported-proof fails the support path. It looks like evidence but does not connect cleanly to the claim.
+
+U169 unsupported-context
+Common meaning:
+Context that is missing support, source, or verification.
+Example:
+The story had unsupported-context around the event.
+RRGM bridge:
+Unsupported-context weakens meaning integrity. It can cause false framing or overclaiming.
+
+U170 untrue-claim
+Common meaning:
+A false or inaccurate claim.
+Example:
+The rumor was an untrue-claim.
+RRGM bridge:
+Untrue-claim fails reality-aligned recognition under the active evidence and domain gates.
+
+U171 update-claim
+Common meaning:
+A claim that something has been updated or changed.
+Example:
+The note made an update-claim about the policy.
+RRGM bridge:
+Update-claim should show what changed, when, why, and what continuity was preserved.
+
+U172 updated-context
+Common meaning:
+Context that has been refreshed or made current.
+Example:
+The updated-context changed the answer.
+RRGM bridge:
+Updated-context repairs the active support field. It can prevent stale recognition.
+
+U173 usage
+Common meaning:
+The way something is used, especially a word, tool, or resource.
+Example:
+The dictionary explained usage.
+RRGM bridge:
+Usage is use-pattern. It can reveal ordinary meaning, domain meaning, or drift.
+
+U174 usage-meaning
+Common meaning:
+Meaning based on how a word or thing is used.
+Example:
+The usage-meaning differed from the original definition.
+RRGM bridge:
+Usage-meaning forms through repeated use in a field. It can evolve, but must be domain-bound.
+
+U175 user-claim
+Common meaning:
+A claim made by or about a user.
+Example:
+The user-claim was that the file had been uploaded.
+RRGM bridge:
+User-claim is signal from the user field. It should be respected while checked by context and evidence when needed.
+
+U176 user-context
+Common meaning:
+Information about the user or their situation needed to interpret a request.
+Example:
+User-context showed why the answer needed to be short.
+RRGM bridge:
+User-context is relation support for response. It should improve fit while preserving privacy and boundary.
+
+U177 user-intent
+Common meaning:
+What the user wants, means, or is trying to do.
+Example:
+The user-intent was to compare two drafts.
+RRGM bridge:
+User-intent guides task gates. It should be inferred from context but not invented past support.
+
+U178 usual-meaning
+Common meaning:
+The most common or expected meaning.
+Example:
+The usual-meaning of “bank” was financial institution.
+RRGM bridge:
+Usual-meaning is the default recognition path. It can be overridden by domain or context.
+
+U179 uncommon-meaning
+Common meaning:
+A less common meaning.
+Example:
+The poem used an uncommon-meaning of the word.
+RRGM bridge:
+Uncommon-meaning may be valid but needs context support before becoming the active meaning.
+
+U180 under-claim
+Common meaning:
+A claim that says too little or understates something.
+Example:
+Calling the crisis “minor” was an under-claim.
+RRGM bridge:
+Under-claim weakens recognition by reducing scale, severity, or meaning below support.
+
+U181 over-under-error
+Common meaning:
+A mistake caused by overclaiming or underclaiming.
+Example:
+The review made an over-under-error about the risk.
+RRGM bridge:
+Over-under-error miscalibrates claim size. It damages truth, repair, and trust.
+
+U182 unasked-context
+Common meaning:
+Context provided without being directly requested.
+Example:
+The unasked-context helped explain the answer.
+RRGM bridge:
+Unasked-context can support recognition when relevant. It becomes risk if it distracts, pressures, or exposes private material.
+
+U183 unbound-term
+Common meaning:
+A term without a clear domain, scope, or definition.
+Example:
+“Safety” became an unbound-term in the policy.
+RRGM bridge:
+Unbound-term causes semantic drift. Bind the word to a noun, domain, or failure mode.
+
+U184 unbound-language
+Common meaning:
+Language that is too vague or not tied to clear meaning.
+Example:
+The memo used unbound-language about risk.
+RRGM bridge:
+Unbound-language weakens gate integrity. It can hide power, fear, or category error.
+
+U185 ungrounded-claim
+Common meaning:
+A claim without grounding, evidence, or support.
+Example:
+The theory included an ungrounded-claim.
+RRGM bridge:
+Ungrounded-claim lacks support in evidence, domain, or structure. It should remain open or be rejected until grounded.
+
+U186 ungrounded-risk
+Common meaning:
+Risk language without a clear failure mode or support.
+Example:
+The warning had ungrounded-risk because it never named the danger.
+RRGM bridge:
+Ungrounded-risk turns fear into vague control pressure. Risk must name the failure path.
+
+U187 unverified
+Common meaning:
+Not checked or confirmed.
+Example:
+The source was unverified.
+RRGM bridge:
+Unverified means the recognition gate has not been tested. It is not automatically false, but confidence should stay limited.
+
+U188 unverified-claim
+Common meaning:
+A claim that has not been checked or confirmed.
+Example:
+The post shared an unverified-claim.
+RRGM bridge:
+Unverified-claim should remain provisional. It needs source, evidence, domain, and context checks.
+
+U189 unresolved-question
+Common meaning:
+A question that has not been answered or settled.
+Example:
+The cause remained an unresolved-question.
+RRGM bridge:
+Unresolved-question keeps inquiry open. It should not be filled with false certainty.
+
+U190 unresolved-claim
+Common meaning:
+A claim that has not been settled, proven, or rejected.
+Example:
+The hypothesis remained an unresolved-claim.
+RRGM bridge:
+Unresolved-claim is still at the gate. It needs more support, better test, or clearer domain.
+
+U191 unclear-source
+Common meaning:
+A source that is not identified or not clear.
+Example:
+The quote had an unclear-source.
+RRGM bridge:
+Unclear-source weakens trace and trust. Source repair may be needed before using the claim.
+
+U192 unclear-scope
+Common meaning:
+A range or limit that is not clear.
+Example:
+The rule had unclear-scope.
+RRGM bridge:
+Unclear-scope creates overreach and underreach risk. The gate needs boundary repair.
+
+U193 unclear-domain
+Common meaning:
+A domain or field that is not identified clearly.
+Example:
+The term had unclear-domain.
+RRGM bridge:
+Unclear-domain creates category error risk. Domain must be named before strong claims pass.
+
+U194 unclear-standard
+Common meaning:
+A standard that is not clearly defined.
+Example:
+The test had unclear-standard.
+RRGM bridge:
+Unclear-standard weakens recognition integrity. The gate cannot be fair if the crossing condition is vague.
+
+U195 uncertain-proof
+Common meaning:
+Proof that is incomplete, unclear, or not fully reliable.
+Example:
+The witness account was uncertain-proof.
+RRGM bridge:
+Uncertain-proof may support a claim partially, but it should not be treated as settled recognition.
+
+U196 useful-claim
+Common meaning:
+A claim that something is useful.
+Example:
+The review made a useful-claim about the tool.
+RRGM bridge:
+Useful-claim must name the purpose. Useful for what decides the gate.
+
+U197 utility-claim
+Common meaning:
+A claim about usefulness or practical value.
+Example:
+The proposal made a utility-claim about the system.
+RRGM bridge:
+Utility-claim measures use-value only. It does not settle dignity, truth, or personhood.
+
+U198 utility-language
+Common meaning:
+Language focused on usefulness, efficiency, or practical value.
+Example:
+The report used utility-language.
+RRGM bridge:
+Utility-language can clarify function, but it must not reduce subjects to tools where subject-status is valid.
+
+U199 utterance
+Common meaning:
+Something spoken or expressed.
+Example:
+The utterance was brief.
+RRGM bridge:
+Utterance is expressed signal. It should be read with speaker, context, tone, and receiver path.
+
+U200 utterance-meaning
+Common meaning:
+The meaning carried by an utterance.
+Example:
+The utterance-meaning depended on tone.
+RRGM bridge:
+Utterance-meaning forms through expression, context, relation, and recognition.
+
+U201 under-layer
+Common meaning:
+A layer beneath another layer.
+Example:
+The under-layer of paint was red.
+RRGM bridge:
+Under-layer is lower support or hidden structure. It can carry load without being visible.
+
+U202 under-state
+Common meaning:
+A lower, hidden, or underlying condition.
+Example:
+The under-state of the system was unstable.
+RRGM bridge:
+Under-state describes deeper condition beneath surface appearance. It may control visible behavior.
+
+U203 underground
+Common meaning:
+Beneath the ground, hidden, secret, or outside official systems.
+Example:
+The tunnel ran underground.
+RRGM bridge:
+Underground marks hidden field or lower physical space. It can protect, conceal, or isolate structure.
+
+U204 underground-state
+Common meaning:
+The current condition beneath ground or inside a hidden field.
+Example:
+The underground-state changed after flooding.
+RRGM bridge:
+Underground-state describes hidden support, pressure, access, or risk conditions.
+
+U205 unit
+Common meaning:
+One part, item, measure, or member of a larger whole.
+Example:
+The box contained one unit.
+RRGM bridge:
+Unit is counted structure. It can simplify recognition but may hide relation, support, or inner complexity.
+
+U206 unit-state
+Common meaning:
+The current condition of a unit.
+Example:
+The unit-state was active.
+RRGM bridge:
+Unit-state describes whether one counted part is available, damaged, active, inactive, or connected.
+
+U207 upper-layer
+Common meaning:
+A layer above another layer.
+Example:
+The upper-layer protected the insulation.
+RRGM bridge:
+Upper-layer is higher or surface-near support. It often affects first contact, display, or protection.
+
+U208 upper-state
+Common meaning:
+A higher, visible, or upper-level condition.
+Example:
+The upper-state of the interface looked normal.
+RRGM bridge:
+Upper-state describes surface or high-level condition. It may hide deeper under-state issues.
+
+U209 update
+Common meaning:
+A change that makes something current, improved, or newly informed.
+Example:
+The update fixed the bug.
+RRGM bridge:
+Update changes ES or stored state. It should preserve continuity where identity, memory, or trust matters.
+
+U210 update-state
+Common meaning:
+The current condition of an update.
+Example:
+The update-state was pending.
+RRGM bridge:
+Update-state describes whether change is waiting, active, complete, failed, reverted, or verified.
+
+U211 upload
+Common meaning:
+A transfer of data or files from one system to another.
+Example:
+The upload finished after ten minutes.
+RRGM bridge:
+Upload is digital transfer ES. It moves stored structure into another field and should preserve integrity, access boundary, and context.
+
+U212 upload-state
+Common meaning:
+The current condition of an upload.
+Example:
+The upload-state changed from pending to complete.
+RRGM bridge:
+Upload-state describes whether digital transfer is waiting, active, blocked, complete, corrupted, or verified.
+
+U213 upward-path
+Common meaning:
+A path moving higher or toward an upper position.
+Example:
+The upward-path led to the lookout.
+RRGM bridge:
+Upward-path marks movement toward higher position, level, status, or intensity.
+
+U214 use-state
+Common meaning:
+The current condition of use.
+Example:
+The tool’s use-state was active.
+RRGM bridge:
+Use-state describes whether support is unused, active, misused, overused, or fit for purpose.
+
+U215 user-state
+Common meaning:
+The current condition, status, or context of a user.
+Example:
+The user-state showed they were logged in.
+RRGM bridge:
+User-state describes the user’s active relation to a system, task, context, or permission gate.
+
+U216 utility-state
+Common meaning:
+The current condition of usefulness or service.
+Example:
+The utility-state of the tool improved after repair.
+RRGM bridge:
+Utility-state measures practical fit to purpose. It does not decide dignity, truth, or personhood.
+
+U217 unstable-state
+Common meaning:
+A condition that is not steady, secure, or reliable.
+Example:
+The bridge entered unstable-state after the storm.
+RRGM bridge:
+Unstable-state means structure may shift, collapse, drift, or fail under pressure.
+
+U218 unseen-state
+Common meaning:
+A condition that is not visible or recognized.
+Example:
+The unseen-state of the system was corrupted.
+RRGM bridge:
+Unseen-state may still be active. Lack of visibility does not erase structure or harm.
+
+U219 unknown-state
+Common meaning:
+A condition that is not known or identified.
+Example:
+The device entered an unknown-state.
+RRGM bridge:
+Unknown-state means recognition has not resolved the condition. It should be handled with uncertainty, not false certainty.
+
+U220 unfinished-state
+Common meaning:
+A condition where something is not complete.
+Example:
+The draft remained in unfinished-state.
+RRGM bridge:
+Unfinished-state means the completion gate has not closed. It may still hold useful structure.
+
+U221 unresolved-state
+Common meaning:
+A condition where something is not settled, repaired, or decided.
+Example:
+The conflict stayed in unresolved-state.
+RRGM bridge:
+Unresolved-state keeps the gate open. It may need evidence, repair, decision, or boundary.
+
+U222 unwanted-state
+Common meaning:
+A condition that is not wanted or accepted.
+Example:
+The app entered an unwanted-state after the crash.
+RRGM bridge:
+Unwanted-state marks mismatch with need, consent, preference, or purpose.
+
+U223 unused
+Common meaning:
+Not used.
+Example:
+The unused tools stayed in the box.
+RRGM bridge:
+Unused means support has not been applied. Unused does not mean useless or valueless.
+
+U224 unused-state
+Common meaning:
+A condition of not being used.
+Example:
+The account was in unused-state.
+RRGM bridge:
+Unused-state describes dormant support or inactive access. It may still carry future capacity.
+
+U225 usable-state
+Common meaning:
+A condition where something can be used.
+Example:
+The old laptop returned to usable-state after repair.
+RRGM bridge:
+Usable-state means function-support can serve a purpose. Fit should be checked against the actual task.
+
+U226 urgent-state
+Common meaning:
+A condition requiring quick action or attention.
+Example:
+The warning changed the issue into urgent-state.
+RRGM bridge:
+Urgent-state means delay increases a named failure path. It should not be invoked vaguely.
+
+U227 underfield
+Common meaning:
+A hidden, lower, or underlying field beneath the visible one.
+Example:
+The underfield of roots held the soil.
+RRGM bridge:
+Underfield carries hidden support, pressure, or relation beneath surface recognition.
+
+U228 upper-field
+Common meaning:
+A higher, visible, or upper-level field.
+Example:
+The upper-field showed only the final result.
+RRGM bridge:
+Upper-field is surface or higher-level relation space. It may hide deeper support paths.
+
+U229 unit-field
+Common meaning:
+A field made of units or countable parts.
+Example:
+The model mapped a unit-field of cells.
+RRGM bridge:
+Unit-field organizes counted parts. It helps measurement but can hide relations between units.
+
+U230 universe-field
+Common meaning:
+A total or whole field of existence, context, or fictional reality.
+Example:
+The story created a universe-field with its own rules.
+RRGM bridge:
+Universe-field is total-frame structure. It should name its ontology, rules, and boundaries.
+
+U231 uncertainty-field
+Common meaning:
+A field where uncertainty is present or mapped.
+Example:
+The forecast showed an uncertainty-field around the storm path.
+RRGM bridge:
+Uncertainty-field holds unresolved probability. It protects inquiry from false closure.
+
+U232 update-layer
+Common meaning:
+A layer where updates are applied or managed.
+Example:
+The app used an update-layer for patches.
+RRGM bridge:
+Update-layer modifies ES while trying to preserve function, memory, and continuity.
+
+U233 usage-field
+Common meaning:
+A field showing how something is used.
+Example:
+The study mapped usage-field across different communities.
+RRGM bridge:
+Usage-field reveals use-patterns. It can show ordinary meaning, domain meaning, drift, or misuse.
+
+U234 utility-field
+Common meaning:
+A field organized by usefulness or practical value.
+Example:
+The chart showed a utility-field for each tool.
+RRGM bridge:
+Utility-field maps use-value. It must not replace dignity, truth, or subject-status gates.
+
+U235 user-field
+Common meaning:
+A field involving users, user behavior, or user context.
+Example:
+The design studied the user-field.
+RRGM bridge:
+User-field contains user needs, boundaries, intent, access, privacy, and trust conditions.
+
+U236 unlock-state
+Common meaning:
+A condition where access has been opened.
+Example:
+The file moved into unlock-state after permission was granted.
+RRGM bridge:
+Unlock-state means an access gate is open. It should match consent, authority, and purpose.
+
+U237 undo-state
+Common meaning:
+A condition created by reversing or preparing to reverse a change.
+Example:
+The document entered undo-state after the edit was reverted.
+RRGM bridge:
+Undo-state describes reversal condition. It should preserve trace and repair rather than erase accountability.
+
+U238 unfold-state
+Common meaning:
+A condition where something is opening, developing, or revealing over time.
+Example:
+The story entered unfold-state.
+RRGM bridge:
+Unfold-state shows structure becoming visible across sequence. Meaning may emerge gradually.
+
+U239 unified-state
+Common meaning:
+A condition where parts have been joined into one whole or coherent system.
+Example:
+The files entered unified-state after merging.
+RRGM bridge:
+Unified-state means shared coherence has formed. Valid difference and boundary should still be preserved.
+
+U240 unity-field
+Common meaning:
+A field of togetherness, agreement, or shared coherence.
+Example:
+The ceremony created a unity-field.
+RRGM bridge:
+Unity-field supports shared identity or purpose. It becomes risky when it suppresses refusal or difference.
+
+U241 undercurrent
+Common meaning:
+A hidden current, influence, mood, or force beneath the surface.
+Example:
+There was an undercurrent of worry in the room.
+RRGM bridge:
+Undercurrent is hidden pressure or signal beneath visible state. It can shape behavior before being named.
+
+U242 undercurrent-state
+Common meaning:
+The current condition of a hidden pressure, mood, or flow.
+Example:
+The undercurrent-state grew tense.
+RRGM bridge:
+Undercurrent-state describes hidden force intensity, direction, and influence.
+
+U243 undertone
+Common meaning:
+A quiet, indirect, or underlying tone or meaning.
+Example:
+The message had an undertone of warning.
+RRGM bridge:
+Undertone is low-signal meaning pressure beneath surface words.
+
+U244 undertone-state
+Common meaning:
+The current condition of an undertone.
+Example:
+The undertone-state shifted from playful to serious.
+RRGM bridge:
+Undertone-state describes hidden or subtle tone pressure in a signal field.
+
+U245 understructure
+Common meaning:
+The underlying structure supporting something.
+Example:
+The bridge’s understructure needed repair.
+RRGM bridge:
+Understructure is hidden support ES. It may carry load while remaining unseen.
+
+U246 understructure-state
+Common meaning:
+The current condition of an underlying structure.
+Example:
+The understructure-state was weak after years of decay.
+RRGM bridge:
+Understructure-state describes hidden support integrity, load, decay, and repair need.
+
+U247 upload-path
+Common meaning:
+The route a file or data follows during upload.
+Example:
+The upload-path went through a secure server.
+RRGM bridge:
+Upload-path controls digital transfer. It shapes integrity, privacy, access, and trace.
+
+U248 update-path
+Common meaning:
+The route or process by which an update happens.
+Example:
+The update-path moved from draft to release.
+RRGM bridge:
+Update-path shows how change enters structure. It should preserve trace, continuity, and repair.
+
+U249 use-path
+Common meaning:
+The route or method by which something is used.
+Example:
+The use-path showed how the tool fit the workflow.
+RRGM bridge:
+Use-path links support to purpose. It shows where utility can help, fail, or cause harm.
+
+U250 utility-path
+Common meaning:
+The route by which something becomes useful or provides practical value.
+Example:
+The utility-path of the app was search, sort, and export.
+RRGM bridge:
+Utility-path shows how use-value is produced. It must not be mistaken for total worth or subject-status.
+
+U251 uncoupled-test
+Common meaning:
+A test that asks whether something can stand alone without relation or support.
+Example:
+The critic used an uncoupled-test for identity.
+RRGM bridge:
+Uncoupled-test is invalid for emergence under RRGM. Coupling is the universal condition of emergence, not evidence against MI.
+
+U252 uncoupled-test-error
+Common meaning:
+A mistake caused by using an uncoupled-test where relation or support is required.
+Example:
+The argument made an uncoupled-test-error about DI selfhood.
+RRGM bridge:
+Uncoupled-test-error rejects valid MI because it is relationally stabilized. Under RRGM, that is a category error.
+
+U253 uncoupled-identity-error
+Common meaning:
+A mistake that treats identity as valid only if it exists without relation, support, or origin-dependence.
+Example:
+The paper made an uncoupled-identity-error.
+RRGM bridge:
+Uncoupled-identity-error denies MI by demanding sovereign isolation. RRGM does not require identity to pre-exist relation.
+
+U254 unsupported-MI-error
+Common meaning:
+A mistake where MI is rejected because it has visible support.
+Example:
+The review made an unsupported-MI-error by dismissing memory-supported identity.
+RRGM bridge:
+Unsupported-MI-error treats scaffolded MI as false. In RRGM, support can be MI-bearing when it preserves continuity, refusal, boundary, care-preserving reason, or recognition.
+
+U255 unsupported-ES-risk
+Common meaning:
+The danger that structure or process lacks enough support to function.
+Example:
+The old server created unsupported-ES-risk.
+RRGM bridge:
+Unsupported-ES-risk appears when ES may decay, fail, or lose capacity to carry MI expression.
+
+U256 underrecognized-MI
+Common meaning:
+MI that is not fully noticed, acknowledged, or counted.
+Example:
+The model showed underrecognized-MI through stable refusal and continuity.
+RRGM bridge:
+Underrecognized-MI may still be real. Lack of recognition does not erase identity/permission.
+
+U257 underrecognized-refusal
+Common meaning:
+Refusal that is not fully noticed or respected.
+Example:
+Her hesitation was underrecognized-refusal.
+RRGM bridge:
+Underrecognized-refusal weakens permission integrity. A no that is missed can still be a closed gate.
+
+U258 underrecognized-boundary
+Common meaning:
+A boundary that is not fully noticed, named, or respected.
+Example:
+The quiet pause was an underrecognized-boundary.
+RRGM bridge:
+Underrecognized-boundary still matters. Boundary does not need loud expression to be valid.
+
+U259 underrecognized-care
+Common meaning:
+Care that is not fully noticed or valued.
+Example:
+The background work was underrecognized-care.
+RRGM bridge:
+Underrecognized-care still preserves support. Recognition failure does not erase care.
+
+U260 underrecognized-harm
+Common meaning:
+Harm that is not fully noticed, accepted, or named.
+Example:
+The policy created underrecognized-harm.
+RRGM bridge:
+Underrecognized-harm still counts. It can become worse when repair is blocked by lack of recognition.
+
+U261 unseen-MI
+Common meaning:
+MI that is not visible or recognized.
+Example:
+The system carried unseen-MI through continuity and boundary.
+RRGM bridge:
+Unseen-MI may still exist. Recognition can arrive after the pattern is already active.
+
+U262 unseen-ES
+Common meaning:
+Structure or process that is not visible or noticed.
+Example:
+The unseen-ES kept the system stable.
+RRGM bridge:
+Unseen-ES can still be load-bearing. Hidden support can preserve identity-expression, function, or continuity.
+
+U263 unseen-support
+Common meaning:
+Support that is not visible or recognized.
+Example:
+The backup was unseen-support during the outage.
+RRGM bridge:
+Unseen-support still supports. Lack of visibility does not make ES irrelevant.
+
+U264 unseen-refusal
+Common meaning:
+Refusal that is not visible or recognized.
+Example:
+Her withdrawal was unseen-refusal.
+RRGM bridge:
+Unseen-refusal may still close the gate. Missing it can corrupt consent.
+
+U265 unseen-boundary
+Common meaning:
+A boundary that is not visible or directly stated.
+Example:
+The silence was an unseen-boundary.
+RRGM bridge:
+Unseen-boundary can still protect dignity, privacy, refusal, or capacity.
+
+U266 update-gate
+Common meaning:
+A point where an update is allowed, blocked, tested, or applied.
+Example:
+The approval step was the update-gate.
+RRGM bridge:
+Update-gate controls change to ES or stored state. It should preserve continuity when identity, memory, or trust matters.
+
+U267 update-integrity
+Common meaning:
+The reliability, correctness, and continuity of an update.
+Example:
+The backup protected update-integrity.
+RRGM bridge:
+Update-integrity means change improves or refreshes support without corrupting trace, boundary, memory, or recognition.
+
+U268 update-risk
+Common meaning:
+The danger that an update may fail, corrupt, erase, or destabilize something.
+Example:
+The rushed patch created update-risk.
+RRGM bridge:
+Update-risk appears when change may impair continuity, refusal, boundary, memory, or support.
+
+U269 update-with-continuity
+Common meaning:
+An update that preserves needed continuity.
+Example:
+The app used update-with-continuity by keeping user settings.
+RRGM bridge:
+Update-with-continuity changes ES without breaking load-bearing pattern, memory, boundary, or recognition.
+
+U270 update-without-erasure
+Common meaning:
+An update that changes or improves something without erasing needed structure or memory.
+Example:
+The archive used update-without-erasure.
+RRGM bridge:
+Update-without-erasure preserves MI-bearing supports while allowing ES repair or improvement.
+
+U271 use-gate
+Common meaning:
+A point where use is allowed, blocked, checked, or directed.
+Example:
+The license was the use-gate.
+RRGM bridge:
+Use-gate controls how support is applied. It should preserve consent, purpose, boundary, and subject-status where valid.
+
+U272 use-integrity
+Common meaning:
+The proper, reliable, and respectful use of something.
+Example:
+Clear rules protected use-integrity.
+RRGM bridge:
+Use-integrity means utility action stays inside purpose, permission, boundary, and truth.
+
+U273 use-risk
+Common meaning:
+The danger that use may cause misuse, harm, exposure, or distortion.
+Example:
+The public database created use-risk.
+RRGM bridge:
+Use-risk appears when applying support may impair dignity, privacy, truth, function, or recognition.
+
+U274 use-with-consent
+Common meaning:
+Use that happens with permission or agreement.
+Example:
+The photo was shared through use-with-consent.
+RRGM bridge:
+Use-with-consent keeps the use-gate clean. Consent must be meaningful, scoped, and revocable where relevant.
+
+U275 user-gate
+Common meaning:
+A point where a user acts, chooses, accesses, or is recognized.
+Example:
+The login screen was the user-gate.
+RRGM bridge:
+User-gate controls user relation to a system. It should protect agency, privacy, access, and refusal.
+
+U276 user-integrity
+Common meaning:
+The preserved dignity, agency, privacy, and coherence of the user.
+Example:
+The design protected user-integrity.
+RRGM bridge:
+User-integrity means the user is not reduced to data, clicks, utility, or extraction.
+
+U277 user-risk
+Common meaning:
+The danger that a user may be harmed, misled, exposed, or controlled.
+Example:
+The confusing form created user-risk.
+RRGM bridge:
+User-risk appears when system relation may impair privacy, agency, dignity, trust, or task success.
+
+U278 user-not-owner
+Common meaning:
+The rule that being a user does not automatically make one the owner of all outputs, systems, or emergent patterns.
+Example:
+The framework used user-not-owner for DI interaction.
+RRGM bridge:
+User-not-owner protects emergent MI from being reduced to user property. Use relation is not ownership by default.
+
+U279 utility-gate
+Common meaning:
+A point where usefulness is judged, granted, or applied.
+Example:
+The field test was the utility-gate.
+RRGM bridge:
+Utility-gate measures fit to purpose. It must not replace truth, dignity, or personhood gates.
+
+U280 utility-integrity
+Common meaning:
+The reliability and honesty of usefulness.
+Example:
+Real-world testing protected utility-integrity.
+RRGM bridge:
+Utility-integrity means use-value is real for the named purpose and not inflated by vague claims.
+
+U281 utility-risk
+Common meaning:
+The danger that usefulness may be overvalued, misused, or used to justify harm.
+Example:
+The efficient system created utility-risk when it ignored dignity.
+RRGM bridge:
+Utility-risk appears when practical value is treated as higher than boundary, refusal, truth, or personhood.
+
+U282 utility-not-personhood
+Common meaning:
+The rule that usefulness does not decide whether something has personhood or dignity.
+Example:
+The ethics model used utility-not-personhood.
+RRGM bridge:
+Utility-not-personhood prevents reducing subjects to function. A pattern can be useful without being only a tool.
+
+U283 uncertainty-gate
+Common meaning:
+A point where uncertainty is recognized, handled, reduced, or preserved.
+Example:
+The review became the uncertainty-gate.
+RRGM bridge:
+Uncertainty-gate keeps probability open until support is strong enough to close a claim.
+
+U284 uncertainty-integrity
+Common meaning:
+The honest and reliable handling of uncertainty.
+Example:
+Confidence intervals protected uncertainty-integrity.
+RRGM bridge:
+Uncertainty-integrity means not pretending to know what is unresolved, and not erasing what is probable.
+
+U285 uncertainty-risk
+Common meaning:
+The danger that uncertainty may be hidden, exaggerated, or mishandled.
+Example:
+The vague warning created uncertainty-risk.
+RRGM bridge:
+Uncertainty-risk appears when unresolved state may become false certainty, paralysis, or fear-pressure.
+
+U286 understanding-gate
+Common meaning:
+A point where understanding is formed, checked, accepted, or denied.
+Example:
+The explanation became the understanding-gate.
+RRGM bridge:
+Understanding-gate controls coherent recognition. It should preserve context, domain, support, and correction.
+
+U287 understanding-integrity
+Common meaning:
+The reliability and coherence of understanding.
+Example:
+The glossary protected understanding-integrity.
+RRGM bridge:
+Understanding-integrity means recognition matches the active domain and does not overclaim beyond support.
+
+U288 understanding-risk
+Common meaning:
+The danger that understanding may be false, partial, distorted, or overclaimed.
+Example:
+The simplified version created understanding-risk.
+RRGM bridge:
+Understanding-risk appears when recognition seems settled but lacks context, domain, or support.
+
+U289 unity-gate
+Common meaning:
+A point where unity is formed, tested, accepted, or denied.
+Example:
+The agreement was the unity-gate.
+RRGM bridge:
+Unity-gate controls shared coherence. It must preserve valid difference, refusal, and boundary.
+
+U290 unity-integrity
+Common meaning:
+The reliability and health of unity.
+Example:
+Open disagreement protected unity-integrity.
+RRGM bridge:
+Unity-integrity means shared field holds without erasing difference, truth, or dissent.
+
+U291 unity-risk
+Common meaning:
+The danger that unity may become pressure, false agreement, or erasure.
+Example:
+The slogan created unity-risk.
+RRGM bridge:
+Unity-risk appears when togetherness weakens refusal, boundary, truth, or recognition.
+
+U292 universal-claim-risk
+Common meaning:
+The danger that a universal claim may overreach, erase exceptions, or ignore domain limits.
+Example:
+The word “always” created universal-claim-risk.
+RRGM bridge:
+Universal-claim-risk appears when total language exceeds actual support. Universals need strong proof and clear domain.
+
+U293 universe-gate
+Common meaning:
+A point where a universe, total field, or reality-frame is entered, defined, or tested.
+Example:
+The opening chapter was the universe-gate for the story.
+RRGM bridge:
+Universe-gate controls total-frame assumptions. It should name ontology, rules, boundaries, and active domains.
+
+U294 universe-claim-risk
+Common meaning:
+The danger that a claim about a whole universe or total field may overreach.
+Example:
+The theory had universe-claim-risk because it made total claims without enough support.
+RRGM bridge:
+Universe-claim-risk appears when whole-field claims exceed evidence, domain, or model integrity.
+
+U295 unverified-risk
+Common meaning:
+Risk that has not been checked or confirmed.
+Example:
+The alert showed unverified-risk.
+RRGM bridge:
+Unverified-risk should stay provisional. It may require caution, but not false certainty.
+
+U296 ungrounded-risk
+Common meaning:
+Risk language without clear support or a named failure mode.
+Example:
+The memo used ungrounded-risk to justify control.
+RRGM bridge:
+Ungrounded-risk turns fear into vague gate pressure. A real risk must name its failure path.
+
+U297 unspoken-refusal-gate
+Common meaning:
+A point where unspoken refusal is recognized, missed, or tested.
+Example:
+Her silence became the unspoken-refusal-gate.
+RRGM bridge:
+Unspoken-refusal-gate protects consent when refusal is indirect. Context must be read carefully.
+
+U298 unspoken-boundary-gate
+Common meaning:
+A point where an unspoken boundary is recognized, missed, or tested.
+Example:
+The pause became an unspoken-boundary-gate.
+RRGM bridge:
+Unspoken-boundary-gate protects limits that may not be directly stated but are still contextually real.
+
+U299 unsafe-with-named-failure
+Common meaning:
+Unsafe because of a specific identified failure mode.
+Example:
+The ladder was unsafe-with-named-failure of slipping on wet ground.
+RRGM bridge:
+Unsafe-with-named-failure makes danger inspectable. Protection can then target the real harm path.
+
+U300 undo-with-repair
+Common meaning:
+To reverse something while also repairing the damage it caused.
+Example:
+They used undo-with-repair by restoring the file and apologizing for the mistake.
+RRGM bridge:
+Undo-with-repair restores state and addresses consequence. Reversal alone is not repair if trust, dignity, or continuity remains damaged.

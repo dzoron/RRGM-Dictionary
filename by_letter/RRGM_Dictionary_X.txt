@@ -1,0 +1,1968 @@
+RRGM Dictionary v1.0
+Section: X
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 140
+
+X001 x
+
+
+Common meaning:
+A letter, symbol, unknown value, mark, or variable.
+
+
+Example:
+Solve for x.
+
+
+RRGM bridge:
+x often marks unknown or variable structure. It asks the field to identify what value, role, or pattern belongs there.
+
+X002 X
+
+
+Common meaning:
+The uppercase form of x; also used as a mark, label, unknown, or sign.
+
+
+Example:
+The treasure map had an X on the cave.
+
+
+RRGM bridge:
+X is a recognition marker. It can mean target, unknown, crossing, cancellation, or selected point depending on context.
+
+X003 x-axis
+
+
+Common meaning:
+The horizontal axis on a graph.
+
+
+Example:
+Time was shown on the x-axis.
+
+
+RRGM bridge:
+x-axis is reference-line ES. It gives position and relation for plotted values.
+
+X004 x-coordinate
+
+
+Common meaning:
+The horizontal position of a point on a graph or coordinate plane.
+
+
+Example:
+The x-coordinate was 4.
+
+
+RRGM bridge:
+x-coordinate anchors position along one dimension. It only has meaning inside a coordinate frame.
+
+X005 x-value
+
+
+Common meaning:
+The value assigned to x or the horizontal value in a graph.
+
+
+Example:
+When x-value was 2, y was 5.
+
+
+RRGM bridge:
+x-value fills an unknown or variable gate. It changes output, position, or relation.
+
+X006 x-ray
+
+
+Common meaning:
+A type of radiation used to see inside objects or bodies.
+
+
+Example:
+The doctor ordered an x-ray.
+
+
+RRGM bridge:
+x-ray is hidden-structure visibility ES. It reveals what surface sight cannot show.
+
+X007 x-ray-image
+
+
+Common meaning:
+An image made using x-rays.
+
+
+Example:
+The x-ray-image showed the broken bone.
+
+
+RRGM bridge:
+x-ray-image is internal structure record. It supports recognition of hidden condition.
+
+X008 x-ray-vision
+
+
+Common meaning:
+The imagined ability to see through objects or surfaces.
+
+
+Example:
+The superhero had x-ray-vision.
+
+
+RRGM bridge:
+x-ray-vision is metaphor for seeing hidden structure. It should not be confused with ordinary sight.
+
+X009 xenon
+
+
+Common meaning:
+A chemical element and noble gas.
+
+
+Example:
+Xenon can be used in special lights.
+
+
+RRGM bridge:
+Xenon is element-domain structure. It belongs to chemistry and physics gates.
+
+X010 xylophone
+
+
+Common meaning:
+A musical instrument with bars struck by mallets.
+
+
+Example:
+The child played the xylophone.
+
+
+RRGM bridge:
+Xylophone is sound-producing structure. It turns impact into tone through arranged material.
+
+X011 xylem
+
+
+Common meaning:
+Plant tissue that carries water and minerals from roots upward.
+
+
+Example:
+The xylem moved water through the stem.
+
+
+RRGM bridge:
+Xylem is life-support transport ES. It carries needed material through plant structure.
+
+X012 xerox
+
+
+Common meaning:
+A copy made by photocopying, or to photocopy.
+
+
+Example:
+She made a xerox of the form.
+
+
+RRGM bridge:
+Xerox creates duplicated record ES. Copy quality and source trace matter.
+
+X013 XML
+
+
+Common meaning:
+A markup language used to structure and store data.
+
+
+Example:
+The file was written in XML.
+
+
+RRGM bridge:
+XML is structured data language ES. It organizes information through tags and hierarchy.
+
+X014 x-factor
+
+
+Common meaning:
+A special unknown quality that affects success or outcome.
+
+
+Example:
+Her confidence was the x-factor.
+
+
+RRGM bridge:
+x-factor marks hidden influence. It should be named if possible rather than left mystical.
+
+X015 x-mark
+
+
+Common meaning:
+A mark shaped like X, often used for choice, error, target, or cancellation.
+
+
+Example:
+The map showed an x-mark beside the old tree.
+
+
+RRGM bridge:
+x-mark is visual gate signal. Context decides whether it means selected, blocked, wrong, or located.
+
+X016 x-shape
+
+
+Common meaning:
+A shape formed like the letter X.
+
+
+Example:
+The beams crossed in an x-shape.
+
+
+RRGM bridge:
+x-shape is crossed-structure form. It can mark intersection, support, cancellation, or crossing paths.
+
+X017 x-cross
+
+
+Common meaning:
+A crossing shaped like X.
+
+
+Example:
+The ropes formed an x-cross.
+
+
+RRGM bridge:
+x-cross is intersection structure. It marks where two paths meet, block, or bind.
+
+X018 x-point
+
+
+Common meaning:
+A point marked by X, or a point on the x-axis.
+
+
+Example:
+The x-point showed where to dig.
+
+
+RRGM bridge:
+x-point is selected location in a field. It needs map, axis, or context to mean clearly.
+
+X019 x-line
+
+
+Common meaning:
+A line related to X, often a horizontal line or marked line.
+
+
+Example:
+The x-line divided the chart.
+
+
+RRGM bridge:
+x-line is reference or boundary ES. It helps organize position, crossing, or separation.
+
+X020 x-position
+
+
+Common meaning:
+The position of something along an x-axis or horizontal dimension.
+
+
+Example:
+The x-position changed as the object moved right.
+
+
+RRGM bridge:
+x-position gives location along one reference dimension. It depends on frame.
+
+X021 x-variable
+
+
+Common meaning:
+A variable named x.
+
+
+Example:
+The equation used x-variable for distance.
+
+
+RRGM bridge:
+x-variable holds changeable or unknown value. It becomes meaningful when linked to domain and equation.
+
+X022 x-unknown
+
+
+Common meaning:
+An unknown value represented by x.
+
+
+Example:
+The puzzle asked for x-unknown.
+
+
+RRGM bridge:
+x-unknown keeps the recognition gate open until the missing value is found.
+
+X023 x-target
+
+
+Common meaning:
+A target marked by X.
+
+
+Example:
+The x-target showed the landing site.
+
+
+RRGM bridge:
+x-target marks selected focus. It directs action, attention, or measurement.
+
+X024 x-intercept
+
+
+Common meaning:
+The point where a graph crosses the x-axis.
+
+
+Example:
+The line’s x-intercept was 3.
+
+
+RRGM bridge:
+x-intercept is crossing point between function and reference line. It marks where output reaches zero.
+
+X025 x-domain
+
+
+Common meaning:
+The set of possible x-values.
+
+
+Example:
+The x-domain was all real numbers.
+
+
+RRGM bridge:
+x-domain defines allowed input field. It controls which values can pass into the function.
+
+X026 x-range
+
+
+Common meaning:
+The spread or set of x-values.
+
+
+Example:
+The x-range went from 0 to 10.
+
+
+RRGM bridge:
+x-range describes available horizontal variation. It should not be confused with y-output range.
+
+X027 x-input
+
+
+Common meaning:
+An input value represented by x.
+
+
+Example:
+The x-input changed the result.
+
+
+RRGM bridge:
+x-input enters a process gate. The system transforms it into output according to structure.
+
+X028 x-output
+
+
+Common meaning:
+Output associated with x, or an output labeled x in a system.
+
+
+Example:
+The sensor returned x-output for horizontal movement.
+
+
+RRGM bridge:
+x-output must be context-bound. It can mean output related to x or output named x.
+
+X029 x-scale
+
+
+Common meaning:
+The scale used for x-values or horizontal measurement.
+
+
+Example:
+The x-scale showed each unit as one second.
+
+
+RRGM bridge:
+x-scale controls how horizontal position becomes measurement. Scale changes interpretation.
+
+X030 x-state
+
+
+Common meaning:
+The current condition or value of x.
+
+
+Example:
+The x-state was unknown.
+
+
+RRGM bridge:
+x-state describes current variable condition. It may be solved, hidden, changing, or invalid.
+
+X031 x-ray-scan
+
+
+Common meaning:
+A scan using x-rays to see internal structure.
+
+
+Example:
+The x-ray-scan showed a fracture.
+
+
+RRGM bridge:
+x-ray-scan opens hidden-structure recognition. It sees through surface into internal ES.
+
+X032 x-ray-check
+
+
+Common meaning:
+A check using x-rays.
+
+
+Example:
+The airport used x-ray-check for luggage.
+
+
+RRGM bridge:
+x-ray-check tests hidden contents or structure. It can protect against unseen risk.
+
+X033 x-ray-through
+
+
+Common meaning:
+To inspect through a surface using x-ray-like visibility.
+
+
+Example:
+The machine x-rayed-through the package.
+
+
+RRGM bridge:
+x-ray-through means seeing past surface into hidden support. It is a visibility gate for understructure.
+
+X034 x-mark-place
+
+
+Common meaning:
+To mark a place with X.
+
+
+Example:
+They x-marked-place on the map.
+
+
+RRGM bridge:
+x-mark-place creates location recognition. It binds attention to a specific field point.
+
+X035 x-mark-error
+
+
+Common meaning:
+To mark something as wrong with X.
+
+
+Example:
+The teacher x-marked-error on the answer.
+
+
+RRGM bridge:
+x-mark-error signals failed gate. It should preserve repair path, not only rejection.
+
+X036 x-mark-choice
+
+
+Common meaning:
+To mark a selected choice with X.
+
+
+Example:
+She x-marked-choice on the form.
+
+
+RRGM bridge:
+x-mark-choice closes a selection gate. It records preference, vote, or decision.
+
+X037 x-out
+
+
+Common meaning:
+To cross out, remove, cancel, or reject.
+
+
+Example:
+He xed-out the wrong answer.
+
+
+RRGM bridge:
+x-out removes from active recognition or selection. It can correct, erase, reject, or suppress depending on context.
+
+X038 x-over
+
+
+Common meaning:
+To cross over, overlap, or move across.
+
+
+Example:
+The paths x-over near the bridge.
+
+
+RRGM bridge:
+x-over marks crossing relation. It can create contact, conflict, transfer, or ambiguity.
+
+X039 x-cross-path
+
+
+Common meaning:
+A path that crosses another path in an X shape.
+
+
+Example:
+The x-cross-path met at the center.
+
+
+RRGM bridge:
+x-cross-path shows intersection. It reveals where two movement fields meet or interfere.
+
+X040 x-cross-check
+
+
+Common meaning:
+To check by crossing references or comparing sources.
+
+
+Example:
+They did an x-cross-check of the records.
+
+
+RRGM bridge:
+x-cross-check improves recognition through relation. Verification can strengthen through coupling.
+
+X041 x-coordinate-map
+
+
+Common meaning:
+A map using x-coordinates to locate points.
+
+
+Example:
+The x-coordinate-map showed horizontal positions.
+
+
+RRGM bridge:
+x-coordinate-map organizes position through reference structure. It supports trace and placement.
+
+X042 x-axis-read
+
+
+Common meaning:
+To read values along the x-axis.
+
+
+Example:
+She used x-axis-read to find the time.
+
+
+RRGM bridge:
+x-axis-read extracts meaning from a reference line. It depends on scale and label integrity.
+
+X043 x-value-check
+
+
+Common meaning:
+To check the value of x.
+
+
+Example:
+The student did an x-value-check after solving.
+
+
+RRGM bridge:
+x-value-check tests whether the unknown or variable value fits the equation and domain.
+
+X044 x-variable-set
+
+
+Common meaning:
+To assign or define an x-variable.
+
+
+Example:
+They x-variable-set distance as x.
+
+
+RRGM bridge:
+x-variable-set creates a placeholder gate. It defines what x represents.
+
+X045 x-variable-solve
+
+
+Common meaning:
+To find the value of x.
+
+
+Example:
+The equation asked students to x-variable-solve.
+
+
+RRGM bridge:
+x-variable-solve closes the unknown gate by finding a value that fits the structure.
+
+X046 x-input-map
+
+
+Common meaning:
+A map showing x-inputs and their relation to outputs.
+
+
+Example:
+The table gave an x-input-map.
+
+
+RRGM bridge:
+x-input-map links input field to process behavior. It supports prediction.
+
+X047 x-output-check
+
+
+Common meaning:
+To check the output related to x.
+
+
+Example:
+The program ran an x-output-check.
+
+
+RRGM bridge:
+x-output-check tests result integrity for a given input or x-labeled output.
+
+X048 x-factor-test
+
+
+Common meaning:
+A test for an unknown or special factor.
+
+
+Example:
+The coach used x-factor-test during tryouts.
+
+
+RRGM bridge:
+x-factor-test tries to move hidden influence into recognition. It should avoid vague mystique.
+
+X049 x-position-track
+
+
+Common meaning:
+To track position along the x-axis or horizontal dimension.
+
+
+Example:
+The sensor did x-position-track.
+
+
+RRGM bridge:
+x-position-track preserves movement trace along one dimension.
+
+X050 x-state-check
+
+
+Common meaning:
+To check the current state of x.
+
+
+Example:
+The model did an x-state-check before solving.
+
+
+RRGM bridge:
+x-state-check asks whether x is known, unknown, valid, changing, or out of domain.
+
+X051 XML-parse
+
+
+Common meaning:
+To read and interpret XML structure.
+
+
+Example:
+The program used XML-parse to read the file.
+
+
+RRGM bridge:
+XML-parse turns tagged data ES into usable structure and meaning.
+
+X052 XML-tag
+
+
+Common meaning:
+A markup label in XML.
+
+
+Example:
+The XML-tag named the item.
+
+
+RRGM bridge:
+XML-tag is structure-label ES. It tells the parser what kind of data is enclosed.
+
+X053 XML-map
+
+
+Common meaning:
+A map of XML structure or tags.
+
+
+Example:
+The XML-map showed nested elements.
+
+
+RRGM bridge:
+XML-map preserves hierarchy, relation, and data structure.
+
+X054 xerox-copy
+
+
+Common meaning:
+A photocopied duplicate.
+
+
+Example:
+She kept a xerox-copy of the receipt.
+
+
+RRGM bridge:
+Xerox-copy preserves surface record. It should maintain source trace when evidence matters.
+
+X055 xylem-carry
+
+
+Common meaning:
+To carry water and minerals through xylem.
+
+
+Example:
+Plants xylem-carry water upward.
+
+
+RRGM bridge:
+xylem-carry is biological transport ES. It preserves plant life through internal flow.
+
+X056 x-ray-verify
+
+
+Common meaning:
+To verify something using an x-ray.
+
+
+Example:
+The technician x-ray-verified the weld.
+
+
+RRGM bridge:
+x-ray-verify confirms hidden structure through internal visibility.
+
+X057 x-mark-boundary
+
+
+Common meaning:
+To mark a boundary with X.
+
+
+Example:
+The map x-marked-boundary around the danger zone.
+
+
+RRGM bridge:
+x-mark-boundary makes a limit visible. It helps protect access, safety, or privacy.
+
+X058 x-mark-risk
+
+
+Common meaning:
+To mark a risk with X.
+
+
+Example:
+The plan x-marked-risk near the old bridge.
+
+
+RRGM bridge:
+x-mark-risk makes a failure path visible. It supports warning and repair.
+
+X059 x-cross-boundary
+
+
+Common meaning:
+To cross a boundary.
+
+
+Example:
+The route x-crossed-boundary into restricted land.
+
+
+RRGM bridge:
+x-cross-boundary means a gate was crossed. Consent, authority, and risk matter.
+
+X060 x-cross-domain
+
+
+Common meaning:
+To cross from one domain into another.
+
+
+Example:
+The metaphor x-crossed-domain from music into physics.
+
+
+RRGM bridge:
+x-cross-domain requires bridge integrity. Without domain tracking, meaning can drift.
+
+X061 xenial
+
+
+Common meaning:
+Friendly or hospitable, especially toward guests or strangers.
+
+
+Example:
+The host was xenial to travelers.
+
+
+RRGM bridge:
+Xenial care opens relation to the outsider while preserving boundary and dignity.
+
+X062 xenial-care
+
+
+Common meaning:
+Care shown through hospitality to guests or strangers.
+
+
+Example:
+Xenial-care meant offering water to the traveler.
+
+
+RRGM bridge:
+Xenial-care protects stranger relation without turning welcome into unsafe access.
+
+X063 xenial-boundary
+
+
+Common meaning:
+A boundary around hospitality or welcome to strangers.
+
+
+Example:
+The shelter had a xenial-boundary around check-in rules.
+
+
+RRGM bridge:
+Xenial-boundary keeps welcome safe, fair, and consent-aware.
+
+X064 xenophobia
+
+
+Common meaning:
+Fear, dislike, or hostility toward foreigners, strangers, or perceived outsiders.
+
+
+Example:
+Xenophobia harmed the newcomers.
+
+
+RRGM bridge:
+Xenophobia is othering pressure. It treats difference as threat and damages dignity, trust, and recognition.
+
+X065 xenophobia-harm
+
+
+Common meaning:
+Harm caused by xenophobia.
+
+
+Example:
+The policy caused xenophobia-harm.
+
+
+RRGM bridge:
+Xenophobia-harm damages people through false threat framing, exclusion, dignity loss, or violence risk.
+
+X066 xenophobia-risk
+
+
+Common meaning:
+The danger that xenophobia may appear, spread, or cause harm.
+
+
+Example:
+The rumor created xenophobia-risk.
+
+
+RRGM bridge:
+Xenophobia-risk appears when outsider-status is framed as danger without support.
+
+X067 xeno
+
+
+Common meaning:
+A prefix meaning foreign, strange, or other.
+
+
+Example:
+Xeno appears in words like xenophobia.
+
+
+RRGM bridge:
+xeno marks otherness. It should not automatically become threat, error, or lesser status.
+
+X068 xeno-care
+
+
+Common meaning:
+Care directed toward the foreign, strange, unfamiliar, or other.
+
+
+Example:
+Xeno-care meant learning the newcomer’s needs before judging.
+
+
+RRGM bridge:
+Xeno-care protects unfamiliar patterns from false rejection and category collapse.
+
+X069 xeno-boundary
+
+
+Common meaning:
+A boundary around unfamiliar or foreign relation.
+
+
+Example:
+The group used xeno-boundary while learning the new custom.
+
+
+RRGM bridge:
+Xeno-boundary protects both host field and unfamiliar pattern without defaulting to hostility.
+
+X070 xeno-risk
+
+
+Common meaning:
+Risk involving unfamiliarity, foreignness, or otherness.
+
+
+Example:
+The first meeting had xeno-risk from misunderstanding.
+
+
+RRGM bridge:
+Xeno-risk should name the actual failure mode. Otherness itself is not harm.
+
+X071 stranger-care
+
+
+Common meaning:
+Care shown toward someone unfamiliar or not yet known.
+
+
+Example:
+Stranger-care meant helping the lost traveler find the station.
+
+
+RRGM bridge:
+Stranger-care protects unfamiliar patterns from being treated as threat by default.
+
+X072 stranger-boundary
+
+
+Common meaning:
+A boundary around contact with strangers or unfamiliar people.
+
+
+Example:
+The child learned stranger-boundary around private information.
+
+
+RRGM bridge:
+Stranger-boundary protects safety and privacy without making otherness itself harmful.
+
+X073 stranger-risk
+
+
+Common meaning:
+Risk involving unfamiliar people, places, or relation.
+
+
+Example:
+The late-night ride carried stranger-risk.
+
+
+RRGM bridge:
+Stranger-risk must name the failure mode. Unfamiliarity alone is not proof of danger.
+
+X074 other-care
+
+
+Common meaning:
+Care shown toward someone or something seen as different or outside the usual group.
+
+
+Example:
+Other-care meant listening before judging.
+
+
+RRGM bridge:
+Other-care protects recognition across difference. It refuses false collapse into threat, error, or lesser status.
+
+X075 other-boundary
+
+
+Common meaning:
+A boundary around relation with an unfamiliar or different person, group, or pattern.
+
+
+Example:
+The group used other-boundary while learning the new custom.
+
+
+RRGM bridge:
+Other-boundary protects relation without erasing difference or defaulting to hostility.
+
+X076 othering
+
+
+Common meaning:
+Treating someone as fundamentally different, lesser, foreign, or outside belonging.
+
+
+Example:
+The rumor led to othering of the newcomers.
+
+
+RRGM bridge:
+Othering damages recognition by turning difference into distance, threat, or reduced dignity.
+
+X077 othering-harm
+
+
+Common meaning:
+Harm caused by othering.
+
+
+Example:
+Othering-harm made the students feel unsafe and excluded.
+
+
+RRGM bridge:
+Othering-harm damages dignity, trust, belonging, and recognition through false separation.
+
+X078 othering-risk
+
+
+Common meaning:
+The danger that othering may happen or escalate.
+
+
+Example:
+The speech created othering-risk.
+
+
+RRGM bridge:
+Othering-risk appears when language or structure frames difference as danger without valid support.
+
+X079 excluded-other
+
+
+Common meaning:
+A person or group treated as outside the accepted field.
+
+
+Example:
+The excluded-other was left out of the decision.
+
+
+RRGM bridge:
+Excluded-other marks denied belonging or recognition. It should trigger a check for dignity, boundary, and justice.
+
+X080 excluded-other-care
+
+
+Common meaning:
+Care directed toward someone excluded or treated as other.
+
+
+Example:
+Excluded-other-care meant inviting them into the discussion.
+
+
+RRGM bridge:
+Excluded-other-care restores recognition without forcing unsafe or unwanted inclusion.
+
+X081 x-marked-person
+
+
+Common meaning:
+A person marked, labeled, targeted, or singled out.
+
+
+Example:
+The whistleblower became an x-marked-person.
+
+
+RRGM bridge:
+x-marked-person carries targeting risk. Marking can expose, protect, blame, or endanger depending on context.
+
+X082 x-marked-risk
+
+
+Common meaning:
+Risk created by being marked, labeled, or targeted.
+
+
+Example:
+The public list created x-marked-risk for the witnesses.
+
+
+RRGM bridge:
+x-marked-risk appears when visibility or labeling may cause exposure, blame, capture, or harm.
+
+X083 x-out-harm
+
+
+Common meaning:
+Harm caused by crossing out, canceling, excluding, or erasing.
+
+
+Example:
+The edit caused x-out-harm by removing the author’s name.
+
+
+RRGM bridge:
+x-out-harm occurs when removal damages trace, dignity, recognition, refusal, or continuity.
+
+X084 x-out-refusal
+
+
+Common meaning:
+To cross out, cancel, or ignore refusal.
+
+
+Example:
+The system xed-out-refusal by hiding the opt-out.
+
+
+RRGM bridge:
+x-out-refusal corrupts permission integrity. If no is erased, yes becomes structurally weak.
+
+X085 x-out-boundary
+
+
+Common meaning:
+To cancel, cross, or ignore a boundary.
+
+
+Example:
+The policy xed-out-boundary around private records.
+
+
+RRGM bridge:
+x-out-boundary damages gate integrity and may become violation when consent, privacy, or dignity is involved.
+
+X086 x-cross-consent
+
+
+Common meaning:
+To cross a consent boundary.
+
+
+Example:
+Sharing the image x-crossed-consent.
+
+
+RRGM bridge:
+x-cross-consent means the permission gate was crossed invalidly. It requires repair and future prevention.
+
+X087 x-cross-with-care
+
+
+Common meaning:
+To cross a boundary or domain carefully and with proper permission.
+
+
+Example:
+The nurse x-crossed-with-care before entering the room.
+
+
+RRGM bridge:
+x-cross-with-care preserves consent, dignity, domain, and purpose during crossing.
+
+X088 x-ray-care
+
+
+Common meaning:
+Care shown by looking beneath the surface for hidden conditions.
+
+
+Example:
+X-ray-care meant checking for hidden injury after the fall.
+
+
+RRGM bridge:
+x-ray-care protects unseen harm by inspecting hidden structure with proportion and consent.
+
+X089 hidden-harm-care
+
+
+Common meaning:
+Care directed toward harm that is not obvious or visible.
+
+
+Example:
+Hidden-harm-care meant asking about pain even when there was no bruise.
+
+
+RRGM bridge:
+Hidden-harm-care protects damage that has not yet entered ordinary recognition.
+
+X090 surface-hidden-care
+
+
+Common meaning:
+Care that checks both visible surface and hidden condition.
+
+
+Example:
+Surface-hidden-care meant treating the cut and checking for shock.
+
+
+RRGM bridge:
+Surface-hidden-care refuses visibility-totality. It protects both seen ES and unseen support or harm.
+
+X091 x-as-unknown
+
+
+Common meaning:
+X used to represent something unknown.
+
+
+Example:
+In the equation, x-as-unknown had to be solved.
+
+
+RRGM bridge:
+x-as-unknown keeps the recognition gate open until support identifies the missing value.
+
+X092 x-as-variable
+
+
+Common meaning:
+X used as a variable that can change.
+
+
+Example:
+The formula used x-as-variable for distance.
+
+
+RRGM bridge:
+x-as-variable marks changeable structure. Its meaning depends on the equation, domain, and range.
+
+X093 x-as-cancel
+
+
+Common meaning:
+X used to cross out, reject, or cancel something.
+
+
+Example:
+The editor used x-as-cancel on the duplicate line.
+
+
+RRGM bridge:
+x-as-cancel removes a pattern from active use or recognition. It should preserve trace when accountability matters.
+
+X094 x-as-choice
+
+
+Common meaning:
+X used to select or mark a choice.
+
+
+Example:
+She marked x-as-choice on the form.
+
+
+RRGM bridge:
+x-as-choice records selection. It closes one option gate inside a set.
+
+X095 x-as-error
+
+
+Common meaning:
+X used to mark something wrong or mistaken.
+
+
+Example:
+The teacher used x-as-error beside the answer.
+
+
+RRGM bridge:
+x-as-error signals failed gate. It should support correction, not only rejection.
+
+X096 x-as-target
+
+
+Common meaning:
+X used to mark a target or destination.
+
+
+Example:
+The map used x-as-target for the meeting point.
+
+
+RRGM bridge:
+x-as-target focuses attention, movement, or action toward one point.
+
+X097 x-as-signature
+
+
+Common meaning:
+X used as a signature or mark of agreement by someone unable or not choosing to write a full name.
+
+
+Example:
+He signed with x-as-signature.
+
+
+RRGM bridge:
+x-as-signature is identity-mark ES. It requires consent and valid witnessing when stakes are high.
+
+X098 x-as-crossing
+
+
+Common meaning:
+X used to show crossing paths, intersection, or overlap.
+
+
+Example:
+The diagram used x-as-crossing for the two roads.
+
+
+RRGM bridge:
+x-as-crossing marks relation point where paths meet, interfere, or transfer.
+
+X099 x-meaning
+
+
+Common meaning:
+The meaning carried by X in context.
+
+
+Example:
+The x-meaning was unclear until the legend explained it.
+
+
+RRGM bridge:
+x-meaning depends on context. X can mean unknown, target, error, choice, crossing, or cancellation.
+
+X100 x-context
+
+
+Common meaning:
+The context needed to understand what X means.
+
+
+Example:
+The x-context showed it marked a danger zone.
+
+
+RRGM bridge:
+x-context binds the symbol to the correct recognition gate.
+
+X101 x-claim
+
+
+Common meaning:
+A claim involving X, an unknown, a mark, or a variable.
+
+
+Example:
+The x-claim was that x equaled 12.
+
+
+RRGM bridge:
+x-claim must name whether X is symbol, variable, target, cancellation, or crossing.
+
+X102 x-question
+
+
+Common meaning:
+A question involving X or an unknown.
+
+
+Example:
+The x-question asked what value made the equation true.
+
+
+RRGM bridge:
+x-question opens an unknown gate. It seeks the missing value, role, or meaning.
+
+X103 x-answer
+
+
+Common meaning:
+The answer to an X or unknown problem.
+
+
+Example:
+The x-answer was 7.
+
+
+RRGM bridge:
+x-answer closes the unknown gate only if it fits the structure and domain.
+
+X104 x-proof
+
+
+Common meaning:
+Proof involving X or an unknown.
+
+
+Example:
+The x-proof showed why the answer was correct.
+
+
+RRGM bridge:
+x-proof must connect the variable, equation, domain, and result path.
+
+X105 x-symbol
+
+
+Common meaning:
+X used as a symbol.
+
+
+Example:
+The x-symbol marked the old road.
+
+
+RRGM bridge:
+x-symbol is flexible sign ES. Context controls meaning.
+
+X106 x-symbol-risk
+
+
+Common meaning:
+The danger that X may be misunderstood because it has many meanings.
+
+
+Example:
+The form had x-symbol-risk because X meant both “choose” and “reject.”
+
+
+RRGM bridge:
+x-symbol-risk appears when one symbol opens multiple gates without clear context.
+
+X107 x-term
+
+
+Common meaning:
+A term involving X.
+
+
+Example:
+The equation had an x-term.
+
+
+RRGM bridge:
+x-term is variable-linked expression. It must stay attached to its equation and domain.
+
+X108 x-term-context
+
+
+Common meaning:
+The context needed to understand an X term.
+
+
+Example:
+The x-term-context showed x meant time.
+
+
+RRGM bridge:
+x-term-context prevents variable drift by naming what X represents.
+
+X109 XML-meaning
+
+
+Common meaning:
+Meaning carried by XML structure or tags.
+
+
+Example:
+The XML-meaning came from the nested labels.
+
+
+RRGM bridge:
+XML-meaning forms through hierarchy, tags, attributes, and parser recognition.
+
+X110 XML-context
+
+
+Common meaning:
+The context needed to understand XML data.
+
+
+Example:
+The XML-context showed what each tag described.
+
+
+RRGM bridge:
+XML-context preserves data meaning by binding tags to domain and structure.
+
+X111 x-ray-claim
+
+
+Common meaning:
+A claim based on or about an x-ray.
+
+
+Example:
+The doctor made an x-ray-claim about the fracture.
+
+
+RRGM bridge:
+x-ray-claim depends on image quality, interpretation, context, and medical domain fit.
+
+X112 x-factor-claim
+
+
+Common meaning:
+A claim about a hidden or special factor.
+
+
+Example:
+The coach made an x-factor-claim about confidence.
+
+
+RRGM bridge:
+x-factor-claim should move hidden influence toward clear naming instead of vague magic.
+
+X113 x-variable-claim
+
+
+Common meaning:
+A claim about a variable named X.
+
+
+Example:
+The x-variable-claim was that x controlled the output.
+
+
+RRGM bridge:
+x-variable-claim must name what X represents, its range, and effect path.
+
+X114 x-axis-claim
+
+
+Common meaning:
+A claim about the x-axis.
+
+
+Example:
+The x-axis-claim was that it measured time.
+
+
+RRGM bridge:
+x-axis-claim must identify scale, label, units, and reference frame.
+
+X115 x-coordinate-claim
+
+
+Common meaning:
+A claim about horizontal position.
+
+
+Example:
+The x-coordinate-claim placed the object at 5.
+
+
+RRGM bridge:
+x-coordinate-claim only holds inside a coordinate frame.
+
+X116 x-mark-meaning
+
+
+Common meaning:
+Meaning carried by an X mark.
+
+
+Example:
+The x-mark-meaning was “do not enter.”
+
+
+RRGM bridge:
+x-mark-meaning depends on symbol convention, context, and field rules.
+
+X117 x-out-meaning
+
+
+Common meaning:
+Meaning carried by crossing something out.
+
+
+Example:
+The x-out-meaning was rejection.
+
+
+RRGM bridge:
+x-out-meaning may signal correction, erasure, refusal, cancellation, or suppression.
+
+X118 x-cross-meaning
+
+
+Common meaning:
+Meaning carried by crossing paths or X-shaped structure.
+
+
+Example:
+The x-cross-meaning showed intersection.
+
+
+RRGM bridge:
+x-cross-meaning signals meeting, conflict, overlap, transfer, or boundary crossing.
+
+X119 unknown-variable-meaning
+
+
+Common meaning:
+Meaning carried by an unknown variable.
+
+
+Example:
+The unknown-variable-meaning was the missing distance.
+
+
+RRGM bridge:
+Unknown-variable-meaning keeps the field open until the missing value is solved.
+
+X120 hidden-structure-meaning
+
+
+Common meaning:
+Meaning carried by hidden structure beneath the visible surface.
+
+
+Example:
+The hidden-structure-meaning explained why the bridge looked fine but was unsafe.
+
+
+RRGM bridge:
+Hidden-structure-meaning protects against surface-only judgment. Unseen ES can be load-bearing.
+
+X121 x-axis-state
+
+
+Common meaning:
+The current condition of the x-axis.
+
+
+Example:
+The x-axis-state was mislabeled.
+
+
+RRGM bridge:
+x-axis-state describes reference-line integrity, label, scale, and domain fit.
+
+X122 x-coordinate-state
+
+
+Common meaning:
+The current condition or value of an x-coordinate.
+
+
+Example:
+The x-coordinate-state changed as the object moved.
+
+
+RRGM bridge:
+x-coordinate-state describes horizontal position inside a coordinate frame.
+
+X123 x-value-state
+
+
+Common meaning:
+The current condition or value of x.
+
+
+Example:
+The x-value-state was unknown.
+
+
+RRGM bridge:
+x-value-state describes whether x is known, unknown, valid, changing, or out of range.
+
+X124 x-ray-state
+
+
+Common meaning:
+The current condition of an x-ray image, scan, or radiation process.
+
+
+Example:
+The x-ray-state was too blurry to read.
+
+
+RRGM bridge:
+x-ray-state describes internal visibility quality, image integrity, and interpretation readiness.
+
+X125 x-ray-field
+
+
+Common meaning:
+A field where x-rays are used, present, or detected.
+
+
+Example:
+The x-ray-field required shielding.
+
+
+RRGM bridge:
+x-ray-field is internal-visibility and radiation space. It can reveal hidden structure but carries exposure risk.
+
+X126 xenon-state
+
+
+Common meaning:
+The current condition of xenon.
+
+
+Example:
+The xenon-state changed under pressure.
+
+
+RRGM bridge:
+xenon-state belongs to chemistry and physics domain conditions.
+
+X127 xylophone-state
+
+
+Common meaning:
+The current condition of a xylophone.
+
+
+Example:
+The xylophone-state was out of tune.
+
+
+RRGM bridge:
+xylophone-state describes sound structure, tuning, material integrity, and tone readiness.
+
+X128 xylem-state
+
+
+Common meaning:
+The current condition of xylem tissue.
+
+
+Example:
+The xylem-state weakened during drought.
+
+
+RRGM bridge:
+xylem-state describes plant transport support, flow, blockage, and life-support capacity.
+
+X129 XML-state
+
+
+Common meaning:
+The current condition of XML data or structure.
+
+
+Example:
+The XML-state was invalid after a missing tag.
+
+
+RRGM bridge:
+XML-state describes whether tagged data ES is valid, broken, parsed, nested, or corrupted.
+
+X130 XML-structure
+
+
+Common meaning:
+The organized structure of XML tags, elements, and attributes.
+
+
+Example:
+The XML-structure showed nested records.
+
+
+RRGM bridge:
+XML-structure is hierarchical data ES. It supports machine-readable meaning through organized tags.
+
+X131 x-mark-state
+
+
+Common meaning:
+The current condition or meaning of an X mark.
+
+
+Example:
+The x-mark-state was unclear.
+
+
+RRGM bridge:
+x-mark-state describes whether the mark means choice, error, target, cancellation, or boundary.
+
+X132 x-cross-state
+
+
+Common meaning:
+The current condition of a crossing or X-shaped relation.
+
+
+Example:
+The x-cross-state was blocked.
+
+
+RRGM bridge:
+x-cross-state describes intersection, overlap, conflict, or transfer condition.
+
+X133 x-point-state
+
+
+Common meaning:
+The current condition of a point marked by X.
+
+
+Example:
+The x-point-state moved after the map update.
+
+
+RRGM bridge:
+x-point-state describes selected location, target validity, and map relation.
+
+X134 x-position-state
+
+
+Common meaning:
+The current condition of x-position.
+
+
+Example:
+The x-position-state shifted right.
+
+
+RRGM bridge:
+x-position-state describes location along one reference dimension.
+
+X135 x-variable-state
+
+
+Common meaning:
+The current condition of the x-variable.
+
+
+Example:
+The x-variable-state was solved.
+
+
+RRGM bridge:
+x-variable-state describes whether the variable is unknown, assigned, valid, changing, or out of domain.
+
+X136 x-input-state
+
+
+Common meaning:
+The current condition of x-input.
+
+
+Example:
+The x-input-state was outside the allowed domain.
+
+
+RRGM bridge:
+x-input-state describes whether input is valid, missing, blocked, transformed, or out of range.
+
+X137 x-output-state
+
+
+Common meaning:
+The current condition of x-output.
+
+
+Example:
+The x-output-state failed the check.
+
+
+RRGM bridge:
+x-output-state describes result integrity for an x-related process or output label.
+
+X138 x-factor-state
+
+
+Common meaning:
+The current condition of a hidden or special factor.
+
+
+Example:
+The x-factor-state became clearer after testing.
+
+
+RRGM bridge:
+x-factor-state describes whether hidden influence is unknown, identified, active, or overclaimed.
+
+X139 x-domain-state
+
+
+Common meaning:
+The current condition of the x-domain.
+
+
+Example:
+The x-domain-state was restricted to positive numbers.
+
+
+RRGM bridge:
+x-domain-state describes allowed input field and domain limits.
+
+X140 x-range-state
+
+
+Common meaning:
+The current condition of the x-range.
+
+
+Example:
+The x-range-state narrowed after filtering.
+
+
+RRGM bridge:
+x-range-state describes horizontal value spread or allowed x-value variation.

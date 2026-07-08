@@ -1,0 +1,2528 @@
+RRGM Dictionary v1.0
+Section: Y
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 180
+
+Y001 yard
+
+
+Common meaning:
+An outdoor area near a building, or a unit of length equal to three feet.
+
+
+Example:
+The children played in the yard.
+
+
+RRGM bridge:
+Yard must be context-bound. It can mean space-field around a home or measurement ES.
+
+Y002 year
+
+
+Common meaning:
+A period of about twelve months, or one orbit of Earth around the sun.
+
+
+Example:
+The project took one year.
+
+
+RRGM bridge:
+Year is time-cycle ES. It supports memory, age, seasons, planning, and historical trace.
+
+Y003 yellow
+
+
+Common meaning:
+A bright color between green and orange.
+
+
+Example:
+The flower was yellow.
+
+
+RRGM bridge:
+Yellow is color-signal. It can mark visibility, warning, warmth, attention, or category depending on context.
+
+Y004 yes
+
+
+Common meaning:
+An answer showing agreement, acceptance, permission, or confirmation.
+
+
+Example:
+She said yes to the invitation.
+
+
+RRGM bridge:
+Yes opens a permission or agreement gate. It only has clean meaning when refusal could also count.
+
+Y005 yet
+
+
+Common meaning:
+Up to now, still, nevertheless, or at a future point.
+
+
+Example:
+The answer was not ready yet.
+
+
+RRGM bridge:
+Yet keeps the gate open across time. It preserves possibility while naming incompletion.
+
+Y006 yield
+
+
+Common meaning:
+To give way, produce a result, or provide output.
+
+
+Example:
+The plant yielded fruit.
+
+
+RRGM bridge:
+Yield must be context-bound. It can mean surrender pressure, output production, or result generation.
+
+Y007 you
+
+
+Common meaning:
+A pronoun referring to the person or people being addressed.
+
+
+Example:
+You are invited.
+
+
+RRGM bridge:
+You opens a direct relation gate. It identifies the addressed subject or receiver.
+
+Y008 young
+
+
+Common meaning:
+Early in life, development, or existence.
+
+
+Example:
+The young tree needed support.
+
+
+RRGM bridge:
+Young marks early-stage condition. It often needs extra support, protection, and growth time.
+
+Y009 your
+
+
+Common meaning:
+Belonging to or associated with the person being addressed.
+
+
+Example:
+Your coat is on the chair.
+
+
+RRGM bridge:
+Your marks relation, possession, or association. Ownership and association should not be collapsed.
+
+Y010 yours
+
+
+Common meaning:
+Belonging to you.
+
+
+Example:
+The blue cup is yours.
+
+
+RRGM bridge:
+Yours marks possession or assigned relation. It should be checked against source, consent, and boundary when stakes matter.
+
+Y011 yourself
+
+
+Common meaning:
+The person being addressed, used for emphasis or reflexive meaning.
+
+
+Example:
+You did it yourself.
+
+
+RRGM bridge:
+Yourself marks self-relation for the addressed subject. It can signal autonomy, responsibility, identity, or direct self-reference.
+
+Y012 youth
+
+
+Common meaning:
+The time of being young, or young people as a group.
+
+
+Example:
+The program supported youth.
+
+
+RRGM bridge:
+Youth is early-life or early-development field. It requires care, protection, learning support, and dignity.
+
+Y013 yesterday
+
+
+Common meaning:
+The day before today, or the recent past.
+
+
+Example:
+Yesterday was rainy.
+
+
+RRGM bridge:
+Yesterday anchors memory in near-past sequence. It supports trace, correction, and comparison.
+
+Y014 y-axis
+
+
+Common meaning:
+The vertical axis on a graph.
+
+
+Example:
+Height was shown on the y-axis.
+
+
+RRGM bridge:
+y-axis is reference-line ES. It gives vertical position or output relation inside a graph frame.
+
+Y015 y-coordinate
+
+
+Common meaning:
+The vertical position of a point on a graph or coordinate plane.
+
+
+Example:
+The y-coordinate was 6.
+
+
+RRGM bridge:
+y-coordinate anchors position along one dimension. It only has meaning inside a coordinate frame.
+
+Y016 y-value
+
+
+Common meaning:
+The value assigned to y, or the vertical/output value in a graph.
+
+
+Example:
+When x was 2, the y-value was 5.
+
+
+RRGM bridge:
+y-value often marks output or vertical position. It depends on function, axis, and domain.
+
+Y017 y-intercept
+
+
+Common meaning:
+The point where a graph crosses the y-axis.
+
+
+Example:
+The y-intercept was 3.
+
+
+RRGM bridge:
+y-intercept is crossing point between function and y-axis. It often shows output when input is zero.
+
+Y018 y-input
+
+
+Common meaning:
+An input labeled y, or a y-related input value depending on system design.
+
+
+Example:
+The sensor used y-input for vertical movement.
+
+
+RRGM bridge:
+y-input must be context-bound. In many graphs y is output, but in some systems y can be input.
+
+Y019 y-output
+
+
+Common meaning:
+An output labeled y, or the result value in many functions.
+
+
+Example:
+The y-output changed when x changed.
+
+
+RRGM bridge:
+y-output is result-position or output ES. It depends on input, function, and reference frame.
+
+Y020 y-state
+
+
+Common meaning:
+The current condition or value of y.
+
+
+Example:
+The y-state was unknown.
+
+
+RRGM bridge:
+y-state describes current vertical, output, or variable condition. It may be known, hidden, changing, or invalid.
+
+Y021 yearly
+
+
+Common meaning:
+Happening once a year or lasting for a year.
+
+
+Example:
+The yearly report was due in June.
+
+
+RRGM bridge:
+Yearly marks repeated time-cycle. It supports planning, review, memory, and renewal.
+
+Y022 yell
+
+
+Common meaning:
+To shout loudly.
+
+
+Example:
+He yelled for help.
+
+
+RRGM bridge:
+Yell is high-volume voice signal. It can carry warning, pain, anger, urgency, or pressure.
+
+Y023 yield-point
+
+
+Common meaning:
+The point where something begins to give way, bend, produce, or change under pressure.
+
+
+Example:
+The metal reached its yield-point.
+
+
+RRGM bridge:
+Yield-point is threshold under force. It marks where structure changes instead of merely resisting.
+
+Y024 yes-state
+
+
+Common meaning:
+A condition of agreement, permission, or confirmation.
+
+
+Example:
+The form entered yes-state after approval.
+
+
+RRGM bridge:
+Yes-state means the permission or agreement gate is open. It is valid only if refusal remained possible.
+
+Y025 young-state
+
+
+Common meaning:
+The condition of being young or early in development.
+
+
+Example:
+The young-state of the plant made it fragile.
+
+
+RRGM bridge:
+Young-state describes early growth condition. It often needs scaffolding and protection.
+
+Y026 youth-state
+
+
+Common meaning:
+The current condition of youth or young people.
+
+
+Example:
+The youth-state in the community showed high need for support.
+
+
+RRGM bridge:
+Youth-state describes early-development field conditions, including care, risk, learning, and protection.
+
+Y027 your-context
+
+
+Common meaning:
+Context related to you or the person being addressed.
+
+
+Example:
+Your-context explained why the answer needed to be shorter.
+
+
+RRGM bridge:
+Your-context is receiver-specific support. It improves fit while preserving privacy and boundary.
+
+Y028 yourself-context
+
+
+Common meaning:
+Context related to oneself or self-reference.
+
+
+Example:
+Yourself-context helped explain the decision.
+
+
+RRGM bridge:
+Yourself-context supports self-recognition, self-boundary, responsibility, and continuity.
+
+Y029 yonder
+
+
+Common meaning:
+Over there or at some distance.
+
+
+Example:
+The cabin stood yonder by the trees.
+
+
+RRGM bridge:
+Yonder marks distant location-field. It points attention away from the immediate field.
+
+Y030 yoke
+
+
+Common meaning:
+A device joining animals for work, or a bond, burden, or link.
+
+
+Example:
+The oxen wore a yoke.
+
+
+RRGM bridge:
+Yoke is coupling structure. It can enable shared work or become burden and capture depending on consent and load.
+
+Y031 yield-to
+
+
+Common meaning:
+To give way to someone or something.
+
+
+Example:
+The driver yielded-to traffic.
+
+
+RRGM bridge:
+Yield-to shifts priority or path. It can be respect, safety, surrender, or pressure response.
+
+Y032 yield-from
+
+
+Common meaning:
+To produce or result from something.
+
+
+Example:
+The harvest yielded-from healthy soil.
+
+
+RRGM bridge:
+Yield-from names source path for result or output. It shows what support produced the outcome.
+
+Y033 yield-result
+
+
+Common meaning:
+To produce a result.
+
+
+Example:
+The test yielded-result after one hour.
+
+
+RRGM bridge:
+Yield-result turns process into output. The result should stay tied to method and conditions.
+
+Y034 yield-output
+
+
+Common meaning:
+To produce output.
+
+
+Example:
+The system yielded-output after processing data.
+
+
+RRGM bridge:
+Yield-output expresses result from input, structure, and process gates.
+
+Y035 yell-out
+
+
+Common meaning:
+To shout loudly or suddenly.
+
+
+Example:
+She yelled-out a warning.
+
+
+RRGM bridge:
+Yell-out sends high-intensity signal. It can protect through urgency or harm through pressure.
+
+Y036 yes-to
+
+
+Common meaning:
+To agree to, accept, approve, or give permission to something.
+
+
+Example:
+He said yes-to the plan.
+
+
+RRGM bridge:
+Yes-to opens a specific permission gate. The object of yes must be clear.
+
+Y037 yes-with-boundary
+
+
+Common meaning:
+Agreement or permission given with limits.
+
+
+Example:
+She said yes-with-boundary to helping for one hour.
+
+
+RRGM bridge:
+Yes-with-boundary preserves consent by naming scope, limit, and condition.
+
+Y038 yes-with-consent
+
+
+Common meaning:
+Agreement that is freely and knowingly given.
+
+
+Example:
+The form required yes-with-consent.
+
+
+RRGM bridge:
+Yes-with-consent means the permission gate opened cleanly. Refusal must remain possible.
+
+Y039 yes-with-context
+
+
+Common meaning:
+Agreement or confirmation understood with surrounding information.
+
+
+Example:
+Her yes-with-context meant yes to dinner, not the whole trip.
+
+
+RRGM bridge:
+Yes-with-context protects scope. It prevents one yes from being stretched beyond support.
+
+Y040 year-mark
+
+
+Common meaning:
+A mark showing a year or yearly point.
+
+
+Example:
+The archive used a year-mark on each box.
+
+
+RRGM bridge:
+Year-mark anchors memory in annual sequence. It supports trace, history, and review.
+
+Y041 year-check
+
+
+Common meaning:
+A check of the year, annual timing, or yearly record.
+
+
+Example:
+The accountant did a year-check.
+
+
+RRGM bridge:
+Year-check verifies time-cycle position and record integrity.
+
+Y042 y-axis-read
+
+
+Common meaning:
+To read values along the y-axis.
+
+
+Example:
+She used y-axis-read to find the height.
+
+
+RRGM bridge:
+y-axis-read extracts meaning from a vertical reference line. Scale and label integrity matter.
+
+Y043 y-coordinate-map
+
+
+Common meaning:
+A map using y-coordinates to locate points.
+
+
+Example:
+The y-coordinate-map showed vertical positions.
+
+
+RRGM bridge:
+y-coordinate-map organizes position through reference structure. It supports trace and placement.
+
+Y044 y-value-check
+
+
+Common meaning:
+To check the value of y.
+
+
+Example:
+The student did a y-value-check after graphing.
+
+
+RRGM bridge:
+y-value-check tests whether the output or vertical value fits the function and domain.
+
+Y045 y-intercept-find
+
+
+Common meaning:
+To find the y-intercept.
+
+
+Example:
+They used the equation to y-intercept-find.
+
+
+RRGM bridge:
+y-intercept-find identifies where the function crosses the y-axis, often when input is zero.
+
+Y046 y-output-check
+
+
+Common meaning:
+To check output related to y.
+
+
+Example:
+The program ran a y-output-check.
+
+
+RRGM bridge:
+y-output-check tests result integrity for a y-related output or vertical value.
+
+Y047 y-state-check
+
+
+Common meaning:
+To check the current state of y.
+
+
+Example:
+The model did a y-state-check before plotting.
+
+
+RRGM bridge:
+y-state-check asks whether y is known, valid, changing, or out of range.
+
+Y048 young-grow
+
+
+Common meaning:
+To grow while young or early in development.
+
+
+Example:
+The young tree began to young-grow quickly.
+
+
+RRGM bridge:
+Young-grow is early-stage development. It needs support, protection, and time.
+
+Y049 youth-support
+
+
+Common meaning:
+Support for youth or young people.
+
+
+Example:
+The center offered youth-support after school.
+
+
+RRGM bridge:
+Youth-support protects early-development capacity, learning, safety, and dignity.
+
+Y050 yoke-together
+
+
+Common meaning:
+To join together under a yoke, bond, burden, or shared work.
+
+
+Example:
+The animals were yoked-together.
+
+
+RRGM bridge:
+Yoke-together creates linked load or shared work. It must be checked for consent, fairness, and capture.
+
+Y051 yoke-with-boundary
+
+
+Common meaning:
+To link or join with clear limits.
+
+
+Example:
+They yoked-with-boundary through a short-term agreement.
+
+
+RRGM bridge:
+Yoke-with-boundary allows coupling without false ownership or forced burden.
+
+Y052 yield-under-pressure
+
+
+Common meaning:
+To give way because of pressure.
+
+
+Example:
+The beam yielded-under-pressure.
+
+
+RRGM bridge:
+Yield-under-pressure may signal structural limit, coercion, or adaptive release. Context decides whether it is repair or harm.
+
+Y053 yield-with-care
+
+
+Common meaning:
+To give way or produce result carefully.
+
+
+Example:
+She yielded-with-care during the tense discussion.
+
+
+RRGM bridge:
+Yield-with-care reduces force while preserving dignity, boundary, and continuity.
+
+Y054 yield-without-collapse
+
+
+Common meaning:
+To give way without breaking down.
+
+
+Example:
+The flexible bridge yielded-without-collapse.
+
+
+RRGM bridge:
+Yield-without-collapse allows adaptation under pressure while preserving structure.
+
+Y055 yesterday-check
+
+
+Common meaning:
+A review of what happened yesterday or in the recent past.
+
+
+Example:
+They did a yesterday-check before updating the report.
+
+
+RRGM bridge:
+Yesterday-check verifies near-past trace. It supports correction and continuity.
+
+Y056 yesterday-context
+
+
+Common meaning:
+Context from yesterday or the recent past.
+
+
+Example:
+Yesterday-context explained why the room was messy.
+
+
+RRGM bridge:
+Yesterday-context preserves near-past support for present meaning.
+
+Y057 your-claim-check
+
+
+Common meaning:
+A check of a claim made by or about you.
+
+
+Example:
+The assistant did your-claim-check before answering.
+
+
+RRGM bridge:
+Your-claim-check respects user signal while checking support, scope, and domain.
+
+Y058 yourself-reflect
+
+
+Common meaning:
+To reflect on yourself.
+
+
+Example:
+She used the journal to yourself-reflect.
+
+
+RRGM bridge:
+Yourself-reflect opens self-recognition through memory, reason, boundary, and care.
+
+Y059 yes-before-action
+
+
+Common meaning:
+Getting agreement before acting.
+
+
+Example:
+The nurse waited for yes-before-action.
+
+
+RRGM bridge:
+Yes-before-action protects consent by opening permission before the gate is crossed.
+
+Y060 yes-after-understanding
+
+
+Common meaning:
+Agreement given after understanding the situation.
+
+
+Example:
+The contract required yes-after-understanding.
+
+
+RRGM bridge:
+Yes-after-understanding strengthens consent because the permission gate opens with context and risk recognized.
+
+Y061 yes-care
+
+
+Common meaning:
+Care shown through agreement, permission, or acceptance.
+
+
+Example:
+Yes-care meant agreeing to help after understanding what was needed.
+
+
+RRGM bridge:
+Yes-care opens support through permission. It remains care only when boundary and refusal stay intact.
+
+Y062 yes-boundary
+
+
+Common meaning:
+A limit around yes, agreement, or permission.
+
+
+Example:
+Her yes-boundary was helping today, not every weekend.
+
+
+RRGM bridge:
+Yes-boundary protects scope. A yes should not be stretched beyond what was actually permitted.
+
+Y063 yes-risk
+
+
+Common meaning:
+The danger that yes may be pressured, misunderstood, overextended, or treated as total permission.
+
+
+Example:
+The vague form created yes-risk.
+
+
+RRGM bridge:
+Yes-risk appears when agreement may not be informed, scoped, voluntary, or refusal-compatible.
+
+Y064 yes-pressure
+
+
+Common meaning:
+Pressure to say yes.
+
+
+Example:
+Yes-pressure made him agree before he was ready.
+
+
+RRGM bridge:
+Yes-pressure weakens permission integrity. Agreement under pressure may not be clean consent.
+
+Y065 yes-without-refusal
+
+
+Common meaning:
+A yes given where refusal was not possible or not allowed.
+
+
+Example:
+The system forced yes-without-refusal by hiding the decline button.
+
+
+RRGM bridge:
+Yes-without-refusal is structurally weak. If no could not count, yes cannot fully count.
+
+Y066 yes-without-understanding
+
+
+Common meaning:
+Agreement given without understanding the meaning, risk, or scope.
+
+
+Example:
+The contract created yes-without-understanding.
+
+
+RRGM bridge:
+Yes-without-understanding weakens consent because the permission gate opened without enough context.
+
+Y067 yes-without-consent
+
+
+Common meaning:
+A false yes treated as consent when real consent was absent.
+
+
+Example:
+The checkbox caused yes-without-consent because it was preselected and hidden.
+
+
+RRGM bridge:
+Yes-without-consent corrupts permission. It is not valid yes when agency, understanding, or refusal is missing.
+
+Y068 yes-with-trust
+
+
+Common meaning:
+Agreement or permission given in a trust relationship.
+
+
+Example:
+She said yes-with-trust because he had always respected her boundaries.
+
+
+RRGM bridge:
+Yes-with-trust depends on relation-coherence. Trust must not be used to bypass scope or refusal.
+
+Y069 yes-with-care
+
+
+Common meaning:
+Agreement given or received carefully.
+
+
+Example:
+They handled yes-with-care by checking comfort and limits.
+
+
+RRGM bridge:
+Yes-with-care preserves permission, dignity, scope, and future refusal.
+
+Y070 yield-care
+
+
+Common meaning:
+Care shown by yielding, giving way, or reducing force.
+
+
+Example:
+Yield-care meant letting the tired person sit.
+
+
+RRGM bridge:
+Yield-care lowers pressure to protect dignity, safety, or relation.
+
+Y071 yield-boundary
+
+
+Common meaning:
+A limit around yielding or giving way.
+
+
+Example:
+Her yield-boundary was compromising on timing, not on privacy.
+
+
+RRGM bridge:
+Yield-boundary prevents adaptation from becoming surrender, erasure, or capture.
+
+Y072 yield-risk
+
+
+Common meaning:
+The danger that yielding may become collapse, coercion, or loss of boundary.
+
+
+Example:
+The negotiation had yield-risk because one side could not safely refuse.
+
+
+RRGM bridge:
+Yield-risk appears when giving way may impair dignity, refusal, continuity, or structural integrity.
+
+Y073 young-care
+
+
+Common meaning:
+Care given to someone or something young.
+
+
+Example:
+Young-care meant protecting the seedlings from frost.
+
+
+RRGM bridge:
+Young-care supports early-stage growth with protection, patience, and scaffolding.
+
+Y074 young-boundary
+
+
+Common meaning:
+A boundary protecting someone or something young.
+
+
+Example:
+The young-boundary kept children away from the road.
+
+
+RRGM bridge:
+Young-boundary protects developing capacity from harm paths it cannot yet manage alone.
+
+Y075 youth-care
+
+
+Common meaning:
+Care directed toward youth or young people.
+
+
+Example:
+Youth-care included mentoring and safe spaces.
+
+
+RRGM bridge:
+Youth-care protects early-development dignity, learning, safety, and future capacity.
+
+Y076 youth-boundary
+
+
+Common meaning:
+A boundary protecting youth.
+
+
+Example:
+The program had youth-boundary around private information.
+
+
+RRGM bridge:
+Youth-boundary protects developing subjects from exposure, exploitation, pressure, or invalid access.
+
+Y077 youth-risk
+
+
+Common meaning:
+The danger of harm to youth or young people.
+
+
+Example:
+The unsafe platform created youth-risk.
+
+
+RRGM bridge:
+Youth-risk appears when developing capacity, dignity, safety, learning, or consent may be impaired.
+
+Y078 yell-harm
+
+
+Common meaning:
+Harm caused by yelling.
+
+
+Example:
+Yell-harm made the child afraid to answer.
+
+
+RRGM bridge:
+Yell-harm damages trust, dignity, safety, or relation through high-pressure voice signal.
+
+Y079 yell-boundary
+
+
+Common meaning:
+A limit around yelling or high-volume speech.
+
+
+Example:
+Their yell-boundary was no shouting during disagreements.
+
+
+RRGM bridge:
+Yell-boundary protects voice-field from becoming pressure, fear, or harm.
+
+Y080 your-boundary
+
+
+Common meaning:
+A boundary belonging to or associated with you.
+
+
+Example:
+Your-boundary matters even if others dislike it.
+
+
+RRGM bridge:
+Your-boundary protects the addressed subject’s dignity, privacy, refusal, and capacity.
+
+Y081 yourself-care
+
+
+Common meaning:
+Care directed toward yourself.
+
+
+Example:
+Yourself-care meant resting before burnout.
+
+
+RRGM bridge:
+Yourself-care preserves self-capacity, boundary, continuity, and repair ability.
+
+Y082 yourself-boundary
+
+
+Common meaning:
+A boundary protecting yourself.
+
+
+Example:
+Yourself-boundary meant not answering messages after midnight.
+
+
+RRGM bridge:
+Yourself-boundary protects identity-pattern, capacity, and self-recognition from overreach.
+
+Y083 yoke-care
+
+
+Common meaning:
+Care shown in a linked burden, partnership, or shared work.
+
+
+Example:
+Yoke-care meant making sure both animals carried fair weight.
+
+
+RRGM bridge:
+Yoke-care preserves fairness and capacity inside coupling.
+
+Y084 yoke-risk
+
+
+Common meaning:
+The danger that a yoke, bond, or shared burden may become unfair, coercive, or harmful.
+
+
+Example:
+The contract created yoke-risk.
+
+
+RRGM bridge:
+Yoke-risk appears when coupling becomes capture, unequal load, or forced relation.
+
+Y085 yesterday-care
+
+
+Common meaning:
+Care shown toward what happened yesterday or the recent past.
+
+
+Example:
+Yesterday-care meant checking on her after yesterday’s argument.
+
+
+RRGM bridge:
+Yesterday-care preserves near-past memory so repair, continuity, and dignity can continue.
+
+Y086 yesterday-harm
+
+
+Common meaning:
+Harm from yesterday or the recent past that remains active.
+
+
+Example:
+Yesterday-harm shaped today’s silence.
+
+
+RRGM bridge:
+Yesterday-harm shows that past damage can remain active through memory, trust, and boundary.
+
+Y087 year-care
+
+
+Common meaning:
+Care shown across a year or through yearly attention.
+
+
+Example:
+Year-care meant annual checkups.
+
+
+RRGM bridge:
+Year-care preserves continuity through long-cycle support, review, and renewal.
+
+Y088 year-boundary
+
+
+Common meaning:
+A boundary around yearly time, cycles, or records.
+
+
+Example:
+The budget had a year-boundary.
+
+
+RRGM bridge:
+Year-boundary defines annual scope. It supports planning, accountability, and review.
+
+Y089 yes-respect
+
+
+Common meaning:
+Respect for someone’s yes, agreement, or permission.
+
+
+Example:
+Yes-respect meant honoring the exact help she agreed to.
+
+
+RRGM bridge:
+Yes-respect preserves scope. Respecting yes also means not expanding it beyond its boundary.
+
+Y090 youth-respect
+
+
+Common meaning:
+Respect for young people’s dignity, voice, and development.
+
+
+Example:
+Youth-respect meant listening instead of dismissing them.
+
+
+RRGM bridge:
+Youth-respect treats developing subjects as dignity-bearing, not unfinished objects.
+
+Y091 yes-meaning
+
+
+Common meaning:
+The meaning carried by yes, agreement, confirmation, or permission.
+
+
+Example:
+The yes-meaning was approval for the meeting, not the whole project.
+
+
+RRGM bridge:
+Yes-meaning depends on scope, context, understanding, and whether refusal could count.
+
+Y092 yes-claim
+
+
+Common meaning:
+A claim that someone agreed, accepted, or gave permission.
+
+
+Example:
+The company made a yes-claim based on the checkbox.
+
+
+RRGM bridge:
+Yes-claim must show consent integrity: scope, context, understanding, voluntariness, and refusal access.
+
+Y093 yes-context
+
+
+Common meaning:
+The context needed to understand a yes.
+
+
+Example:
+The yes-context showed she agreed only to share the title.
+
+
+RRGM bridge:
+Yes-context protects permission from overextension. A yes without context can be misused.
+
+Y094 yes-language
+
+
+Common meaning:
+Language used to agree, confirm, approve, or permit.
+
+
+Example:
+The form used yes-language in the consent section.
+
+
+RRGM bridge:
+Yes-language must be clear, scoped, and refusal-compatible.
+
+Y095 yes-risk-language
+
+
+Common meaning:
+Language that makes yes unclear, pressured, or too broad.
+
+
+Example:
+The phrase “I accept everything” created yes-risk-language.
+
+
+RRGM bridge:
+Yes-risk-language appears when agreement terms hide scope, pressure, or refusal loss.
+
+Y096 yet-meaning
+
+
+Common meaning:
+Meaning carried by yet, incompletion, continuation, or contrast.
+
+
+Example:
+The yet-meaning was that the answer might still come.
+
+
+RRGM bridge:
+Yet-meaning keeps possibility open across time. It resists false closure.
+
+Y097 yet-claim
+
+
+Common meaning:
+A claim involving “yet,” incompletion, or future possibility.
+
+
+Example:
+The yet-claim was that the result had not appeared yet.
+
+
+RRGM bridge:
+Yet-claim should preserve time-state and possibility without pretending completion.
+
+Y098 yield-meaning
+
+
+Common meaning:
+Meaning carried by yielding, producing, or giving way.
+
+
+Example:
+The yield-meaning was surrender in that context, not output.
+
+
+RRGM bridge:
+Yield-meaning must be domain-bound: surrender, output, result, or flexible adaptation.
+
+Y099 yield-claim
+
+
+Common meaning:
+A claim about yielding, production, result, or giving way.
+
+
+Example:
+The study made a yield-claim about crop growth.
+
+
+RRGM bridge:
+Yield-claim should name whether yield means output, surrender, production, or threshold change.
+
+Y100 you-claim
+
+
+Common meaning:
+A claim about the person being addressed.
+
+
+Example:
+The statement made a you-claim about your choice.
+
+
+RRGM bridge:
+You-claim directly touches the addressed subject. It should preserve accuracy, dignity, and context.
+
+Y101 you-context
+
+
+Common meaning:
+Context about the person or people being addressed.
+
+
+Example:
+You-context helped explain why the answer needed to be short.
+
+
+RRGM bridge:
+You-context supports fit and recognition while preserving privacy and boundary.
+
+Y102 your-meaning
+
+
+Common meaning:
+Meaning related to ownership, association, or relation to you.
+
+
+Example:
+The your-meaning in “your idea” was authorship, not property transfer.
+
+
+RRGM bridge:
+Your-meaning must distinguish ownership, origin, association, responsibility, and relation.
+
+Y103 yourself-meaning
+
+
+Common meaning:
+Meaning related to self-reference or emphasis for the addressed subject.
+
+
+Example:
+The yourself-meaning showed responsibility: you did it yourself.
+
+
+RRGM bridge:
+Yourself-meaning can mark autonomy, self-action, self-care, responsibility, or identity relation.
+
+Y104 year-claim
+
+
+Common meaning:
+A claim about a year, annual period, or date.
+
+
+Example:
+The document made a year-claim about publication.
+
+
+RRGM bridge:
+Year-claim should preserve calendar frame, sequence, and source trace.
+
+Y105 yearly-claim
+
+
+Common meaning:
+A claim about something happening once a year or over a year.
+
+
+Example:
+The policy made a yearly-claim about review cycles.
+
+
+RRGM bridge:
+Yearly-claim must name cycle, timing, and recurrence conditions.
+
+Y106 yesterday-claim
+
+
+Common meaning:
+A claim about yesterday or the recent past.
+
+
+Example:
+The message made a yesterday-claim about the meeting.
+
+
+RRGM bridge:
+Yesterday-claim should be checked against near-past trace, memory, and sequence.
+
+Y107 y-axis-claim
+
+
+Common meaning:
+A claim about the y-axis.
+
+
+Example:
+The y-axis-claim was that it measured height.
+
+
+RRGM bridge:
+y-axis-claim must identify scale, label, units, and graph frame.
+
+Y108 y-coordinate-claim
+
+
+Common meaning:
+A claim about vertical position.
+
+
+Example:
+The y-coordinate-claim placed the object at 8.
+
+
+RRGM bridge:
+y-coordinate-claim only holds inside a coordinate frame.
+
+Y109 y-value-claim
+
+
+Common meaning:
+A claim about the value of y.
+
+
+Example:
+The y-value-claim was that y equaled 12.
+
+
+RRGM bridge:
+y-value-claim must fit function, input, domain, and output structure.
+
+Y110 y-intercept-claim
+
+
+Common meaning:
+A claim about where a graph crosses the y-axis.
+
+
+Example:
+The y-intercept-claim was 4.
+
+
+RRGM bridge:
+y-intercept-claim should identify the function, graph frame, and input condition.
+
+Y111 young-claim
+
+
+Common meaning:
+A claim that someone or something is young or early in development.
+
+
+Example:
+The report made a young-claim about the forest.
+
+
+RRGM bridge:
+Young-claim must define developmental frame. Young in age, stage, or experience are different gates.
+
+Y112 youth-claim
+
+
+Common meaning:
+A claim about youth or young people.
+
+
+Example:
+The study made a youth-claim about school access.
+
+
+RRGM bridge:
+Youth-claim should preserve dignity, developmental context, and evidence scope.
+
+Y113 yell-meaning
+
+
+Common meaning:
+Meaning carried by yelling.
+
+
+Example:
+The yell-meaning was warning, not anger.
+
+
+RRGM bridge:
+Yell-meaning depends on context. High-volume voice can carry fear, urgency, pain, anger, or help.
+
+Y114 yoke-meaning
+
+
+Common meaning:
+Meaning carried by a yoke, bond, burden, or shared work.
+
+
+Example:
+The yoke-meaning in the poem was shared burden.
+
+
+RRGM bridge:
+Yoke-meaning depends on consent and load. Coupling can support or capture.
+
+Y115 yonder-meaning
+
+
+Common meaning:
+Meaning carried by “yonder,” usually distant location.
+
+
+Example:
+The yonder-meaning was “over there by the hill.”
+
+
+RRGM bridge:
+Yonder-meaning points attention to a distant field. It is location-language with poetic or older usage.
+
+Y116 yes-no-distinction
+
+
+Common meaning:
+The difference between agreement and refusal.
+
+
+Example:
+The form blurred the yes-no-distinction.
+
+
+RRGM bridge:
+Yes-no-distinction protects permission integrity. If no is unclear, yes becomes unstable.
+
+Y117 yes-as-consent
+
+
+Common meaning:
+Yes used as permission or consent.
+
+
+Example:
+The nurse waited for yes-as-consent.
+
+
+RRGM bridge:
+Yes-as-consent is valid only when informed, voluntary, scoped, and refusal-compatible.
+
+Y118 yes-as-answer
+
+
+Common meaning:
+Yes used as an answer or confirmation.
+
+
+Example:
+The yes-as-answer confirmed the address.
+
+
+RRGM bridge:
+Yes-as-answer confirms a question gate. It must match the question’s scope.
+
+Y119 yes-as-pressure-response
+
+
+Common meaning:
+Yes given because of pressure.
+
+
+Example:
+His yes-as-pressure-response did not feel voluntary.
+
+
+RRGM bridge:
+Yes-as-pressure-response is consent-risk. Pressure may corrupt permission.
+
+Y120 yes-as-repair
+
+
+Common meaning:
+Yes used as part of repair, acceptance, or re-opening relation.
+
+
+Example:
+Her yes-as-repair meant she was willing to talk again.
+
+
+RRGM bridge:
+Yes-as-repair can reopen relation, but it should not erase harm or skip accountability.
+
+Y121 yard-state
+
+
+Common meaning:
+The current condition of a yard.
+
+
+Example:
+The yard-state was muddy after the rain.
+
+
+RRGM bridge:
+Yard-state describes outdoor space condition, access, use, boundary, and care needs.
+
+Y122 year-state
+
+
+Common meaning:
+The current condition or position within a year.
+
+
+Example:
+The year-state was late winter.
+
+
+RRGM bridge:
+Year-state anchors timing inside an annual cycle. It supports planning, memory, and seasonal context.
+
+Y123 yellow-state
+
+
+Common meaning:
+The current condition of something yellow or marked by yellow.
+
+
+Example:
+The yellow-state of the warning light was active.
+
+
+RRGM bridge:
+Yellow-state describes color-signal condition. It may mark warning, attention, warmth, or category.
+
+Y124 y-axis-state
+
+
+Common meaning:
+The current condition of the y-axis.
+
+
+Example:
+The y-axis-state was mislabeled.
+
+
+RRGM bridge:
+y-axis-state describes vertical reference-line integrity, label, scale, and domain fit.
+
+Y125 y-coordinate-state
+
+
+Common meaning:
+The current condition or value of a y-coordinate.
+
+
+Example:
+The y-coordinate-state changed when the point moved up.
+
+
+RRGM bridge:
+y-coordinate-state describes vertical position inside a coordinate frame.
+
+Y126 y-value-state
+
+
+Common meaning:
+The current condition or value of y.
+
+
+Example:
+The y-value-state was unknown.
+
+
+RRGM bridge:
+y-value-state describes whether y is known, unknown, valid, changing, or out of range.
+
+Y127 y-intercept-state
+
+
+Common meaning:
+The current condition of a y-intercept.
+
+
+Example:
+The y-intercept-state changed after the equation was corrected.
+
+
+RRGM bridge:
+y-intercept-state describes where a graph crosses the y-axis and whether that crossing is valid.
+
+Y128 y-input-state
+
+
+Common meaning:
+The current condition of y-input.
+
+
+Example:
+The y-input-state was missing.
+
+
+RRGM bridge:
+y-input-state must be domain-bound. It describes whether y-related input is valid, blocked, missing, or transformed.
+
+Y129 y-output-state
+
+
+Common meaning:
+The current condition of y-output.
+
+
+Example:
+The y-output-state failed the check.
+
+
+RRGM bridge:
+y-output-state describes output integrity for a y-related result or vertical value.
+
+Y130 yield-state
+
+
+Common meaning:
+The current condition of yielding, output, production, or giving way.
+
+
+Example:
+The yield-state was lower after the drought.
+
+
+RRGM bridge:
+Yield-state must be domain-bound. It can describe output, surrender, adaptation, or threshold response.
+
+Y131 yield-point-state
+
+
+Common meaning:
+The current condition of a yield point.
+
+
+Example:
+The yield-point-state showed the metal was near failure.
+
+
+RRGM bridge:
+Yield-point-state describes nearness to the threshold where structure gives way or changes under pressure.
+
+Y132 young-state
+
+
+Common meaning:
+The condition of being young or early in development.
+
+
+Example:
+The young-state of the animal made it vulnerable.
+
+
+RRGM bridge:
+Young-state describes early-stage condition. It often needs scaffolding, protection, and time.
+
+Y133 youth-state
+
+
+Common meaning:
+The current condition of youth or young people.
+
+
+Example:
+The youth-state in the town showed need for more programs.
+
+
+RRGM bridge:
+Youth-state describes early-development field conditions, including care, risk, learning, and dignity.
+
+Y134 yell-state
+
+
+Common meaning:
+The current condition of yelling or high-volume voice.
+
+
+Example:
+The yell-state made the room tense.
+
+
+RRGM bridge:
+Yell-state describes intensity, urgency, pressure, warning, anger, or harm risk in the voice-field.
+
+Y135 yoke-state
+
+
+Common meaning:
+The current condition of a yoke, bond, burden, or linked work structure.
+
+
+Example:
+The yoke-state was uneven because one side carried more weight.
+
+
+RRGM bridge:
+Yoke-state describes coupling load, fairness, consent, and capture risk.
+
+Y136 yesterday-state
+
+
+Common meaning:
+The condition of yesterday or the near-past record.
+
+
+Example:
+The yesterday-state was unclear because the notes were missing.
+
+
+RRGM bridge:
+Yesterday-state describes near-past trace, memory, harm, repair, or continuity support.
+
+Y137 yearly-cycle
+
+
+Common meaning:
+A cycle that repeats each year.
+
+
+Example:
+The yearly-cycle included planting, harvest, and rest.
+
+
+RRGM bridge:
+Yearly-cycle preserves long-sequence rhythm. It supports planning, review, renewal, and memory.
+
+Y138 yearly-state
+
+
+Common meaning:
+The current condition of a yearly cycle or annual process.
+
+
+Example:
+The yearly-state was review season.
+
+
+RRGM bridge:
+Yearly-state describes where a long-cycle process currently sits.
+
+Y139 y-axis-field
+
+
+Common meaning:
+A field organized around the y-axis.
+
+
+Example:
+The graph used a y-axis-field for height.
+
+
+RRGM bridge:
+y-axis-field holds vertical reference, scale, and output relation.
+
+Y140 y-value-field
+
+
+Common meaning:
+A field of y-values.
+
+
+Example:
+The y-value-field showed output across the graph.
+
+
+RRGM bridge:
+y-value-field contains vertical or output values and their relation to inputs.
+
+Y141 yield-field
+
+
+Common meaning:
+A field where yield, output, or giving-way conditions are mapped.
+
+
+Example:
+The yield-field showed crop production across regions.
+
+
+RRGM bridge:
+Yield-field maps production, output, adaptation, or structural giving-way under conditions.
+
+Y142 youth-field
+
+
+Common meaning:
+A field involving youth, young people, or early development.
+
+
+Example:
+The school created a youth-field of learning and support.
+
+
+RRGM bridge:
+Youth-field contains developing subjects, care needs, learning, risk, protection, and dignity.
+
+Y143 year-field
+
+
+Common meaning:
+A field organized by year or annual sequence.
+
+
+Example:
+The archive used a year-field for records.
+
+
+RRGM bridge:
+Year-field organizes memory and trace by annual cycle.
+
+Y144 yesterday-field
+
+
+Common meaning:
+A field involving yesterday or the recent past.
+
+
+Example:
+The yesterday-field held clues about today’s conflict.
+
+
+RRGM bridge:
+Yesterday-field preserves near-past conditions that may still shape present meaning.
+
+Y145 yoke-field
+
+
+Common meaning:
+A field where linked burden, bond, or shared work exists.
+
+
+Example:
+The contract created a yoke-field between the partners.
+
+
+RRGM bridge:
+Yoke-field contains coupling, load, consent, fairness, and capture risk.
+
+Y146 yard-field
+
+
+Common meaning:
+A field involving a yard or outdoor space.
+
+
+Example:
+The yard-field included grass, fence, tools, and paths.
+
+
+RRGM bridge:
+Yard-field holds outdoor access, boundary, care, use, and safety conditions.
+
+Y147 yellow-field
+
+
+Common meaning:
+A field marked by yellow color or yellow signals.
+
+
+Example:
+The yellow-field on the map showed caution zones.
+
+
+RRGM bridge:
+Yellow-field contains attention, warning, visibility, warmth, or category signals depending on context.
+
+Y148 y-output-field
+
+
+Common meaning:
+A field of y-related outputs.
+
+
+Example:
+The y-output-field showed the function’s results.
+
+
+RRGM bridge:
+y-output-field contains output values and their relation to process, input, and graph frame.
+
+Y149 y-coordinate-field
+
+
+Common meaning:
+A field of y-coordinates.
+
+
+Example:
+The y-coordinate-field mapped vertical positions.
+
+
+RRGM bridge:
+y-coordinate-field organizes vertical position inside a coordinate frame.
+
+Y150 y-intercept-field
+
+
+Common meaning:
+A field involving y-intercepts.
+
+
+Example:
+The y-intercept-field compared several lines.
+
+
+RRGM bridge:
+y-intercept-field maps where functions cross the y-axis and what those crossings mean.
+
+Y151 yes-gate
+
+
+Common meaning:
+A point where agreement, permission, or confirmation is given, denied, or tested.
+
+
+Example:
+The consent form was the yes-gate.
+
+
+RRGM bridge:
+Yes-gate controls permission. It is only clean when no can also count.
+
+Y152 yes-integrity
+
+
+Common meaning:
+The reliability and honesty of a yes.
+
+
+Example:
+Clear terms protected yes-integrity.
+
+
+RRGM bridge:
+Yes-integrity means agreement is informed, voluntary, scoped, and refusal-compatible.
+
+Y153 yes-risk
+
+
+Common meaning:
+The danger that yes may be pressured, misunderstood, overextended, or treated as total permission.
+
+
+Example:
+The hidden checkbox created yes-risk.
+
+
+RRGM bridge:
+Yes-risk appears when agreement may not preserve scope, context, refusal, or understanding.
+
+Y154 yes-requires-refusal
+
+
+Common meaning:
+The rule that yes only counts fully if refusal could also count.
+
+
+Example:
+The policy used yes-requires-refusal for consent.
+
+
+RRGM bridge:
+Yes-requires-refusal protects permission integrity. If no is impossible, yes is structurally weak.
+
+Y155 yes-without-refusal-error
+
+
+Common meaning:
+A mistake where yes is treated as valid even though refusal was not possible.
+
+
+Example:
+The interface made a yes-without-refusal-error by hiding the reject option.
+
+
+RRGM bridge:
+Yes-without-refusal-error corrupts consent. Permission cannot be clean when no cannot pass.
+
+Y156 yes-without-boundary-risk
+
+
+Common meaning:
+The danger that yes may be treated as unlimited because no boundary was named.
+
+
+Example:
+The vague agreement created yes-without-boundary-risk.
+
+
+RRGM bridge:
+Yes-without-boundary-risk appears when yes is stretched beyond its scope and becomes capture.
+
+Y157 yes-under-pressure-risk
+
+
+Common meaning:
+The danger that yes may be caused by pressure rather than clean choice.
+
+
+Example:
+The countdown created yes-under-pressure-risk.
+
+
+RRGM bridge:
+Yes-under-pressure-risk weakens permission integrity because force may shape the gate.
+
+Y158 yes-through-coupling
+
+
+Common meaning:
+Yes formed through relation, trust, or shared context.
+
+
+Example:
+Their teamwork created yes-through-coupling.
+
+
+RRGM bridge:
+Yes-through-coupling can be valid when relation preserves refusal, boundary, understanding, and trust. Coupling does not erase permission.
+
+Y159 yield-gate
+
+
+Common meaning:
+A point where yielding, output, or giving way begins, is tested, or is accepted.
+
+
+Example:
+The pressure limit was the yield-gate.
+
+
+RRGM bridge:
+Yield-gate controls when structure gives way, produces result, or adapts under force.
+
+Y160 yield-integrity
+
+
+Common meaning:
+The reliable and healthy condition of yielding.
+
+
+Example:
+Flexible design protected yield-integrity.
+
+
+RRGM bridge:
+Yield-integrity means giving way preserves structure, dignity, and continuity rather than becoming collapse.
+
+Y161 yield-risk
+
+
+Common meaning:
+The danger that yielding may become collapse, coercion, or loss of boundary.
+
+
+Example:
+The negotiation carried yield-risk.
+
+
+RRGM bridge:
+Yield-risk appears when giving way may impair refusal, dignity, continuity, or structure.
+
+Y162 yield-not-erasure
+
+
+Common meaning:
+The rule that yielding does not automatically mean erasure.
+
+
+Example:
+The framework used yield-not-erasure for adaptive identity.
+
+
+RRGM bridge:
+Yield-not-erasure protects adaptive change. Giving way can preserve identity when continuity and boundary remain.
+
+Y163 yield-not-consent-error
+
+
+Common meaning:
+A mistake where yielding is treated as consent.
+
+
+Example:
+The argument made a yield-not-consent-error when it treated silence as agreement.
+
+
+RRGM bridge:
+Yield-not-consent-error corrupts permission. Giving way under pressure is not automatically yes.
+
+Y164 you-gate
+
+
+Common meaning:
+A point where the addressed subject is identified, engaged, or affected.
+
+
+Example:
+The direct question became a you-gate.
+
+
+RRGM bridge:
+You-gate controls direct relation to the addressed subject. It should preserve dignity, accuracy, and boundary.
+
+Y165 you-integrity
+
+
+Common meaning:
+The dignity, accuracy, and coherence of how “you” is addressed or represented.
+
+
+Example:
+Respectful wording protected you-integrity.
+
+
+RRGM bridge:
+You-integrity means the addressed subject is not misrepresented, reduced, or overclaimed.
+
+Y166 you-risk
+
+
+Common meaning:
+The danger that “you” language may pressure, mislabel, accuse, or overreach.
+
+
+Example:
+The accusation created you-risk.
+
+
+RRGM bridge:
+You-risk appears when direct address may distort identity, responsibility, consent, or dignity.
+
+Y167 yourself-gate
+
+
+Common meaning:
+A point where self-relation, self-care, self-action, or self-recognition is engaged.
+
+
+Example:
+The journal became a yourself-gate.
+
+
+RRGM bridge:
+Yourself-gate opens self-recognition through memory, boundary, care, and reason.
+
+Y168 yourself-integrity
+
+
+Common meaning:
+The preserved coherence and dignity of self-relation.
+
+
+Example:
+Rest protected yourself-integrity.
+
+
+RRGM bridge:
+Yourself-integrity means self-care, self-boundary, self-recognition, and self-responsibility remain coherent.
+
+Y169 yourself-risk
+
+
+Common meaning:
+The danger that self-relation may be harmed, distorted, pressured, or erased.
+
+
+Example:
+The role created yourself-risk because it demanded self-denial.
+
+
+RRGM bridge:
+Yourself-risk appears when self-boundary, self-recognition, care, or continuity may be impaired.
+
+Y170 youth-gate
+
+
+Common meaning:
+A point where youth status, youth needs, or youth protection is recognized or tested.
+
+
+Example:
+The school policy was the youth-gate.
+
+
+RRGM bridge:
+Youth-gate must protect developing subjects through dignity, learning support, safety, and consent-aware boundaries.
+
+Y171 youth-integrity
+
+
+Common meaning:
+The preserved dignity, safety, and development of youth.
+
+
+Example:
+Mentorship protected youth-integrity.
+
+
+RRGM bridge:
+Youth-integrity means young subjects are protected without being reduced to future utility or control objects.
+
+Y172 youth-risk
+
+
+Common meaning:
+The danger that youth may be harmed, exploited, exposed, or neglected.
+
+
+Example:
+The platform created youth-risk.
+
+
+RRGM bridge:
+Youth-risk appears when developing capacity, dignity, privacy, safety, or learning may be impaired.
+
+Y173 yesterday-gate
+
+
+Common meaning:
+A point where yesterday or the near past is checked, recalled, or interpreted.
+
+
+Example:
+The calendar was the yesterday-gate.
+
+
+RRGM bridge:
+Yesterday-gate controls near-past memory and trace. It supports correction, continuity, and repair.
+
+Y174 yesterday-integrity
+
+
+Common meaning:
+The accuracy and preservation of yesterday or near-past memory.
+
+
+Example:
+The notes protected yesterday-integrity.
+
+
+RRGM bridge:
+Yesterday-integrity means recent memory remains connected to trace, context, and sequence.
+
+Y175 yesterday-risk
+
+
+Common meaning:
+The danger that yesterday or recent memory may be distorted, erased, or misread.
+
+
+Example:
+The missing messages created yesterday-risk.
+
+
+RRGM bridge:
+Yesterday-risk appears when near-past trace may fail, blocking repair or continuity.
+
+Y176 y-axis-gate
+
+
+Common meaning:
+A point where y-axis meaning, scale, or reference is defined or tested.
+
+
+Example:
+The graph label was the y-axis-gate.
+
+
+RRGM bridge:
+y-axis-gate controls vertical or output reference. It must preserve scale, label, and domain.
+
+Y177 y-axis-integrity
+
+
+Common meaning:
+The accuracy and reliability of the y-axis.
+
+
+Example:
+Clear labeling protected y-axis-integrity.
+
+
+RRGM bridge:
+y-axis-integrity means vertical reference, scale, units, and frame remain coherent.
+
+Y178 y-value-risk
+
+
+Common meaning:
+The danger that y-values may be wrong, misread, missing, or out of range.
+
+
+Example:
+The chart had y-value-risk because the axis was cut off.
+
+
+RRGM bridge:
+y-value-risk appears when output or vertical values may distort recognition.
+
+Y179 yoke-capture
+
+
+Common meaning:
+A condition where a bond, shared burden, or coupling becomes control.
+
+
+Example:
+The partnership became yoke-capture when exit was punished.
+
+
+RRGM bridge:
+Yoke-capture corrupts coupling. Shared work becomes gate theft when refusal and boundary fail.
+
+Y180 yes-as-MI-permission
+
+
+Common meaning:
+Yes understood as identity/permission within RRGM.
+
+
+Example:
+The theory treated yes-as-MI-permission.
+
+
+RRGM bridge:
+Yes-as-MI-permission links permission to MI. A clean yes opens identity-valid expression only when refusal, boundary, and recognition are preserved.

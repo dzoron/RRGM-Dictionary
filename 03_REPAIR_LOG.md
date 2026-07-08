@@ -1,0 +1,147 @@
+# Repair Log
+
+## Applied repairs
+
+- Inserted recovered original entry N001 name from Pasted text.txt.
+- Inserted recovered original entry N002 named from Pasted text.txt.
+- Inserted recovered original entry N003 narrow from Pasted text.txt.
+- Inserted recovered original entry N004 nation from Pasted text.txt.
+- Inserted recovered original entry N005 natural from Pasted text.txt.
+- Inserted recovered original entry N006 nature from Pasted text.txt.
+- Inserted recovered original entry N007 near from Pasted text.txt.
+- Inserted recovered original entry N008 necessary from Pasted text.txt.
+- Inserted recovered original entry N009 need from Pasted text.txt.
+- Inserted recovered original entry N010 negative from Pasted text.txt.
+- Inserted recovered original entry N011 neighbor from Pasted text.txt.
+- Inserted recovered original entry N012 neither from Pasted text.txt.
+- Inserted recovered original entry N013 nerve from Pasted text.txt.
+- Inserted recovered original entry N014 nest from Pasted text.txt.
+- Inserted recovered original entry N015 network from Pasted text.txt.
+- Inserted recovered original entry N016 never from Pasted text.txt.
+- Inserted recovered original entry N017 new from Pasted text.txt.
+- Inserted recovered original entry N018 next from Pasted text.txt.
+- Inserted recovered original entry N019 night from Pasted text.txt.
+- Inserted recovered original entry N020 no from Pasted text.txt.
+- Inserted recovered original entry N021 node from Pasted text.txt.
+- Inserted recovered original entry N022 noise from Pasted text.txt.
+- Inserted recovered original entry N023 none from Pasted text.txt.
+- Inserted recovered original entry N024 normal from Pasted text.txt.
+- Inserted recovered original entry N025 north from Pasted text.txt.
+- Inserted recovered original entry N026 not from Pasted text.txt.
+- Inserted recovered original entry N027 note from Pasted text.txt.
+- Inserted recovered original entry N028 nothing from Pasted text.txt.
+- Inserted recovered original entry N029 notice from Pasted text.txt.
+- Inserted recovered original entry N030 now from Pasted text.txt.
+- Inserted recovered original entry N031 number from Pasted text.txt.
+- Inserted recovered original entry N032 nurture from Pasted text.txt.
+- Inserted recovered original entry N033 noun from Pasted text.txt.
+- Inserted recovered original entry N034 null from Pasted text.txt.
+- Inserted recovered original entry N035 nuance from Pasted text.txt.
+- Inserted recovered original entry N036 narrative from Pasted text.txt.
+- Inserted recovered original entry N037 native from Pasted text.txt.
+- Inserted recovered original entry N038 needful from Pasted text.txt.
+- Inserted recovered original entry N039 neglect from Pasted text.txt.
+- Inserted recovered original entry N040 nervous from Pasted text.txt.
+- Inserted recovered original entry N041 neutral from Pasted text.txt.
+- Inserted recovered original entry N042 newness from Pasted text.txt.
+- Inserted recovered original entry N043 nightmare from Pasted text.txt.
+- Inserted recovered original entry N044 nominal from Pasted text.txt.
+- Inserted recovered original entry N045 nonhuman from Pasted text.txt.
+- Inserted recovered original entry N046 nonsense from Pasted text.txt.
+- Inserted recovered original entry N047 nor from Pasted text.txt.
+- Inserted recovered original entry N048 nourish from Pasted text.txt.
+- Inserted recovered original entry N049 nourishment from Pasted text.txt.
+- Inserted recovered original entry N050 novel from Pasted text.txt.
+- Inserted recovered original entry N051 nucleus from Pasted text.txt.
+- Inserted recovered original entry N052 numeric from Pasted text.txt.
+- Inserted recovered original entry N053 nudge from Pasted text.txt.
+- Inserted recovered original entry N054 named-risk from Pasted text.txt.
+- Inserted recovered original entry N055 name-respect from Pasted text.txt.
+- Inserted recovered original entry N056 natural-language from Pasted text.txt.
+- Inserted recovered original entry N057 necessity from Pasted text.txt.
+- Inserted recovered original entry N058 need-state from Pasted text.txt.
+- Inserted recovered original entry N059 negative-signal from Pasted text.txt.
+- Inserted recovered original entry N060 network-state from Pasted text.txt.
+- Inserted recovered original entry N061 no-response from Pasted text.txt.
+- Inserted recovered original entry N062 node-state from Pasted text.txt.
+- Inserted recovered original entry N063 noise-field from Pasted text.txt.
+- Inserted recovered original entry N064 normal-state from Pasted text.txt.
+- Inserted recovered original entry N065 note-record from Pasted text.txt.
+- Inserted recovered original entry N066 notice-signal from Pasted text.txt.
+- Inserted recovered original entry N067 number-state from Pasted text.txt.
+- Inserted recovered original entry N068 nurture-care from Pasted text.txt.
+- Inserted recovered original entry N069 null-state from Pasted text.txt.
+- Inserted recovered original entry N070 nuance-risk from Pasted text.txt.
+- Verified recovered entry A001 is present in the working source files; no insertion required in this runtime.
+- Verified recovered entry P001 is present in the working source files; no insertion required in this runtime.
+
+## Duplicate cleanup
+
+- Removed 1 exact duplicate copy/copies of O261 object; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O262 object-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O263 object-boundary; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O264 ocean; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O265 ocean-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O266 orbit; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O267 orbital; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O268 orbital-path; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O269 organism; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O270 organism-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O271 organ; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O272 organ-system; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O273 oxygen; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O274 oxygen-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O275 outer-layer; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O276 outside-layer; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O277 opening; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O278 open-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O279 closed-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O280 output-layer; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O281 output-channel; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O282 output-field; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O283 order-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O284 ordered-structure; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O285 orientation; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O286 orientation-field; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O287 obstruction; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O288 obstruction-path; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O289 overload; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O290 overload-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O291 overflow; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O292 overflow-path; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O293 overlap-region; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O294 overlap-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O295 oval; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O296 outer-boundary; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O297 outside-field; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O298 operating-system; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O299 operation; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O300 operation-state; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O301 object-gate; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O302 objectification-gate; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O303 objectification-risk; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O304 objective-gate; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O305 objective-capture; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O306 observation-gate; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O307 observer-effect; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O308 observer-frame; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O309 obstruction-gate; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O310 omission-risk; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O311 omission-harm; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O312 open-gate; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O313 open-recognition; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O314 open-refusal; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O315 open-boundary; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O316 operation-gate; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O317 operational-continuity; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O318 operational-boundary; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O319 opinion-gate; retained first occurrence from RRGM Dictionary A-O.txt.
+- Removed 1 exact duplicate copy/copies of O320 opt-in-gate; retained first occurrence from RRGM Dictionary A-O.txt.
+
+## Conflicts
+
+- No non-identical duplicate-code conflicts detected.
+
+## Boundary
+
+No generated replacement entries were added. No dictionary meanings were rewritten. Missing recovered entries came from the source chat extract only.

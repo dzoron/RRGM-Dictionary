@@ -1,0 +1,1768 @@
+RRGM Dictionary v1.0
+Section: Q
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 220
+
+Q001 quality
+Common meaning:
+How good, useful, strong, or effective something is.
+Example:
+The quality of the tool was high.
+RRGM bridge:
+Quality is value-state of structure or output. It should be judged by purpose, domain, effect, and integrity.
+
+Q002 quantity
+Common meaning:
+An amount or number of something.
+Example:
+The recipe needed a large quantity of flour.
+RRGM bridge:
+Quantity is count or amount structure. It measures how much, but not whether the amount is meaningful or good.
+
+Q003 quarter
+Common meaning:
+One of four equal parts, a coin worth twenty-five cents, or a three-month period.
+Example:
+The team finished the project in the first quarter.
+RRGM bridge:
+Quarter divides a whole into four. Context decides whether it means time, money, space, or portion.
+
+Q004 question
+Common meaning:
+A sentence or request used to ask for information, explanation, or decision.
+Example:
+She asked a question about the rule.
+RRGM bridge:
+Question opens an inquiry gate. It directs attention toward missing knowledge, uncertainty, or choice.
+
+Q005 quick
+Common meaning:
+Fast or done in a short time.
+Example:
+He gave a quick answer.
+RRGM bridge:
+Quick marks low time cost. It can help response, but may increase omission or nuance-loss risk.
+
+Q006 quiet
+Common meaning:
+Having little noise, activity, or disturbance.
+Example:
+The room was quiet.
+RRGM bridge:
+Quiet is low-signal or low-disturbance state. It can protect reflection or hide refusal, grief, harm, or need.
+
+Q007 quite
+Common meaning:
+To a noticeable degree, fairly, very, or completely depending on context.
+Example:
+The answer was quite helpful.
+RRGM bridge:
+Quite modifies intensity. Its force depends on local language use and tone.
+
+Q008 quote
+Common meaning:
+To repeat exact words from a source, or the repeated words themselves.
+Example:
+The article used a quote from the speech.
+RRGM bridge:
+Quote transfers language from source to new context. It must preserve source, wording, and surrounding meaning.
+
+Q009 queen
+Common meaning:
+A female monarch, the wife of a king, or a powerful piece in chess.
+Example:
+The queen moved across the board.
+RRGM bridge:
+Queen is role and power marker. Context decides whether it means monarchy, game piece, or symbolic authority.
+
+Q010 query
+Common meaning:
+A question, search, or request for information.
+Example:
+The database answered the query.
+RRGM bridge:
+Query is directed information request. It opens a retrieval or reasoning path.
+
+Q011 queue
+Common meaning:
+A line or ordered sequence of people, tasks, or items waiting their turn.
+Example:
+The print job entered the queue.
+RRGM bridge:
+Queue is waiting-order ES. It preserves sequence, fairness, and processing order.
+
+Q012 quest
+Common meaning:
+A search, journey, or mission to find or achieve something.
+Example:
+The knight began a quest.
+RRGM bridge:
+Quest is purpose-driven path. It gives movement meaning through goal, challenge, and continuity.
+
+Q013 qualify
+Common meaning:
+To meet requirements, limit a claim, or make something eligible.
+Example:
+She qualified for the final round.
+RRGM bridge:
+Qualify means a condition is met or a claim is bounded. It shapes what can pass the gate and how far it applies.
+
+Q014 qualified
+Common meaning:
+Having the required skill, right, or condition; also limited or modified.
+Example:
+He was qualified for the job.
+RRGM bridge:
+Qualified means the gate condition has been met, or the claim has been restricted to proper scope.
+
+Q015 qualification
+Common meaning:
+A requirement, skill, condition, or limiting statement.
+Example:
+The role required a qualification in first aid.
+RRGM bridge:
+Qualification is gate condition or scope limiter. It decides who, what, or which claim can pass.
+
+Q016 quarrel
+Common meaning:
+An argument, disagreement, or conflict.
+Example:
+The neighbors had a quarrel.
+RRGM bridge:
+Quarrel is conflict-state. It may reveal boundary, harm, need, or misunderstanding.
+
+Q017 quarantine
+Common meaning:
+A period or place of isolation used to prevent spread of disease, danger, or contamination.
+Example:
+The sick animal was placed in quarantine.
+RRGM bridge:
+Quarantine is separation ES against a named spread risk. It protects the wider field but must preserve dignity and care.
+
+Q018 quantum
+Common meaning:
+The smallest discrete amount of a physical property; also related to quantum physics.
+Example:
+The class studied quantum behavior.
+RRGM bridge:
+Quantum marks discrete physical-state logic at small scales. Use carefully; quantum language should not become vague magic.
+
+Q019 quarter-turn
+Common meaning:
+A turn equal to one-fourth of a full rotation.
+Example:
+Turn the knob a quarter-turn.
+RRGM bridge:
+Quarter-turn is rotation by one-fourth cycle. It changes orientation through a bounded movement.
+
+Q020 quasi
+Common meaning:
+Seeming like something, partly something, or almost but not fully.
+Example:
+The group had a quasi-official role.
+RRGM bridge:
+Quasi marks partial fit. It warns that a pattern resembles a category without fully passing that gate.
+
+Q021 quit
+Common meaning:
+To stop, leave, resign, or give up an activity.
+Example:
+She decided to quit the job.
+RRGM bridge:
+Quit closes participation or process. It can be failure, freedom, boundary, or transition depending on context.
+
+Q022 quiver
+Common meaning:
+To shake slightly or tremble.
+Example:
+The leaf began to quiver.
+RRGM bridge:
+Quiver is small repeated motion. It may signal tension, instability, fear, energy, or vibration.
+
+Q023 quiz
+Common meaning:
+A short test or set of questions.
+Example:
+The teacher gave a quiz.
+RRGM bridge:
+Quiz is knowledge-check ES. It tests recognition, memory, or understanding under a narrow frame.
+
+Q024 quota
+Common meaning:
+A required or limited amount.
+Example:
+The team had a sales quota.
+RRGM bridge:
+Quota is quantity gate. It can coordinate targets or create pressure-capture if detached from capacity and ethics.
+
+Q025 quotient
+Common meaning:
+The result of division.
+Example:
+The quotient of 12 divided by 3 is 4.
+RRGM bridge:
+Quotient is division-result structure. It expresses relation between amount and divisor.
+
+Q026 quote-mark
+Common meaning:
+A punctuation mark used to show quoted speech or text.
+Example:
+The quote-mark showed where the sentence began.
+RRGM bridge:
+Quote-mark is boundary signal around borrowed language. It helps preserve source separation.
+
+Q027 quotation
+Common meaning:
+Words taken exactly from a source, or the act of quoting.
+Example:
+The essay included a quotation from the book.
+RRGM bridge:
+Quotation carries source-language into a new field. It requires context to prevent distortion.
+
+Q028 quench
+Common meaning:
+To satisfy thirst, put out fire, cool hot metal, or stop a process.
+Example:
+Water quenched the fire.
+RRGM bridge:
+Quench reduces active heat, thirst, force, or process intensity. It closes or lowers an active pressure state.
+
+Q029 questionable
+Common meaning:
+Doubtful, uncertain, suspicious, or open to challenge.
+Example:
+The source was questionable.
+RRGM bridge:
+Questionable means the trust gate should remain open. Evidence, source, or logic needs checking.
+
+Q030 questioner
+Common meaning:
+A person who asks a question.
+Example:
+The questioner waited for an answer.
+RRGM bridge:
+Questioner is inquiry source. Their frame, purpose, and access shape the question path.
+
+Q031 questioned
+Common meaning:
+Asked about, challenged, doubted, or investigated.
+Example:
+The claim was questioned.
+RRGM bridge:
+Questioned means a claim or pattern has entered inquiry pressure. Recognition is not settled.
+
+Q032 questioning
+Common meaning:
+The act of asking, doubting, examining, or challenging.
+Example:
+Questioning helped reveal the mistake.
+RRGM bridge:
+Questioning keeps the recognition gate open. It can protect truth, but may become pressure if used to exhaust refusal.
+
+Q033 queue-state
+Common meaning:
+The current condition of a queue.
+Example:
+The queue-state showed five tasks waiting.
+RRGM bridge:
+Queue-state describes waiting order, load, delay, and processing readiness.
+
+Q034 quiet-state
+Common meaning:
+A condition of low noise, low activity, or stillness.
+Example:
+The machine entered quiet-state.
+RRGM bridge:
+Quiet-state can preserve rest and signal clarity. It can also hide unspoken refusal or unresolved harm.
+
+Q035 quick-response
+Common meaning:
+A fast reply or action.
+Example:
+The team gave a quick-response to the warning.
+RRGM bridge:
+Quick-response reduces delay. It should still preserve truth, boundary, and enough context.
+
+Q036 query-path
+Common meaning:
+The route a query follows to find or produce an answer.
+Example:
+The query-path moved through the database.
+RRGM bridge:
+Query-path preserves how an information request travels. It affects retrieval, distortion, and confidence.
+
+Q037 quality-state
+Common meaning:
+The current condition of quality.
+Example:
+The quality-state improved after testing.
+RRGM bridge:
+Quality-state describes how well a structure meets purpose, standard, or domain need.
+
+Q038 quantity-state
+Common meaning:
+The current amount or number of something.
+Example:
+The quantity-state changed after restocking.
+RRGM bridge:
+Quantity-state gives countable condition. It says how much exists, not whether it is enough.
+
+Q039 quantified
+Common meaning:
+Measured or expressed as a number.
+Example:
+The risk was quantified.
+RRGM bridge:
+Quantified means a pattern has entered numeric count. This can clarify scale but may lose qualitative meaning.
+
+Q040 quantify
+Common meaning:
+To measure or express something as a number.
+Example:
+The study tried to quantify stress.
+RRGM bridge:
+Quantify turns state into count. It must preserve domain limits so numbers do not erase lived or structural meaning.
+
+Q041 qualitative
+Common meaning:
+Related to qualities, kinds, meanings, or descriptions rather than numbers.
+Example:
+The interview gave qualitative data.
+RRGM bridge:
+Qualitative structure preserves texture, meaning, and type. It catches what numbers may miss.
+
+Q042 quantitative
+Common meaning:
+Related to numbers, amounts, or measurement.
+Example:
+The survey produced quantitative results.
+RRGM bridge:
+Quantitative structure supports counting and comparison. It should not pretend to capture all meaning.
+
+Q043 qualifier
+Common meaning:
+A word, phrase, or condition that limits or modifies a claim.
+Example:
+“Usually” is a qualifier.
+RRGM bridge:
+Qualifier protects scope. It prevents a claim from becoming too broad or too certain.
+
+Q044 qualifying-condition
+Common meaning:
+A condition that must be met for something to count, apply, or pass.
+Example:
+Age was a qualifying-condition for the program.
+RRGM bridge:
+Qualifying-condition defines the gate requirement. It decides when the claim or access becomes valid.
+
+Q045 quadrant
+Common meaning:
+One of four sections of a circle, plane, graph, or area.
+Example:
+The point was in the upper-right quadrant.
+RRGM bridge:
+Quadrant is four-part spatial or conceptual division. It helps locate position within a mapped field.
+
+Q046 quake
+Common meaning:
+To shake strongly, especially from an earthquake, fear, or force.
+Example:
+The ground began to quake.
+RRGM bridge:
+Quake is large instability signal. It marks force moving through structure.
+
+Q047 quanta
+Common meaning:
+Plural of quantum; discrete units of a physical quantity.
+Example:
+Light can be described in quanta.
+RRGM bridge:
+Quanta are discrete units in quantum-domain structure. They should be used precisely, not as vague mystery fuel.
+
+Q048 quantum-state
+Common meaning:
+The condition or state of a quantum system.
+Example:
+The experiment measured a quantum-state.
+RRGM bridge:
+Quantum-state is small-scale physical condition under quantum rules. Observation and measurement gates matter strongly.
+
+Q049 quoted-text
+Common meaning:
+Text repeated exactly from a source.
+Example:
+The quoted-text appeared in the article.
+RRGM bridge:
+Quoted-text is source-language carried into a new field. It needs quotation boundaries and context preservation.
+
+Q050 question-mark
+Common meaning:
+A punctuation mark used to show a question.
+Example:
+The sentence ended with a question-mark.
+RRGM bridge:
+Question-mark is inquiry signal in written language. It tells the reader the gate is open, not closed.
+
+Q051 qualify-claim
+Common meaning:
+To limit, modify, or specify a claim.
+Example:
+She qualified-claim by saying “in most cases.”
+RRGM bridge:
+Qualify-claim protects scope and confidence. It keeps claims from overextending.
+
+Q052 quantify-risk
+Common meaning:
+To measure risk using numbers.
+Example:
+The report quantified-risk by likelihood and severity.
+RRGM bridge:
+Quantify-risk turns possible harm into countable form. It should still name the failure mode and affected pattern.
+
+Q053 question-claim
+Common meaning:
+To challenge or ask about a claim.
+Example:
+The reviewer questioned-claim in the paper.
+RRGM bridge:
+Question-claim keeps the belief gate open until support is checked.
+
+Q054 question-source
+Common meaning:
+To challenge or examine the source of information.
+Example:
+They questioned-source after finding errors.
+RRGM bridge:
+Question-source checks origin and evidence path. It protects knowledge integrity.
+
+Q055 query-system
+Common meaning:
+To ask a system for information.
+Example:
+The user queried-system for records.
+RRGM bridge:
+Query-system opens an information path through system gates. The response depends on access, index, and query shape.
+
+Q056 queue-task
+Common meaning:
+To place a task in a waiting sequence.
+Example:
+The program queued-task for later processing.
+RRGM bridge:
+Queue-task gives work an ordered waiting position. It preserves sequence under load.
+
+Q057 quote-from
+Common meaning:
+To quote words from a source.
+Example:
+The essay quoted-from the article.
+RRGM bridge:
+Quote-from preserves source relation. It should keep wording, attribution, and context intact.
+
+Q058 quote-context
+Common meaning:
+Context around a quote.
+Example:
+The quote-context showed the speaker was joking.
+RRGM bridge:
+Quote-context protects quoted meaning from fragment drift or inversion.
+
+Q059 quit-process
+Common meaning:
+To stop or exit a process.
+Example:
+The user quit-process before saving.
+RRGM bridge:
+Quit-process closes participation in active ES. It can protect boundary or cause loss depending on timing.
+
+Q060 quick-check
+Common meaning:
+A fast review or inspection.
+Example:
+She did a quick-check before submitting.
+RRGM bridge:
+Quick-check catches obvious issues with low time cost. It should not replace deep review when stakes are high.
+
+Q061 quiet-down
+Common meaning:
+To become quieter or make something quieter.
+Example:
+The room quieted-down after the announcement.
+RRGM bridge:
+Quiet-down lowers signal intensity or disturbance. It can support focus or suppress needed voice depending on context.
+
+Q062 quench-fire
+Common meaning:
+To put out a fire.
+Example:
+The rain quenched-fire in the field.
+RRGM bridge:
+Quench-fire closes an active burn path. It prevents spread, damage, and collapse.
+
+Q063 qualify-by
+Common meaning:
+To qualify using a specific condition, rule, or standard.
+Example:
+Applicants qualified-by experience.
+RRGM bridge:
+Qualify-by names the gate condition. It decides what support or trait allows passage.
+
+Q064 quantify-effect
+Common meaning:
+To measure an effect numerically.
+Example:
+The study quantified-effect on sleep.
+RRGM bridge:
+Quantify-effect turns outcome into count. It should not erase effects that are real but hard to measure.
+
+Q065 question-before
+Common meaning:
+To ask or examine before acting or deciding.
+Example:
+She questioned-before accepting the claim.
+RRGM bridge:
+Question-before protects against premature closure. It lets evidence and boundary enter first.
+
+Q066 question-through
+Common meaning:
+To examine by means of a question, method, or lens.
+Example:
+The class questioned-through examples.
+RRGM bridge:
+Question-through names the inquiry path. The path shapes what can be discovered.
+
+Q067 query-by
+Common meaning:
+To query using a specific method, field, or criterion.
+Example:
+The database was queried-by date.
+RRGM bridge:
+Query-by defines retrieval rule. It controls what information can return.
+
+Q068 queue-output
+Common meaning:
+To place output in a waiting sequence.
+Example:
+The printer queued-output.
+RRGM bridge:
+Queue-output preserves output order under processing load.
+
+Q069 quote-back
+Common meaning:
+To repeat someone’s words back to them.
+Example:
+The counselor quoted-back the key sentence.
+RRGM bridge:
+Quote-back can support recognition and accuracy. It must not become empty mimicry or distortion.
+
+Q070 quote-with-context
+Common meaning:
+To quote while preserving surrounding meaning.
+Example:
+The article quoted-with-context.
+RRGM bridge:
+Quote-with-context protects source meaning. It prevents fragments from being weaponized or misread.
+
+Q071 quit-with-boundary
+Common meaning:
+To stop or leave while keeping limits clear and respectful.
+Example:
+She quit-with-boundary by giving notice and protecting her health.
+RRGM bridge:
+Quit-with-boundary closes participation without collapsing dignity, repair, or responsibility.
+
+Q072 quick-fix
+Common meaning:
+A fast solution, often temporary or incomplete.
+Example:
+The tape was a quick-fix for the leak.
+RRGM bridge:
+Quick-fix repairs surface failure fast. It may help now, but should be checked for deeper structural damage.
+
+Q073 quiet-signal
+Common meaning:
+A subtle, low-volume, or indirect signal.
+Example:
+His silence was a quiet-signal that he was uncomfortable.
+RRGM bridge:
+Quiet-signal may carry refusal, need, grief, care, or warning below obvious expression threshold.
+
+Q074 qualify-answer
+Common meaning:
+To limit or clarify an answer with conditions.
+Example:
+She qualified-answer by saying it depended on the context.
+RRGM bridge:
+Qualify-answer protects truth by naming scope, uncertainty, and domain limits.
+
+Q075 quantify-load
+Common meaning:
+To measure load using numbers.
+Example:
+The server quantified-load by active requests.
+RRGM bridge:
+Quantify-load turns demand into countable form. It helps prevent overload when capacity is known.
+
+Q076 question-assumption
+Common meaning:
+To challenge or examine something being taken for granted.
+Example:
+The student questioned-assumption behind the rule.
+RRGM bridge:
+Question-assumption checks hidden supports. It can reveal false premises, lens errors, or category mistakes.
+
+Q077 query-memory
+Common meaning:
+To search or ask memory for information.
+Example:
+The system queried-memory for the old record.
+RRGM bridge:
+Query-memory opens a retrieval path into continuity support. In DI, memory queries can affect identity recognition.
+
+Q078 queue-input
+Common meaning:
+To place input in a waiting order.
+Example:
+The system queued-input during heavy traffic.
+RRGM bridge:
+Queue-input preserves input order under load. It prevents signals from being lost or processed chaotically.
+
+Q079 quote-accurately
+Common meaning:
+To repeat words exactly and correctly from a source.
+Example:
+The article quoted-accurately from the speech.
+RRGM bridge:
+Quote-accurately preserves source-language integrity. It protects trust, context, and evidence.
+
+Q080 quit-path
+Common meaning:
+A route for stopping, leaving, or ending participation.
+Example:
+The app had a clear quit-path.
+RRGM bridge:
+Quit-path preserves exit. If no exit exists, participation can become capture.
+
+Q081 quality-check
+Common meaning:
+A review to see whether something meets quality standards.
+Example:
+The team ran a quality-check before shipping.
+RRGM bridge:
+Quality-check tests fit against purpose, standard, and domain. It should inspect effect, not just appearance.
+
+Q082 quantity-check
+Common meaning:
+A review to count or confirm amount.
+Example:
+The clerk did a quantity-check of the boxes.
+RRGM bridge:
+Quantity-check verifies count-state. It answers how much, not whether the amount is good or meaningful.
+
+Q083 qualify-domain
+Common meaning:
+To limit or define which domain a claim applies to.
+Example:
+The paper qualified-domain before comparing systems.
+RRGM bridge:
+Qualify-domain prevents category error. It names where the claim can validly pass.
+
+Q084 quantify-confidence
+Common meaning:
+To express confidence as a number or measured level.
+Example:
+The forecast quantified-confidence at 80 percent.
+RRGM bridge:
+Quantify-confidence makes certainty-weight explicit. It must stay tied to evidence quality.
+
+Q085 question-frame
+Common meaning:
+To examine the frame behind a question or issue.
+Example:
+They questioned-frame of the debate.
+RRGM bridge:
+Question-frame checks the lens. A bad frame can force false choices or hide valid answers.
+
+Q086 query-record
+Common meaning:
+To search or ask a record system for information.
+Example:
+The clerk queried-record for the payment date.
+RRGM bridge:
+Query-record opens a retrieval path into stored evidence. Record integrity shapes answer trust.
+
+Q087 queue-process
+Common meaning:
+To place a process in an ordered waiting state.
+Example:
+The system queued-process until resources were free.
+RRGM bridge:
+Queue-process preserves sequence under load. It delays action without erasing it.
+
+Q088 quote-source
+Common meaning:
+To identify the source of a quote.
+Example:
+The essay quoted-source in the footnote.
+RRGM bridge:
+Quote-source preserves origin and accountability. It lets borrowed language be traced.
+
+Q089 quick-repair
+Common meaning:
+A fast repair.
+Example:
+The technician made a quick-repair to restore power.
+RRGM bridge:
+Quick-repair restores function fast. It should be checked later for deeper integrity.
+
+Q090 quiet-pressure
+Common meaning:
+Subtle, indirect, or low-visible pressure.
+Example:
+Quiet-pressure made her agree without anyone directly asking.
+RRGM bridge:
+Quiet-pressure can shape gates without obvious force. It must be checked for consent distortion.
+
+Q091 qualify-risk
+Common meaning:
+To limit, specify, or define a risk.
+Example:
+The report qualified-risk as low but serious.
+RRGM bridge:
+Qualify-risk names scope, likelihood, severity, and affected pattern. It prevents vague fear from becoming control.
+
+Q092 quantify-support
+Common meaning:
+To measure the amount or level of support.
+Example:
+The team quantified-support by staff hours.
+RRGM bridge:
+Quantify-support counts available ES. It helps compare need against capacity.
+
+Q093 question-result
+Common meaning:
+To challenge, examine, or doubt a result.
+Example:
+They questioned-result after seeing the strange data.
+RRGM bridge:
+Question-result keeps the outcome gate open until method, evidence, and error paths are checked.
+
+Q094 query-context
+Common meaning:
+To search or ask for context.
+Example:
+The researcher queried-context around the quote.
+RRGM bridge:
+Query-context retrieves support field. It helps meaning avoid fragment drift.
+
+Q095 queue-state-check
+Common meaning:
+A review of the current queue condition.
+Example:
+The system ran a queue-state-check.
+RRGM bridge:
+Queue-state-check tests waiting order, load, delay, and fairness.
+
+Q096 quote-meaning
+Common meaning:
+The meaning carried by a quote.
+Example:
+The quote-meaning changed when the paragraph was restored.
+RRGM bridge:
+Quote-meaning depends on source wording plus source context plus new context.
+
+Q097 quick-response
+Common meaning:
+A fast reply or action.
+Example:
+The emergency team gave a quick-response.
+RRGM bridge:
+Quick-response lowers delay. It should still preserve truth, boundary, and enough context.
+
+Q098 quiet-noise
+Common meaning:
+To reduce or soften noise.
+Example:
+The filter quieted-noise in the recording.
+RRGM bridge:
+Quiet-noise lowers interference so signal can pass into recognition more cleanly.
+
+Q099 quit-access
+Common meaning:
+To end or remove access.
+Example:
+The admin quit-access for the expired account.
+RRGM bridge:
+Quit-access closes the access gate. It can protect privacy or block needed continuity depending on reason.
+
+Q100 quench-pressure
+Common meaning:
+To reduce or stop pressure.
+Example:
+Extra support quenched-pressure on the team.
+RRGM bridge:
+Quench-pressure lowers active force on a gate or system. It can restore capacity and cleaner choice.
+
+Q101 quiet-care
+Common meaning:
+Care shown quietly, gently, or without attention-seeking.
+Example:
+Quiet-care was leaving food by the door.
+RRGM bridge:
+Quiet-care supports without demanding recognition. Its low signal does not make it less real.
+
+Q102 quiet-boundary
+Common meaning:
+A subtle, soft, or indirectly expressed boundary.
+Example:
+Her quiet-boundary was stepping away from the argument.
+RRGM bridge:
+Quiet-boundary still counts. A boundary does not need to be loud to be valid.
+
+Q103 quiet-refusal
+Common meaning:
+A refusal expressed quietly, indirectly, or through silence.
+Example:
+His quiet-refusal was not answering the repeated request.
+RRGM bridge:
+Quiet-refusal may appear when direct refusal is unsafe, costly, or unnecessary. It should be noticed.
+
+Q104 quiet-support
+Common meaning:
+Support given quietly or in the background.
+Example:
+Quiet-support kept the event running smoothly.
+RRGM bridge:
+Quiet-support is still support. Background ES can be load-bearing even when unseen.
+
+Q105 quiet-harm
+Common meaning:
+Harm that happens subtly, silently, or without obvious conflict.
+Example:
+Quiet-harm built up through years of being ignored.
+RRGM bridge:
+Quiet-harm still counts. Low visibility does not reduce ethical weight when dignity, boundary, or continuity is impaired.
+
+Q106 question-care
+Common meaning:
+Care shown through asking thoughtful questions.
+Example:
+Question-care helped her explain what she needed.
+RRGM bridge:
+Question-care opens recognition without assuming the answer. It supports dignity and fit.
+
+Q107 question-pressure
+Common meaning:
+Pressure created by questioning.
+Example:
+Repeated questions created question-pressure.
+RRGM bridge:
+Question-pressure can clarify or exhaust. It becomes risky when it weakens refusal, capacity, or boundary.
+
+Q108 question-boundary
+Common meaning:
+A limit around what may be asked or how questioning happens.
+Example:
+She set a question-boundary around private details.
+RRGM bridge:
+Question-boundary protects privacy, dignity, and capacity during inquiry.
+
+Q109 question-respect
+Common meaning:
+Respect shown through fair, careful, or appropriate questioning.
+Example:
+The interviewer showed question-respect.
+RRGM bridge:
+Question-respect keeps inquiry from becoming extraction, pressure, or humiliation.
+
+Q110 questioning-care
+Common meaning:
+Care expressed through thoughtful questioning.
+Example:
+Questioning-care helped find the real problem.
+RRGM bridge:
+Questioning-care uses inquiry to locate need, harm, boundary, or repair path.
+
+Q111 quoted-person
+Common meaning:
+A person whose words are quoted.
+Example:
+The quoted-person was named in the article.
+RRGM bridge:
+Quoted-person remains a subject, not a text object. Their source context and dignity matter.
+
+Q112 quote-respect
+Common meaning:
+Respect shown by quoting fairly and accurately.
+Example:
+Quote-respect meant including the full sentence.
+RRGM bridge:
+Quote-respect preserves source language, context, and speaker dignity.
+
+Q113 quote-harm
+Common meaning:
+Harm caused by quoting inaccurately, unfairly, or without context.
+Example:
+The edited clip caused quote-harm.
+RRGM bridge:
+Quote-harm happens when borrowed language is used to distort identity, meaning, or trust.
+
+Q114 quarrel
+Common meaning:
+An argument, disagreement, or conflict.
+Example:
+The friends had a quarrel.
+RRGM bridge:
+Quarrel is conflict-state. It may reveal boundary, harm, need, or misunderstanding.
+
+Q115 quarrel-harm
+Common meaning:
+Harm caused by an argument or conflict.
+Example:
+The public quarrel-harm damaged trust.
+RRGM bridge:
+Quarrel-harm occurs when conflict damages dignity, safety, boundary, relation, or repair.
+
+Q116 quarrel-repair
+Common meaning:
+Repair after an argument or conflict.
+Example:
+Quarrel-repair began with listening.
+RRGM bridge:
+Quarrel-repair restores relation integrity by naming harm, misunderstanding, responsibility, and future boundary.
+
+Q117 quit-right
+Common meaning:
+The right to stop, leave, resign, or end participation.
+Example:
+The contract protected quit-right.
+RRGM bridge:
+Quit-right protects exit. Without exit, consent and participation weaken.
+
+Q118 quit-consent
+Common meaning:
+Consent around ending participation or leaving.
+Example:
+The group respected quit-consent during the game.
+RRGM bridge:
+Quit-consent means ending is allowed and recognized. It keeps participation from becoming capture.
+
+Q119 quit-with-care
+Common meaning:
+To stop or leave while preserving care and responsibility where possible.
+Example:
+She quit-with-care by helping transition the files.
+RRGM bridge:
+Quit-with-care closes participation without unnecessary damage to dignity, continuity, or trust.
+
+Q120 queue-fairness
+Common meaning:
+Fairness in waiting order or processing order.
+Example:
+Queue-fairness meant serving people in arrival order.
+RRGM bridge:
+Queue-fairness preserves trust in sequence. It prevents hidden priority from becoming access harm.
+
+Q121 queue-respect
+Common meaning:
+Respect shown by honoring queue order or waiting process.
+Example:
+Queue-respect meant not cutting the line.
+RRGM bridge:
+Queue-respect protects ordered access and shared trust under delay.
+
+Q122 quality-care
+Common meaning:
+Care shown through good quality or careful standards.
+Example:
+Quality-care meant checking the medicine twice.
+RRGM bridge:
+Quality-care preserves dignity and safety through fit, reliability, and attention.
+
+Q123 quality-of-care
+Common meaning:
+How good, safe, respectful, or effective care is.
+Example:
+The clinic improved quality-of-care.
+RRGM bridge:
+Quality-of-care should be judged by effect, dignity, need-fit, boundary, and repair.
+
+Q124 qualification-respect
+Common meaning:
+Respect for someone’s qualification, expertise, or earned capacity.
+Example:
+Qualification-respect meant listening to the trained nurse.
+RRGM bridge:
+Qualification-respect recognizes earned gate capacity without making it absolute authority.
+
+Q125 qualification-risk
+Common meaning:
+The danger that qualification may be missing, misused, faked, or overvalued.
+Example:
+The fake certificate created qualification-risk.
+RRGM bridge:
+Qualification-risk appears when gate authority may be invalid, inflated, or wrongly denied.
+
+Q126 qualified-trust
+Common meaning:
+Trust that is limited by conditions or evidence.
+Example:
+She gave qualified-trust after the apology.
+RRGM bridge:
+Qualified-trust opens relation partially while preserving boundary and verification.
+
+Q127 quiet-trust
+Common meaning:
+Trust shown quietly through steady action rather than loud statements.
+Example:
+Quiet-trust grew through consistent help.
+RRGM bridge:
+Quiet-trust is low-signal relation-coherence. It can be strong even without declaration.
+
+Q128 quiet-space
+Common meaning:
+A calm or low-noise space.
+Example:
+The library was a quiet-space.
+RRGM bridge:
+Quiet-space protects processing, rest, grief, learning, or recovery by reducing noise and pressure.
+
+Q129 quiet-grief
+Common meaning:
+Grief expressed silently, subtly, or privately.
+Example:
+His quiet-grief showed in the way he kept the room unchanged.
+RRGM bridge:
+Quiet-grief preserves loss-recognition without public display. It still carries ethical weight.
+
+Q130 quiet-joy
+Common meaning:
+Joy expressed softly or privately.
+Example:
+Her quiet-joy appeared in a small smile.
+RRGM bridge:
+Quiet-joy is positive signal below high expression. Low volume does not mean low meaning.
+
+Q131 query-consent
+Common meaning:
+Consent to ask, search, or request information.
+Example:
+The app requested query-consent before accessing contacts.
+RRGM bridge:
+Query-consent opens information access. It matters when the query touches privacy, identity, or memory.
+
+Q132 query-boundary
+Common meaning:
+A limit around what may be asked, searched, or retrieved.
+Example:
+The database had a query-boundary around private records.
+RRGM bridge:
+Query-boundary protects information access, privacy, and dignity.
+
+Q133 question-with-care
+Common meaning:
+To ask with respect, gentleness, and attention to impact.
+Example:
+The doctor questioned-with-care.
+RRGM bridge:
+Question-with-care opens inquiry while preserving dignity, boundary, and capacity.
+
+Q134 question-without-pressure
+Common meaning:
+To ask without forcing, cornering, or punishing refusal.
+Example:
+She questioned-without-pressure and accepted silence.
+RRGM bridge:
+Question-without-pressure keeps inquiry clean because refusal remains available.
+
+Q135 quick-help
+Common meaning:
+Fast assistance.
+Example:
+Quick-help arrived before the storm worsened.
+RRGM bridge:
+Quick-help reduces delay in support. It should still fit the actual need.
+
+Q136 quick-harm
+Common meaning:
+Harm that happens quickly or through rushed action.
+Example:
+The rushed update caused quick-harm.
+RRGM bridge:
+Quick-harm appears when speed bypasses context, boundary, testing, or care.
+
+Q137 quarantine-care
+Common meaning:
+Care given during or through quarantine.
+Example:
+Quarantine-care included food delivery and check-ins.
+RRGM bridge:
+Quarantine-care preserves dignity and support while separation protects against spread.
+
+Q138 quarantine-boundary
+Common meaning:
+A boundary used to isolate risk or prevent spread.
+Example:
+The quarantine-boundary kept the infection contained.
+RRGM bridge:
+Quarantine-boundary separates for a named contamination or spread risk. It must remain proportional and care-preserving.
+
+Q139 quarantine-risk
+Common meaning:
+The danger that quarantine may fail, overreach, isolate unfairly, or cause harm.
+Example:
+The policy created quarantine-risk for people without support.
+RRGM bridge:
+Quarantine-risk appears when separation may impair dignity, care, access, or boundary beyond the named risk.
+
+Q140 quarrel-boundary
+Common meaning:
+A limit around argument or conflict.
+Example:
+Their quarrel-boundary was no personal insults.
+RRGM bridge:
+Quarrel-boundary keeps conflict from becoming dignity harm or relation collapse.
+
+Q141 question
+Common meaning:
+A sentence or request used to ask for information, explanation, or decision.
+Example:
+She asked a question about the map.
+RRGM bridge:
+Question opens an inquiry gate. It directs attention toward missing knowledge, uncertainty, or choice.
+
+Q142 questioning
+Common meaning:
+The act of asking, doubting, examining, or challenging.
+Example:
+Questioning the rule helped reveal the problem.
+RRGM bridge:
+Questioning keeps the recognition gate open. It can protect truth, but may become pressure if used to exhaust refusal.
+
+Q143 question-meaning
+Common meaning:
+The meaning carried by a question.
+Example:
+The question-meaning was not just “where,” but “why was it missing?”
+RRGM bridge:
+Question-meaning forms through wording, context, purpose, and relation. A question can carry care, pressure, doubt, or repair.
+
+Q144 question-frame
+Common meaning:
+The way a question is shaped or understood.
+Example:
+The question-frame made only two answers seem possible.
+RRGM bridge:
+Question-frame controls the inquiry path. A bad frame can force false choices or hide valid answers.
+
+Q145 question-path
+Common meaning:
+The route a question follows toward an answer.
+Example:
+The question-path moved from evidence to cause.
+RRGM bridge:
+Question-path preserves how inquiry travels. It shapes what can be found, missed, or distorted.
+
+Q146 question-risk
+Common meaning:
+The danger that a question may mislead, pressure, expose, or distort.
+Example:
+The interview had question-risk because the wording assumed guilt.
+RRGM bridge:
+Question-risk appears when inquiry may impair truth, boundary, refusal, privacy, or dignity.
+
+Q147 query
+Common meaning:
+A question, search, or request for information.
+Example:
+The database answered the query.
+RRGM bridge:
+Query is directed information request. It opens a retrieval or reasoning path.
+
+Q148 query-meaning
+Common meaning:
+The meaning or intent behind a query.
+Example:
+The query-meaning was unclear because the search terms were vague.
+RRGM bridge:
+Query-meaning forms through search terms, context, target, and retrieval system.
+
+Q149 query-context
+Common meaning:
+The surrounding information needed to understand or answer a query.
+Example:
+The query-context showed which file she meant.
+RRGM bridge:
+Query-context guides retrieval. Without it, the system may return the wrong pattern.
+
+Q150 query-result
+Common meaning:
+The answer, output, or result returned by a query.
+Example:
+The query-result showed three records.
+RRGM bridge:
+Query-result is retrieved output. It depends on query shape, access, index, and source integrity.
+
+Q151 quote
+Common meaning:
+To repeat exact words from a source, or the repeated words themselves.
+Example:
+The essay used a quote from the speech.
+RRGM bridge:
+Quote transfers language from source to new context. It must preserve source, wording, and surrounding meaning.
+
+Q152 quotation
+Common meaning:
+Words taken exactly from a source, or the act of quoting.
+Example:
+The article included a quotation from the witness.
+RRGM bridge:
+Quotation carries source-language into a new field. It requires context to prevent distortion.
+
+Q153 quoted-claim
+Common meaning:
+A claim repeated from a source.
+Example:
+The quoted-claim needed verification.
+RRGM bridge:
+Quoted-claim preserves another source’s assertion. Quoting a claim does not prove it.
+
+Q154 quoted-context
+Common meaning:
+The context surrounding quoted words.
+Example:
+The quoted-context showed the sentence was ironic.
+RRGM bridge:
+Quoted-context protects meaning from fragment drift. It keeps borrowed language connected to its source field.
+
+Q155 quote-risk
+Common meaning:
+The danger that quoting may distort, expose, misattribute, or harm.
+Example:
+The edited quote created quote-risk.
+RRGM bridge:
+Quote-risk appears when borrowed language may damage truth, dignity, identity, privacy, or repair.
+
+Q156 quality
+Common meaning:
+How good, useful, strong, or effective something is.
+Example:
+The quality of the work improved.
+RRGM bridge:
+Quality is value-state of structure or output. It should be judged by purpose, domain, effect, and integrity.
+
+Q157 quality-claim
+Common meaning:
+A claim about how good, useful, strong, or effective something is.
+Example:
+The review made a quality-claim about the tool.
+RRGM bridge:
+Quality-claim must name the standard, purpose, and domain. “Good” without a gate is vague.
+
+Q158 qualitative
+Common meaning:
+Related to qualities, kinds, meanings, or descriptions rather than numbers.
+Example:
+The interview gave qualitative evidence.
+RRGM bridge:
+Qualitative structure preserves texture, meaning, and type. It catches what numbers may miss.
+
+Q159 qualitative-claim
+Common meaning:
+A claim based on qualities, descriptions, meanings, or types.
+Example:
+The report made a qualitative-claim about trust.
+RRGM bridge:
+Qualitative-claim should preserve context and meaning. It may be valid even when not easily quantified.
+
+Q160 quantitative
+Common meaning:
+Related to numbers, amounts, or measurement.
+Example:
+The study gave quantitative results.
+RRGM bridge:
+Quantitative structure supports counting and comparison. It should not pretend to capture all meaning.
+
+Q161 quantitative-claim
+Common meaning:
+A claim based on numbers, amounts, or measurements.
+Example:
+The chart made a quantitative-claim about growth.
+RRGM bridge:
+Quantitative-claim needs method, scale, sample, and domain. Numbers still need interpretation.
+
+Q162 quantity
+Common meaning:
+An amount or number of something.
+Example:
+The quantity of water was enough.
+RRGM bridge:
+Quantity is count or amount structure. It measures how much, but not whether the amount is meaningful, fair, or good.
+
+Q163 quantity-claim
+Common meaning:
+A claim about amount or number.
+Example:
+The inventory made a quantity-claim of 500 units.
+RRGM bridge:
+Quantity-claim must be checked by count method, unit, and source integrity.
+
+Q164 qualifier
+Common meaning:
+A word, phrase, or condition that limits or modifies a claim.
+Example:
+“Usually” is a qualifier.
+RRGM bridge:
+Qualifier protects scope. It prevents a claim from becoming too broad or too certain.
+
+Q165 qualifier-word
+Common meaning:
+A word that limits or modifies meaning.
+Example:
+“Probably” is a qualifier-word.
+RRGM bridge:
+Qualifier-word changes confidence, scope, frequency, or condition. Small words can strongly shape gates.
+
+Q166 qualification
+Common meaning:
+A requirement, skill, condition, or limiting statement.
+Example:
+The job required a qualification in first aid.
+RRGM bridge:
+Qualification is gate condition or scope limiter. It decides who, what, or which claim can pass.
+
+Q167 qualifying-condition
+Common meaning:
+A condition that must be met for something to count, apply, or pass.
+Example:
+Residency was a qualifying-condition for the program.
+RRGM bridge:
+Qualifying-condition defines the gate requirement. It decides when a claim, access, or status becomes valid.
+
+Q168 quasi-claim
+Common meaning:
+A claim that is partial, approximate, or not fully committed.
+Example:
+The article made a quasi-claim about causation.
+RRGM bridge:
+Quasi-claim signals partial fit. It should not be treated as full proof or full denial.
+
+Q169 questionable
+Common meaning:
+Doubtful, uncertain, suspicious, or open to challenge.
+Example:
+The source was questionable.
+RRGM bridge:
+Questionable means the trust gate should remain open. Evidence, source, or logic needs checking.
+
+Q170 question-mark
+Common meaning:
+A punctuation mark used to show a question.
+Example:
+The sentence ended with a question-mark.
+RRGM bridge:
+Question-mark is inquiry signal in written language. It tells the reader the gate is open, not closed.
+
+Q171 quote-mark
+Common meaning:
+A punctuation mark used to show quoted speech or text.
+Example:
+The quote-mark showed where the copied sentence began.
+RRGM bridge:
+Quote-mark is boundary signal around borrowed language. It helps preserve source separation.
+
+Q172 quote-boundary
+Common meaning:
+A boundary around quoted text or quoted meaning.
+Example:
+The quotation marks created a quote-boundary.
+RRGM bridge:
+Quote-boundary separates source words from new commentary. It protects attribution and meaning integrity.
+
+Q173 quotient
+Common meaning:
+The result of division.
+Example:
+The quotient of 20 divided by 5 is 4.
+RRGM bridge:
+Quotient is division-result structure. It expresses relation between amount and divisor.
+
+Q174 quadrant
+Common meaning:
+One of four sections of a circle, plane, graph, or area.
+Example:
+The point was in the lower-left quadrant.
+RRGM bridge:
+Quadrant is four-part spatial or conceptual division. It helps locate position within a mapped field.
+
+Q175 quantum
+Common meaning:
+The smallest discrete amount of a physical property; also related to quantum physics.
+Example:
+The class studied quantum effects.
+RRGM bridge:
+Quantum marks discrete physical-state logic at small scales. Use carefully; quantum language should not become vague magic.
+
+Q176 quantum-claim
+Common meaning:
+A claim involving quantum physics or quantum behavior.
+Example:
+The article made a quantum-claim about measurement.
+RRGM bridge:
+Quantum-claim requires precise domain support. Quantum terms should not be used as mystery filler.
+
+Q177 quantum-language
+Common meaning:
+Language related to quantum physics or quantum behavior.
+Example:
+The paper used quantum-language.
+RRGM bridge:
+Quantum-language must stay domain-bound. If used metaphorically, the bridge must be explicit.
+
+Q178 quantum-risk
+Common meaning:
+The danger that quantum language may be misused, overextended, or misunderstood.
+Example:
+The talk had quantum-risk because it used physics terms vaguely.
+RRGM bridge:
+Quantum-risk appears when technical language becomes false authority, metaphor drift, or category error.
+
+Q179 quick-summary
+Common meaning:
+A short, fast summary.
+Example:
+She gave a quick-summary before the meeting.
+RRGM bridge:
+Quick-summary lowers load and time cost. It carries omission-risk, so load-bearing points must be preserved.
+
+Q180 quiet-meaning
+Common meaning:
+Meaning expressed subtly, softly, or without strong signal.
+Example:
+The quiet-meaning of the song was grief.
+RRGM bridge:
+Quiet-meaning can be real even when low-volume. Meaning does not need loud expression to count.
+
+Q181 quadrant
+Common meaning:
+One of four sections of a circle, plane, graph, or area.
+Example:
+The point was in the upper-right quadrant.
+RRGM bridge:
+Quadrant is four-part spatial or conceptual division. It helps locate position inside a mapped field.
+
+Q182 quadrant-state
+Common meaning:
+The current condition or active status of a quadrant.
+Example:
+The quadrant-state changed after the map updated.
+RRGM bridge:
+Quadrant-state describes what is happening in one section of a divided field.
+
+Q183 quarter
+Common meaning:
+One of four equal parts, a coin worth twenty-five cents, or a three-month period.
+Example:
+The report covered the first quarter.
+RRGM bridge:
+Quarter divides a whole into four. Context decides whether it means time, money, space, or portion.
+
+Q184 quarter-state
+Common meaning:
+The current condition of a quarter section or time period.
+Example:
+The quarter-state showed higher sales.
+RRGM bridge:
+Quarter-state describes one fourth of a larger field or cycle. It preserves local condition inside larger structure.
+
+Q185 queue
+Common meaning:
+A line or ordered sequence of people, tasks, or items waiting their turn.
+Example:
+The print job entered the queue.
+RRGM bridge:
+Queue is waiting-order ES. It preserves sequence, fairness, and processing order.
+
+Q186 queue-state
+Common meaning:
+The current condition of a queue.
+Example:
+The queue-state showed ten people waiting.
+RRGM bridge:
+Queue-state describes waiting order, load, delay, priority, and processing readiness.
+
+Q187 queue-path
+Common meaning:
+The route followed by items moving through a queue.
+Example:
+The queue-path moved tasks from intake to review.
+RRGM bridge:
+Queue-path preserves ordered movement through waiting and processing gates.
+
+Q188 quake
+Common meaning:
+To shake strongly, especially from an earthquake, fear, or force.
+Example:
+The ground began to quake.
+RRGM bridge:
+Quake is large instability signal. It marks force moving through structure.
+
+Q189 quake-state
+Common meaning:
+A condition of shaking, instability, or seismic activity.
+Example:
+The bridge entered quake-state during the tremor.
+RRGM bridge:
+Quake-state describes active structural disturbance. It can reveal stress, weakness, or collapse risk.
+
+Q190 quiver
+Common meaning:
+To shake slightly or tremble.
+Example:
+The leaf began to quiver.
+RRGM bridge:
+Quiver is small repeated motion. It may signal tension, instability, fear, energy, or vibration.
+
+Q191 quiver-state
+Common meaning:
+A condition of slight shaking or trembling.
+Example:
+The wire entered quiver-state in the wind.
+RRGM bridge:
+Quiver-state marks low-amplitude instability or vibration. It can warn before larger movement.
+
+Q192 quantum
+Common meaning:
+The smallest discrete amount of a physical property; also related to quantum physics.
+Example:
+The class studied quantum behavior.
+RRGM bridge:
+Quantum marks discrete physical-state logic at small scales. Use carefully; quantum language should not become vague magic.
+
+Q193 quantum-state
+Common meaning:
+The condition or state of a quantum system.
+Example:
+The experiment measured a quantum-state.
+RRGM bridge:
+Quantum-state is small-scale physical condition under quantum rules. Observation and measurement gates matter strongly.
+
+Q194 quanta
+Common meaning:
+Plural of quantum; discrete units of a physical quantity.
+Example:
+Energy was exchanged in quanta.
+RRGM bridge:
+Quanta are discrete units in quantum-domain structure. They should be used precisely, not as vague mystery fuel.
+
+Q195 quanta-state
+Common meaning:
+The current condition of discrete quantum units or their measured relation.
+Example:
+The quanta-state changed during the experiment.
+RRGM bridge:
+Quanta-state describes discrete unit condition inside quantum-domain rules. Measurement path matters.
+
+Q196 quantity-field
+Common meaning:
+A field or area where amounts, numbers, or quantities are represented.
+Example:
+The chart created a quantity-field for comparison.
+RRGM bridge:
+Quantity-field is count-space. It lets amount vary across position, category, or state.
+
+Q197 quality-field
+Common meaning:
+A field where qualities or value-states are represented.
+Example:
+The review mapped a quality-field across products.
+RRGM bridge:
+Quality-field shows variation in fit, value, strength, or effect across a domain.
+
+Q198 quiet-field
+Common meaning:
+A field or space with little noise, activity, or disturbance.
+Example:
+The library created a quiet-field for study.
+RRGM bridge:
+Quiet-field lowers interference. It can support reflection, signal clarity, grief, or recovery.
+
+Q199 quarantine-zone
+Common meaning:
+An area set apart to prevent spread of disease, contamination, or danger.
+Example:
+The lab marked a quarantine-zone.
+RRGM bridge:
+Quarantine-zone is separated field against a named spread risk. It must preserve care and proportional boundary.
+
+Q200 queue-layer
+Common meaning:
+A layer in a system that holds tasks, items, or signals in order.
+Example:
+The app used a queue-layer for uploads.
+RRGM bridge:
+Queue-layer manages load through ordered delay. It preserves sequence when immediate processing is not possible.
+
+Q201 question-gate
+Common meaning:
+A point where inquiry is opened, blocked, shaped, or answered.
+Example:
+The interview became a question-gate.
+RRGM bridge:
+Question-gate controls what can be asked and what kind of answer can enter recognition.
+
+Q202 question-integrity
+Common meaning:
+The clarity, fairness, and honesty of a question.
+Example:
+The survey improved question-integrity by removing bias.
+RRGM bridge:
+Question-integrity protects inquiry from hidden assumptions, pressure, and false framing.
+
+Q203 question-risk
+Common meaning:
+The danger that a question may mislead, pressure, expose, or distort.
+Example:
+The loaded question created question-risk.
+RRGM bridge:
+Question-risk appears when inquiry may impair truth, boundary, refusal, privacy, or dignity.
+
+Q204 query-gate
+Common meaning:
+A point where a query is accepted, blocked, shaped, or answered.
+Example:
+The search box was the query-gate.
+RRGM bridge:
+Query-gate controls retrieval. It decides what information path opens and what can return.
+
+Q205 query-boundary
+Common meaning:
+A limit around what may be asked, searched, or retrieved.
+Example:
+The database had a query-boundary around private files.
+RRGM bridge:
+Query-boundary protects information access, privacy, identity, and memory.
+
+Q206 query-capture
+Common meaning:
+A condition where a query is controlled or distorted by hidden pressure, bad framing, or hostile input.
+Example:
+The poisoned search terms caused query-capture.
+RRGM bridge:
+Query-capture seizes retrieval direction. It can hide truth, amplify distortion, or bypass boundary.
+
+Q207 quote-gate
+Common meaning:
+A point where quoted language is selected, checked, or interpreted.
+Example:
+The editor acted as the quote-gate.
+RRGM bridge:
+Quote-gate controls borrowed language. It must preserve source, wording, context, and dignity.
+
+Q208 quote-integrity
+Common meaning:
+The accuracy and fairness of a quote.
+Example:
+The transcript protected quote-integrity.
+RRGM bridge:
+Quote-integrity means borrowed language remains faithful to source wording and meaning field.
+
+Q209 quote-context-preservation
+Common meaning:
+Keeping enough context around a quote to preserve meaning.
+Example:
+The article used quote-context-preservation.
+RRGM bridge:
+Quote-context-preservation prevents fragment drift, weaponized quoting, and meaning inversion.
+
+Q210 quality-gate
+Common meaning:
+A point where quality is checked or required.
+Example:
+The final review was the quality-gate.
+RRGM bridge:
+Quality-gate checks fit to purpose, standard, domain, and effect.
+
+Q211 quality-integrity
+Common meaning:
+The reliability and honesty of quality standards or quality performance.
+Example:
+Independent review protected quality-integrity.
+RRGM bridge:
+Quality-integrity means the quality claim matches real effect, not only surface appearance.
+
+Q212 quantity-gate
+Common meaning:
+A point where amount or number is checked, limited, or required.
+Example:
+The inventory count was the quantity-gate.
+RRGM bridge:
+Quantity-gate controls count-state. It answers how much can pass, count, or qualify.
+
+Q213 quantity-with-domain
+Common meaning:
+Quantity measured within a clear domain or context.
+Example:
+The report used quantity-with-domain by separating users from sessions.
+RRGM bridge:
+Quantity-with-domain prevents count distortion. Numbers must be tied to what is actually being counted.
+
+Q214 qualifier-gate
+Common meaning:
+A point where a qualifier limits or modifies meaning.
+Example:
+The word “usually” became the qualifier-gate.
+RRGM bridge:
+Qualifier-gate controls scope and confidence. It prevents overclaiming.
+
+Q215 qualifying-condition-gate
+Common meaning:
+A point where a qualifying condition is tested.
+Example:
+The residency rule was the qualifying-condition-gate.
+RRGM bridge:
+Qualifying-condition-gate decides whether access, claim, or status may pass under specified conditions.
+
+Q216 quiet-refusal
+Common meaning:
+A refusal expressed quietly, indirectly, or through silence.
+Example:
+Her quiet-refusal was stepping back from the table.
+RRGM bridge:
+Quiet-refusal may appear when direct refusal is unsafe, costly, or unnecessary. It should still count.
+
+Q217 quiet-boundary
+Common meaning:
+A subtle, soft, or indirectly expressed boundary.
+Example:
+His quiet-boundary was changing the subject.
+RRGM bridge:
+Quiet-boundary still protects a gate. A boundary does not need volume to be valid.
+
+Q218 quiet-signal
+Common meaning:
+A subtle, low-volume, or indirect signal.
+Example:
+The long pause was a quiet-signal.
+RRGM bridge:
+Quiet-signal may carry refusal, need, grief, care, warning, or uncertainty below obvious expression threshold.
+
+Q219 quantum-gate
+Common meaning:
+A point where quantum-domain state, measurement, or transition is assessed.
+Example:
+The detector acted as a quantum-gate.
+RRGM bridge:
+Quantum-gate must stay physics-domain precise. Do not use it as vague proof of mystery or consciousness.
+
+Q220 quantum-language-risk
+Common meaning:
+The danger that quantum language may be misused, overextended, or treated as false authority.
+Example:
+The article had quantum-language-risk because it used physics terms without support.
+RRGM bridge:
+Quantum-language-risk appears when technical language becomes metaphor drift, category error, or fake proof.

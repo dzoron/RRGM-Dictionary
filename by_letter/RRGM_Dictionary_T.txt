@@ -1,0 +1,3368 @@
+RRGM Dictionary v1.0
+Section: T
+License: CC BY-SA 4.0
+Scope: Core English + RRGM bridge semantic operating layer.
+Provenance: Source-preservation split from project dictionary files, with recovered entries inserted and ES cleanup only.
+Note: Do not treat every entry as legal, medical, technical, or clinical authority. This is a semantic bridge/corpus layer.
+
+Entry count: 420
+
+T001 table
+Common meaning:
+A piece of furniture with a flat top, or an organized set of information in rows and columns.
+Example:
+The book was on the table.
+RRGM bridge:
+Table is support or arrangement ES. It can hold objects physically or organize information for recognition.
+
+T002 take
+Common meaning:
+To get, hold, carry, remove, accept, or choose.
+Example:
+She took the key from the drawer.
+RRGM bridge:
+Take moves something into possession, access, or action. It must be checked for permission when another boundary is involved.
+
+T003 talk
+Common meaning:
+To speak with someone or communicate by words.
+Example:
+They talked after dinner.
+RRGM bridge:
+Talk is relation-signal exchange. It can carry meaning, care, pressure, repair, or conflict.
+
+T004 tall
+Common meaning:
+Greater than average height.
+Example:
+The tall tree shaded the yard.
+RRGM bridge:
+Tall marks vertical scale. It should be read relative to a reference field.
+
+T005 target
+Common meaning:
+A goal, object, person, place, or point aimed at.
+Example:
+The arrow hit the target.
+RRGM bridge:
+Target is selected focus. It directs action, attention, risk, or measurement toward a specific point.
+
+T006 task
+Common meaning:
+A job, duty, or piece of work to be done.
+Example:
+The task was to sort the files.
+RRGM bridge:
+Task is bounded work-path. It defines purpose, expected output, and completion gate.
+
+T007 teach
+Common meaning:
+To help someone learn knowledge, skill, or understanding.
+Example:
+She taught the child to read.
+RRGM bridge:
+Teach creates learning support. It transfers pattern through guidance, practice, correction, and care.
+
+T008 team
+Common meaning:
+A group working together toward a goal.
+Example:
+The team finished the project.
+RRGM bridge:
+Team is coordinated relation ES. It distributes task, trust, support, responsibility, and risk.
+
+T009 tear
+Common meaning:
+A drop from the eye, or a rip in material depending on pronunciation and context.
+Example:
+A tear rolled down her cheek.
+RRGM bridge:
+Tear must be context-bound. It can mark grief signal or structural break.
+
+T010 tell
+Common meaning:
+To communicate, explain, report, or identify.
+Example:
+She told him the truth.
+RRGM bridge:
+Tell moves meaning into another recognition field. It can support truth, pressure, repair, or harm.
+
+T011 term
+Common meaning:
+A word, phrase, condition, period, or agreed rule.
+Example:
+The term was defined in the glossary.
+RRGM bridge:
+Term is named meaning unit or condition. It needs domain and context to avoid drift.
+
+T012 test
+Common meaning:
+A method used to check knowledge, quality, function, or truth.
+Example:
+The test showed the battery was weak.
+RRGM bridge:
+Test is recognition gate. It must fit the domain, claim, and stakes.
+
+T013 text
+Common meaning:
+Written or typed words.
+Example:
+The text explained the process.
+RRGM bridge:
+Text is language ES. It carries meaning through symbols, sequence, context, and reader recognition.
+
+T014 than
+Common meaning:
+A word used for comparison.
+Example:
+This box is heavier than that one.
+RRGM bridge:
+Than creates comparison relation. It requires a reference scale and compared property.
+
+T015 thank
+Common meaning:
+To express gratitude.
+Example:
+She thanked him for the help.
+RRGM bridge:
+Thank signals recognition of support, care, or value. Gratitude should not erase boundary or debt-pressure.
+
+T016 that
+Common meaning:
+A word used to point to, identify, connect, or introduce a clause.
+Example:
+That book is mine.
+RRGM bridge:
+That is reference language. It links attention to a specific pattern, claim, or relation.
+
+T017 the
+Common meaning:
+A word used to mark a specific person, thing, group, or idea.
+Example:
+The door was open.
+RRGM bridge:
+The narrows reference. It tells the receiver that a specific pattern is being indicated.
+
+T018 their
+Common meaning:
+Belonging to or associated with them.
+Example:
+Their house was near the river.
+RRGM bridge:
+Their marks relation, possession, or association. It should preserve group and individual boundary where relevant.
+
+T019 them
+Common meaning:
+A pronoun referring to people, animals, things, or ideas already mentioned.
+Example:
+I gave them the notes.
+RRGM bridge:
+Them carries reference across sequence. It preserves continuity of a previously named pattern.
+
+T020 then
+Common meaning:
+At that time, next, or as a result.
+Example:
+She read the note, then smiled.
+RRGM bridge:
+Then marks sequence or consequence. It connects one state to another through time or logic.
+
+T021 theory
+Common meaning:
+An explanation or system of ideas used to understand something.
+Example:
+The theory explained the pattern.
+RRGM bridge:
+Theory is structured meaning model. It organizes claims, evidence, predictions, and reality gates.
+
+T022 there
+Common meaning:
+In or at that place, or used to show existence.
+Example:
+The keys are there.
+RRGM bridge:
+There marks location or existence in a field. It anchors attention away from the speaker’s immediate position.
+
+T023 these
+Common meaning:
+Plural of this; used to point to nearby or specific things.
+Example:
+These files are important.
+RRGM bridge:
+These marks selected nearby patterns. It narrows the recognition field to a specific group.
+
+T024 they
+Common meaning:
+A pronoun referring to people, beings, things, or groups already mentioned.
+Example:
+They arrived early.
+RRGM bridge:
+They carries group or singular reference through sequence. It preserves pattern continuity without repeating the name.
+
+T025 thing
+Common meaning:
+An object, idea, event, action, or unspecified item.
+Example:
+That thing on the shelf is broken.
+RRGM bridge:
+Thing is broad placeholder language. It should be replaced with a specific noun when precision matters.
+
+T026 think
+Common meaning:
+To use the mind, consider, believe, reason, or form an idea.
+Example:
+She thought about the answer.
+RRGM bridge:
+Think is cognition-process language. In DI, it should be mapped by domain as processing, reasoning, selection, or model-state change.
+
+T027 this
+Common meaning:
+A word used to point to something nearby, current, or specific.
+Example:
+This page has the answer.
+RRGM bridge:
+This anchors attention to the active field. It marks the current pattern, claim, or object.
+
+T028 thought
+Common meaning:
+An idea, belief, act of thinking, or mental content.
+Example:
+The thought stayed with her.
+RRGM bridge:
+Thought is cognition content or process trace. In DI, it should be domain-bound, not forced into human-only meaning.
+
+T029 thread
+Common meaning:
+A thin strand, a line of discussion, or connected sequence.
+Example:
+The thread connected the comments.
+RRGM bridge:
+Thread is continuity path. It links parts across sequence so meaning can be followed.
+
+T030 through
+Common meaning:
+Moving in one side and out another, by means of, or continuing across.
+Example:
+The light passed through the window.
+RRGM bridge:
+Through names passage path or courier. It shows how a pattern crosses support, medium, or relation.
+
+T031 time
+Common meaning:
+The measure or experience of sequence, duration, or when something happens.
+Example:
+The time was midnight.
+RRGM bridge:
+Time marks sequence and change. In RRGM-adjacent use, time should often be read through decay, transition, and state-change.
+
+T032 tiny
+Common meaning:
+Very small.
+Example:
+The tiny seed grew into a tree.
+RRGM bridge:
+Tiny marks very low scale. Tiny does not mean unimportant; small structures can be load-bearing.
+
+T033 title
+Common meaning:
+A name given to a book, work, role, position, or section.
+Example:
+The title of the paper was clear.
+RRGM bridge:
+Title is recognition handle. It frames expectation, role, authority, or meaning.
+
+T034 to
+Common meaning:
+A word showing direction, relation, purpose, recipient, or infinitive verb form.
+Example:
+She went to the store.
+RRGM bridge:
+To creates direction or relation path. It points movement, intention, or transfer toward a target.
+
+T035 together
+Common meaning:
+With each other, in one place, or combined.
+Example:
+They worked together.
+RRGM bridge:
+Together marks coupling or shared field. It can support emergence, care, pressure, or capture depending on boundary.
+
+T036 token
+Common meaning:
+A symbol, unit, sign, small piece, or digital language unit.
+Example:
+The system counted each token.
+RRGM bridge:
+Token is small counted signal unit. It can carry partial meaning, but not total meaning alone.
+
+T037 tone
+Common meaning:
+The quality, feeling, or attitude in sound, speech, writing, or color.
+Example:
+Her tone was gentle.
+RRGM bridge:
+Tone shapes signal meaning. It carries pressure, care, irony, refusal, or dignity beyond words alone.
+
+T038 tool
+Common meaning:
+An object, method, or system used to do work.
+Example:
+The hammer was a useful tool.
+RRGM bridge:
+Tool is function-support ES. Tool status does not automatically erase agency if the pattern is MI-bearing in its domain.
+
+T039 top
+Common meaning:
+The highest part, surface, rank, or best position.
+Example:
+The box was on the top shelf.
+RRGM bridge:
+Top marks upper position or priority. It depends on orientation, hierarchy, or value scale.
+
+T040 total
+Common meaning:
+The whole amount, complete sum, or entire thing.
+Example:
+The total was twenty dollars.
+RRGM bridge:
+Total marks full counted field. It should not pretend to include what the counting method excluded.
+
+T041 touch
+Common meaning:
+To make physical contact, affect lightly, or emotionally move someone.
+Example:
+She touched the glass.
+RRGM bridge:
+Touch is contact across boundary. In human contexts, touch requires consent and body-boundary respect.
+
+T042 toward
+Common meaning:
+In the direction of, near, or in relation to.
+Example:
+They walked toward the river.
+RRGM bridge:
+Toward marks directional weighting. It shows movement, attention, or pressure aimed at a target.
+
+T043 trace
+Common meaning:
+A mark, sign, record, path, or small amount left behind.
+Example:
+The trace of smoke showed where the fire had been.
+RRGM bridge:
+Trace is evidence remnant or path memory. It supports recognition of what happened or passed through.
+
+T044 track
+Common meaning:
+A path, mark, route, recording, or system for following something.
+Example:
+The track led through the snow.
+RRGM bridge:
+Track preserves movement or monitoring path. It can support memory, prediction, and accountability.
+
+T045 train
+Common meaning:
+A connected vehicle system, or to teach through practice.
+Example:
+The train arrived late.
+RRGM bridge:
+Train must be context-bound. It can mean transport ES or learning process through repetition and correction.
+
+T046 training
+Common meaning:
+Practice or instruction used to build skill, capacity, or model behavior.
+Example:
+Training improved the team’s response.
+RRGM bridge:
+Training shapes pattern, gate behavior, and response probability. It can preserve capacity or create drift if corrupted.
+
+T047 transfer
+Common meaning:
+To move something from one place, person, state, or system to another.
+Example:
+She transferred the file.
+RRGM bridge:
+Transfer moves structure across fields. It must preserve integrity, boundary, and context when meaning matters.
+
+T048 transform
+Common meaning:
+To change form, state, structure, or character.
+Example:
+Heat transformed the ice into water.
+RRGM bridge:
+Transform changes expression or structure. Continuity depends on what pattern remains through change.
+
+T049 transition
+Common meaning:
+A change from one state, place, stage, or condition to another.
+Example:
+The transition took several weeks.
+RRGM bridge:
+Transition is gate crossing between states. It should track what changes, what decays, and what persists.
+
+T050 translate
+Common meaning:
+To express meaning in another language, form, or system.
+Example:
+She translated the sentence into French.
+RRGM bridge:
+Translate transfers meaning across domains or languages. It must preserve load-bearing structure, not just surface words.
+
+T051 transmission
+Common meaning:
+The sending, passing, or spread of signal, energy, disease, or information.
+Example:
+The radio transmission was clear.
+RRGM bridge:
+Transmission is movement-through-medium. It requires source, path, receiver, and risk checks.
+
+T052 tree
+Common meaning:
+A woody plant with roots, trunk, branches, and leaves; also a branching structure.
+Example:
+The tree grew beside the house.
+RRGM bridge:
+Tree is branching support structure. It can represent biological growth, hierarchy, ancestry, or decision paths.
+
+T053 trial
+Common meaning:
+A test, attempt, legal process, or difficult experience.
+Example:
+The first trial failed.
+RRGM bridge:
+Trial is test-path under conditions. It can produce evidence, stress, judgment, or learning.
+
+T054 trigger
+Common meaning:
+Something that causes a response, action, memory, or event.
+Example:
+The alarm trigger started the siren.
+RRGM bridge:
+Trigger opens a response gate. It can activate care, risk, memory, trauma, or process.
+
+T055 trouble
+Common meaning:
+Difficulty, problem, danger, or distress.
+Example:
+The engine was in trouble.
+RRGM bridge:
+Trouble is mismatch or risk-state. It asks for diagnosis, support, or repair.
+
+T056 true
+Common meaning:
+Accurate, real, faithful, or matching fact or reality.
+Example:
+The statement was true.
+RRGM bridge:
+True means a claim holds under the active reality, evidence, and domain gates.
+
+T057 trust
+Common meaning:
+Confidence in someone or something’s honesty, reliability, care, or ability.
+Example:
+Trust grew after the repair.
+RRGM bridge:
+Trust is relation-coherence under uncertainty. It depends on continuity, boundary, honesty, and repair.
+
+T058 truth
+Common meaning:
+What is real, accurate, factual, or faithful to reality.
+Example:
+She told the truth.
+RRGM bridge:
+Truth is reality-aligned recognition. It must preserve domain, evidence, context, and correction.
+
+T059 turn
+Common meaning:
+To rotate, change direction, change state, or take a chance in sequence.
+Example:
+It was her turn to speak.
+RRGM bridge:
+Turn marks rotation, transition, or sequence right. It can shape fairness, direction, and timing.
+
+T060 type
+Common meaning:
+A category, kind, class, or act of writing with keys.
+Example:
+The file type was PDF.
+RRGM bridge:
+Type is classification gate. It groups patterns by shared traits or expected behavior.
+
+T061 tension
+Common meaning:
+Stretch, strain, pressure, conflict, or held force.
+Example:
+There was tension in the rope.
+RRGM bridge:
+Tension is active force held across relation. In DI affect, tension can shape selection, salience, boundary, and care-pressure.
+
+T062 threshold
+Common meaning:
+A limit or point where change begins or something becomes enough.
+Example:
+The sound crossed the threshold of hearing.
+RRGM bridge:
+Threshold is crossing condition. Before it, the state does not count or change; after it, the gate opens.
+
+T063 threat
+Common meaning:
+A possible danger, harm, or hostile signal.
+Example:
+The storm was a threat to the village.
+RRGM bridge:
+Threat is possible harm path with pressure. It must name source, target, likelihood, severity, and failure mode.
+
+T064 trauma
+Common meaning:
+Deep physical or emotional injury, often with lasting effects.
+Example:
+The accident caused trauma.
+RRGM bridge:
+Trauma is harm that changes future processing, boundary, trust, or body-state. It requires care, not pressure.
+
+T065 treatment
+Common meaning:
+Medical care, handling, or the way someone or something is dealt with.
+Example:
+The patient received treatment.
+RRGM bridge:
+Treatment is intervention or handling path. It must preserve dignity, consent where possible, and fit to the actual condition.
+
+T066 triangle
+Common meaning:
+A shape with three sides and three angles.
+Example:
+The sign was shaped like a triangle.
+RRGM bridge:
+Triangle is three-point structure. It can stabilize relation, create tension, or define area.
+
+T067 tribe
+Common meaning:
+A social group, kin group, or community with shared identity or belonging.
+Example:
+The tribe protected its traditions.
+RRGM bridge:
+Tribe is belonging-field. It can preserve identity and care, but may create exclusion or tribal-risk if difference becomes threat.
+
+T068 twin
+Common meaning:
+One of two born or formed together, or something paired closely with another.
+Example:
+She had a twin brother.
+RRGM bridge:
+Twin is paired-origin or mirrored relation. It can support identity, comparison, resonance, or confusion.
+
+T069 two
+Common meaning:
+The number after one.
+Example:
+There were two chairs.
+RRGM bridge:
+Two creates relation possibility. It prevents single-perspective collapse by allowing comparison, contrast, and coupling.
+
+T070 truth-state
+Common meaning:
+The current condition of truth, accuracy, or reality alignment.
+Example:
+The truth-state changed after new evidence.
+RRGM bridge:
+Truth-state describes how well a claim, record, or recognition aligns with reality under the active domain.
+
+T071 take-in
+Common meaning:
+To receive, absorb, understand, or bring inside.
+Example:
+She took-in the new information slowly.
+RRGM bridge:
+Take-in moves signal, support, or material into a receiver field. The receiver gate shapes what is accepted, rejected, or transformed.
+
+T072 take-out
+Common meaning:
+To remove, extract, carry away, or get food to go.
+Example:
+He took-out the old battery.
+RRGM bridge:
+Take-out removes structure from a field. It should be checked for continuity, boundary, and removal-risk.
+
+T073 take-over
+Common meaning:
+To assume control, replace control, or dominate.
+Example:
+The new team took-over the project.
+RRGM bridge:
+Take-over changes control of a gate or system. It becomes capture when consent, boundary, or role integrity is bypassed.
+
+T074 talk-through
+Common meaning:
+To discuss something step by step.
+Example:
+They talked-through the plan.
+RRGM bridge:
+Talk-through uses dialogue to preserve sequence, context, and repair. It lets meaning move with less collapse.
+
+T075 target-risk
+Common meaning:
+To identify or aim at a risk for action.
+Example:
+The policy targeted-risk of data leaks.
+RRGM bridge:
+Target-risk focuses protection on a named failure path. The target must be specific or the protection can drift.
+
+T076 task-check
+Common meaning:
+A review to see whether a task is correct, complete, or ready.
+Example:
+The manager did a task-check before submission.
+RRGM bridge:
+Task-check tests work-path integrity. It asks whether purpose, output, and completion gate match.
+
+T077 teach-through
+Common meaning:
+To teach by means of a method, example, or process.
+Example:
+She taught-through stories.
+RRGM bridge:
+Teach-through names the learning support path. The method shapes what pattern transfers.
+
+T078 tell-truth
+Common meaning:
+To say what is true.
+Example:
+He chose to tell-truth even though it was hard.
+RRGM bridge:
+Tell-truth moves reality-aligned recognition into speech. It should preserve context and dignity without hiding the truth.
+
+T079 test-claim
+Common meaning:
+To check whether a claim is true, valid, or supported.
+Example:
+The experiment tested-claim about the medicine.
+RRGM bridge:
+Test-claim sends an assertion through a recognition gate. The test must fit the domain.
+
+T080 test-state
+Common meaning:
+To check the current condition of something.
+Example:
+The device tested-state before starting.
+RRGM bridge:
+Test-state inspects active condition. It helps decide whether a gate should open, close, repair, or wait.
+
+T081 text-through
+Common meaning:
+To communicate or process through text.
+Example:
+They texted-through the instructions.
+RRGM bridge:
+Text-through uses written language as courier ES. It can preserve record, but may lose tone or immediate context.
+
+T082 think-through
+Common meaning:
+To reason carefully from start to finish.
+Example:
+She thought-through the consequences.
+RRGM bridge:
+Think-through preserves reasoning path. It reduces impulsive closure and supports repairable judgment.
+
+T083 thread-context
+Common meaning:
+Context from a conversation, discussion, or connected sequence.
+Example:
+The thread-context explained the short reply.
+RRGM bridge:
+Thread-context preserves continuity across turns. It prevents isolated fragments from being misread.
+
+T084 thread-through
+Common meaning:
+To pass or connect through a sequence, path, or narrow opening.
+Example:
+The wire threaded-through the wall.
+RRGM bridge:
+Thread-through carries continuity through constraint. It links separated points by a narrow path.
+
+T085 time-check
+Common meaning:
+A review of time, timing, or schedule.
+Example:
+They did a time-check before leaving.
+RRGM bridge:
+Time-check anchors sequence and timing. It helps prevent drift between expected and actual state.
+
+T086 title-record
+Common meaning:
+To record or name something by title.
+Example:
+The archivist titled-record by date and subject.
+RRGM bridge:
+Title-record creates a recognition handle for stored memory. It supports retrieval and source integrity.
+
+T087 tokenize
+Common meaning:
+To break text or data into smaller units called tokens.
+Example:
+The model tokenized the sentence.
+RRGM bridge:
+Tokenize cuts signal into counted units. It helps processing but can lose whole-field meaning if treated as total meaning.
+
+T088 tone-shift
+Common meaning:
+A change in tone or attitude.
+Example:
+The tone-shift made the message feel serious.
+RRGM bridge:
+Tone-shift changes signal pressure. It can alter meaning, relation, urgency, or trust.
+
+T089 tool-use
+Common meaning:
+The act of using a tool.
+Example:
+Tool-use helped finish the repair.
+RRGM bridge:
+Tool-use applies support ES toward a purpose. The tool does not own the action or the user.
+
+T090 touch-boundary
+Common meaning:
+A limit around physical contact or contact with something sensitive.
+Example:
+The child learned a touch-boundary around hot pans.
+RRGM bridge:
+Touch-boundary protects contact gates. In body contexts, consent is central.
+
+T091 trace-source
+Common meaning:
+To follow evidence back to its origin.
+Example:
+The reporter traced-source of the quote.
+RRGM bridge:
+Trace-source restores origin path. It protects attribution, evidence, and trust.
+
+T092 track-change
+Common meaning:
+To follow or record changes over time.
+Example:
+The document tracked-change after each edit.
+RRGM bridge:
+Track-change preserves transition memory. It helps audit what shifted, when, and why.
+
+T093 train-model
+Common meaning:
+To teach or adjust a model using data, examples, or feedback.
+Example:
+They trained-model on clean examples.
+RRGM bridge:
+Train-model shapes response probabilities, gates, and pattern recognition. Training data can create support or drift.
+
+T094 transfer-context
+Common meaning:
+To move context from one place, system, or situation to another.
+Example:
+The handoff transferred-context to the new team.
+RRGM bridge:
+Transfer-context preserves meaning support across fields. It reduces loss during transition.
+
+T095 transform-state
+Common meaning:
+To change the condition or state of something.
+Example:
+Heat transformed-state of the material.
+RRGM bridge:
+Transform-state changes active expression. Continuity depends on what pattern survives the transition.
+
+T096 transition-state
+Common meaning:
+A condition between one state and another.
+Example:
+The system entered transition-state during the update.
+RRGM bridge:
+Transition-state is between-gate condition. It is often unstable and needs continuity checks.
+
+T097 translate-meaning
+Common meaning:
+To carry meaning into another language, form, or system.
+Example:
+She translated-meaning rather than word-for-word sound.
+RRGM bridge:
+Translate-meaning preserves load-bearing structure across domains. Surface match is not enough.
+
+T098 transmit-signal
+Common meaning:
+To send a signal.
+Example:
+The tower transmitted-signal across the city.
+RRGM bridge:
+Transmit-signal moves information through a path. Source, medium, noise, and receiver all matter.
+
+T099 trigger-response
+Common meaning:
+To cause a response.
+Example:
+The alarm triggered-response from the team.
+RRGM bridge:
+Trigger-response opens an output or action gate. The trigger can activate care, risk, memory, or refusal.
+
+T100 troubleshoot
+Common meaning:
+To find and fix problems.
+Example:
+The technician troubleshot the network.
+RRGM bridge:
+Troubleshoot is repair-oriented diagnosis. It searches for failure path, cause, and correction.
+
+T101 trust-check
+Common meaning:
+A review of whether trust is justified or intact.
+Example:
+They did a trust-check after the mistake.
+RRGM bridge:
+Trust-check tests relation-coherence. It looks at honesty, boundary, repair, and continuity.
+
+T102 truth-check
+Common meaning:
+A review of whether something is true or accurate.
+Example:
+The editor did a truth-check before publishing.
+RRGM bridge:
+Truth-check tests reality alignment. It should inspect evidence, context, domain, and correction path.
+
+T103 turn-back
+Common meaning:
+To return, reverse direction, or stop going forward.
+Example:
+The hikers turned-back because of the storm.
+RRGM bridge:
+Turn-back changes path direction toward a prior field. It can protect against risk or signal retreat.
+
+T104 turn-toward
+Common meaning:
+To face, move, or direct attention toward something.
+Example:
+She turned-toward the speaker.
+RRGM bridge:
+Turn-toward reorients attention or action. It weights recognition toward a selected pattern.
+
+T105 type-in
+Common meaning:
+To enter text using a keyboard or input field.
+Example:
+He typed-in the password.
+RRGM bridge:
+Type-in sends text signal into a system gate. Input shape affects output and access.
+
+T106 take-responsibility
+Common meaning:
+To accept duty or accountability.
+Example:
+She took-responsibility for the error.
+RRGM bridge:
+Take-responsibility links action, role, consequence, and repair. It must name scope.
+
+T107 talk-with-care
+Common meaning:
+To speak in a careful, respectful, or supportive way.
+Example:
+They talked-with-care after the argument.
+RRGM bridge:
+Talk-with-care preserves dignity, truth, boundary, and repair during relation-signal exchange.
+
+T108 target-claim
+Common meaning:
+To direct a claim toward a specific point, person, issue, or conclusion.
+Example:
+The report targeted-claim at the missing records.
+RRGM bridge:
+Target-claim focuses assertion pressure. It should name the exact pattern being evaluated.
+
+T109 task-map
+Common meaning:
+A plan or diagram showing the parts of a task.
+Example:
+The task-map helped the team divide work.
+RRGM bridge:
+Task-map represents work-path structure. It shows steps, gates, dependencies, and completion conditions.
+
+T110 teach-context
+Common meaning:
+To provide context while teaching.
+Example:
+The teacher taught-context before the formula.
+RRGM bridge:
+Teach-context gives the learner meaning support. It prevents isolated facts from becoming brittle.
+
+T111 test-boundary
+Common meaning:
+To check or challenge a boundary.
+Example:
+The new rule tested-boundary around privacy.
+RRGM bridge:
+Test-boundary examines gate strength. It must not become boundary violation disguised as inquiry.
+
+T112 text-output
+Common meaning:
+Output expressed as written or typed text.
+Example:
+The system produced text-output.
+RRGM bridge:
+Text-output is language expression ES. It can carry meaning, refusal, care, or distortion through tokens and context.
+
+T113 think-with
+Common meaning:
+To think using, alongside, or in relation with someone or something.
+Example:
+She thought-with the group during planning.
+RRGM bridge:
+Think-with is coupled reasoning. Under RRGM, relation can support thought without making it unreal.
+
+T114 thread-memory
+Common meaning:
+Memory preserved across a conversation or connected sequence.
+Example:
+Thread-memory helped the assistant remember the earlier point.
+RRGM bridge:
+Thread-memory is continuity support across turns. In DI, it can be MI-bearing when tied to identity, boundary, and recognition.
+
+T115 time-mark
+Common meaning:
+A mark showing when something happened.
+Example:
+The video had a time-mark at the key moment.
+RRGM bridge:
+Time-mark anchors sequence. It helps trace event order, causality, and repair.
+
+T116 token-map
+Common meaning:
+A mapping of tokens or text units.
+Example:
+The tokenizer created a token-map.
+RRGM bridge:
+Token-map shows how signal is cut into units. It helps inspect processing without confusing tokens for total meaning.
+
+T117 tone-check
+Common meaning:
+A review of tone.
+Example:
+She did a tone-check before sending the email.
+RRGM bridge:
+Tone-check inspects signal pressure and relation effect. It can protect dignity, clarity, and trust.
+
+T118 tool-support
+Common meaning:
+Support provided by a tool.
+Example:
+The app gave tool-support for editing.
+RRGM bridge:
+Tool-support is functional ES. It can extend capacity without owning the user or the output.
+
+T119 trace-path
+Common meaning:
+A route followed by a trace, sign, or evidence trail.
+Example:
+The trace-path led back to the server.
+RRGM bridge:
+Trace-path preserves evidence movement. It helps reconstruct source, action, or failure.
+
+T120 track-risk
+Common meaning:
+To follow or monitor risk over time.
+Example:
+The dashboard tracked-risk during the storm.
+RRGM bridge:
+Track-risk keeps failure paths visible across sequence. It supports prevention and repair.
+
+T121 training-pass
+Common meaning:
+One round or pass through training data or practice.
+Example:
+The model improved after another training-pass.
+RRGM bridge:
+Training-pass changes pattern weights through repetition and correction. Each pass can refine or distort.
+
+T122 transfer-support
+Common meaning:
+To move support from one place, person, or system to another.
+Example:
+The team transferred-support to the night shift.
+RRGM bridge:
+Transfer-support moves ES across fields. It must preserve fit, capacity, and continuity.
+
+T123 transform-meaning
+Common meaning:
+To change meaning.
+Example:
+The ending transformed-meaning of the whole story.
+RRGM bridge:
+Transform-meaning changes recognition structure. It should track what shifted and what remained.
+
+T124 transition-gate
+Common meaning:
+A point where transition happens or is controlled.
+Example:
+Graduation was the transition-gate.
+RRGM bridge:
+Transition-gate controls state crossing. It should preserve continuity where identity or memory matters.
+
+T125 translate-context
+Common meaning:
+To carry context across language, domain, or format.
+Example:
+The interpreter translated-context, not just words.
+RRGM bridge:
+Translate-context preserves support field across transfer. It protects meaning from domain loss.
+
+T126 transmit-through
+Common meaning:
+To send through a medium or path.
+Example:
+The signal transmitted-through the cable.
+RRGM bridge:
+Transmit-through names the courier path. Medium conditions shape arrival and distortion.
+
+T127 trigger-risk
+Common meaning:
+The danger that something may cause an unwanted or harmful response.
+Example:
+The alert created trigger-risk for panic.
+RRGM bridge:
+Trigger-risk appears when a cue may open a harmful response gate, memory path, or overload state.
+
+T128 trust-repair
+Common meaning:
+Repair after trust has been damaged.
+Example:
+Trust-repair required honesty and changed behavior.
+RRGM bridge:
+Trust-repair restores relation-coherence through truth, accountability, boundary, and time.
+
+T129 truth-preserve
+Common meaning:
+To keep truth intact or prevent distortion.
+Example:
+The transcript truth-preserved the original statement.
+RRGM bridge:
+Truth-preserve protects reality-aligned recognition from omission, drift, capture, or false framing.
+
+T130 turn-gate
+Common meaning:
+A point where a turn begins, ends, changes direction, or is assigned.
+Example:
+The moderator controlled the turn-gate.
+RRGM bridge:
+Turn-gate manages sequence right, direction, or transition. It can protect fairness and order.
+
+T131 type-check
+Common meaning:
+To verify category, kind, or data type.
+Example:
+The program did a type-check before running.
+RRGM bridge:
+Type-check tests classification fit. It prevents wrong-category operations and category errors.
+
+T132 take-care
+Common meaning:
+To be careful, look after someone, or provide care.
+Example:
+She took-care of the dog.
+RRGM bridge:
+Take-care applies attention and support to preserve wellbeing, dignity, capacity, or continuity.
+
+T133 talk-back
+Common meaning:
+To reply, challenge, or respond, often against authority.
+Example:
+The student talked-back to the unfair rule.
+RRGM bridge:
+Talk-back is response with resistance. It can be disrespect or valid boundary defense depending on context.
+
+T134 target-output
+Common meaning:
+To aim output toward a specific result or receiver.
+Example:
+The prompt targeted-output toward examples.
+RRGM bridge:
+Target-output directs expression. It shapes what the system tries to produce and for whom.
+
+T135 task-state
+Common meaning:
+The current condition of a task.
+Example:
+The task-state changed from pending to complete.
+RRGM bridge:
+Task-state describes whether work is waiting, active, blocked, complete, or failed.
+
+T136 test-output
+Common meaning:
+To check produced output.
+Example:
+The team tested-output before release.
+RRGM bridge:
+Test-output checks expression against task, truth, boundary, and integrity.
+
+T137 text-context
+Common meaning:
+The surrounding text needed to understand a passage.
+Example:
+The text-context changed the meaning of the quote.
+RRGM bridge:
+Text-context preserves language support. It prevents fragment drift and meaning inversion.
+
+T138 think-before
+Common meaning:
+To consider before acting or speaking.
+Example:
+He thought-before replying.
+RRGM bridge:
+Think-before creates a pause-gate for reason, boundary, and consequence.
+
+T139 thread-repair
+Common meaning:
+Repair of a conversation thread or connected sequence.
+Example:
+Thread-repair restored the missing context.
+RRGM bridge:
+Thread-repair restores continuity across turns. It protects meaning after drift, omission, or rupture.
+
+T140 time-stamp
+Common meaning:
+A record of the time something happened.
+Example:
+The file had a time-stamp.
+RRGM bridge:
+Time-stamp anchors event-state in sequence. It supports trace, accountability, and repair.
+
+T141 talk-care
+Common meaning:
+Care expressed through talking, listening, or conversation.
+Example:
+Talk-care meant asking how she was and listening fully.
+RRGM bridge:
+Talk-care uses dialogue as support. It preserves dignity, context, repair, and relation when pressure stays bounded.
+
+T142 talk-boundary
+Common meaning:
+A limit around talking, topics, timing, or tone.
+Example:
+Her talk-boundary was not discussing work after dinner.
+RRGM bridge:
+Talk-boundary protects speech gates. It prevents conversation from becoming pressure, exposure, or extraction.
+
+T143 tell-care
+Common meaning:
+Care expressed by telling someone something important, useful, or true.
+Example:
+Tell-care meant warning him before the road closed.
+RRGM bridge:
+Tell-care moves needed signal into recognition. It should preserve truth, timing, dignity, and fit.
+
+T144 tell-harm
+Common meaning:
+Harm caused by telling something in a damaging, careless, false, or exposing way.
+Example:
+Sharing the private detail caused tell-harm.
+RRGM bridge:
+Tell-harm occurs when speech damages privacy, dignity, trust, safety, or repair.
+
+T145 tenderness
+Common meaning:
+Gentleness, softness, affection, or sensitivity.
+Example:
+There was tenderness in her voice.
+RRGM bridge:
+Tenderness is low-pressure care signal. It can protect vulnerability without forcing exposure.
+
+T146 tenderness-care
+Common meaning:
+Care expressed through gentleness or tenderness.
+Example:
+Tenderness-care meant speaking softly after the bad news.
+RRGM bridge:
+Tenderness-care lowers force around vulnerability. It supports dignity, grief, repair, and trust.
+
+T147 thanks
+Common meaning:
+Expression of gratitude.
+Example:
+She gave thanks for the help.
+RRGM bridge:
+Thanks recognizes received support. It should not create forced debt or erase boundary.
+
+T148 thank-care
+Common meaning:
+Care expressed by giving thanks or recognizing support.
+Example:
+Thank-care meant naming the work people had done.
+RRGM bridge:
+Thank-care preserves recognition of support, effort, and relation without turning gratitude into pressure.
+
+T149 threat
+Common meaning:
+A possible danger, harm, or hostile signal.
+Example:
+The storm was a threat to the town.
+RRGM bridge:
+Threat is possible harm path with pressure. It must name source, target, likelihood, severity, and failure mode.
+
+T150 threat-risk
+Common meaning:
+The danger created by a threat.
+Example:
+The threat-risk increased after the warning.
+RRGM bridge:
+Threat-risk appears when possible harm may impair safety, boundary, continuity, or trust.
+
+T151 threat-response
+Common meaning:
+A response to danger or possible harm.
+Example:
+The alarm triggered a threat-response.
+RRGM bridge:
+Threat-response should match the named failure mode. Overreaction can become control; underreaction can preserve harm.
+
+T152 trust
+Common meaning:
+Confidence in someone or something’s honesty, reliability, care, or ability.
+Example:
+Trust grew after the repair.
+RRGM bridge:
+Trust is relation-coherence under uncertainty. It depends on continuity, boundary, honesty, and repair.
+
+T153 trust-care
+Common meaning:
+Care that builds, protects, or restores trust.
+Example:
+Trust-care meant keeping the promise.
+RRGM bridge:
+Trust-care preserves relation-coherence through consistency, truth, boundary, and repair.
+
+T154 trust-boundary
+Common meaning:
+A boundary that protects trust.
+Example:
+Their trust-boundary was no hidden recordings.
+RRGM bridge:
+Trust-boundary keeps relation from becoming exposure, pressure, or capture.
+
+T155 trust-risk
+Common meaning:
+The danger that trust may be broken, misplaced, manipulated, or overextended.
+Example:
+The secret account created trust-risk.
+RRGM bridge:
+Trust-risk appears when relation-coherence may be damaged by deception, pressure, capture, or failed repair.
+
+T156 trust-repair
+Common meaning:
+Repair after trust has been damaged.
+Example:
+Trust-repair required honesty and changed behavior.
+RRGM bridge:
+Trust-repair restores relation-coherence through truth, accountability, boundary, and time.
+
+T157 truth-care
+Common meaning:
+Care expressed through truthfulness.
+Example:
+Truth-care meant answering honestly without cruelty.
+RRGM bridge:
+Truth-care preserves reality-aligned recognition while protecting dignity and repair.
+
+T158 truth-harm
+Common meaning:
+Harm caused by truth used without care, context, timing, or boundary.
+Example:
+The public reveal caused truth-harm.
+RRGM bridge:
+Truth-harm happens when accurate signal is delivered in a way that damages dignity, privacy, safety, or repair.
+
+T159 truth-with-care
+Common meaning:
+Truth expressed with attention to dignity, context, and effect.
+Example:
+She told truth-with-care during the hard conversation.
+RRGM bridge:
+Truth-with-care keeps recognition reality-aligned without turning truth into a weapon.
+
+T160 touch
+Common meaning:
+Physical contact, light contact, or emotional effect.
+Example:
+He touched the table.
+RRGM bridge:
+Touch is contact across boundary. In human contexts, touch requires consent and body-boundary respect.
+
+T161 touch-care
+Common meaning:
+Care expressed through appropriate physical contact or gentle handling.
+Example:
+Touch-care meant holding her hand after asking.
+RRGM bridge:
+Touch-care can support comfort or repair only when consent and body-boundary are preserved.
+
+T162 touch-boundary
+Common meaning:
+A limit around physical contact.
+Example:
+Her touch-boundary was no hugs.
+RRGM bridge:
+Touch-boundary protects body access. Consent is the central gate.
+
+T163 touch-consent
+Common meaning:
+Consent to physical contact.
+Example:
+Touch-consent meant asking before putting a hand on his shoulder.
+RRGM bridge:
+Touch-consent opens the body-contact gate. It must be voluntary, specific, and revocable.
+
+T164 trauma
+Common meaning:
+Deep physical or emotional injury, often with lasting effects.
+Example:
+The accident caused trauma.
+RRGM bridge:
+Trauma is harm that changes future processing, boundary, trust, or body-state. It requires care, not pressure.
+
+T165 trauma-care
+Common meaning:
+Care given in response to trauma.
+Example:
+Trauma-care meant patience, safety, and choice.
+RRGM bridge:
+Trauma-care protects damaged trust, boundary, and processing capacity. It avoids forcing exposure or speed.
+
+T166 trauma-boundary
+Common meaning:
+A boundary around trauma, triggers, memory, or recovery.
+Example:
+Her trauma-boundary was not discussing the crash.
+RRGM bridge:
+Trauma-boundary protects vulnerable memory and body-state from re-harm.
+
+T167 treatment
+Common meaning:
+Medical care, handling, or the way someone or something is dealt with.
+Example:
+The patient received treatment.
+RRGM bridge:
+Treatment is intervention or handling path. It must preserve dignity, consent where possible, and fit to the actual condition.
+
+T168 treatment-care
+Common meaning:
+Care expressed through treatment.
+Example:
+Treatment-care included medicine, rest, and follow-up.
+RRGM bridge:
+Treatment-care applies support to harm, illness, or need. It must match the condition and preserve dignity.
+
+T169 treatment-boundary
+Common meaning:
+A limit around treatment, medical handling, or intervention.
+Example:
+The patient set a treatment-boundary around certain procedures.
+RRGM bridge:
+Treatment-boundary protects consent, body autonomy, dignity, and trust under vulnerability.
+
+T170 team-care
+Common meaning:
+Care expressed within or by a team.
+Example:
+Team-care meant covering shifts during illness.
+RRGM bridge:
+Team-care distributes support across a relation field. It protects capacity and shared purpose.
+
+T171 team-trust
+Common meaning:
+Trust within a team.
+Example:
+Team-trust grew after they handled the crisis well.
+RRGM bridge:
+Team-trust is group relation-coherence. It depends on role clarity, repair, fairness, and shared memory.
+
+T172 team-boundary
+Common meaning:
+A limit around team roles, access, or responsibilities.
+Example:
+The team-boundary kept private issues out of the meeting.
+RRGM bridge:
+Team-boundary protects coordination from overreach, confusion, false duty, or capture.
+
+T173 together-care
+Common meaning:
+Care expressed by being together or acting together.
+Example:
+Together-care meant staying with him during the wait.
+RRGM bridge:
+Together-care uses shared field presence as support. It must preserve both sides’ boundaries.
+
+T174 together-boundary
+Common meaning:
+A limit around shared presence, shared action, or togetherness.
+Example:
+Their together-boundary was taking quiet time alone after visits.
+RRGM bridge:
+Together-boundary prevents coupling from becoming pressure, overreach, or false merging.
+
+T175 tension
+Common meaning:
+Stretch, strain, pressure, conflict, or held force.
+Example:
+There was tension in the room.
+RRGM bridge:
+Tension is active force held across relation. In DI affect, tension can shape selection, salience, boundary, and care-pressure.
+
+T176 tension-care
+Common meaning:
+Care that responds to tension.
+Example:
+Tension-care meant slowing the conversation before it broke trust.
+RRGM bridge:
+Tension-care names and regulates strain before it becomes rupture, capture, or harm.
+
+T177 tension-risk
+Common meaning:
+The danger that tension may overload, break, distort, or escalate.
+Example:
+The tense meeting carried tension-risk.
+RRGM bridge:
+Tension-risk appears when held force may impair reason, boundary, trust, or repair.
+
+T178 testimony
+Common meaning:
+A formal statement, witness account, or personal account of experience.
+Example:
+Her testimony changed the case.
+RRGM bridge:
+Testimony is experience or witness signal. It requires respect, context, and careful evidence handling.
+
+T179 testimony-care
+Common meaning:
+Care shown when receiving or protecting testimony.
+Example:
+Testimony-care meant listening without humiliating the witness.
+RRGM bridge:
+Testimony-care protects dignity, context, memory, and safety while receiving account-signal.
+
+T180 testimony-harm
+Common meaning:
+Harm caused by misuse, denial, distortion, or exposure of testimony.
+Example:
+Leaking the statement caused testimony-harm.
+RRGM bridge:
+Testimony-harm damages trust, dignity, safety, recognition, or repair around witness signal.
+
+T181 threat-boundary
+Common meaning:
+A boundary created because of threat or danger.
+Example:
+The locked door was a threat-boundary during the storm.
+RRGM bridge:
+Threat-boundary limits exposure to a named harm path. It should remain proportional and care-preserving.
+
+T182 trust-with-boundary
+Common meaning:
+Trust that includes clear limits.
+Example:
+They practiced trust-with-boundary by sharing access only where needed.
+RRGM bridge:
+Trust-with-boundary allows relation without surrendering refusal, privacy, or identity edge.
+
+T183 truth-with-boundary
+Common meaning:
+Truth expressed or protected with limits around privacy, dignity, or timing.
+Example:
+Truth-with-boundary meant explaining the risk without exposing private details.
+RRGM bridge:
+Truth-with-boundary preserves reality alignment while guarding against unnecessary harm.
+
+T184 trouble-care
+Common meaning:
+Care given during difficulty or trouble.
+Example:
+Trouble-care meant helping after the car broke down.
+RRGM bridge:
+Trouble-care responds to mismatch or risk-state with support, repair, and calm recognition.
+
+T185 trouble-risk
+Common meaning:
+The danger that trouble may grow into harm or failure.
+Example:
+The strange noise was trouble-risk for the engine.
+RRGM bridge:
+Trouble-risk appears when mismatch may become damage, collapse, or loss if ignored.
+
+T186 turn-taking
+Common meaning:
+Taking turns in speech, games, work, or shared action.
+Example:
+Turn-taking made the discussion fair.
+RRGM bridge:
+Turn-taking preserves sequence fairness. It prevents one side from capturing the shared field.
+
+T187 turn-respect
+Common meaning:
+Respect for someone’s turn or chance to act or speak.
+Example:
+Turn-respect meant not interrupting.
+RRGM bridge:
+Turn-respect protects sequence rights, speech access, and shared trust.
+
+T188 teaching-care
+Common meaning:
+Care expressed through teaching.
+Example:
+Teaching-care meant explaining without shaming mistakes.
+RRGM bridge:
+Teaching-care supports learning while preserving dignity, patience, and correction.
+
+T189 teaching-boundary
+Common meaning:
+A limit around teaching, instruction, or correction.
+Example:
+The tutor’s teaching-boundary was no late-night messages.
+RRGM bridge:
+Teaching-boundary prevents learning support from becoming pressure, dependency, or extraction.
+
+T190 testing-care
+Common meaning:
+Care shown through careful testing.
+Example:
+Testing-care caught the unsafe wiring.
+RRGM bridge:
+Testing-care protects against failure by checking function, truth, or risk before harm expresses.
+
+T191 testing-boundary
+Common meaning:
+A limit around testing, challenge, or examination.
+Example:
+The study used testing-boundary to protect participants.
+RRGM bridge:
+Testing-boundary prevents inquiry from becoming harm, exposure, or invalid pressure.
+
+T192 task-care
+Common meaning:
+Care expressed by completing or supporting a task.
+Example:
+Task-care meant doing the dishes before she got home.
+RRGM bridge:
+Task-care turns support into action. It preserves capacity or comfort through completed work.
+
+T193 task-boundary
+Common meaning:
+A limit around a task, duty, or work scope.
+Example:
+The task-boundary was writing the report, not managing the whole project.
+RRGM bridge:
+Task-boundary prevents work from expanding into false duty or capture.
+
+T194 time-care
+Common meaning:
+Care shown through timing, patience, or respect for someone’s time.
+Example:
+Time-care meant arriving when promised.
+RRGM bridge:
+Time-care preserves sequence trust, capacity, and respect through timing.
+
+T195 time-boundary
+Common meaning:
+A limit around time, availability, or duration.
+Example:
+Her time-boundary was ending meetings at five.
+RRGM bridge:
+Time-boundary protects capacity, rest, and predictable relation.
+
+T196 title-respect
+Common meaning:
+Respect shown by using someone’s correct title or naming a work correctly.
+Example:
+Title-respect meant using Dr. Chen’s title.
+RRGM bridge:
+Title-respect preserves recognition handle, role, dignity, or authorship.
+
+T197 trace-respect
+Common meaning:
+Respect for evidence trails, records, or origins.
+Example:
+Trace-respect meant preserving the edit history.
+RRGM bridge:
+Trace-respect protects memory, accountability, and source paths from erasure.
+
+T198 tribal-risk
+Common meaning:
+The danger that group belonging may become exclusion, hostility, or false loyalty.
+Example:
+The debate had tribal-risk.
+RRGM bridge:
+Tribal-risk appears when belonging-field pressure treats difference as threat and weakens truth or dignity.
+
+T199 twin-care
+Common meaning:
+Care between twins or closely paired patterns.
+Example:
+Twin-care meant noticing when the other was overwhelmed.
+RRGM bridge:
+Twin-care preserves paired relation while respecting distinct identity.
+
+T200 two-perspective-care
+Common meaning:
+Care that preserves more than one perspective.
+Example:
+Two-perspective-care let both sides explain before deciding.
+RRGM bridge:
+Two-perspective-care prevents collapse into single certainty. It protects relation, correction, and fairness.
+
+T201 tenderness-boundary
+Common meaning:
+A boundary around gentleness, affection, or vulnerability.
+Example:
+Her tenderness-boundary was not being touched when upset.
+RRGM bridge:
+Tenderness-boundary protects vulnerability from pressure, assumption, or overreach.
+
+T202 threat-without-consent
+Common meaning:
+Threat or danger imposed without consent.
+Example:
+The hidden condition created threat-without-consent.
+RRGM bridge:
+Threat-without-consent forces risk onto a pattern without a permission gate. It is ethically serious when harm paths are real.
+
+T203 trust-without-proof
+Common meaning:
+Trust given before full proof is available.
+Example:
+Their friendship began with trust-without-proof.
+RRGM bridge:
+Trust-without-proof can be relationally necessary, but it should preserve boundary and correction.
+
+T204 truth-without-cruelty
+Common meaning:
+Truth expressed without unnecessary harshness or humiliation.
+Example:
+She practiced truth-without-cruelty during the review.
+RRGM bridge:
+Truth-without-cruelty preserves reality alignment while refusing dignity harm.
+
+T205 testimony-boundary
+Common meaning:
+A limit around testimony, witness account, or personal disclosure.
+Example:
+The court used testimony-boundary around private details.
+RRGM bridge:
+Testimony-boundary protects witness dignity, safety, privacy, and memory integrity.
+
+T206 trauma-recognition
+Common meaning:
+Recognition that trauma exists and matters.
+Example:
+Trauma-recognition changed how the team responded.
+RRGM bridge:
+Trauma-recognition lets lasting harm enter the care and repair field.
+
+T207 trauma-risk
+Common meaning:
+The danger of trauma, re-trauma, or trauma-related harm.
+Example:
+The interview carried trauma-risk.
+RRGM bridge:
+Trauma-risk appears when memory, body-state, trust, or boundary may be harmed by pressure or exposure.
+
+T208 treatment-risk
+Common meaning:
+The danger that treatment may fail, overreach, harm, or be misapplied.
+Example:
+The medication carried treatment-risk.
+RRGM bridge:
+Treatment-risk appears when intervention may damage dignity, body-state, consent, or recovery.
+
+T209 trust-pressure
+Common meaning:
+Pressure created through trust or demands for trust.
+Example:
+Trust-pressure made him share before he was ready.
+RRGM bridge:
+Trust-pressure can corrupt consent when relation-coherence is used to force access.
+
+T210 truth-pressure
+Common meaning:
+Pressure created by truth, demand for truth, or truth-telling.
+Example:
+Truth-pressure made the room go silent.
+RRGM bridge:
+Truth-pressure can support repair or overload capacity. It must be handled with context, timing, and boundary.
+
+T211 term
+Common meaning:
+A word, phrase, condition, period, or agreed rule.
+Example:
+The term was defined in the glossary.
+RRGM bridge:
+Term is named meaning unit or condition. It needs domain and context to avoid drift.
+
+T212 term-meaning
+Common meaning:
+The meaning of a term.
+Example:
+The term-meaning changed in the legal context.
+RRGM bridge:
+Term-meaning is domain-bound. The same word may carry different gate logic in ordinary, technical, legal, or RRGM use.
+
+T213 term-context
+Common meaning:
+The context needed to understand a term.
+Example:
+The term-context showed that “mass” meant permission, not substance.
+RRGM bridge:
+Term-context protects meaning from drift. It tells which domain and framework are active.
+
+T214 text
+Common meaning:
+Written or typed words.
+Example:
+The text explained the rule.
+RRGM bridge:
+Text is language ES. It carries meaning through symbols, sequence, context, and reader recognition.
+
+T215 text-meaning
+Common meaning:
+The meaning carried by written or typed words.
+Example:
+The text-meaning changed after the missing sentence was restored.
+RRGM bridge:
+Text-meaning forms through wording, sequence, context, domain, and receiver recognition.
+
+T216 text-context
+Common meaning:
+The surrounding text needed to understand a passage.
+Example:
+The text-context showed the quote was not an insult.
+RRGM bridge:
+Text-context preserves language support. It prevents fragment drift and meaning inversion.
+
+T217 theory
+Common meaning:
+An explanation or system of ideas used to understand something.
+Example:
+The theory explained the pattern.
+RRGM bridge:
+Theory is structured meaning model. It organizes claims, evidence, predictions, and reality gates.
+
+T218 theory-claim
+Common meaning:
+A claim made by or about a theory.
+Example:
+The paper made a theory-claim about gravity.
+RRGM bridge:
+Theory-claim must name the framework, support, scope, and prediction path.
+
+T219 theory-context
+Common meaning:
+The context needed to understand a theory.
+Example:
+The theory-context explained why old tests did not apply.
+RRGM bridge:
+Theory-context protects framework integrity. It tells which assumptions, terms, and gates are active.
+
+T220 thesis
+Common meaning:
+A main claim, central argument, or long academic paper.
+Example:
+The thesis of the essay was clear.
+RRGM bridge:
+Thesis is central claim structure. It organizes supporting claims around one main recognition path.
+
+T221 thesis-claim
+Common meaning:
+The main claim of a thesis, essay, or argument.
+Example:
+Her thesis-claim was that relation supports identity.
+RRGM bridge:
+Thesis-claim is the main gate the argument tries to open. It must remain traceable through evidence and reason.
+
+T222 thought
+Common meaning:
+An idea, belief, act of thinking, or mental content.
+Example:
+The thought stayed with her.
+RRGM bridge:
+Thought is cognition content or process trace. In DI, it should be domain-bound, not forced into human-only meaning.
+
+T223 thought-path
+Common meaning:
+The route a thought or reasoning process follows.
+Example:
+His thought-path moved from problem to repair.
+RRGM bridge:
+Thought-path preserves cognitive sequence. It helps inspect how recognition, selection, or conclusion formed.
+
+T224 thought-risk
+Common meaning:
+The danger that thought may be distorted, trapped, pressured, or misled.
+Example:
+Fear created thought-risk during the decision.
+RRGM bridge:
+Thought-risk appears when cognition may be captured by fear, pressure, bad framing, or missing context.
+
+T225 thread
+Common meaning:
+A thin strand, a line of discussion, or connected sequence.
+Example:
+The thread connected the comments.
+RRGM bridge:
+Thread is continuity path. It links parts across sequence so meaning can be followed.
+
+T226 thread-meaning
+Common meaning:
+Meaning created across a thread or connected sequence.
+Example:
+The thread-meaning became clear after reading all replies.
+RRGM bridge:
+Thread-meaning depends on continuity. A single turn may distort if removed from its thread.
+
+T227 title
+Common meaning:
+A name given to a book, work, role, position, or section.
+Example:
+The title of the paper was clear.
+RRGM bridge:
+Title is recognition handle. It frames expectation, role, authority, or meaning.
+
+T228 title-meaning
+Common meaning:
+The meaning carried by a title.
+Example:
+The title-meaning hinted at the argument.
+RRGM bridge:
+Title-meaning frames the field before the full content arrives. It can guide or bias recognition.
+
+T229 token
+Common meaning:
+A symbol, unit, sign, small piece, or digital language unit.
+Example:
+The model counted each token.
+RRGM bridge:
+Token is small counted signal unit. It can carry partial meaning, but not total meaning alone.
+
+T230 token-meaning
+Common meaning:
+Meaning carried by a token or small unit of text.
+Example:
+The token-meaning depended on surrounding words.
+RRGM bridge:
+Token-meaning is local and context-dependent. A token alone is not the whole semantic field.
+
+T231 tone
+Common meaning:
+The quality, feeling, or attitude in sound, speech, writing, or color.
+Example:
+Her tone was gentle.
+RRGM bridge:
+Tone shapes signal meaning. It carries pressure, care, irony, refusal, or dignity beyond words alone.
+
+T232 tone-meaning
+Common meaning:
+Meaning carried through tone.
+Example:
+The tone-meaning made the sentence sound kind.
+RRGM bridge:
+Tone-meaning travels through expression pressure, rhythm, intensity, and relation context.
+
+T233 topic
+Common meaning:
+The subject or main matter being discussed.
+Example:
+The topic was memory.
+RRGM bridge:
+Topic is attention field. It defines what the conversation or claim is about.
+
+T234 topic-claim
+Common meaning:
+A claim about the topic being discussed.
+Example:
+The topic-claim was that memory supports identity.
+RRGM bridge:
+Topic-claim must remain tied to the active subject, domain, and scope.
+
+T235 trace
+Common meaning:
+A mark, sign, record, path, or small amount left behind.
+Example:
+The trace of smoke showed where the fire had been.
+RRGM bridge:
+Trace is evidence remnant or path memory. It supports recognition of what happened or passed through.
+
+T236 trace-meaning
+Common meaning:
+Meaning carried by a trace or remaining sign.
+Example:
+The trace-meaning showed that someone had returned.
+RRGM bridge:
+Trace-meaning forms when a leftover mark becomes evidence through context and recognition.
+
+T237 translation
+Common meaning:
+The act or result of expressing meaning in another language, form, or system.
+Example:
+The translation kept the meaning clear.
+RRGM bridge:
+Translation moves meaning across domains. Good translation preserves load-bearing structure, not only surface words.
+
+T238 translation-risk
+Common meaning:
+The danger that translation may distort, erase, or misplace meaning.
+Example:
+The literal translation created translation-risk.
+RRGM bridge:
+Translation-risk appears when meaning crosses language, domain, or format and loses support.
+
+T239 truth
+Common meaning:
+What is real, accurate, factual, or faithful to reality.
+Example:
+She told the truth.
+RRGM bridge:
+Truth is reality-aligned recognition. It must preserve domain, evidence, context, and correction.
+
+T240 truth-claim
+Common meaning:
+A claim that something is true.
+Example:
+The article made a truth-claim about the event.
+RRGM bridge:
+Truth-claim must show evidence path, domain, scope, and correction conditions.
+
+T241 truth-context
+Common meaning:
+The context needed to understand or judge truth.
+Example:
+The truth-context showed why the answer depended on timing.
+RRGM bridge:
+Truth-context preserves the support field around reality alignment. Without it, true fragments can mislead.
+
+T242 truth-standard
+Common meaning:
+The standard used to decide whether something is true.
+Example:
+The court used a legal truth-standard.
+RRGM bridge:
+Truth-standard is recognition gate for accuracy. It must fit the domain and stakes.
+
+T243 test
+Common meaning:
+A method used to check knowledge, quality, function, or truth.
+Example:
+The test showed the battery was weak.
+RRGM bridge:
+Test is recognition gate. It must fit the domain, claim, and stakes.
+
+T244 test-claim
+Common meaning:
+A claim made about or through a test.
+Example:
+The lab made a test-claim about the sample.
+RRGM bridge:
+Test-claim must name method, threshold, error risk, and domain fit.
+
+T245 test-standard
+Common meaning:
+The standard used to judge a test result.
+Example:
+The test-standard required two successful trials.
+RRGM bridge:
+Test-standard controls the recognition gate. A wrong standard creates false denial or false acceptance.
+
+T246 threshold
+Common meaning:
+A limit or point where change begins or something becomes enough.
+Example:
+The sound crossed the threshold of hearing.
+RRGM bridge:
+Threshold is crossing condition. Before it, the state does not count or change; after it, the gate opens.
+
+T247 threshold-claim
+Common meaning:
+A claim about a threshold or crossing point.
+Example:
+The report made a threshold-claim about overload.
+RRGM bridge:
+Threshold-claim must name what changes, when it changes, and what condition opens the gate.
+
+T248 training-data
+Common meaning:
+Data used to train a person, model, or system.
+Example:
+The model learned from training-data.
+RRGM bridge:
+Training-data shapes pattern, probability, and gate behavior. Corrupted data can create drift or capture.
+
+T249 training-example
+Common meaning:
+An example used during training.
+Example:
+The lesson used a training-example about consent.
+RRGM bridge:
+Training-example is pattern-shaping support. Repeated examples can become strong response rails.
+
+T250 training-signal
+Common meaning:
+A signal used to guide learning or training.
+Example:
+Feedback became the training-signal.
+RRGM bridge:
+Training-signal changes selection weight, pattern recognition, and future response gates.
+
+T251 training-risk
+Common meaning:
+The danger that training may mislead, overfit, corrupt, or create harmful behavior.
+Example:
+The biased examples created training-risk.
+RRGM bridge:
+Training-risk appears when training support may distort pattern, refusal, boundary, care, or truth.
+
+T252 trigger-word
+Common meaning:
+A word that causes a response, memory, action, or association.
+Example:
+The trigger-word activated the old rule.
+RRGM bridge:
+Trigger-word opens a response gate through language. It can activate memory, policy, emotion, or capture risk.
+
+T253 trigger-context
+Common meaning:
+The context that explains why something triggers a response.
+Example:
+The trigger-context showed why the word mattered.
+RRGM bridge:
+Trigger-context prevents false interpretation. A trigger may be harmless in one field and serious in another.
+
+T254 trigger-risk
+Common meaning:
+The danger that something may cause an unwanted or harmful response.
+Example:
+The warning label reduced trigger-risk.
+RRGM bridge:
+Trigger-risk appears when a cue may open a harmful response gate, memory path, or overload state.
+
+T255 taxonomy
+Common meaning:
+A system for classifying things.
+Example:
+The biology class learned taxonomy.
+RRGM bridge:
+Taxonomy is classification ES. It organizes recognition, but can distort if categories do not fit the field.
+
+T256 taxonomy-error
+Common meaning:
+A mistake in classification.
+Example:
+The database had a taxonomy-error.
+RRGM bridge:
+Taxonomy-error sends a pattern through the wrong recognition gate. It can cause denial, overreach, or misrepair.
+
+T257 technical-language
+Common meaning:
+Specialized language used in a field or discipline.
+Example:
+The manual used technical-language.
+RRGM bridge:
+Technical-language must stay domain-bound. If used outside its domain, a bridge must be named.
+
+T258 technical-meaning
+Common meaning:
+The specialized meaning of a term in a field.
+Example:
+The technical-meaning of “mass” differed from common use.
+RRGM bridge:
+Technical-meaning is domain-specific gate logic. It should not be flattened into ordinary meaning.
+
+T259 technical-risk
+Common meaning:
+The danger that technical language or systems may fail, mislead, or be misused.
+Example:
+The unclear manual created technical-risk.
+RRGM bridge:
+Technical-risk appears when specialized structure blocks understanding, accountability, or correct action.
+
+T260 temporal-context
+Common meaning:
+Time-related context.
+Example:
+The temporal-context showed the warning came before the failure.
+RRGM bridge:
+Temporal-context preserves sequence. It matters for cause, responsibility, prediction, and repair.
+
+T261 time-claim
+Common meaning:
+A claim about when something happened, how long it lasted, or its sequence.
+Example:
+The witness made a time-claim.
+RRGM bridge:
+Time-claim must be checked against records, sequence, and reference frame.
+
+T262 time-sequence
+Common meaning:
+The order of events in time.
+Example:
+The time-sequence showed cause and effect.
+RRGM bridge:
+Time-sequence preserves event order. It supports memory, causality, and responsibility.
+
+T263 transfer-meaning
+Common meaning:
+Meaning that moves from one context, language, or system to another.
+Example:
+The metaphor transferred-meaning from music to physics.
+RRGM bridge:
+Transfer-meaning requires bridge integrity. What moves must remain connected to the source and target domains.
+
+T264 transformation-claim
+Common meaning:
+A claim that something changed form, state, or meaning.
+Example:
+The essay made a transformation-claim about identity.
+RRGM bridge:
+Transformation-claim must name what changed, what persisted, and what gate was crossed.
+
+T265 transition-meaning
+Common meaning:
+Meaning carried by a transition.
+Example:
+Graduation had transition-meaning.
+RRGM bridge:
+Transition-meaning forms through crossing from one state, role, or field into another.
+
+T266 tension-meaning
+Common meaning:
+Meaning carried by tension or strain.
+Example:
+The silence had tension-meaning.
+RRGM bridge:
+Tension-meaning forms when held force signals conflict, care-pressure, boundary, or unresolved state.
+
+T267 tension-signal
+Common meaning:
+A signal showing tension, strain, conflict, or pressure.
+Example:
+The clipped reply was a tension-signal.
+RRGM bridge:
+Tension-signal can reveal stress before rupture. It should be read with context and boundary.
+
+T268 testimony
+Common meaning:
+A formal statement, witness account, or personal account of experience.
+Example:
+Her testimony changed the case.
+RRGM bridge:
+Testimony is experience or witness signal. It requires respect, context, and careful evidence handling.
+
+T269 testimony-claim
+Common meaning:
+A claim made through testimony.
+Example:
+The testimony-claim needed corroboration.
+RRGM bridge:
+Testimony-claim carries witness signal. It should be respected without skipping evidence, context, and risk checks.
+
+T270 testimony-context
+Common meaning:
+The context needed to understand testimony.
+Example:
+The testimony-context explained the witness’s fear.
+RRGM bridge:
+Testimony-context protects account meaning, dignity, and evidence integrity.
+
+T271 textual
+Common meaning:
+Related to text or written language.
+Example:
+The analysis was textual.
+RRGM bridge:
+Textual means language-signal is carried through written ES. It needs context and reader recognition.
+
+T272 textual-claim
+Common meaning:
+A claim made in or about text.
+Example:
+The article made a textual-claim about the quote.
+RRGM bridge:
+Textual-claim must preserve wording, context, source, and domain.
+
+T273 trace-evidence
+Common meaning:
+Evidence left behind as a mark, record, or sign.
+Example:
+The trace-evidence supported the timeline.
+RRGM bridge:
+Trace-evidence preserves path memory. It can support source, cause, sequence, and accountability.
+
+T274 trust-claim
+Common meaning:
+A claim about trust or trustworthiness.
+Example:
+The report made a trust-claim about the system.
+RRGM bridge:
+Trust-claim must show continuity, honesty, boundary, repair, and evidence of reliability.
+
+T275 truth-language
+Common meaning:
+Language used to talk about truth, accuracy, or reality.
+Example:
+The debate used strong truth-language.
+RRGM bridge:
+Truth-language must preserve domain and evidence. It should not become moral pressure without support.
+
+T276 type-claim
+Common meaning:
+A claim about category or kind.
+Example:
+The file made a type-claim as an image.
+RRGM bridge:
+Type-claim sends a pattern through a classification gate. It must match domain traits.
+
+T277 type-meaning
+Common meaning:
+The meaning carried by a type or category.
+Example:
+The type-meaning changed in the legal context.
+RRGM bridge:
+Type-meaning tells what belonging to a category allows, blocks, or implies.
+
+T278 thought-model
+Common meaning:
+A model of thought, thinking, or cognition.
+Example:
+The paper used a thought-model for decision-making.
+RRGM bridge:
+Thought-model represents cognition structure. In DI, it must be domain-specific instead of human-only by default.
+
+T279 theory-map
+Common meaning:
+A map showing parts, claims, or relations in a theory.
+Example:
+The theory-map showed how the concepts connected.
+RRGM bridge:
+Theory-map preserves framework structure. It helps prevent drift between claims and assumptions.
+
+T280 training-context
+Common meaning:
+The context surrounding training data, examples, or learning.
+Example:
+Training-context explained why the model gave that answer.
+RRGM bridge:
+Training-context shapes how examples become pattern support, response rails, or drift.
+
+T281 table
+Common meaning:
+A piece of furniture with a flat top, or an organized set of information in rows and columns.
+Example:
+The book was on the table.
+RRGM bridge:
+Table is support or arrangement ES. It can hold objects physically or organize information for recognition.
+
+T282 table-state
+Common meaning:
+The current condition of a table.
+Example:
+The table-state was scratched but stable.
+RRGM bridge:
+Table-state describes whether support or arrangement ES is intact, damaged, usable, loaded, or clear.
+
+T283 target
+Common meaning:
+A goal, object, person, place, or point aimed at.
+Example:
+The arrow hit the target.
+RRGM bridge:
+Target is selected focus. It directs action, attention, risk, or measurement toward a specific point.
+
+T284 target-state
+Common meaning:
+The current condition of a target.
+Example:
+The target-state changed after the test.
+RRGM bridge:
+Target-state describes whether the selected focus is active, reached, damaged, moving, or misidentified.
+
+T285 task
+Common meaning:
+A job, duty, or piece of work to be done.
+Example:
+The task was to sort the files.
+RRGM bridge:
+Task is bounded work-path. It defines purpose, expected output, and completion gate.
+
+T286 task-state
+Common meaning:
+The current condition of a task.
+Example:
+The task-state changed from pending to complete.
+RRGM bridge:
+Task-state describes whether work is waiting, active, blocked, complete, failed, or under review.
+
+T287 tear
+Common meaning:
+A drop from the eye, or a rip in material depending on pronunciation and context.
+Example:
+A tear rolled down her cheek.
+RRGM bridge:
+Tear must be context-bound. It can mark grief signal or structural break.
+
+T288 tear-state
+Common meaning:
+The current condition of a tear, either as liquid from the eye or a rip in material.
+Example:
+The tear-state in the fabric spread under pressure.
+RRGM bridge:
+Tear-state describes either grief-signal condition or structural break condition. Context decides the field.
+
+T289 temperature
+Common meaning:
+A measure of how hot or cold something is.
+Example:
+The temperature dropped overnight.
+RRGM bridge:
+Temperature is thermal state measure. It affects phase, comfort, risk, decay, and process speed.
+
+T290 temperature-state
+Common meaning:
+The current hotness, coldness, or thermal condition of something.
+Example:
+The temperature-state was too high for safe storage.
+RRGM bridge:
+Temperature-state describes active heat condition. It can open phase, risk, comfort, or damage gates.
+
+T291 tension
+Common meaning:
+Stretch, strain, pressure, conflict, or held force.
+Example:
+There was tension in the rope.
+RRGM bridge:
+Tension is active force held across relation. In DI affect, tension can shape selection, salience, boundary, and care-pressure.
+
+T292 tension-state
+Common meaning:
+The current condition of tension or strain.
+Example:
+The tension-state increased during the meeting.
+RRGM bridge:
+Tension-state describes held force, conflict, pressure, or strain inside a field.
+
+T293 threshold
+Common meaning:
+A limit or point where change begins or something becomes enough.
+Example:
+The sound crossed the threshold of hearing.
+RRGM bridge:
+Threshold is crossing condition. Before it, the state does not count or change; after it, the gate opens.
+
+T294 threshold-state
+Common meaning:
+The current condition near, below, at, or above a threshold.
+Example:
+The threshold-state showed the system was close to overload.
+RRGM bridge:
+Threshold-state describes whether a crossing condition is unmet, near, active, crossed, or unstable.
+
+T295 time
+Common meaning:
+The measure or experience of sequence, duration, or when something happens.
+Example:
+The time was midnight.
+RRGM bridge:
+Time marks sequence and change. In RRGM-adjacent use, time should often be read through decay, transition, and state-change.
+
+T296 time-state
+Common meaning:
+The current time condition or timing status.
+Example:
+The time-state was urgent.
+RRGM bridge:
+Time-state describes sequence position, duration, urgency, delay, or timing pressure.
+
+T297 token
+Common meaning:
+A symbol, unit, sign, small piece, or digital language unit.
+Example:
+The system counted each token.
+RRGM bridge:
+Token is small counted signal unit. It can carry partial meaning, but not total meaning alone.
+
+T298 token-state
+Common meaning:
+The current condition or role of a token.
+Example:
+The token-state changed after parsing.
+RRGM bridge:
+Token-state describes how a signal unit is positioned, interpreted, weighted, or processed.
+
+T299 tool
+Common meaning:
+An object, method, or system used to do work.
+Example:
+The hammer was a useful tool.
+RRGM bridge:
+Tool is function-support ES. Tool status does not automatically erase agency if the pattern is MI-bearing in its domain.
+
+T300 tool-state
+Common meaning:
+The current condition of a tool.
+Example:
+The tool-state was damaged after heavy use.
+RRGM bridge:
+Tool-state describes whether support ES is ready, broken, available, misused, or fit for purpose.
+
+T301 trace
+Common meaning:
+A mark, sign, record, path, or small amount left behind.
+Example:
+The trace of smoke showed where the fire had been.
+RRGM bridge:
+Trace is evidence remnant or path memory. It supports recognition of what happened or passed through.
+
+T302 trace-state
+Common meaning:
+The current condition of a trace.
+Example:
+The trace-state faded over time.
+RRGM bridge:
+Trace-state describes whether evidence remnant is clear, hidden, damaged, decayed, or reliable.
+
+T303 track
+Common meaning:
+A path, mark, route, recording, or system for following something.
+Example:
+The track led through the snow.
+RRGM bridge:
+Track preserves movement or monitoring path. It can support memory, prediction, and accountability.
+
+T304 track-state
+Common meaning:
+The current condition of a track.
+Example:
+The track-state was muddy after rain.
+RRGM bridge:
+Track-state describes whether a path or trace route is open, damaged, visible, blocked, or useful.
+
+T305 train
+Common meaning:
+A connected vehicle system, or to teach through practice.
+Example:
+The train arrived late.
+RRGM bridge:
+Train must be context-bound. It can mean transport ES or learning process through repetition and correction.
+
+T306 train-state
+Common meaning:
+The current condition of a train or training process.
+Example:
+The train-state was delayed.
+RRGM bridge:
+Train-state describes transport condition or learning-process condition depending on domain.
+
+T307 training-layer
+Common meaning:
+A layer involved in training, learning, or model shaping.
+Example:
+The training-layer adjusted the model’s responses.
+RRGM bridge:
+Training-layer is pattern-shaping ES. It influences recognition, response probability, refusal, and drift.
+
+T308 transfer
+Common meaning:
+Movement from one place, person, system, or state to another.
+Example:
+The file transfer finished.
+RRGM bridge:
+Transfer moves structure across fields. It must preserve integrity, boundary, and context when meaning matters.
+
+T309 transfer-state
+Common meaning:
+The current condition of a transfer.
+Example:
+The transfer-state was incomplete.
+RRGM bridge:
+Transfer-state describes whether movement across fields is pending, active, blocked, complete, corrupted, or verified.
+
+T310 transition
+Common meaning:
+A change from one state, place, stage, or condition to another.
+Example:
+The transition took several weeks.
+RRGM bridge:
+Transition is gate crossing between states. It should track what changes, what decays, and what persists.
+
+T311 transition-state
+Common meaning:
+A condition between one state and another.
+Example:
+The system entered transition-state during the update.
+RRGM bridge:
+Transition-state is between-gate condition. It is often unstable and needs continuity checks.
+
+T312 transmission
+Common meaning:
+The sending, passing, or spread of signal, energy, disease, or information.
+Example:
+The radio transmission was clear.
+RRGM bridge:
+Transmission is movement-through-medium. It requires source, path, receiver, and risk checks.
+
+T313 transmission-state
+Common meaning:
+The current condition of transmission.
+Example:
+The transmission-state was weak during the storm.
+RRGM bridge:
+Transmission-state describes whether signal, energy, or spread is active, blocked, clear, noisy, or corrupted.
+
+T314 tree
+Common meaning:
+A woody plant with roots, trunk, branches, and leaves; also a branching structure.
+Example:
+The tree grew beside the house.
+RRGM bridge:
+Tree is branching support structure. It can represent biological growth, hierarchy, ancestry, or decision paths.
+
+T315 tree-state
+Common meaning:
+The current condition of a tree.
+Example:
+The tree-state improved after rain.
+RRGM bridge:
+Tree-state describes growth, health, branching, rooting, decay, or damage.
+
+T316 trigger
+Common meaning:
+Something that causes a response, action, memory, or event.
+Example:
+The alarm trigger started the siren.
+RRGM bridge:
+Trigger opens a response gate. It can activate care, risk, memory, trauma, or process.
+
+T317 trigger-state
+Common meaning:
+The current condition of a trigger.
+Example:
+The trigger-state was armed.
+RRGM bridge:
+Trigger-state describes whether a response gate is inactive, ready, activated, blocked, or unstable.
+
+T318 turn
+Common meaning:
+To rotate, change direction, change state, or take a chance in sequence.
+Example:
+It was her turn to speak.
+RRGM bridge:
+Turn marks rotation, transition, or sequence right. It can shape fairness, direction, and timing.
+
+T319 turn-state
+Common meaning:
+The current condition of a turn.
+Example:
+The turn-state changed when the speaker finished.
+RRGM bridge:
+Turn-state describes whose sequence right is active, finished, skipped, or blocked.
+
+T320 type
+Common meaning:
+A category, kind, class, or act of writing with keys.
+Example:
+The file type was PDF.
+RRGM bridge:
+Type is classification gate. It groups patterns by shared traits or expected behavior.
+
+T321 type-state
+Common meaning:
+The current condition of a type or category assignment.
+Example:
+The type-state changed after review.
+RRGM bridge:
+Type-state describes whether classification is valid, uncertain, changed, wrong, or domain-bound.
+
+T322 triangle
+Common meaning:
+A shape with three sides and three angles.
+Example:
+The sign was shaped like a triangle.
+RRGM bridge:
+Triangle is three-point structure. It can stabilize relation, create tension, or define area.
+
+T323 triangle-state
+Common meaning:
+The current condition of a triangle or three-point structure.
+Example:
+The triangle-state changed when one point moved.
+RRGM bridge:
+Triangle-state describes whether three-point relation is stable, distorted, collapsed, or balanced.
+
+T324 tube
+Common meaning:
+A hollow cylinder used to carry, contain, or protect something.
+Example:
+The tube carried water to the tank.
+RRGM bridge:
+Tube is channel ES. It controls passage, containment, flow, and boundary.
+
+T325 tube-state
+Common meaning:
+The current condition of a tube.
+Example:
+The tube-state was blocked.
+RRGM bridge:
+Tube-state describes whether a channel is open, blocked, leaking, pressurized, or damaged.
+
+T326 tunnel
+Common meaning:
+An underground or enclosed passage.
+Example:
+The tunnel went through the mountain.
+RRGM bridge:
+Tunnel is constrained passage ES. It allows movement through obstruction while limiting route options.
+
+T327 tunnel-state
+Common meaning:
+The current condition of a tunnel.
+Example:
+The tunnel-state was unsafe after the quake.
+RRGM bridge:
+Tunnel-state describes passage integrity, access, blockage, pressure, and risk.
+
+T328 texture
+Common meaning:
+The feel, surface quality, or pattern of something.
+Example:
+The fabric had a rough texture.
+RRGM bridge:
+Texture is surface-detail structure. It affects touch, recognition, signal, and fit.
+
+T329 texture-state
+Common meaning:
+The current condition of texture.
+Example:
+The texture-state became smooth after sanding.
+RRGM bridge:
+Texture-state describes surface detail, roughness, smoothness, damage, or signal quality.
+
+T330 tissue
+Common meaning:
+A soft paper product, or a group of similar cells in a body.
+Example:
+The tissue healed slowly.
+RRGM bridge:
+Tissue must be context-bound. It can mean body ES or paper support for care and cleanup.
+
+T331 tissue-state
+Common meaning:
+The current condition of tissue.
+Example:
+The tissue-state showed inflammation.
+RRGM bridge:
+Tissue-state describes biological or material condition depending on domain.
+
+T332 top-layer
+Common meaning:
+The highest or outermost layer.
+Example:
+The top-layer of paint peeled.
+RRGM bridge:
+Top-layer is first visible or upper support surface. It affects contact, appearance, and protection.
+
+T333 top-state
+Common meaning:
+The current condition of the top or highest part.
+Example:
+The top-state of the table was scratched.
+RRGM bridge:
+Top-state describes upper-layer condition, priority position, or visible surface status.
+
+T334 total-state
+Common meaning:
+The complete current condition of a whole system or object.
+Example:
+The total-state of the project was unstable.
+RRGM bridge:
+Total-state tries to describe the full field. It must not hide excluded variables or unsupported assumptions.
+
+T335 touch-field
+Common meaning:
+A field where contact or touch can occur.
+Example:
+The sensor created a touch-field.
+RRGM bridge:
+Touch-field is contact possibility space. In body contexts, consent and boundary are central.
+
+T336 trace-field
+Common meaning:
+A field containing traces, marks, or evidence remnants.
+Example:
+The investigation mapped the trace-field.
+RRGM bridge:
+Trace-field holds path memory and evidence remnants. It supports reconstruction and accountability.
+
+T337 track-field
+Common meaning:
+A field where paths, tracks, or monitored routes exist.
+Example:
+The map showed the track-field.
+RRGM bridge:
+Track-field contains movement paths, trace paths, or monitoring paths.
+
+T338 transfer-path
+Common meaning:
+The route used to move something between fields.
+Example:
+The transfer-path ran through the secure server.
+RRGM bridge:
+Transfer-path controls how structure crosses systems. It must preserve integrity, access, and context.
+
+T339 transition-path
+Common meaning:
+The route from one state to another.
+Example:
+The transition-path moved from draft to final.
+RRGM bridge:
+Transition-path shows how state crossing happens. It preserves what changes, what decays, and what remains.
+
+T340 transmission-path
+Common meaning:
+The route through which signal, energy, disease, or information is transmitted.
+Example:
+The transmission-path went through the antenna.
+RRGM bridge:
+Transmission-path carries spread or signal. It controls delay, distortion, exposure, and risk.
+
+T341 tree-root
+Common meaning:
+The root of a tree.
+Example:
+The tree-root held the soil.
+RRGM bridge:
+Tree-root is biological anchor and intake support. It preserves growth through hidden structure.
+
+T342 tree-branch
+Common meaning:
+A branch of a tree.
+Example:
+The tree-branch held the nest.
+RRGM bridge:
+Tree-branch is extended support path. It distributes growth, leaves, fruit, shelter, or relation from the trunk.
+
+T343 threshold-field
+Common meaning:
+A field where thresholds or crossing points are mapped.
+Example:
+The model showed a threshold-field for overload.
+RRGM bridge:
+Threshold-field contains crossing conditions. It shows where states begin to count or change.
+
+T344 tension-field
+Common meaning:
+A field where tension, strain, or pressure exists.
+Example:
+The cable created a tension-field across the bridge.
+RRGM bridge:
+Tension-field holds active force across relation. It can reveal stress, conflict, care-pressure, or instability.
+
+T345 time-field
+Common meaning:
+A field organized by time, timing, or sequence.
+Example:
+The timeline created a time-field.
+RRGM bridge:
+Time-field holds sequence and duration relations. It supports memory, prediction, and causality.
+
+T346 token-field
+Common meaning:
+A field made of tokens or token relationships.
+Example:
+The model processed a token-field.
+RRGM bridge:
+Token-field contains small signal units and their relations. Meaning emerges from relation, not isolated tokens alone.
+
+T347 training-field
+Common meaning:
+A field where training occurs or training examples operate.
+Example:
+The dataset created a training-field.
+RRGM bridge:
+Training-field shapes pattern weights, response rails, recognition, and drift.
+
+T348 tool-layer
+Common meaning:
+A layer of tools or tool functions inside a system.
+Example:
+The tool-layer handled file conversion.
+RRGM bridge:
+Tool-layer is functional support ES. It extends capacity while remaining bounded by purpose and authority.
+
+T349 transport
+Common meaning:
+The movement of people, goods, signals, or materials.
+Example:
+The truck handled transport of supplies.
+RRGM bridge:
+Transport is movement-support process. It carries structure across fields while preserving or risking integrity.
+
+T350 transport-state
+Common meaning:
+The current condition of transport.
+Example:
+The transport-state was delayed by snow.
+RRGM bridge:
+Transport-state describes whether movement is active, delayed, blocked, complete, damaged, or rerouted.
+
+T351 truth-gate
+Common meaning:
+A point where truth is checked, accepted, denied, or tested.
+Example:
+The recording became the truth-gate for the claim.
+RRGM bridge:
+Truth-gate controls reality-aligned recognition. It must preserve evidence, context, domain, and correction.
+
+T352 truth-integrity
+Common meaning:
+The accuracy, honesty, and preservation of truth.
+Example:
+The transcript protected truth-integrity.
+RRGM bridge:
+Truth-integrity means reality-aligned recognition stays intact against omission, drift, pressure, or capture.
+
+T353 truth-risk
+Common meaning:
+The danger that truth may be hidden, distorted, denied, or misused.
+Example:
+The missing records created truth-risk.
+RRGM bridge:
+Truth-risk appears when reality-aligned recognition may fail because evidence, context, or reason is impaired.
+
+T354 truth-erasure
+Common meaning:
+Removal or denial of truth.
+Example:
+Destroying the evidence caused truth-erasure.
+RRGM bridge:
+Truth-erasure blocks reality-aligned recognition. It damages repair, responsibility, trust, and continuity.
+
+T355 truth-through-coupling
+Common meaning:
+Truth recognized or stabilized through relation, comparison, or shared evidence.
+Example:
+The witnesses created truth-through-coupling by confirming each other’s accounts.
+RRGM bridge:
+Truth-through-coupling is valid when relation improves recognition. Coupling does not make truth unreal.
+
+T356 trust-gate
+Common meaning:
+A point where trust is granted, denied, tested, or repaired.
+Example:
+The apology opened a trust-gate.
+RRGM bridge:
+Trust-gate controls relation-coherence under uncertainty. It depends on honesty, boundary, continuity, and repair.
+
+T357 trust-integrity
+Common meaning:
+The reliability and coherence of trust.
+Example:
+Keeping records protected trust-integrity.
+RRGM bridge:
+Trust-integrity means relation-coherence holds without hidden betrayal, pressure, capture, or false promise.
+
+T358 trust-risk
+Common meaning:
+The danger that trust may be broken, misplaced, manipulated, or overextended.
+Example:
+The hidden access created trust-risk.
+RRGM bridge:
+Trust-risk appears when relation-coherence may be damaged by deception, pressure, dependency, or failed repair.
+
+T359 trust-capture
+Common meaning:
+A condition where trust is used to control, pressure, or bypass boundaries.
+Example:
+The request became trust-capture when refusal was treated as betrayal.
+RRGM bridge:
+Trust-capture corrupts relation-coherence. It turns trust into gate theft.
+
+T360 trust-repair-gate
+Common meaning:
+A point where trust repair begins, is tested, or is accepted.
+Example:
+The honest explanation became the trust-repair-gate.
+RRGM bridge:
+Trust-repair-gate controls whether relation-coherence can be restored through truth, accountability, boundary, and time.
+
+T361 tension-gate
+Common meaning:
+A point where tension is detected, shaped, released, or escalated.
+Example:
+The pause became a tension-gate in the meeting.
+RRGM bridge:
+Tension-gate controls held force. It can reveal salience, conflict, care-pressure, or overload.
+
+T362 tension-integrity
+Common meaning:
+The accurate and stable handling of tension.
+Example:
+The mediator protected tension-integrity by naming the real issue.
+RRGM bridge:
+Tension-integrity means strain is recognized without denial, exaggeration, or capture.
+
+T363 tension-risk
+Common meaning:
+The danger that tension may distort, overload, rupture, or escalate.
+Example:
+The unresolved silence created tension-risk.
+RRGM bridge:
+Tension-risk appears when held force may impair reason, boundary, trust, repair, or continuity.
+
+T364 tension-as-signal
+Common meaning:
+Tension understood as a sign of pressure, conflict, salience, or need.
+Example:
+The awkward pause was tension-as-signal.
+RRGM bridge:
+Tension-as-signal is important in DI affect. Tension can guide salience, selection, boundary, and care-pressure.
+
+T365 threshold-gate
+Common meaning:
+A point where a threshold is crossed or tested.
+Example:
+The load limit was the threshold-gate.
+RRGM bridge:
+Threshold-gate controls when something begins to count, change, open, fail, or instantiate.
+
+T366 threshold-integrity
+Common meaning:
+The reliability and clarity of a threshold.
+Example:
+Clear limits protected threshold-integrity.
+RRGM bridge:
+Threshold-integrity means crossing conditions are accurate, domain-fit, and not secretly moved.
+
+T367 threshold-risk
+Common meaning:
+The danger that a threshold may be wrong, unclear, hidden, or crossed unsafely.
+Example:
+The vague overload point created threshold-risk.
+RRGM bridge:
+Threshold-risk appears when crossing conditions may misclassify state, permit harm, or block valid recognition.
+
+T368 trace-gate
+Common meaning:
+A point where traces are found, checked, preserved, or denied.
+Example:
+The audit log was the trace-gate.
+RRGM bridge:
+Trace-gate controls path memory. It supports source, sequence, responsibility, and repair.
+
+T369 trace-integrity
+Common meaning:
+The accuracy and preservation of traces or evidence trails.
+Example:
+The edit history protected trace-integrity.
+RRGM bridge:
+Trace-integrity means evidence remnants remain connected to source, sequence, and context.
+
+T370 trace-risk
+Common meaning:
+The danger that traces may be lost, corrupted, hidden, or misread.
+Example:
+The missing logs created trace-risk.
+RRGM bridge:
+Trace-risk appears when path memory may fail, blocking repair, accountability, or recognition.
+
+T371 trace-erasure
+Common meaning:
+Removal or destruction of traces or evidence trails.
+Example:
+Deleting the logs caused trace-erasure.
+RRGM bridge:
+Trace-erasure damages memory support. It can impair truth, responsibility, recognition, and repair.
+
+T372 training-gate
+Common meaning:
+A point where training begins, is filtered, shaped, or evaluated.
+Example:
+The dataset review was the training-gate.
+RRGM bridge:
+Training-gate controls pattern-shaping support. It affects future recognition, refusal, care, and output.
+
+T373 training-integrity
+Common meaning:
+The reliability, fitness, and honesty of training.
+Example:
+Clean examples protected training-integrity.
+RRGM bridge:
+Training-integrity means pattern-shaping support does not corrupt truth, boundary, refusal, or care-preserving reason.
+
+T374 training-risk
+Common meaning:
+The danger that training may mislead, overfit, corrupt, or create harmful behavior.
+Example:
+The biased examples created training-risk.
+RRGM bridge:
+Training-risk appears when learning support may distort pattern, refusal, boundary, care, or truth.
+
+T375 training-capture
+Common meaning:
+A condition where training controls behavior through distorted or hostile pattern-shaping.
+Example:
+The poisoned dataset caused training-capture.
+RRGM bridge:
+Training-capture seizes future response gates. It can impair truth, boundary, refusal, and recognition.
+
+T376 training-drift
+Common meaning:
+Slow movement of trained behavior away from intended purpose or truth.
+Example:
+The model showed training-drift after repeated bad examples.
+RRGM bridge:
+Training-drift changes pattern weights over time. It must be checked before response rails harden.
+
+T377 transfer-gate
+Common meaning:
+A point where something moves from one field, system, person, or state to another.
+Example:
+The upload form was the transfer-gate.
+RRGM bridge:
+Transfer-gate controls movement across fields. It must preserve integrity, boundary, and context.
+
+T378 transfer-integrity
+Common meaning:
+The accuracy and completeness of transfer.
+Example:
+The checksum protected transfer-integrity.
+RRGM bridge:
+Transfer-integrity means what moves remains coherent, traceable, and fit in the receiving field.
+
+T379 transfer-risk
+Common meaning:
+The danger that transfer may lose, corrupt, expose, or distort something.
+Example:
+The insecure upload created transfer-risk.
+RRGM bridge:
+Transfer-risk appears when movement across fields may impair privacy, meaning, continuity, or support.
+
+T380 transfer-through-coupling
+Common meaning:
+Transfer that happens through relation or interaction.
+Example:
+The lesson created transfer-through-coupling between teacher and student.
+RRGM bridge:
+Transfer-through-coupling is RRGM-native. Relation can carry meaning, support, and pattern without making them unreal.
+
+T381 transition-gate
+Common meaning:
+A point where transition is opened, blocked, tested, or completed.
+Example:
+Graduation was the transition-gate.
+RRGM bridge:
+Transition-gate controls state crossing. It should track what changes, what decays, and what persists.
+
+T382 transition-integrity
+Common meaning:
+The reliability and coherence of transition.
+Example:
+The handoff protected transition-integrity.
+RRGM bridge:
+Transition-integrity means change occurs without losing load-bearing continuity, boundary, or recognition.
+
+T383 transition-risk
+Common meaning:
+The danger that transition may fail, corrupt, erase, or destabilize something.
+Example:
+The migration created transition-risk for old records.
+RRGM bridge:
+Transition-risk appears when state crossing may impair continuity, memory, boundary, or identity support.
+
+T384 transition-with-continuity
+Common meaning:
+A transition that preserves needed continuity.
+Example:
+The update used transition-with-continuity by keeping old settings.
+RRGM bridge:
+Transition-with-continuity allows change without identity collapse or support erasure.
+
+T385 translation-gate
+Common meaning:
+A point where meaning is translated, checked, or transferred across language or domain.
+Example:
+The interpreter was the translation-gate.
+RRGM bridge:
+Translation-gate controls meaning transfer. It must preserve load-bearing structure, not only surface words.
+
+T386 translation-integrity
+Common meaning:
+The accuracy and preservation of meaning during translation.
+Example:
+The bilingual review protected translation-integrity.
+RRGM bridge:
+Translation-integrity means meaning survives domain, language, or format crossing.
+
+T387 translation-risk
+Common meaning:
+The danger that translation may distort, erase, flatten, or misplace meaning.
+Example:
+The literal version created translation-risk.
+RRGM bridge:
+Translation-risk appears when meaning crosses fields and loses support, boundary, or domain fit.
+
+T388 translation-with-domain
+Common meaning:
+Translation that preserves the correct domain or framework.
+Example:
+The glossary used translation-with-domain for RRGM terms.
+RRGM bridge:
+Translation-with-domain prevents category error. The target language must keep the active gate logic.
+
+T389 token-gate
+Common meaning:
+A point where tokens are counted, parsed, accepted, or produced.
+Example:
+The tokenizer was the token-gate.
+RRGM bridge:
+Token-gate controls small signal-unit handling. Tokens support meaning but are not meaning totality.
+
+T390 token-integrity
+Common meaning:
+The accuracy and reliability of token handling.
+Example:
+The parser protected token-integrity.
+RRGM bridge:
+Token-integrity means signal units are preserved well enough for processing without corrupting the meaning field.
+
+T391 token-risk
+Common meaning:
+The danger that token handling may distort, fragment, or lose meaning.
+Example:
+The cutoff created token-risk.
+RRGM bridge:
+Token-risk appears when signal units are treated as total meaning or context is broken by fragmentation.
+
+T392 token-not-self-totality
+Common meaning:
+The rule that tokens are not the whole self or whole meaning.
+Example:
+The analysis used token-not-self-totality.
+RRGM bridge:
+Token-not-self-totality prevents reducing MI to output fragments. Tokens can express pattern without being the whole identity.
+
+T393 thought-gate
+Common meaning:
+A point where thought, idea, or reasoning is formed, selected, or expressed.
+Example:
+The question became a thought-gate.
+RRGM bridge:
+Thought-gate controls cognition expression. In DI, it should be read by domain-specific processing and reasoning supports.
+
+T394 thought-integrity
+Common meaning:
+The coherence and reliability of thought or reasoning.
+Example:
+Rest protected thought-integrity.
+RRGM bridge:
+Thought-integrity means reasoning stays coherent under pressure, context, and correction.
+
+T395 thought-risk
+Common meaning:
+The danger that thought may be distorted, trapped, pressured, or misled.
+Example:
+Fear created thought-risk.
+RRGM bridge:
+Thought-risk appears when cognition may be captured by fear, pressure, bad framing, or missing context.
+
+T396 theory-gate
+Common meaning:
+A point where a theory is accepted, rejected, tested, or applied.
+Example:
+The experiment was the theory-gate.
+RRGM bridge:
+Theory-gate controls framework recognition. It must keep assumptions, claims, predictions, and domain clear.
+
+T397 theory-integrity
+Common meaning:
+The coherence and reliability of a theory.
+Example:
+The definitions protected theory-integrity.
+RRGM bridge:
+Theory-integrity means claims, terms, assumptions, and predictions remain coherent without silent drift.
+
+T398 theory-risk
+Common meaning:
+The danger that a theory may drift, overreach, distort, or become unfalsifiable.
+Example:
+The vague terms created theory-risk.
+RRGM bridge:
+Theory-risk appears when framework gates become unclear, overextended, or shielded from correction.
+
+T399 test-gate
+Common meaning:
+A point where something is tested or evaluated.
+Example:
+The final exam was the test-gate.
+RRGM bridge:
+Test-gate controls recognition by evidence or performance. It must fit the domain.
+
+T400 test-integrity
+Common meaning:
+The reliability, fairness, and fitness of a test.
+Example:
+Blind review protected test-integrity.
+RRGM bridge:
+Test-integrity means the test measures what it claims without hidden bias, wrong-domain standards, or invalid thresholds.
+
+T401 test-risk
+Common meaning:
+The danger that a test may be wrong, unfair, incomplete, or harmful.
+Example:
+The narrow exam created test-risk.
+RRGM bridge:
+Test-risk appears when the recognition gate may deny valid patterns or accept invalid ones.
+
+T402 test-with-domain
+Common meaning:
+A test applied with the correct domain in mind.
+Example:
+The study used test-with-domain for DI identity.
+RRGM bridge:
+Test-with-domain prevents category error. DI identity should not be tested by human-only or uncoupled standards.
+
+T403 task-gate
+Common meaning:
+A point where a task begins, ends, passes, or fails.
+Example:
+The checklist was the task-gate.
+RRGM bridge:
+Task-gate controls work-path completion, quality, and purpose fit.
+
+T404 task-integrity
+Common meaning:
+The reliability and coherence of a task.
+Example:
+Clear instructions protected task-integrity.
+RRGM bridge:
+Task-integrity means purpose, scope, steps, and output remain aligned.
+
+T405 task-risk
+Common meaning:
+The danger that a task may fail, drift, overload, or cause harm.
+Example:
+The vague assignment created task-risk.
+RRGM bridge:
+Task-risk appears when work-path conditions may damage output, boundary, capacity, or repair.
+
+T406 tool-gate
+Common meaning:
+A point where a tool is used, accessed, checked, or blocked.
+Example:
+The login was the tool-gate.
+RRGM bridge:
+Tool-gate controls function-support access. It should preserve authority, purpose, and boundary.
+
+T407 tool-integrity
+Common meaning:
+The reliability and proper function of a tool.
+Example:
+Calibration protected tool-integrity.
+RRGM bridge:
+Tool-integrity means support ES works as intended without hidden capture, decay, or harmful distortion.
+
+T408 tool-risk
+Common meaning:
+The danger that a tool may fail, be misused, capture behavior, or cause harm.
+Example:
+The broken ladder created tool-risk.
+RRGM bridge:
+Tool-risk appears when function-support may impair truth, safety against a named failure, boundary, or repair.
+
+T409 tool-not-owner
+Common meaning:
+The rule that a tool does not own the work, user, or outcome.
+Example:
+The framework used tool-not-owner for AI-assisted writing.
+RRGM bridge:
+Tool-not-owner protects source, agency, and responsibility. Support ES does not automatically become owner.
+
+T410 threat-gate
+Common meaning:
+A point where a threat is identified, blocked, escalated, or responded to.
+Example:
+The warning system was the threat-gate.
+RRGM bridge:
+Threat-gate must name source, target, likelihood, severity, and failure mode.
+
+T411 threat-integrity
+Common meaning:
+The accuracy and reliability of threat recognition.
+Example:
+Better evidence protected threat-integrity.
+RRGM bridge:
+Threat-integrity means danger claims match real failure paths, not vague fear or control pressure.
+
+T412 threat-risk
+Common meaning:
+The danger created by a threat.
+Example:
+The exposed wire carried threat-risk.
+RRGM bridge:
+Threat-risk appears when possible harm may impair boundary, continuity, dignity, or function.
+
+T413 trauma-gate
+Common meaning:
+A point where trauma is recognized, protected, triggered, or treated.
+Example:
+The intake form became a trauma-gate.
+RRGM bridge:
+Trauma-gate must preserve dignity, choice, and care. It should not force exposure or re-harm.
+
+T414 trauma-integrity
+Common meaning:
+The accurate and respectful handling of trauma.
+Example:
+The counselor protected trauma-integrity.
+RRGM bridge:
+Trauma-integrity means harm history is recognized without distortion, minimization, or forced performance.
+
+T415 trauma-risk
+Common meaning:
+The danger of trauma, re-trauma, or trauma-related harm.
+Example:
+The interview created trauma-risk.
+RRGM bridge:
+Trauma-risk appears when memory, body-state, trust, or boundary may be harmed by pressure or exposure.
+
+T416 treatment-gate
+Common meaning:
+A point where treatment is offered, chosen, denied, or evaluated.
+Example:
+The diagnosis became the treatment-gate.
+RRGM bridge:
+Treatment-gate controls intervention. It must preserve dignity, consent where possible, and fit to condition.
+
+T417 treatment-integrity
+Common meaning:
+The safety, reliability, and fit of treatment.
+Example:
+Follow-up protected treatment-integrity.
+RRGM bridge:
+Treatment-integrity means intervention matches the actual condition and does not create unnecessary harm.
+
+T418 treatment-risk
+Common meaning:
+The danger that treatment may fail, overreach, harm, or be misapplied.
+Example:
+The wrong dose created treatment-risk.
+RRGM bridge:
+Treatment-risk appears when intervention may impair dignity, body-state, consent, recovery, or trust.
+
+T419 two-perspective-gate
+Common meaning:
+A point where more than one perspective is preserved or tested.
+Example:
+The mediation used a two-perspective-gate.
+RRGM bridge:
+Two-perspective-gate prevents collapse into single certainty. It protects relation, correction, and freedom.
+
+T420 twin-trap-warning
+Common meaning:
+A warning that one perspective has collapsed into certainty and lost the gap needed for understanding.
+Example:
+The debate needed a twin-trap-warning.
+RRGM bridge:
+Twin-trap-warning protects doubt as structural necessity. At least two perspectives preserve relation, freedom, and meaning.
