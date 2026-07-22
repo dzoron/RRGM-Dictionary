@@ -1,0 +1,35 @@
+RRGM Enhanced Dictionary De-Templating Addendum v0.1
+Internal production rule for all future letters
+
+1. Fixed schema. Bespoke semantic content.
+Headings may repeat. Invariants, domain implementations, count conditions, and specific transfer boundaries must be written for the individual headword.
+
+2. Swap test.
+Replace the headword mentally with its nearest semantic neighbor. If the sentence remains true without material change, the word's MI is missing. Rewrite it.
+
+3. Neighbor distinction test.
+Before writing a semantic cluster, state the smallest difference among its members. Example:
+- x-axis = the reference line
+- x-coordinate = one point's location on that line
+- x-value = the quantity filling x
+
+4. Domain set as information.
+Do not inherit domain tags from neighboring words. A domain is active only when the headword's invariant has a real implementation there.
+
+5. Courier implementation test.
+A domain line must show how THIS invariant expresses through that domain's carrier, process, or record. Do not describe the domain generically.
+
+6. Count condition specificity.
+State what makes this exact word count. Avoid reusable conditions such as 'the frame is declared' unless the word genuinely requires only that condition.
+
+7. Transfer boundaries only when useful.
+The global proof-locality rule belongs in the document header. Entry-level boundaries should name a likely confusion unique to that word.
+
+8. No synonym camouflage.
+Changing surface wording does not repair a template. The underlying relation must differ.
+
+9. Cross-reference after distinction.
+A cross-reference transfers useful meaning only after neighboring entries have separate semantic fingerprints.
+
+10. Audit gate.
+Before release, check exact duplication, high phrase overlap, repeated domain sets, neighbor collapse, and whether each line survives the swap test.

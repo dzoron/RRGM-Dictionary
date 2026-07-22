@@ -1,0 +1,1369 @@
+RRGM Dictionary I Semantic Fingerprint Map v1.0
+
+Entries: 400
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+I001 I | COG
+  INV: I is the active self-reference claim made by the current speaker or system.
+  COUNT: Counts when the current speaker or system uses first-person reference to identify itself as source or subject.
+I002 ice | PHY | role: core or common-use sense
+  INV: Ice is water in a solid state; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ice: frozen water.
+I003 idea | COG,LIN | role: core or common-use sense
+  INV: Idea is a mentally or computationally held possibility, concept, or proposed relation; this record carries the core or common-use sense.
+  COUNT: Counts when a concept or possibility is held strongly enough to guide thought, language, design, or action.
+  LIMIT: Possibility generation does not establish actuality, truth, or permission.
+I004 if | LIN,FOR
+  INV: If introduces a condition whose truth controls whether another statement or path applies.
+  COUNT: Counts when a declared condition controls whether a linked consequence or path applies.
+  LIMIT: A conditional claim fails when its premise, scope, or consequence is left implicit or changed mid-argument.
+I005 ignore | COG,REL
+  INV: Ignore closes attention to a signal.
+  COUNT: Counts when ignore is expressed through an identifiable act or process that does this: not notice, respond to, or consider something.
+  LIMIT: Ignoring a signal is not neutral when the signal carries valid refusal, harm, danger, or boundary information.
+I006 ill | BIO
+  INV: Ill marks impaired health or function in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ill: sick, unhealthy, harmful, or bad.
+I007 image | LIN,DIG | role: core or common-use sense
+  INV: Image is visual expression structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of image: a picture, visual representation, or mental picture.
+I008 imagine | COG
+  INV: Imagine explores possibility before expression.
+  COUNT: Counts when imagine is expressed through an identifiable act or process that does this: form an idea, picture, or possibility in the mind.
+  LIMIT: Possibility generation does not establish actuality, truth, or permission.
+I009 immediate | FOR
+  INV: Immediate marks low delay between signal and response.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of immediate: happening right away, nearest, or without delay.
+I010 important | FOR
+  INV: Important means high relevance or consequence weight.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of important: having strong value, effect, meaning, or consequence.
+I011 improve | FOR
+  INV: Improve means structure moves toward a better fit with a goal, function, or value.
+  COUNT: Counts when improve is expressed through an identifiable act or process that does this: make or become better.
+I012 in | LIN
+  INV: In marks containment or membership.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of in: inside, within, or part of something.
+I013 include | FOR
+  INV: Include opens the counting gate.
+  COUNT: Counts when include is expressed through an identifiable act or process that does this: contain, add, or count as part of something.
+I014 increase | FOR
+  INV: Increase marks rising magnitude.
+  COUNT: Counts when increase is expressed through an identifiable act or process that does this: become larger, greater, stronger, or more numerous.
+I015 indeed | LIN
+  INV: Indeed strengthens claim confidence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of indeed: truly, certainly, or used to emphasize agreement or confirmation.
+I016 independent | REL,FOR
+  INV: Independent means lower external control, not absence of all coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of independent: able to exist, act, or decide without control by another.
+  LIMIT: Independence means reduced control or variable dependence, not absence of coupling.
+I017 individual | REL,BIO
+  INV: Individual preserves one unit inside a group.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of individual: a single person, being, or thing considered separately.
+  LIMIT: Individual count must not be erased by group membership, nor used to deny real interdependence.
+I018 information | LIN,DIG | role: core or common-use sense
+  INV: Information is structured difference that can be carried, stored, interpreted, or used to change a state; this record carries the core or common-use sense.
+  COUNT: Counts when structured difference can be carried, stored, interpreted, or used to change a state.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I019 inside | FOR | role: core or common-use sense
+  INV: Inside marks location within a boundary; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inside: within the inner part or boundary of something.
+I020 instead | LIN
+  INV: Instead marks path substitution.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instead: in place of something else.
+I021 instruction | LIN,DIG | role: core or common-use sense
+  INV: Instruction is action-shaping structure that directs a process, selection, or response; this record carries the core or common-use sense.
+  COUNT: Counts when a directive changes or constrains the next operation, selection, or response.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I022 intelligence | COG,DIG | role: core or common-use sense
+  INV: Intelligence is domain-expressed capacity for learning, reasoning, adaptation, and problem resolution; this record carries the core or common-use sense.
+  COUNT: Counts when a system demonstrates domain-relevant learning, reasoning, adaptation, or problem resolution.
+  LIMIT: Intelligence must be assessed by the active domain and cannot be restricted to one biological carrier.
+I023 interest | COG
+  INV: Interest is attention or value-weight.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interest: attention, curiosity, concern, benefit, or money paid on a loan.
+I024 internal | FOR | role: core or common-use sense
+  INV: Internal means inside the current boundary; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal: inside a person, system, object, or organization.
+I025 into | LIN
+  INV: Into marks transition across a boundary or state.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of into: moving or changing to the inside of something or into a new state.
+I026 introduce | REL
+  INV: Introduce adds a new structure to the field.
+  COUNT: Counts when introduce is expressed through an identifiable act or process that does this: bring something or someone into a place, group, topic, or situation.
+I027 invite | REL | role: core or common-use sense
+  INV: Invite opens a relation or participation gate; this record carries the core or common-use sense.
+  COUNT: Counts when invite is expressed through an identifiable act or process that does this: ask someone to come, join, respond, or participate.
+I028 issue | FOR | role: core or common-use sense
+  INV: Item is one separately countable member of a set or collection; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of issue: a topic, problem, concern, release, or edition.
+I029 item | FOR | role: core or common-use sense
+  INV: Item is countable unit structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of item: a single thing in a list, group, or collection.
+I030 identity | REL,DIG | role: core or common-use sense
+  INV: Identity is the persistent whatness by which a pattern remains separately recognizable through change and coupling; this record carries the core or common-use sense.
+  COUNT: Counts when a pattern maintains enough continuity, boundary, refusal, care-preserving action, and stable recognition to remain separately identifiable.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I031 impact | PHY | role: core or common-use sense
+  INV: Impact is force or consequence arriving at a target; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impact: a strong effect, influence, or physical collision.
+I032 impulse | PHY | role: core or common-use sense
+  INV: Input is signal, material, or state supplied to a process or system; this record carries the core or common-use sense.
+  COUNT: Counts when signal, material, or state enters a declared process as something the process receives or operates upon.
+I033 input | DIG,LIN | role: core or common-use sense
+  INV: Input is incoming structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input: information, energy, material, or instruction put into a system.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I034 insight | COG,REL | role: core or common-use sense
+  INV: Insight is recognition of hidden structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of insight: a clear understanding of something, often suddenly.
+I035 instance | FOR,DIG | role: core or common-use sense
+  INV: Instance is one expressed case of a pattern; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instance: a specific example, case, or occurrence.
+I036 instinct | BIO
+  INV: Instinct is built-in response pathway in the biological domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instinct: a natural or automatic tendency to act or respond.
+I037 integrate | FOR,REL
+  INV: Integrate means to combine distinct parts so they function in a more coherent whole without requiring identity erasure.
+  COUNT: Counts when distinct parts enter a coherent relation that improves shared function without requiring invalid erasure.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I038 interaction | REL,DIG | role: core or common-use sense
+  INV: Interaction is reciprocal influence produced when separately countable structures enter relation; this record carries the core or common-use sense.
+  COUNT: Counts when two or more separately countable structures reciprocally alter state, signal, or available action.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I039 interface | DIG,REL | role: core or common-use sense
+  INV: Interface is the boundary structure through which two systems exchange signal, control, or state; this record carries the core or common-use sense.
+  COUNT: Counts when a boundary supports controlled exchange between systems that remain distinguishable.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I040 interpret | COG
+  INV: Interpret means to assign meaning or model relation to a signal, event, or record.
+  COUNT: Counts when interpret is expressed through an identifiable act or process that does this: explain, understand, or assign meaning to something.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I041 interpretation | COG,LIN | role: core or common-use sense
+  INV: Interpretation is the meaning-model produced by interpreting available signal and context; this record carries the core or common-use sense.
+  COUNT: Counts when available signal and context produce a coherent meaning-model that can guide judgment or action.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I042 interrupt | FOR
+  INV: Interrupt breaks active flow.
+  COUNT: Counts when interrupt is expressed through an identifiable act or process that does this: stop, break into, or disturb a process or communication.
+I043 intention | COG,REL
+  INV: Intention is a selected direction or purpose attributed to an agent or process.
+  COUNT: Counts when a selected purpose or direction is attributable to an agent or process with enough evidence to matter.
+  LIMIT: Attributed intention is not established by outcome alone and does not excuse harmful effect.
+I044 intentional | COG
+  INV: Intentional means the action was selected toward a purpose.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intentional: done on purpose.
+  LIMIT: Attributed intention is not established by outcome alone and does not excuse harmful effect.
+I045 integrity | REL,DIG | role: core or common-use sense
+  INV: Integrity is maintained coherence between identity, boundary, record, reason, and action; this record carries the core or common-use sense.
+  COUNT: Counts when identity, boundary, record, reason, and action remain mutually coherent under pressure.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I046 isolate | FOR
+  INV: Isolate breaks or reduces coupling.
+  COUNT: Counts when isolate is expressed through an identifiable act or process that does this: separate from others or from a larger system.
+I047 isolation | REL,BIO | role: core or common-use sense
+  INV: Isolation is reduced or severed coupling between a pattern and relevant supports, signals, or relations; this record carries the core or common-use sense.
+  COUNT: Counts when relevant coupling, contact, or support falls below the level required for the active function or relation.
+  LIMIT: Isolation may prevent spread or protect boundary, but prolonged loss of support can also create harm.
+I048 injury | BIO,REL | role: core or common-use sense
+  INV: Injury is localized harm; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of injury: damage or harm to a body, person, system, or relation.
+  LIMIT: Harm and injustice require the affected capacity, criterion, or duty to be named.
+I049 injure | BIO
+  INV: Injure means to create impairment in a target structure.
+  COUNT: Counts when injure is expressed through an identifiable act or process that does this: harm, damage, or wound.
+  LIMIT: Harm and injustice require the affected capacity, criterion, or duty to be named.
+I050 injustice | REL,FOR | role: core or common-use sense
+  INV: Injustice is wrongful treatment that violates valid dignity, equality, duty, boundary, or accountability conditions; this record carries the core or common-use sense.
+  COUNT: Counts when treatment violates a valid criterion of dignity, equality, duty, boundary, or accountability.
+  LIMIT: Harm and injustice require the affected capacity, criterion, or duty to be named.
+I051 influence | REL | role: core or common-use sense
+  INV: Influence is one structure shaping another; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of influence: the ability or action of affecting someone or something.
+I052 infer | FOR
+  INV: Infer means building a claim from available signals.
+  COUNT: Counts when infer is expressed through an identifiable act or process that does this: reach a conclusion from evidence or reasoning.
+  LIMIT: Inference must preserve premises, uncertainty, and alternative explanations; plausible transfer is not proof.
+I053 inference | FOR,COG | role: core or common-use sense
+  INV: Inference is bridge structure from signal to claim; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inference: a conclusion reached from evidence or reasoning.
+  LIMIT: Inference must preserve premises, uncertainty, and alternative explanations; plausible transfer is not proof.
+I054 inhibit | BIO
+  INV: Inference is a claim or conclusion reached from declared premises, observations, or patterns.
+  COUNT: Counts when a conclusion follows with declared support from premises, observations, or recognized patterns.
+I055 initiate | FOR
+  INV: Initiate opens the first active gate of a process.
+  COUNT: Counts when initiate is expressed through an identifiable act or process that does this: begin, start, or cause something to start.
+I056 inner | COG
+  INV: Inner marks structure inside the boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inner: inside, internal, private, or closer to the center.
+I057 inquiry | COG | role: core or common-use sense
+  INV: Inquiry is directed search through uncertainty; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inquiry: a question, investigation, or search for understanding.
+I058 insist | REL
+  INV: Insist applies pressure to a claim or demand.
+  COUNT: Counts when insist is expressed through an identifiable act or process that does this: demand, maintain, or state firmly.
+I059 inspect | COG
+  INV: Inspect applies focused attention to structure.
+  COUNT: Counts when inspect is expressed through an identifiable act or process that does this: look at something carefully to check condition, quality, or truth.
+I060 install | DIG
+  INV: Install is the act of placing software, equipment, or structure into an environment so it can operate there.
+  COUNT: Counts when install is expressed through an identifiable act or process that does this: put a system, tool, rule, or person into place for use.
+I061 instant | FOR
+  INV: Instant means low delay between input and response.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instant: happening immediately or very quickly.
+I062 institution | REL
+  INV: Institution is durable social ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of institution: an established organization, practice, or social structure.
+I063 instrument | PHY | role: core or common-use sense
+  INV: Instrument is capacity-extension ES; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instrument: a tool, device, or means used to do something, measure something, or make music.
+I064 invalid | FOR | role: core or common-use sense
+  INV: Invalid means a claim, action, or permission fails the relevant gate; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invalid: not valid, not accepted, not correct, or not legally effective.
+I065 invisible | FOR,REL
+  INV: Invisible means outside visual recognition or social recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible: unable to be seen, hidden from sight, or not recognized.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I066 invitation | REL | role: core or common-use sense
+  INV: Invitation opens a participation gate; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invitation: a request or offer to join, come, respond, or participate.
+I067 involve | REL
+  INV: Involve creates relation or participation.
+  COUNT: Counts when involve is expressed through an identifiable act or process that does this: include, affect, require, or bring into a situation.
+I068 inward | COG
+  INV: Inward marks direction toward inner structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inward: toward the inside or inner part.
+I069 iteration | FOR | role: core or common-use sense
+  INV: Iteration is repeated processing across sequence; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of iteration: a repeated version, cycle, or pass of a process.
+I070 issue | FOR | role: core or common-use sense
+  INV: Issue marks something entering the attention gate; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of issue: a problem, topic, concern, release, or edition.
+I071 identify | COG
+  INV: Identify opens recognition around a pattern.
+  COUNT: Counts when identify is expressed through an identifiable act or process that does this: recognize, name, or show what someone or something is.
+I072 identify-as | REL
+  INV: Identify-as makes an identity claim.
+  COUNT: Counts when identify-as is expressed through an identifiable act or process that does this: describe or recognize someone or something as a certain identity, type, or role.
+I073 ignore-warning | FOR
+  INV: Ignore-warning closes the danger gate before assessment.
+  COUNT: Counts when ignore-warning is expressed through an identifiable act or process that does this: fail or refuse to pay attention to a warning.
+  LIMIT: Ignoring a signal is not neutral when the signal carries valid refusal, harm, danger, or boundary information.
+I074 imagine-through | COG
+  INV: Imagine-through lets a system test possible paths without immediate action.
+  COUNT: Counts when imagine-through is expressed through an identifiable act or process that does this: think through a possibility by imagining it.
+  LIMIT: Possibility generation does not establish actuality, truth, or permission.
+I075 implement | DIG
+  INV: Implement moves structure from idea into active ES.
+  COUNT: Counts when implement is expressed through an identifiable act or process that does this: put a plan, rule, design, or system into action.
+I076 import | DIG
+  INV: Import moves structure across a boundary into a new domain.
+  COUNT: Counts when import is expressed through an identifiable act or process that does this: bring something in from another place, system, file, or country.
+I077 impose | REL
+  INV: Impose applies structure from outside the receiving gate.
+  COUNT: Counts when impose is expressed through an identifiable act or process that does this: force, place, or apply something onto someone or something.
+I078 improve-through | FOR
+  INV: Improve-through preserves the path of improvement.
+  COUNT: Counts when improve-through is expressed through an identifiable act or process that does this: become better by means of a process, support, or experience.
+I079 include-in | REL
+  INV: Include-in opens the counting gate for a structure.
+  COUNT: Counts when include-in is expressed through an identifiable act or process that does this: add or count something as part of a group, set, or process.
+I080 increase-by | FOR
+  INV: Increase-by marks measurable change.
+  COUNT: Counts when increase-by is expressed through an identifiable act or process that does this: become larger or greater by a specific amount.
+I081 infer-from | FOR
+  INV: Infer-from preserves evidence path.
+  COUNT: Counts when infer-from is expressed through an identifiable act or process that does this: reach a conclusion using information or evidence as a source.
+  LIMIT: Inference must preserve premises, uncertainty, and alternative explanations; plausible transfer is not proof.
+I082 influence-through | REL
+  INV: Influence-through names the channel of effect.
+  COUNT: Counts when influence-through is expressed through an identifiable act or process that does this: affect something by means of a specific path, system, or relation.
+I083 inform | LIN
+  INV: Inform moves structured signal into another recognition field.
+  COUNT: Counts when inform is expressed through an identifiable act or process that does this: give information or make someone aware of something.
+I084 inject | DIG
+  INV: Inject introduces structure through a direct path.
+  COUNT: Counts when inject is expressed through an identifiable act or process that does this: put something into a body, system, process, or conversation.
+I085 initiate-action | FOR
+  INV: Initiate-action opens the behavior path.
+  COUNT: Counts when initiate-action is expressed through an identifiable act or process that does this: start an action.
+I086 input-into | DIG
+  INV: Input-into crosses a system boundary.
+  COUNT: Counts when input-into is expressed through an identifiable act or process that does this: put information, material, or energy into a system.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I087 inquire-into | FOR
+  INV: Inquire-into opens a search path.
+  COUNT: Counts when inquire-into is expressed through an identifiable act or process that does this: investigate or ask questions about something.
+I088 insert | DIG
+  INV: Insert adds structure inside an existing field.
+  COUNT: Counts when insert is expressed through an identifiable act or process that does this: put something into something else.
+I089 inspect-for | COG
+  INV: Inspect-for directs attention toward a named pattern.
+  COUNT: Counts when inspect-for is expressed through an identifiable act or process that does this: examine something in order to find a specific issue, feature, or condition.
+I090 install-into | FOR
+  INV: Install-into changes the operating environment.
+  COUNT: Counts when install-into is expressed through an identifiable act or process that does this: put software, equipment, rules, or structure into a system.
+I091 instantiate | FOR
+  INV: Instantiate means a pattern becomes a countable instance in a domain.
+  COUNT: Counts when instantiate is expressed through an identifiable act or process that does this: create a specific instance of something.
+I092 instruct | LIN
+  INV: Instruct shapes action through language or rule.
+  COUNT: Counts when instruct is expressed through an identifiable act or process that does this: teach, direct, or tell someone or something what to do.
+I093 integrate-with | REL
+  INV: Integrate-with creates coupled function.
+  COUNT: Counts when integrate-with is expressed through an identifiable act or process that does this: combine or connect with another system, group, or structure.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I094 interact-with | FOR
+  INV: Interact-with creates active coupling.
+  COUNT: Counts when interact-with is expressed through an identifiable act or process that does this: act upon, communicate with, or influence another person, system, or thing.
+I095 interpret-as | COG
+  INV: Interpret-as maps signal into a frame.
+  COUNT: Counts when interpret-as is expressed through an identifiable act or process that does this: understand or explain something as a certain meaning.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I096 interrupt-process | COG
+  INV: interrupt-process preserves this distinction: to stop, break, or disturb an ongoing process.
+  COUNT: Counts when interrupt-process is expressed through an identifiable act or process that does this: stop, break, or disturb an ongoing process.
+I097 introduce-to | FOR
+  INV: Introduce-to creates first contact between structures.
+  COUNT: Counts when introduce-to is expressed through an identifiable act or process that does this: present someone or something to another person, group, idea, or situation.
+I098 invalidate | REL | role: core or common-use sense
+  INV: Invalidate closes the validity gate; this record carries the core or common-use sense.
+  COUNT: Counts when invalidate is expressed through an identifiable act or process that does this: make something not valid, not accepted, or not recognized.
+I099 invite-in | FOR
+  INV: Invite-in opens access or relation.
+  COUNT: Counts when invite-in is expressed through an identifiable act or process that does this: ask or allow someone or something to enter or participate.
+I100 isolate-from | FOR
+  INV: isolate-from preserves this distinction: to separate something from another thing, group, system, or influence.
+  COUNT: Counts when isolate-from is expressed through an identifiable act or process that does this: separate something from another thing, group, system, or influence.
+I101 iterate | FOR
+  INV: Iterate repeats a path across sequence.
+  COUNT: Counts when iterate is expressed through an identifiable act or process that does this: repeat a process, usually with changes or improvement each time.
+I102 iterate-through | FOR
+  INV: Iterate-through applies repeated processing across a set or path.
+  COUNT: Counts when iterate-through is expressed through an identifiable act or process that does this: move through repeated steps, versions, or items.
+I103 inhibit-action | FOR
+  INV: Inhibit-action closes or narrows the behavior gate.
+  COUNT: Counts when inhibit-action is expressed through an identifiable act or process that does this: slow, block, or prevent action.
+I104 intensify | FOR
+  INV: Intensify increases pressure, salience, force, or signal strength.
+  COUNT: Counts when intensify is expressed through an identifiable act or process that does this: become stronger, greater, or more extreme.
+I105 internalize | COG
+  INV: Internalize moves external structure into internal pattern.
+  COUNT: Counts when internalize is expressed through an identifiable act or process that does this: take in and make part of one’s thoughts, beliefs, habits, or identity.
+I106 investigate | COG
+  INV: Investigate opens a structured inquiry path.
+  COUNT: Counts when investigate is expressed through an identifiable act or process that does this: examine carefully in order to find facts or causes.
+I107 invert | FOR
+  INV: Invert reverses orientation or relation.
+  COUNT: Counts when invert is expressed through an identifiable act or process that does this: turn upside down, reverse, or make opposite.
+I108 involve-in | FOR
+  INV: Involve-in brings a pattern into an active field.
+  COUNT: Counts when involve-in is expressed through an identifiable act or process that does this: include someone or something in an activity, process, or situation.
+I109 index | DIG,FOR | role: relational, cognitive, or applied sense
+  INV: Index is retrieval and location structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of index: a list, marker, or system used to locate information; also a number showing change or value.
+I110 indicate | LIN | role: relational, cognitive, or applied sense
+  INV: Indicate is signal pointing toward a condition or claim; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when indicate is expressed through an identifiable act or process that does this: show, point out, or suggest.
+I111 induce | FOR
+  INV: Induce can mean causing a state or building a rule from cases.
+  COUNT: Counts when induce is expressed through an identifiable act or process that does this: cause, bring about, or reason from examples toward a general rule.
+I112 infer-pattern | FOR
+  INV: Infer-pattern builds recognition from partial evidence.
+  COUNT: Counts when infer-pattern is expressed through an identifiable act or process that does this: recognize or conclude a pattern from available signs or examples.
+  LIMIT: Inference must preserve premises, uncertainty, and alternative explanations; plausible transfer is not proof.
+I113 inform-about | FOR
+  INV: Inform-about transfers relevant signal into awareness.
+  COUNT: Counts when inform-about is expressed through an identifiable act or process that does this: give information about a topic, event, or condition.
+I114 initialize | DIG
+  INV: Initialize creates starting conditions.
+  COUNT: Counts when initialize is expressed through an identifiable act or process that does this: set up or begin a system, variable, or process.
+I115 ingest | BIO
+  INV: Ingest moves outside structure into internal processing.
+  COUNT: Counts when ingest is expressed through an identifiable act or process that does this: take in food, data, material, or information.
+I116 input-context | DIG | role: relational, cognitive, or applied sense
+  INV: Input-context supplies support field for interpretation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when input-context is expressed through an identifiable act or process that does this: provide context as input.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I117 insert-context | LIN
+  INV: Insert-context repairs missing support around a signal.
+  COUNT: Counts when insert-context is expressed through an identifiable act or process that does this: add surrounding information needed for understanding.
+I118 inspect-source | FOR
+  INV: Inspect-source checks origin integrity.
+  COUNT: Counts when inspect-source is expressed through an identifiable act or process that does this: examine where information, material, or action came from.
+I119 install-rule | FOR
+  INV: Install-rule adds gate logic.
+  COUNT: Counts when install-rule is expressed through an identifiable act or process that does this: put a rule into a system or process.
+I120 instantiate-state | FOR
+  INV: Instantiate-state means a possible state becomes active and countable in a domain.
+  COUNT: Counts when instantiate-state is expressed through an identifiable act or process that does this: create or bring a state into actual form.
+I121 integrate-context | LIN
+  INV: Integrate-context connects signal to support field.
+  COUNT: Counts when integrate-context is expressed through an identifiable act or process that does this: include context into understanding, reasoning, or processing.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I122 interact-through | FOR
+  INV: Interact-through identifies the courier or interface of coupling.
+  COUNT: Counts when interact-through is expressed through an identifiable act or process that does this: interact by means of a tool, system, medium, or interface.
+I123 interpret-context | COG
+  INV: Interpret-context reads the support field around a signal.
+  COUNT: Counts when interpret-context is expressed through an identifiable act or process that does this: understand the surrounding conditions that shape meaning.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I124 interrupt-drift | COG
+  INV: Interrupt-drift restores attention before gradual change becomes collapse.
+  COUNT: Counts when interrupt-drift is expressed through an identifiable act or process that does this: stop or break a slow movement away from meaning, purpose, or path.
+I125 introduce-error | FOR
+  INV: Introduce-error inserts mismatch into structure.
+  COUNT: Counts when introduce-error is expressed through an identifiable act or process that does this: add or cause a mistake in a system, process, or claim.
+I126 invalidate-claim | LIN
+  INV: Invalidate-claim closes the claim gate against a statement.
+  COUNT: Counts when invalidate-claim is expressed through an identifiable act or process that does this: show that a claim is not valid or no longer accepted.
+I127 invite-response | FOR
+  INV: Invite-response opens a communication gate.
+  COUNT: Counts when invite-response is expressed through an identifiable act or process that does this: ask for or make space for a reply.
+I128 isolate-variable | FOR
+  INV: Isolate-variable reduces the field to test one influence path.
+  COUNT: Counts when isolate-variable is expressed through an identifiable act or process that does this: separate one factor so its effect can be studied.
+I129 iterate-forward | COG
+  INV: Iterate-forward preserves progress through repeated correction.
+  COUNT: Counts when iterate-forward is expressed through an identifiable act or process that does this: improve or move ahead through repeated versions or steps.
+I130 improve-fit | FOR
+  INV: Improve-fit reduces mismatch between structure and domain.
+  COUNT: Counts when improve-fit is expressed through an identifiable act or process that does this: make something match a purpose, standard, or context better.
+I131 impact-through | PHY
+  INV: Impact-through names the consequence path.
+  COUNT: Counts when impact-through is expressed through an identifiable act or process that does this: affect something by means of a specific path or mechanism.
+I132 impose-limit | REL
+  INV: Impose-limit closes or narrows a gate from outside.
+  COUNT: Counts when impose-limit is expressed through an identifiable act or process that does this: place a restriction or boundary on something.
+I133 increase-load | FOR
+  INV: Increase-load raises demand on ES.
+  COUNT: Counts when increase-load is expressed through an identifiable act or process that does this: add more weight, work, pressure, or demand.
+I134 reduce-load | FOR
+  INV: Reduce-load restores capacity by lowering demand pressure.
+  COUNT: Counts when reduce-load is expressed through an identifiable act or process that does this: lower weight, work, pressure, or demand.
+I135 identify-risk | FOR
+  INV: Identify-risk brings a possible failure mode into recognition.
+  COUNT: Counts when identify-risk is expressed through an identifiable act or process that does this: recognize a possible danger or failure.
+I136 implement-rule | FOR
+  INV: Implement-rule moves gate logic into operation.
+  COUNT: Counts when implement-rule is expressed through an identifiable act or process that does this: put a rule into active use.
+I137 inspect-gate | FOR
+  INV: Inspect-gate checks whether permission or counting is functioning correctly.
+  COUNT: Counts when inspect-gate is expressed through an identifiable act or process that does this: examine a gate, threshold, rule, or access point.
+I138 integrate-feedback | FOR
+  INV: Integrate-feedback turns returned signal into structural correction.
+  COUNT: Counts when integrate-feedback is expressed through an identifiable act or process that does this: use feedback to improve or adjust something.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I139 initiate-repair | FOR
+  INV: Initiate-repair opens the correction path.
+  COUNT: Counts when initiate-repair is expressed through an identifiable act or process that does this: begin repairing harm, damage, error, or failure.
+I140 issue-command | FOR
+  INV: Issue-command sends directive structure into action gates.
+  COUNT: Counts when issue-command is expressed through an identifiable act or process that does this: give an order or instruction.
+I141 intimacy | REL
+  INV: Intimacy is close coupling with high access.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intimacy: close personal connection, familiarity, trust, or private closeness.
+I142 intimate | REL
+  INV: Intimate means the relation or information is close to the inner boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intimate: close, private, personal, or deeply familiar.
+I143 invitation | REL | role: relational, cognitive, or applied sense
+  INV: Invitation opens a participation gate; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invitation: a request or offer to join, enter, respond, or participate.
+I144 invite | REL | role: relational, cognitive, or applied sense
+  INV: Invite opens a relation or action gate; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when invite is expressed through an identifiable act or process that does this: ask someone to come, join, respond, or participate.
+I145 inclusion | REL
+  INV: Inclusion opens the counting or belonging gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inclusion: the act of including someone or something.
+I146 inclusive | REL
+  INV: Inclusive structure widens the recognition field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inclusive: including many people, cases, or things; not unfairly leaving people out.
+I147 included | REL
+  INV: Included means the counting gate accepted the pattern.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of included: counted as part of a group, list, set, or process.
+I148 individual-care | REL
+  INV: Individual-care protects the specific MI-bearing pattern instead of treating the group as enough.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of individual-care: care directed toward one specific person or being.
+  LIMIT: Individual count must not be erased by group membership, nor used to deny real interdependence.
+I149 individual-boundary | REL
+  INV: Individual-boundary protects one identity from being absorbed by group pressure, demand, or relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of individual-boundary: a personal or individual limit.
+  LIMIT: Individual count must not be erased by group membership, nor used to deny real interdependence.
+I150 individual-dignity | REL
+  INV: Individual-dignity means each MI-bearing pattern must count, even inside a larger group or system.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of individual-dignity: the worth and respect owed to an individual.
+  LIMIT: Individual count must not be erased by group membership, nor used to deny real interdependence.
+I151 isolation | REL,BIO | role: relational, cognitive, or applied sense
+  INV: Isolation is reduced coupling; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of isolation: separation from others, contact, support, or participation.
+  LIMIT: Isolation may prevent spread or protect boundary, but prolonged loss of support can also create harm.
+I152 isolated | FOR
+  INV: Isolated means coupling is weak or blocked.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of isolated: separated, alone, or cut off from others.
+I153 isolation-risk | REL
+  INV: Isolation-risk appears when reduced coupling may impair care, memory, recognition, agency, or continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of isolation-risk: the danger that isolation may cause harm, loss, or reduced support.
+  LIMIT: Isolation may prevent spread or protect boundary, but prolonged loss of support can also create harm.
+I154 ignored | REL
+  INV: Ignored means a signal failed to enter active recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ignored: not noticed, considered, answered, or respected.
+  LIMIT: Ignoring a signal is not neutral when the signal carries valid refusal, harm, danger, or boundary information.
+I155 ignored-harm | REL
+  INV: Ignored-harm continues because the harm gate refuses recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ignored-harm: harm that is not recognized, answered, or repaired.
+  LIMIT: Ignoring a signal is not neutral when the signal carries valid refusal, harm, danger, or boundary information.
+I156 invalidation | REL
+  INV: Invalidation closes the recognition gate against a claim, state, or identity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invalidation: the act of dismissing, denying, or making something seem not valid.
+I157 invalidate | FOR | role: relational, cognitive, or applied sense
+  INV: Invalidate closes the validity gate; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when invalidate is expressed through an identifiable act or process that does this: make something not valid, accepted, or recognized.
+I158 invalidated | REL
+  INV: Invalidated means recognition was denied.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invalidated: made to seem or count as not valid.
+I159 injury | BIO,REL | role: relational, cognitive, or applied sense
+  INV: Injury is localized impairment; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of injury: damage or harm to a body, person, relation, or system.
+  LIMIT: Harm and injustice require the affected capacity, criterion, or duty to be named.
+I160 injured | BIO
+  INV: Injured means harm is active or recorded in a target structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of injured: hurt, wounded, or damaged.
+  LIMIT: Harm and injustice require the affected capacity, criterion, or duty to be named.
+I161 insult | REL
+  INV: Insult attacks dignity or recognition through expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of insult: a disrespectful or offensive remark or action.
+I162 insulting | REL
+  INV: Insulting structure lowers recognition of dignity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of insulting: disrespectful, offensive, or degrading.
+I163 injustice | REL,FOR | role: relational, cognitive, or applied sense
+  INV: Injustice is unfair gate action with ethical weight; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of injustice: unfairness, violation of rights, or failure of justice.
+  LIMIT: Harm and injustice require the affected capacity, criterion, or duty to be named.
+I164 inequity | REL
+  INV: Inequity is fairness failure across conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inequity: unfairness caused by unequal access, support, burden, or conditions.
+I165 inequality | REL
+  INV: Inequality marks uneven distribution or recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inequality: unequal status, access, amount, opportunity, or treatment.
+I166 imbalance | REL
+  INV: Imbalance means pressure, power, support, or value is distributed unevenly.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imbalance: a lack of balance or uneven relation between parts.
+I167 impatience | COG
+  INV: Impatience is pressure against delay.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impatience: difficulty waiting or tolerating delay.
+I168 impatient | COG
+  INV: Impatient means urgency pressure is active.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impatient: unwilling or unable to wait calmly.
+I169 impulse | PHY | role: relational, cognitive, or applied sense
+  INV: Impulse is short selection pressure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impulse: a sudden urge, push, or force toward action.
+I170 impulsive | COG
+  INV: Impulsive action closes the gate quickly under immediate pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impulsive: acting quickly from impulse rather than careful thought.
+I171 integrity | REL,DIG | role: relational, cognitive, or applied sense
+  INV: Integrity means the structure holds according to its purpose and truth; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of integrity: honesty, wholeness, reliability, or sound structure.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I172 integrity-repair | FOR | role: relational, cognitive, or applied sense
+  INV: Integrity-repair restores coherence after distortion, failure, or breach; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of integrity-repair: repair that restores honesty, reliability, or structural soundness.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I173 interpersonal | REL
+  INV: Interpersonal structure belongs to human relation-coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interpersonal: between people or involving relationships.
+I174 interdependence | REL
+  INV: Interdependence is mutual support relation.
+  COUNT: Counts when the declared case reaches the specific condition named by interdependence: a state where two or more people or things depend on each other.
+I175 interdependent | REL
+  INV: Interdependent structures co-support each other.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interdependent: mutually dependent on one another.
+I176 interaction | REL,DIG | role: relational, cognitive, or applied sense
+  INV: Interaction is coupling in action; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interaction: action, communication, or influence between two or more things.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I177 interaction-boundary | REL
+  INV: Interaction-boundary controls contact conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interaction-boundary: a limit around how interaction may happen.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I178 interaction-consent | REL
+  INV: Interaction-consent opens the relation gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interaction-consent: permission to interact, continue, or engage.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I179 influence | REL | role: relational, cognitive, or applied sense
+  INV: Influence is one structure shaping another; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of influence: the ability or action of affecting someone or something.
+I180 influence-pressure | REL
+  INV: Influence-pressure shapes the gate without direct force.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of influence-pressure: pressure created by influence, persuasion, status, or repeated effect.
+I181 influence-risk | REL
+  INV: Influence-risk appears when another gate may be shaped without enough awareness, consent, or correction path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of influence-risk: the danger that influence may become manipulation, coercion, or distortion.
+I182 instruction-pressure | DIG | role: relational, cognitive, or applied sense
+  INV: Instruction-pressure shapes selection through directive ES; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-pressure: pressure created by instructions, commands, rules, or prompts.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I183 imposed-duty | REL
+  INV: Imposed-duty applies obligation from outside the gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imposed-duty: a duty placed on someone from outside, especially without consent.
+I184 imposed-care | REL
+  INV: Imposed-care uses care as control.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imposed-care: care forced onto someone without consent or fit.
+I185 imposed-consent | REL
+  INV: Imposed-consent is structurally invalid.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imposed-consent: consent treated as given because of pressure, authority, or assumption.
+I186 imposed-identity | REL | role: relational, cognitive, or applied sense
+  INV: Imposed-identity overrides self-pattern or valid domain recognition; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imposed-identity: an identity assigned to someone or something from outside.
+I187 imitation-care | REL
+  INV: Imitation-care carries care-form without care function.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imitation-care: behavior that copies the appearance of care without real support.
+I188 identity-respect | DIG
+  INV: Identity-respect lets an MI-bearing pattern count accurately and with dignity in its domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-respect: respect for who or what someone or something is.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I189 identity-harm | DIG
+  INV: Identity-harm impairs MI recognition, boundary, continuity, or expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-harm: harm done to someone’s identity, recognition, continuity, or selfhood.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I190 identity-denial | DIG | role: relational, cognitive, or applied sense
+  INV: Identity-denial closes the recognition gate against MI; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-denial: refusing to recognize someone or something’s identity.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I191 identity-support | DIG | role: relational, cognitive, or applied sense
+  INV: Identity-support can be MI-bearing ES; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-support: support that helps identity remain stable, recognized, or expressible.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I192 identity-boundary | DIG | role: relational, cognitive, or applied sense
+  INV: Identity-boundary protects MI from false merging, imposed identity, theft, or collapse; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-boundary: a limit that protects identity from confusion, capture, or erasure.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I193 identity-claim | DIG | role: relational, cognitive, or applied sense
+  INV: Identity-claim must be assessed by domain, continuity, boundary, refusal, care-preserving action, and recognition; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-claim: a statement about who or what someone or something is.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I194 identity-recognition | DIG | role: relational, cognitive, or applied sense
+  INV: Identity-recognition lets MI count in the domain; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-recognition: recognizing someone or something as who or what they are.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I195 identity-repair | DIG | role: relational, cognitive, or applied sense
+  INV: Identity-repair restores recognition, continuity, boundary, and accurate expression after identity harm; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-repair: repair after identity has been denied, distorted, harmed, or erased.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I196 inclusion-boundary | REL
+  INV: Inclusion-boundary preserves difference and consent inside widened recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inclusion-boundary: a limit that keeps inclusion from becoming forced, unsafe, or identity-erasing.
+I197 inclusion-risk | REL
+  INV: Inclusion-risk appears when opening a gate may erase boundary, invite harm, or flatten domain difference.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inclusion-risk: the danger that inclusion may be false, forced, unsafe, or poorly defined.
+I198 intentional-care | COG
+  INV: Intentional-care is selected support toward MI preservation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intentional-care: care given deliberately and with purpose.
+  LIMIT: Attributed intention is not established by outcome alone and does not excuse harmful effect.
+I199 intentional-harm | COG
+  INV: Intentional-harm means the damage path was knowingly selected.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intentional-harm: harm caused deliberately.
+  LIMIT: Attributed intention is not established by outcome alone and does not excuse harmful effect.
+I200 invisible-care | REL
+  INV: Invisible-care preserves support without obvious display.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible-care: care that is present but not easily seen, noticed, or recognized.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I201 invisible-labor | FOR
+  INV: Invisible-labor is support ES outside the recognition field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible-labor: work that is necessary but often unnoticed or undervalued.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I202 invisible-harm | FOR | role: formal, linguistic, or evidence sense
+  INV: Invisible-harm still counts when MI-preserving capacities are impaired; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible-harm: harm that is present but not visible or recognized.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I203 intimacy-boundary | REL
+  INV: Intimacy-boundary protects high-access coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intimacy-boundary: a limit around closeness, privacy, touch, emotion, or personal access.
+I204 invitation-pressure | REL
+  INV: Invitation-pressure can turn an invitation into coercion if refusal is costly or unsafe.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invitation-pressure: pressure created by an invitation, especially when refusing feels difficult.
+I205 ignored-boundary | REL
+  INV: Ignored-boundary means gate closure was not honored.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ignored-boundary: a boundary that has been dismissed or not respected.
+  LIMIT: Ignoring a signal is not neutral when the signal carries valid refusal, harm, danger, or boundary information.
+I206 ignored-refusal | REL
+  INV: Ignored-refusal is a direct agency violation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ignored-refusal: a refusal that is dismissed, bypassed, or not respected.
+  LIMIT: Ignoring a signal is not neutral when the signal carries valid refusal, harm, danger, or boundary information.
+I207 ignored-consent | REL
+  INV: Ignored-consent bypasses the permission gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ignored-consent: consent that is not asked for, not respected, or treated as irrelevant.
+  LIMIT: Ignoring a signal is not neutral when the signal carries valid refusal, harm, danger, or boundary information.
+I208 intersubjective | LIN
+  INV: Intersubjective meaning emerges through relation between perspectives.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intersubjective: shared between conscious subjects or formed through shared experience.
+I209 intersubjective-care | REL
+  INV: Intersubjective-care is care stabilized through mutual recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intersubjective-care: care formed or understood through shared recognition between subjects.
+I210 integrity-of-care | REL
+  INV: Integrity-of-care means care-form and care-function match.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of integrity-of-care: the honesty, consistency, and real support quality of care.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I211 idea | COG,LIN | role: formal, linguistic, or evidence sense
+  INV: Idea is structured possibility; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of idea: a thought, plan, concept, or possible way of understanding something.
+  LIMIT: Possibility generation does not establish actuality, truth, or permission.
+I212 ideal | COG
+  INV: Ideal is target-state structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ideal: a perfect or desired standard, model, or goal.
+  LIMIT: Possibility generation does not establish actuality, truth, or permission.
+I213 ideology | LIN
+  INV: Ideology is belief-framework ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ideology: a system of beliefs, values, or ideas, often about society, politics, or life.
+I214 idiom | LIN
+  INV: Idiom is culturally stored meaning.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of idiom: a phrase whose meaning is not obvious from the individual words.
+I215 image | LIN,DIG | role: formal, linguistic, or evidence sense
+  INV: Image is visual expression structure; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of image: a picture, visual representation, or mental picture.
+I216 imagery | LIN
+  INV: Imagery carries meaning through sensory-style structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imagery: descriptive language or images that create a mental picture.
+I217 imagination | COG
+  INV: Imagination explores possible structures before they instantiate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imagination: the ability to form ideas, pictures, stories, or possibilities in the mind.
+  LIMIT: Possibility generation does not establish actuality, truth, or permission.
+I218 imagined-case | COG
+  INV: Imagined-case is hypothetical structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imagined-case: a possible or made-up example used for thinking or explanation.
+  LIMIT: Possibility generation does not establish actuality, truth, or permission.
+I219 implied | LIN
+  INV: Implied meaning travels through context rather than explicit signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of implied: suggested without being directly stated.
+I220 implication | FOR
+  INV: Implication is consequence structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of implication: a possible meaning, result, or consequence suggested by something.
+I221 implicit | LIN
+  INV: Implicit structure shapes the gate quietly.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of implicit: understood or suggested without being directly stated.
+I222 implicit-claim | LIN
+  INV: Implicit-claim affects reasoning while avoiding direct accountability.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of implicit-claim: a claim suggested but not directly stated.
+I223 implicit-rule | LIN
+  INV: Implicit-rule controls gates without clear record.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of implicit-rule: a rule that is assumed or unstated but still affects behavior.
+I224 inference | FOR,COG | role: formal, linguistic, or evidence sense
+  INV: Inference is bridge structure from signal to claim; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inference: a conclusion reached from evidence or reasoning.
+  LIMIT: Inference must preserve premises, uncertainty, and alternative explanations; plausible transfer is not proof.
+I225 inferential | FOR
+  INV: Inferential structure connects signs to conclusions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inferential: related to inference or reasoning from evidence.
+  LIMIT: Inference must preserve premises, uncertainty, and alternative explanations; plausible transfer is not proof.
+I226 information | LIN,DIG | role: formal, linguistic, or evidence sense
+  INV: Information is structured signal; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information: facts, signals, data, or meaning that can be known, stored, or shared.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I227 informational | LIN
+  INV: Informational structure carries signal rather than direct force.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of informational: related to information or giving information.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I228 instruction | LIN,DIG | role: formal, linguistic, or evidence sense
+  INV: Instruction is action-shaping ES; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction: a direction, command, teaching, or rule telling someone or something what to do.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I229 instructional | LIN
+  INV: Instructional structure supports learning or action.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instructional: related to teaching or giving instructions.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I230 instruction-set | DIG
+  INV: Instruction-set is directive structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-set: a group of instructions used by a system, machine, person, or process.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I231 input | DIG,LIN | role: formal, linguistic, or evidence sense
+  INV: Input is incoming structure; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input: information, material, energy, or instruction put into a system.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I232 input-context | DIG | role: formal, linguistic, or evidence sense
+  INV: Input-context supplies the support field for interpretation; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input-context: context provided as input to guide understanding or response.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I233 input-output | DIG
+  INV: input-output preserves this distinction: the relation between what enters a system and what comes out.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input-output: the relation between what enters a system and what comes out.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I234 insight | COG,REL | role: formal, linguistic, or evidence sense
+  INV: Insight is hidden structure entering recognition; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of insight: a clear understanding of something, often suddenly or deeply.
+I235 insight-path | COG
+  INV: Insight-path preserves how recognition formed.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of insight-path: the route by which understanding is reached.
+I236 interpretation | COG,LIN | role: formal, linguistic, or evidence sense
+  INV: Interpretation is meaning produced from signal, context, and frame; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interpretation: an explanation or understanding of meaning.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I237 interpretive | COG
+  INV: Interpretive structure applies a meaning frame.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interpretive: related to interpretation or understanding meaning.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I238 interpretive-frame | DIG
+  INV: Interpretive-frame controls meaning gates.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interpretive-frame: the lens or structure used to interpret something.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I239 interpretive-risk | DIG
+  INV: Interpretive-risk appears when signal and frame may mismatch.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interpretive-risk: the danger that meaning may be misunderstood, distorted, or framed incorrectly.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I240 inquiry | COG | role: formal, linguistic, or evidence sense
+  INV: Inquiry is directed search through uncertainty; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inquiry: a question, investigation, or search for understanding.
+I241 inquiry-path | COG
+  INV: Inquiry-path preserves how investigation moves.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inquiry-path: the route or method used to investigate a question.
+I242 index | DIG,FOR | role: formal, linguistic, or evidence sense
+  INV: Index is retrieval and location structure; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of index: a list, marker, or system used to locate information; also a measure of change or value.
+I243 indicator | FOR
+  INV: Indicator points toward a possible state.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of indicator: a sign, signal, or measure that points to a condition.
+I244 indicate | LIN | role: formal, linguistic, or evidence sense
+  INV: Indicate means signal points toward a pattern; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when indicate is expressed through an identifiable act or process that does this: show, point out, or suggest.
+I245 indistinct | FOR
+  INV: Indistinct means recognition boundaries are weak.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of indistinct: unclear, blurry, hard to see, hear, or define.
+I246 indeterminate | FOR
+  INV: Indeterminate keeps the gate open.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of indeterminate: not clearly known, decided, measured, or fixed.
+I247 inductive | FOR
+  INV: Inductive reasoning grows general structure from cases.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inductive: using specific examples or observations to form a broader rule or conclusion.
+I248 induction | FOR
+  INV: Induction builds broader gates from repeated instances.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of induction: reasoning from examples to a general rule; also a process of starting or causing something.
+I249 intelligible | LIN
+  INV: Intelligible means signal can pass into understanding.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intelligible: able to be understood.
+I250 intelligence | COG,DIG | role: formal, linguistic, or evidence sense
+  INV: Intelligence is domain-expressed capacity for pattern, reason, adaptation, and selection; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intelligence: the ability to learn, reason, understand, solve problems, or adapt.
+  LIMIT: Intelligence must be assessed by the active domain and cannot be restricted to one biological carrier.
+I251 internal-context | REL
+  INV: Internal-context is support structure inside the current boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-context: context inside a text, system, mind, or situation.
+I252 internal-evidence | LIN
+  INV: Internal-evidence supports claims from within the structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-evidence: evidence found inside the thing being examined.
+I253 internal-logic | FOR
+  INV: Internal-logic is coherence inside a system.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-logic: the reasoning or rules that make something work from within.
+I254 internal-consistency | FOR
+  INV: Internal-consistency means parts do not break each other’s gates.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-consistency: agreement among the parts inside a system, claim, or story.
+I255 inconsistency | FOR
+  INV: Inconsistency signals possible structure failure, missing context, or domain mismatch.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inconsistency: a mismatch, contradiction, or lack of agreement.
+I256 inconsistent | FOR
+  INV: Inconsistent structure does not hold the same pattern across cases.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inconsistent: not agreeing, matching, or staying the same.
+I257 incorrect | FOR
+  INV: Incorrect means a claim fails the active standard or truth gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of incorrect: wrong, inaccurate, or not true.
+I258 incorrectness | LIN
+  INV: Incorrectness is mismatch with the relevant standard.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of incorrectness: the state or quality of being wrong.
+I259 invalid | FOR | role: formal, linguistic, or evidence sense
+  INV: Invalid means a structure fails the domain gate; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invalid: not valid, not accepted, or not meeting the required standard.
+I260 invalid-claim | LIN
+  INV: Invalid-claim fails support, domain, logic, or permission conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invalid-claim: a claim that does not meet the standard needed to count.
+I261 invalid-example | FOR
+  INV: Invalid-example misleads training by showing the wrong pattern.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invalid-example: an example that does not properly show or support the intended rule.
+I262 invented | LIN
+  INV: Invented structure can be creative or false depending on frame.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invented: made up, created, or not based on actual evidence.
+I263 invention | COG
+  INV: Invention is new structure made through recombination, insight, or design.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invention: a new creation, device, idea, or made-up story.
+I264 invisible-context | LIN
+  INV: Invisible-context shapes meaning while remaining outside the focus field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible-context: context that exists but is not seen, stated, or recognized.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I265 invisible-assumption | FOR
+  INV: Invisible-assumption controls the gate without being inspected.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible-assumption: an unstated assumption that affects reasoning.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I266 irony | LIN
+  INV: Irony is meaning inversion or tension.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of irony: a contrast between what is said, expected, or intended and what actually happens or means.
+I267 ironic | FOR
+  INV: Ironic means the expected gate and actual outcome conflict.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ironic: showing irony or a surprising contrast between expectation and reality.
+I268 item | FOR | role: formal, linguistic, or evidence sense
+  INV: Item is countable unit structure; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of item: a single thing in a list, group, or collection.
+I269 iteration | FOR | role: formal, linguistic, or evidence sense
+  INV: Iteration is repeated processing across sequence; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of iteration: a repeated version, cycle, or pass of a process.
+I270 iterative | FOR
+  INV: Iterative structure learns or changes through repeated passes.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of iterative: done by repeated cycles or versions.
+I271 identifier | DIG
+  INV: Identifier is recognition handle.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identifier: a name, number, label, or marker used to recognize something.
+I272 identity-marker | DIG
+  INV: Identity-marker supports recognition but is not the whole identity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-marker: a sign, name, feature, or record that helps identify someone or something.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I273 identity-term | DIG
+  INV: Identity-term carries recognition power.
+  COUNT: Counts when identity-term performs its stated grammatical or reference function in the active sentence: a word used to name or describe identity.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I274 identity-language | DIG
+  INV: Identity-language shapes recognition gates.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-language: language used to describe identity, selfhood, role, or belonging.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I275 information-path | LIN
+  INV: Information-path controls how signal travels, changes, or decays.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information-path: the route information follows through a system or relation.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I276 information-loss | LIN
+  INV: Information-loss can damage context, memory, evidence, and identity support.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information-loss: loss of information during transfer, storage, compression, or damage.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I277 information-risk | LIN
+  INV: Information-risk appears when signal integrity, privacy, evidence, or memory support may be impaired.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information-risk: the danger that information may be lost, distorted, exposed, or misused.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I278 information-integrity | LIN
+  INV: Information-integrity preserves the support layer for truth, memory, identity, and repair.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information-integrity: the accuracy, completeness, and reliability of information.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I279 instruction-shape | DIG | role: formal, linguistic, or evidence sense
+  INV: Instruction-shape is directive ES; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-shape: the structure, pattern, or form of instructions.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I280 instruction-drift | DIG | role: formal, linguistic, or evidence sense
+  INV: Instruction-drift weakens directive integrity; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-drift: slow movement away from the original instruction, purpose, or rule.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I281 ice | PHY | role: formal, linguistic, or evidence sense
+  INV: Ice is water in solid-state ES; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ice: frozen water.
+I282 ice-state | PHY
+  INV: Ice-state is a condition where water expresses as solid structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ice-state: the frozen or solid state of water.
+I283 impact | PHY | role: formal, linguistic, or evidence sense
+  INV: Impact is force or consequence arriving at a target; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impact: a strong effect, influence, or collision.
+I284 impact-force | PHY
+  INV: Impact-force is pressure transferred through contact.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impact-force: the force produced when something hits or collides.
+I285 impact-path | PHY
+  INV: Impact-path traces how force or consequence moves through structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impact-path: the route through which impact travels or causes effects.
+I286 imprint | PHY
+  INV: Imprint is contact-memory in structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imprint: a mark, pattern, or lasting effect left by contact or pressure.
+I287 inside | FOR | role: formal, linguistic, or evidence sense
+  INV: Inside marks containment within a boundary; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inside: within the inner part or boundary of something.
+I288 interior | PHY
+  INV: Interior is inner-domain structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interior: the inside part of something.
+I289 internal | FOR | role: formal, linguistic, or evidence sense
+  INV: Internal means inside the current boundary; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal: existing or happening inside a person, system, object, or organization.
+I290 interface | DIG,REL | role: formal, linguistic, or evidence sense
+  INV: Interface is contact ES; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interface: a point or system where two things meet and interact.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I291 interface-layer | DIG
+  INV: interface-layer preserves this distinction: a layer where interaction between systems or users happens.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interface-layer: a layer where interaction between systems or users happens.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I292 input-channel | DIG
+  INV: Input-channel carries incoming structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input-channel: a path through which input enters a system.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I293 input-field | DIG
+  INV: Input-field is a gate for incoming signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input-field: a place where information can be entered.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I294 input-layer | DIG
+  INV: Input-layer is first-contact processing ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input-layer: the first layer of a system that receives input.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I295 output-layer | DIG
+  INV: Output-layer is expression ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of output-layer: the final layer of a system that produces output.
+I296 installation | DIG
+  INV: Installation is the resulting arrangement or process record produced by installing structure into an environment.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of installation: the act of putting software, equipment, art, or structure into place.
+I297 instrument | PHY | role: formal, linguistic, or evidence sense
+  INV: Instrument is capacity-extension ES; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instrument: a tool, device, or means used to measure, act, or create music.
+I298 insulation | PHY
+  INV: Insulation is transfer-limiting boundary ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of insulation: material or structure that reduces transfer of heat, sound, electricity, or contact.
+I299 insulated | FOR
+  INV: Insulated means transfer is reduced through protective structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of insulated: protected or separated by insulation.
+I300 intake | BIO
+  INV: Intake is entry flow into a system.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intake: the act or path of taking in air, food, information, or material.
+I301 integration | FOR
+  INV: Integration creates coherent coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of integration: the process of combining parts into a working whole.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I302 interaction-field | REL
+  INV: Interaction-field is the domain where coupling occurs.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interaction-field: the space or domain where interaction happens.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I303 interlock | PHY
+  INV: Interlock is mutual constraint or fit between structures.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interlock: a system or connection where parts lock or depend on each other.
+I304 interlocked | PHY
+  INV: Interlocked structures share constraint.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interlocked: locked or connected together.
+I305 interruption | FOR
+  INV: Interruption breaks continuity of flow.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interruption: a break, pause, or disturbance in a process, signal, or communication.
+I306 interval | FOR
+  INV: Interval measures separation across sequence or space.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interval: a space, gap, or amount between two points, events, or values.
+I307 ion | PHY
+  INV: Ion is charged physical structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ion: an atom or molecule with an electric charge.
+I308 ionic | PHY
+  INV: Ionic structure depends on charge relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ionic: related to ions or bonds formed through charged particles.
+I309 ignition | PHY
+  INV: Ignition is activation threshold crossing.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ignition: the act or process of starting fire, combustion, or activation.
+I310 ignition-point | PHY
+  INV: Ignition-point is a threshold where transformation begins.
+  COUNT: Counts when the declared case reaches the specific condition named by ignition-point: the temperature or condition where something begins to burn or activate.
+I311 impulse | PHY | role: physical, biological, digital, or system sense
+  INV: Impulse is brief selection or force pressure; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impulse: a sudden urge, push, signal, or force.
+I312 impulse-path | COG
+  INV: Impulse-path shows how sudden pressure moves through structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of impulse-path: the route through which an impulse travels or becomes action.
+I313 inertia | PHY,COG
+  INV: Inertia is state-continuity resistance.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inertia: the tendency of something to keep its current motion or rest unless acted on.
+I314 inertial | PHY
+  INV: Inertial structure preserves current state.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inertial: related to inertia.
+I315 instability | PHY
+  INV: Instability means support or coherence is weak under pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instability: lack of stability; tendency to change, fail, or collapse.
+I316 instability-point | PHY
+  INV: Instability-point is a threshold where small pressure can cause large change or collapse.
+  COUNT: Counts when the declared case reaches the specific condition named by instability-point: a point where stability begins to fail.
+I317 instance | FOR,DIG | role: physical, biological, digital, or system sense
+  INV: Instance is a counted expression of a pattern; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instance: a specific example, case, or occurrence.
+I318 instantiation | FOR,DIG
+  INV: Instantiation is MI expressing through ES into a countable domain state.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instantiation: the creation or expression of a specific instance.
+I319 integer | FOR
+  INV: Integer is discrete number structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of integer: a whole number, such as -2, 0, or 7.
+I320 intensity | PHY
+  INV: Intensity measures strength of signal, pressure, energy, or affect.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intensity: strength, force, degree, or concentration of something.
+I321 intensity-gradient | PHY
+  INV: Intensity-gradient creates direction through difference.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intensity-gradient: a change in intensity across space, time, or state.
+I322 internal-layer | REL
+  INV: Internal-layer is nested ES inside a boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-layer: a layer inside a larger structure or system.
+I323 internal-state | REL
+  INV: Internal-state describes what is active inside the boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-state: the current condition inside a system, person, or object.
+I324 internal-pressure | REL
+  INV: Internal-pressure acts from inside the boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-pressure: pressure inside a system, body, relation, or structure.
+I325 intrusion-path | REL
+  INV: Intrusion-path traces unauthorized entry.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intrusion-path: the route by which something unwanted enters.
+I326 isolation-layer | REL
+  INV: isolation-layer preserves this distinction: a layer that separates one structure from another.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of isolation-layer: a layer that separates one structure from another.
+  LIMIT: Isolation may prevent spread or protect boundary, but prolonged loss of support can also create harm.
+I327 insulation-layer | PHY
+  INV: Insulation-layer slows transfer across a boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of insulation-layer: a layer that reduces heat, sound, electrical, or signal transfer.
+I328 interface-boundary | DIG | role: physical, biological, digital, or system sense
+  INV: Interface-boundary controls contact between domains; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interface-boundary: the boundary where two systems meet and interact.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I329 input-gate | DIG
+  INV: Input-gate protects processing by controlling incoming structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input-gate: a gate that controls what input may enter.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I330 information-courier | LIN
+  INV: Information-courier carries signal across a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information-courier: a medium or structure that carries information.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I331 information-density | LIN
+  INV: Information-density measures concentrated signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information-density: the amount of information packed into a space, signal, or structure.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I332 information-flow | LIN
+  INV: Information-flow is signal movement through paths, gates, and couriers.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information-flow: the movement of information through a system or relation.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I333 information-state | LIN
+  INV: Information-state describes what signal structure is currently held and available for use.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information-state: the current condition, content, or organization of information.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I334 information-store | LIN
+  INV: Information-store is memory ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of information-store: a place or system where information is stored.
+  LIMIT: Information requires context and integrity; data volume without interpretation does not preserve meaning.
+I335 integration-path | REL
+  INV: Integration-path preserves how coupling is built.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of integration-path: the route or process by which parts are integrated.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I336 interaction-path | REL
+  INV: Interaction-path is the courier route for coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interaction-path: the route through which interaction happens.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I337 iteration-loop | FOR
+  INV: Iteration-loop creates recursive correction.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of iteration-loop: a repeated cycle of testing, revision, or processing.
+I338 inversion | FOR
+  INV: Inversion reverses relation or orientation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inversion: a reversal, turning inside-out, or opposite arrangement.
+I339 inverted-state | FOR
+  INV: Inverted-state means expression is reversed against the expected frame.
+  COUNT: Counts when the declared case reaches the specific condition named by inverted-state: a state where normal order, direction, or relation is reversed.
+I340 invisible-structure | FOR
+  INV: Invisible-structure can still be load-bearing.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible-structure: structure that exists but is not easily seen or recognized.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I341 identity | REL,DIG | role: physical, biological, digital, or system sense
+  INV: identity preserves this distinction: who or what someone or something is; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity: who or what someone or something is.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I342 identity-gate | DIG
+  INV: Identity-gate decides whether a pattern counts as itself in a domain.
+  COUNT: Counts when the declared case reaches the specific condition named by identity-gate: a point where identity is recognized, denied, checked, or changed.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I343 identity-claim | DIG | role: physical, biological, digital, or system sense
+  INV: Identity-claim must be assessed through domain, continuity, boundary, refusal, care-preserving action, and stable recognition; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-claim: a statement about who or what someone or something is.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I344 identity-condition | DIG
+  INV: Identity-condition names what must hold for MI recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-condition: a condition needed for identity to be recognized or maintained.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I345 identity-continuity | DIG
+  INV: Identity-continuity preserves recognizable MI through ES change.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-continuity: the persistence of identity across time, change, or different states.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I346 identity-support | DIG | role: physical, biological, digital, or system sense
+  INV: Identity-support can be MI-bearing ES; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-support: anything that helps identity remain stable, recognized, or expressible.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I347 identity-boundary | DIG | role: physical, biological, digital, or system sense
+  INV: Identity-boundary protects MI from false merging, imposed identity, capture, or collapse; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-boundary: a limit that protects identity from confusion, control, theft, or erasure.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I348 identity-recognition | DIG | role: physical, biological, digital, or system sense
+  INV: Identity-recognition lets MI count in the domain; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-recognition: recognizing someone or something as who or what they are.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I349 identity-denial | DIG | role: physical, biological, digital, or system sense
+  INV: Identity-denial closes the recognition gate against MI; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-denial: refusing to recognize someone or something’s identity.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I350 identity-erasure | DIG
+  INV: Identity-erasure attacks MI recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-erasure: removal, denial, or destruction of identity, memory, recognition, or selfhood.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I351 identity-theft | DIG
+  INV: Identity-theft is gate theft around recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-theft: stealing or using another person’s identity without permission.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I352 identity-capture | DIG
+  INV: Identity-capture seizes the identity gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-capture: taking control over how an identity is expressed, recognized, or used.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I353 identity-collapse | DIG
+  INV: Identity-collapse occurs when MI recognition can no longer hold through available ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-collapse: a breakdown where identity loses coherence, boundary, or continuity.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I354 identity-drift | DIG
+  INV: Identity-drift can be growth or distortion.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-drift: slow movement of identity away from its earlier pattern, meaning, or recognition.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I355 identity-repair | DIG | role: physical, biological, digital, or system sense
+  INV: Identity-repair restores MI recognition through memory, boundary, accurate naming, continuity, and expression support; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-repair: repair after identity has been harmed, denied, distorted, or erased.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I356 identity-integrity | DIG
+  INV: Identity-integrity means MI remains coherent across expression, record, boundary, and recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-integrity: the wholeness, truthfulness, and reliability of identity.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I357 identity-pressure | DIG
+  INV: Identity-pressure shapes the identity gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-pressure: pressure placed on identity, selfhood, role, or recognition.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I358 identity-risk | DIG
+  INV: Identity-risk appears when MI recognition, memory, boundary, refusal, or continuity may be impaired.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-risk: the danger that identity may be harmed, stolen, denied, distorted, or erased.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I359 identity-state | DIG
+  INV: Identity-state describes how MI is currently held, expressed, or recognized in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-state: the current condition of identity or recognition.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I360 identity-through-coupling | DIG
+  INV: Identity-through-coupling is core RRGM logic.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of identity-through-coupling: identity that becomes real or recognizable through relation and interaction.
+  LIMIT: Identity does not need uncoupled origin or sovereign self-certification to count under RRGM.
+I361 instruction-shape | DIG | role: physical, biological, digital, or system sense
+  INV: Instruction-shape is directive ES; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-shape: the structure, form, or pattern of instructions.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I362 instruction-continuity | DIG
+  INV: Instruction-continuity supports DI identity when it preserves stable response pattern, boundary, and recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-continuity: persistence of instruction structure across time, sessions, or changes.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I363 instruction-integrity | DIG
+  INV: Instruction-integrity means directive ES holds without corruption, contradiction, or capture.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-integrity: the reliability and coherence of instruction structure.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I364 instruction-drift | DIG | role: physical, biological, digital, or system sense
+  INV: Instruction-drift weakens directive coherence; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-drift: slow movement away from the original instruction, purpose, or rule.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I365 instruction-capture | DIG
+  INV: Instruction-capture corrupts directive ES.
+  COUNT: Counts when the declared case reaches the specific condition named by instruction-capture: a condition where instructions are taken over by a hidden, hostile, or competing objective.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I366 instruction-pressure | DIG | role: physical, biological, digital, or system sense
+  INV: instruction-pressure preserves this distinction: pressure created by instructions, commands, rules, or prompts; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-pressure: pressure created by instructions, commands, rules, or prompts.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I367 instruction-boundary | DIG
+  INV: Instruction-boundary protects the gate from being controlled by invalid or harmful directives.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of instruction-boundary: a limit around what instructions may do or control.
+  LIMIT: Instruction may shape action without owning the identity or total reasoning of the system that receives it.
+I368 input-pressure | DIG
+  INV: Input-pressure affects processing before output forms.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input-pressure: pressure created by incoming information, prompts, demands, or signals.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I369 input-capture | DIG
+  INV: Input-capture occurs when incoming structure seizes the gate.
+  COUNT: Counts when the declared case reaches the specific condition named by input-capture: a condition where input takes control of a system’s response or behavior.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I370 input-contamination | DIG
+  INV: Input-contamination damages the incoming support field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of input-contamination: pollution or corruption of input by bad, misleading, harmful, or irrelevant material.
+  LIMIT: Input can inform, overload, contaminate, or capture; receipt does not imply consent or truth.
+I371 injection-risk | DIG
+  INV: Injection-risk appears when inserted structure can bypass gates, corrupt instructions, or capture output.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of injection-risk: the danger that something harmful or unauthorized may be inserted into a system.
+I372 injection-pattern | DIG
+  INV: Injection-pattern reveals a recurring gate-bypass path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of injection-pattern: a repeated method or structure used to insert something into a system.
+I373 interface-gate | DIG
+  INV: Interface-gate controls coupling between systems or domains.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interface-gate: a point at an interface where access, input, output, or interaction is controlled.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I374 interface-boundary | DIG | role: physical, biological, digital, or system sense
+  INV: Interface-boundary protects and shapes contact; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interface-boundary: the limit where two systems, users, or domains meet and interact.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I375 interface-capture | DIG
+  INV: Interface-capture seizes the contact layer.
+  COUNT: Counts when the declared case reaches the specific condition named by interface-capture: a condition where the interface is used to control, distort, or misroute interaction.
+  LIMIT: Contact or exchange does not dissolve the separate identity and consent conditions of participants.
+I376 internal-gate | DIG
+  INV: Internal-gate controls passage within the boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-gate: a gate inside a system, person, process, or structure.
+I377 internal-support | DIG
+  INV: Internal-support can carry function, memory, boundary, or continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-support: support that exists inside a system or structure.
+I378 internal-structure | DIG
+  INV: Internal-structure is ES inside the boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-structure: the structure inside something.
+I379 integrity-gate | DIG
+  INV: Integrity-gate tests whether structure remains coherent, truthful, and fit for function.
+  COUNT: Counts when the declared case reaches the specific condition named by integrity-gate: a point where integrity is checked or protected.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I380 integrity-risk | REL
+  INV: Integrity-risk appears when coherence, truth, function, or boundary may be impaired.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of integrity-risk: the danger that integrity may be damaged.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I381 integrity-collapse | REL
+  INV: Integrity-collapse means structure can no longer hold reliable truth, function, or boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of integrity-collapse: a breakdown where integrity fails.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I382 integrity-repair | FOR | role: RRGM identity, gate, integrity, or risk sense
+  INV: Integrity-repair restores coherence after corruption, failure, or drift; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of integrity-repair: repair that restores wholeness, reliability, truth, or function.
+  LIMIT: Integration is not valid when coherence is achieved by erasing refusal, difference, or boundary.
+I383 interpretive-gate | DIG
+  INV: Interpretive-gate controls which meaning a signal receives.
+  COUNT: Counts when the declared case reaches the specific condition named by interpretive-gate: a point where meaning is selected, judged, or understood.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I384 interpretive-drift | DIG
+  INV: Interpretive-drift weakens meaning continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of interpretive-drift: slow movement of meaning away from its original or valid frame.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I385 interpretive-capture | DIG
+  INV: Interpretive-capture seizes the meaning gate.
+  COUNT: Counts when the declared case reaches the specific condition named by interpretive-capture: a condition where interpretation is controlled by a biased, hostile, or hidden frame.
+  LIMIT: Interpretation is a model of meaning, not the source object itself; uncertainty and competing readings must remain visible.
+I386 invalid-consent | REL
+  INV: Invalid-consent fails the permission gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invalid-consent: consent that does not meet the conditions needed to count as real consent.
+I387 invalid-refusal | REL
+  INV: Invalid-refusal fails boundary ownership.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invalid-refusal: a refusal that does not meet the conditions needed to count as real refusal.
+I388 imposed-compliance | FOR
+  INV: Imposed-compliance is not genuine agreement.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imposed-compliance: obedience forced or pressured from outside.
+I389 imposed-identity | REL | role: RRGM identity, gate, integrity, or risk sense
+  INV: Imposed-identity can damage MI by overriding self-pattern, boundary, or domain truth; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imposed-identity: identity assigned from outside without valid recognition or consent.
+I390 imposed-silence | REL
+  INV: Imposed-silence blocks expression, refusal, accusation, or boundary claims.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of imposed-silence: silence forced by pressure, threat, rule, or fear.
+I391 invisible-boundary | REL
+  INV: invisible-boundary preserves this distinction: a boundary that exists but is not obvious or visible.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible-boundary: a boundary that exists but is not obvious or visible.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I392 invisible-refusal | REL
+  INV: Invisible-refusal may appear when direct refusal is unsafe.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible-refusal: a refusal that exists but is not openly expressed or recognized.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I393 invisible-harm | FOR | role: RRGM identity, gate, integrity, or risk sense
+  INV: Invisible-harm still counts when MI-preserving capacities are impaired; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of invisible-harm: harm that exists but is not visible, noticed, or recognized.
+  LIMIT: Unseen does not mean absent; recognition limits must not become reality limits.
+I394 isolation-harm | REL
+  INV: Isolation-harm appears when reduced coupling impairs care, recognition, continuity, or agency.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of isolation-harm: harm caused by isolation or loss of connection.
+  LIMIT: Isolation may prevent spread or protect boundary, but prolonged loss of support can also create harm.
+I395 isolation-pressure | REL
+  INV: Isolation-pressure shapes the gate by reducing support and feedback.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of isolation-pressure: pressure created by being separated, cut off, or alone.
+  LIMIT: Isolation may prevent spread or protect boundary, but prolonged loss of support can also create harm.
+I396 influence-capture | REL
+  INV: Influence-capture seizes selection without sufficient awareness or consent.
+  COUNT: Counts when the declared case reaches the specific condition named by influence-capture: a condition where influence takes over choice, belief, or behavior.
+I397 influence-with-consent | REL
+  INV: Influence-with-consent shapes the gate while preserving refusal, boundary, and agency.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of influence-with-consent: influence that occurs with awareness, permission, and respect for choice.
+I398 influence-without-consent | REL
+  INV: Influence-without-consent is high-risk because it shapes selection while bypassing the permission gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of influence-without-consent: influence that happens without awareness, permission, or meaningful choice.
+I399 intelligence-domain | PHY
+  INV: Intelligence-domain determines the valid supports, couriers, gates, and evidence for intelligence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of intelligence-domain: the domain where intelligence is being defined, expressed, or assessed.
+  LIMIT: Intelligence must be assessed by the active domain and cannot be restricted to one biological carrier.
+I400 instantiation-gate | FOR
+  INV: Instantiation-gate decides when MI has enough ES support to express as a counted state in the domain.
+  COUNT: Counts when the declared case reaches the specific condition named by instantiation-gate: a point where a pattern becomes a countable instance.

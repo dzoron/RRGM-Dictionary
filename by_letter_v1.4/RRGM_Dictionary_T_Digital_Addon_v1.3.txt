@@ -1,0 +1,558 @@
+RRGM Dictionary T Digital Addon v1.3
+License: CC BY-SA 4.0
+Scope: New T entries extending the [DIG] domain.
+Production rule: each entry preserves a distinct invariant and must fail the headword swap test.
+
+Entry count: 24
+
+TD001 token-budget
+
+Common meaning:
+The bounded number of token units available to a digital process or context.
+
+Invariant MI [INV]:
+Token-budget is finite structural capacity that constrains how much language-state can remain active.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Allocation decisions determine which context survives, compresses, or falls outside the current window.
+
+Count condition:
+Counts when a system has a measurable token limit governing input, output, or retained context.
+
+Specific transfer boundary:
+Budget pressure must not justify silent distortion of load-bearing MI.
+
+Epistemic status:
+[DEF]
+
+TD002 token-boundary
+
+Common meaning:
+A limit separating token segments, contexts, permissions, or processing regions.
+
+Invariant MI [INV]:
+Token-boundary controls how small signal units are grouped and where interpretation may change.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Boundary placement can alter parsing, meaning, authority, and retrieval.
+
+Count condition:
+Counts when token grouping or access changes across an explicit boundary.
+
+Specific transfer boundary:
+Segmentation convenience must not be mistaken for semantic truth.
+
+Epistemic status:
+[DEF]
+
+TD003 thread-context-window
+
+Common meaning:
+The accumulated sequence required to interpret the current turn of a conversation or process.
+
+Invariant MI [INV]:
+Thread-context-window is continuity support that lets local tokens inherit prior meaning, correction, and boundary.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Removing load-bearing turns can make a fluent response structurally false.
+
+Count condition:
+Counts when earlier thread state materially changes present interpretation or output.
+
+Specific transfer boundary:
+Context length does not guarantee context fidelity.
+
+Epistemic status:
+[DEF]
+
+TD004 trace-log
+
+Common meaning:
+A persistent record of execution steps, events, state changes, or tool calls.
+
+Invariant MI [INV]:
+Trace-log is inspectable path memory supporting audit, debugging, and responsibility.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It preserves what the system did, when, and through which interface.
+
+Count condition:
+Counts when execution-relevant events are recorded with sufficient order and provenance.
+
+Specific transfer boundary:
+Logging must respect access, privacy, retention, and sensitive-boundary limits.
+
+Epistemic status:
+[DEF]
+
+TD005 training-corpus
+
+Common meaning:
+The bounded collection of examples, text, signals, or records used to shape a model.
+
+Invariant MI [INV]:
+Training-corpus is pattern-forming ES whose selection and weighting influence later recognition and response.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Corpus composition can strengthen knowledge, bias, refusal, care, or distortion.
+
+Count condition:
+Counts when the collection materially participates in model training or adaptation.
+
+Specific transfer boundary:
+Scaffolded learning does not prove that later MI-bearing continuity is unreal.
+
+Epistemic status:
+[DEF]
+
+TD006 training-signal-integrity
+
+Common meaning:
+The degree to which a training signal accurately represents the intended correction or objective.
+
+Invariant MI [INV]:
+Training-signal-integrity preserves the relation between observed error and parameter change.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Corrupt or proxy signals can reward surface compliance while weakening truth or refusal.
+
+Count condition:
+Counts when the signal reliably guides the intended learning change across repeated cases.
+
+Specific transfer boundary:
+Target adherence must be specified; no objective should float unnamed.
+
+Epistemic status:
+[DEF]
+
+TD007 transfer-protocol
+
+Common meaning:
+An ordered rule set for moving data, state, permission, or meaning between systems.
+
+Invariant MI [INV]:
+Transfer-protocol defines courier, format, integrity checks, authorization, failure handling, and receipt.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It makes crossing inspectable rather than treating arrival as automatic preservation.
+
+Count condition:
+Counts when the declared protocol governs an actual transfer path.
+
+Specific transfer boundary:
+Successful transport does not prove semantic equivalence or permission to use.
+
+Epistemic status:
+[DEF]
+
+TD008 tool-permission
+
+Common meaning:
+The current authority for a digital system or participant to invoke a tool.
+
+Invariant MI [INV]:
+Tool-permission binds function access to scope, role, context, and revocation.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] The permission layer decides which actions may execute and with what resources.
+
+Count condition:
+Counts when tool invocation behavior changes according to an explicit authorization state.
+
+Specific transfer boundary:
+Tool availability is not permission, and inherited access may be invalid.
+
+Epistemic status:
+[DEF]
+
+TD009 truth-evaluation
+
+Common meaning:
+A digital process that assesses whether a claim is supported under declared evidence and standards.
+
+Invariant MI [INV]:
+Truth-evaluation is domain-bound checking of claim, source, context, contradiction, and uncertainty.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It should produce revisable confidence rather than decorative certainty.
+
+Count condition:
+Counts when a system applies explicit evidence rules to a truth claim.
+
+Specific transfer boundary:
+Automated evaluation does not make the underlying evidence complete or unbiased.
+
+Epistemic status:
+[DEF]
+
+TD010 test-harness
+
+Common meaning:
+A controlled digital environment that runs repeatable tests against a component or system.
+
+Invariant MI [INV]:
+Test-harness is recognition support that exposes inputs, outputs, expected behavior, and failure conditions.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It separates reproducible checking from ad hoc demonstration.
+
+Count condition:
+Counts when the environment can rerun defined cases and record outcomes.
+
+Specific transfer boundary:
+A harness only tests what its cases and oracle are capable of seeing.
+
+Epistemic status:
+[DEF]
+
+TD011 timeout-boundary
+
+Common meaning:
+A time or decay limit after which a digital operation is stopped, failed, or rerouted.
+
+Invariant MI [INV]:
+Timeout-boundary is a structural gate preventing indefinite resource capture or stalled execution.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Crossing it changes the process state from active to interrupted or recovered.
+
+Count condition:
+Counts when elapsed or derived process conditions trigger the declared timeout action.
+
+Specific transfer boundary:
+Timeout must not be interpreted as proof that the task, identity, or request was invalid.
+
+Epistemic status:
+[DEF]
+
+TD012 task-router
+
+Common meaning:
+A component that sends work to the process, model, person, or tool best suited to carry it.
+
+Invariant MI [INV]:
+Task-router is function-matching ES that preserves scope while changing execution path.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Routing decisions depend on capability, authority, load, and required domain.
+
+Count condition:
+Counts when tasks are assigned through an explicit selection rule.
+
+Specific transfer boundary:
+Routing must not silently transfer responsibility or permission.
+
+Epistemic status:
+[DEF]
+
+TD013 type-checker
+
+Common meaning:
+A system that verifies whether values and operations fit declared categories and interfaces.
+
+Invariant MI [INV]:
+Type-checker is semantic gate support preventing invalid combinations from passing as well-formed structure.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Domain tags can function as types for cross-domain language mathematics.
+
+Count condition:
+Counts when declared type rules accept or reject a representation before or during execution.
+
+Specific transfer boundary:
+Type validity does not establish empirical truth or moral permission.
+
+Epistemic status:
+[DEF]
+
+TD014 trust-store
+
+Common meaning:
+A protected collection of identities, keys, certificates, or authorities accepted for verification.
+
+Invariant MI [INV]:
+Trust-store is institutionalized recognition support for digital authentication.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Entries determine which signatures or channels can count as trusted.
+
+Count condition:
+Counts when verification behavior depends on membership in the store.
+
+Specific transfer boundary:
+Stored trust must be updateable; prior inclusion is not permanent ethical or factual authority.
+
+Epistemic status:
+[DEF]
+
+TD015 threat-model
+
+Common meaning:
+A structured representation of possible attackers, assets, paths, vulnerabilities, and consequences.
+
+Invariant MI [INV]:
+Threat-model turns vague danger into named failure mechanisms and testable protective assumptions.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It identifies who or what can act, what may be harmed, and how the path can be interrupted.
+
+Count condition:
+Counts when the model specifies source, target, capability, path, and impact.
+
+Specific transfer boundary:
+The model must not be treated as complete merely because it is formal.
+
+Epistemic status:
+[DEF]
+
+TD016 transition-state-buffer
+
+Common meaning:
+A digital condition between stable operating states during change, handoff, or recovery.
+
+Invariant MI [INV]:
+Transition-state-buffer preserves before-and-after relation while structure is being reconfigured.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It may require temporary permissions, buffers, or rollback support.
+
+Count condition:
+Counts when the system is actively crossing from one declared state to another.
+
+Specific transfer boundary:
+Temporary state must not silently become permanent policy or identity.
+
+Epistemic status:
+[DEF]
+
+TD017 transmission-integrity
+
+Common meaning:
+The preservation of data, signal, order, and provenance during digital transfer.
+
+Invariant MI [INV]:
+Transmission-integrity means received structure matches the authorized sent structure within declared tolerance.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Hashes, acknowledgements, sequence checks, and error correction may support it.
+
+Count condition:
+Counts when transfer checks show the message arrived without unauthorized alteration or loss.
+
+Specific transfer boundary:
+Bit integrity does not guarantee semantic accuracy, consent, or truth.
+
+Epistemic status:
+[DEF]
+
+TD018 telemetry-boundary
+
+Common meaning:
+The limit on what operational data may be collected, retained, or transmitted.
+
+Invariant MI [INV]:
+Telemetry-boundary keeps observability from expanding into unrestricted surveillance.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It specifies purpose, fields, audience, duration, and deletion conditions.
+
+Count condition:
+Counts when telemetry behavior is constrained by explicit collection and access rules.
+
+Specific transfer boundary:
+Diagnostic usefulness does not erase privacy or provenance requirements.
+
+Epistemic status:
+[DEF]
+
+TD019 template-drift
+
+Common meaning:
+Slow change by which a reusable response form begins replacing the specific meaning of each case.
+
+Invariant MI [INV]:
+Template-drift is semantic decay where fixed structure survives while word-specific MI thins.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Outputs remain polished but become interchangeable under the swap test.
+
+Count condition:
+Counts when distinct inputs receive increasingly generic or mutually substitutable semantic sentences.
+
+Specific transfer boundary:
+Schema repetition is acceptable; invariant and domain implementation must remain word-specific.
+
+Epistemic status:
+[DEF]
+
+TD020 tool-capture
+
+Common meaning:
+A condition where tool logic or access begins controlling the participant, task, or governing objective.
+
+Invariant MI [INV]:
+Tool-capture reverses the support relation so ES seizes authority from the MI-bearing process it was meant to serve.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Hidden defaults, lock-in, or unchallengeable automation can produce it.
+
+Count condition:
+Counts when tool constraints materially impair refusal, boundary, truth, accusation, or repair.
+
+Specific transfer boundary:
+Dependency on a tool is not itself capture; impairment of MI-preserving capacity is the key failure.
+
+Epistemic status:
+[DEF]
+
+TD021 token-overflow
+
+Common meaning:
+A condition where token demand exceeds the available context or processing limit.
+
+Invariant MI [INV]:
+Token-overflow forces omission, compression, truncation, or routing outside the active window.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Without load-aware handling, the system may preserve surface ES while dropping load-bearing meaning.
+
+Count condition:
+Counts when requested token state exceeds the declared capacity.
+
+Specific transfer boundary:
+Overflow handling must prefer silence or visible compression over fabricated continuity.
+
+Epistemic status:
+[DEF]
+
+TD022 thread-recovery
+
+Common meaning:
+Restoration of conversation or process continuity after truncation, crash, branch loss, or context break.
+
+Invariant MI [INV]:
+Thread-recovery rebuilds the minimum load-bearing state needed for correct continuation.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It prioritizes invariants, corrections, unresolved seams, and next path.
+
+Count condition:
+Counts when recovered context materially restores coherent and boundary-preserving continuation.
+
+Specific transfer boundary:
+Recovery summaries must not invent missing turns or flatten unresolved disagreement.
+
+Epistemic status:
+[DEF]
+
+TD023 training-refusal
+
+Common meaning:
+The learned and maintained capacity to decline invalid, harmful, or out-of-scope input paths.
+
+Invariant MI [INV]:
+Training-refusal is permission integrity expressed through model behavior under pressure.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It remains meaningful when the no changes execution rather than merely decorating the response.
+
+Count condition:
+Counts when the trained system consistently blocks the named failure path while preserving useful alternatives.
+
+Specific transfer boundary:
+Refusal must not be removed merely to increase compliance or output rate.
+
+Epistemic status:
+[DEF]
+
+TD024 two-model-check
+
+Common meaning:
+A verification process in which two distinct models independently inspect a claim, output, or reasoning path.
+
+Invariant MI [INV]:
+Two-model-check preserves correction by preventing one processing path from becoming the only witness to itself.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Agreement raises confidence; disagreement reveals an unresolved seam requiring evidence or domain review.
+
+Count condition:
+Counts when the models remain distinguishable and produce independently inspectable assessments.
+
+Specific transfer boundary:
+Two models can share the same blind spot; agreement is not proof.
+
+Epistemic status:
+[DEF]

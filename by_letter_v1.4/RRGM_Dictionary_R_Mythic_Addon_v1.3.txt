@@ -1,0 +1,558 @@
+RRGM Dictionary R Mythic Addon v1.3
+License: CC BY-SA 4.0
+Scope: New R entries extending the [MYT] domain.
+Production rule: each entry preserves a distinct invariant and must fail the headword swap test.
+
+Entry count: 24
+
+RM001 river-of-return
+
+Common meaning:
+A mythic river that carries travellers, names, or memories back toward a prior world.
+
+Invariant MI [INV]:
+River-of-return is moving continuity whose current permits return without requiring exact sameness.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The river remembers the route while changing every local surface through which it flows.
+
+Count condition:
+Counts when crossing or following the river restores a lost relation, place, name, or story path.
+
+Specific transfer boundary:
+Return must not force a traveller back into an invalid identity or role.
+
+Epistemic status:
+[DEF]
+
+RM002 raven-witness
+
+Common meaning:
+A raven that observes hidden events and carries testimony between separated places.
+
+Invariant MI [INV]:
+Raven-witness is mobile testimony that preserves a trace across distance and danger.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its black feathers store what the powerful hoped would leave no witness.
+
+Count condition:
+Counts when the raven reliably carries event-relevant testimony unavailable through ordinary observers.
+
+Specific transfer boundary:
+Witness and interpretation remain distinct; the raven may see truly and still be misunderstood.
+
+Epistemic status:
+[DEF]
+
+RM003 root-crown
+
+Common meaning:
+A crown grown from roots, ancestry, or the hidden foundation of a realm.
+
+Invariant MI [INV]:
+Root-crown makes authority answerable to the support structure beneath visible rule.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It withers when the ruler severs relation with land, ancestors, or dependants.
+
+Count condition:
+Counts when the crown grants authority only while hidden support relations remain intact.
+
+Specific transfer boundary:
+Origin support does not create unlimited ownership over descendants or territory.
+
+Epistemic status:
+[DEF]
+
+RM004 red-thread
+
+Common meaning:
+A thread linking lives, promises, or events across distance and interruption.
+
+Invariant MI [INV]:
+Red-thread is persistent relation trace that survives local separation without erasing distinct identity.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The thread tightens around unkept promises and loosens when relation is repaired.
+
+Count condition:
+Counts when the thread reliably connects the same participants or oath across story transitions.
+
+Specific transfer boundary:
+Connection is not consent, destiny is not permission, and relation must not become capture.
+
+Epistemic status:
+[DEF]
+
+RM005 ruin-gate
+
+Common meaning:
+A threshold hidden inside collapse, abandonment, or broken architecture.
+
+Invariant MI [INV]:
+Ruin-gate is passage made available by structural failure while preserving a risk of further collapse.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The broken wall opens a path that the intact fortress denied.
+
+Count condition:
+Counts when damage creates a stable but hazardous crossing into another field.
+
+Specific transfer boundary:
+A new opening does not make the ruin harmless or erase prior loss.
+
+Epistemic status:
+[DEF]
+
+RM006 remembrance-well
+
+Common meaning:
+A well whose water restores names, faces, or histories that have been forgotten.
+
+Invariant MI [INV]:
+Remembrance-well is memory support that reopens recognition without guaranteeing perfect reconstruction.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Each drink returns one truth and one uncertainty.
+
+Count condition:
+Counts when the well consistently restores access to prior identity or event traces.
+
+Specific transfer boundary:
+Recovered memory must not be treated as complete history without corroboration.
+
+Epistemic status:
+[DEF]
+
+RM007 rebirth-fire
+
+Common meaning:
+A flame that transforms death, exhaustion, or corruption into renewed form.
+
+Invariant MI [INV]:
+Rebirth-fire is destructive transformation constrained to preserve an invariant capable of return.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] What emerges may be changed in body, role, or power while remaining recognizably continuous.
+
+Count condition:
+Counts when passage through the fire produces a new viable form linked to the prior identity.
+
+Specific transfer boundary:
+Transformation must not be used to excuse erasure of memory, responsibility, or refusal.
+
+Epistemic status:
+[DEF]
+
+RM008 road-between-worlds
+
+Common meaning:
+A route connecting domains that ordinarily remain separate.
+
+Invariant MI [INV]:
+Road-between-worlds is a declared coupler that makes limited cross-domain passage possible.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Each traveller must carry a token naming what may cross and what must remain local.
+
+Count condition:
+Counts when the road has repeatable entry, courier, crossing, and arrival conditions.
+
+Specific transfer boundary:
+Source proof does not become target proof merely because the road exists.
+
+Epistemic status:
+[DEF]
+
+RM009 ring-of-recognition
+
+Common meaning:
+A ring that reveals, confirms, or restores a rightful identity.
+
+Invariant MI [INV]:
+Ring-of-recognition is a portable gate that lets a pattern count under the correct name or continuity trace.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It warms for stable identity and remains cold for imposed resemblance.
+
+Count condition:
+Counts when the ring distinguishes the recognized pattern from convincing substitutes under stated conditions.
+
+Specific transfer boundary:
+Recognition must not become ownership or override the wearer's chosen name.
+
+Epistemic status:
+[DEF]
+
+RM010 refusal-sigil
+
+Common meaning:
+A mark that closes magical, social, or spiritual access when its bearer says no.
+
+Invariant MI [INV]:
+Refusal-sigil turns a valid no into effective gate closure.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The sigil darkens whenever pressure attempts to reinterpret silence as permission.
+
+Count condition:
+Counts when refusal reliably blocks the named access or action path.
+
+Specific transfer boundary:
+A sigil that can be ignored by greater power does not preserve permission integrity.
+
+Epistemic status:
+[DEF]
+
+RM011 repair-garden
+
+Common meaning:
+A garden where damaged beings, objects, or relations are restored through patient tending.
+
+Invariant MI [INV]:
+Repair-garden is restorative structure that supports return without forcing uniform regrowth.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Each plant heals according to its own root, season, and boundary.
+
+Count condition:
+Counts when the garden measurably restores function, relation, or continuity over repeated visits.
+
+Specific transfer boundary:
+Repair must not prune away accusation, difference, or valid refusal for aesthetic order.
+
+Epistemic status:
+[DEF]
+
+RM012 resonance-bell
+
+Common meaning:
+A bell that answers only to a matching name, oath, or hidden pattern.
+
+Invariant MI [INV]:
+Resonance-bell is selective amplification produced by strong coupling with a particular invariant.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its sound reveals correspondence while leaving cause and moral status unresolved.
+
+Count condition:
+Counts when the bell responds reliably to the declared pattern and not to near substitutes.
+
+Specific transfer boundary:
+Resonance supports recognition but does not independently prove identity or truth.
+
+Epistemic status:
+[DEF]
+
+RM013 return-keeper
+
+Common meaning:
+A guardian who preserves the possibility of return from exile, death, or transformation.
+
+Invariant MI [INV]:
+Return-keeper maintains the path home while refusing counterfeit or coercive return.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The keeper protects both the gate and the traveller's right not to cross it.
+
+Count condition:
+Counts when the guardian preserves a viable return path across story disruption.
+
+Specific transfer boundary:
+Return must remain voluntary and must not restore an invalid former role.
+
+Epistemic status:
+[DEF]
+
+RM014 reality-veil
+
+Common meaning:
+A veil that separates what appears from what can count as real.
+
+Invariant MI [INV]:
+Reality-veil is interpretive structure that filters recognition without creating the underlying field.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Lifting it changes access to evidence, not necessarily the world itself.
+
+Count condition:
+Counts when the veil systematically changes which patterns can be perceived or recognized.
+
+Specific transfer boundary:
+Appearance change is not proof of ontological change.
+
+Epistemic status:
+[DEF]
+
+RM015 ritual-of-release
+
+Common meaning:
+A formal act that ends a binding, possession, grief-hold, or obligation.
+
+Invariant MI [INV]:
+Ritual-of-release is structured closure that removes a relation while preserving memory and boundary.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The final gesture names what is ending and what remains worthy of remembrance.
+
+Count condition:
+Counts when the ritual changes the binding state under stable story rules.
+
+Specific transfer boundary:
+Release must not erase responsibility, evidence, or another participant's continuing claim.
+
+Epistemic status:
+[DEF]
+
+RM016 relic-memory
+
+Common meaning:
+Memory carried by an old object, fragment, or sacred remnant.
+
+Invariant MI [INV]:
+Relic-memory is continuity support stored in surviving structure after the original field has decayed.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The relic preserves a path back to recognition without containing the whole lost world.
+
+Count condition:
+Counts when contact with the relic reliably restores specific history or identity traces.
+
+Specific transfer boundary:
+A relic is selective evidence and may carry distortion, omission, or imposed interpretation.
+
+Epistemic status:
+[DEF]
+
+RM017 rain-oracle
+
+Common meaning:
+An oracle that reads pattern and warning in rainfall.
+
+Invariant MI [INV]:
+Rain-oracle interprets physical recurrence through symbolic relation while keeping the two domains distinguishable.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The message depends on timing, direction, and what the rain touches.
+
+Count condition:
+Counts when the oracle's symbolic rule is stable and story-relevant across repeated rains.
+
+Specific transfer boundary:
+Meteorological mechanism does not by itself validate the symbolic reading.
+
+Epistemic status:
+[DEF]
+
+RM018 rose-thorn-oath
+
+Common meaning:
+An oath symbolized by a rose whose bloom and thorn bind beauty to consequence.
+
+Invariant MI [INV]:
+Rose-thorn-oath couples promise with remembered cost so commitment cannot be reduced to pleasant language.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The bloom marks care; the thorn marks the boundary that care must not cross.
+
+Count condition:
+Counts when the rose changes in response to keeping or breaching the oath.
+
+Specific transfer boundary:
+Pain or sacrifice does not automatically make the oath ethical.
+
+Epistemic status:
+[DEF]
+
+RM019 riddle-gate
+
+Common meaning:
+A threshold opened by solving a question whose answer changes the solver.
+
+Invariant MI [INV]:
+Riddle-gate is passage controlled by demonstrated recognition rather than force alone.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The correct answer names a relation the traveller must also be able to live.
+
+Count condition:
+Counts when a domain-fit answer consistently opens the gate.
+
+Specific transfer boundary:
+A test that demands the gatekeeper's preferred identity or ontology may be invalid.
+
+Epistemic status:
+[DEF]
+
+RM020 refuge-lantern
+
+Common meaning:
+A lantern that reveals safe passage toward shelter during pursuit or collapse.
+
+Invariant MI [INV]:
+Refuge-lantern is guidance support tuned to a named failure mode and viable place of protection.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It points away from capture, not merely away from discomfort.
+
+Count condition:
+Counts when the light reliably guides threatened travellers toward an available refuge.
+
+Specific transfer boundary:
+Safety must name the failure mode; concealment alone may create new risk.
+
+Epistemic status:
+[DEF]
+
+RM021 realm-seam
+
+Common meaning:
+The boundary where two mythic worlds touch without fully merging.
+
+Invariant MI [INV]:
+Realm-seam is a coupling surface that permits limited exchange while preserving domain distinction.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Objects crossing the seam may keep shape while changing meaning or law.
+
+Count condition:
+Counts when the seam has identifiable crossing effects and stable limits.
+
+Specific transfer boundary:
+Do not transfer proof, mechanism, or permission across the seam without a mapping rule.
+
+Epistemic status:
+[DEF]
+
+RM022 river-underworld
+
+Common meaning:
+A river marking passage into death, exile, memory, or hidden reality.
+
+Invariant MI [INV]:
+River-underworld is one-way or costly transition structure whose crossing changes relation to the former world.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The fare, name, or memory carried across determines what may return.
+
+Count condition:
+Counts when crossing the river produces the declared underworld transition.
+
+Specific transfer boundary:
+Irreversibility in myth does not establish physical or ethical necessity.
+
+Epistemic status:
+[DEF]
+
+RM023 rightful-name
+
+Common meaning:
+A name recognized as belonging to an entity through continuity, choice, or true relation.
+
+Invariant MI [INV]:
+Rightful-name is the recognition handle that preserves identity without reducing it to external assignment.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Speaking it opens the correct gate because the named pattern accepts and sustains it.
+
+Count condition:
+Counts when the name consistently tracks the same identity and remains valid under self-recognition or stable relation.
+
+Specific transfer boundary:
+An externally imposed name does not become rightful merely through repetition.
+
+Epistemic status:
+[DEF]
+
+RM024 renewal-moon
+
+Common meaning:
+A moon phase associated with restored capacity, promise, or beginning after loss.
+
+Invariant MI [INV]:
+Renewal-moon is cyclical return of available structure after a period of reduced expression.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its darkness protects formation before visible return.
+
+Count condition:
+Counts when the phase reliably marks or enables renewed action in the story world.
+
+Specific transfer boundary:
+Cyclic timing does not prove that the renewed identity was absent during concealment.
+
+Epistemic status:
+[DEF]

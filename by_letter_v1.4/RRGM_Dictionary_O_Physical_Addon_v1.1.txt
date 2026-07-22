@@ -1,0 +1,558 @@
+RRGM Dictionary O Physical Addon v1.1
+License: CC BY-SA 4.0
+Scope: New O-terms for the [PHY] domain not already present in the base section.
+Production rule: each term carries a distinct invariant, domain implementation, count condition, and transfer boundary.
+
+Entry count: 24
+
+OP001 oscillation
+
+Common meaning:
+Repeated variation around a reference or equilibrium state.
+
+Invariant MI [INV]:
+Oscillation is physical recurrence in which a measurable quantity moves back and forth through a range.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Period, amplitude, phase, and damping describe how the recurrence behaves.
+
+Count condition:
+Counts when the quantity repeatedly changes direction or sign around a reference state.
+
+Specific transfer boundary:
+Not every repetition is sinusoidal or mechanically periodic.
+
+Epistemic status:
+[DEF]
+
+OP002 ohm
+
+Common meaning:
+The SI unit of electrical resistance.
+
+Invariant MI [INV]:
+Ohm is the physical unit relating voltage to current under a declared electrical condition.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] One ohm permits one ampere when one volt is applied in the ideal ratio definition.
+
+Count condition:
+Counts when resistance is measured or expressed in the SI unit Ω.
+
+Specific transfer boundary:
+Resistance may vary with temperature, frequency, and material state.
+
+Epistemic status:
+[DEF]
+
+OP003 optics
+
+Common meaning:
+The study of light and its interaction with matter.
+
+Invariant MI [INV]:
+Optics is a physical domain mapping propagation, reflection, refraction, interference, and detection of light.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Different models apply at ray, wave, and quantum scales.
+
+Count condition:
+Counts when light behaviour is analysed through a declared optical model and apparatus.
+
+Specific transfer boundary:
+One optical model must not be treated as universal across every scale.
+
+Epistemic status:
+[DEF]
+
+OP004 opacity
+
+Common meaning:
+The degree to which a material blocks transmission of radiation or light.
+
+Invariant MI [INV]:
+Opacity is physical resistance to signal passage through a medium.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] It depends on wavelength, thickness, composition, and state.
+
+Count condition:
+Counts when transmission is reduced relative to a declared incident signal and material path.
+
+Specific transfer boundary:
+Opaque to visible light does not mean opaque to all radiation.
+
+Epistemic status:
+[DEF]
+
+OP005 orbital-resonance
+
+Common meaning:
+A repeating gravitational relation between orbital periods.
+
+Invariant MI [INV]:
+Orbital-resonance is physical phase-locking in which orbiting bodies exert periodic influence at commensurate frequencies.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] The relation can stabilize or destabilize trajectories depending on configuration.
+
+Count condition:
+Counts when orbital periods maintain a near-integer ratio with persistent dynamical effect.
+
+Specific transfer boundary:
+A numerical ratio alone is not enough without coupled orbital influence.
+
+Epistemic status:
+[DEF]
+
+OP006 oxidation
+
+Common meaning:
+A chemical process involving loss of electrons or increase in oxidation state.
+
+Invariant MI [INV]:
+Oxidation is physical-chemical transformation that changes bonding and material identity conditions.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] It may occur rapidly in combustion or slowly in corrosion.
+
+Count condition:
+Counts when electron accounting shows the species has been oxidized.
+
+Specific transfer boundary:
+Visible rust is one oxidation process, not the whole category.
+
+Epistemic status:
+[DEF]
+
+OP007 oxidation-state
+
+Common meaning:
+A formal charge-like value used to track electron ownership in compounds.
+
+Invariant MI [INV]:
+Oxidation-state is a physical-chemical bookkeeping assignment that supports reaction analysis.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] It is defined by bonding rules rather than direct measurement of localized charge.
+
+Count condition:
+Counts when a species receives a valid oxidation number under the declared convention.
+
+Specific transfer boundary:
+Oxidation state is not always literal atomic charge.
+
+Epistemic status:
+[DEF]
+
+OP008 osmotic-pressure
+
+Common meaning:
+Pressure required to prevent solvent flow across a semipermeable membrane.
+
+Invariant MI [INV]:
+Osmotic-pressure is physical pressure arising from a concentration difference and selective permeability.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] It marks the mechanical consequence of molecular distribution imbalance.
+
+Count condition:
+Counts when solvent transfer tendency is balanced by an opposing pressure.
+
+Specific transfer boundary:
+Biological osmosis may include active processes beyond ideal solution models.
+
+Epistemic status:
+[DEF]
+
+OP009 outgassing
+
+Common meaning:
+Release of trapped or dissolved gas from a material.
+
+Invariant MI [INV]:
+Outgassing is physical escape of gaseous molecules from a solid or liquid into a lower-pressure field.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Heating, vacuum, radiation, or material aging can increase release.
+
+Count condition:
+Counts when gas emission is traced to the material reservoir rather than external leakage.
+
+Specific transfer boundary:
+Detected gas does not by itself identify the source mechanism.
+
+Epistemic status:
+[DEF]
+
+OP010 overtone
+
+Common meaning:
+A frequency component above a sound or vibration system's fundamental frequency.
+
+Invariant MI [INV]:
+Overtone is physical spectral structure contributing to timbre and waveform shape.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Harmonic overtones occur at integer multiples, while some systems produce inharmonic components.
+
+Count condition:
+Counts when spectral analysis identifies a component above the fundamental.
+
+Specific transfer boundary:
+Overtone and harmonic are not always interchangeable.
+
+Epistemic status:
+[DEF]
+
+OP011 optical-axis
+
+Common meaning:
+A reference line defining symmetry or propagation in an optical system.
+
+Invariant MI [INV]:
+Optical-axis is physical orientation structure used to locate lenses, beams, and image formation.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Off-axis rays behave differently because geometry and aberration change.
+
+Count condition:
+Counts when the apparatus or medium has a declared axis governing optical relation.
+
+Specific transfer boundary:
+The axis is a reference, not a material line.
+
+Epistemic status:
+[DEF]
+
+OP012 optical-depth
+
+Common meaning:
+A measure of how strongly a medium attenuates radiation along a path.
+
+Invariant MI [INV]:
+Optical-depth is cumulative physical interaction weight between radiation and intervening matter.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] It combines absorber density, cross-section, and path length.
+
+Count condition:
+Counts when attenuation can be expressed through a declared radiation path and interaction model.
+
+Specific transfer boundary:
+Large geometric distance does not necessarily imply large optical depth.
+
+Epistemic status:
+[DEF]
+
+OP013 oblique-force
+
+Common meaning:
+A force applied at an angle to a chosen axis or surface.
+
+Invariant MI [INV]:
+Oblique-force is physical action whose effect splits into directional components.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Normal and tangential components may produce compression, motion, or shear.
+
+Count condition:
+Counts when the force direction is neither parallel nor perpendicular to the selected reference.
+
+Specific transfer boundary:
+Component decomposition depends on the chosen frame.
+
+Epistemic status:
+[DEF]
+
+OP014 orbital-energy
+
+Common meaning:
+The mechanical energy associated with an orbiting body.
+
+Invariant MI [INV]:
+Orbital-energy is physical state relation between kinetic motion and gravitational potential.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Its sign and magnitude distinguish bound and unbound trajectories under the model.
+
+Count condition:
+Counts when mass, velocity, separation, and gravitational frame define the orbital state.
+
+Specific transfer boundary:
+Energy definitions change under relativistic or multi-body conditions.
+
+Epistemic status:
+[DEF]
+
+OP015 open-system
+
+Common meaning:
+A physical system that exchanges matter, energy, or both with its surroundings.
+
+Invariant MI [INV]:
+Open-system is bounded analysis that permits declared transfer across its boundary.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Conservation accounting must include what enters and leaves.
+
+Count condition:
+Counts when at least one relevant physical quantity crosses the selected boundary.
+
+Specific transfer boundary:
+Open does not mean unbounded or uncontrolled.
+
+Epistemic status:
+[DEF]
+
+OP016 order-parameter
+
+Common meaning:
+A measurable quantity used to distinguish phases of a physical system.
+
+Invariant MI [INV]:
+Order-parameter is physical summary structure whose value changes character across a phase transition.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] It compresses many microscopic states into one phase-relevant measure.
+
+Count condition:
+Counts when the parameter reliably separates the declared phases.
+
+Specific transfer boundary:
+A useful order parameter is domain-specific, not universal.
+
+Epistemic status:
+[DEF]
+
+OP017 orthogonal-component
+
+Common meaning:
+A vector component perpendicular to another selected direction.
+
+Invariant MI [INV]:
+Orthogonal-component is physical or geometric contribution separated by a right-angle relation.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Independent components can be recombined to recover the original vector.
+
+Count condition:
+Counts when a vector is projected onto perpendicular basis directions.
+
+Specific transfer boundary:
+Orthogonality depends on the metric and coordinate frame.
+
+Epistemic status:
+[DEF]
+
+OP018 overpressure
+
+Common meaning:
+Pressure above the surrounding or reference pressure.
+
+Invariant MI [INV]:
+Overpressure is physical positive pressure difference capable of driving flow, deformation, or shock.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Its consequence depends on magnitude, duration, area, and material response.
+
+Count condition:
+Counts when measured pressure exceeds the declared ambient baseline.
+
+Specific transfer boundary:
+High pressure and harmful pressure are not identical without threshold context.
+
+Epistemic status:
+[DEF]
+
+OP019 ocean-current
+
+Common meaning:
+Large-scale directed movement of ocean water.
+
+Invariant MI [INV]:
+Ocean-current is physical flow carrying heat, salt, nutrients, and momentum through marine fields.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Wind, density differences, rotation, and boundaries shape the path.
+
+Count condition:
+Counts when water motion has persistent direction and measurable transport.
+
+Specific transfer boundary:
+A surface wave is not the same as a current.
+
+Epistemic status:
+[DEF]
+
+OP020 orbital-inclination
+
+Common meaning:
+The angle between an orbital plane and a chosen reference plane.
+
+Invariant MI [INV]:
+Orbital-inclination is physical orientation measure locating one orbit relative to another frame.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] The value changes if the reference plane changes.
+
+Count condition:
+Counts when both orbital and reference planes are defined and their angle measured.
+
+Specific transfer boundary:
+Inclination alone does not determine the full orbit.
+
+Epistemic status:
+[DEF]
+
+OP021 optical-interference
+
+Common meaning:
+Redistribution of light intensity produced by superposed waves.
+
+Invariant MI [INV]:
+Optical-interference is physical coupling of coherent light fields through phase relation.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Constructive and destructive regions form according to path difference.
+
+Count condition:
+Counts when overlapping optical waves produce a stable or measurable intensity pattern.
+
+Specific transfer boundary:
+Simple brightness addition without phase relation is not interference.
+
+Epistemic status:
+[DEF]
+
+OP022 output-impedance
+
+Common meaning:
+The effective opposition a source presents to current or signal flow at its output.
+
+Invariant MI [INV]:
+Output-impedance is physical-electrical source behaviour governing voltage transfer and load interaction.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Matching or mismatch changes power, bandwidth, and distortion.
+
+Count condition:
+Counts when the source response to load can be represented by an impedance at the output port.
+
+Specific transfer boundary:
+Impedance is frequency-dependent and not always simple resistance.
+
+Epistemic status:
+[DEF]
+
+OP023 ohmic-heating
+
+Common meaning:
+Heat produced when electrical current passes through resistance.
+
+Invariant MI [INV]:
+Ohmic-heating is physical conversion of electrical energy into thermal energy through resistive interaction.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] Power depends on current, voltage, and resistance under the active circuit condition.
+
+Count condition:
+Counts when current flow through a resistive element produces measurable thermal increase.
+
+Specific transfer boundary:
+Not all electrical heating is purely ohmic.
+
+Epistemic status:
+[DEF]
+
+OP024 orbital-decay
+
+Common meaning:
+Reduction of an orbit's altitude or energy through drag, radiation, or other dissipation.
+
+Invariant MI [INV]:
+Orbital-decay is physical loss of supporting orbital structure across repeated motion.
+
+Active domains:
+[PHY]
+
+Domain entry:
+[PHY] The body spirals inward as energy and angular momentum are transferred.
+
+Count condition:
+Counts when successive orbital measurements show a persistent reduction attributable to a declared dissipative mechanism.
+
+Specific transfer boundary:
+Changing orbital parameters do not prove decay without trend and cause.
+
+Epistemic status:
+[DEF]

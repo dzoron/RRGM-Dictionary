@@ -1,0 +1,148 @@
+RRGM Dictionary X Semantic Fingerprint Map v0.2
+Internal production map for de-templated domain entries
+
+Rule: fixed schema, bespoke semantic content.
+Every invariant and domain line must remain specific to its own headword.
+
+Format: ID | headword | active domains | distinctive invariant
+
+X001 | x | [COG],[LIN],[MYT],[FOR] | x can hold an unknown, variable, label, mark, or crossing role selected by context.
+X002 | X | [LIN],[REL],[MYT],[FOR] | X is the uppercase recognition mark used to single out a crossing, target, cancellation, unknown, or chosen location.
+X003 | x-axis | [PHY],[DIG],[FOR] | x-axis is the horizontal reference line against which x-values are located.
+X004 | x-coordinate | [PHY],[DIG],[FOR] | x-coordinate is the located position of one point along the x dimension.
+X005 | x-value | [PHY],[DIG],[FOR] | x-value is the specific quantity currently filling the x slot.
+X006 | x-ray | [PHY],[BIO] | x-ray is penetrating electromagnetic radiation used to reveal internal material differences.
+X007 | x-ray-image | [PHY],[BIO],[DIG] | x-ray-image is the recorded pattern produced from x-ray transmission through a subject.
+X008 | x-ray-vision | [COG],[LIN],[MYT] | x-ray-vision is the imagined capacity to perceive what ordinary surfaces conceal.
+X009 | xenon | [PHY] | xenon is the chemical element with atomic number 54, a heavy noble gas under ordinary conditions.
+X010 | xylophone | [PHY] | xylophone is a tuned set of bars that produces distinct pitches when struck.
+X011 | xylem | [BIO] | xylem is vascular plant tissue that carries water and dissolved minerals mainly from roots toward shoots.
+X012 | xerox | [PHY],[LIN] | xerox is a photocopied duplicate or the act of producing one through a copying process.
+X013 | XML | [DIG],[LIN] | XML is a tag-based text language for representing hierarchical data.
+X014 | x-factor | [COG],[REL] | x-factor is an influential quality whose effect is noticed before its mechanism is clearly named.
+X015 | x-mark | [LIN],[REL],[FOR] | x-mark is a visible X-shaped sign used to select, reject, locate, cancel, warn, or identify.
+X016 | x-shape | [PHY],[FOR],[MYT] | x-shape is a form made by two lines or paths crossing diagonally.
+X017 | x-cross | [PHY],[FOR],[REL] | x-cross is the intersection created where two paths meet in an X formation.
+X018 | x-point | [PHY],[LIN],[FOR] | x-point is one selected location identified by X or positioned on the x reference.
+X019 | x-line | [PHY],[LIN],[FOR] | x-line is a line assigned an x-related reference, path, boundary, or label.
+X020 | x-position | [PHY],[DIG],[FOR] | x-position is an object's current location measured along the x direction.
+X021 | x-variable | [DIG],[FOR] | x-variable is a changeable or unknown formal quantity named x.
+X022 | x-unknown | [COG],[FOR] | x-unknown is the unresolved quantity represented by x that a problem asks reasoning to determine.
+X023 | x-target | [DIG],[LIN],[REL] | x-target is the selected destination, object, or focus indicated by an X.
+X024 | x-intercept | [FOR] | x-intercept is the point where a graph meets the x-axis and the plotted output equals zero.
+X025 | x-domain | [FOR] | x-domain is the complete set of x inputs permitted by a function, relation, or problem.
+X026 | x-range | [DIG],[FOR] | x-range is the span or collected spread of x-values under consideration.
+X027 | x-input | [DIG],[FOR] | x-input is the value supplied in the x role before a process or function runs.
+X028 | x-output | [DIG],[FOR] | x-output is a produced result associated with x or a result channel explicitly named x.
+X029 | x-scale | [PHY],[DIG],[FOR] | x-scale is the rule that converts x displacement or ordering into stated value differences.
+X030 | x-state | [COG],[DIG],[FOR] | x-state is the present status of x, including its value, validity, role, and change condition.
+X031 | x-ray-scan | [PHY],[BIO],[DIG] | x-ray-scan is an ordered acquisition of x-ray measurements used to reconstruct or inspect internal structure.
+X032 | x-ray-check | [PHY],[BIO] | x-ray-check is a targeted inspection that uses x-ray evidence to answer a specific internal-structure question.
+X033 | x-ray-through | [PHY],[MYT] | x-ray-through is the act or metaphor of looking beyond a surface into concealed supporting structure.
+X034 | x-mark-place | [DIG],[LIN],[REL] | x-mark-place is the act of binding an X mark to one chosen location.
+X035 | x-mark-error | [COG],[DIG],[LIN] | x-mark-error is the use of X to record that an item failed a stated check.
+X036 | x-mark-choice | [DIG],[LIN],[REL] | x-mark-choice is the use of X to record one selected option from an available set.
+X037 | x-out | [DIG],[LIN],[REL] | x-out is the act of crossing through a pattern to cancel, reject, remove, or exclude it from active use.
+X038 | x-over | [PHY],[LIN],[REL] | x-over is a crossing movement or overlap in which one path passes across another.
+X039 | x-cross-path | [PHY],[FOR],[REL] | x-cross-path is a route whose course intersects another route in an X relation.
+X040 | x-cross-check | [COG],[DIG],[LIN] | x-cross-check is verification produced by comparing a claim against an independent source, route, or representation.
+X041 | x-coordinate-map | [DIG],[FOR],[PHY] | x-coordinate-map is a representation that locates multiple points by their x positions inside a shared frame.
+X042 | x-axis-read | [COG],[DIG],[FOR] | x-axis-read is the act of interpreting a plotted position through the labels, scale, and units of the x-axis.
+X043 | x-value-check | [DIG],[FOR] | x-value-check is a test of whether a proposed or stored x-value satisfies its declared constraints.
+X044 | x-variable-set | [DIG],[FOR] | x-variable-set is the act of declaring what x represents or assigning its current value.
+X045 | x-variable-solve | [COG],[DIG],[FOR] | x-variable-solve is the reasoning process that determines which x-value satisfies the active relation.
+X046 | x-input-map | [DIG],[FOR] | x-input-map is a representation connecting possible x inputs to their resulting outputs or process paths.
+X047 | x-output-check | [DIG],[FOR] | x-output-check is a test that the result associated with x matches the process, input, and output rules.
+X048 | x-factor-test | [COG],[REL],[FOR] | x-factor-test is an inquiry designed to identify, isolate, or reject a suspected hidden influence.
+X049 | x-position-track | [DIG],[FOR],[PHY] | x-position-track is the maintained sequence of an object's x locations across change.
+X050 | x-state-check | [COG],[DIG],[FOR] | x-state-check is an inspection of x's current value, validity, assignment, and readiness for use.
+X051 | XML-parse | [DIG],[LIN] | XML-parse is the process of turning XML text into a recognized element tree and data structure.
+X052 | XML-tag | [DIG],[LIN] | XML-tag is a named boundary that identifies an XML element and encloses or qualifies its content.
+X053 | XML-map | [DIG],[LIN] | XML-map is a representation of how XML elements, attributes, and nesting relate.
+X054 | xerox-copy | [PHY],[LIN] | xerox-copy is one physical duplicate produced from a source page by photocopying.
+X055 | xylem-carry | [BIO] | xylem-carry is the upward transport of water and dissolved minerals through xylem conduits.
+X056 | x-ray-verify | [BIO],[PHY] | x-ray-verify is confirmation of a specific hidden-structure claim using x-ray evidence.
+X057 | x-mark-boundary | [DIG],[LIN],[REL] | x-mark-boundary is an X mark placed to make a limit, exclusion zone, or no-cross condition visible.
+X058 | x-mark-risk | [DIG],[LIN],[REL] | x-mark-risk is an X mark used to identify a specific hazard, failure path, or unsafe location.
+X059 | x-cross-boundary | [DIG],[PHY],[REL] | x-cross-boundary is the event of passing from one bounded side, state, or permission field into another.
+X060 | x-cross-domain | [COG],[FOR],[LIN] | x-cross-domain is the transfer of a word, relation, or claim from one declared domain into another.
+X061 | xenial | [REL] | xenial is hospitable conduct toward a guest, stranger, or newcomer.
+X062 | xenial-care | [REL] | xenial-care is care expressed by helping a guest or stranger enter a new field without losing dignity or choice.
+X063 | xenial-boundary | [REL] | xenial-boundary is the limit that keeps hospitality supportive without surrendering host or guest autonomy.
+X064 | xenophobia | [COG],[REL] | xenophobia is threat-weighting directed at people or groups because they are treated as foreign or outside.
+X065 | xenophobia-harm | [REL] | xenophobia-harm is damage produced when foreignness or outsider status is treated as sufficient reason for reduced dignity or protection.
+X066 | xenophobia-risk | [COG],[REL] | xenophobia-risk is the identifiable possibility that outsider framing will escalate into exclusion or harm.
+X067 | xeno | [LIN],[REL] | xeno is a prefix that marks foreignness, strangeness, or relation to an outside group.
+X068 | xeno-care | [REL] | xeno-care is care directed toward a person, pattern, or life-form encountered as foreign or unfamiliar.
+X069 | xeno-boundary | [REL] | xeno-boundary is a limit governing contact with the foreign or unfamiliar without converting difference into hostility.
+X070 | xeno-risk | [REL],[COG] | xeno-risk is a risk arising in contact with an unfamiliar entity, environment, or system whose properties are not yet well mapped.
+X071 | stranger-care | [REL] | stranger-care is care offered to someone not yet held inside the local relationship network.
+X072 | stranger-boundary | [REL] | stranger-boundary is the limit that regulates contact between people without established trust or shared history.
+X073 | stranger-risk | [REL] | stranger-risk is a possible failure mode associated with low knowledge of another person's intentions, needs, or constraints.
+X074 | other-care | [REL] | other-care is care that recognizes a different person or pattern without forcing it into the caregiver's identity or norm.
+X075 | other-boundary | [REL] | other-boundary is the line that preserves distinction between self and other inside an active relation.
+X076 | othering | [COG],[REL] | othering is the process of reducing a person or group to outsider status and treating that difference as socially decisive.
+X077 | othering-harm | [REL] | othering-harm is damage caused when an imposed outsider identity reduces recognition, dignity, access, or protection.
+X078 | othering-risk | [COG],[REL] | othering-risk is the possibility that difference-labeling will harden into exclusion, dehumanization, or unequal protection.
+X079 | excluded-other | [REL] | excluded-other is a person or group placed outside an accepted membership, protection, or participation field.
+X080 | excluded-other-care | [REL] | excluded-other-care is care that restores support or recognition to someone outside the current belonging field without forcing false inclusion.
+X081 | x-marked-person | [LIN],[REL] | x-marked-person is a person singled out by an X, label, list position, or targeting convention.
+X082 | x-marked-risk | [REL] | x-marked-risk is the risk created or exposed when a person, place, or item is singled out by an X.
+X083 | x-out-harm | [LIN],[REL] | x-out-harm is damage caused by cancellation, erasure, exclusion, or removal from the active record.
+X084 | x-out-refusal | [LIN],[REL] | x-out-refusal is the cancellation, deletion, or disregard of an expressed no.
+X085 | x-out-boundary | [REL] | x-out-boundary is the removal or invalid override of a declared limit.
+X086 | x-cross-consent | [REL] | x-cross-consent is passage across a consent gate without the required affirmative permission.
+X087 | x-cross-with-care | [LIN],[REL] | x-cross-with-care is a boundary or domain crossing performed with permission, proportionality, and protection of what must remain distinct.
+X088 | x-ray-care | [COG],[REL] | x-ray-care is care that deliberately looks beneath visible presentation for hidden need or damage.
+X089 | hidden-harm-care | [COG],[REL] | hidden-harm-care is care directed toward damage that has not yet become obvious to ordinary observation.
+X090 | surface-hidden-care | [COG],[REL] | surface-hidden-care is care that holds visible evidence and concealed conditions together without making either total.
+X091 | x-as-unknown | [FOR],[LIN] | x-as-unknown is the explicit use of x to hold a value that has not yet been determined.
+X092 | x-as-variable | [FOR],[LIN] | x-as-variable is the explicit use of x for a quantity allowed to take more than one value.
+X093 | x-as-cancel | [DIG],[LIN],[REL] | x-as-cancel is the use of X to show that an item no longer applies, counts, or remains selected.
+X094 | x-as-choice | [LIN],[REL] | x-as-choice is the use of X to identify the option selected by a chooser.
+X095 | x-as-error | [COG],[DIG],[LIN] | x-as-error is the use of X to identify a mismatch, failed answer, or rejected result.
+X096 | x-as-target | [DIG],[LIN],[REL] | x-as-target is the use of X to direct attention or action toward one destination or object.
+X097 | x-as-signature | [LIN],[REL] | x-as-signature is the use of X as a person's identifying mark in place of a written name.
+X098 | x-as-crossing | [FOR],[LIN],[REL] | x-as-crossing is the use of X to represent intersection, overlap, or passage between paths.
+X099 | x-meaning | [COG],[LIN] | x-meaning is the specific interpretation assigned to x by its active sentence, notation, or domain.
+X100 | x-context | [COG],[LIN] | x-context is the surrounding information required to determine what x refers to and how it behaves.
+X101 | x-claim | [FOR],[LIN] | x-claim is a statement whose truth depends on the declared role or value of x.
+X102 | x-question | [COG],[FOR] | x-question is an inquiry asking for the value, role, location, or meaning represented by x.
+X103 | x-answer | [COG],[FOR] | x-answer is the proposed value, role, or interpretation that closes an x-question.
+X104 | x-proof | [FOR] | x-proof is a valid derivation showing why a stated conclusion about x follows from declared premises.
+X105 | x-symbol | [FOR],[LIN] | x-symbol is the visible sign x or X used as a carrier for a declared role.
+X106 | x-symbol-risk | [COG],[LIN] | x-symbol-risk is the possibility that x or X will be misread because one visual sign supports several incompatible roles.
+X107 | x-term | [FOR],[LIN] | x-term is an expression component containing x and carrying a specific mathematical or linguistic role.
+X108 | x-term-context | [FOR],[LIN] | x-term-context is the information that fixes what an x-term represents, permits, and relates to.
+X109 | XML-meaning | [DIG],[LIN] | XML-meaning is the semantic content recovered from XML element names, values, attributes, hierarchy, and external schema.
+X110 | XML-context | [DIG],[LIN] | XML-context is the schema, namespace, application, and document history needed to interpret XML data correctly.
+X111 | x-ray-claim | [BIO],[LIN] | x-ray-claim is a statement about internal structure supported or challenged by x-ray evidence.
+X112 | x-factor-claim | [COG],[LIN] | x-factor-claim is a statement that an unnamed or weakly specified influence materially affected an outcome.
+X113 | x-variable-claim | [FOR],[LIN] | x-variable-claim is a statement about how the declared variable x behaves, relates, or changes.
+X114 | x-axis-claim | [FOR],[LIN] | x-axis-claim is a statement about the reference line, scale, variable, or ordering carried by the x-axis.
+X115 | x-coordinate-claim | [FOR],[LIN] | x-coordinate-claim is a statement locating a point at a specified position along the x dimension.
+X116 | x-mark-meaning | [LIN],[REL] | x-mark-meaning is the convention-bound instruction or status carried by one X mark.
+X117 | x-out-meaning | [LIN],[REL] | x-out-meaning is the intended status change communicated by crossing something out.
+X118 | x-cross-meaning | [LIN],[REL],[MYT] | x-cross-meaning is the interpretation assigned to an X-shaped meeting of paths, lines, identities, or symbols.
+X119 | unknown-variable-meaning | [COG],[FOR] | unknown-variable-meaning is the meaning created when a variable's unresolved value is constrained by its relations.
+X120 | hidden-structure-meaning | [COG],[LIN],[MYT] | hidden-structure-meaning is the significance carried by relations or supports that are not visible at the surface.
+X121 | x-axis-state | [DIG],[FOR] | x-axis-state is the current configuration and usability of the x-axis as a reference frame.
+X122 | x-coordinate-state | [DIG],[FOR],[PHY] | x-coordinate-state is the current location and validity status of one x-coordinate.
+X123 | x-value-state | [DIG],[FOR] | x-value-state is the current content and admissibility of the x slot.
+X124 | x-ray-state | [PHY],[BIO],[DIG] | x-ray-state is the current operating, acquisition, image, or interpretation condition of an x-ray process.
+X125 | x-ray-field | [PHY],[BIO] | x-ray-field is the bounded physical region in which x-ray radiation is produced, travels, interacts, or is detected.
+X126 | xenon-state | [PHY] | xenon-state is xenon's current phase, pressure, temperature, ionization, or containment condition.
+X127 | xylophone-state | [PHY] | xylophone-state is the instrument's current tuning, structural integrity, arrangement, and readiness to produce ordered tones.
+X128 | xylem-state | [BIO] | xylem-state is the current transport capacity and structural condition of a plant's xylem tissue.
+X129 | XML-state | [DIG] | XML-state is the current syntactic, validation, parsing, and lifecycle condition of an XML document.
+X130 | XML-structure | [DIG],[LIN] | XML-structure is the hierarchical arrangement of elements, attributes, text nodes, and namespaces in an XML document.
+X131 | x-mark-state | [LIN],[REL] | x-mark-state is the current operative meaning, visibility, and validity of a particular X mark.
+X132 | x-cross-state | [PHY],[FOR],[REL] | x-cross-state is the current condition of an intersection between two paths or structures.
+X133 | x-point-state | [DIG],[FOR] | x-point-state is the current validity, location, and role of one point identified by X.
+X134 | x-position-state | [DIG],[FOR],[PHY] | x-position-state is the current x location of a tracked subject together with frame and motion status.
+X135 | x-variable-state | [DIG],[FOR] | x-variable-state is the current assignment, scope, constraint, and resolution status of the variable x.
+X136 | x-input-state | [DIG],[FOR] | x-input-state is the current readiness and validity of data entering through the x role.
+X137 | x-output-state | [DIG],[FOR] | x-output-state is the current completeness, validity, and delivery condition of a result associated with x.
+X138 | x-factor-state | [COG],[REL] | x-factor-state is the current degree to which a suspected hidden influence is unnamed, modeled, active, tested, or rejected.
+X139 | x-domain-state | [FOR] | x-domain-state is the current definition, openness, and validity of the set of allowed x inputs.
+X140 | x-range-state | [DIG],[FOR] | x-range-state is the current span, coverage, and boundary condition of x-values under consideration.

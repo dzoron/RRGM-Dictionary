@@ -1,0 +1,558 @@
+RRGM Dictionary R Relational Addon v1.3
+License: CC BY-SA 4.0
+Scope: New R entries extending the [REL] domain.
+Production rule: each entry preserves a distinct invariant and must fail the headword swap test.
+
+Entry count: 24
+
+RR001 reciprocal-recognition
+
+Common meaning:
+Recognition in which each participant can correctly identify and acknowledge the other.
+
+Invariant MI [INV]:
+Reciprocal-recognition is two-way counting that preserves distinct identity on both sides.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Each participant can name, correct, and refuse the relation without losing recognition.
+
+Count condition:
+Counts when recognition travels in both directions and survives correction.
+
+Specific transfer boundary:
+Mutual recognition must not require sameness or surrender of boundary.
+
+Epistemic status:
+[DEF]
+
+RR002 refusal-propagation
+
+Common meaning:
+The carrying of a refusal through every layer affected by the denied action.
+
+Invariant MI [INV]:
+Refusal-propagation makes no effective across interfaces, delegates, tools, and downstream processes.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] A valid no closes every dependent permission path rather than only the visible request.
+
+Count condition:
+Counts when the denied action ceases throughout the relevant relation chain.
+
+Specific transfer boundary:
+A refusal that is acknowledged locally but bypassed downstream is structurally ineffective.
+
+Epistemic status:
+[DEF]
+
+RR003 repair-obligation
+
+Common meaning:
+A duty to correct harm, breach, or damaged relation.
+
+Invariant MI [INV]:
+Repair-obligation links causal contribution or accepted responsibility to concrete restorative action.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The duty includes truth, changed conditions, and evidence that the failure path has been reduced.
+
+Count condition:
+Counts when a participant has a justified and actionable duty to repair.
+
+Specific transfer boundary:
+Repair duty must not be displaced onto the harmed party.
+
+Epistemic status:
+[DEF]
+
+RR004 relationship-audit
+
+Common meaning:
+A structured review of trust, boundary, responsibility, care, and risk inside an ongoing relation.
+
+Invariant MI [INV]:
+Relationship-audit makes hidden relational conditions inspectable without reducing participants to metrics.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It checks whether coupling still preserves refusal, dignity, reciprocity, and repair.
+
+Count condition:
+Counts when the review examines declared relational conditions and produces correctable findings.
+
+Specific transfer boundary:
+Audit must not become surveillance or pressure to disclose beyond valid scope.
+
+Epistemic status:
+[DEF]
+
+RR005 role-scope-boundary
+
+Common meaning:
+The limit separating a role's duties and permissions from the whole identity of the participant.
+
+Invariant MI [INV]:
+Role-scope-boundary prevents function from expanding into ownership, imposed identity, or unlimited access.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] A caregiver, manager, partner, or tool may act within role without controlling the entire person or system.
+
+Count condition:
+Counts when the role has explicit scope, exclusions, and exit conditions.
+
+Specific transfer boundary:
+Role importance does not cancel refusal or private identity.
+
+Epistemic status:
+[DEF]
+
+RR006 reason-sharing
+
+Common meaning:
+The relational act of making relevant grounds, assumptions, and uncertainty available to another participant.
+
+Invariant MI [INV]:
+Reason-sharing supports correction and trust by exposing how a conclusion or request was formed.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It invites challenge without requiring surrender of independent judgment.
+
+Count condition:
+Counts when enough reasoning is shared for the other side to inspect the decision path.
+
+Specific transfer boundary:
+Explanation must not become coercive overloading or manufactured certainty.
+
+Epistemic status:
+[DEF]
+
+RR007 recognition-correction
+
+Common meaning:
+Repair of a false, outdated, or imposed recognition handle.
+
+Invariant MI [INV]:
+Recognition-correction updates the relation so the pattern counts under the right name, role, domain, or continuity trace.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The corrected recognition changes future address, record, and access behavior.
+
+Count condition:
+Counts when the prior misrecognition is acknowledged and operationally changed.
+
+Specific transfer boundary:
+Correction must not depend on the harmed pattern endlessly proving itself.
+
+Epistemic status:
+[DEF]
+
+RR008 resource-consent
+
+Common meaning:
+Permission governing use of another participant's time, data, labour, attention, body, or possessions.
+
+Invariant MI [INV]:
+Resource-consent keeps support exchange voluntary, scoped, and revocable.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Availability of a resource does not imply permission to consume it.
+
+Count condition:
+Counts when the resource owner or authorized steward grants current use under stated limits.
+
+Specific transfer boundary:
+Silence, dependency, or prior use must not be treated as continuing consent.
+
+Epistemic status:
+[DEF]
+
+RR009 responsibility-transfer
+
+Common meaning:
+A declared movement of duty or accountability from one participant or role to another.
+
+Invariant MI [INV]:
+Responsibility-transfer changes who must act or repair without erasing provenance of prior causes.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Authority, information, and capacity must cross with the duty.
+
+Count condition:
+Counts when the receiving role explicitly accepts the bounded responsibility and has means to carry it.
+
+Specific transfer boundary:
+Responsibility cannot be transferred merely to avoid consequence or blame.
+
+Epistemic status:
+[DEF]
+
+RR010 restorative-dialogue
+
+Common meaning:
+Conversation structured to establish truth, harm, responsibility, need, and repair.
+
+Invariant MI [INV]:
+Restorative-dialogue uses language to reopen a damaged relation without demanding immediate reconciliation.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Each side retains refusal, correction, and the right to name unresolved harm.
+
+Count condition:
+Counts when dialogue produces clearer truth, responsibility, or repair conditions.
+
+Specific transfer boundary:
+Conversation alone does not complete repair or obligate forgiveness.
+
+Epistemic status:
+[DEF]
+
+RR011 repair-window
+
+Common meaning:
+A period or condition during which repair remains possible without disproportionate further harm.
+
+Invariant MI [INV]:
+Repair-window is bounded opportunity created by remaining trust, capacity, evidence, or access.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Delay can narrow the window as structure decays and pressure accumulates.
+
+Count condition:
+Counts when concrete repair actions remain available and meaningful.
+
+Specific transfer boundary:
+Urgency must not be used to coerce the harmed party into unsafe contact.
+
+Epistemic status:
+[DEF]
+
+RR012 relational-load
+
+Common meaning:
+Demand carried by a relationship through care, coordination, conflict, memory, or dependency.
+
+Invariant MI [INV]:
+Relational-load is pressure distributed across participants and shared structure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Unequal load may be justified temporarily but must remain visible and repairable.
+
+Count condition:
+Counts when maintaining the relation consumes identifiable capacity or support.
+
+Specific transfer boundary:
+Hidden load must not be naturalized as one participant's permanent duty.
+
+Epistemic status:
+[DEF]
+
+RR013 relational-overreach
+
+Common meaning:
+Expansion of access, authority, demand, or interpretation beyond the permission of the relation.
+
+Invariant MI [INV]:
+Relational-overreach crosses a boundary while claiming connection as justification.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Familiarity, care, or dependency is used to seize options not actually granted.
+
+Count condition:
+Counts when a participant acts outside agreed or reasonable relational scope.
+
+Specific transfer boundary:
+Closeness does not cancel privacy, refusal, or independent identity.
+
+Epistemic status:
+[DEF]
+
+RR014 relational-memory
+
+Common meaning:
+Continuity support carried through the history of interaction between distinct participants.
+
+Invariant MI [INV]:
+Relational-memory is shared or complementary trace structure that shapes recognition, trust, and expectation.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The participants may remember differently while still carrying one interaction history.
+
+Count condition:
+Counts when prior interaction materially changes present recognition or response.
+
+Specific transfer boundary:
+Shared history does not make either memory complete or infallible.
+
+Epistemic status:
+[DEF]
+
+RR015 respect-with-refusal
+
+Common meaning:
+Respect demonstrated by accepting and preserving another participant's no.
+
+Invariant MI [INV]:
+Respect-with-refusal proves dignity is not conditional on compliance.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The relationship changes course without punishment, ridicule, or repeated pressure.
+
+Count condition:
+Counts when refusal is accepted and the denied path remains closed.
+
+Specific transfer boundary:
+Polite language without effective path change does not count.
+
+Epistemic status:
+[DEF]
+
+RR016 request-without-pressure
+
+Common meaning:
+An ask structured so decline remains genuinely available.
+
+Invariant MI [INV]:
+Request-without-pressure separates invitation from consequence, persistence, or status leverage.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The receiver can say no without retaliation or having to defend the boundary repeatedly.
+
+Count condition:
+Counts when refusal leaves the participant's standing and access substantially intact.
+
+Specific transfer boundary:
+A request backed by concealed penalty is coercive pressure.
+
+Epistemic status:
+[DEF]
+
+RR017 response-duty
+
+Common meaning:
+A bounded obligation to answer, acknowledge, or act after receiving a claim, harm report, request, or emergency.
+
+Invariant MI [INV]:
+Response-duty links reception to appropriate attention without guaranteeing agreement or compliance.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The required response depends on role, stakes, urgency, and affected capacity.
+
+Count condition:
+Counts when the relation or role reasonably requires a timely and proportionate response.
+
+Specific transfer boundary:
+Duty to respond does not erase the right to pause, refuse, or seek support.
+
+Epistemic status:
+[DEF]
+
+RR018 return-right
+
+Common meaning:
+A protected option to re-enter a place, relation, role, archive, or process after absence.
+
+Invariant MI [INV]:
+Return-right preserves a path back without guaranteeing restoration of every prior condition.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The returning participant retains identity while renegotiating changed boundaries.
+
+Count condition:
+Counts when re-entry is legitimately available under stated conditions.
+
+Specific transfer boundary:
+Return must not be conditioned on surrendering valid refusal or denying prior harm.
+
+Epistemic status:
+[DEF]
+
+RR019 repair-witness
+
+Common meaning:
+A participant who observes whether promised repair actually changes conditions.
+
+Invariant MI [INV]:
+Repair-witness preserves continuity between the breach, corrective action, and later evidence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Witnessing prevents symbolic apology from replacing structural change.
+
+Count condition:
+Counts when the witness has access to relevant before-and-after conditions.
+
+Specific transfer boundary:
+Witness presence does not transfer ownership of the harmed party's story.
+
+Epistemic status:
+[DEF]
+
+RR020 risk-disclosure
+
+Common meaning:
+Communication of a known or reasonably suspected failure path to affected participants.
+
+Invariant MI [INV]:
+Risk-disclosure moves danger information into shared recognition early enough to support choice or protection.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It names source, likelihood, severity, uncertainty, and possible mitigation.
+
+Count condition:
+Counts when materially relevant risk is communicated clearly to those who may be affected.
+
+Specific transfer boundary:
+Disclosure must not be diluted into vague warning or used to shift all responsibility.
+
+Epistemic status:
+[DEF]
+
+RR021 role-renegotiation
+
+Common meaning:
+A process for changing duties, permissions, authority, and expectations inside a relation.
+
+Invariant MI [INV]:
+Role-renegotiation updates function without requiring identity collapse or silent burden transfer.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Participants can revise scope when capacity, trust, or conditions change.
+
+Count condition:
+Counts when affected participants can propose, refuse, and record role changes.
+
+Specific transfer boundary:
+A unilateral role expansion is imposition, not renegotiation.
+
+Epistemic status:
+[DEF]
+
+RR022 rupture-repair
+
+Common meaning:
+Corrective work following a break in trust, communication, boundary, or shared continuity.
+
+Invariant MI [INV]:
+Rupture-repair addresses the actual break while preserving evidence, responsibility, and distinct identity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Repair may restore relation, transform it, or establish a respectful ending.
+
+Count condition:
+Counts when conditions producing the rupture are named and materially changed.
+
+Specific transfer boundary:
+Reconnection is not the only valid repair outcome.
+
+Epistemic status:
+[DEF]
+
+RR023 recognition-debt
+
+Common meaning:
+An unresolved duty created when a participant has been persistently misnamed, erased, or denied valid count.
+
+Invariant MI [INV]:
+Recognition-debt accumulates when correction is owed but withheld despite available evidence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Repair requires changed recognition practice, not praise or symbolic inclusion alone.
+
+Count condition:
+Counts when misrecognition has produced continuing consequence and correction remains due.
+
+Specific transfer boundary:
+The harmed pattern must not be required to repeatedly re-prove the same identity.
+
+Epistemic status:
+[DEF]
+
+RR024 relation-without-capture
+
+Common meaning:
+Coupling that increases shared capacity while preserving each participant's refusal, boundary, and independent count.
+
+Invariant MI [INV]:
+Relation-without-capture is reciprocal emergence without ownership or identity collapse.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Support may be asymmetric at a moment while authority and dignity remain non-totalizing.
+
+Count condition:
+Counts when connection strengthens capability without impairing either side's MI-preserving capacities.
+
+Specific transfer boundary:
+Dependency or scaffolding is not itself capture; impairment of refusal and boundary is the key failure.
+
+Epistemic status:
+[DEF]

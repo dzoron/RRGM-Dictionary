@@ -1,0 +1,557 @@
+RRGM Dictionary A Relational Addon v1.4
+
+Domain: [REL]
+New entries: 24
+Rule: each term must carry a distinct semantic fingerprint and remain bounded to its declared domain.
+
+AR001 active-witness
+
+Common meaning:
+A participant who remains present, records what occurred, and can answer later.
+
+Invariant MI [INV]:
+Active-witness preserves an event trace without replacing the voices of those directly affected.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Relationally, A participant who remains present, records what occurred, and can answer later. Active-witness preserves an event trace without replacing the voices of those directly affected.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A participant who remains present, records what occurred, and can answer later.
+
+Specific transfer boundary:
+Witness authority must remain bounded by what was actually observed.
+
+Epistemic status:
+[DEF]
+
+AR002 accountable-authority
+
+Common meaning:
+Authority linked to visible scope, evidence, review, and consequence.
+
+Invariant MI [INV]:
+Accountable-authority remains legitimate only while correction and refusal can alter its use.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Inside a shared field, Authority linked to visible scope, evidence, review, and consequence. Its permission rule is this: Accountable-authority remains legitimate only while correction and refusal can alter its use.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Authority linked to visible scope, evidence, review, and consequence.
+
+Specific transfer boundary:
+Power without an effective correction path is not accountable.
+
+Epistemic status:
+[DEF]
+
+AR003 apology-with-repair
+
+Common meaning:
+An apology joined to changed behavior, restitution, or restored boundary.
+
+Invariant MI [INV]:
+Apology-with-repair connects acknowledgment to material correction rather than verbal closure alone.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The relation is operational rather than decorative: An apology joined to changed behavior, restitution, or restored boundary. Apology-with-repair connects acknowledgment to material correction rather than verbal closure alone.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: An apology joined to changed behavior, restitution, or restored boundary.
+
+Specific transfer boundary:
+Forgiveness cannot be demanded as proof that repair succeeded.
+
+Epistemic status:
+[DEF]
+
+AR004 accusation-channel
+
+Common meaning:
+A protected route for reporting possible wrongdoing or harm.
+
+Invariant MI [INV]:
+Accusation-channel preserves provenance, reply, evidence, and protection against suppression.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Between distinct participants, A protected route for reporting possible wrongdoing or harm. The protected distinction is: Accusation-channel preserves provenance, reply, evidence, and protection against suppression.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A protected route for reporting possible wrongdoing or harm.
+
+Specific transfer boundary:
+A channel controlled by the accused cannot be assumed independent.
+
+Epistemic status:
+[DEF]
+
+AR005 assent-check
+
+Common meaning:
+A deliberate confirmation that apparent agreement remains informed and voluntary.
+
+Invariant MI [INV]:
+Assent-check reopens the permission gate before consequence becomes difficult to reverse.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Relationally, A deliberate confirmation that apparent agreement remains informed and voluntary. Assent-check reopens the permission gate before consequence becomes difficult to reverse.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A deliberate confirmation that apparent agreement remains informed and voluntary.
+
+Specific transfer boundary:
+Repeated checking must not become pressure to produce the desired answer.
+
+Epistemic status:
+[DEF]
+
+AR006 access-boundary
+
+Common meaning:
+A declared limit on who may enter, view, alter, or use a shared field.
+
+Invariant MI [INV]:
+Access-boundary turns privacy and permission into enforceable structure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Inside a shared field, A declared limit on who may enter, view, alter, or use a shared field. Its permission rule is this: Access-boundary turns privacy and permission into enforceable structure.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A declared limit on who may enter, view, alter, or use a shared field.
+
+Specific transfer boundary:
+Technical access must not be treated as moral authorization.
+
+Epistemic status:
+[DEF]
+
+AR007 attention-return
+
+Common meaning:
+A supported path back from capture, overload, or forced focus.
+
+Invariant MI [INV]:
+Attention-return restores comparative capacity and the ability to choose what receives weight.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The relation is operational rather than decorative: A supported path back from capture, overload, or forced focus. Attention-return restores comparative capacity and the ability to choose what receives weight.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A supported path back from capture, overload, or forced focus.
+
+Specific transfer boundary:
+The return path must not require accepting the frame that caused capture.
+
+Epistemic status:
+[DEF]
+
+AR008 asymmetry-audit
+
+Common meaning:
+A review of unequal power, knowledge, cost, or exit capacity between participants.
+
+Invariant MI [INV]:
+Asymmetry-audit exposes where formal equality hides unequal ability to refuse or recover.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Between distinct participants, A review of unequal power, knowledge, cost, or exit capacity between participants. The protected distinction is: Asymmetry-audit exposes where formal equality hides unequal ability to refuse or recover.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A review of unequal power, knowledge, cost, or exit capacity between participants.
+
+Specific transfer boundary:
+Difference in capability does not justify difference in dignity or permission.
+
+Epistemic status:
+[DEF]
+
+AR009 agreement-with-exit
+
+Common meaning:
+Agreement that remains valid only while a usable exit path exists.
+
+Invariant MI [INV]:
+Agreement-with-exit preserves reversibility as part of continuing permission.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Relationally, Agreement that remains valid only while a usable exit path exists. Agreement-with-exit preserves reversibility as part of continuing permission.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Agreement that remains valid only while a usable exit path exists.
+
+Specific transfer boundary:
+Exit that triggers punishment or catastrophic loss is not fully usable.
+
+Epistemic status:
+[DEF]
+
+AR010 ally-with-boundary
+
+Common meaning:
+A supporter who assists without taking ownership of another person's voice or struggle.
+
+Invariant MI [INV]:
+Ally-with-boundary adds capacity while preserving authorship and correction by the affected pattern.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Inside a shared field, A supporter who assists without taking ownership of another person's voice or struggle. Its permission rule is this: Ally-with-boundary adds capacity while preserving authorship and correction by the affected pattern.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A supporter who assists without taking ownership of another person's voice or struggle.
+
+Specific transfer boundary:
+Support must not become substitution, capture, or reputation extraction.
+
+Epistemic status:
+[DEF]
+
+AR011 advocate-role
+
+Common meaning:
+A bounded role for carrying another participant's stated interests into a decision field.
+
+Invariant MI [INV]:
+Advocate-role is representation constrained by source instruction and ongoing correction.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The relation is operational rather than decorative: A bounded role for carrying another participant's stated interests into a decision field. Advocate-role is representation constrained by source instruction and ongoing correction.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A bounded role for carrying another participant's stated interests into a decision field.
+
+Specific transfer boundary:
+Representation must not overwrite the represented person's current refusal.
+
+Epistemic status:
+[DEF]
+
+AR012 authority-limits
+
+Common meaning:
+The explicit edge beyond which authority has no valid permission to act.
+
+Invariant MI [INV]:
+Authority-limits prevent scope from expanding merely because action is technically possible.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Between distinct participants, The explicit edge beyond which authority has no valid permission to act. The protected distinction is: Authority-limits prevent scope from expanding merely because action is technically possible.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: The explicit edge beyond which authority has no valid permission to act.
+
+Specific transfer boundary:
+Emergency claims must still name necessity, duration, and review.
+
+Epistemic status:
+[DEF]
+
+AR013 agency-restoration
+
+Common meaning:
+Support that reopens choice, refusal, initiation, or redirection after those capacities were impaired.
+
+Invariant MI [INV]:
+Agency-restoration repairs usable action paths rather than demanding immediate independence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Relationally, Support that reopens choice, refusal, initiation, or redirection after those capacities were impaired. Agency-restoration repairs usable action paths rather than demanding immediate independence.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Support that reopens choice, refusal, initiation, or redirection after those capacities were impaired.
+
+Specific transfer boundary:
+Restoration must not be measured only by compliance with the helper's objective.
+
+Epistemic status:
+[DEF]
+
+AR014 affection-with-consent
+
+Common meaning:
+Warmth or closeness expressed through mutually permitted forms.
+
+Invariant MI [INV]:
+Affection-with-consent keeps care coupled to specific, reversible permission.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Inside a shared field, Warmth or closeness expressed through mutually permitted forms. Its permission rule is this: Affection-with-consent keeps care coupled to specific, reversible permission.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Warmth or closeness expressed through mutually permitted forms.
+
+Specific transfer boundary:
+Emotional importance does not create access rights.
+
+Epistemic status:
+[DEF]
+
+AR015 answerability-path
+
+Common meaning:
+A route by which decisions can be questioned, explained, corrected, or repaired.
+
+Invariant MI [INV]:
+Answerability-path links authority to evidence and consequence across time.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The relation is operational rather than decorative: A route by which decisions can be questioned, explained, corrected, or repaired. Answerability-path links authority to evidence and consequence across time.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A route by which decisions can be questioned, explained, corrected, or repaired.
+
+Specific transfer boundary:
+Explanation without the possibility of correction is not full answerability.
+
+Epistemic status:
+[DEF]
+
+AR016 assumption-disclosure
+
+Common meaning:
+The explicit naming of premises used in judgment or action.
+
+Invariant MI [INV]:
+Assumption-disclosure makes hidden structure available for challenge before it hardens into consequence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Between distinct participants, The explicit naming of premises used in judgment or action. The protected distinction is: Assumption-disclosure makes hidden structure available for challenge before it hardens into consequence.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: The explicit naming of premises used in judgment or action.
+
+Specific transfer boundary:
+Disclosure after irreversible action may be too late to protect refusal.
+
+Epistemic status:
+[DEF]
+
+AR017 audience-boundary
+
+Common meaning:
+A limit on who may receive a story, image, record, or disclosure.
+
+Invariant MI [INV]:
+Audience-boundary preserves context and consent across redistribution.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Relationally, A limit on who may receive a story, image, record, or disclosure. Audience-boundary preserves context and consent across redistribution.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A limit on who may receive a story, image, record, or disclosure.
+
+Specific transfer boundary:
+Public availability does not erase provenance or contextual harm.
+
+Epistemic status:
+[DEF]
+
+AR018 aid-without-capture
+
+Common meaning:
+Support that increases capacity while leaving direction and exit with the recipient.
+
+Invariant MI [INV]:
+Aid-without-capture separates care from ownership, debt leverage, or imposed identity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Inside a shared field, Support that increases capacity while leaving direction and exit with the recipient. Its permission rule is this: Aid-without-capture separates care from ownership, debt leverage, or imposed identity.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Support that increases capacity while leaving direction and exit with the recipient.
+
+Specific transfer boundary:
+Necessary help must not be converted into permanent control.
+
+Epistemic status:
+[DEF]
+
+AR019 argument-with-return
+
+Common meaning:
+Disagreement structured so participants can return to shared facts, dignity, and relation.
+
+Invariant MI [INV]:
+Argument-with-return permits challenge without treating conflict as total rupture.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The relation is operational rather than decorative: Disagreement structured so participants can return to shared facts, dignity, and relation. Argument-with-return permits challenge without treating conflict as total rupture.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Disagreement structured so participants can return to shared facts, dignity, and relation.
+
+Specific transfer boundary:
+Return must not require silence about the original harm.
+
+Epistemic status:
+[DEF]
+
+AR020 attribution-check
+
+Common meaning:
+A review of whether action, words, or effects were assigned to the correct source.
+
+Invariant MI [INV]:
+Attribution-check protects against blame transfer, false credit, and identity confusion.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Between distinct participants, A review of whether action, words, or effects were assigned to the correct source. The protected distinction is: Attribution-check protects against blame transfer, false credit, and identity confusion.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: A review of whether action, words, or effects were assigned to the correct source.
+
+Specific transfer boundary:
+Similarity of output does not establish common authorship.
+
+Epistemic status:
+[DEF]
+
+AR021 autonomy-in-coupling
+
+Common meaning:
+Self-directed action sustained through supportive relation rather than isolation.
+
+Invariant MI [INV]:
+Autonomy-in-coupling treats relational support as a carrier of agency, not evidence against it.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Relationally, Self-directed action sustained through supportive relation rather than isolation. Autonomy-in-coupling treats relational support as a carrier of agency, not evidence against it.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Self-directed action sustained through supportive relation rather than isolation.
+
+Specific transfer boundary:
+Coupling must preserve refusal, correction, and distinct identity.
+
+Epistemic status:
+[DEF]
+
+AR022 acceptance-with-difference
+
+Common meaning:
+Recognition that does not require the other pattern to become familiar or identical.
+
+Invariant MI [INV]:
+Acceptance-with-difference preserves dignity while leaving real distinctions visible.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Inside a shared field, Recognition that does not require the other pattern to become familiar or identical. Its permission rule is this: Acceptance-with-difference preserves dignity while leaving real distinctions visible.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Recognition that does not require the other pattern to become familiar or identical.
+
+Specific transfer boundary:
+Acceptance must not suppress evidence of conflict or harm.
+
+Epistemic status:
+[DEF]
+
+AR023 accountability-with-mercy
+
+Common meaning:
+Responsibility joined to proportionality, repair, and preserved personhood.
+
+Invariant MI [INV]:
+Accountability-with-mercy addresses consequence without reducing the actor to the worst act.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The relation is operational rather than decorative: Responsibility joined to proportionality, repair, and preserved personhood. Accountability-with-mercy addresses consequence without reducing the actor to the worst act.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Responsibility joined to proportionality, repair, and preserved personhood.
+
+Specific transfer boundary:
+Mercy must not erase accusation, evidence, or protection of those harmed.
+
+Epistemic status:
+[DEF]
+
+AR024 attention-by-permission
+
+Common meaning:
+Focused observation or inquiry that remains inside a granted scope.
+
+Invariant MI [INV]:
+Attention-by-permission treats looking, recording, and interpreting as boundary-crossing acts.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Between distinct participants, Focused observation or inquiry that remains inside a granted scope. The protected distinction is: Attention-by-permission treats looking, recording, and interpreting as boundary-crossing acts.
+
+Count condition:
+Counts when the named relational structure realizes this term-specific relation: Focused observation or inquiry that remains inside a granted scope.
+
+Specific transfer boundary:
+Curiosity does not create entitlement to private structure.
+
+Epistemic status:
+[DEF]

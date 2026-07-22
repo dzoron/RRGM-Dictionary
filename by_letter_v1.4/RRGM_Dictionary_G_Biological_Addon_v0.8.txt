@@ -1,0 +1,558 @@
+RRGM Dictionary G Biological Addon v0.8
+
+Scope: New G-terms whose primary implementation belongs to the [BIO] domain and which are not present as headwords in the base G section.
+Production rule: Each entry carries its own invariant MI. Definitions are compressed, domain-specific, and proof remains local.
+
+Entry count: 24
+
+GB001 gamete
+
+Common meaning:
+A reproductive cell that can combine with another gamete to form a zygote.
+
+Invariant MI [INV]:
+Gamete is a haploid biological carrier contributing one parental genome set to a new organism.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Sperm and egg are common specialized gametes in animals; other organisms use different forms.
+
+Count condition:
+Counts when the cell is developmentally capable of participating in fertilization under the species conditions.
+
+Specific transfer boundary:
+Gamete status does not establish personhood or legal status.
+
+Epistemic status:
+[DEF]
+
+GB002 gene
+
+Common meaning:
+A heritable DNA sequence or functional genetic unit contributing to a biological product or regulation.
+
+Invariant MI [INV]:
+Gene is a bounded genetic instruction region whose effect depends on expression context and interaction.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] It may encode RNA, protein, or regulatory function.
+
+Count condition:
+Counts when sequence, inheritance, and functional role are sufficiently identified.
+
+Specific transfer boundary:
+One gene rarely determines a complex trait by itself.
+
+Epistemic status:
+[DEF]
+
+GB003 genome
+
+Common meaning:
+The full genetic material carried by an organism or cell.
+
+Invariant MI [INV]:
+Genome is the inherited sequence field from which biological regulation and development draw possible instructions.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Nuclear, mitochondrial, plasmid, or viral components may be included according to the organism.
+
+Count condition:
+Counts when the declared genetic components and organism boundary are specified.
+
+Specific transfer boundary:
+Genome is not the whole organism or its final phenotype.
+
+Epistemic status:
+[DEF]
+
+GB004 genotype
+
+Common meaning:
+The genetic constitution of an organism at one or more loci.
+
+Invariant MI [INV]:
+Genotype is the inherited sequence state used to distinguish genetic alternatives.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] It interacts with environment, development, and regulation to influence phenotype.
+
+Count condition:
+Counts when the relevant alleles or sequence variants are known.
+
+Specific transfer boundary:
+Genotype does not uniquely predict all expressed traits.
+
+Epistemic status:
+[DEF]
+
+GB005 germination
+
+Common meaning:
+The process by which a seed resumes growth and develops into a seedling.
+
+Invariant MI [INV]:
+Germination is a biological threshold crossing from protected dormant seed state into active growth.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Water, temperature, oxygen, light, and species conditions regulate the transition.
+
+Count condition:
+Counts when embryo growth resumes and the seed coat or stored reserves begin supporting emergence.
+
+Specific transfer boundary:
+Swelling alone may occur before successful germination.
+
+Epistemic status:
+[DEF]
+
+GB006 gland
+
+Common meaning:
+An organ or cell group that produces and releases a substance.
+
+Invariant MI [INV]:
+Gland is specialized biological structure coupling synthesis to secretion.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Endocrine glands release into circulation; exocrine glands use ducts or surfaces.
+
+Count condition:
+Counts when tissue organization and secretory function are established.
+
+Specific transfer boundary:
+A fluid-filled structure is not necessarily a gland.
+
+Epistemic status:
+[DEF]
+
+GB007 glucose
+
+Common meaning:
+A simple sugar used as a major energy substrate and metabolic intermediate.
+
+Invariant MI [INV]:
+Glucose is a six-carbon molecule that carries chemical energy and carbon through biological pathways.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Cells transport, store, oxidize, or convert it according to regulation and need.
+
+Count condition:
+Counts when the molecule and its biological concentration or pathway role are identified.
+
+Specific transfer boundary:
+Sweet taste does not establish glucose content.
+
+Epistemic status:
+[DEF]
+
+GB008 glycogen
+
+Common meaning:
+A highly branched glucose polymer used for energy storage in animals, fungi, and some microbes.
+
+Invariant MI [INV]:
+Glycogen is rapidly accessible biological storage built from linked glucose units.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Liver and muscle use distinct regulation and local purposes in humans.
+
+Count condition:
+Counts when the polymer structure and storage tissue or organism are identified.
+
+Specific transfer boundary:
+Glycogen is not the same storage molecule as plant starch.
+
+Epistemic status:
+[DEF]
+
+GB009 glial-cell
+
+Common meaning:
+A non-neuronal nervous-system cell that supports, regulates, protects, or modulates neural function.
+
+Invariant MI [INV]:
+Glial-cell is biological support structure participating in homeostasis, insulation, defence, repair, and signalling.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Different glial types have distinct origins and functions.
+
+Count condition:
+Counts when the cell lineage and nervous-system support role are established.
+
+Specific transfer boundary:
+Glia are not merely passive filler and should not be collapsed into neurons.
+
+Epistemic status:
+[DEF]
+
+GB010 gut-microbiome
+
+Common meaning:
+The community and genetic activity of microorganisms living in the digestive tract.
+
+Invariant MI [INV]:
+Gut-microbiome is a coupled biological ecosystem whose members interact with diet, immunity, metabolism, and one another.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Composition varies across people, regions, time, and measurement methods.
+
+Count condition:
+Counts when the sampled body site, organisms, and analytic method are defined.
+
+Specific transfer boundary:
+Association with health does not prove one microbe caused an outcome.
+
+Epistemic status:
+[DEF]
+
+GB011 gill
+
+Common meaning:
+A respiratory organ that exchanges gases with water.
+
+Invariant MI [INV]:
+Gill is folded or filamentous biological interface increasing surface area for aquatic gas exchange.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Water flow and blood or body-fluid flow maintain diffusion gradients.
+
+Count condition:
+Counts when the structure performs respiratory exchange in the organism.
+
+Specific transfer boundary:
+Any fin-like tissue is not automatically a gill.
+
+Epistemic status:
+[DEF]
+
+GB012 gonad
+
+Common meaning:
+An organ that produces gametes and often reproductive hormones.
+
+Invariant MI [INV]:
+Gonad is reproductive biological structure coupling germ-cell development with endocrine or support function.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Ovaries and testes are common animal examples.
+
+Count condition:
+Counts when tissue identity and reproductive function are established.
+
+Specific transfer boundary:
+Gonad structure does not alone define gender identity.
+
+Epistemic status:
+[DEF]
+
+GB013 gestation
+
+Common meaning:
+The developmental period during which an embryo or fetus is carried before birth or hatching.
+
+Invariant MI [INV]:
+Gestation is protected biological development inside a parent, host, or egg-associated system.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Duration and support mechanisms vary by species.
+
+Count condition:
+Counts when the organism developmental sequence is being supported before independent emergence.
+
+Specific transfer boundary:
+Gestation duration does not determine developmental equivalence across species.
+
+Epistemic status:
+[DEF]
+
+GB014 growth-factor
+
+Common meaning:
+A signalling molecule that influences cell survival, division, migration, or differentiation.
+
+Invariant MI [INV]:
+Growth-factor is a biological courier changing cell behaviour by binding a compatible receptor.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Response depends on concentration, receptor state, tissue context, and other signals.
+
+Count condition:
+Counts when the molecule-receptor relation produces a measurable cellular effect.
+
+Specific transfer boundary:
+The name does not mean every effect is simple growth.
+
+Epistemic status:
+[DEF]
+
+GB015 gene-expression
+
+Common meaning:
+The process by which genetic information is used to produce RNA or protein.
+
+Invariant MI [INV]:
+Gene-expression converts stored sequence potential into regulated biological output.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Transcription, RNA processing, translation, and degradation contribute according to gene type.
+
+Count condition:
+Counts when transcript or product formation is detected under declared conditions.
+
+Specific transfer boundary:
+Presence of a gene does not prove it is expressed.
+
+Epistemic status:
+[DEF]
+
+GB016 genetic-drift
+
+Common meaning:
+Random change in allele frequencies across generations, especially in finite populations.
+
+Invariant MI [INV]:
+Genetic-drift is population-level variation produced by sampling rather than directional selection.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Its effects are stronger in smaller populations and can fix or remove neutral variants.
+
+Count condition:
+Counts when allele-frequency change is consistent with finite reproductive sampling.
+
+Specific transfer boundary:
+Random drift does not exclude simultaneous selection or migration.
+
+Epistemic status:
+[DEF]
+
+GB017 genetic-variation
+
+Common meaning:
+Differences in DNA sequence among individuals or populations.
+
+Invariant MI [INV]:
+Genetic-variation is the heritable difference field on which development, drift, and selection can act.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Mutation, recombination, migration, and inheritance shape it.
+
+Count condition:
+Counts when sequence differences are detected at declared loci or genome scale.
+
+Specific transfer boundary:
+Variation alone does not establish functional or harmful effect.
+
+Epistemic status:
+[DEF]
+
+GB018 gastrulation
+
+Common meaning:
+An early embryonic process that reorganizes cells into foundational body layers and axes.
+
+Invariant MI [INV]:
+Gastrulation is a coordinated developmental turn from a simpler cell arrangement toward patterned tissues.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Cell movement, signalling, and species-specific geometry establish later organization.
+
+Count condition:
+Counts when the embryo undergoes the defining rearrangement into germ-layer structure.
+
+Specific transfer boundary:
+Different organisms do not use one identical gastrulation mechanism.
+
+Epistemic status:
+[DEF]
+
+GB019 germ-cell
+
+Common meaning:
+A cell belonging to the lineage that produces gametes.
+
+Invariant MI [INV]:
+Germ-cell preserves reproductive continuity across generations through specialized development and meiosis.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Early precursors migrate, divide, and differentiate according to organismal signals.
+
+Count condition:
+Counts when lineage evidence supports future or current gamete production.
+
+Specific transfer boundary:
+Germ-cell does not mean pathogenic germ.
+
+Epistemic status:
+[DEF]
+
+GB020 glomerulus
+
+Common meaning:
+A small capillary tuft in the kidney that initiates filtration of blood plasma.
+
+Invariant MI [INV]:
+Glomerulus is a high-surface biological filter coupling blood pressure to selective fluid passage.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Endothelium, basement membrane, and podocytes shape the filtration barrier.
+
+Count condition:
+Counts when the renal capillary structure and filtration role are present.
+
+Specific transfer boundary:
+All capillary clusters are not glomeruli.
+
+Epistemic status:
+[DEF]
+
+GB021 ganglion
+
+Common meaning:
+A cluster of nerve-cell bodies outside the central nervous system, or a related neural cluster in some organisms.
+
+Invariant MI [INV]:
+Ganglion is a local biological processing node coupling multiple neural signals.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] It may relay sensory input, autonomic control, or patterned movement.
+
+Count condition:
+Counts when grouped neurons form a functional neural station.
+
+Specific transfer boundary:
+A swelling called a ganglion cyst is a different medical use.
+
+Epistemic status:
+[DEF]
+
+GB022 glycocalyx
+
+Common meaning:
+A carbohydrate-rich layer on the outer surface of many cells.
+
+Invariant MI [INV]:
+Glycocalyx is a molecular boundary involved in protection, adhesion, recognition, and signalling.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Its composition depends on membrane proteins, lipids, and secreted material.
+
+Count condition:
+Counts when the external carbohydrate layer is structurally or chemically identified.
+
+Specific transfer boundary:
+It is not a rigid wall and varies strongly by cell type.
+
+Epistemic status:
+[DEF]
+
+GB023 granulocyte
+
+Common meaning:
+A white blood cell with visible cytoplasmic granules and specialized immune functions.
+
+Invariant MI [INV]:
+Granulocyte is a circulating immune cell class including neutrophils, eosinophils, and basophils.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Each subtype responds to different signals and threats.
+
+Count condition:
+Counts when morphology and lineage markers support granulocyte classification.
+
+Specific transfer boundary:
+Granules alone do not identify the exact subtype.
+
+Epistemic status:
+[DEF]
+
+GB024 guard-cell
+
+Common meaning:
+One of a pair of plant epidermal cells controlling a stomatal pore.
+
+Invariant MI [INV]:
+Guard-cell couples water status, light, carbon dioxide, and ion movement to gas-exchange opening.
+
+Active domain:
+[BIO]
+
+Domain entry:
+[BIO] Changes in cell turgor widen or narrow the pore.
+
+Count condition:
+Counts when the paired cells regulate a stomatal opening.
+
+Specific transfer boundary:
+Protective function in animals is not a guard-cell use.
+
+Epistemic status:
+[DEF]

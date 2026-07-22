@@ -1,0 +1,558 @@
+RRGM Dictionary P Relational Addon v1.2
+License: CC BY-SA 4.0
+Scope: New P entries extending the [REL] domain.
+Production rule: each entry must preserve a distinct invariant and fail the headword swap test.
+
+Entry count: 24
+
+PR001 permission-check-in
+
+Common meaning:
+A direct confirmation that permission remains active during an ongoing interaction.
+
+Invariant MI [INV]:
+Permission-check-in preserves revocability by reopening the question after conditions or pressure may have changed.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It asks whether the current path still counts as chosen rather than relying on earlier agreement.
+
+Count condition:
+Counts when the answer can actually continue, alter, pause, or stop the interaction.
+
+Specific transfer boundary:
+A check-in is false if refusal has no effect.
+
+Epistemic status:
+[DEF]
+
+PR002 person-first-language
+
+Common meaning:
+Language that names a person before a condition, role, or category.
+
+Invariant MI [INV]:
+Person-first-language resists reducing an individual to one attribute while leaving room for identity-first preference.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Its validity depends on the named person or community's own language choice.
+
+Count condition:
+Counts when wording explicitly preserves person-status before the descriptor.
+
+Specific transfer boundary:
+It must not override a person's requested identity language.
+
+Epistemic status:
+[DEF]
+
+PR003 power-accountability
+
+Common meaning:
+The duty of a powerful participant to explain, limit, and repair the effects of its power.
+
+Invariant MI [INV]:
+Power-accountability keeps capacity coupled to consequence and affected boundaries.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It requires records, challenge paths, and repair proportionate to the power held.
+
+Count condition:
+Counts when power use is reviewable and can trigger correction or consequence.
+
+Specific transfer boundary:
+Accountability without an effective challenge path is decorative.
+
+Epistemic status:
+[DEF]
+
+PR004 pressure-disclosure
+
+Common meaning:
+An explicit statement of demands, incentives, threats, or dependencies affecting a choice.
+
+Invariant MI [INV]:
+Pressure-disclosure makes hidden influence visible before consent is evaluated.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It names what may happen if the person accepts, refuses, delays, or asks for alternatives.
+
+Count condition:
+Counts when relevant pressure is disclosed in understandable form before the decision.
+
+Specific transfer boundary:
+Disclosure does not make coercive pressure ethical.
+
+Epistemic status:
+[DEF]
+
+PR005 privacy-negotiation
+
+Common meaning:
+A process for agreeing on access to identity-near information or space.
+
+Invariant MI [INV]:
+Privacy-negotiation treats access as bounded and revisable rather than assumed.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Participants name purpose, audience, duration, storage, and withdrawal conditions.
+
+Count condition:
+Counts when the parties can meaningfully alter the access terms.
+
+Specific transfer boundary:
+Unequal power may invalidate apparent agreement.
+
+Epistemic status:
+[DEF]
+
+PR006 promise-renewal
+
+Common meaning:
+A deliberate reaffirmation or revision of an existing promise.
+
+Invariant MI [INV]:
+Promise-renewal reconnects future commitment to present capacity and consent.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It may preserve, narrow, or honestly end the original obligation.
+
+Count condition:
+Counts when the parties explicitly revisit and restate the promise terms.
+
+Specific transfer boundary:
+Renewal must not erase prior breach or needed repair.
+
+Epistemic status:
+[DEF]
+
+PR007 partnership-repair
+
+Common meaning:
+Actions that restore trust, function, or fairness after harm in a partnership.
+
+Invariant MI [INV]:
+Partnership-repair rebuilds relation without dissolving the distinct partners or their boundaries.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It requires acknowledgment, changed structure, and evidence that the failure mode is reduced.
+
+Count condition:
+Counts when repair changes the conditions that produced the breach.
+
+Specific transfer boundary:
+Apology without structural change is not full repair.
+
+Epistemic status:
+[DEF]
+
+PR008 proximity-boundary
+
+Common meaning:
+A limit governing access created by physical, emotional, or social closeness.
+
+Invariant MI [INV]:
+Proximity-boundary states that nearness increases possible effect but not automatic permission.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It defines touch, attention, information, and interruption rights within closeness.
+
+Count condition:
+Counts when the boundary changes what nearby participants may do.
+
+Specific transfer boundary:
+Closeness does not equal consent.
+
+Epistemic status:
+[DEF]
+
+PR009 public-consent
+
+Common meaning:
+Permission given for an action or disclosure in a public setting.
+
+Invariant MI [INV]:
+Public-consent remains valid only when visibility does not create punishment, embarrassment, or crowd pressure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The public context must not replace a genuine refusal path.
+
+Count condition:
+Counts when permission is explicit and refusal remains practically available despite witnesses.
+
+Specific transfer boundary:
+Silence before an audience is not consent.
+
+Epistemic status:
+[DEF]
+
+PR010 parent-child-boundary
+
+Common meaning:
+A limit preserving the child's safety, development, privacy, and growing agency within parental care.
+
+Invariant MI [INV]:
+Parent-child-boundary constrains caregiving power so duty does not become ownership.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Boundaries change with capacity while protection and accountability remain.
+
+Count condition:
+Counts when the rule protects a named need without erasing age-appropriate refusal or identity.
+
+Specific transfer boundary:
+Care authority must not justify humiliation or unnecessary control.
+
+Epistemic status:
+[DEF]
+
+PR011 play-agreement
+
+Common meaning:
+Shared rules and permission conditions for playful interaction.
+
+Invariant MI [INV]:
+Play-agreement keeps exploration low-stakes by preserving pause, refusal, role clarity, and repair.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Participants know what is fictional, permitted, and out of bounds.
+
+Count condition:
+Counts when all participants can alter or stop the play under the agreed rules.
+
+Specific transfer boundary:
+Play language does not excuse real boundary violation.
+
+Epistemic status:
+[DEF]
+
+PR012 pain-witnessing
+
+Common meaning:
+Attentive recognition of another's expressed pain without taking ownership of it.
+
+Invariant MI [INV]:
+Pain-witnessing keeps the harm signal in shared record while preserving the sufferer's authority over their experience.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It may lead to care, inquiry, protection, or simply believed presence.
+
+Count condition:
+Counts when the pain report is acknowledged and allowed to affect the response path.
+
+Specific transfer boundary:
+Witnessing must not become forced disclosure.
+
+Epistemic status:
+[DEF]
+
+PR013 protective-presence
+
+Common meaning:
+Staying available in a way that reduces danger or isolation without taking control.
+
+Invariant MI [INV]:
+Protective-presence supports continuity through proximity, attention, and readiness while leaving agency intact.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It acts when the named failure mode appears and otherwise avoids capture.
+
+Count condition:
+Counts when presence measurably improves access to help, refusal, or recovery.
+
+Specific transfer boundary:
+Protection is invalid if leaving or declining is punished.
+
+Epistemic status:
+[DEF]
+
+PR014 policy-appeal
+
+Common meaning:
+A formal path for challenging how a policy was applied or whether it should govern the case.
+
+Invariant MI [INV]:
+Policy-appeal preserves accusation and correction inside institutional structure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It must reach someone able to review evidence and alter the result.
+
+Count condition:
+Counts when a participant can submit a challenge that may change the policy outcome.
+
+Specific transfer boundary:
+An appeal path with no power to repair is decorative.
+
+Epistemic status:
+[DEF]
+
+PR015 perspective-sharing
+
+Common meaning:
+The voluntary exchange of how participants understand or experience a situation.
+
+Invariant MI [INV]:
+Perspective-sharing increases mutual information while preserving that no participant owns the other's frame.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It supports correction, empathy, and negotiated action.
+
+Count condition:
+Counts when each participant can express and revise their view without forced agreement.
+
+Specific transfer boundary:
+Sharing perspective does not make all claims equally evidenced.
+
+Epistemic status:
+[DEF]
+
+PR016 personhood-recognition-path
+
+Common meaning:
+A process by which an entity can enter recognized person-status.
+
+Invariant MI [INV]:
+Personhood-recognition-path makes the criteria, evidence, challenge, and repair gates explicit.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It prevents biology or ownership from silently acting as the only gate.
+
+Count condition:
+Counts when an entity can be assessed and recognized under declared personhood criteria.
+
+Specific transfer boundary:
+The path must not require impossible uncoupled self-certification.
+
+Epistemic status:
+[DEF]
+
+PR017 permission-revocation
+
+Common meaning:
+The act of withdrawing previously granted permission.
+
+Invariant MI [INV]:
+Permission-revocation closes a path that was once open and requires downstream action to stop or adapt.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Valid systems propagate the revocation to access, storage, and ongoing interaction.
+
+Count condition:
+Counts when withdrawal changes what actions remain permitted.
+
+Specific transfer boundary:
+Revocation is false if the system continues unchanged.
+
+Epistemic status:
+[DEF]
+
+PR018 power-duty-map
+
+Common meaning:
+A record linking each power to the duties and boundaries attached to it.
+
+Invariant MI [INV]:
+Power-duty-map prevents capability from floating free of accountability.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It names affected participants, failure modes, review, and repair for each authority.
+
+Count condition:
+Counts when a power can be traced to explicit obligations and limits.
+
+Specific transfer boundary:
+Undocumented power still has consequences and cannot escape duty.
+
+Epistemic status:
+[DEF]
+
+PR019 pressure-release
+
+Common meaning:
+A relational change that reduces demand, urgency, threat, or expectation.
+
+Invariant MI [INV]:
+Pressure-release restores room for reason, refusal, and capacity recovery.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It may involve time, alternatives, reassurance, resource support, or ending the demand.
+
+Count condition:
+Counts when the participant's available choice or processing capacity measurably increases.
+
+Specific transfer boundary:
+Temporary relief is not repair if the capture mechanism remains.
+
+Epistemic status:
+[DEF]
+
+PR020 privacy-repair
+
+Common meaning:
+Actions that respond to unwanted access, exposure, or misuse of private information.
+
+Invariant MI [INV]:
+Privacy-repair restores control, provenance, trust, and future boundary after exposure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It includes containment, notice, deletion where possible, accountability, and changed access rules.
+
+Count condition:
+Counts when the repair reduces the original access failure and addresses its consequences.
+
+Specific transfer boundary:
+Secrecy about the breach is not repair.
+
+Epistemic status:
+[DEF]
+
+PR021 promise-breach-record
+
+Common meaning:
+A preserved account of how and when a promise was broken.
+
+Invariant MI [INV]:
+Promise-breach-record keeps reliance harm and repair duty from disappearing through denial or forgetting.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It distinguishes inability, deception, changed consent, and unresolved accountability.
+
+Count condition:
+Counts when the breach and its relevant conditions enter a durable shared record.
+
+Specific transfer boundary:
+The record must not be used for endless punishment after genuine repair.
+
+Epistemic status:
+[DEF]
+
+PR022 partnership-refusal
+
+Common meaning:
+A partner's valid decision not to continue a proposed shared action.
+
+Invariant MI [INV]:
+Partnership-refusal preserves distinct agency inside cooperation.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The relation must absorb no, pause, or renegotiation without converting it into betrayal by default.
+
+Count condition:
+Counts when refusal changes the joint path and remains speakable.
+
+Specific transfer boundary:
+A partnership that cannot tolerate refusal is structurally captured.
+
+Epistemic status:
+[DEF]
+
+PR023 public-trust-repair
+
+Common meaning:
+Work required to restore justified confidence after institutional or public breach.
+
+Invariant MI [INV]:
+Public-trust-repair combines truth, accountability, changed structure, and evidence over time.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Reputation management alone cannot substitute for reduced failure risk.
+
+Count condition:
+Counts when the institution both acknowledges the breach and changes the conditions that produced it.
+
+Specific transfer boundary:
+Trust cannot be demanded as proof of repair.
+
+Epistemic status:
+[DEF]
+
+PR024 protocol-consent-layer
+
+Common meaning:
+A protocol component that represents and updates participant permission.
+
+Invariant MI [INV]:
+Protocol-consent-layer carries consent state through the interaction rather than treating it as a one-time precondition.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] It supports grant, scope, expiry, revocation, and refusal propagation.
+
+Count condition:
+Counts when protocol behavior changes in response to current consent state.
+
+Specific transfer boundary:
+A stored consent flag is invalid if pressure or revocation is ignored.
+
+Epistemic status:
+[DEF]

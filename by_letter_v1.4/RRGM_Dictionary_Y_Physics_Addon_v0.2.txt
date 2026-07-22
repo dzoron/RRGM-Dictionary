@@ -1,0 +1,487 @@
+RRGM Dictionary Y - Physics Domain Addon
+Version 0.2 | July 2026
+License: CC BY-SA 4.0
+Scope: New [PHY] vocabulary not present in the Y base list.
+Rule: Each entry remains domain-bound. Every invariant, domain line, and count condition must retain the individual term's semantic fingerprint.
+
+Entry count: 24
+
+YP001 yaw
+
+Common meaning:
+Rotation of a body around its vertical axis.
+
+Invariant MI [INV]:
+Yaw is orientation change around the vertical reference axis.
+
+Domain entry:
+[PHY] Rotation that turns a body left or right around its vertical axis.
+
+Count condition:
+A body changes heading through rotation about a declared vertical axis.
+
+Transfer limit:
+The active axis and reference frame must be declared.
+
+Epistemic status:
+[DEF]
+
+YP002 yaw-angle
+
+Common meaning:
+The angular amount of yaw rotation.
+
+Invariant MI [INV]:
+Yaw-angle measures horizontal orientation relative to a reference direction.
+
+Domain entry:
+[PHY] The angle between a body's heading and a declared reference heading.
+
+Count condition:
+A yaw reference direction and current heading are declared so their angular difference can be measured.
+
+Transfer limit:
+Do not confuse yaw with pitch or roll.
+
+Epistemic status:
+[DEF]
+
+YP003 yaw-rate
+
+Common meaning:
+The rate at which yaw angle changes.
+
+Invariant MI [INV]:
+Yaw-rate measures rotational change around the vertical axis.
+
+Domain entry:
+[PHY] Change in yaw angle per unit measured time.
+
+Count condition:
+Yaw angle is measured at more than one point in time so its rate of change can be determined.
+
+Transfer limit:
+The sign convention and frame must be declared.
+
+Epistemic status:
+[DEF]
+
+YP004 Youngs-modulus
+
+Common meaning:
+A measure of elastic stiffness under axial stress.
+
+Invariant MI [INV]:
+Youngs-modulus relates stress to strain in the linear elastic region.
+
+Domain entry:
+[PHY] The ratio of axial stress to axial strain while material response remains approximately linear and elastic.
+
+Count condition:
+Axial stress and strain are measured in a material region where response is approximately linear and elastic.
+
+Transfer limit:
+It does not describe plastic deformation beyond the elastic region.
+
+Epistemic status:
+[DEF]
+
+YP005 Youngs-double-slit-experiment
+
+Common meaning:
+An interference experiment showing wave-like behavior through two openings.
+
+Invariant MI [INV]:
+Youngs-double-slit-experiment reveals phase-dependent interference from coupled paths.
+
+Domain entry:
+[PHY] A two-path arrangement in which detected intensity forms interference fringes when coherent waves overlap.
+
+Count condition:
+Two coherent paths are present and the detection record can resolve an interference pattern.
+
+Transfer limit:
+Interpretation depends on the tested system and measurement conditions.
+
+Epistemic status:
+[DEF]
+
+YP006 Youngs-interference-fringes
+
+Common meaning:
+Alternating intensity bands produced by two-path interference.
+
+Invariant MI [INV]:
+Youngs-interference-fringes are the spatial record of phase difference.
+
+Domain entry:
+[PHY] Bright and dark bands formed by constructive and destructive interference from coherent paths.
+
+Count condition:
+Alternating intensity bands are recorded and linked to phase difference between the two coherent paths.
+
+Transfer limit:
+Fringe visibility depends on coherence and apparatus resolution.
+
+Epistemic status:
+[DEF]
+
+YP007 Young-Laplace-equation
+
+Common meaning:
+A relation between pressure difference, surface tension, and interface curvature.
+
+Invariant MI [INV]:
+Young-Laplace-equation maps curved-interface structure to pressure difference.
+
+Domain entry:
+[PHY] Pressure across a fluid interface is related to surface tension and principal curvatures.
+
+Count condition:
+A curved fluid interface, surface tension, curvature convention, and pressure difference are all defined.
+
+Transfer limit:
+The equation requires a declared interface model and curvature convention.
+
+Epistemic status:
+[DEF]
+
+YP008 yield-strength
+
+Common meaning:
+The stress at which a material begins significant permanent deformation.
+
+Invariant MI [INV]:
+Yield-strength marks the transition from mostly elastic response to plastic change.
+
+Domain entry:
+[PHY] The stress threshold used to identify onset of lasting deformation under declared test conditions.
+
+Count condition:
+A declared material test identifies the stress at which significant permanent deformation begins.
+
+Transfer limit:
+Its value depends on material, method, temperature, and loading path.
+
+Epistemic status:
+[DEF]
+
+YP009 yield-stress
+
+Common meaning:
+The applied stress associated with the onset of yielding.
+
+Invariant MI [INV]:
+Yield-stress is the load intensity at the material turn into plastic response.
+
+Domain entry:
+[PHY] Stress at which a declared material criterion identifies yielding.
+
+Count condition:
+Applied stress is measured and a selected yield criterion identifies the onset of yielding.
+
+Transfer limit:
+Different criteria can produce different reported values.
+
+Epistemic status:
+[DEF]
+
+YP010 yield-strain
+
+Common meaning:
+The strain associated with a declared yield point.
+
+Invariant MI [INV]:
+Yield-strain marks deformation at the yield threshold.
+
+Domain entry:
+[PHY] The material strain recorded when the chosen yield criterion is reached.
+
+Count condition:
+Material strain is measured at the point where the declared yield criterion is reached.
+
+Transfer limit:
+It is not universal across materials or test methods.
+
+Epistemic status:
+[DEF]
+
+YP011 yield-surface
+
+Common meaning:
+A boundary in stress space separating elastic from plastic response.
+
+Invariant MI [INV]:
+Yield-surface is a formal threshold field for material state change.
+
+Domain entry:
+[PHY] A surface whose crossing indicates plastic yielding under a constitutive model.
+
+Count condition:
+A constitutive model defines a stress-space boundary whose crossing marks plastic response.
+
+Transfer limit:
+The result depends on the selected material model.
+
+Epistemic status:
+[DEF]
+
+YP012 yttrium
+
+Common meaning:
+A chemical element with atomic number 39.
+
+Invariant MI [INV]:
+Yttrium is a material identity defined by proton count.
+
+Domain entry:
+[PHY] A metallic chemical element whose atoms contain 39 protons.
+
+Count condition:
+The element identity is fixed by atomic number 39 and the sample or atom is identified as yttrium.
+
+Transfer limit:
+Material behavior depends on chemical state and conditions.
+
+Epistemic status:
+[DEF]
+
+YP013 ytterbium
+
+Common meaning:
+A chemical element with atomic number 70.
+
+Invariant MI [INV]:
+Ytterbium is a material identity defined by proton count.
+
+Domain entry:
+[PHY] A lanthanide element whose atoms contain 70 protons.
+
+Count condition:
+The element identity is fixed by atomic number 70 and the sample or atom is identified as ytterbium.
+
+Transfer limit:
+Do not infer bulk properties without specifying form and conditions.
+
+Epistemic status:
+[DEF]
+
+YP014 YAG
+
+Common meaning:
+Yttrium aluminum garnet, a crystalline material used in optics and lasers.
+
+Invariant MI [INV]:
+YAG is a structured crystal capable of carrying optical function.
+
+Domain entry:
+[PHY] A yttrium-aluminum-oxide garnet crystal used as an optical host material.
+
+Count condition:
+A yttrium-aluminium-garnet crystal or device is identified with its composition and relevant optical or structural use.
+
+Transfer limit:
+Optical behavior depends on composition, defects, and doping.
+
+Epistemic status:
+[DEF]
+
+YP015 YBCO
+
+Common meaning:
+Yttrium barium copper oxide, a high-temperature superconducting ceramic family.
+
+Invariant MI [INV]:
+YBCO is a layered material whose electrical state changes below a critical condition.
+
+Domain entry:
+[PHY] A copper-oxide ceramic family that can exhibit superconductivity below a composition- and field-dependent critical temperature.
+
+Count condition:
+The material is identified as yttrium-barium-copper oxide and its phase and measurement conditions are declared.
+
+Transfer limit:
+Superconductivity is not present under all temperatures, fields, or material qualities.
+
+Epistemic status:
+[DEF]
+
+YP016 YIG
+
+Common meaning:
+Yttrium iron garnet, a ferrimagnetic crystal used in microwave and spin-wave systems.
+
+Invariant MI [INV]:
+YIG is a magnetic crystal with low-loss signal behavior under suitable conditions.
+
+Domain entry:
+[PHY] A ferrimagnetic garnet material used for microwave, magnonic, and optical applications.
+
+Count condition:
+A yttrium-iron-garnet material or component is identified and the relevant magnetic or microwave response is measured.
+
+Transfer limit:
+Its response depends on frequency, field, geometry, and material quality.
+
+Epistemic status:
+[DEF]
+
+YP017 Yukawa-potential
+
+Common meaning:
+A short-range potential that decays exponentially with distance.
+
+Invariant MI [INV]:
+Yukawa-potential models mediated interaction with finite range.
+
+Domain entry:
+[PHY] A potential proportional to an inverse-distance factor multiplied by exponential decay.
+
+Count condition:
+The interaction model uses an exponentially screened potential with declared coupling and range parameters.
+
+Transfer limit:
+The model applies only where its assumptions and parameters fit the interaction.
+
+Epistemic status:
+[DEF]
+
+YP018 Yukawa-interaction
+
+Common meaning:
+An interaction modeled through exchange of a massive mediator.
+
+Invariant MI [INV]:
+Yukawa-interaction links finite mediator mass to limited interaction range.
+
+Domain entry:
+[PHY] A field interaction whose effective range is finite because the mediating excitation has nonzero mass.
+
+Count condition:
+The system is modeled through a Yukawa-type mediated interaction and the mediator or effective range is declared.
+
+Transfer limit:
+Do not use it as a generic label for every short-range force.
+
+Epistemic status:
+[DEF]
+
+YP019 Y-junction
+
+Common meaning:
+A three-branch connection shaped like the letter Y.
+
+Invariant MI [INV]:
+Y-junction divides or combines flow through three connected paths.
+
+Domain entry:
+[PHY] A junction where one channel splits into two or two channels combine into one.
+
+Count condition:
+Three physical paths meet at one junction and the connection rules for flow, current, or wave propagation are stated.
+
+Transfer limit:
+Flow behavior depends on geometry, medium, and boundary conditions.
+
+Epistemic status:
+[DEF]
+
+YP020 Y-branch
+
+Common meaning:
+A branching structure with one stem and two arms.
+
+Invariant MI [INV]:
+Y-branch is a physical split or merge topology.
+
+Domain entry:
+[PHY] A branch geometry used to divide force, fluid, signal, or path into two connected routes.
+
+Count condition:
+One incoming path splits into two outgoing branches or two branches merge under declared conservation conditions.
+
+Transfer limit:
+A shared shape does not guarantee shared dynamics across media.
+
+Epistemic status:
+[DEF]
+
+YP021 yellow-dwarf
+
+Common meaning:
+A common descriptive label for a main-sequence star similar in class to the Sun.
+
+Invariant MI [INV]:
+Yellow-dwarf is a stellar classification label, not a literal surface color description.
+
+Domain entry:
+[PHY] A main-sequence star in a temperature and spectral range commonly associated with G-type stars.
+
+Count condition:
+A main-sequence star is classified in the yellow spectral-temperature region under an astronomical scheme.
+
+Transfer limit:
+The label is approximate and observationally framed.
+
+Epistemic status:
+[DEF]
+
+YP022 yellow-hypergiant
+
+Common meaning:
+A rare, luminous, massive evolved star in a yellow spectral range.
+
+Invariant MI [INV]:
+Yellow-hypergiant marks an unstable high-luminosity stellar state.
+
+Domain entry:
+[PHY] A highly luminous evolved star with large mass loss and temperature in a yellow spectral region.
+
+Count condition:
+A highly luminous evolved star is classified as a yellow hypergiant from its spectrum, luminosity, and instability indicators.
+
+Transfer limit:
+Classification depends on observed spectrum and evolutionary interpretation.
+
+Epistemic status:
+[DEF]
+
+YP023 yoctometer
+
+Common meaning:
+A length equal to 10^-24 meter.
+
+Invariant MI [INV]:
+Yoctometer is a formal physical length scale.
+
+Domain entry:
+[PHY] A metric unit representing one septillionth of a meter.
+
+Count condition:
+A length is expressed at the 10^-24 metre scale under the SI yocto prefix.
+
+Transfer limit:
+The unit does not imply that every such scale is directly measurable.
+
+Epistemic status:
+[DEF]
+
+YP024 yottameter
+
+Common meaning:
+A length equal to 10^24 meters.
+
+Invariant MI [INV]:
+Yottameter is a formal physical length scale.
+
+Domain entry:
+[PHY] A metric unit representing one septillion meters.
+
+Count condition:
+A length is expressed at the 10^24 metre scale under the SI yotta prefix.
+
+Transfer limit:
+The unit is a scale label and does not itself establish an observed distance.
+
+Epistemic status:
+[DEF]

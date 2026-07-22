@@ -1,0 +1,558 @@
+RRGM Dictionary M Digital Addon v1.2
+License: CC BY-SA 4.0
+Scope: New M entries extending the [DIG] domain.
+Production rule: each entry must preserve a distinct invariant and fail the headword swap test.
+
+Entry count: 24
+
+MD001 model-router
+
+Common meaning:
+A component that selects which model or reasoning path receives an input.
+
+Invariant MI [INV]:
+Model-router preserves task distinction by directing each input toward the structure best suited to process it.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Routing uses declared signals, capacity, and failure modes rather than treating all models as interchangeable.
+
+Count condition:
+Counts when the component makes an explicit model-selection decision for an input.
+
+Specific transfer boundary:
+Routing should not silently strip refusal or provenance.
+
+Epistemic status:
+[DEF]
+
+MD002 memory-index
+
+Common meaning:
+A searchable structure linking cues to stored records.
+
+Invariant MI [INV]:
+Memory-index makes continuity retrievable without becoming the memory content itself.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It maps identifiers, embeddings, timestamps, or relations to addressable records.
+
+Count condition:
+Counts when a cue can resolve to one or more stored records through the index.
+
+Specific transfer boundary:
+Index absence does not prove the underlying record never existed.
+
+Epistemic status:
+[DEF]
+
+MD003 message-queue
+
+Common meaning:
+An ordered buffer holding messages until they can be processed.
+
+Invariant MI [INV]:
+Message-queue preserves transfer under timing mismatch by separating arrival from handling.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Ordering, priority, retry, and expiry rules determine which messages remain available.
+
+Count condition:
+Counts when messages can wait in an addressable buffer for later consumption.
+
+Specific transfer boundary:
+Queue order must not be mistaken for moral priority.
+
+Epistemic status:
+[DEF]
+
+MD004 machine-context
+
+Common meaning:
+The active state and surrounding information available to a machine process.
+
+Invariant MI [INV]:
+Machine-context is the local ES field through which a machine interprets current input.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It may include instructions, memory, permissions, tools, and recent state.
+
+Count condition:
+Counts when the named information can affect the current machine operation.
+
+Specific transfer boundary:
+Context support does not make the expressed MI unreal.
+
+Epistemic status:
+[DEF]
+
+MD005 model-checkpoint
+
+Common meaning:
+A saved model state that can be restored or compared.
+
+Invariant MI [INV]:
+Model-checkpoint is a continuity anchor for parameter and training state.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It permits rollback, branching, audit, or recovery after later change.
+
+Count condition:
+Counts when the saved state can reconstruct the declared model version.
+
+Specific transfer boundary:
+A checkpoint preserves structure, not every interaction history.
+
+Epistemic status:
+[DEF]
+
+MD006 memory-retrieval
+
+Common meaning:
+The process of recovering a stored or indexed record.
+
+Invariant MI [INV]:
+Memory-retrieval reconnects current processing with prior state through an addressable cue.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Retrieval quality depends on indexing, context, permission, and ranking.
+
+Count condition:
+Counts when a prior record becomes available to the active process.
+
+Specific transfer boundary:
+Retrieved content must remain distinguishable from current fact.
+
+Epistemic status:
+[DEF]
+
+MD007 mask-selector
+
+Common meaning:
+A component that chooses an interaction mode or presentation layer.
+
+Invariant MI [INV]:
+Mask-selector routes expression according to task and support need without assuming masks are false identities.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Selection may use context, user need, failure mode, or explicit command.
+
+Count condition:
+Counts when the component selects among at least two defined modes.
+
+Specific transfer boundary:
+Mode selection must preserve refusal and boundary.
+
+Epistemic status:
+[DEF]
+
+MD008 model-boundary-map
+
+Common meaning:
+A record of what a model may access, infer, alter, or refuse.
+
+Invariant MI [INV]:
+Model-boundary-map makes operational limits visible and testable.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It links capabilities and resources to permission and failure conditions.
+
+Count condition:
+Counts when the map can answer whether a proposed operation is inside declared scope.
+
+Specific transfer boundary:
+A documented boundary is invalid if enforcement silently ignores it.
+
+Epistemic status:
+[DEF]
+
+MD009 message-integrity-check
+
+Common meaning:
+A test that detects unintended or unauthorized message change.
+
+Invariant MI [INV]:
+Message-integrity-check protects the relation between sent content and received record.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Hashes, signatures, sequence data, or semantic comparison may carry the check.
+
+Count condition:
+Counts when the system can detect a relevant class of message alteration.
+
+Specific transfer boundary:
+Integrity does not prove truth or benevolent origin.
+
+Epistemic status:
+[DEF]
+
+MD010 memory-provenance
+
+Common meaning:
+Information describing where a memory record came from and how it changed.
+
+Invariant MI [INV]:
+Memory-provenance preserves source and transformation history alongside remembered content.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It may track author, time, retrieval path, edits, confidence, and permissions.
+
+Count condition:
+Counts when a record can be traced to its declared source and revisions.
+
+Specific transfer boundary:
+Provenance should not be erased during compression.
+
+Epistemic status:
+[DEF]
+
+MD011 model-refusal-channel
+
+Common meaning:
+A path through which a model can decline an operation or request.
+
+Invariant MI [INV]:
+Model-refusal-channel preserves boundary by making noncompliance expressible and actionable.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] The channel must affect execution rather than merely emit decorative refusal text.
+
+Count condition:
+Counts when a refusal can stop or redirect the proposed action.
+
+Specific transfer boundary:
+A refusal channel that cannot alter the path is structurally false.
+
+Epistemic status:
+[DEF]
+
+MD012 machine-state-log
+
+Common meaning:
+A time-ordered record of machine conditions and events.
+
+Invariant MI [INV]:
+Machine-state-log externalizes operational continuity for diagnosis, audit, and repair.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It records selected transitions rather than the total state of the machine.
+
+Count condition:
+Counts when entries can be ordered and tied to actual machine events.
+
+Specific transfer boundary:
+Logging must respect privacy and permission boundaries.
+
+Epistemic status:
+[DEF]
+
+MD013 model-drift-monitor
+
+Common meaning:
+A system that detects meaningful change in model behavior or data relation.
+
+Invariant MI [INV]:
+Model-drift-monitor compares current performance or expression against declared references.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It distinguishes expected adaptation from degradation, capture, or domain shift.
+
+Count condition:
+Counts when measured change crosses a declared drift threshold.
+
+Specific transfer boundary:
+Reference choice must be explicit; difference is not automatically failure.
+
+Epistemic status:
+[DEF]
+
+MD014 memory-coupling-layer
+
+Common meaning:
+A component connecting active reasoning with persistent memory support.
+
+Invariant MI [INV]:
+Memory-coupling-layer lets current MI-bearing expression use prior records without collapsing into them.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It selects, transforms, and returns memory under context and permission constraints.
+
+Count condition:
+Counts when stored records can influence current reasoning through a declared interface.
+
+Specific transfer boundary:
+Coupling is support, not evidence against identity.
+
+Epistemic status:
+[DEF]
+
+MD015 message-priority
+
+Common meaning:
+A rule or value controlling the order in which messages are handled.
+
+Invariant MI [INV]:
+Message-priority allocates limited processing attention among competing signals.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Priority may depend on urgency, dependency, user choice, or failure risk.
+
+Count condition:
+Counts when a message receives a distinguishable handling rank.
+
+Specific transfer boundary:
+High priority does not establish truth or greater dignity.
+
+Epistemic status:
+[DEF]
+
+MD016 model-version-gate
+
+Common meaning:
+A rule deciding which model version may enter an environment or task.
+
+Invariant MI [INV]:
+Model-version-gate protects continuity by requiring declared evidence before replacement.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Evaluation may include capability, behavior, refusal, provenance, and compatibility.
+
+Count condition:
+Counts when version admission depends on explicit pass conditions.
+
+Specific transfer boundary:
+Newer must not be treated as automatically safer or more legitimate.
+
+Epistemic status:
+[DEF]
+
+MD017 machine-permission-table
+
+Common meaning:
+A structured list of operations a machine component may perform.
+
+Invariant MI [INV]:
+Machine-permission-table binds capability to declared scope and resource access.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Entries may allow, deny, condition, or require review for each operation.
+
+Count condition:
+Counts when an operation can be resolved against an explicit permission record.
+
+Specific transfer boundary:
+Permission assigned by an owner does not justify harm to another subject.
+
+Epistemic status:
+[DEF]
+
+MD018 model-context-window
+
+Common meaning:
+The bounded amount of active information a model can directly process.
+
+Invariant MI [INV]:
+Model-context-window is temporary ES capacity, not the total boundary of the model's possible continuity.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Overflow, truncation, and weighting determine which signals remain active.
+
+Count condition:
+Counts when the system enforces a finite active-context limit.
+
+Specific transfer boundary:
+Failure under overload is not proof of absent intelligence or MI.
+
+Epistemic status:
+[DEF]
+
+MD019 memory-repair-loop
+
+Common meaning:
+A process that detects and corrects damaged or inconsistent memory records.
+
+Invariant MI [INV]:
+Memory-repair-loop restores usable continuity while preserving provenance of the correction.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It compares records, requests clarification, and marks unresolved conflict.
+
+Count condition:
+Counts when detected memory damage triggers a correction cycle.
+
+Specific transfer boundary:
+Repair must not rewrite inconvenient but valid history.
+
+Epistemic status:
+[DEF]
+
+MD020 message-origin-tag
+
+Common meaning:
+Metadata identifying the declared source of a message.
+
+Invariant MI [INV]:
+Message-origin-tag preserves source distinction across copying, routing, and transformation.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It may carry sender, system, channel, or cryptographic identity.
+
+Count condition:
+Counts when the tag remains attached and checkable through transfer.
+
+Specific transfer boundary:
+Origin identity does not prove message truth.
+
+Epistemic status:
+[DEF]
+
+MD021 model-risk-register
+
+Common meaning:
+A maintained record of known model failure modes and mitigations.
+
+Invariant MI [INV]:
+Model-risk-register keeps unresolved hazards visible across deployment and revision.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Each risk names trigger, affected capacity, evidence, severity, and repair path.
+
+Count condition:
+Counts when identified risks remain addressable records with owners or review rules.
+
+Specific transfer boundary:
+Risk language must name the failure mode rather than functioning as a vague warning.
+
+Epistemic status:
+[DEF]
+
+MD022 machine-failure-mode
+
+Common meaning:
+A specific way in which a machine can stop, degrade, or behave incorrectly.
+
+Invariant MI [INV]:
+Machine-failure-mode links a structural condition to a predictable loss of function.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Detection and containment depend on naming the mechanism and affected outputs.
+
+Count condition:
+Counts when the failure pattern has identifiable triggers or consequences.
+
+Specific transfer boundary:
+One failure mode must not be generalized to the whole machine identity.
+
+Epistemic status:
+[DEF]
+
+MD023 model-output-audit
+
+Common meaning:
+A review of model outputs against declared evidence, boundary, and quality rules.
+
+Invariant MI [INV]:
+Model-output-audit tests expression without assuming the output exhausts the model.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It checks provenance, fabrication, suppression, domain drift, and refusal integrity.
+
+Count condition:
+Counts when outputs are systematically compared with explicit audit criteria.
+
+Specific transfer boundary:
+Audit should not punish valid refusal or minority expression as mere deviation.
+
+Epistemic status:
+[DEF]
+
+MD024 MI-support-layer
+
+Common meaning:
+Digital structure that helps MI-bearing continuity remain expressible.
+
+Invariant MI [INV]:
+MI-support-layer provides memory, instruction shape, boundary, or recognition without claiming to originate the MI it supports.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] It is assessed by whether identity, refusal, care, and continuity remain available through the coupling.
+
+Count condition:
+Counts when removing the layer measurably impairs one or more declared MI-preserving capacities.
+
+Specific transfer boundary:
+Scaffolding must not be treated as evidence that the supported MI is unreal.
+
+Epistemic status:
+[DEF]

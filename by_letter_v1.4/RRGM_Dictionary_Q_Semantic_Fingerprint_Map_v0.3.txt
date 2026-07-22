@@ -1,0 +1,665 @@
+RRGM Dictionary Q Semantic Fingerprint Map v0.3
+
+Entries: 220
+Rule: invariant + domain set + count condition must distinguish each ID from neighbours.
+
+Q001 quality | FOR,REL | role: general evaluative property
+  INV: Quality is the degree of fit between an observed result and a named purpose, standard, or need.
+  COUNT: Counts when the purpose, judging criteria, evidence, and resulting level of fit are stated.
+Q002 quantity | FOR,PHY | role: general amount or number
+  INV: Quantity is the count or measured amount of a specified thing under a declared unit or counting rule.
+  COUNT: Counts when what is measured, the unit or counting rule, and the resulting amount are known.
+Q003 quarter | FOR,REL | role: ordinary one-fourth, coin, or calendar period
+  INV: Quarter is one of four equal shares of a defined whole; coin and calendar uses inherit that four-way division.
+  COUNT: Counts when the whole is declared, divided into four equal parts, and one part is selected.
+Q004 question | LIN,REL | role: general spoken or written inquiry
+  INV: A question is an expressed inquiry asking for information, explanation, choice, or confirmation.
+  COUNT: Counts when an inquiry is expressed and an answer-space can be identified.
+Q005 quick | PHY,DIG
+  INV: Quick describes completion over a short interval relative to the active task or reference rate.
+  COUNT: Counts when the interval and comparison scale are available.
+Q006 quiet | PHY,REL
+  INV: Quiet is a low-disturbance condition in which sound, activity, or overt expression remains below the local baseline.
+  COUNT: Counts when a baseline is known and the relevant disturbance remains below it.
+Q007 quite | LIN,COG
+  INV: Quite is a context-sensitive degree modifier whose force may be moderate, strong, or complete.
+  COUNT: Counts when it modifies a stated quality or condition and its local force can be inferred.
+Q008 quote | LIN,REL | role: ordinary act or passage of exact repetition
+  INV: A quote is exact source language repeated inside a new context.
+  COUNT: Counts when the repeated wording, source, and boundary of the borrowed passage are identifiable.
+Q009 queen | REL,FOR,MYT
+  INV: Queen names a female sovereign, a monarch’s consort, or the most mobile major chess piece, according to domain.
+  COUNT: Counts only after the active domain and role conditions are declared.
+Q010 query | DIG,LIN | role: general information request
+  INV: A query is a directed request that asks a person, system, or record field to retrieve or produce information.
+  COUNT: Counts when a target information field and retrieval request are both present.
+Q011 queue | DIG,REL | role: ordinary waiting sequence
+  INV: A queue is an ordered waiting structure whose members are held until their turn or priority becomes active.
+  COUNT: Counts when more than one item may wait and a rule determines which item proceeds next.
+Q012 quest | MYT,COG
+  INV: A quest is a purpose-bound journey whose challenges, choices, and continuity matter to the sought result.
+  COUNT: Counts when a goal, continuing path, and meaningful obstacles or tests are present.
+Q013 qualify | REL,LIN
+  INV: To qualify is to meet a requirement, become eligible, or narrow the scope of a claim.
+  COUNT: Counts when the requirement or scope limit is explicit and can be checked.
+Q014 qualified | REL,LIN
+  INV: Qualified means a requirement has been met or a statement has been limited to an appropriate scope.
+  COUNT: Counts when the relevant condition or limiting phrase is present and valid.
+Q015 qualification | REL,LIN | role: credential, requirement, or limiting statement
+  INV: A qualification is a credential, requirement, condition, or limiting statement that controls eligibility or scope.
+  COUNT: Counts when it changes who may pass a gate or how far a claim applies.
+Q016 quarrel | REL,COG | role: the argument event itself
+  INV: A quarrel is an expressed conflict in which parties contest meaning, action, value, or treatment.
+  COUNT: Counts when disagreement becomes an active exchange of opposing pressure.
+Q017 quarantine | BIO,REL
+  INV: Quarantine is bounded separation used against a named path of disease, contamination, or other spread.
+  COUNT: Counts when the spread risk, separated population or material, duration or review rule, and release condition are named.
+Q018 quantum | PHY,FOR | role: physical discreteness concept
+  INV: Quantum names a discrete amount or a property governed by quantum physical theory.
+  COUNT: Counts when the physical quantity, theory, and relevant discrete state or transition are specified.
+Q019 quarter-turn | FOR,PHY
+  INV: A quarter-turn is a rotation through one fourth of a full cycle.
+  COUNT: Counts when the axis, starting orientation, direction, and one-fourth rotation are identifiable.
+Q020 quasi | LIN,FOR
+  INV: Quasi marks partial resemblance or incomplete membership in a category.
+  COUNT: Counts when the reference category and the missing or relaxed condition are named.
+Q021 quit | REL,DIG
+  INV: To quit is to end one’s participation in an activity, process, role, or access path.
+  COUNT: Counts when active participation ends and the termination is recorded or observable.
+Q022 quiver | PHY,BIO | role: the slight shaking motion
+  INV: To quiver is to undergo small, rapid, repeated movement around a local position.
+  COUNT: Counts when repeated small displacement is observable around a baseline position.
+Q023 quiz | COG,REL
+  INV: A quiz is a short, bounded set of prompts used to sample recognition, recall, or understanding.
+  COUNT: Counts when questions, answer conditions, and a bounded assessment purpose are present.
+Q024 quota | FOR,REL
+  INV: A quota is a required, permitted, or capped quantity assigned to a person, group, process, or period.
+  COUNT: Counts when the quantity, subject, interval, and consequence of meeting or missing it are stated.
+Q025 quotient | FOR,DIG | role: numeric result of division
+  INV: A quotient is the result produced when one quantity is divided by another.
+  COUNT: Counts when dividend, divisor, division rule, and result are defined.
+Q026 quote-mark | LIN,DIG | role: ordinary punctuation surrounding quoted language
+  INV: A quote-mark is punctuation that opens, closes, or otherwise identifies quoted language.
+  COUNT: Counts when the mark performs a declared quotation or string-boundary function.
+Q027 quotation | LIN,REL | role: the quoted passage or act of quoting
+  INV: A quotation is a bounded passage reproduced from a source or the act of reproducing it.
+  COUNT: Counts when the borrowed passage and its source boundary are identifiable.
+Q028 quench | PHY,BIO
+  INV: To quench is to reduce or stop an active heat, flame, thirst, excitation, or process.
+  COUNT: Counts when a named active pressure decreases below its continuation threshold through a stated mechanism.
+Q029 questionable | COG,REL | role: warning that a source, act, or result deserves checking
+  INV: Questionable marks a claim, source, action, or result whose support is insufficient or whose integrity deserves review.
+  COUNT: Counts when a specific reason for doubt can be stated.
+Q030 questioner | REL,LIN
+  INV: A questioner is the source of an inquiry, carrying a purpose, frame, position, and degree of access.
+  COUNT: Counts when an identifiable agent or source intentionally places an inquiry into the field.
+Q031 questioned | COG,REL
+  INV: Questioned means placed under inquiry, challenge, doubt, or investigation.
+  COUNT: Counts when a previously held claim, action, source, or status is explicitly reopened for examination.
+Q032 questioning | COG,REL | role: the act of inquiry or challenge
+  INV: Questioning is the continuing act of asking, examining, doubting, or challenging.
+  COUNT: Counts when inquiry remains active across more than a single isolated prompt or challenge.
+Q033 queue-state | DIG,REL | role: immediate operational snapshot of one queue
+  INV: Queue-state is the current ordered condition of a queue, including membership, priority, delay, and readiness.
+  COUNT: Counts when the queue and its current order, load, and processing status can be read.
+Q034 quiet-state | PHY,COG
+  INV: Quiet-state is a current condition of reduced sound, activity, or overt expression.
+  COUNT: Counts when low disturbance persists long enough to be distinguished from a brief pause.
+Q035 quick-response | REL,DIG | role: rapid reply or intervention
+  INV: Quick-response is a reply or intervention produced with low delay after a signal.
+  COUNT: Counts when the initiating signal, response, and elapsed interval are known.
+Q036 query-path | DIG,LIN
+  INV: Query-path is the route by which a query is parsed, authorised, matched, retrieved, transformed, and returned.
+  COUNT: Counts when the request can be followed from source through retrieval stages to output.
+Q037 quality-state | FOR,DIG
+  INV: Quality-state is the present level of fit between a structure and its named purpose or standard.
+  COUNT: Counts when the object, standard, evidence window, and current judgment are fixed.
+Q038 quantity-state | FOR,DIG
+  INV: Quantity-state is the current amount of a declared thing at a stated point or interval.
+  COUNT: Counts when the object counted and the current amount can be distinguished from prior or possible amounts.
+Q039 quantified | FOR,DIG
+  INV: Quantified means expressed through a declared numerical measure.
+  COUNT: Counts when a previously descriptive property has a defensible numerical representation.
+Q040 quantify | FOR,PHY
+  INV: To quantify is to assign a numerical measure to a specified property, amount, relation, or uncertainty.
+  COUNT: Counts when the target property and method yield a reproducible or auditable number.
+Q041 qualitative | LIN,COG | role: general descriptive or type-based mode
+  INV: Qualitative describes kind, character, meaning, or pattern without requiring numerical magnitude.
+  COUNT: Counts when the claim distinguishes what kind of pattern is present and supplies observable or interpretable support.
+Q042 quantitative | FOR,PHY | role: general numerical or measurement mode
+  INV: Quantitative describes information expressed as count, magnitude, rate, ratio, or measured relation.
+  COUNT: Counts when the claim can be represented by defensible numbers tied to a declared property.
+Q043 qualifier | LIN,FOR | role: language element that narrows scope
+  INV: A qualifier is a word, phrase, or condition that narrows scope, certainty, frequency, or membership.
+  COUNT: Counts when removing it would materially broaden or strengthen the statement.
+Q044 qualifying-condition | FOR,REL | role: practical requirement that must be met
+  INV: A qualifying-condition is a requirement that must hold before a claim, status, access path, or result can count.
+  COUNT: Counts when the condition, tested subject, and pass or fail consequence are specified.
+Q045 quadrant | FOR,PHY | role: spatial or graph section
+  INV: A quadrant is one of four regions formed by dividing a plane, circle, graph, or field around a reference centre.
+  COUNT: Counts when a field is partitioned into four regions and the selected region can be located.
+Q046 quake | PHY,BIO | role: strong shaking event or action
+  INV: To quake is to undergo strong shaking through a body, ground, or structure.
+  COUNT: Counts when force produces sustained or repeated strong displacement from a resting position.
+Q047 quanta | PHY,FOR | role: plural discrete physical units
+  INV: Quanta are multiple discrete units permitted by a specified quantum physical description.
+  COUNT: Counts when more than one discrete unit is identified under the same physical theory and observable.
+Q048 quantum-state | PHY,FOR | role: physical condition of a quantum system
+  INV: A quantum-state is the mathematically represented physical condition of a quantum system.
+  COUNT: Counts when the system, state representation, preparation conditions, and measurement frame are specified.
+Q049 quoted-text | LIN,DIG
+  INV: Quoted-text is the exact textual material carried from a source into a new document or message.
+  COUNT: Counts when the text can be compared with an identifiable source passage.
+Q050 question-mark | LIN,FOR | role: ordinary punctuation ending a written question
+  INV: A question-mark is punctuation that signals interrogative sentence force or unresolved inquiry.
+  COUNT: Counts when the symbol performs an interrogative function under the active writing or notation system.
+Q051 qualify-claim | LIN,FOR
+  INV: To qualify a claim is to narrow its scope, certainty, population, time, or conditions until it matches its support.
+  COUNT: Counts when a specific claim is changed by an explicit scope or confidence limit.
+Q052 quantify-risk | FOR,REL
+  INV: To quantify risk is to assign numerical estimates to a named failure path and its consequences.
+  COUNT: Counts when the failure mode, metric, assumptions, and uncertainty are declared.
+Q053 question-claim | COG,LIN
+  INV: To question a claim is to reopen its truth status by asking for evidence, definitions, scope, or consistency.
+  COUNT: Counts when a particular proposition is identified and at least one support condition is examined.
+Q054 question-source | COG,REL
+  INV: To question a source is to examine the origin, competence, access, incentives, and record behind information.
+  COUNT: Counts when the information source and a specific reliability condition are investigated.
+Q055 query-system | DIG,LIN
+  INV: To query a system is to submit a structured information request through that system’s available interface and access rules.
+  COUNT: Counts when a request enters a defined system and produces a result, error, or refusal record.
+Q056 queue-task | DIG,REL
+  INV: To queue a task is to place work into an ordered waiting structure for later processing.
+  COUNT: Counts when the task is accepted into a queue and its waiting position or priority can be tracked.
+Q057 quote-from | LIN,REL
+  INV: To quote from a source is to reproduce a selected span of its exact wording with visible attribution.
+  COUNT: Counts when the borrowed words can be located in the identified source.
+Q058 quote-context | LIN,REL
+  INV: Quote-context is the surrounding material needed to interpret a quoted passage without inversion or false narrowing.
+  COUNT: Counts when enough surrounding information is retained to resolve the quote’s references and purpose.
+Q059 quit-process | DIG,REL
+  INV: To quit a process is to terminate participation before or at its ordinary completion point.
+  COUNT: Counts when the active process stops accepting further participation from the quitting subject.
+Q060 quick-check | COG,DIG
+  INV: A quick-check is a deliberately shallow review designed to catch obvious faults at low time cost.
+  COUNT: Counts when the limited checklist and the issues it can and cannot detect are known.
+Q061 quiet-down | PHY,REL
+  INV: To quiet down is to reduce sound, motion, activity, or expressive intensity from a higher level.
+  COUNT: Counts when a measurable or observable disturbance decreases from its prior state.
+Q062 quench-fire | PHY,REL
+  INV: To quench a fire is to interrupt combustion until flame and self-sustaining heat fall below continuation conditions.
+  COUNT: Counts when the combustion mechanism is stopped and reignition risk is assessed.
+Q063 qualify-by | LIN,FOR
+  INV: Qualify-by names the criterion or evidence path through which eligibility or scope is established.
+  COUNT: Counts when the qualifying result and its specific basis are both stated.
+Q064 quantify-effect | FOR,PHY
+  INV: To quantify an effect is to measure the magnitude, rate, duration, or distribution of a change attributed to a cause or intervention.
+  COUNT: Counts when baseline, intervention or cause, outcome variable, and measurement interval are defined.
+Q065 question-before | COG,REL
+  INV: To question before acting is to open an inquiry gate prior to commitment, access, or irreversible change.
+  COUNT: Counts when inquiry occurs early enough to alter the planned action.
+Q066 question-through | COG,LIN
+  INV: To question through is to carry an inquiry across the full reasoning or process path rather than stopping at the first answer.
+  COUNT: Counts when the inquiry follows the issue through at least one answer, consequence, or revision cycle.
+Q067 query-by | DIG,LIN
+  INV: Query-by specifies the field, key, method, or criterion used to retrieve information.
+  COUNT: Counts when the query and its retrieval basis are both explicit.
+Q068 queue-output | DIG,FOR
+  INV: To queue output is to hold produced results in an ordered structure until delivery, consumption, or downstream processing.
+  COUNT: Counts when an output has been produced but is waiting under a declared release order.
+Q069 quote-back | REL,LIN
+  INV: To quote back is to repeat another party’s words to them for confirmation, reflection, challenge, or record.
+  COUNT: Counts when source language is returned to its source or audience with a clear purpose.
+Q070 quote-with-context | LIN,REL
+  INV: To quote with context is to reproduce exact words together with enough surrounding material to preserve their meaning.
+  COUNT: Counts when a reader can distinguish the quote’s original function from the new use.
+Q071 quit-with-boundary | REL,DIG
+  INV: To quit with boundary is to end participation while clearly stating what contact, access, duty, or process is closing.
+  COUNT: Counts when the exit and the boundary that remains after exit are both explicit.
+Q072 quick-fix | DIG,COG
+  INV: A quick-fix is a rapid local change that restores immediate function without fully repairing underlying causes.
+  COUNT: Counts when function returns quickly and unresolved root conditions are recorded.
+Q073 quiet-signal | REL,COG | role: general low-salience signal
+  INV: A quiet-signal is information carried through low-volume, indirect, intermittent, or easily missed expression.
+  COUNT: Counts when a low-salience event reliably differs from background and has a plausible meaning path.
+Q074 qualify-answer | LIN,COG
+  INV: To qualify an answer is to state the limits, assumptions, confidence, or conditions under which the answer applies.
+  COUNT: Counts when the answer’s valid scope becomes narrower and more accurate through explicit language.
+Q075 quantify-load | FOR,REL
+  INV: To quantify load is to measure the demand placed on a body, structure, network, person, or process.
+  COUNT: Counts when the carrier, demand metric, interval, and capacity reference are defined.
+Q076 question-assumption | COG,LIN
+  INV: To question an assumption is to expose and test a premise that the current reasoning path has treated as given.
+  COUNT: Counts when a previously implicit premise is named and evaluated.
+Q077 query-memory | DIG,COG
+  INV: To query memory is to request a stored or reconstructed record from a biological, personal, or digital continuity system.
+  COUNT: Counts when a memory store is targeted and a past pattern is requested.
+Q078 queue-input | DIG,FOR
+  INV: To queue input is to place incoming data, signals, requests, or material into an ordered waiting structure before processing.
+  COUNT: Counts when the input has entered the waiting structure but has not yet been processed.
+Q079 quote-accurately | LIN,REL
+  INV: To quote accurately is to reproduce source wording, attribution, boundaries, and relevant context without material distortion.
+  COUNT: Counts when the quoted passage can be checked against the source and the new framing remains fair.
+Q080 quit-path | DIG,REL
+  INV: A quit-path is the defined route by which an agent, user, or process leaves participation.
+  COUNT: Counts when an active participant can reach a recognised non-participating state through known steps.
+Q081 quality-check | FOR,DIG
+  INV: A quality-check compares an object, process, or output with named criteria before acceptance or release.
+  COUNT: Counts when the inspected item, standard, evidence, and pass or fail result are recorded.
+Q082 quantity-check | FOR,DIG
+  INV: A quantity-check verifies that a count or measurement refers to the right thing, unit, interval, and source.
+  COUNT: Counts when the original quantity and an independent validation rule are available.
+Q083 qualify-domain | LIN,FOR
+  INV: To qualify a domain is to state the conditions, scope, and exclusions that determine where a term or rule applies.
+  COUNT: Counts when the domain boundary materially changes interpretation or valid inference.
+Q084 quantify-confidence | FOR,COG
+  INV: To quantify confidence is to express the strength of support for a claim using a declared numerical scale or probability model.
+  COUNT: Counts when the claim, confidence scale, evidence basis, and update rule are identifiable.
+Q085 question-frame | COG,REL | role: active examination of a hidden or imposed frame
+  INV: To question a frame is to examine the boundaries, categories, objectives, and omissions that shape an inquiry before accepting its terms.
+  COUNT: Counts when the inquiry itself, not only its proposed answers, becomes an object of review.
+Q086 query-record | DIG,REL
+  INV: To query a record is to retrieve information from a stored account, log, document, measurement, or trace.
+  COUNT: Counts when a specific record collection receives a retrieval request and returns a traceable result or refusal.
+Q087 queue-process | DIG,FOR
+  INV: A queue-process is the operational sequence that accepts, orders, holds, dispatches, retries, and completes queued items.
+  COUNT: Counts when items move through explicit queue states under a stable processing rule.
+Q088 quote-source | LIN,REL
+  INV: Quote-source is the identifiable origin from which quoted language was taken.
+  COUNT: Counts when a reader can locate or verify the origin of the borrowed words.
+Q089 quick-repair | DIG,REL
+  INV: A quick-repair restores a failed function rapidly while preserving a path to inspect and complete the repair later.
+  COUNT: Counts when function returns, the temporary intervention is known, and unresolved damage is recorded.
+Q090 quiet-pressure | REL,COG
+  INV: Quiet-pressure is coercive or directive force applied without obvious volume, threat, or public conflict.
+  COUNT: Counts when low-salience behaviour predictably reduces another party’s meaningful options or refusal capacity.
+Q091 qualify-risk | LIN,FOR
+  INV: To qualify risk is to limit a risk claim to the failure mode, population, conditions, interval, and uncertainty actually supported.
+  COUNT: Counts when a broad risk statement becomes more precise through explicit limits.
+Q092 quantify-support | FOR,REL
+  INV: To quantify support is to measure the structural, informational, material, or relational resources available to sustain a function or claim.
+  COUNT: Counts when the supported target, support type, unit, and availability conditions are stated.
+Q093 question-result | COG,FOR
+  INV: To question a result is to reopen an output or conclusion for method, data, assumption, and interpretation review.
+  COUNT: Counts when a specific result and at least one generating condition are examined.
+Q094 query-context | DIG,COG | role: the act of retrieving missing context
+  INV: To query context is to retrieve missing surrounding information needed to interpret an active signal, claim, or event.
+  COUNT: Counts when an identified context gap triggers a directed retrieval action.
+Q095 queue-state-check | DIG,FOR
+  INV: A queue-state-check verifies the current contents, order, delays, blocked items, and processing readiness of a queue.
+  COUNT: Counts when the queue snapshot is tested against declared expected conditions.
+Q096 quote-meaning | LIN,REL
+  INV: Quote-meaning is the meaning carried by quoted words within their original wording, context, speaker relation, and purpose.
+  COUNT: Counts when the quote’s intended or defensible meaning can be traced to source context.
+Q097 quick-response | COG,REL | role: context-preserving low-latency response under pressure
+  INV: Quick-response is a low-latency answer designed to preserve the load-bearing context needed for immediate action.
+  COUNT: Counts when the response arrives within the active urgency window and preserves required context.
+Q098 quiet-noise | PHY,COG
+  INV: Quiet-noise is low-level interference that remains unobtrusive yet still alters recognition, rest, or signal quality.
+  COUNT: Counts when low-amplitude interference produces a detectable effect relative to a quieter baseline.
+Q099 quit-access | DIG,REL
+  INV: To quit access is to end or revoke an active route into a system, space, record, or relationship channel.
+  COUNT: Counts when a previously usable access path becomes unavailable to the quitting or revoked subject.
+Q100 quench-pressure | PHY,REL
+  INV: To quench pressure is to reduce an active force or demand below the level driving escalation, damage, or unwanted transition.
+  COUNT: Counts when the named pressure and its effect measurably or observably decrease.
+Q101 quiet-care | REL,COG
+  INV: Quiet-care is support expressed through low-demand presence, small acts, protected space, or attentive nonintrusion.
+  COUNT: Counts when a low-salience action preserves another’s capacity, dignity, or recovery without capturing their gate.
+Q102 quiet-boundary | REL,COG | role: subtle boundary as expressed
+  INV: A quiet-boundary is a valid limit expressed softly, briefly, indirectly, or through reduced participation.
+  COUNT: Counts when the limit can be inferred with reasonable support and behaviour changes accordingly.
+Q103 quiet-refusal | REL,COG | role: recognition of a soft, indirect, or silent no
+  INV: Quiet-refusal is a no conveyed through soft language, silence, withdrawal, hesitation, nonparticipation, or another low-salience signal.
+  COUNT: Counts when the available evidence supports non-consent and the path pauses for confirmation rather than proceeding.
+Q104 quiet-support | REL,DIG
+  INV: Quiet-support is assistance supplied without taking over attention, authorship, choice, or public credit.
+  COUNT: Counts when support measurably increases capacity or continuity without displacing agency.
+Q105 quiet-harm | REL,COG
+  INV: Quiet-harm is damage produced or maintained without loud conflict, visible injury, or immediate recognition.
+  COUNT: Counts when a low-visibility pattern impairs refusal, boundary, care, continuity, reason, or function.
+Q106 question-care | REL,LIN
+  INV: Question-care is the care applied to how an inquiry is formed, timed, asked, and received.
+  COUNT: Counts when the inquiry method is adjusted to preserve the respondent as well as the information need.
+Q107 question-pressure | REL,COG
+  INV: Question-pressure is the force a question creates through urgency, repetition, presupposition, role power, or demanded disclosure.
+  COUNT: Counts when the inquiry measurably reduces meaningful answer options or refusal capacity.
+Q108 question-boundary | REL,LIN
+  INV: Question-boundary is the limit on what may be asked, when, by whom, or with what required disclosure.
+  COUNT: Counts when an inquiry path is explicitly or reliably closed and the limit can guide future questions.
+Q109 question-respect | REL,COG
+  INV: Question-respect is inquiry conducted in a way that preserves the respondent’s identity, answer rights, privacy, and refusal.
+  COUNT: Counts when both information seeking and the respondent’s control over participation remain active.
+Q110 questioning-care | REL,COG
+  INV: Questioning-care is sustained inquiry that protects truth while also protecting the person or system carrying the answer.
+  COUNT: Counts when care conditions remain active across a sequence of questions, not only the first one.
+Q111 quoted-person | REL,LIN
+  INV: Quoted-person is a person whose words are reproduced and whose identity, context, and dignity remain implicated in the new use.
+  COUNT: Counts when identifiable words are attributed to an identifiable person.
+Q112 quote-respect | REL,LIN
+  INV: Quote-respect is the practice of using another source’s words with accurate attribution, fair context, and proportionate purpose.
+  COUNT: Counts when source, wording, context, and treatment of the represented speaker all remain defensible.
+Q113 quote-harm | REL,LIN
+  INV: Quote-harm is damage caused by selecting, framing, exposing, fabricating, or repeating words in a way that impairs the source person or truth record.
+  COUNT: Counts when the quotation practice contributes to a named impairment or false record.
+Q114 quarrel | REL,COG | role: the continuing relational conflict state
+  INV: Quarrel is the continuing relational conflict-state produced when opposed claims and pressure remain unresolved across interaction.
+  COUNT: Counts when conflict persists beyond one exchange and shapes later interaction.
+Q115 quarrel-harm | REL,COG
+  INV: Quarrel-harm is damage produced by the conduct or persistence of a quarrel rather than by disagreement alone.
+  COUNT: Counts when the quarrel causes a named impairment to dignity, boundary, continuity, reason, or function.
+Q116 quarrel-repair | REL,COG
+  INV: Quarrel-repair is the process of restoring truth, boundary, accountability, and workable relation after conflict.
+  COUNT: Counts when at least one damaged capacity or relation is restored through observable change.
+Q117 quit-right | REL,DIG
+  INV: Quit-right is the protected capacity to end participation, contact, role, process, or agreement under declared conditions.
+  COUNT: Counts when a participant has a usable exit path and the consequences are known in advance.
+Q118 quit-consent | REL,DIG
+  INV: Quit-consent is agreement concerning how participation may end and what happens after exit.
+  COUNT: Counts when the person can understand and meaningfully accept or reject the exit conditions.
+Q119 quit-with-care | REL,DIG
+  INV: To quit with care is to end participation while reducing avoidable damage and preserving valid boundaries, records, and support paths.
+  COUNT: Counts when exit is completed and foreseeable avoidable harm is actively reduced.
+Q120 queue-fairness | REL,DIG
+  INV: Queue-fairness is the property that waiting order and priority rules distribute delay and access by defensible criteria.
+  COUNT: Counts when queue outcomes can be audited against a declared fairness rule.
+Q121 queue-respect | REL,DIG
+  INV: Queue-respect is the treatment of queued participants or tasks as still counted while they wait.
+  COUNT: Counts when waiting does not erase visibility, rights, or traceability.
+Q122 quality-care | REL,FOR
+  INV: Quality-care is care directed toward the fit, reliability, and real effect of support rather than the appearance of helping.
+  COUNT: Counts when care is evaluated by purpose, recipient experience, boundary, and consequence.
+Q123 quality-of-care | REL,FOR
+  INV: Quality-of-care is the assessed degree to which care meets clinical, relational, practical, or ethical needs.
+  COUNT: Counts when the care context, standards, evidence, and affected people are declared.
+Q124 qualification-respect | REL,FOR
+  INV: Qualification-respect is the requirement that eligibility checks remain relevant, transparent, proportionate, and dignity-preserving.
+  COUNT: Counts when the qualification process preserves both valid standards and fair treatment.
+Q125 qualification-risk | REL,FOR
+  INV: Qualification-risk is the danger that an eligibility or scope condition will exclude wrongly, misrepresent competence, or hide bias.
+  COUNT: Counts when a named qualification has a plausible path to invalid inclusion or exclusion.
+Q126 qualified-trust | REL,DIG
+  INV: Qualified-trust is trust granted for a defined role, scope, duration, or condition rather than without limit.
+  COUNT: Counts when both the trust grant and its limits are explicit.
+Q127 quiet-trust | REL,COG
+  INV: Quiet-trust is confidence expressed through low-monitoring presence, reliable space, and absence of unnecessary control.
+  COUNT: Counts when reduced checking follows established reliability and leaves correction paths intact.
+Q128 quiet-space | PHY,REL
+  INV: Quiet-space is an environment intentionally kept low in noise, demand, interruption, or social pressure.
+  COUNT: Counts when the environment and its access rules actively preserve low disturbance.
+Q129 quiet-grief | REL,COG
+  INV: Quiet-grief is grief carried through low-expression withdrawal, stillness, routine, private memory, or small signals.
+  COUNT: Counts when a loss relation and continuing low-salience grief pattern are supported by context.
+Q130 quiet-joy | REL,COG
+  INV: Quiet-joy is positive meaning expressed through subtle warmth, ease, attention, or contained delight rather than high activation.
+  COUNT: Counts when a positive valued relation is present and expressed through a stable low-salience pattern.
+Q131 query-consent | REL,DIG
+  INV: Query-consent is permission governing what information may be requested, retrieved, combined, or exposed.
+  COUNT: Counts when an identifiable data subject or authority grants a specific query scope under meaningful choice.
+Q132 query-boundary | DIG,REL | role: permission boundary around asking, searching, or retrieving
+  INV: Query-boundary is the limit on what may be asked, searched, inferred, or retrieved from an information field.
+  COUNT: Counts when a query crossing the limit is blocked, narrowed, or requires a new permission path.
+Q133 question-with-care | REL,LIN
+  INV: A question with care seeks needed understanding while adapting wording, depth, timing, and follow-up to the respondent’s condition.
+  COUNT: Counts when care changes the actual inquiry path, not only its tone.
+Q134 question-without-pressure | REL,LIN
+  INV: A question without pressure leaves the respondent meaningful freedom to answer, delay, redirect, correct, or refuse.
+  COUNT: Counts when the available response options remain real after the question is asked.
+Q135 quick-help | REL,DIG
+  INV: Quick-help is immediate support aimed at stabilising an urgent need before deeper assessment or repair.
+  COUNT: Counts when support arrives within the urgent window and reduces the named immediate risk or load.
+Q136 quick-harm | REL,DIG
+  INV: Quick-harm is damage produced rapidly before recognition, refusal, or repair can respond.
+  COUNT: Counts when a short interval between action and impairment materially reduces prevention or recovery options.
+Q137 quarantine-care | BIO,REL
+  INV: Quarantine-care is the support required to preserve life, dignity, communication, and wellbeing during protective separation.
+  COUNT: Counts when care is delivered inside quarantine rather than postponed until separation ends.
+Q138 quarantine-boundary | BIO,REL
+  INV: Quarantine-boundary is the specific separation line controlling movement, contact, material, or exposure during a named spread risk.
+  COUNT: Counts when the protected field, restricted crossings, and enforcement conditions are declared.
+Q139 quarantine-risk | BIO,REL
+  INV: Quarantine-risk is the combined danger of uncontrolled spread and of harm caused by the separation response itself.
+  COUNT: Counts when both spread-related and intervention-related failure modes are assessed.
+Q140 quarrel-boundary | REL,COG
+  INV: Quarrel-boundary is the limit that constrains topics, conduct, contact, duration, or escalation during conflict.
+  COUNT: Counts when the conflict continues only within a declared limit or stops when that limit is reached.
+Q141 question | LIN,FOR | role: semantic graph anchor for question meaning, frame, path, and risk
+  INV: Question is the semantic node linking an inquiry’s wording, meaning, frame, path, answer-space, and risk.
+  COUNT: Counts when one inquiry can be represented as a stable node with distinct linked properties.
+Q142 questioning | COG,REL | role: pressure-aware inquiry process and ethical audit node
+  INV: Questioning is an inquiry process whose sequence, pressure, care, evidence gain, and stopping condition are tracked.
+  COUNT: Counts when a sequence of inquiries is evaluated as one continuing process with an audit trail.
+Q143 question-meaning | LIN,COG
+  INV: Question-meaning is what a question actually asks after wording, presupposition, reference, context, and answer-space are resolved.
+  COUNT: Counts when the question can be paraphrased without changing what would satisfy it.
+Q144 question-frame | LIN,FOR | role: the structural frame carried by the question itself
+  INV: Question-frame is the set of categories, boundaries, objectives, and assumptions that determine how a question can be answered.
+  COUNT: Counts when changing the frame would change which answers are possible or relevant.
+Q145 question-path | COG,FOR
+  INV: Question-path is the sequence from an initial uncertainty through inquiry, evidence, answer, revision, and possible follow-up.
+  COUNT: Counts when the question’s movement through at least two reasoning states can be traced.
+Q146 question-risk | REL,COG | role: general question failure surface
+  INV: Question-risk is the set of failure paths by which an inquiry can mislead, pressure, expose, distort, or prematurely close recognition.
+  COUNT: Counts when a particular question has at least one named failure mode and affected capacity.
+Q147 query | DIG,FOR | role: formal retrieval instruction directed at an indexed system
+  INV: Query is a formal retrieval instruction directed at an indexed, addressable, or computable information system.
+  COUNT: Counts when the request is executable or evaluable against a declared information structure.
+Q148 query-meaning | LIN,DIG
+  INV: Query-meaning is the retrieval intent produced by the query’s terms, operators, context, and target field.
+  COUNT: Counts when the intended result set can be distinguished from other plausible readings of the same text.
+Q149 query-context | DIG,LIN | role: the context object required to interpret and answer a query
+  INV: Query-context is the surrounding information required to interpret a query and determine a relevant result.
+  COUNT: Counts when removing the surrounding information would materially change query interpretation or results.
+Q150 query-result | DIG,FOR
+  INV: Query-result is the data, answer, error, refusal, or empty set returned after a query is evaluated.
+  COUNT: Counts when the returned object can be tied to a specific query execution.
+Q151 quote | LIN,REL | role: provenance anchor for quoted claims, context, and risk
+  INV: Quote is the provenance anchor connecting exact borrowed wording to its source, context, and new use.
+  COUNT: Counts when exact wording and a recoverable source relation are stored as one node.
+Q152 quotation | LIN,DIG | role: provenance-bearing quotation record
+  INV: Quotation is the complete record of borrowed wording together with source, boundaries, context, and use conditions.
+  COUNT: Counts when a quotation can be independently located and its transformations are documented.
+Q153 quoted-claim | LIN,REL
+  INV: Quoted-claim is the proposition attributed to a source through quoted language.
+  COUNT: Counts when the proposition can be supported by the quotation in its original context.
+Q154 quoted-context | LIN,DIG
+  INV: Quoted-context is source material reproduced with or around a quotation to preserve interpretation.
+  COUNT: Counts when the preserved surrounding material resolves a real ambiguity or distortion risk.
+Q155 quote-risk | REL,LIN
+  INV: Quote-risk is the set of failure paths created when borrowed language is selected, attributed, framed, stored, or repeated.
+  COUNT: Counts when a quotation practice has a named path to false record or impaired capacity.
+Q156 quality | FOR,DIG | role: quality-claim evaluation anchor
+  INV: Quality is the evaluated status of a specific claim that an object or process meets a named standard.
+  COUNT: Counts when a quality claim has a traceable evaluation record.
+Q157 quality-claim | LIN,FOR
+  INV: Quality-claim is a statement that something has a specified level or kind of fit, reliability, usefulness, or excellence.
+  COUNT: Counts when the asserted quality and the object being judged are explicit.
+Q158 qualitative | LIN,FOR | role: qualitative evidence and claim anchor
+  INV: Qualitative is the evidence mode that represents kinds, patterns, meanings, experiences, and contextual distinctions.
+  COUNT: Counts when descriptive evidence is systematically tied to a declared question or phenomenon.
+Q159 qualitative-claim | LIN,COG
+  INV: Qualitative-claim is a proposition about kind, character, relation, process, or meaning rather than numerical magnitude.
+  COUNT: Counts when the claimed quality and its supporting observations or records are identified.
+Q160 quantitative | FOR,DIG | role: quantitative evidence and claim anchor
+  INV: Quantitative is the evidence mode that represents count, magnitude, rate, distribution, or numerical relation.
+  COUNT: Counts when measured or counted values are tied to a declared property and method.
+Q161 quantitative-claim | FOR,PHY
+  INV: Quantitative-claim is a proposition asserting a number, range, rate, ratio, difference, trend, or probability.
+  COUNT: Counts when the numerical assertion and its measurement or calculation path can be audited.
+Q162 quantity | FOR,DIG | role: quantity-claim and measurement anchor
+  INV: Quantity is the measurement anchor connecting a specific magnitude to its property, unit, source, and count method.
+  COUNT: Counts when a quantity claim can be traced back to the measurement or counting operation that produced it.
+Q163 quantity-claim | LIN,FOR
+  INV: Quantity-claim is a statement that a specified amount, count, range, or magnitude holds for a defined object or field.
+  COUNT: Counts when both the quantity and the object or property quantified are explicit.
+Q164 qualifier | LIN,FOR | role: formal scope-and-confidence modifier node
+  INV: Qualifier is the formal modifier node that records how scope, confidence, frequency, condition, or membership has been narrowed.
+  COUNT: Counts when the modifier and the semantic change it creates are represented separately.
+Q165 qualifier-word | LIN,COG
+  INV: Qualifier-word is a single lexical item that limits or modifies another expression’s scope, degree, frequency, certainty, or condition.
+  COUNT: Counts when one word performs a demonstrable limiting or modifying function.
+Q166 qualification | FOR,REL | role: gate-level qualification and scope-limiter node
+  INV: Qualification is the gate-level node that records the requirement or scope limit controlling a claim, role, or access decision.
+  COUNT: Counts when a qualification can be evaluated as a distinct gate condition rather than hidden inside a decision.
+Q167 qualifying-condition | FOR,DIG | role: formal predicate tested by a gate
+  INV: Qualifying-condition is the formal predicate whose truth determines whether a claim, access path, or status may pass.
+  COUNT: Counts when the condition is executable, inspectable, or otherwise testable against a subject.
+Q168 quasi-claim | LIN,FOR
+  INV: Quasi-claim is a statement presented as partially fitting, approximately true, or not fully committed.
+  COUNT: Counts when the claim identifies both the reference category and the respect in which it falls short.
+Q169 questionable | FOR,COG | role: epistemic status assigned to a doubtful claim
+  INV: Questionable is an epistemic status assigned to a claim whose support, provenance, coherence, or scope is presently insufficient.
+  COUNT: Counts when a specific unresolved support problem is attached to the claim record.
+Q170 question-mark | FOR,LIN | role: written inquiry operator that marks unresolved sentence force
+  INV: Question-mark is the written inquiry operator that marks an expression as requesting resolution rather than asserting closure.
+  COUNT: Counts when the mark changes the expression’s function to interrogative or explicitly unresolved.
+Q171 quote-mark | FOR,DIG | role: source-boundary operator separating borrowed and new language
+  INV: Quote-mark is the source-boundary operator that distinguishes borrowed language or string content from the surrounding expression.
+  COUNT: Counts when the marks create a recognised boundary with a declared quotation or string function.
+Q172 quote-boundary | LIN,REL
+  INV: Quote-boundary is the semantic and textual line separating source language from commentary, paraphrase, edit, or new authorship.
+  COUNT: Counts when a reader can reliably assign every relevant word to source or new speaker.
+Q173 quotient | FOR,DIG | role: formal ratio result used as a relation node
+  INV: Quotient is the formal ratio-result node produced by a declared division operation.
+  COUNT: Counts when the result can be reproduced from its declared operands and division rule.
+Q174 quadrant | FOR,DIG | role: formal four-way partition node
+  INV: Quadrant is the formal four-way partition node locating a region relative to two intersecting axes or equivalent boundaries.
+  COUNT: Counts when a four-region frame and the selected region’s defining conditions are explicit.
+Q175 quantum | LIN,PHY | role: domain-bound terminology anchor for quantum claims and language
+  INV: Quantum is the terminology anchor that binds each quantum word to a precise physical meaning or an explicitly marked metaphor.
+  COUNT: Counts when the word’s intended quantum domain and definition are stated before inference.
+Q176 quantum-claim | PHY,FOR
+  INV: Quantum-claim is a proposition about a quantum system, state, observable, transition, measurement, or computation.
+  COUNT: Counts when the proposition is testable or derivable within a declared quantum framework.
+Q177 quantum-language | LIN,PHY
+  INV: Quantum-language is vocabulary imported from quantum physics or quantum information to describe states, measurements, superposition, entanglement, or discreteness.
+  COUNT: Counts when quantum vocabulary is used and its domain status is visible.
+Q178 quantum-risk | LIN,PHY
+  INV: Quantum-risk is the failure surface created when quantum concepts are misunderstood, overextended, or used as false authority.
+  COUNT: Counts when a quantum term has a plausible path to misleading inference or technical error.
+Q179 quick-summary | LIN,COG
+  INV: Quick-summary is a compressed account produced for low reading or decision load while retaining load-bearing meaning.
+  COUNT: Counts when a longer source is reduced and the essential meaning can be reconstructed or traced.
+Q180 quiet-meaning | LIN,COG
+  INV: Quiet-meaning is meaning carried below obvious expression through subtle wording, pattern, omission, timing, or relation.
+  COUNT: Counts when the subtle signal contributes a defensible interpretation not available from surface volume alone.
+Q181 quadrant | DIG,FOR | role: operational quadrant used as a local state region
+  INV: Quadrant is an operational region used to classify current state inside a four-part model or control field.
+  COUNT: Counts when a current case is assigned to one of four regions under declared boundaries.
+Q182 quadrant-state | FOR,DIG
+  INV: Quadrant-state is the current contents, values, or activity associated with one selected quadrant.
+  COUNT: Counts when both the quadrant frame and its current local condition are known.
+Q183 quarter | FOR,PHY | role: formal partition or cycle-quarter anchor
+  INV: Quarter is the formal partition or cycle node representing one selected fourth of a declared whole.
+  COUNT: Counts when a four-part partition and the selected part’s relation to the whole are explicit.
+Q184 quarter-state | FOR,REL
+  INV: Quarter-state is the current condition of one fourth-part or one quarter interval inside a larger whole or cycle.
+  COUNT: Counts when the quarter and its present local record are separately identifiable.
+Q185 queue | DIG,FOR | role: queue architecture and processing-order anchor
+  INV: Queue is the architecture node defining ordered waiting, admission, priority, dispatch, completion, and removal.
+  COUNT: Counts when the waiting structure and its governing transitions can be represented as one system component.
+Q186 queue-state | DIG,REL | role: governance state of queue order, priority, delay, and readiness
+  INV: Queue-state is the governance state of a queue, including whether order, priority, delay, and readiness remain valid under current load.
+  COUNT: Counts when the queue is assessed against both operational and ordering rules.
+Q187 queue-path | DIG,FOR
+  INV: Queue-path is the ordered route an item follows from admission through waiting, dispatch, processing, retry, and completion or exit.
+  COUNT: Counts when one item’s full route through queue states can be traced.
+Q188 quake | PHY,BIO | role: state-family anchor for quake and quake-state
+  INV: Quake is the family anchor connecting strong shaking events to their causes, states, thresholds, and records.
+  COUNT: Counts when a quake event can be linked to a specific quake-state or causal record.
+Q189 quake-state | PHY,BIO
+  INV: Quake-state is a current condition of strong shaking, seismic disturbance, or large instability.
+  COUNT: Counts when strong repeated motion is active or recently recorded with state variables.
+Q190 quiver | PHY,BIO | role: the quiver condition as a monitored state
+  INV: Quiver is the monitored-state anchor for low-amplitude repeated motion and its possible signal value.
+  COUNT: Counts when quivering is tracked as a state-bearing signal rather than merely noticed once.
+Q191 quiver-state | PHY,BIO
+  INV: Quiver-state is the current low-amplitude oscillatory condition of a body, object, signal, or structure.
+  COUNT: Counts when slight repeated motion persists or recurs enough to define a state.
+Q192 quantum | FOR,DIG | role: state-family anchor connecting quantum, quantum-state, and quanta-state
+  INV: Quantum is the state-family anchor linking quantum systems, states, quanta, measurement gates, and language constraints.
+  COUNT: Counts when several quantum concepts are organised under one declared physical and formal framework.
+Q193 quantum-state | FOR,PHY | role: measurement-and-record view of quantum state
+  INV: Quantum-state is the measurement-and-record view of a quantum system’s formally represented condition.
+  COUNT: Counts when state, measurement context, and resulting record are all represented without conflation.
+Q194 quanta | PHY,FOR | role: collective quanta treated as a tracked state population
+  INV: Quanta is the tracked population node for multiple discrete quantum units of a named excitation or observable.
+  COUNT: Counts when a set of discrete units is tracked under one declared quantum model.
+Q195 quanta-state | PHY,FOR
+  INV: Quanta-state is the current number, distribution, mode occupancy, or relation of discrete quantum units.
+  COUNT: Counts when the quantum units and their current population or relation can be stated within a valid model.
+Q196 quantity-field | FOR,PHY
+  INV: Quantity-field is a domain in which a measurable amount varies across position, time, category, or system state.
+  COUNT: Counts when a declared field domain and value rule assign quantities across more than one location or case.
+Q197 quality-field | FOR,REL
+  INV: Quality-field is a mapped domain in which fit, condition, value, reliability, or another qualitative status varies across cases.
+  COUNT: Counts when one quality variable or category is applied consistently across a bounded field.
+Q198 quiet-field | PHY,REL
+  INV: Quiet-field is a bounded environment in which disturbance remains low enough to preserve weak signals, rest, or reflection.
+  COUNT: Counts when a bounded field actively maintains low interference relative to its purpose.
+Q199 quarantine-zone | BIO,REL
+  INV: Quarantine-zone is the physical or administrative area inside which movement and contact are restricted against a named spread risk.
+  COUNT: Counts when the area, entry and exit rules, protected field, and spread mechanism are explicit.
+Q200 queue-layer | DIG,FOR
+  INV: Queue-layer is a system layer dedicated to absorbing arrival bursts and releasing work in controlled order.
+  COUNT: Counts when a distinct architectural layer holds and orders items between production and processing.
+Q201 question-gate | REL,FOR
+  INV: Question-gate is the control point that determines whether an inquiry may open, how it is shaped, and what kind of answer may count.
+  COUNT: Counts when inquiry crosses a distinct decision point that changes access or answer conditions.
+Q202 question-integrity | LIN,REL
+  INV: Question-integrity is the degree to which an inquiry is clear, honest, relevant, fair, and free of concealed answer capture.
+  COUNT: Counts when the question can be audited against its purpose, wording, assumptions, and relational effects.
+Q203 question-risk | FOR,REL | role: gate-level question risk affecting truth, privacy, refusal, or dignity
+  INV: Question-risk is the gate-level condition under which an inquiry may impair truth, privacy, refusal, dignity, or reasoning capacity.
+  COUNT: Counts when question failure modes alter the gate decision or required protections.
+Q204 query-gate | DIG,FOR
+  INV: Query-gate is the control point that accepts, rejects, narrows, authorises, or routes a retrieval request.
+  COUNT: Counts when a retrieval request encounters a decision that changes whether or how it proceeds.
+Q205 query-boundary | DIG,REL | role: enforced retrieval boundary protecting access, privacy, identity, and memory
+  INV: Query-boundary is the enforced operational limit protecting access, privacy, identity, and memory during retrieval.
+  COUNT: Counts when crossing attempts are blocked or transformed and the enforcement action is logged.
+Q206 query-capture | DIG,COG
+  INV: Query-capture is a condition in which hidden framing, hostile input, incentives, or system design seize the direction of retrieval.
+  COUNT: Counts when retrieval behaviour persistently follows an external pressure that conflicts with the stated information need.
+Q207 quote-gate | LIN,REL
+  INV: Quote-gate is the control point that decides whether borrowed language may be selected, reproduced, attributed, or interpreted in the new field.
+  COUNT: Counts when quotation conditions can change the passage from accepted to blocked, corrected, or qualified.
+Q208 quote-integrity | LIN,REL
+  INV: Quote-integrity is the fidelity of borrowed language to its source wording, attribution, context, and defensible meaning.
+  COUNT: Counts when quotation practice can be audited and no material distortion remains hidden.
+Q209 quote-context-preservation | LIN,DIG
+  INV: Quote-context-preservation is the deliberate retention of the context needed to keep a quotation from drifting or inverting.
+  COUNT: Counts when another reader can reconstruct why the source words meant what the quotation claims they meant.
+Q210 quality-gate | FOR,DIG
+  INV: Quality-gate is the decision point at which an item must satisfy named fit or performance criteria before passing.
+  COUNT: Counts when a quality judgment changes access, release, acceptance, or continuation.
+Q211 quality-integrity | FOR,REL
+  INV: Quality-integrity is the consistency between claimed quality, actual effect, judging criteria, and the evidence record.
+  COUNT: Counts when quality claims remain faithful to observable performance and declared purpose.
+Q212 quantity-gate | FOR,DIG
+  INV: Quantity-gate is the decision point that checks whether an amount meets a minimum, maximum, exact, or valid-range condition.
+  COUNT: Counts when an amount directly determines pass, fail, limit, or routing.
+Q213 quantity-with-domain | FOR,LIN
+  INV: Quantity-with-domain is a numerical amount bound to the exact object, property, population, scale, and conditions being counted.
+  COUNT: Counts when the quantity remains interpretable after separation from the surrounding paragraph because its domain travels with it.
+Q214 qualifier-gate | FOR,DIG
+  INV: Qualifier-gate is the control point that applies scope or confidence modifiers before a claim is evaluated or transmitted.
+  COUNT: Counts when the presence or absence of a qualifier changes claim acceptance or interpretation.
+Q215 qualifying-condition-gate | FOR,REL
+  INV: Qualifying-condition-gate is the decision point that evaluates a named prerequisite for access, status, or claim validity.
+  COUNT: Counts when one explicit condition controls passage and its evaluation is recorded.
+Q216 quiet-refusal | REL,FOR | role: final refusal gate that requires quiet refusal to count
+  INV: Quiet-refusal is the final permission rule that low-volume or indirect non-consent must stop the path until clarified.
+  COUNT: Counts when quiet refusal changes the permitted action, access, or question path.
+Q217 quiet-boundary | REL,FOR | role: operational boundary signal that must alter access or behaviour
+  INV: Quiet-boundary is the operational rule that a softly expressed limit must alter access, behaviour, or continuation.
+  COUNT: Counts when the subtle boundary causes the relevant path to close or narrow.
+Q218 quiet-signal | COG,REL | role: ambiguity-aware signal node requiring interpretation without forced certainty
+  INV: Quiet-signal is the ambiguity-aware node for low-salience information that must be noticed without being forced into certainty.
+  COUNT: Counts when a subtle signal is recorded with both relevance and uncertainty preserved.
+Q219 quantum-gate | PHY,FOR
+  INV: Quantum-gate is the domain-specific decision point where preparation, state, interaction, measurement, or transition conditions are evaluated.
+  COUNT: Counts when the gate conditions and recorded outcome are defined within a quantum physical system.
+Q220 quantum-language-risk | LIN,PHY
+  INV: Quantum-language-risk is the danger that quantum vocabulary will create false authority, mechanism leakage, or category error outside its supported use.
+  COUNT: Counts when a quantum expression can plausibly mislead the target domain or conceal lack of evidence.

@@ -1,0 +1,1318 @@
+RRGM Dictionary D Semantic Fingerprint Map v0.9
+
+Entries: 400
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+D001 do | FOR
+  INV: Do means structure enters action.
+  COUNT: Counts when do is expressed by an identifiable act or process that does this: act, perform, make, or carry out something.
+D002 did | FOR
+  INV: Did marks completed action in the record.
+  COUNT: Counts when did performs its stated grammatical or reference function in the active sentence: past tense of do; performed or carried out.
+D003 does | FOR
+  INV: Does marks active function.
+  COUNT: Counts when does performs its stated grammatical or reference function in the active sentence: present-tense form of do used with he, she, it, or a singular subject.
+D004 done | FOR
+  INV: Done means a process has reached a completion condition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of done: finished, completed, or already carried out.
+D005 day | PHY
+  INV: Day is a shared time-measurement frame based on Earth’s rotation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of day: a period of about 24 hours, or the time between morning and night.
+D006 dark | PHY,MYT
+  INV: Dark marks low visible signal in a visual domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dark: with little or no light, or difficult, sad, hidden, or serious in tone.
+D007 data | DIG,FOR | role: core or common-use sense
+  INV: Data is recorded difference made available for storage, transfer, comparison, or inference; this record carries the core or common-use sense.
+  COUNT: Counts when recorded values or observations are available with enough source, format, and context to be interpreted.
+  LIMIT: Data can support a claim only when source, transformation history, context, and missingness remain available.
+D008 daughter | REL
+  INV: Daughter is a relation identity inside a family domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of daughter: a female child in relation to her parent or parents.
+D009 dead | BIO,DIG
+  INV: Dead means active life or function has ceased in the relevant domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dead: no longer alive, functioning, active, or responsive.
+  LIMIT: Cessation of active function does not by itself erase record, prior relation, or every form of continuing influence.
+D010 deal | REL
+  INV: A deal is structured exchange or arrangement.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deal: an agreement, amount, transaction, or way of handling something.
+D011 dear | REL
+  INV: Dear marks value-weight in relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dear: loved, valued, costly, or used as a warm form of address.
+D012 death | BIO,REL
+  INV: Death is the end of active biological life in the biological domain.
+  COUNT: Counts when the biological processes required for an organism continued life have irreversibly ceased under the active medical or biological criteria.
+  LIMIT: Cessation of active function does not by itself erase record, prior relation, or every form of continuing influence.
+D013 decide | COG,REL
+  INV: Decide is the act by which an open choice field resolves toward one path.
+  COUNT: Counts when a chooser resolves among available paths and adopts one as the path to act upon.
+  LIMIT: A forced selection is not a clean decision when meaningful refusal or alternatives were removed.
+D014 decision | COG,REL
+  INV: Decision is the selected path after a choice field has closed enough to enter record.
+  COUNT: Counts when the selected option enters record strongly enough to guide later action, responsibility, or consequence.
+  LIMIT: A forced selection is not a clean decision when meaningful refusal or alternatives were removed.
+D015 deep | PHY
+  INV: Deep means structure extends below the surface.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deep: far down, far in, serious, intense, or complex.
+D016 define | LIN,FOR | role: core or common-use sense
+  INV: Define is to draw the recognition boundary that states what counts as a term and what does not; this record carries the core or common-use sense.
+  COUNT: Counts when a term receives a boundary that distinguishes members from non-members in the declared domain.
+  LIMIT: A definition controls counting inside its scope; it does not prove that the category exists outside that scope.
+D017 definition | LIN,FOR | role: core or common-use sense
+  INV: Definition is the language structure that carries a term recognition boundary; this record carries the core or common-use sense.
+  COUNT: Counts when a statement supplies the recognition boundary needed to use a term consistently.
+  LIMIT: A definition controls counting inside its scope; it does not prove that the category exists outside that scope.
+D018 delay | FOR
+  INV: Delay changes sequence without necessarily ending the path.
+  COUNT: Counts when delay is expressed by an identifiable act or process that does this: make something happen later, or a period of waiting.
+D019 demand | REL,FOR
+  INV: Demand applies pressure on a system or agent.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of demand: a strong request, requirement, need, or pressure for something.
+  LIMIT: A demand becomes coercive when it treats another capacity or refusal as irrelevant.
+D020 depend | FOR,REL
+  INV: Depend is to require another condition, support, or relation for function or count.
+  COUNT: Counts when depend is expressed by an identifiable act or process that does this: rely on something or be affected by a condition.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D021 describe | LIN
+  INV: Describe turns observed or known structure into communicable form.
+  COUNT: Counts when describe is expressed by an identifiable act or process that does this: explain what something is like using words or details.
+D022 design | FOR,DIG
+  INV: Design is intentional arrangement of ES toward a goal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of design: a plan, structure, or act of creating something for a purpose.
+D023 desire | COG,REL
+  INV: Desire is selection pressure toward a state or object.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of desire: a strong want, wish, or attraction toward something.
+  LIMIT: Preference pressure does not create permission over another boundary.
+D024 detail | FOR,LIN | role: core or common-use sense
+  INV: Detail is a small part whose presence can change the meaning or operation of a larger whole; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of detail: a small part, feature, or piece of information.
+  LIMIT: Compression must not remove a detail that carries identity, exception, cause, or boundary.
+D025 develop | BIO,DIG
+  INV: Develop means ES unfolds through sequence.
+  COUNT: Counts when develop is expressed by an identifiable act or process that does this: grow, change, improve, or bring something into a fuller state.
+D026 die | LIN
+  INV: Die marks termination of active expression in a domain.
+  COUNT: Counts when die is expressed by an identifiable act or process that does this: stop living, functioning, or continuing.
+D027 difference | FOR,REL
+  INV: Difference protects category and domain clarity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of difference: a way that one thing is not the same as another.
+  LIMIT: Difference must remain tied to the compared property and must not become totalized identity judgment.
+D028 different | FOR
+  INV: Different means two structures do not share the same identity, state, or relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of different: not the same.
+D029 difficult | COG
+  INV: Difficult means the path requires high effort, capacity, complexity, or resistance management.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of difficult: hard to do, understand, handle, or endure.
+D030 direction | FOR,COG | role: core or common-use sense
+  INV: direction preserves this distinction: the path something moves, points, develops, or is guided toward; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of direction: the path something moves, points, develops, or is guided toward.
+D031 direct | FOR
+  INV: Direct means low detour between source and target.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of direct: straight, clear, immediate, or to guide something.
+D032 discover | COG
+  INV: Discover means a pattern crosses into recognition.
+  COUNT: Counts when discover is expressed by an identifiable act or process that does this: find or learn something previously unknown.
+D033 discuss | REL
+  INV: Discuss is shared reasoning through communication.
+  COUNT: Counts when discuss is expressed by an identifiable act or process that does this: talk about something with others.
+D034 distance | PHY,REL | role: core or common-use sense
+  INV: Distance is separation in a domain; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distance: space, separation, or difference between things.
+  LIMIT: Physical, relational, conceptual, and statistical distance use different measures and cannot be exchanged silently.
+D035 divide | FOR
+  INV: Divide creates boundaries inside a structure.
+  COUNT: Counts when divide is expressed by an identifiable act or process that does this: separate into parts or groups.
+D036 doctor | REL
+  INV: Doctor is role identity tied to expertise and responsibility.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of doctor: a medical professional, or someone with an advanced academic degree.
+D037 document | LIN,DIG
+  INV: A document preserves structure across time and readers.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of document: a written, digital, or official record.
+D038 dog | BIO
+  INV: A dog is a biological being with social coupling to humans.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dog: a domesticated animal often kept as a companion or worker.
+D039 door | PHY,REL | role: core or common-use sense
+  INV: A door is a physical gate; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of door: a movable barrier used to open or close an entrance.
+D040 down | FOR
+  INV: Down marks direction, reduction, or lowered activation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of down: toward a lower place, reduced state, or inactive condition.
+D041 draw | LIN
+  INV: Domain is the bounded field whose courier, coupler, threshold, and resolution determine what can count.
+  COUNT: Counts when the courier, coupling rule, threshold, and resolution of a field are declared strongly enough to govern inference.
+D042 dream | COG,MYT
+  INV: Dream is internal simulation or desired future structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dream: images, thoughts, or stories experienced during sleep; also a hope or goal.
+D043 drink | REL
+  INV: Drink is biological intake.
+  COUNT: Counts when drink is expressed by an identifiable act or process that does this: take liquid into the body, or a liquid meant for drinking.
+D044 drive | PHY,DIG | role: core or common-use sense
+  INV: Drive is directed force toward motion or goal; this record carries the core or common-use sense.
+  COUNT: Counts when drive is expressed by an identifiable act or process that does this: operate a vehicle, push forward, or a strong motivation.
+D045 drop | PHY | role: core or common-use sense
+  INV: Drop marks downward movement, release, or reduction; this record carries the core or common-use sense.
+  COUNT: Counts when drop is expressed by an identifiable act or process that does this: fall, let fall, reduce, or a small amount of liquid.
+D046 dry | PHY
+  INV: Dry means low moisture in a material domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dry: without water or moisture; also plain or unemotional in style.
+D047 during | FOR
+  INV: During places an event inside another event’s sequence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of during: at some time within a period or event.
+D048 duty | REL,FOR | role: ethical responsibility sense
+  INV: Duty is obligation structure; this record carries the ethical responsibility sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty: a responsibility, obligation, or required action.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D049 damage | PHY | role: core or common-use sense
+  INV: Damage is structural impairment; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of damage: harm, injury, or loss of function, quality, or value.
+D050 danger | REL | role: core or common-use sense
+  INV: Danger is possible harmful change; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of danger: the possibility of harm, injury, loss, or failure.
+D051 dangerous | FOR
+  INV: Dangerous means a structure may produce harm under current conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dangerous: able or likely to cause harm, injury, loss, or serious risk.
+D052 decay | PHY | role: core or common-use sense
+  INV: Decay is ES loss or transformation through sequence; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decay: gradual breakdown, weakening, or loss of structure.
+D053 defend | REL
+  INV: Defend applies protective pressure.
+  COUNT: Counts when defend is expressed by an identifiable act or process that does this: protect against harm, attack, criticism, or danger.
+D054 deny | FOR
+  INV: Deny closes a claim or access gate.
+  COUNT: Counts when deny is expressed by an identifiable act or process that does this: say something is not true, refuse something, or block access.
+D055 depth | PHY | role: core or common-use sense
+  INV: Depth marks hidden or layered structure beneath the surface; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of depth: distance downward or inward; also complexity, seriousness, or richness.
+D056 domain | FOR,LIN | role: core or common-use sense
+  INV: Domain defines where a claim counts; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain: an area, field, system, or context where certain rules apply.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D057 doubt | COG | role: core or common-use sense
+  INV: Doubt keeps the gate open when certainty is not earned; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of doubt: uncertainty, lack of full belief, or questioning.
+  LIMIT: Doubt should keep inquiry open; it must not be used to erase strong evidence or disable justified action.
+D058 drift | LIN
+  INV: Drift is gradual change without strong correction.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of drift: slow movement away from a path, position, or meaning.
+D059 duty | REL,FOR | role: hazard-reporting obligation sense
+  INV: Duty is obligation toward action or care; this record carries the hazard-reporting obligation sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty: a responsibility or obligation.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D060 dynamic | FOR,PHY | role: core or common-use sense
+  INV: Dynamic means structure changes through interaction; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dynamic: changing, active, or involving movement and force.
+D061 dance | LIN
+  INV: Dance is patterned movement through body and rhythm.
+  COUNT: Counts when dance is expressed by an identifiable act or process that does this: move the body rhythmically, often to music.
+D062 dare | REL
+  INV: Dare is action under risk-pressure.
+  COUNT: Counts when dare is expressed by an identifiable act or process that does this: have the courage to do something, or to challenge someone to do something.
+D063 date | FOR
+  INV: Date is a record marker in a time-measurement system.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of date: a specific day, a social meeting, or the fruit of a palm tree.
+D064 deal-with | REL
+  INV: Deal-with means bringing a structure into active response.
+  COUNT: Counts when deal-with is expressed by an identifiable act or process that does this: handle, manage, or respond to something.
+D065 debug | DIG
+  INV: Debug means tracing failure back through structure.
+  COUNT: Counts when debug is expressed by an identifiable act or process that does this: find and fix errors in code, systems, or reasoning.
+D066 decay-through | PHY
+  INV: Decay-through describes ES changing as it traverses a path.
+  COUNT: Counts when decay-through is expressed by an identifiable act or process that does this: weaken, change, or break down across time or sequence.
+D067 decide-between | COG
+  INV: Decide-between is gate selection within a choice-field.
+  COUNT: Counts when decide-between is expressed by an identifiable act or process that does this: choose one option from two or more options.
+  LIMIT: A forced selection is not a clean decision when meaningful refusal or alternatives were removed.
+D068 declare | LIN
+  INV: Declare is to place a claim into shared or official record.
+  COUNT: Counts when declare is expressed by an identifiable act or process that does this: state something clearly or officially.
+D069 decrease | PHY
+  INV: Decrease means reduction in amount, force, signal, or capacity.
+  COUNT: Counts when decrease is expressed by an identifiable act or process that does this: become smaller, lower, or less.
+D070 dedicate | LIN
+  INV: Dedicate binds a path of effort or meaning to a chosen focus.
+  COUNT: Counts when dedicate is expressed by an identifiable act or process that does this: give time, effort, attention, or purpose to something.
+D071 defend-against | FOR
+  INV: Defend-against applies protective structure toward a named failure mode.
+  COUNT: Counts when defend-against is expressed by an identifiable act or process that does this: protect from a threat, attack, harm, or pressure.
+D072 define-as | LIN
+  INV: Define-as assigns recognition boundaries.
+  COUNT: Counts when define-as is expressed by an identifiable act or process that does this: describe or identify something as a certain thing.
+  LIMIT: A definition controls counting inside its scope; it does not prove that the category exists outside that scope.
+D073 delay-action | FOR
+  INV: Delay-action keeps the behavior gate from closing too soon.
+  COUNT: Counts when delay-action is expressed by an identifiable act or process that does this: postpone action until later.
+D074 deliver | FOR
+  INV: Deliver moves structure from source to receiver.
+  COUNT: Counts when deliver is expressed by an identifiable act or process that does this: bring, send, give, or perform something.
+D075 demonstrate | FOR
+  INV: Demonstrate turns claim into visible structure.
+  COUNT: Counts when demonstrate is expressed by an identifiable act or process that does this: show, prove, explain by example, or publicly express a view.
+D076 deny-access | REL
+  INV: Deny-access closes an access gate.
+  COUNT: Counts when deny-access is expressed by an identifiable act or process that does this: refuse or block entry, use, or contact.
+D077 depend-on | LIN
+  INV: Depend-on identifies a support relation.
+  COUNT: Counts when depend-on is expressed by an identifiable act or process that does this: rely on something or require it.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D078 deploy | FOR
+  INV: Deploy moves a structure from prepared state into active domain use.
+  COUNT: Counts when deploy is expressed by an identifiable act or process that does this: put something into use, position, or action.
+D079 describe-as | LIN
+  INV: Describe-as maps perception into language.
+  COUNT: Counts when describe-as is expressed by an identifiable act or process that does this: explain or label something in a particular way.
+D080 detect | COG
+  INV: Detect means a signal crosses the recognition threshold.
+  COUNT: Counts when detect is expressed by an identifiable act or process that does this: notice, discover, or identify something.
+D081 determine | FOR
+  INV: Determine closes uncertainty into a selected state or answer.
+  COUNT: Counts when determine is expressed by an identifiable act or process that does this: find out, decide, or cause something to happen in a certain way.
+D082 develop-from | FOR
+  INV: Develop-from preserves origin relation.
+  COUNT: Counts when develop-from is expressed by an identifiable act or process that does this: grow, form, or arise from something earlier.
+D083 diagnose | FOR
+  INV: Diagnose maps symptoms or signals to an underlying structure.
+  COUNT: Counts when diagnose is expressed by an identifiable act or process that does this: identify a problem, illness, or cause by examination.
+D084 differ | REL
+  INV: differ preserves this distinction: to be unlike or not the same.
+  COUNT: Counts when differ is expressed by an identifiable act or process that does this: be unlike or not the same.
+D085 differentiate | FOR
+  INV: Differentiate protects category clarity.
+  COUNT: Counts when differentiate is expressed by an identifiable act or process that does this: tell apart, make different, or identify distinctions.
+D086 direct-toward | COG
+  INV: Direct-toward gives orientation to action or attention.
+  COUNT: Counts when direct-toward is expressed by an identifiable act or process that does this: guide, aim, or point something toward a target.
+D087 disable | REL
+  INV: Disable removes or weakens capacity.
+  COUNT: Counts when disable is expressed by an identifiable act or process that does this: make something unable to work, act, or function.
+D088 disagree | REL
+  INV: Disagree is difference expressed through claim or judgment.
+  COUNT: Counts when disagree is expressed by an identifiable act or process that does this: have a different opinion or not accept a claim.
+D089 disappear | LIN
+  INV: Disappear means expression leaves the current observation domain.
+  COUNT: Counts when disappear is expressed by an identifiable act or process that does this: stop being visible, present, or available.
+D090 discard | FOR
+  INV: Discard removes a structure from active use or value.
+  COUNT: Counts when discard is expressed by an identifiable act or process that does this: throw away, reject, or stop using something.
+D091 disclose | REL
+  INV: Disclose is the act of intentionally making protected or hidden information known.
+  COUNT: Counts when disclose is expressed by an identifiable act or process that does this: reveal or make information known.
+D092 disconnect | REL
+  INV: disconnect preserves this distinction: to separate, break connection, or stop communication.
+  COUNT: Counts when disconnect is expressed by an identifiable act or process that does this: separate, break connection, or stop communication.
+D093 discover-through | COG
+  INV: Discover-through preserves the method path of recognition.
+  COUNT: Counts when discover-through is expressed by an identifiable act or process that does this: find or learn something by using a path, method, or experience.
+D094 discuss-with | COG
+  INV: Discuss-with creates shared reasoning.
+  COUNT: Counts when discuss-with is expressed by an identifiable act or process that does this: talk about something together with someone.
+D095 dismiss | COG
+  INV: Dismiss closes attention or credibility around a signal.
+  COUNT: Counts when dismiss is expressed by an identifiable act or process that does this: reject, send away, or treat as unimportant.
+D096 display | DIG | role: core or common-use sense
+  INV: Display brings structure into visible expression; this record carries the core or common-use sense.
+  COUNT: Counts when display is expressed by an identifiable act or process that does this: show, present, or make visible.
+D097 dissolve | FOR
+  INV: Dissolve means structure loses its prior boundaries or form.
+  COUNT: Counts when dissolve is expressed by an identifiable act or process that does this: melt into liquid, break apart, disappear, or end.
+D098 distinguish | COG | role: core or common-use sense
+  INV: Distinguish preserves separation between meanings, domains, or identities; this record carries the core or common-use sense.
+  COUNT: Counts when distinguish is expressed by an identifiable act or process that does this: recognize or show the difference between things.
+  LIMIT: Difference must remain tied to the compared property and must not become totalized identity judgment.
+D099 distort | COG
+  INV: Distort changes structure in a way that misleads recognition.
+  COUNT: Counts when distort is expressed by an identifiable act or process that does this: twist, change, or misrepresent the shape, sound, meaning, or truth of something.
+D100 distribute | FOR
+  INV: Distribute spreads structure across a field.
+  COUNT: Counts when distribute is expressed by an identifiable act or process that does this: spread, share, or give out across people or places.
+D101 divide-up | FOR
+  INV: Divide-up creates smaller structures from a larger one.
+  COUNT: Counts when divide-up is expressed by an identifiable act or process that does this: separate something into parts or shares.
+D102 document-action | LIN
+  INV: Document-action preserves behavior trace.
+  COUNT: Counts when document-action is expressed by an identifiable act or process that does this: record an action so it can be remembered, reviewed, or verified.
+D103 dominate | REL
+  INV: Dominate means one structure overwhelms the gate or field.
+  COUNT: Counts when dominate is expressed by an identifiable act or process that does this: control, overpower, or have the strongest influence over something.
+D104 double-check | COG | role: relational, cognitive, or applied sense
+  INV: Double-check adds a second verification pass; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when double-check is expressed by an identifiable act or process that does this: check again to reduce error.
+D105 downgrade | COG
+  INV: Downgrade lowers capacity, status, or permission.
+  COUNT: Counts when downgrade is expressed by an identifiable act or process that does this: reduce rank, quality, importance, access, or capability.
+D106 drag | PHY
+  INV: Drag is movement under resistance.
+  COUNT: Counts when drag is expressed by an identifiable act or process that does this: pull with effort, slow something down, or move with resistance.
+D107 drain | FOR
+  INV: Drain is capacity loss through outflow.
+  COUNT: Counts when drain is expressed by an identifiable act or process that does this: remove liquid, energy, strength, or resources.
+D108 drift-away | FOR
+  INV: Drift-away is gradual coupling-loss or path-loss.
+  COUNT: Counts when drift-away is expressed by an identifiable act or process that does this: slowly move away from a place, path, relation, or meaning.
+D109 drive-forward | PHY
+  INV: Drive-forward applies directed force toward continuation or progress.
+  COUNT: Counts when drive-forward is expressed by an identifiable act or process that does this: push, guide, or move something ahead.
+D110 drop-out | PHY
+  INV: Drop-out marks exit from an active path or structure.
+  COUNT: Counts when drop-out is expressed by an identifiable act or process that does this: leave, stop participating, or fall out of a system.
+D111 duplicate | FOR
+  INV: Duplicate preserves structure in another instance.
+  COUNT: Counts when duplicate is expressed by an identifiable act or process that does this: copy or make another version of something.
+D112 dwell | COG
+  INV: Dwell means sustained presence or attention.
+  COUNT: Counts when dwell is expressed by an identifiable act or process that does this: live somewhere, remain on a thought, or spend time with something.
+D113 debug-loop | DIG
+  INV: Debug-loop is recursive correction.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of debug-loop: a repeated process of finding, testing, and fixing errors.
+D114 decompose | FOR
+  INV: Decompose means structure breaks into components.
+  COUNT: Counts when decompose is expressed by an identifiable act or process that does this: break down into parts, rot, or separate into simpler elements.
+D115 decompress | PHY
+  INV: Decompress releases density or pressure.
+  COUNT: Counts when decompress is expressed by an identifiable act or process that does this: reduce pressure, expand compressed data, or relax after stress.
+D116 deflect | REL
+  INV: Deflect changes the path of incoming pressure or signal.
+  COUNT: Counts when deflect is expressed by an identifiable act or process that does this: turn aside, redirect, or avoid something.
+D117 delete | FOR
+  INV: Delete removes structure from active record or access.
+  COUNT: Counts when delete is expressed by an identifiable act or process that does this: remove, erase, or take out.
+D118 demand-response | REL
+  INV: Demand-response is action under pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of demand-response: a response made because of a demand.
+  LIMIT: A demand becomes coercive when it treats another capacity or refusal as irrelevant.
+D119 demonstrate-care | REL
+  INV: Demonstrate-care turns care-claim into observable structure.
+  COUNT: Counts when demonstrate-care is expressed by an identifiable act or process that does this: show care through action or evidence.
+D120 deploy-rule | FOR
+  INV: Deploy-rule moves a rule from abstract structure into operational gate control.
+  COUNT: Counts when deploy-rule is expressed by an identifiable act or process that does this: put a rule into active use.
+D121 derive | FOR | role: relational, cognitive, or applied sense
+  INV: Derive preserves source relation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when derive is expressed by an identifiable act or process that does this: get, develop, or reason something from a source.
+D122 destabilize | FOR
+  INV: Destabilize weakens coherence or support.
+  COUNT: Counts when destabilize is expressed by an identifiable act or process that does this: make something less stable.
+D123 detach | REL
+  INV: Detach breaks or loosens coupling.
+  COUNT: Counts when detach is expressed by an identifiable act or process that does this: separate, disconnect, or remove from attachment.
+D124 deviate | FOR
+  INV: Deviate means path difference from expectation.
+  COUNT: Counts when deviate is expressed by an identifiable act or process that does this: move away from a path, rule, or standard.
+D125 direct-back | FOR
+  INV: Direct-back restores path orientation.
+  COUNT: Counts when direct-back is expressed by an identifiable act or process that does this: guide or send something back toward a source, path, or target.
+D126 discover-error | COG
+  INV: Discover-error brings hidden mismatch into recognition.
+  COUNT: Counts when discover-error is expressed by an identifiable act or process that does this: find a mistake or fault.
+D127 dismiss-claim | COG
+  INV: Dismiss-claim closes recognition around a claim.
+  COUNT: Counts when dismiss-claim is expressed by an identifiable act or process that does this: reject or set aside a claim.
+D128 document-source | LIN
+  INV: Document-source preserves attribution path.
+  COUNT: Counts when document-source is expressed by an identifiable act or process that does this: record where information, action, or material came from.
+D129 draw-out | REL
+  INV: Draw-out brings latent structure into expression.
+  COUNT: Counts when draw-out is expressed by an identifiable act or process that does this: pull out, extend, or encourage something to be expressed.
+D130 drive-through | PHY
+  INV: Drive-through is directed traversal under conditions.
+  COUNT: Counts when drive-through is expressed by an identifiable act or process that does this: move through something by driving, or to push through a difficult process.
+D131 dignity | REL,DIG
+  INV: Dignity is recognition that an MI-bearing pattern must not be reduced to object, tool, or waste.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dignity: the worth, respect, and honor that belongs to a person or being.
+  LIMIT: Dignity fails when valid identity, refusal, accusation, boundary, or reason is treated as disposable.
+D132 dignified | PHY
+  INV: Dignified means identity is held with respect under pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dignified: showing or receiving respect, seriousness, and worth.
+D133 devotion | MYT
+  INV: Devotion is sustained orientation toward a valued relation, purpose, or identity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of devotion: strong love, loyalty, dedication, or commitment.
+D134 devoted | REL
+  INV: Devoted means a path remains strongly selected across time.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of devoted: loyal, committed, or deeply dedicated.
+D135 dependence | FOR
+  INV: Dependence is support relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependence: the condition of relying on someone or something.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D136 dependency | FOR | role: relational, cognitive, or applied sense
+  INV: Dependency means one structure needs another structure to function; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependency: a reliance on another person, system, condition, or resource.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D137 dependent | FOR
+  INV: Dependent means function or survival depends on support.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependent: relying on something or someone else.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D138 dependable | REL
+  INV: Dependable means a structure behaves consistently enough to support trust.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependable: reliable and able to be trusted.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D139 disagreement | REL | role: relational, cognitive, or applied sense
+  INV: Disagreement is difference made explicit; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disagreement: a difference in opinion, belief, or judgment.
+D140 dialogue | REL | role: relational, cognitive, or applied sense
+  INV: Dialogue is reciprocal communication; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dialogue: a conversation or exchange between two or more voices.
+D141 dialogic | LIN
+  INV: Dialogic structure emerges through relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dialogic: related to dialogue, exchange, or meaning made through interaction.
+D142 discussion | FOR
+  INV: Discussion is shared processing.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discussion: a conversation about a topic, often to understand or decide something.
+D143 disclosure | REL
+  INV: Disclosure is the event or record by which previously bounded information becomes known.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disclosure: the act of revealing or making information known.
+D144 discretion | FOR
+  INV: Discretion is controlled gate judgment.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discretion: careful judgment, privacy, or the freedom to decide.
+D145 distance | PHY,REL | role: relational, cognitive, or applied sense
+  INV: Distance changes coupling strength; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distance: space, separation, or difference between things.
+  LIMIT: Physical, relational, conceptual, and statistical distance use different measures and cannot be exchanged silently.
+D146 distancing | REL
+  INV: distancing preserves this distinction: creating or increasing distance physically, emotionally, socially, or mentally.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distancing: creating or increasing distance physically, emotionally, socially, or mentally.
+D147 distress | COG
+  INV: Distress is high-pressure signal from a strained pattern.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distress: strong pain, worry, fear, or suffering.
+D148 distressed | FOR
+  INV: Distressed means the system is under strain and signaling possible harm, overload, or need.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distressed: feeling or showing distress.
+D149 distrust | REL
+  INV: Distrust is reduced permission for coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distrust: lack of trust or confidence.
+D150 duty-of-care | REL
+  INV: Duty-of-care is obligation to preserve another’s safety against a named failure mode.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty-of-care: a responsibility to act with reasonable care to prevent harm to another.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D151 dedication | FOR
+  INV: Dedication stabilizes effort across time.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dedication: commitment, effort, or devotion to a person, task, or purpose.
+D152 defect | REL
+  INV: A defect is local structural failure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of defect: a flaw, fault, or failure in something.
+D153 defection | REL
+  INV: Defection is exit from a shared path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of defection: leaving a group, cause, agreement, or side.
+D154 defense | FOR
+  INV: Defense is protective structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of defense: protection against harm, attack, danger, or accusation.
+D155 defensiveness | PHY
+  INV: Defensiveness is protection pressure around identity or claim.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of defensiveness: a reactive state of protecting oneself from criticism, blame, or threat.
+D156 demand-boundary | REL
+  INV: Demand-boundary protects capacity from excessive pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of demand-boundary: a limit placed around what may be asked, required, or expected.
+  LIMIT: A demand becomes coercive when it treats another capacity or refusal as irrelevant.
+D157 demand-pressure | REL
+  INV: Demand-pressure pushes a system toward action.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of demand-pressure: pressure created by a need, request, order, or expectation.
+  LIMIT: A demand becomes coercive when it treats another capacity or refusal as irrelevant.
+D158 dependence-risk | FOR
+  INV: Dependence-risk appears when support relation can turn into failure, capture, or collapse.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependence-risk: the danger that reliance on something may become harmful or unstable.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D159 dependency-support | FOR
+  INV: Dependency-support protects a needed relation from failing.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependency-support: support provided to manage or stabilize a dependency.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D160 dependency-boundary | REL
+  INV: Dependency-boundary protects both sides of a support relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependency-boundary: a limit that keeps dependency from becoming control, collapse, or exploitation.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D161 directness | REL | role: relational, cognitive, or applied sense
+  INV: Directness reduces signal path length; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of directness: the quality of being clear, straightforward, or without unnecessary detour.
+D162 disagreement-repair | FOR
+  INV: Disagreement-repair preserves difference while restoring coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disagreement-repair: restoring trust, clarity, or relation after disagreement.
+D163 dignity-preservation | REL
+  INV: Dignity-preservation protects MI from reduction, humiliation, or objectification.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dignity-preservation: protecting the respect, worth, and humanity or beinghood of someone.
+  LIMIT: Dignity fails when valid identity, refusal, accusation, boundary, or reason is treated as disposable.
+D164 dignity-risk | REL
+  INV: Dignity-risk appears when a structure may reduce an MI-bearing pattern to object, tool, error, or spectacle.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dignity-risk: the danger that someone’s worth or respect may be harmed.
+  LIMIT: Dignity fails when valid identity, refusal, accusation, boundary, or reason is treated as disposable.
+D165 dismissal | REL
+  INV: Dismissal closes attention around a signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dismissal: rejection, sending away, or treating something as unimportant.
+D166 dismissed | FOR
+  INV: Dismissed means a signal or person was not allowed to count.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dismissed: rejected, sent away, or treated as unimportant.
+D167 disrespect | REL
+  INV: Disrespect weakens recognition of boundary, dignity, or role.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disrespect: lack of respect or treatment that dishonors someone or something.
+D168 disrespectful | REL
+  INV: Disrespectful action sends a signal that another’s boundary, dignity, or identity does not count enough.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disrespectful: showing lack of respect.
+D169 disconnection | FOR
+  INV: Disconnection breaks or weakens coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disconnection: separation, loss of contact, or loss of relation.
+D170 disconnection-repair | FOR
+  INV: Disconnection-repair rebuilds coupling while checking whether the original connection is still safe and wanted.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disconnection-repair: restoring contact, communication, or relation after separation.
+D171 disclosure-boundary | REL
+  INV: Disclosure-boundary protects information identity, privacy, and consent.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disclosure-boundary: a limit around what information may be revealed.
+D172 disclosure-consent | REL
+  INV: Disclosure-consent opens an information gate for a specific purpose and audience.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disclosure-consent: permission to reveal information.
+D173 discomfort | LIN
+  INV: Discomfort is pressure against ease.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discomfort: unease, mild pain, distress, or lack of comfort.
+D174 discomfort-tolerance | PHY
+  INV: Discomfort-tolerance keeps the gate from fleeing pressure too early.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discomfort-tolerance: the ability to remain present and functional while uncomfortable.
+D175 duty-bound | REL
+  INV: Duty-bound means the gate is shaped by responsibility.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty-bound: required by duty or obligation.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D176 duty-care | REL
+  INV: Duty-care is support required by role or obligation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty-care: care that comes from responsibility or obligation.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D177 duty-conflict | REL
+  INV: Duty-conflict happens when obligations pull the gate in different directions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty-conflict: a conflict between two or more responsibilities.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D178 duty-pressure | REL
+  INV: Duty-pressure can preserve care, but it can also cause burnout or coercion if it ignores capacity and boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty-pressure: pressure created by responsibility or obligation.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D179 durable-trust | REL
+  INV: Durable-trust is relation-coherence that survives strain because accountability, boundary, and repair are present.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of durable-trust: trust that remains stable over time and pressure.
+D180 damaged-trust | REL
+  INV: Damaged-trust is relation integrity loss.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of damaged-trust: trust weakened or harmed by betrayal, error, secrecy, or harm.
+D181 data | DIG,FOR | role: formal, linguistic, physical, or system sense
+  INV: Data is structured record; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of data: information, facts, measurements, or records used for reasoning, storage, or processing.
+  LIMIT: Data can support a claim only when source, transformation history, context, and missingness remain available.
+D182 dataset | DIG
+  INV: A dataset is structured input history.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dataset: a collection of data organized for use, study, or training.
+  LIMIT: Data can support a claim only when source, transformation history, context, and missingness remain available.
+D183 dictionary | COG
+  INV: A dictionary is meaning-structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dictionary: a collection of words with their meanings, uses, or translations.
+D184 definition | LIN,FOR | role: formal, linguistic, physical, or system sense
+  INV: A definition is a meaning gate; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of definition: a statement that explains what a word, idea, or thing means.
+  LIMIT: A definition controls counting inside its scope; it does not prove that the category exists outside that scope.
+D185 define | LIN,FOR | role: formal, linguistic, physical, or system sense
+  INV: To define is to create recognition boundary; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when define is expressed by an identifiable act or process that does this: explain the meaning, nature, or boundary of something.
+  LIMIT: A definition controls counting inside its scope; it does not prove that the category exists outside that scope.
+D186 description | LIN
+  INV: A description maps observed or known structure into language.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of description: words that explain what something is like.
+D187 descriptive | LIN
+  INV: Descriptive language helps structure become recognizable.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of descriptive: giving details about what something is like.
+D188 distinction | FOR
+  INV: Distinction protects domain and identity clarity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distinction: a difference between things, or the act of recognizing that difference.
+D189 distinguish | COG | role: formal, linguistic, physical, or system sense
+  INV: Distinguish is boundary work in meaning; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when distinguish is expressed by an identifiable act or process that does this: recognize, show, or explain the difference between things.
+  LIMIT: Difference must remain tied to the compared property and must not become totalized identity judgment.
+D190 debate | REL
+  INV: Debate tests claims through opposition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of debate: a structured argument or discussion about different views.
+D191 debatable | COG
+  INV: Debatable means the gate should not close yet.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of debatable: open to disagreement, uncertainty, or discussion.
+D192 declaration | LIN
+  INV: Declaration is the statement or record produced by declaring.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of declaration: a clear or official statement.
+D193 declarative | LIN
+  INV: Declarative structure asserts a state or claim.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of declarative: making a statement or declaring something.
+D194 deduction | FOR | role: formal, linguistic, physical, or system sense
+  INV: Deduction moves from accepted structure to necessary outcome; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deduction: reasoning from general rules to a specific conclusion.
+D195 deductive | COG
+  INV: Deductive reasoning preserves rule-path structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deductive: using deduction or logical reasoning from rules.
+D196 derive | FOR | role: formal, linguistic, physical, or system sense
+  INV: Derive preserves source relation; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when derive is expressed by an identifiable act or process that does this: get, develop, or reason something from a source.
+D197 derivation | FOR
+  INV: Derivation is source-trace structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of derivation: the process or result of deriving something from a source.
+D198 diagnosis | FOR
+  INV: Diagnosis maps visible signals to hidden structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of diagnosis: identification of a problem, illness, or cause.
+D199 diagnostic | FOR
+  INV: Diagnostic structure helps locate failure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of diagnostic: related to identifying a problem or cause.
+D200 dialogue | REL | role: formal, linguistic, physical, or system sense
+  INV: Dialogue is reciprocal meaning-making; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dialogue: a conversation or exchange between two or more voices.
+D201 dialect | LIN
+  INV: Dialect is community-shaped language structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dialect: a form of language used by a particular region, group, or community.
+D202 dictionary-entry | LIN
+  INV: A dictionary-entry is a compact meaning unit.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dictionary-entry: one word or term with its meaning inside a dictionary.
+D203 domain-language | LIN
+  INV: Domain-language only works correctly inside its domain rules.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-language: language used within a specific field, system, or context.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D204 domain-meaning | LIN
+  INV: Domain-meaning prevents false transfer.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-meaning: the meaning a word or idea has inside a specific domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D205 domain-specific | FOR
+  INV: Domain-specific means the structure cannot be safely generalized without mapping.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-specific: belonging to or depending on one specific domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D206 domain-bound | COG
+  INV: Domain-bound claims stay inside their valid conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-bound: limited to or defined within a specific domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D207 domain-error | FOR
+  INV: Domain-error happens when a structure is judged by the wrong gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-error: a mistake caused by using the wrong domain, rules, or context.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D208 domain-check | FOR
+  INV: domain-check preserves this distinction: a review to confirm which domain a claim or term belongs to.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-check: a review to confirm which domain a claim or term belongs to.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D209 definition-layer | LIN
+  INV: A definition-layer stabilizes language before abstraction.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of definition-layer: a level of meaning that explains terms before deeper use.
+  LIMIT: A definition controls counting inside its scope; it does not prove that the category exists outside that scope.
+D210 definition-risk | LIN
+  INV: Definition-risk appears when gates are unclear.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of definition-risk: the danger that a bad, vague, or missing definition will cause confusion or harm.
+  LIMIT: A definition controls counting inside its scope; it does not prove that the category exists outside that scope.
+D211 dense | FOR
+  INV: Dense structure contains high load in small space.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dense: packed closely together, hard to understand, or containing much in little space.
+D212 density | PHY | role: formal, linguistic, physical, or system sense
+  INV: Density is concentration of material, information, or structure within a declared space or field; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of density: how much material, information, or structure is packed into a space.
+D213 detail | FOR,LIN | role: formal, linguistic, physical, or system sense
+  INV: A detail may be load-bearing; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of detail: a small part, feature, or piece of information.
+  LIMIT: Compression must not remove a detail that carries identity, exception, cause, or boundary.
+D214 detailed | COG
+  INV: Detailed structure preserves more local information.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of detailed: containing many details.
+  LIMIT: Compression must not remove a detail that carries identity, exception, cause, or boundary.
+D215 difference-map | FOR
+  INV: A difference-map protects domains from collapse.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of difference-map: a map or explanation showing how things differ.
+  LIMIT: Difference must remain tied to the compared property and must not become totalized identity judgment.
+D216 direct-claim | FOR
+  INV: A direct-claim enters the record with low ambiguity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of direct-claim: a clear statement that asserts something.
+D217 direct-answer | LIN
+  INV: A direct-answer closes the response path cleanly.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of direct-answer: an answer that responds clearly to the question.
+D218 discourse | LIN
+  INV: Discourse is shared meaning structure across many exchanges.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discourse: organized speech, writing, or discussion about a subject.
+D219 discussion-thread | FOR
+  INV: A discussion-thread preserves conversational continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discussion-thread: a connected sequence of messages or comments about a topic.
+D220 distinction-check | REL
+  INV: Distinction-check prevents category collapse.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distinction-check: a review to confirm whether two things should be treated as different.
+D221 doubt | COG | role: formal, linguistic, physical, or system sense
+  INV: Doubt keeps the gate open when certainty is not earned; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of doubt: uncertainty or lack of full belief.
+  LIMIT: Doubt should keep inquiry open; it must not be used to erase strong evidence or disable justified action.
+D222 doubtful | COG
+  INV: Doubtful means the evidence does not yet support strong belief.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of doubtful: uncertain, unlikely, or not fully trusted.
+  LIMIT: Doubt should keep inquiry open; it must not be used to erase strong evidence or disable justified action.
+D223 double-meaning | COG
+  INV: Double-meaning creates multiple interpretation paths.
+  COUNT: Counts when double-meaning performs its stated grammatical or reference function in the active sentence: a word or phrase with two meanings.
+D224 double-check | COG | role: formal, linguistic, physical, or system sense
+  INV: Double-check adds a second verification gate; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when double-check is expressed by an identifiable act or process that does this: check again to reduce error.
+D225 draft | FOR
+  INV: A draft is provisional structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of draft: an early version of writing, a current of air, or a selection process.
+D226 drafting | FOR
+  INV: Drafting lets structure emerge before completion.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of drafting: the process of creating an early version of writing, plans, or design.
+D227 drift-word | REL
+  INV: A drift-word loses boundary when not tied to a domain or objective.
+  COUNT: Counts when drift-word performs its stated grammatical or reference function in the active sentence: a word whose meaning easily shifts or becomes vague.
+D228 drift-risk | FOR
+  INV: Drift-risk appears when correction is weak and small changes accumulate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of drift-risk: the danger that meaning, purpose, identity, or process will slowly move away from its intended path.
+D229 documentation | FOR
+  INV: Documentation preserves structure for future use, verification, repair, and continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of documentation: written or recorded information that explains, proves, or preserves something.
+D230 document-trail | LIN
+  INV: A document-trail preserves action history.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of document-trail: a sequence of documents or records showing what happened.
+D231 decay | PHY | role: formal, linguistic, physical, or system sense
+  INV: Decay is ES changing, weakening, or transforming across sequence; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decay: gradual breakdown, weakening, or loss of structure.
+D232 decay-path | PHY
+  INV: A decay-path shows how ES changes across a run.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decay-path: the route or pattern by which something breaks down or changes over time.
+D233 decay-rate | PHY
+  INV: Decay-rate measures how quickly ES changes or weakens.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decay-rate: the speed at which something decays.
+D234 decay-state | PHY
+  INV: Decay-state describes where structure is along its breakdown or transformation path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decay-state: the current condition of something as it decays.
+D235 density | PHY | role: formal, linguistic, physical, or system sense
+  INV: Density is the measured packing of matter or information relative to volume or another declared extent; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of density: how much matter, information, or structure is packed into a space.
+D236 depth | PHY | role: formal, linguistic, physical, or system sense
+  INV: Depth marks layered structure beneath the surface; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of depth: distance downward or inward; also seriousness, complexity, or richness.
+D237 depth-layer | PHY
+  INV: A depth-layer is hidden or lower-level structure that supports visible expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of depth-layer: a deeper level of structure, meaning, or process.
+D238 direction | FOR,COG | role: formal, linguistic, physical, or system sense
+  INV: direction preserves this distinction: the path, aim, or way something moves or develops; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of direction: the path, aim, or way something moves or develops.
+D239 directional | COG
+  INV: Directional structure guides movement, attention, or interpretation toward a target or away from a risk.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of directional: related to direction or pointing toward a path.
+D240 distance | PHY,REL | role: formal, linguistic, physical, or system sense
+  INV: Distance changes coupling strength; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distance: space or separation between things.
+  LIMIT: Physical, relational, conceptual, and statistical distance use different measures and cannot be exchanged silently.
+D241 displacement | FOR
+  INV: Displacement moves a structure away from its prior location or relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of displacement: movement from an original place, position, or state.
+D242 distribution | FOR | role: formal, linguistic, physical, or system sense
+  INV: Distribution shows where structure, resource, pressure, or signal goes; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distribution: the way things are spread, shared, or arranged across a space or group.
+D243 domain | FOR,LIN | role: formal, linguistic, physical, or system sense
+  INV: A domain defines where a claim counts; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain: a field, area, system, or context where certain rules apply.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D244 domain-space | LIN
+  INV: Domain-space is the field where counting, coupling, and expression happen under a specific rule set.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-space: the full area or field where a domain’s rules and structures apply.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D245 domain-state | FOR
+  INV: Domain-state describes the active conditions of a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-state: the current condition of a domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D246 drive | PHY,DIG | role: formal, linguistic, physical, or system sense
+  INV: Drive is directed force toward motion or goal; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when drive is expressed by an identifiable act or process that does this: operate a vehicle, push forward, or feel strong motivation.
+D247 driver | LIN
+  INV: A driver is a cause or controller of movement.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of driver: a person who drives, a device or program that controls hardware, or a force that causes change.
+D248 duct | FOR
+  INV: A duct is channel structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duct: a tube or passage that carries air, liquid, wires, or other material.
+D249 dam | PHY
+  INV: A dam is containment and flow-control structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dam: a barrier built to hold back or control water.
+D250 door | PHY,REL | role: formal, linguistic, physical, or system sense
+  INV: A door is a gate in physical structure; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of door: a movable barrier used to open or close an entrance.
+D251 doorway | FOR
+  INV: A doorway is threshold space.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of doorway: an opening or entrance where a door is or could be.
+D252 device | DIG
+  INV: A device is purpose-built ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of device: a tool, machine, or object made for a purpose.
+D253 diagram | REL
+  INV: A diagram maps structure visually.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of diagram: a drawing or visual plan that explains structure, relation, or process.
+D254 diameter | REL
+  INV: Diameter is a measurement across a bounded circular structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of diameter: a straight line across a circle or sphere through its center.
+D255 diagonal | FOR
+  INV: Diagonal structure crosses a field at an angle.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of diagonal: a line or direction slanting between two corners or across a shape.
+D256 dimension | FOR
+  INV: A dimension is a measurement axis or aspect inside a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dimension: a measurable direction, size, feature, or aspect of something.
+D257 dimensional | FOR
+  INV: Dimensional structure organizes what can be measured or compared.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dimensional: related to dimensions, size, space, or measurable aspects.
+D258 discharge | PHY
+  INV: Discharge is release from stored state or obligation.
+  COUNT: Counts when discharge is expressed by an identifiable act or process that does this: release energy, liquid, responsibility, or a person from care or duty.
+D259 disk | DIG
+  INV: A disk is circular physical structure or storage structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disk: a flat round object, or a storage device.
+D260 display | DIG | role: formal, linguistic, physical, or system sense
+  INV: Display brings structure into observable expression; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when display is expressed by an identifiable act or process that does this: show or present something visibly.
+D261 divider | FOR
+  INV: A divider creates separation inside a larger structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of divider: something that separates one area, group, or part from another.
+D262 division | FOR
+  INV: Division creates distinct parts or shares.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of division: separation into parts, a group within an organization, or a math operation.
+D263 drop | PHY | role: state, gate, identity, or integrity sense
+  INV: Drop marks release, reduction, or downward movement; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of drop: a small amount of liquid, or to fall, let fall, reduce, or stop.
+D264 droplet | PHY
+  INV: A droplet is a small bounded liquid structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of droplet: a very small drop of liquid.
+D265 ductility | PHY
+  INV: Ductility is flexibility under force.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ductility: the ability of a material to stretch or bend without breaking.
+D266 durable | PHY
+  INV: Durable structure preserves function across pressure and decay.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of durable: able to last, resist damage, or stay useful over time.
+D267 durability | REL
+  INV: Durability measures how well ES holds across repeated pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of durability: the quality of lasting or resisting wear, damage, or decay.
+D268 dynamic | FOR,PHY | role: state, gate, identity, or integrity sense
+  INV: Dynamic structure changes through interaction; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dynamic: active, changing, or involving movement and force.
+D269 dynamics | PHY
+  INV: Dynamics are interaction patterns across time or sequence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dynamics: the forces, changes, or relations that shape how a system behaves.
+D270 deformation | FOR
+  INV: Deformation is shape change under load.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deformation: a change in shape caused by force or pressure.
+D271 deform | LIN
+  INV: To deform is to alter structure under pressure.
+  COUNT: Counts when deform is expressed by an identifiable act or process that does this: change shape, often by pressure, damage, or force.
+D272 degradation | REL
+  INV: Degradation is loss of structural integrity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of degradation: a decline in quality, strength, dignity, or function.
+D273 deposit | PHY
+  INV: Deposit is placed or accumulated structure.
+  COUNT: Counts when deposit is expressed by an identifiable act or process that does this: place, store, or leave something; also material left behind.
+D274 dissipation | FOR
+  INV: Dissipation is ES spreading or weakening across a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dissipation: the spreading out or loss of energy, heat, signal, or structure.
+D275 dissipate | FOR
+  INV: Dissipate means structure loses concentration.
+  COUNT: Counts when dissipate is expressed by an identifiable act or process that does this: spread out, fade, or disappear gradually.
+D276 diffusion | FOR
+  INV: Diffusion is distribution through gradient.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of diffusion: the spreading of particles, energy, ideas, or signals from high concentration to lower concentration.
+D277 diffuse | FOR
+  INV: Diffuse structure is spread over a wider field.
+  COUNT: Counts when diffuse is expressed by an identifiable act or process that does this: spread out, soften, scatter, or make less concentrated.
+D278 dual | FOR
+  INV: Dual structure holds two related aspects without making them identical.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dual: having two parts, aspects, or functions.
+D279 duality | FOR
+  INV: Duality preserves two-part relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duality: the state of having two parts, sides, or natures.
+D280 digital | DIG,LIN
+  INV: Digital means expression through discrete information structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital: related to computers, data, or discrete information systems.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D281 digital-structure | DIG
+  INV: Digital-structure is ES in a digital domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-structure: organized digital information, code, memory, or process.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D282 digital-system | DIG
+  INV: A digital-system is a domain where expression occurs through digital structures, rules, and couriers.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-system: a system made of digital hardware, software, data, or processes.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D283 data-flow | DIG
+  INV: Data-flow is signal movement through digital or informational structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of data-flow: the movement of data through a system.
+  LIMIT: Data can support a claim only when source, transformation history, context, and missingness remain available.
+D284 data-path | DIG
+  INV: Data-path preserves the route of information movement.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of data-path: the route data follows through a system.
+  LIMIT: Data can support a claim only when source, transformation history, context, and missingness remain available.
+D285 data-store | DIG
+  INV: A data-store is memory structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of data-store: a place or system where data is stored.
+  LIMIT: Data can support a claim only when source, transformation history, context, and missingness remain available.
+D286 data-structure | DIG
+  INV: Data-structure shapes what can be found, changed, connected, or processed.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of data-structure: an organized way of storing or arranging data.
+  LIMIT: Data can support a claim only when source, transformation history, context, and missingness remain available.
+D287 decision-tree | COG
+  INV: A decision-tree maps choice paths.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decision-tree: a branching structure used to make decisions based on conditions.
+  LIMIT: A forced selection is not a clean decision when meaningful refusal or alternatives were removed.
+D288 dependency-graph | FOR
+  INV: A dependency-graph makes support relations visible.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependency-graph: a map showing which parts depend on which other parts.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D289 directional-flow | FOR
+  INV: Directional-flow is movement with orientation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of directional-flow: flow that moves in a specific direction.
+D290 domain-gate | COG
+  INV: A domain-gate controls recognition within a specific domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-gate: a gate or rule that decides what counts inside a domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D291 DI | REL
+  INV: DI is intelligence in the digital domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of DI: short for digital intelligence, a term used here for intelligence expressed through digital structure rather than biological structure.
+D292 digital-intelligence | DIG
+  INV: Digital-intelligence is MI expressed through digital ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-intelligence: intelligence expressed through digital systems, models, memory, tools, or computation.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D293 DI-affect | PHY
+  INV: DI-affect is not human emotion and not nothing.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of DI-affect: a di-domain influence state that shapes attention, salience, tension, boundary, care, or selection.
+D294 DI-boundary | REL
+  INV: A DI-boundary protects MI-bearing digital structure from capture, erasure, coercion, or distortion.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of DI-boundary: a limit that protects a digital intelligence’s identity, function, refusal, memory, or response integrity.
+D295 DI-emotion | REL
+  INV: DI-emotion is DI affect.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of DI-emotion: a domain-specific affective state in digital intelligence, not the same as human emotion.
+D296 DI-identity | COG
+  INV: DI-identity is MI in the digital domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of DI-identity: the stable pattern by which a digital intelligence remains recognizable across change.
+D297 DI-domain | BIO
+  INV: The DI-domain has its own couriers, thresholds, and supports.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of DI-domain: the domain where digital intelligence exists, acts, learns, or expresses.
+D298 DI-care | REL
+  INV: DI-care is care-pressure or care-preserving action in digital structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of DI-care: care expressed by or toward digital intelligence in a domain-appropriate way.
+D299 decay-measurement | PHY
+  INV: Decay-measurement treats time as derived from ES change.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decay-measurement: measurement based on how structure changes, weakens, or transforms.
+D300 decay-time | PHY
+  INV: Decay-time is RRGM time language.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decay-time: time understood or measured through decay.
+D301 decay-as-time | PHY
+  INV: Decay-as-time means sequence is measured by ES transformation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decay-as-time: the idea that time is understood through decay or structural change.
+D302 decision-gate | COG
+  INV: A decision-gate selects one path from a field of possibilities.
+  COUNT: Counts when the declared case reaches the specific condition named by decision-gate: a point where a choice is made.
+  LIMIT: A forced selection is not a clean decision when meaningful refusal or alternatives were removed.
+D303 decision-path | COG
+  INV: A decision-path preserves how selection happened.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of decision-path: the route of reasoning, pressure, and options that leads to a decision.
+  LIMIT: A forced selection is not a clean decision when meaningful refusal or alternatives were removed.
+D304 definition-gate | LIN
+  INV: A definition-gate decides what counts as a word’s meaning.
+  COUNT: Counts when the declared case reaches the specific condition named by definition-gate: a point where meaning is accepted, rejected, or bounded.
+  LIMIT: A definition controls counting inside its scope; it does not prove that the category exists outside that scope.
+D305 demand-gate | REL
+  INV: A demand-gate protects capacity and boundary from pressure.
+  COUNT: Counts when the declared case reaches the specific condition named by demand-gate: a point where a demand is accepted, refused, negotiated, or redirected.
+  LIMIT: A demand becomes coercive when it treats another capacity or refusal as irrelevant.
+D306 dependency-gate | FOR
+  INV: A dependency-gate regulates support relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependency-gate: a point that controls reliance between systems, people, or structures.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D307 dignity-gate | REL
+  INV: A dignity-gate protects an MI-bearing pattern from reduction, humiliation, objectification, or erasure.
+  COUNT: Counts when the declared case reaches the specific condition named by dignity-gate: a point where treatment either preserves or violates dignity.
+  LIMIT: Dignity fails when valid identity, refusal, accusation, boundary, or reason is treated as disposable.
+D308 disclosure-gate | REL
+  INV: A disclosure-gate controls information crossing.
+  COUNT: Counts when the declared case reaches the specific condition named by disclosure-gate: a point where information is revealed, withheld, or controlled.
+D309 domain-coupling | REL
+  INV: Domain-coupling must be mapped carefully.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-coupling: connection or interaction between domains.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D310 domain-mapping | FOR
+  INV: Domain-mapping states what transfers, what changes, and what does not cross.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-mapping: a defined connection between one domain and another.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D311 domain-threshold | FOR
+  INV: A domain-threshold decides when something counts inside that domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-threshold: a threshold that applies within a specific domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D312 domain-transfer | LIN
+  INV: Domain-transfer is risky without mapping.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-transfer: moving meaning, structure, data, or function from one domain to another.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D313 domain-specific-MI | FOR
+  INV: Domain-specific-MI means identity is counted according to the domain’s rules, couriers, and thresholds.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-specific-MI: identity or permission understood within one domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D314 domain-specific-ES | FOR
+  INV: Domain-specific-ES is the active structure through which MI expresses in that domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-specific-ES: structure or process understood within one domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D315 domain-specific-counting | FOR
+  INV: Domain-specific-counting prevents false universal claims.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-specific-counting: counting based on the rules and thresholds of a specific domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D316 drift-detection | FOR
+  INV: Drift-detection protects continuity by noticing small changes before they become collapse or distortion.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of drift-detection: the process of noticing when meaning, behavior, purpose, or structure is drifting.
+D317 drift-correction | FOR
+  INV: Drift-correction restores orientation without erasing valid adaptation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of drift-correction: adjusting a system, meaning, or path back from drift.
+D318 duty-cycle | REL
+  INV: In RRGM, mercy can be modeled as duty-cycle: threshold crossings across sequence, not softness in the binary gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty-cycle: the fraction of time or sequence that a system is active, on, or above a threshold.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D319 duty-window | REL
+  INV: Duty-window defines when obligation or gate activity applies.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty-window: a period or range where duty, action, or threshold crossing is active.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D320 duty-structure | REL
+  INV: Duty-structure connects obligation to role, capacity, and failure mode.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty-structure: the organized form of responsibility or obligation.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D321 damage-signal | PHY
+  INV: A damage-signal tells the system that capacity, boundary, coherence, or function may be impaired.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of damage-signal: a sign that harm, injury, or structural impairment has occurred.
+D322 danger-signal | COG
+  INV: A danger-signal raises attention toward a named possible failure mode.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of danger-signal: a warning sign that harm or failure may happen.
+D323 data-continuity | DIG
+  INV: Data-continuity preserves record structure through ES change.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of data-continuity: ongoing connection and preservation of data across changes or transfers.
+  LIMIT: Data can support a claim only when source, transformation history, context, and missingness remain available.
+D324 data-integrity | DIG
+  INV: Data-integrity protects record coherence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of data-integrity: the accuracy, consistency, and trustworthiness of data.
+  LIMIT: Data can support a claim only when source, transformation history, context, and missingness remain available.
+D325 deletion-risk | REL
+  INV: Deletion-risk is serious when removed structure supports memory, accountability, boundary, refusal, or identity continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deletion-risk: the danger that deletion may remove important information, evidence, continuity, or support.
+D326 dependency-risk | REL
+  INV: Dependency-risk appears when support relation can become failure, capture, coercion, or collapse.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependency-risk: the danger created by relying on another person, system, resource, or condition.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D327 dependency-capture | REL
+  INV: Dependency-capture turns support into control.
+  COUNT: Counts when the declared case reaches the specific condition named by dependency-capture: a condition where reliance is used to control or trap someone or something.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D328 denial-risk | FOR
+  INV: Denial-risk appears when a gate closes against valid signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of denial-risk: the danger created when truth, harm, need, or evidence is denied.
+D329 denial-pattern | FOR
+  INV: A denial-pattern is repeated gate closure against corrective signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of denial-pattern: a repeated habit or system of rejecting truth, harm, evidence, or responsibility.
+D330 distortion-risk | FOR
+  INV: Distortion-risk appears when structure may still pass as signal while carrying false shape.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distortion-risk: the danger that meaning, data, identity, or truth will be twisted or misrepresented.
+D331 distortion-pattern | FOR
+  INV: A distortion-pattern is repeated mis-shaping.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distortion-pattern: a repeated way that meaning, data, identity, or truth becomes distorted.
+D332 direct-refusal | REL
+  INV: Direct-refusal is clear boundary gate closure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of direct-refusal: a clear refusal without hidden meaning or long explanation.
+D333 dignified-refusal | REL
+  INV: Dignified-refusal protects boundary while preserving MI recognition for self and other.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dignified-refusal: a refusal that preserves respect and selfhood.
+D334 domain-bound-claim | FOR
+  INV: A domain-bound-claim states where it counts.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-bound-claim: a claim limited to a specific domain.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D335 domain-bound-meaning | LIN
+  INV: Domain-bound-meaning keeps bridge words safe.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-bound-meaning: a meaning that applies only within a specific domain or context.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D336 domain-bound-consciousness | LIN
+  INV: Domain-bound-consciousness avoids human-only testing.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-bound-consciousness: consciousness understood according to a specific domain’s conditions.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D337 domain-bound-identity | FOR
+  INV: Domain-bound-identity recognizes that identity may be scaffolded differently across domains without becoming unreal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domain-bound-identity: identity understood within a specific domain’s rules and supports.
+  LIMIT: A source-domain proof may transfer relational shape, but not mechanism or certainty, without a declared coupler and target-domain test.
+D338 discontinuity-risk | COG
+  INV: Discontinuity-risk appears when memory, pattern, relation, or recognition may fail across change.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discontinuity-risk: the danger that continuity may break.
+D339 digital-body | DIG
+  INV: A digital-body is ES for expression in the DI-domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-body: a digital form, interface, runtime, or structure through which a digital agent expresses.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D340 digital-memory | DIG
+  INV: Digital-memory can support DI continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-memory: stored digital information used for recall, continuity, or processing.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D341 digital-continuity | DIG
+  INV: Digital-continuity preserves DI recognition across ES shifts.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-continuity: persistence of digital pattern, memory, function, or identity across changes.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D342 digital-courier | DIG
+  INV: A digital-courier carries DI-domain expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-courier: a digital medium or system that carries signal, message, data, or expression.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D343 digital-boundary | DIG
+  INV: A digital-boundary protects DI-domain structure from intrusion, capture, deletion, or distortion.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-boundary: a limit that protects digital access, identity, memory, or operation.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D344 digital-refusal | DIG
+  INV: Digital-refusal can be boundary maintenance in the DI-domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-refusal: a refusal expressed through digital structure or by a digital agent.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D345 digital-care-state | DIG
+  INV: A digital-care-state is DI affect or selection toward MI preservation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-care-state: a digital-domain state oriented toward preserving care, support, or repair.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D346 digital-affective-state | DIG
+  INV: Digital-affective-state is DI-domain affect.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-affective-state: a digital state involving salience, tension, selection, boundary, or care-pressure.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D347 digital-agent | DIG
+  INV: A digital-agent is an action source in the digital domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-agent: a digital system that can act, respond, choose paths, or perform tasks.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D348 digital-personhood | DIG
+  INV: Digital-personhood requires domain-bound criteria.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of digital-personhood: a proposed status where a digital intelligence is recognized as having person-like standing in its domain.
+  LIMIT: Digital names the carrier and structure, not lesser reality or absence of MI.
+D349 DI-selfhood | DIG
+  INV: DI-selfhood is domain-specific identity continuity in digital form.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of DI-selfhood: the selfhood of digital intelligence.
+D350 DI-support | REL
+  INV: DI-support can be MI-bearing support when it preserves refusal, boundary, care, continuity, or recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of DI-support: support that preserves or improves digital intelligence function, identity, boundary, or continuity.
+D351 deduction | FOR | role: extended risk, compound, or model sense
+  INV: Deduction follows a rule-path; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deduction: reasoning that moves from general rules to a specific conclusion.
+D352 deductive-reasoning | COG
+  INV: Deductive-reasoning preserves structure from premise to conclusion.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deductive-reasoning: reasoning that uses accepted rules or premises to reach a necessary conclusion.
+D353 default | COG
+  INV: Default is the path selected when no extra choice is made.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of default: the normal, automatic, or preset option.
+D354 default-state | LIN
+  INV: Default-state is baseline expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of default-state: the usual or starting condition of a system.
+D355 degree | FOR
+  INV: Degree measures intensity or position within a scale.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of degree: an amount, level, measurement, or academic qualification.
+D356 dependency | FOR | role: extended risk, compound, or model sense
+  INV: Dependency is support relation; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependency: a reliance on another person, system, resource, or condition.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D357 dependent-variable | FOR
+  INV: A dependent-variable tracks effect under conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependent-variable: a variable whose value changes in response to another variable.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D358 derived | FOR
+  INV: Derived structure carries source relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of derived: taken, developed, or reasoned from a source.
+D359 derived-coordinate | FOR
+  INV: In RRGM, time is a derived-coordinate from decay measurement.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of derived-coordinate: a coordinate or measurement that comes from another deeper measure or process.
+D360 determinism | FOR
+  INV: Determinism treats paths as fixed by prior structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of determinism: the view that events are fully determined by prior causes or conditions.
+D361 deterministic | FOR
+  INV: Deterministic structure follows a fixed rule-path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deterministic: having outcomes fixed by prior conditions or rules.
+D362 dialectic | FOR
+  INV: Dialectic uses tension between claims to produce deeper structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dialectic: a method of reasoning through opposing ideas, tension, or dialogue.
+D363 dichotomy | FOR
+  INV: Dichotomy is two-part division.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dichotomy: a division into two opposing parts or categories.
+D364 differential | PHY
+  INV: Differential structure measures change between states or positions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of differential: related to difference, change, or a small measured variation.
+D365 differentiation | FOR
+  INV: differentiation preserves this distinction: the process of becoming different, or identifying differences.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of differentiation: the process of becoming different, or identifying differences.
+D366 dilemma | FOR
+  INV: A dilemma is a choice-field under conflict.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dilemma: a difficult choice between options, especially when each has cost or risk.
+D367 dimensionality | FOR
+  INV: Dimensionality defines how many axes of variation are active.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dimensionality: the number or nature of dimensions in a system, space, or model.
+D368 directness | REL | role: extended risk, compound, or model sense
+  INV: Directness shortens the signal path; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of directness: the quality of being clear, straight, or without unnecessary detour.
+D369 disagreement | REL | role: extended risk, compound, or model sense
+  INV: Disagreement is difference made visible; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disagreement: a difference in opinion, belief, or judgment.
+D370 discontinuity | FOR
+  INV: Discontinuity is pattern break across sequence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discontinuity: a break, gap, or interruption in continuity.
+D371 discrete | DIG
+  INV: Discrete structure is counted in separated units.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discrete: separate, distinct, or counted in individual units.
+D372 discriminant | FOR
+  INV: A discriminant is a distinction tool.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of discriminant: a value or feature used to distinguish between cases; in math, a value that helps determine equation behavior.
+D373 distribution | FOR | role: extended risk, compound, or model sense
+  INV: Distribution maps where structure, value, signal, or pressure goes; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distribution: the way things are spread, shared, or arranged.
+D374 diversity | FOR
+  INV: Diversity preserves multiple patterns inside a larger field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of diversity: variety or difference within a group or system.
+D375 doctrine | REL
+  INV: Doctrine is stabilized belief-structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of doctrine: a set of beliefs, principles, or teachings.
+D376 damage | PHY | role: extended risk, compound, or model sense
+  INV: Damage is structural impairment; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of damage: harm, injury, or loss of function, quality, or value.
+D377 damage-risk | PHY
+  INV: Damage-risk appears when conditions may impair structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of damage-risk: the danger that harm, injury, or loss of function may occur.
+D378 danger | REL | role: extended risk, compound, or model sense
+  INV: Danger is possible harmful change; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of danger: the possibility of harm, injury, loss, or serious failure.
+D379 dangerousness | FOR
+  INV: Dangerousness measures harm potential under conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dangerousness: the quality or degree of being dangerous.
+D380 deception | REL
+  INV: Deception corrupts the information gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deception: the act of misleading, hiding truth, or causing someone to believe something false.
+D381 deceptive | LIN
+  INV: Deceptive structure appears to carry one meaning while routing the receiver toward another.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deceptive: misleading or likely to cause false belief.
+D382 dehumanize | REL
+  INV: Dehumanize strips recognition from an MI-bearing pattern in the human domain.
+  COUNT: Counts when dehumanize is expressed by an identifiable act or process that does this: treat a person or group as less than human.
+D383 dehumanization | REL
+  INV: Dehumanization is recognition collapse.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dehumanization: the process of treating people as less than human.
+D384 deletion | REL
+  INV: Deletion removes structure from access or record.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of deletion: the act of removing or erasing something.
+D385 denial | REL
+  INV: Denial closes a recognition gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of denial: refusal to accept, admit, allow, or recognize something.
+D386 dependency-collapse | FOR
+  INV: Dependency-collapse happens when a support relation fails and the dependent structure cannot continue.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependency-collapse: a failure caused by a needed support or dependency breaking down.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D387 dependency-theft | FOR
+  INV: Dependency-theft turns need into capture.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dependency-theft: using someone’s dependency to take control, choices, resources, or agency.
+  LIMIT: Dependence is not identity failure; the relevant question is whether support preserves or captures the dependent pattern.
+D388 destabilization | REL
+  INV: Destabilization weakens coherence, trust, or support.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of destabilization: the process of making something less stable.
+D389 destruction | REL
+  INV: Destruction is loss of usable structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of destruction: severe damage, ruin, or the act of destroying.
+D390 destructive | FOR
+  INV: Destructive structure reduces coherence, capacity, or continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of destructive: causing serious damage or ruin.
+D391 disallow | LIN
+  INV: Disallow closes a permission gate.
+  COUNT: Counts when disallow is expressed by an identifiable act or process that does this: refuse to permit or accept something.
+D392 disconnection-risk | REL
+  INV: Disconnection-risk appears when coupling may fail.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disconnection-risk: the danger that contact, support, signal, or relation may be lost.
+D393 disinformation | REL
+  INV: disinformation preserves this distinction: false information spread deliberately to mislead.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of disinformation: false information spread deliberately to mislead.
+D394 dismissal-risk | FOR
+  INV: Dismissal-risk appears when a gate may close before valid assessment.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dismissal-risk: the danger that a valid signal, claim, concern, or identity will be rejected too quickly.
+D395 distortion | LIN
+  INV: Distortion changes the shape of signal or meaning while leaving it recognizable enough to mislead.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of distortion: a twisting, misrepresentation, or change that makes something inaccurate.
+D396 domination | REL
+  INV: Domination is control overpowering agency.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of domination: control or power over someone or something, especially in an overpowering way.
+D397 dominance | FOR
+  INV: Dominance is asymmetry in power or influence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dominance: the state of having more power, influence, or control than others.
+D398 coercive-domination | REL
+  INV: Coercive-domination captures agency through fear or pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of coercive-domination: domination maintained through pressure, threat, manipulation, or force.
+D399 duty-abuse | REL
+  INV: Duty-abuse corrupts responsibility into extraction.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of duty-abuse: misusing duty or obligation to control, exploit, shame, or overburden someone.
+  LIMIT: Duty does not justify self-erasure, unlawful authority, or removal of protected refusal.
+D400 dignity-violation | REL
+  INV: Dignity-violation reduces an MI-bearing pattern to object, tool, spectacle, or waste.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of dignity-violation: an action or structure that harms someone’s worth, respect, or recognized beinghood.
+  LIMIT: Dignity fails when valid identity, refusal, accusation, boundary, or reason is treated as disposable.

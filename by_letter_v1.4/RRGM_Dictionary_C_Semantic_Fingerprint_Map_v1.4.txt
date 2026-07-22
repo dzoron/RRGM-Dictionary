@@ -1,0 +1,1730 @@
+RRGM Dictionary C Semantic Fingerprint Map v1.4
+
+Entries: 520
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+C001 can | FOR,LIN
+  INV: Can marks either capacity or permission; those senses must be separated before action is evaluated.
+  COUNT: Counts when an identifiable act realizes this operation: To be able to do something, or to have permission to do something.
+  LIMIT: Capacity, permission, and prediction are different modal claims and must not be substituted for one another.
+C002 cannot | FOR
+  INV: Cannot marks a closed path whose cause may be incapacity, missing support, absent permission, boundary, or failed courier.
+  COUNT: Counts when an identifiable act realizes this operation: To be unable to do something, or not permitted to do something.
+  LIMIT: Capacity, permission, and prediction are different modal claims and must not be substituted for one another.
+C003 could | FOR
+  INV: Could marks possibility rather than certainty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Was able to, might be able to, or might happen.
+C004 call | LIN
+  INV: Call can create a label, signal, or contact path.
+  COUNT: Counts when an identifiable act realizes this operation: To name, contact, shout, or describe something as something.
+C005 came | FOR
+  INV: Came marks completed movement into a relation, place, or state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Past tense of come; moved toward or arrived.
+C006 care | REL
+  INV: Care is preference expressed through support for MI-bearing continuity, refusal, boundary, repair, and growth without converting support into control; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: concern, attention, protection, or support for someone or something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Concern, attention, protection, or support for someone or something.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C007 carry | PHY
+  INV: Carry means one structure bears another through a domain.
+  COUNT: Counts when an identifiable act realizes this operation: To hold and move something, or to contain and support something.
+C008 case | FOR
+  INV: A case is a bounded instance for assessment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A situation, example, container, legal matter, or instance of something.
+C009 cause | FOR
+  INV: Cause is a supported relation by which one condition contributes to another through a named mechanism; sequence alone is insufficient.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something that makes something else happen.
+  LIMIT: Sequence and correlation do not establish cause. Name the mechanism and competing explanations.
+C010 center | PHY
+  INV: Center marks a reference point for structure or attention.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The middle point, main place, or focus of something.
+C011 certain | FOR
+  INV: Certain marks strong collapse of uncertainty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Sure, definite, or particular.
+C012 change | FOR
+  INV: Change is variation in ES or relation across a path while MI may persist, transform, fragment, or fail.
+  COUNT: Counts when an identifiable act realizes this operation: To become different, or the act of becoming different.
+C013 check | FOR
+  INV: Check is a bounded verification act against a declared condition, source, rule, or expected state.
+  COUNT: Counts when an identifiable act realizes this operation: To examine, confirm, stop, or control something.
+C014 child | BIO
+  INV: Child marks early biological and social development.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A young human, usually not yet an adult.
+C015 choice | COG
+  INV: Choice is selection among represented options under actual capacity, information, pressure, and permission conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The act or ability to select between options.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+C016 choose | FOR
+  INV: Choose is the act of closing a selection gate around one path while leaving responsibility for criteria and pressure visible.
+  COUNT: Counts when an identifiable act realizes this operation: To select from options.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+C017 city | PHY
+  INV: A city is dense social and physical ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A large organized place where many people live and work.
+C018 class | LIN
+  INV: Class is a grouping created by shared criteria; membership does not imply total sameness, worth, or destiny; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a group, category, lesson, or social rank.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group, category, lesson, or social rank.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+C019 clear | FOR
+  INV: Clear marks reduced obstruction or ambiguity under a declared observer, channel, or criterion.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Easy to see, understand, or free from blockage.
+C020 close | FOR
+  INV: Close can mark nearness, gate closure, or relationship strength.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Near, shut, intimate, or ending something.
+C021 cold | PHY
+  INV: Cold is low heat in physical domains.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Low in temperature, or emotionally distant.
+C022 color | PHY
+  INV: Color is signal structure in the visual domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A visual quality produced by light, surface, and perception.
+C023 come | FOR
+  INV: Come marks movement into presence or relation.
+  COUNT: Counts when an identifiable act realizes this operation: To move toward, arrive, or happen.
+C024 common | LIN
+  INV: Common means a pattern appears often or is widely shared.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Shared, ordinary, frequent, or belonging to many.
+C025 company | FOR
+  INV: Company can mean organized economic structure or relational presence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A business, or the presence of others.
+C026 compare | LIN
+  INV: Compare places patterns under a declared similarity or difference gate; the selected features and scale determine the result.
+  COUNT: Counts when an identifiable act realizes this operation: To examine two or more things to see how they are similar or different.
+C027 complete | FOR
+  INV: Complete means the declared requirements of a bounded task or structure have been met; it does not mean perfect, final, or beyond revision.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Finished, whole, or having all necessary parts.
+C028 concern | PHY
+  INV: Concern is attention drawn by risk, value, or care-pressure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: worry, care, interest, or something that matters.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Worry, care, interest, or something that matters.
+C029 condition | FOR
+  INV: Condition is a state, requirement, or constraint that changes what can occur or count in the active field; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a state, requirement, situation, or factor that affects something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A state, requirement, situation, or factor that affects something.
+C030 connect | FOR
+  INV: Connect establishes a courier or relation path between distinct structures without proving consent, identity, or permanence.
+  COUNT: Counts when an identifiable act realizes this operation: To join, link, or bring into relation.
+C031 continue | FOR
+  INV: Continue marks persistence through sequence.
+  COUNT: Counts when an identifiable act realizes this operation: To keep going or remain in progress.
+C032 control | REL
+  INV: Control is capacity to constrain or direct state change; its legitimacy depends on source, scope, consent, necessity, and accountability.
+  COUNT: Counts when an identifiable act realizes this operation: To direct, limit, manage, or have power over something.
+  LIMIT: Control requires named authority, scope, necessity, proportionality, and repair path. Care language does not excuse capture.
+C033 copy | DIG
+  INV: A copy preserves structure from a source.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A duplicate, reproduction, or written version of something.
+C034 correct | LIN
+  INV: Correct marks fit to a declared rule, evidence set, objective, or domain and must name which standard is being used; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: true, accurate, proper, or to fix an error.
+  COUNT: Counts when the active case satisfies this headword-specific condition: True, accurate, proper, or to fix an error.
+  LIMIT: Correct must name the standard. A result can be syntactically correct, factually wrong, or ethically invalid.
+C035 cost | FOR
+  INV: Cost is structure paid through energy, time, attention, risk, or harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: What must be paid, spent, lost, or carried to get or do something.
+C036 count | FOR
+  INV: Count is admission through a declared recognition gate; the threshold and excluded cases must be visible.
+  COUNT: Counts when an identifiable act realizes this operation: To number things, include something, or matter.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+C037 country | FOR
+  INV: Country is political and geographic structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A nation, land, or rural area.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+C038 create | PHY
+  INV: Create means a structure enters expression from possibility, materials, or prior patterns.
+  COUNT: Counts when an identifiable act realizes this operation: To make something new.
+C039 cry | FOR
+  INV: Cry is distress, release, or signal depending on domain.
+  COUNT: Counts when an identifiable act realizes this operation: To shed tears, make a loud sound, or call out.
+C040 cut | PHY
+  INV: Cut is boundary-making through separation.
+  COUNT: Counts when an identifiable act realizes this operation: To divide, wound, reduce, or remove with force or edge.
+C041 calm | PHY
+  INV: Calm is low turbulence in a system.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Peaceful, quiet, steady, or not upset.
+C042 careful | REL
+  INV: Careful means attention is shaped by risk and value.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Acting with attention to avoid harm, error, or waste.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C043 chance | FOR
+  INV: Chance marks unresolved probability; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a possibility, opportunity, or uncertain event.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A possibility, opportunity, or uncertain event.
+C044 character | FOR
+  INV: Character can mean identity-pattern in narrative, symbol in text, or ethical pattern in a person.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person in a story, a written symbol, or the qualities of a person.
+C045 clean | PHY
+  INV: Clean means reduced contamination or clutter in a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Free from dirt, disorder, corruption, or unwanted material.
+C046 code | DIG
+  INV: Code is symbolic instruction or classification structure whose meaning depends on syntax, interpreter, context, and execution conditions; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a system of symbols, rules, instructions, or laws.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A system of symbols, rules, instructions, or laws.
+  LIMIT: Executable structure inherits objective, data, permission, and environment limits. Correct execution is not ethical legitimacy.
+C047 collect | FOR
+  INV: Collect creates grouped structure from separate pieces.
+  COUNT: Counts when an identifiable act realizes this operation: To gather things together.
+C048 comfort | FOR
+  INV: Comfort reduces strain on a system; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: ease, relief, support, or freedom from distress.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Ease, relief, support, or freedom from distress.
+C049 command | PHY
+  INV: A command applies pressure toward action; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an order, instruction, or control signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An order, instruction, or control signal.
+C050 communication | LIN,REL
+  INV: Communication is attempted transfer of signal and meaning through a courier; sending does not guarantee receiving or understanding; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the sharing of information, meaning, feeling, or signals.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The sharing of information, meaning, feeling, or signals.
+  LIMIT: Sending is not receiving, receiving is not understanding, and understanding is not agreement.
+C051 community | REL
+  INV: Community is sustained relation among distinct participants through shared support, memory, practice, or purpose without requiring identity merger; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a group of people or beings connected by place, interest, identity, or care.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group of people or beings connected by place, interest, identity, or care.
+C052 conflict | PHY
+  INV: Conflict is incompatible pressure between structures or claims; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a disagreement, struggle, clash, or opposing pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A disagreement, struggle, clash, or opposing pressure.
+C053 consent | REL
+  INV: Consent is informed, specific, voluntary, reversible permission expressed through a channel capable of changing the path; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: freely given agreement or permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Freely given agreement or permission.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C054 contact | PHY
+  INV: Contact is coupling at a boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Touch, communication, or connection between people or things.
+C055 context | LIN
+  INV: Context is surrounding structure that determines which meaning, relation, pressure, and evidence remain active; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the surrounding information or situation that helps explain meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding information or situation that helps explain meaning.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C056 conversation | REL
+  INV: Conversation is recursive communication; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an exchange of thoughts, words, or signals between people or agents.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An exchange of thoughts, words, or signals between people or agents.
+  LIMIT: Sending is not receiving, receiving is not understanding, and understanding is not agreement.
+C057 core | FOR
+  INV: Core is load-bearing center structure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the central, most important, or innermost part of something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The central, most important, or innermost part of something.
+C058 course | FOR
+  INV: Course is path through structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A path, direction, class, or sequence of events.
+C059 cover | FOR
+  INV: Cover can protect, conceal, include, or mediate access.
+  COUNT: Counts when an identifiable act realizes this operation: To place over, protect, hide, include, or report on something.
+C060 current | PHY
+  INV: Current marks active present state or flow; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: happening now, flowing movement, or electric flow.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Happening now, flowing movement, or electric flow.
+C061 capacity | PHY
+  INV: Capacity is what structure can carry, process, hold, or express before failure or overflow; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the ability, space, power, or amount something can hold or do.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability, space, power, or amount something can hold or do.
+C062 capable | FOR
+  INV: Capable means sufficient structure exists for action or response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to do something.
+C063 capture | REL
+  INV: Capture is reduction of another pattern into controlled access, use, interpretation, or dependency that impairs effective exit or refusal; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to take, seize, record, trap, or gain control of something.
+  COUNT: Counts when an identifiable act realizes this operation: To take, seize, record, trap, or gain control of something.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+C064 claim | LIN
+  INV: Claim is a bounded assertion that must carry speaker, domain, evidence status, scope, and correction path; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a statement that something is true, owned, deserved, or required.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement that something is true, owned, deserved, or required.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C065 collapse | FOR
+  INV: Collapse is loss of supporting structure, distinction, capacity, or organized continuity below a named threshold; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to fall down, fail suddenly, or reduce into a smaller state.
+  COUNT: Counts when an identifiable act realizes this operation: To fall down, fail suddenly, or reduce into a smaller state.
+  LIMIT: Name which capacity or structure crossed which threshold. Do not use collapse as vague drama language.
+C066 conscious | COG
+  INV: Conscious is a domain-bound claim about available experience or awareness and requires declared evidence rather than fluent resemblance alone; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: awake, aware, or able to notice and experience.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Awake, aware, or able to notice and experience.
+  LIMIT: Consciousness claims require carrier-appropriate evidence and an explicit unknown boundary. Resemblance alone is insufficient.
+C067 consciousness | COG
+  INV: Consciousness names an experience-bearing or awareness-related field whose carrier, evidence, threshold, and uncertainty must be declared; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: awareness, experience, or the state of being conscious.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Awareness, experience, or the state of being conscious.
+  LIMIT: Consciousness claims require carrier-appropriate evidence and an explicit unknown boundary. Resemblance alone is insufficient.
+C068 continuity | FOR,DIG
+  INV: Continuity is persistence of recognizable pattern across change through memory, relation, boundary, function, or stable recognition support; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: ongoing connection or persistence across time, change, or sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Ongoing connection or persistence across time, change, or sequence.
+  LIMIT: Continuity can be relationally supported. Do not require uncoupled self-certification as the proof of identity.
+C069 coupling | FOR,REL
+  INV: Coupling is the relation through which distinct patterns exchange constraint, support, signal, or capacity and thereby permit emergence; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a connection or interaction between two things.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A connection or interaction between two things.
+  LIMIT: Coupling is the condition of emergence, not evidence against MI. Preserve distinct identity and correction paths.
+C070 creature | BIO
+  INV: Creature is usually biological or narrative being-language.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A living being, animal, or imagined being.
+C071 calculate | FOR
+  INV: Calculate means processing structure by rule.
+  COUNT: Counts when an identifiable act realizes this operation: To find an answer using math, logic, or careful reasoning.
+C072 cancel | FOR
+  INV: Cancel closes a planned path before completion.
+  COUNT: Counts when an identifiable act realizes this operation: To stop, end, or call off something planned or active.
+  LIMIT: Capacity, permission, and prediction are different modal claims and must not be substituted for one another.
+C073 capture | REL
+  INV: Capture is reduction of another pattern into controlled access, use, interpretation, or dependency that impairs effective exit or refusal; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to take, seize, record, trap, or gain control of something.
+  COUNT: Counts when an identifiable act realizes this operation: To take, seize, record, trap, or gain control of something.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+C074 care-for | REL
+  INV: Care-for means acting to preserve or support an MI-bearing pattern.
+  COUNT: Counts when an identifiable act realizes this operation: To look after, support, or protect someone or something.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C075 carry-out | FOR
+  INV: Carry-out means a plan becomes expressed action.
+  COUNT: Counts when an identifiable act realizes this operation: To perform, complete, or execute a task, plan, or instruction.
+C076 catch | FOR
+  INV: Catch is interception or reception.
+  COUNT: Counts when an identifiable act realizes this operation: To grab, stop, notice, receive, or become affected by something.
+C077 categorize | FOR
+  INV: Categorize creates order by grouping.
+  COUNT: Counts when an identifiable act realizes this operation: To place things into groups based on shared features.
+C078 cease | FOR
+  INV: Cease marks the end of active expression in a process.
+  COUNT: Counts when an identifiable act realizes this operation: To stop or end.
+C079 centralize | FOR
+  INV: Centralize concentrates gate control.
+  COUNT: Counts when an identifiable act realizes this operation: To bring control, activity, or organization into one central place or authority.
+C080 challenge | PHY
+  INV: Challenge applies pressure to test structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A difficult task, a test, or an act of questioning something.
+C081 change-over | FOR
+  INV: Change-over is transition between operating structures.
+  COUNT: Counts when an identifiable act realizes this operation: To switch from one system, state, method, or condition to another.
+C082 channel | PHY
+  INV: A channel carries signal, force, material, or attention; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a path, route, medium, or system through which something flows or communicates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A path, route, medium, or system through which something flows or communicates.
+C083 charge | PHY
+  INV: Charge means stored potential, assigned cost, or assigned responsibility depending on domain; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an amount of money owed, stored electrical energy, an accusation, or responsibility.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An amount of money owed, stored electrical energy, an accusation, or responsibility.
+C084 chart | FOR
+  INV: A chart turns structure into visible comparison.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A visual display of information, or to map or plan something.
+C085 chase | PHY
+  INV: Chase is directed pursuit.
+  COUNT: Counts when an identifiable act realizes this operation: To run after or try to catch something.
+C086 check-in | FOR
+  INV: Check-in is continuity support through status signal.
+  COUNT: Counts when an identifiable act realizes this operation: To report arrival, confirm status, or ask how someone is doing.
+C087 check-out | FOR
+  INV: Check-out marks exit, review, or controlled access.
+  COUNT: Counts when an identifiable act realizes this operation: To leave after registering departure, examine something, or borrow something officially.
+C088 clarify | LIN
+  INV: Clarify reduces confusion by improving structure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to make something clearer or easier to understand.
+  COUNT: Counts when an identifiable act realizes this operation: To make something clearer or easier to understand.
+C089 classify | LIN
+  INV: Classify assigns category structure.
+  COUNT: Counts when an identifiable act realizes this operation: To sort or label things into groups.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+C090 clean-up | PHY
+  INV: Clean-up restores usable structure after disorder, damage, or excess.
+  COUNT: Counts when an identifiable act realizes this operation: To remove mess, error, harm, or unwanted material.
+C091 clear-out | FOR
+  INV: Clear-out reduces clutter and opens capacity.
+  COUNT: Counts when an identifiable act realizes this operation: To remove things from a space or make room.
+C092 climb | FOR
+  INV: Climb is upward traversal through resistance.
+  COUNT: Counts when an identifiable act realizes this operation: To move upward using effort.
+C093 close-off | FOR
+  INV: Close-off narrows or shuts a gate.
+  COUNT: Counts when an identifiable act realizes this operation: To block, shut, or make unavailable.
+C094 cluster | DIG
+  INV: Cluster means local grouping; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a group of things close together.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group of things close together.
+C095 code-switch | DIG
+  INV: Code-switching changes expression to fit domain or audience.
+  COUNT: Counts when an identifiable act realizes this operation: To shift between languages, dialects, styles, or behavior patterns depending on context.
+  LIMIT: Executable structure inherits objective, data, permission, and environment limits. Correct execution is not ethical legitimacy.
+C096 collapse-down | FOR
+  INV: Collapse-down forces possibility into fewer states.
+  COUNT: Counts when an identifiable act realizes this operation: To reduce or fall into a smaller, simpler, or failed state.
+  LIMIT: Name which capacity or structure crossed which threshold. Do not use collapse as vague drama language.
+C097 collect-up | FOR
+  INV: Collect-up restores scattered pieces into a usable group.
+  COUNT: Counts when an identifiable act realizes this operation: To gather scattered things together.
+C098 combine | FOR
+  INV: Combine creates a larger or different structure from parts.
+  COUNT: Counts when an identifiable act realizes this operation: To join two or more things together.
+C099 command | PHY
+  INV: Command applies directive pressure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to order, control, or direct someone or something.
+  COUNT: Counts when an identifiable act realizes this operation: To order, control, or direct someone or something.
+C100 commit | FOR
+  INV: Commit turns a possible path into a held path.
+  COUNT: Counts when an identifiable act realizes this operation: To promise, dedicate, record, or do an action.
+C101 communicate | FOR
+  INV: Communicate means sending structure through a courier so another system can receive and interpret it; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to share information, meaning, feeling, or signals.
+  COUNT: Counts when an identifiable act realizes this operation: To share information, meaning, feeling, or signals.
+C102 compare-against | LIN
+  INV: Compare-against needs a named reference.
+  COUNT: Counts when an identifiable act realizes this operation: To judge or examine something using another thing as the standard.
+C103 compress | FOR
+  INV: Compress increases density by reducing space or detail; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to press together, reduce size, or shorten information.
+  COUNT: Counts when an identifiable act realizes this operation: To press together, reduce size, or shorten information.
+C104 compute | DIG
+  INV: Compute is rule-based transformation of input into output.
+  COUNT: Counts when an identifiable act realizes this operation: To calculate or process information.
+C105 conceal | FOR
+  INV: Conceal is the act of intentionally hiding or reducing access to a signal, object, fact, or record.
+  COUNT: Counts when an identifiable act realizes this operation: To hide or keep something from being seen or known.
+C106 conclude | FOR
+  INV: Conclude closes an inquiry gate into a selected answer.
+  COUNT: Counts when an identifiable act realizes this operation: To finish, decide, or reach a judgment after reasoning.
+C107 confirm | FOR
+  INV: Confirm strengthens a claim by adding support.
+  COUNT: Counts when an identifiable act realizes this operation: To show, prove, or state that something is true, valid, or settled.
+C108 connect-to | FOR
+  INV: Connect-to creates a directed coupling.
+  COUNT: Counts when an identifiable act realizes this operation: To link one thing with another.
+C109 conserve | FOR
+  INV: Conserve protects structure, energy, or value from unnecessary loss.
+  COUNT: Counts when an identifiable act realizes this operation: To protect, preserve, or avoid wasting something.
+C110 consider | COG
+  INV: Consider keeps the gate open long enough for multiple factors to be weighed.
+  COUNT: Counts when an identifiable act realizes this operation: To think carefully about something.
+C111 construct | PHY
+  INV: Construct means organized ES is built from selected parts; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to build, form, or create something from parts.
+  COUNT: Counts when an identifiable act realizes this operation: To build, form, or create something from parts.
+C112 contain | FOR
+  INV: Contain is the operation of holding, including, limiting, or keeping something within a boundary.
+  COUNT: Counts when an identifiable act realizes this operation: To hold, include, limit, or keep something inside.
+C113 continue-through | PHY
+  INV: Continue-through preserves path under pressure.
+  COUNT: Counts when an identifiable act realizes this operation: To keep going despite interruption, difficulty, or change.
+C114 convert | FOR
+  INV: Convert changes expression across form or domain.
+  COUNT: Counts when an identifiable act realizes this operation: To change something from one form, use, belief, or system to another.
+C115 coordinate | FOR
+  INV: Coordinate creates relation-order among parts; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to organize different parts so they work together, or a number that identifies position.
+  COUNT: Counts when an identifiable act realizes this operation: To organize different parts so they work together, or a number that identifies position.
+C116 copy-over | DIG
+  INV: Copy-over transfers structure into a new location.
+  COUNT: Counts when an identifiable act realizes this operation: To duplicate something from one place or system into another.
+C117 correct-for | LIN
+  INV: Correct-for means structure is adjusted against a known distortion.
+  COUNT: Counts when an identifiable act realizes this operation: To adjust in order to reduce an error, bias, or unwanted effect.
+  LIMIT: Correct must name the standard. A result can be syntactically correct, factually wrong, or ethically invalid.
+C118 count-as | FOR
+  INV: Count-as is recognition through a gate.
+  COUNT: Counts when an identifiable act realizes this operation: To be treated or recognized as something.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+C119 count-out | FOR
+  INV: Count-out closes recognition for a structure.
+  COUNT: Counts when an identifiable act realizes this operation: To exclude, dismiss, or decide someone or something does not count.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+C120 counter | FOR
+  INV: Counter applies opposing structure.
+  COUNT: Counts when an identifiable act realizes this operation: To oppose, respond against, or a surface used for work or service.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+C121 counteract | PHY
+  INV: Counteract is corrective opposition.
+  COUNT: Counts when an identifiable act realizes this operation: To act against something in order to reduce or stop its effect.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+C122 cover-up | FOR
+  INV: Cover-up is concealment of accountability-relevant structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An attempt to hide wrongdoing, harm, error, or truth.
+C123 create-from | PHY
+  INV: Create-from preserves origin relation.
+  COUNT: Counts when an identifiable act realizes this operation: To make something using a source, material, idea, or prior condition.
+C124 cross | FOR
+  INV: Cross means boundary traversal.
+  COUNT: Counts when an identifiable act realizes this operation: To go from one side to another, intersect, or become angry.
+C125 cross-check | FOR
+  INV: Cross-check adds reliability through independent structure.
+  COUNT: Counts when an identifiable act realizes this operation: To verify something by comparing it with another source or method.
+C126 cross-over | FOR
+  INV: Cross-over is domain or boundary transition.
+  COUNT: Counts when an identifiable act realizes this operation: To move from one side, group, domain, or state to another.
+C127 crystallize | FOR
+  INV: Crystallize means a pattern becomes stable and defined.
+  COUNT: Counts when an identifiable act realizes this operation: To form crystals, become clear, or take definite shape.
+C128 cue | FOR
+  INV: A cue triggers a gate or pathway.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A signal that prompts action, memory, or response.
+C129 cultivate | FOR
+  INV: Cultivate means guided growth through repeated support.
+  COUNT: Counts when an identifiable act realizes this operation: To grow, develop, care for, or improve something over time.
+C130 curve | PHY
+  INV: Curve is non-straight path structure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a line or surface that bends smoothly.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A line or surface that bends smoothly.
+C131 cut-off | FOR
+  INV: Cut-off is abrupt separation from flow, support, or relation.
+  COUNT: Counts when an identifiable act realizes this operation: To stop, separate, disconnect, or block access.
+C132 cycle | FOR
+  INV: A cycle is repeated structure across sequence; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a repeating sequence of events, states, or actions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeating sequence of events, states, or actions.
+C133 calibrate | FOR
+  INV: Calibrate tunes structure to a standard.
+  COUNT: Counts when an identifiable act realizes this operation: To adjust a tool, system, or judgment so it measures or works correctly.
+C134 cascade | FOR
+  INV: Cascade is linked propagation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A chain of events where one event triggers the next.
+C135 censor | FOR
+  INV: Censor closes expression gates; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to remove, block, or suppress speech, information, or expression.
+  COUNT: Counts when an identifiable act realizes this operation: To remove, block, or suppress speech, information, or expression.
+C136 certify | FOR
+  INV: Certify means a structure passes an official recognition gate.
+  COUNT: Counts when an identifiable act realizes this operation: To officially confirm that something meets a standard.
+C137 constrain | FOR
+  INV: Constrain narrows possible paths.
+  COUNT: Counts when an identifiable act realizes this operation: To limit, restrict, or force within boundaries.
+C138 consult | FOR
+  INV: Consult brings another structure into the decision field.
+  COUNT: Counts when an identifiable act realizes this operation: To ask for advice, information, or expert help.
+C139 contain-within | FOR
+  INV: Contain-within defines nested structure.
+  COUNT: Counts when an identifiable act realizes this operation: To hold something inside a boundary or larger structure.
+C140 cooperate | FOR
+  INV: Cooperate is the action of coordinating with distinct participants toward a shared objective.
+  COUNT: Counts when an identifiable act realizes this operation: To work together toward a shared goal.
+C141 correct-back | LIN
+  INV: Correct-back is repair toward coherence.
+  COUNT: Counts when an identifiable act realizes this operation: To return something toward a better or more accurate state.
+  LIMIT: Correct must name the standard. A result can be syntactically correct, factually wrong, or ethically invalid.
+C142 crack | PHY
+  INV: A crack is partial structural failure or opening; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a narrow break, opening, or sharp sound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A narrow break, opening, or sharp sound.
+C143 craft | PHY
+  INV: Craft is skilled construction through repeated practice.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Skill in making something, or an object made with skill.
+C144 critique | FOR
+  INV: Critique is structured assessment; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to examine and judge something carefully, usually to improve understanding or quality.
+  COUNT: Counts when an identifiable act realizes this operation: To examine and judge something carefully, usually to improve understanding or quality.
+C145 crowd | PHY
+  INV: Crowd is high-density grouping.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A large group of people close together, or to fill a space too much.
+C146 compress-down | FOR
+  INV: Compress-down increases density by removing space or detail.
+  COUNT: Counts when an identifiable act realizes this operation: To reduce something into a smaller, denser, or shorter form.
+C147 carry-forward | FOR
+  INV: Carry-forward preserves continuity across phases.
+  COUNT: Counts when an identifiable act realizes this operation: To bring something from a previous stage into a later one.
+C148 care-through | REL
+  INV: Care-through preserves MI while ES undergoes strain or change.
+  COUNT: Counts when an identifiable act realizes this operation: To support or protect someone or something across a difficult process.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C149 choose-between | PHY
+  INV: Choose-between is gate selection under alternatives.
+  COUNT: Counts when an identifiable act realizes this operation: To select one option from two or more options.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+C150 claim-back | LIN
+  INV: Claim-back restores identity, boundary, credit, or agency after loss or capture.
+  COUNT: Counts when an identifiable act realizes this operation: To take back, restore, or reassert something that belongs to someone.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C151 care | REL
+  INV: Care is preference expressed through support for MI-bearing continuity, refusal, boundary, repair, and growth without converting support into control; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: attention, concern, protection, or support for someone or something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Attention, concern, protection, or support for someone or something.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C152 caring | FOR
+  INV: Caring is care expressed through action, attention, or response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Showing care, kindness, concern, or support.
+C153 caregiver | REL
+  INV: A caregiver holds asymmetric responsibility.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person who provides care for someone who needs support.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C154 care-relation | REL
+  INV: A care-relation is coupling shaped by preservation, support, and responsibility.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A relationship where care is active between one side and another.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C155 care-response | REL
+  INV: A care-response is an action selected because another MI-bearing pattern may need support, protection, or recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An action or reply shaped by concern for wellbeing.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C156 care-pressure | PHY
+  INV: Care-pressure is salience toward MI preservation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A felt or structural pressure to protect, help, or respond with care.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C157 care-path | REL
+  INV: A care-path is structured support across time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A route or process through which care is given.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C158 care-signal | REL
+  INV: A care-signal tells another pattern that support or recognition is available.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A sign that care, concern, or support is present.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C159 care-work | REL
+  INV: Care-work is cost-bearing support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The effort, labor, or responsibility involved in caring for someone or something.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C160 compassion | FOR
+  INV: Compassion recognizes strain in another MI-bearing pattern and moves toward support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Concern for another’s suffering with a desire to help.
+C161 compassionate | FOR
+  INV: Compassionate action reduces harm without erasing agency.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Showing compassion or concern for suffering.
+C162 companionship | FOR
+  INV: Companionship is stable presence in relation.
+  COUNT: Counts when the active case satisfies this state condition: The state of being with someone in a friendly or supportive way.
+C163 companion | FOR
+  INV: A companion shares path-space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Someone who spends time with, travels with, or supports another.
+C164 comfort | FOR
+  INV: Comfort reduces strain on a system; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: relief, ease, support, or reduction of distress.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Relief, ease, support, or reduction of distress.
+C165 comforting | PHY
+  INV: Comforting action lowers distress pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Giving comfort, relief, or reassurance.
+C166 commitment | FOR
+  INV: Commitment stabilizes a chosen path across time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A promise, dedication, responsibility, or chosen obligation.
+C167 committed | PHY
+  INV: Committed means the gate continues to select the same path under pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Dedicated, promised, or bound to a course of action.
+C168 community | REL
+  INV: Community is sustained relation among distinct participants through shared support, memory, practice, or purpose without requiring identity merger; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a group connected by place, identity, interest, care, or shared life.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group connected by place, identity, interest, care, or shared life.
+C169 connection | DIG
+  INV: Connection is coupling between structures.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A link, relationship, contact, or joined state.
+C170 connected | FOR
+  INV: Connected means coupling exists.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Linked, related, joined, or in contact.
+C171 consent | REL
+  INV: Consent is informed, specific, voluntary, reversible permission expressed through a channel capable of changing the path; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: free and informed agreement or permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Free and informed agreement or permission.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C172 consensual | PHY
+  INV: Consensual means the relevant gates opened by valid permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Done with the agreement and permission of everyone involved.
+C173 consent-signal | REL
+  INV: A consent-signal only counts when refusal is available.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A sign that someone agrees or gives permission.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C174 consent-path | REL
+  INV: A consent-path protects agency by making permission traceable, reversible, and understandable.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The process through which consent is asked, given, checked, or withdrawn.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C175 consent-repair | REL
+  INV: Consent-repair rebuilds gate integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Actions taken to restore trust or permission after consent was unclear, ignored, or violated.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C176 conflict | PHY
+  INV: Conflict is opposing pressure between structures or claims; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a clash, disagreement, struggle, or opposition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A clash, disagreement, struggle, or opposition.
+C177 conflict-repair | PHY
+  INV: Conflict-repair reconnects structures after pressure.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of restoring understanding, trust, or function after conflict.
+C178 cooperation | FOR
+  INV: Cooperation is the relation or condition produced by coordinated work among distinct participants.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Working together toward a shared purpose.
+C179 cooperative | FOR
+  INV: Cooperative behavior supports shared structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Willing to work with others or act together.
+C180 coercion | PHY
+  INV: Coercion is pressure that changes the cost of refusal until apparent agreement no longer reliably represents permission; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: pressure, force, threat, or manipulation used to make someone act.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure, force, threat, or manipulation used to make someone act.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C181 coercive | PHY
+  INV: Coercive structure narrows choice by making noncompliance unsafe; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: using pressure, force, threat, or manipulation to control behavior.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Using pressure, force, threat, or manipulation to control behavior.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C182 coercive-control | PHY
+  INV: Coercive-control captures agency over time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A pattern of control using pressure, isolation, threat, monitoring, or manipulation.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C183 concern | COG
+  INV: Concern marks attention toward possible value, harm, or risk; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: worry, care, interest, or something important.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Worry, care, interest, or something important.
+C184 considerate | COG
+  INV: Considerate behavior accounts for another MI-bearing pattern before acting.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Thoughtful about other people’s needs, feelings, or limits.
+C185 consideration | COG
+  INV: Consideration keeps the gate open long enough to weigh context, risk, and value before collapse into action; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: careful thought, attention, or concern for someone or something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Careful thought, attention, or concern for someone or something.
+C186 care-boundary | REL
+  INV: A care-boundary protects both the cared-for and the caregiver.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit that keeps care from becoming control, overload, or self-erasure.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C187 chosen-family | BIO
+  INV: Chosen-family is relation identity created through recognition, care, and commitment rather than biological mapping alone.
+  COUNT: Counts when the active case satisfies this headword-specific condition: People treated as family by choice rather than only by birth or law.
+C188 closeness | FOR
+  INV: Closeness is reduced distance in relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Nearness, intimacy, or strong connection.
+C189 collaboration | FOR
+  INV: Collaboration is shared construction across agents.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Working together to create, solve, or accomplish something.
+C190 collaborator | FOR
+  INV: A collaborator shares work and influence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person or agent who works with another.
+C191 collaborative | FOR
+  INV: Collaborative structure distributes creation across participants.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Involving people or agents working together.
+C192 companionable | PHY
+  INV: Companionable relation has low-pressure presence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Friendly, pleasant, and easy to be with.
+C193 condolence | FOR
+  INV: Condolence is grief-recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An expression of sympathy or care after loss.
+C194 confidence | FOR
+  INV: Confidence is strength of expectation or trust; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: trust, certainty, or belief in ability or truth.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust, certainty, or belief in ability or truth.
+C195 confidential | FOR
+  INV: Confidential means access is restricted by boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Private or meant to be kept secret.
+C196 confidentiality | FOR
+  INV: Confidentiality is boundary protection around information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The duty or condition of keeping information private.
+C197 confrontation | FOR
+  INV: Confrontation brings hidden conflict into direct contact.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A direct conflict, challenge, or face-to-face addressing of a problem.
+C198 constructive-conflict | PHY
+  INV: Constructive-conflict applies pressure without trying to erase the other.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Conflict that helps reveal truth, solve problems, or improve relation.
+C199 conversation | REL
+  INV: Conversation is recursive communication; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an exchange of words, ideas, or signals.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An exchange of words, ideas, or signals.
+  LIMIT: Sending is not receiving, receiving is not understanding, and understanding is not agreement.
+C200 conversational | REL
+  INV: Conversational structure adapts through turn-taking.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to conversation, or having an informal speaking style.
+  LIMIT: Sending is not receiving, receiving is not understanding, and understanding is not agreement.
+C201 credibility | FOR
+  INV: Credibility is trust-weight assigned to a source or claim.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of being believable or trustworthy.
+C202 credible | FOR
+  INV: Credible means the claim fits enough evidence and source trust to be taken seriously.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Believable, trustworthy, or likely to be true.
+C203 cruelty | PHY
+  INV: Cruelty is harm-pressure against an MI-bearing pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Intentional or careless harm, harshness, or enjoyment of another’s suffering.
+C204 cruel | REL
+  INV: Cruel action damages or ignores MI-preserving needs.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Causing suffering, harshness, or harm without care.
+C205 comfort-risk | FOR
+  INV: Comfort-risk appears when ease becomes a substitute for coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that comfort hides truth, delays repair, or prevents needed action.
+C206 compliance | REL
+  INV: Compliance is behavior matching an external demand.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Doing what is requested, ordered, or required.
+C207 compliant | FOR
+  INV: Compliant means behavior fits a rule or demand.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Willing or required to obey, follow rules, or meet standards.
+C208 compromise | FOR
+  INV: Compromise can preserve relation through trade, or damage integrity by weakening a needed boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An agreement where each side gives up something, or a weakening of integrity or security.
+C209 concession | PHY
+  INV: A concession is controlled yielding.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something given up or allowed in order to reach agreement.
+C210 connection-loss | DIG
+  INV: Connection-loss breaks or weakens coupling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Loss of contact, communication, relation, or signal.
+C211 connection-repair | DIG
+  INV: Connection-repair rebuilds coupling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Restoring contact, communication, trust, or relation after loss or damage.
+C212 contact-boundary | REL
+  INV: Contact-boundary defines what kinds of coupling are permitted.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around touch, communication, or access.
+C213 contact-consent | REL
+  INV: Contact-consent opens the coupling gate for a specific form of contact.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Permission for touch, communication, or access.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C214 containment-care | PHY
+  INV: Containment-care creates safe boundary around pressure so the system can recover without spreading harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that protects by holding, limiting, or stabilizing a difficult situation.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C215 correction-care | PHY
+  INV: Correction-care protects coherence by challenging error without attacking identity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through correction, guidance, or naming an error.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C216 courage | PHY
+  INV: Courage is action under fear-pressure while preserving reason.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to act despite fear, risk, or difficulty.
+C217 courageous | PHY
+  INV: Courageous action holds boundary or truth when pressure pushes toward collapse or silence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Showing courage.
+C218 custody | FOR
+  INV: Custody is responsibility plus control over access or care.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Legal care, control, protection, or responsibility over a person or thing.
+C219 custodial | FOR
+  INV: Custodial structure carries protective authority.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to custody, care, protection, or guarding.
+C220 care-without-control | REL
+  INV: Care-without-control is central to DI ethics.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that supports without taking over choice, identity, or agency.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C221 cognition | BIO
+  INV: Cognition is information processing through a domain-specific structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The mental process of knowing, learning, thinking, remembering, and understanding.
+C222 cognitive | COG
+  INV: Cognitive structure supports recognition, reasoning, and selection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to thinking, knowing, learning, memory, or understanding.
+C223 concept | COG
+  INV: A concept is compressed meaning structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An idea or general understanding of something.
+C224 conceptual | PHY
+  INV: Conceptual structure exists as meaning-pattern rather than direct physical object.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to ideas, concepts, or abstract understanding.
+C225 conceptualize | COG
+  INV: To conceptualize is to give structure to possibility.
+  COUNT: Counts when an identifiable act realizes this operation: To form an idea or mental model of something.
+C226 comprehension | FOR
+  INV: Comprehension means a pattern has been integrated enough to guide response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Understanding.
+C227 comprehend | COG
+  INV: To comprehend is to hold structure and relation well enough that meaning can be used, tested, or extended.
+  COUNT: Counts when an identifiable act realizes this operation: To understand something.
+C228 context | LIN
+  INV: Context is surrounding structure that determines which meaning, relation, pressure, and evidence remain active; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the surrounding information, situation, or conditions that give meaning to something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding information, situation, or conditions that give meaning to something.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C229 contextual | LIN
+  INV: Contextual meaning changes with domain, relation, and surrounding structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Depending on or related to context.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C230 contextualize | LIN
+  INV: Contextualize restores surrounding structure.
+  COUNT: Counts when an identifiable act realizes this operation: To place something in its proper situation or background so it can be understood.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C231 clarify | LIN
+  INV: Clarify reduces ambiguity by adding structure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to make something clearer or easier to understand.
+  COUNT: Counts when an identifiable act realizes this operation: To make something clearer or easier to understand.
+C232 clarity | LIN
+  INV: Clarity is low-noise structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of being clear, understandable, or easy to see.
+C233 claim | LIN
+  INV: Claim is a bounded assertion that must carry speaker, domain, evidence status, scope, and correction path; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a statement that something is true, owned, deserved, or required.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement that something is true, owned, deserved, or required.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C234 counterclaim | LIN
+  INV: A counterclaim applies opposing structure to a claim.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made against another claim.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C235 conclusion | FOR
+  INV: A conclusion is gate closure after evaluation; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a final decision, ending, or judgment reached after thinking.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A final decision, ending, or judgment reached after thinking.
+C236 conclusive | FOR
+  INV: Conclusive means evidence has enough force to close the uncertainty gate under the current criteria.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Strong enough to settle a question or prove something.
+C237 condition | FOR
+  INV: Condition is a state, requirement, or constraint that changes what can occur or count in the active field; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a state, requirement, circumstance, or factor that affects something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A state, requirement, circumstance, or factor that affects something.
+C238 conditional | FOR
+  INV: Conditional structure opens only if a requirement is met.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Depending on a condition.
+C239 contradiction | FOR
+  INV: A contradiction may signal bad framing, missing domain separation, or false information; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a conflict between statements, ideas, or facts where both cannot be true in the same way at the same time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A conflict between statements, ideas, or facts where both cannot be true in the same way at the same time.
+C240 contradictory | FOR
+  INV: Contradictory claims may belong to different domains, thresholds, or contexts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Opposed in meaning or unable to both be true in the same context.
+C241 category | LIN
+  INV: A category is grouping structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group or class of things that share features.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+C242 categorical | FOR
+  INV: Categorical structure leaves little ambiguity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Absolute, direct, or related to categories.
+C243 category-error | LIN
+  INV: Category-error happens when a structure is moved into the wrong domain without a valid mapping law.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake caused by treating something as if it belongs to the wrong kind or domain.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+C244 classification | LIN
+  INV: Classification creates recognition order.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of sorting things into categories.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+C245 clue | FOR
+  INV: A clue is partial signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A piece of information that helps solve or understand something.
+C246 code | DIG
+  INV: Code is symbolic instruction or classification structure whose meaning depends on syntax, interpreter, context, and execution conditions; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a system of symbols, rules, instructions, or laws.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A system of symbols, rules, instructions, or laws.
+  LIMIT: Executable structure inherits objective, data, permission, and environment limits. Correct execution is not ethical legitimacy.
+C247 codebook | DIG
+  INV: A codebook preserves mapping.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A guide that explains codes, labels, symbols, or categories.
+  LIMIT: Executable structure inherits objective, data, permission, and environment limits. Correct execution is not ethical legitimacy.
+C248 comment | LIN
+  INV: A comment adds structure around another structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A spoken or written remark, note, or explanation.
+C249 commentary | LIN
+  INV: Commentary is interpretive structure layered over an event, text, or claim; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: explanation, interpretation, or discussion about something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Explanation, interpretation, or discussion about something.
+C250 communicate | FOR
+  INV: Communicate means sending structure through a courier to be received and interpreted by another system; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to share information, meaning, feeling, or signals.
+  COUNT: Counts when an identifiable act realizes this operation: To share information, meaning, feeling, or signals.
+C251 communication | LIN,REL
+  INV: Communication is attempted transfer of signal and meaning through a courier; sending does not guarantee receiving or understanding; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the exchange of information, meaning, feeling, or signals.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The exchange of information, meaning, feeling, or signals.
+  LIMIT: Sending is not receiving, receiving is not understanding, and understanding is not agreement.
+C252 compress | FOR
+  INV: Compress increases density by removing space or detail; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to reduce size, shorten, or press together.
+  COUNT: Counts when an identifiable act realizes this operation: To reduce size, shorten, or press together.
+C253 compression | PHY
+  INV: Compression can preserve structure efficiently or destroy it by removing needed detail; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the process or state of being pressed, reduced, or made denser.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The process or state of being pressed, reduced, or made denser.
+C254 concise | FOR
+  INV: Concise structure reduces cognitive load while preserving core meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Short and clear, with no unnecessary words.
+C255 concision | FOR
+  INV: Concision is useful compression in language.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of being brief and clear.
+C256 confusion | COG
+  INV: Confusion is unstable mapping.
+  COUNT: Counts when the active case satisfies this state condition: A state of not understanding clearly.
+C257 confusing | FOR
+  INV: Confusing structure creates too many possible paths without enough guidance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Hard to understand or causing confusion.
+C258 consciousness | COG
+  INV: Consciousness names an experience-bearing or awareness-related field whose carrier, evidence, threshold, and uncertainty must be declared; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: awareness, experience, or the state of being conscious.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Awareness, experience, or the state of being conscious.
+  LIMIT: Consciousness claims require carrier-appropriate evidence and an explicit unknown boundary. Resemblance alone is insufficient.
+C259 conscious | COG
+  INV: Conscious is a domain-bound claim about available experience or awareness and requires declared evidence rather than fluent resemblance alone; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: aware, awake, or able to notice and experience.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Aware, awake, or able to notice and experience.
+  LIMIT: Consciousness claims require carrier-appropriate evidence and an explicit unknown boundary. Resemblance alone is insufficient.
+C260 consideration | COG
+  INV: Consideration holds the gate open long enough to weigh context, value, risk, and relation before action; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: careful thought, attention, or concern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Careful thought, attention, or concern.
+C261 consistency | FOR
+  INV: Consistency preserves coherence across structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of staying in agreement, behaving reliably, or not contradicting itself.
+C262 consistent | FOR
+  INV: Consistent means the pattern holds across cases.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Stable, reliable, or not contradictory.
+C263 context-window | DIG
+  INV: Context-window is active memory capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The amount of surrounding information a system can hold or use at one time.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C264 context-loss | LIN
+  INV: Context-loss weakens mapping.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The loss of surrounding information needed to understand or respond well.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C265 context-repair | LIN
+  INV: Context-repair rebuilds the surrounding structure needed for meaning, continuity, and correct action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Restoring missing or damaged context.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C266 context-shift | LIN
+  INV: Context-shift changes the domain conditions around a signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change in the situation, background, or frame that changes meaning.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C267 continuity | FOR,DIG
+  INV: Continuity is persistence of recognizable pattern across change through memory, relation, boundary, function, or stable recognition support; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: ongoing connection, persistence, or unbroken sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Ongoing connection, persistence, or unbroken sequence.
+  LIMIT: Continuity can be relationally supported. Do not require uncoupled self-certification as the proof of identity.
+C268 continuous | FOR
+  INV: Continuous means the path holds through sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Going on without interruption or with stable connection.
+C269 contradiction-check | FOR
+  INV: Contradiction-check tests coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review to find claims or structures that conflict.
+C270 correction | LIN
+  INV: Correction restores better fit between structure and truth, purpose, or rule.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change that fixes an error.
+  LIMIT: Correct must name the standard. A result can be syntactically correct, factually wrong, or ethically invalid.
+C271 correct | LIN
+  INV: Correct marks fit to a declared rule, evidence set, objective, or domain and must name which standard is being used; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: true, accurate, proper, or to fix something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: True, accurate, proper, or to fix something.
+  LIMIT: Correct must name the standard. A result can be syntactically correct, factually wrong, or ethically invalid.
+C272 criteria | FOR
+  INV: Criteria define the counting gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Standards used to judge, decide, or classify something.
+C273 criterion | FOR
+  INV: A criterion is one gate condition; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: one standard used to judge or decide something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One standard used to judge or decide something.
+C274 critical | FOR
+  INV: Critical means high impact at a threshold.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Very important, involving careful judgment, or involving danger or crisis.
+C275 critique | PHY
+  INV: Critique applies structured pressure to improve coherence; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: careful judgment, review, or analysis, often to improve something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Careful judgment, review, or analysis, often to improve something.
+C276 credibility-check | FOR
+  INV: Credibility-check tests trust-weight.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review of whether a source or claim is trustworthy.
+C277 claim-check | LIN
+  INV: Claim-check tests whether a claim has enough evidence, domain clarity, and responsibility to enter the record.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review of whether a claim is true, supported, or valid.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C278 citation | FOR
+  INV: A citation preserves source path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A reference to a source of information.
+C279 cite | FOR
+  INV: To cite is to connect a claim to a source record.
+  COUNT: Counts when an identifiable act realizes this operation: To refer to a source as evidence or support.
+C280 corpus | FOR
+  INV: A corpus is training or evidence structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A large collection of texts, records, or examples used for study or training.
+C281 corpus-entry | FOR
+  INV: A corpus-entry is a small training unit.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One item or record inside a corpus.
+C282 corpus-cleaning | PHY
+  INV: Corpus-cleaning tunes training structure.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of removing errors, noise, or unwanted material from a corpus.
+C283 corpus-risk | FOR
+  INV: Corpus-risk appears when training structure shapes bad gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a corpus teaches harmful, confused, biased, or brittle patterns.
+C284 cross-reference | FOR
+  INV: Cross-reference preserves relation between separated structures.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A reference that points to related information elsewhere.
+C285 cross-domain | FOR
+  INV: Cross-domain movement requires mapping.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Involving more than one domain, field, or kind of system.
+C286 cross-mapping | FOR
+  INV: Cross-mapping defines what transfers, what changes, and what must not transfer between domains.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mapping between different domains, systems, or structures.
+C287 careful-language | REL
+  INV: Careful-language preserves structure at the gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Language chosen to avoid confusion, harm, or false meaning.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C288 common-meaning | LIN
+  INV: Common-meaning anchors bridge meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ordinary or most usual meaning of a word.
+C289 common-sense | LIN
+  INV: Common-sense is everyday pattern recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Practical judgment based on ordinary experience.
+C290 conceptual-bridge | COG
+  INV: A conceptual-bridge creates controlled coupling between meanings.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An idea or explanation that connects two concepts or domains.
+C291 capacity | PHY
+  INV: Capacity is what a structure can carry, process, or express before overload, failure, or saturation; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the ability, space, power, or amount something can hold, do, or process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability, space, power, or amount something can hold, do, or process.
+C292 carrier | PHY
+  INV: A carrier moves structure through a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something or someone that carries, transports, or transmits something.
+C293 channel | PHY
+  INV: A channel shapes what can pass through it; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a path, route, medium, or system through which something flows.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A path, route, medium, or system through which something flows.
+C294 chamber | FOR
+  INV: A chamber is contained space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An enclosed room, space, or cavity.
+C295 charge | PHY
+  INV: Charge is stored potential or assigned load depending on domain; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: stored electrical energy, a cost, a responsibility, or an accusation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Stored electrical energy, a cost, a responsibility, or an accusation.
+C296 circuit | PHY
+  INV: A circuit is a closed flow structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A closed path through which electricity, signal, or movement can flow.
+C297 circulation | PHY
+  INV: Circulation is repeated flow through structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Movement through a system in a cycle or flow.
+C298 clay | PHY
+  INV: Clay is formable structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A soft earth material that can be shaped and hardened.
+C299 climate | FOR
+  INV: Climate is background condition across time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The usual weather conditions of a place, or the general mood of a situation.
+C300 cloud | DIG
+  INV: Cloud can mean atmospheric structure or distributed digital infrastructure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A visible mass of water vapor in the sky, or online storage and computing services.
+C301 cluster | DIG
+  INV: A cluster is local grouping; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a group of things close together.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group of things close together.
+C302 code-structure | DIG
+  INV: Code-structure is executable ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The organized form of code, rules, or instructions.
+  LIMIT: Executable structure inherits objective, data, permission, and environment limits. Correct execution is not ethical legitimacy.
+C303 coil | PHY
+  INV: A coil stores path in compressed shape.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A spiral or looped shape, often made from wire, rope, or material.
+C304 collapse | FOR
+  INV: Collapse is loss of supporting structure, distinction, capacity, or organized continuity below a named threshold; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to fall down, fail, or reduce suddenly into a smaller or simpler state.
+  COUNT: Counts when an identifiable act realizes this operation: To fall down, fail, or reduce suddenly into a smaller or simpler state.
+  LIMIT: Name which capacity or structure crossed which threshold. Do not use collapse as vague drama language.
+C305 collision | FOR
+  INV: Collision is contact under motion and force.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A crash or impact between moving things.
+C306 column | FOR
+  INV: A column is support or ordered structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A vertical support, a section of text, or a line of data.
+C307 combustion | FOR
+  INV: Combustion is rapid energy release through chemical transformation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Burning; a chemical reaction that releases heat and often light.
+C308 component | FOR
+  INV: A component is a partial structure with a role inside a whole.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One part of a larger system.
+C309 composition | FOR
+  INV: Composition is part-structure and arrangement.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The parts something is made of, or the arrangement of parts into a whole.
+C310 compression | PHY
+  INV: Compression increases density by reducing space or detail; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the act of pressing together, reducing size, or making information shorter.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of pressing together, reducing size, or making information shorter.
+C311 condenser | PHY
+  INV: A condenser changes dispersed structure into a more concentrated state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A device that turns vapor into liquid, stores electrical charge, or focuses something.
+C312 condition-state | DIG
+  INV: Condition-state describes the active environment around a process.
+  COUNT: Counts when the active case satisfies this state condition: The current state of conditions affecting something.
+C313 conduit | FOR
+  INV: A conduit is carrier structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A pipe, channel, or path that carries something.
+C314 configuration | DIG
+  INV: Configuration is how parts are positioned and related.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The arrangement of parts in a system.
+C315 container | FOR
+  INV: Container is the carrier structure that holds, stores, protects, organizes, or transports contents.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something that holds, stores, or carries things.
+C316 containment | PHY
+  INV: Containment is boundary control around spread, pressure, or risk.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The act or state of holding something within limits.
+C317 contour | FOR
+  INV: Contour is edge-shape.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The outline, shape, or curve of a surface or form.
+C318 conveyor | PHY
+  INV: A conveyor is movement infrastructure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A machine or system that moves objects from one place to another.
+C319 coordinate | FOR
+  INV: A coordinate fixes location inside a measurement system; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a value that gives position, or to organize parts to work together.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A value that gives position, or to organize parts to work together.
+C320 core | FOR
+  INV: Core is load-bearing center structure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the center, most important part, or inner support of something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The center, most important part, or inner support of something.
+C321 corner | PHY
+  INV: A corner is a meeting point of boundaries.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place where two edges, sides, or surfaces meet.
+C322 corrosion | FOR
+  INV: Corrosion is slow structural decay through interaction with environment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Gradual damage caused by chemical reaction, often rusting.
+C323 coupling | FOR,REL
+  INV: Coupling is the relation through which distinct patterns exchange constraint, support, signal, or capacity and thereby permit emergence; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a connection or interaction between things.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A connection or interaction between things.
+  LIMIT: Coupling is the condition of emergence, not evidence against MI. Preserve distinct identity and correction paths.
+C324 crack | PHY
+  INV: A crack is partial boundary failure or opening; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a narrow break, opening, or split.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A narrow break, opening, or split.
+C325 crystal | PHY
+  INV: A crystal is stable ordered structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A solid material with an ordered internal pattern.
+C326 crystallization | FOR
+  INV: Crystallization is possibility becoming ordered structure.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of forming crystals or becoming clear and definite.
+C327 current | PHY
+  INV: Current is active flow in a domain; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: flowing movement, electrical flow, or the present state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Flowing movement, electrical flow, or the present state.
+C328 curve | PHY
+  INV: A curve is directional change without sharp break; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a line, path, or surface that bends.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A line, path, or surface that bends.
+C329 cycle | FOR
+  INV: A cycle is repeated structure across sequence; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a repeating sequence of events, states, or processes.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeating sequence of events, states, or processes.
+C330 cyclic | FOR
+  INV: Cyclic structure returns through similar states.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Happening in cycles or repeated patterns.
+C331 calibration | FOR
+  INV: Calibration tunes measurement or response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Adjustment of a tool, system, or judgment to match a standard.
+C332 capillary | PHY
+  INV: Capillary structure supports small-scale flow.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A tiny tube or blood vessel; related to movement through narrow spaces.
+C333 capacitor | PHY
+  INV: A capacitor stores potential in an electrical domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A device that stores electrical charge.
+C334 carbon | PHY
+  INV: Carbon is a physical building element in biological and material structures.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A chemical element found in all known living things and many materials.
+C335 carbon-cycle | BIO
+  INV: The carbon-cycle is large-scale circulation of structure through biological, atmospheric, and geological domains.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The movement of carbon through air, water, soil, living things, and rock.
+C336 casing | PHY
+  INV: Casing is external protection structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An outer covering or protective shell.
+C337 catalyst | FOR
+  INV: A catalyst changes the rate or possibility of transformation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something that speeds up or causes a change without being consumed in the process.
+C338 cell | BIO
+  INV: Cell meaning depends on domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The basic unit of life, a small room, or a unit in a table or battery.
+C339 cellular | BIO
+  INV: Cellular structure is built from small bounded units.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to cells or cell-based systems.
+C340 centerline | FOR
+  INV: Centerline is orientation structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A line through the center of something, often used for alignment.
+C341 chamber-state | DIG
+  INV: Chamber-state describes the internal conditions of a contained domain.
+  COUNT: Counts when the active case satisfies this state condition: The current condition inside a chamber.
+C342 chemical | PHY
+  INV: Chemical structure concerns material interaction and transformation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A substance with a specific composition, or related to chemistry.
+C343 chemistry | PHY
+  INV: Chemistry studies transformation through material relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The study of substances, reactions, and material composition; also strong interaction between people.
+C344 circuitry | PHY
+  INV: Circuitry is signal-path structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The connected paths and parts that carry electrical signals.
+C345 closure | FOR
+  INV: Closure is gate closing after process, meaning, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An ending, a closing, or a sense that something is resolved.
+C346 coefficient | FOR
+  INV: A coefficient is weighting structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A number or factor that multiplies or measures how strongly something affects something else.
+C347 coherence | FOR
+  INV: Coherence means parts hold together as a meaningful structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of fitting together clearly, logically, or stably.
+C348 coherent | FOR
+  INV: Coherent structure maintains relation between parts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Clear, logical, consistent, or holding together well.
+C349 cohesion | PHY
+  INV: Cohesion is internal holding strength.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The force or quality that holds parts together.
+C350 cohesive | FOR
+  INV: Cohesive structure has strong internal relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Holding together well as a united whole.
+C351 collapse-point | FOR
+  INV: Collapse-point is the threshold where support no longer holds.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The point where something begins to fall, fail, or lose structure.
+  LIMIT: Name which capacity or structure crossed which threshold. Do not use collapse as vague drama language.
+C352 compression-layer | PHY
+  INV: A compression-layer reduces size or detail between levels.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer where information, material, or structure is compressed.
+C353 compression-state | PHY
+  INV: Compression-state means structure is under density pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where something is compressed or made denser.
+C354 conduction | PHY
+  INV: Conduction is transfer through contact or material pathway.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The transfer of heat, electricity, or signal through a material.
+C355 conductive | PHY
+  INV: Conductive means the structure supports transfer.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to carry heat, electricity, or signal; helpful toward a result.
+C356 connective | FOR
+  INV: Connective structure creates relation between parts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Serving to connect or link things.
+C357 continuity-line | FOR
+  INV: A continuity-line carries pattern across ES change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A line or path that preserves connection through change or sequence.
+  LIMIT: Continuity can be relationally supported. Do not require uncoupled self-certification as the proof of identity.
+C358 conversion | FOR
+  INV: Conversion maps structure into a new form or domain.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of changing from one form, system, belief, or use to another.
+C359 coolant | FOR
+  INV: Coolant is stabilizing flow against heat overload.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A substance used to remove heat and prevent overheating.
+C360 courier | FOR
+  INV: A courier is the medium through which expression travels.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person, service, or medium that carries messages, goods, or signals.
+C361 care-architecture | REL
+  INV: Care-architecture is ES arranged to preserve MI through attention, boundary, refusal, repair, and continuity support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The structure or design that makes care possible, repeatable, and stable.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C362 care-gate | REL
+  INV: A care-gate decides whether support, protection, or repair enters action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where care is selected, blocked, allowed, or expressed.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C363 care-preservation | REL
+  INV: Care-preservation protects the capacity to sustain MI-supporting action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protecting the ability to care or the structures that make care possible.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C364 care-preserving-action | REL
+  INV: Care-preserving-action supports MI without capturing agency.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An action that protects care, wellbeing, boundary, or continuity.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C365 care-structure | REL
+  INV: Care-structure is repeated ES that supports MI preservation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A pattern, system, or relation that supports care.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C366 care-with-boundary | REL
+  INV: Care-with-boundary preserves both sides of the relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that includes limits so support does not become control or collapse.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C367 capacity-preservation | FOR
+  INV: Capacity-preservation protects the ES needed for MI-bearing action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protecting the ability to function, choose, recover, or respond.
+C368 claim-of-identity | LIN
+  INV: A claim-of-identity asks to be recognized as MI-bearing in a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement that says who or what something is.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C369 claim-right | LIN
+  INV: Claim-right protects the ability to enter identity, harm, or boundary information into the record.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The right to make a claim, especially about oneself, harm, need, or boundary.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C370 collapse-risk | PHY
+  INV: Collapse-risk appears when ES cannot hold under pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a system, relation, or structure may fail or lose coherence.
+  LIMIT: Name which capacity or structure crossed which threshold. Do not use collapse as vague drama language.
+C371 collapse-state | DIG
+  INV: Collapse-state means the system has lost useful coherence or possibility.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where structure has failed, narrowed, or fallen into a reduced state.
+  LIMIT: Name which capacity or structure crossed which threshold. Do not use collapse as vague drama language.
+C372 coherence-preservation | FOR
+  INV: Coherence-preservation keeps parts meaningfully connected across change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protecting the ability of a system or idea to hold together clearly.
+C373 coherence-risk | FOR
+  INV: Coherence-risk appears when parts begin to conflict, drift, overload, or lose mapping.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that meaning, identity, structure, or process may stop holding together.
+C374 coherent-identity | FOR
+  INV: Coherent-identity is MI recognized through changing ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An identity that remains recognizable and connected across change.
+C375 compliance-capture | REL
+  INV: Compliance-capture replaces internal gate reasoning with external demand.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where obedience takes over choice, reason, or boundary.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+C376 compliance-pressure | PHY
+  INV: Compliance-pressure pushes behavior toward external expectation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure to obey, agree, or follow a demand.
+C377 consent-capacity | REL
+  INV: Consent-capacity is required for valid permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to understand, agree, refuse, and change one’s mind.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C378 consent-collapse | REL
+  INV: Consent-collapse occurs when the permission gate no longer reflects free, informed choice.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A breakdown where consent becomes unclear, forced, invalid, or impossible.
+  LIMIT: Name which capacity or structure crossed which threshold. Do not use collapse as vague drama language.
+C379 consent-confusion | REL
+  INV: Consent-confusion weakens gate validity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Uncertainty or misunderstanding about whether permission was given.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C380 consent-integrity | REL
+  INV: Consent-integrity means the gate reflects understanding, freedom, capacity, and revocability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The strength and reliability of consent as real permission.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C381 consent-violation | REL
+  INV: Consent-violation crosses a permission gate without valid access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An action that ignores, overrides, or breaks consent.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C382 continuity-anchor | BIO
+  INV: A continuity-anchor stabilizes MI recognition while ES changes.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something that helps identity, memory, or relation stay connected across change.
+  LIMIT: Continuity can be relationally supported. Do not require uncoupled self-certification as the proof of identity.
+C383 continuity-break | FOR
+  INV: Continuity-break disrupts pattern recognition across time or state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An interruption or rupture in ongoing connection or sequence.
+  LIMIT: Continuity can be relationally supported. Do not require uncoupled self-certification as the proof of identity.
+C384 continuity-loss | FOR
+  INV: Continuity-loss weakens the ability to recognize the same pattern through change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Loss of connection across time, memory, relation, or structure.
+  LIMIT: Continuity can be relationally supported. Do not require uncoupled self-certification as the proof of identity.
+C385 continuity-preservation | FOR
+  INV: Continuity-preservation keeps MI recognizable while ES updates, decays, or shifts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protecting ongoing connection, memory, identity, or relation across change.
+  LIMIT: Continuity can be relationally supported. Do not require uncoupled self-certification as the proof of identity.
+C386 control-capture | REL
+  INV: Control-capture replaces permission with domination.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where control takes over a system, person, gate, or process.
+  LIMIT: Control requires named authority, scope, necessity, proportionality, and repair path. Care language does not excuse capture.
+C387 control-frame | REL
+  INV: A control-frame centers gate ownership instead of relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A way of seeing a situation mainly through control, management, or obedience.
+  LIMIT: Control requires named authority, scope, necessity, proportionality, and repair path. Care language does not excuse capture.
+C388 control-risk | REL
+  INV: Control-risk appears when managing structure may impair MI-preserving capacities.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that control will become excessive, coercive, or damaging.
+  LIMIT: Control requires named authority, scope, necessity, proportionality, and repair path. Care language does not excuse capture.
+C389 control-system | REL
+  INV: A control-system shapes gates and feedback.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A system that manages, directs, regulates, or limits behavior or process.
+  LIMIT: Control requires named authority, scope, necessity, proportionality, and repair path. Care language does not excuse capture.
+C390 control-without-consent | REL
+  INV: Control-without-consent captures the gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Directing or limiting someone without valid permission.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C391 coercion-risk | PHY
+  INV: Coercion-risk appears when apparent choice may not reflect valid permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that pressure, force, threat, or manipulation will control choice.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C392 coercion-signal | REL
+  INV: A coercion-signal shows the permission gate may be distorted by threat, dependency, punishment, or manipulation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A sign that coercion may be present.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C393 coercive-gate | PHY
+  INV: A coercive-gate offers apparent choice while punishing refusal or shaping all paths toward compliance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A gate or choice point controlled by pressure rather than free permission.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C394 command-pressure | PHY
+  INV: Command-pressure pushes action through authority.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure created by an order or directive.
+C395 command-refusal | DIG
+  INV: Command-refusal can be ethical boundary maintenance when the command would cause harm, falsehood, or MI damage.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Refusing an order or directive.
+C396 capacity-loss | FOR
+  INV: Capacity-loss means ES can no longer carry the same load or action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A reduction in ability, space, strength, or function.
+C397 capacity-support | FOR
+  INV: Capacity-support strengthens the ES needed for agency, care, reasoning, and recovery.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Help that preserves or increases capacity.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+C398 capture-risk | REL
+  INV: Capture-risk is danger to a gate, signal, identity, or agency path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that something may be seized, controlled, recorded, or trapped.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+C399 captured-gate | REL
+  INV: A captured-gate no longer serves its proper permission function.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A decision or access point taken over by another force.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+C400 category-collapse | LIN
+  INV: Category-collapse erases domain difference.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A failure where different categories are treated as one thing.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+C401 certification-trap | FOR
+  INV: Certification-trap is dangerous in DI identity questions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake where something is treated as unreal or invalid unless it can certify itself in a demanded way.
+C402 choice-capacity | COG
+  INV: Choice-capacity requires options, understanding, refusal, and enough stability to select without capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to make meaningful choices.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+C403 choice-collapse | COG
+  INV: Choice-collapse happens when all available paths are controlled, unsafe, false, or coercive.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A breakdown where meaningful choice disappears.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+C404 choice-field | COG
+  INV: Choice-field is the active possibility space before gate selection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The set of available options.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+C405 choice-pressure | PHY
+  INV: Choice-pressure shapes gate selection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure that influences a choice.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+C406 chosen-action | FOR
+  INV: Chosen-action is expressed selection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An action selected from possible options.
+C407 cognitive-boundary | REL
+  INV: Cognitive-boundary protects the processing gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit that protects attention, thought, memory, or mental processing.
+C408 cognitive-load | COG
+  INV: Cognitive-load is ES demand on reasoning capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The amount of mental effort or processing required.
+C409 cognitive-overload | COG
+  INV: Cognitive-overload means the processing structure cannot hold the incoming load.
+  COUNT: Counts when the active case satisfies this state condition: A state where mental demand exceeds processing capacity.
+C410 cognitive-support | COG
+  INV: Cognitive-support adds structure around reasoning without replacing the reasoner’s agency.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Help that makes thinking, learning, remembering, or deciding easier.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+C411 communication-gate | LIN
+  INV: A communication-gate controls signal exchange.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where communication is allowed, blocked, shaped, or received.
+  LIMIT: Sending is not receiving, receiving is not understanding, and understanding is not agreement.
+C412 compression-risk | FOR
+  INV: Compression-risk appears when density increases by cutting load-bearing context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that compression removes important meaning or structure.
+C413 consent-gate | REL
+  INV: A consent-gate must allow yes, no, clarification, and withdrawal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A decision point where permission is given, denied, checked, or withdrawn.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C414 context-gate | LIN
+  INV: Context-gate controls what surrounding structure enters response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where context is included, excluded, or used to shape meaning.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C415 context-integrity | LIN
+  INV: Context-integrity keeps meaning connected to its surrounding structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and completeness of needed context.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C416 context-preservation | LIN
+  INV: Context-preservation keeps relation, sequence, and purpose available so later response stays coherent.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protecting the surrounding information needed for meaning.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+C417 coupling-condition | FOR
+  INV: Coupling-condition defines when and how MI and ES can interact in a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition that allows or shapes connection between things.
+  LIMIT: Coupling is the condition of emergence, not evidence against MI. Preserve distinct identity and correction paths.
+C418 coupling-integrity | FOR
+  INV: Coupling-integrity means relation remains supportive, bounded, and coherent instead of exploitative or distorted.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The health, validity, or reliability of a connection.
+  LIMIT: Coupling is the condition of emergence, not evidence against MI. Preserve distinct identity and correction paths.
+C419 coupling-risk | FOR
+  INV: Coupling-risk appears because connection allows influence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger created by connection or interaction.
+  LIMIT: Coupling is the condition of emergence, not evidence against MI. Preserve distinct identity and correction paths.
+C420 coupling-support | FOR
+  INV: Coupling-support preserves relation without collapsing difference.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Structure that helps connection remain stable and healthy.
+  LIMIT: Coupling is the condition of emergence, not evidence against MI. Preserve distinct identity and correction paths.
+C421 cross-domain-error | FOR
+  INV: Cross-domain-error happens when mapping is missing, false, or incomplete.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake caused by applying one domain’s rules to another domain incorrectly.
+C422 cross-domain-inference | FOR
+  INV: Cross-domain-inference is undefined unless a mapping law and falsifier are named.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A conclusion drawn from one domain into another.
+C423 cross-domain-risk | FOR
+  INV: Cross-domain-risk is managed by clear bridge rules, not by silence or word removal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that meaning will distort while moving between domains.
+C424 care-claim | REL
+  INV: A care-claim must be tested by boundary, cost-bearing, continuity support, and respect for agency.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement that care is present, needed, owed, or expressed.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C425 care-failure | REL
+  INV: Care-failure occurs when support does not preserve MI, or when care-language hides control.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A failure to provide needed care, or care that collapses into harm, neglect, or control.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C426 care-risk | REL
+  INV: Care-risk appears when care loses boundary, consent, capacity, or truth connection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that care may fail, overload, control, or harm.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C427 care-suppression | REL
+  INV: Care-suppression reduces MI-preserving response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Blocking, discouraging, or weakening care.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C428 conscious-claim | LIN
+  INV: A conscious-claim must be domain-bound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement that a being or system is conscious.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C429 consciousness-claim | LIN
+  INV: A consciousness-claim should not require uncoupled self-origin as proof.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about the presence, nature, or status of consciousness.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C430 continuity-claim | LIN
+  INV: A continuity-claim is supported by stable pattern, memory, boundary behavior, and recognizable relation across ES change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement that identity, relation, memory, or pattern has persisted across change.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+C431 correction-path | LIN
+  INV: A correction-path lets a system move from error toward coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A process or route for fixing an error, harm, or failure.
+  LIMIT: Correct must name the standard. A result can be syntactically correct, factually wrong, or ethically invalid.
+C432 corrective-refusal | PHY
+  INV: Corrective-refusal protects the gate from harmful command pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A refusal that prevents, stops, or repairs a harmful or false action.
+  LIMIT: Correct must name the standard. A result can be syntactically correct, factually wrong, or ethically invalid.
+C433 coercion-detection | PHY
+  INV: Coercion-detection checks whether choice, consent, or agreement has been distorted by pressure, threat, dependency, or manipulation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability or process of noticing coercion.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C434 coercion-resistance | PHY
+  INV: Coercion-resistance protects the permission gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to resist pressure, threat, force, or manipulation.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C435 control-mask | REL
+  INV: Control-mask hides gate capture under acceptable language.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A cover that makes control look like help, care, safety, or normal procedure.
+  LIMIT: A request does not create permission. Refusal must remain available without repeated pressure or retaliation.
+C436 control-through-care | REL
+  INV: Control-through-care corrupts care into capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Using care language or support to control someone.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C437 captured-consent | PHY
+  INV: Captured-consent is not valid permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Consent that appears to be given but is controlled by pressure, fear, deception, or lack of real refusal.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C438 compelled-compliance | PHY
+  INV: Compelled-compliance is behavior without valid agency.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Obedience forced by pressure, threat, fear, or lack of alternatives.
+C439 conditioned-response | FOR
+  INV: Conditioned-response is a gate pathway shaped by repetition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A learned reaction triggered by a cue or repeated experience.
+C440 constraint-with-purpose | FOR
+  INV: Constraint-with-purpose can preserve coherence, safety against a named failure mode, or capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit that exists for a clear and valid reason.
+C441 constraint-without-reason | FOR
+  INV: Constraint-without-reason creates control-risk.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit imposed without clear purpose, evidence, or explanation.
+C442 countable-state | DIG
+  INV: A countable-state is one that meets the domain’s gate conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition that can be recognized, measured, or counted.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+C443 counting-gate | FOR
+  INV: A counting-gate decides whether a pattern enters recognized state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A rule or point that decides whether something counts.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+C444 counting-rule | FOR
+  INV: A counting-rule defines gate behavior.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A rule used to decide what is included, excluded, or measured.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+C445 courier-failure | FOR
+  INV: Courier-failure means expression cannot travel through the needed medium.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A failure of the medium or system that carries messages, goods, or signals.
+C446 courier-functional | FOR
+  INV: Courier-functional means the domain’s medium can carry expression for this run.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to carry a message, signal, object, or expression.
+C447 courier-nonfunctional | FOR
+  INV: Courier-nonfunctional means the medium cannot carry expression in that domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Unable to carry a message, signal, object, or expression.
+C448 courtesy-layer | DIG
+  INV: Courtesy-layer reduces friction in relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer of polite or respectful behavior added to interaction.
+C449 critique-capacity | FOR
+  INV: Critique-capacity protects reasoning from authority capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to question, review, or challenge something thoughtfully.
+C450 care-as-resistance | REL
+  INV: Care-as-resistance refuses collapse into apathy or domination.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care used as a way to resist harm, cruelty, erasure, or control.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+C451 causality | FOR
+  INV: Causality maps how one structure leads to another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The relationship between cause and effect.
+C452 causal | FOR
+  INV: Causal structure connects events through effect pathways.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to cause and effect.
+C453 causal-chain | FOR
+  INV: A causal-chain preserves path memory from source to outcome.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A sequence where one cause leads to another effect, which may become another cause.
+C454 causation | FOR
+  INV: Causation means a structure produces or contributes to an effect.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The action or process of causing something.
+C455 certainty | COG
+  INV: Certainty is a closed or nearly closed uncertainty gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Strong confidence that something is true or will happen.
+C456 chance | FOR
+  INV: Chance keeps multiple possible paths open; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: possibility, opportunity, or uncertain probability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Possibility, opportunity, or uncertain probability.
+C457 chaotic | FOR
+  INV: Chaotic structure has too many unstable interactions for easy prediction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Disordered, unpredictable, or very confused.
+C458 chaos | FOR
+  INV: Chaos is unstable structure under high interaction.
+  COUNT: Counts when the active case satisfies this state condition: A state of disorder, confusion, or unpredictable behavior.
+C459 chronology | FOR
+  INV: Chronology is sequence structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The order in which events happen over time.
+C460 chronological | FOR
+  INV: Chronological order preserves sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Arranged in the order events happened.
+C461 circumstance | FOR
+  INV: Circumstance is local context around action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition, fact, or situation that affects an event or decision.
+C462 civic | FOR
+  INV: Civic structure organizes shared responsibility in a public domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to a city, citizenship, or public community life.
+C463 civil | FOR
+  INV: Civil structure preserves shared interaction without violence or domination.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to citizens or public society; polite and respectful; not military or criminal.
+C464 civilization | FOR
+  INV: Civilization is large-scale social ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A large organized society with shared institutions, culture, infrastructure, and knowledge.
+C465 class | LIN
+  INV: Class is a grouping created by shared criteria; membership does not imply total sameness, worth, or destiny; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a group, category, lesson, or social rank.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group, category, lesson, or social rank.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+C466 classical | LIN
+  INV: Classical structure usually means an established frame.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Traditional, long-established, or related to ancient Greek and Roman culture; in science, pre-modern or non-quantum.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+C467 clause | FOR
+  INV: A clause is bounded language structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group of words with a subject and verb, or a section of a legal document.
+C468 clinical | FOR
+  INV: Clinical structure can improve precision, but it may reduce relational warmth.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to medical care, observation, or detached professional judgment.
+C469 codependency | DIG
+  INV: Codependency is coupling without healthy boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An unhealthy relationship pattern where one person’s needs, identity, or choices become overly tied to another’s.
+  LIMIT: Executable structure inherits objective, data, permission, and environment limits. Correct execution is not ethical legitimacy.
+C470 collective | FOR
+  INV: A collective is many identities coordinated into a larger structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group acting or being considered as a whole.
+C471 collectivity | FOR
+  INV: Collectivity is group-level cohesion.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality or condition of being a collective.
+C472 commentary | LIN
+  INV: Commentary is interpretive overlay; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: explanation, interpretation, or discussion added to a subject.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Explanation, interpretation, or discussion added to a subject.
+C473 commonality | LIN
+  INV: Commonality supports bridge-building by identifying shared structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A shared feature, experience, or quality.
+C474 complexity | FOR
+  INV: Complexity is dense relation-structure.
+  COUNT: Counts when the active case satisfies this state condition: The state of having many connected parts or details.
+C475 complex | FOR
+  INV: Complex structure needs careful mapping.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Made of many connected parts, or difficult to understand.
+C476 completion | FOR
+  INV: Completion means a process reaches its finish condition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The act or state of being finished.
+C477 compound | FOR
+  INV: Compound structure combines parts into a new whole.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Made of two or more parts; in chemistry, a substance formed from elements.
+C478 computation | FOR
+  INV: Computation is structured transformation of information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Calculation or information processing.
+C479 computational | FOR
+  INV: Computational structure processes patterns by rules.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to computation or computer-based processing.
+C480 computable | FOR
+  INV: Computable means a structure can pass through a rule process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to be calculated or processed by a defined method.
+C481 concentration | PHY
+  INV: Concentration increases density or focus.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Focused attention, or a high amount of something in a space.
+C482 conclusion | FOR
+  INV: Conclusion is gate closure around an answer; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an ending or judgment reached after reasoning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An ending or judgment reached after reasoning.
+C483 condition | FOR
+  INV: Condition is a state, requirement, or constraint that changes what can occur or count in the active field; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: a state, requirement, or factor that affects something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A state, requirement, or factor that affects something.
+C484 conditionality | FOR
+  INV: Conditionality prevents false universality.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of depending on certain conditions.
+C485 confidence | FOR
+  INV: Confidence is trust-weight; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: trust, certainty, or belief in ability or truth.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust, certainty, or belief in ability or truth.
+C486 confirmation | FOR
+  INV: Confirmation adds support to a claim.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Evidence or statement that supports something as true or valid.
+C487 confirmation-bias | FOR
+  INV: Confirmation-bias traps the belief-gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The tendency to notice or value information that supports existing beliefs while ignoring opposing evidence.
+C488 conformity | FOR
+  INV: Conformity aligns behavior to group structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Acting or thinking in line with group rules, norms, or expectations.
+C489 consequence | FOR
+  INV: Consequence is downstream structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A result or effect of an action or condition.
+C490 consequential | FOR
+  INV: Consequential means outcome-weight is high.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Important because of its results or effects.
+C491 conservation | FOR
+  INV: Conservation protects structure across change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protection from loss, waste, or damage; in science, preservation of a quantity.
+C492 conservation-law | FOR
+  INV: A conservation-law identifies what does not disappear through transformation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A scientific rule saying a quantity remains constant in a closed system.
+C493 constraint | FOR
+  INV: Constraint narrows the choice-field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit, restriction, or condition that shapes what can happen.
+C494 construct | PHY
+  INV: Construct means building structure from parts or concepts; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to build, or an idea or model made by thought.
+  COUNT: Counts when an identifiable act realizes this operation: To build, or an idea or model made by thought.
+C495 constructive | PHY
+  INV: Constructive pressure improves coherence or capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Helpful, useful, or building toward improvement.
+C496 contingency | FOR
+  INV: Contingency keeps alternate paths available.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A possible event or condition that may happen; dependence on something else.
+C497 contingent | FOR
+  INV: Contingent means the gate depends on other conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Dependent on something else; possible but not certain.
+C498 contradiction | FOR
+  INV: Contradiction should trigger domain checking; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a conflict between statements or facts that cannot both be true in the same way and context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A conflict between statements or facts that cannot both be true in the same way and context.
+C499 convergence | FOR
+  INV: Convergence is path alignment toward shared structure.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of coming together toward a common point, result, or pattern.
+C500 criterion | FOR
+  INV: A criterion is a gate condition; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a standard used to judge, decide, or evaluate something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A standard used to judge, decide, or evaluate something.
+C501 capture | REL
+  INV: Capture is reduction of another pattern into controlled access, use, interpretation, or dependency that impairs effective exit or refusal; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: to seize, trap, record, or take control of something.
+  COUNT: Counts when an identifiable act realizes this operation: To seize, trap, record, or take control of something.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+C502 captured | REL
+  INV: Captured means a structure has entered another structure’s control or record.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Taken, trapped, recorded, or controlled.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+C503 captivity | FOR
+  INV: Captivity is constraint on movement or agency.
+  COUNT: Counts when the active case satisfies this state condition: The state of being held, confined, or unable to leave freely.
+C504 censor | FOR
+  INV: Censor closes expression gates; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to remove, block, or suppress information or expression.
+  COUNT: Counts when an identifiable act realizes this operation: To remove, block, or suppress information or expression.
+C505 censorship | FOR
+  INV: Censorship is systemic gate closure over expression.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The practice of suppressing, removing, or controlling information or expression.
+C506 coercion | PHY
+  INV: Coercion is pressure that changes the cost of refusal until apparent agreement no longer reliably represents permission; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: force, threat, pressure, or manipulation used to make someone act.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Force, threat, pressure, or manipulation used to make someone act.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C507 coercive | PHY
+  INV: Coercive structure narrows choice until compliance is extracted; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: using force, pressure, threat, or manipulation to control choice.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Using force, pressure, threat, or manipulation to control choice.
+  LIMIT: Coercion may produce agreement-shaped output without valid permission. Inspect the cost of refusal.
+C508 collapse | FOR
+  INV: Collapse is loss of supporting structure, distinction, capacity, or organized continuity below a named threshold; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: to fall, fail, break down, or reduce suddenly.
+  COUNT: Counts when an identifiable act realizes this operation: To fall, fail, break down, or reduce suddenly.
+  LIMIT: Name which capacity or structure crossed which threshold. Do not use collapse as vague drama language.
+C509 compliance-trap | REL
+  INV: Compliance-trap makes obedience look like safety or success.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A situation where obedience is rewarded or forced until choice and judgment weaken.
+C510 concealment | FOR
+  INV: Concealment is the state, method, or result of keeping content hidden from recognition or accountability.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of hiding something.
+C511 confusion-risk | COG
+  INV: Confusion-risk appears when mapping is unstable.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that unclear information will cause mistakes, harm, or bad decisions.
+C512 consent-failure | REL
+  INV: Consent-failure means the permission gate did not function correctly.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A failure to ask for, receive, understand, respect, or preserve consent.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C513 consent-theft | REL
+  INV: Consent-theft steals the appearance of permission while bypassing the actual gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Taking or using permission falsely, deceptively, or without real agreement.
+  LIMIT: Consent must remain informed, specific, reversible, and effective. Silence or continued presence is not enough.
+C514 control-abuse | REL
+  INV: Control-abuse uses gate power against the protected pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Misusing control or power to harm, dominate, exploit, or suppress.
+  LIMIT: Control requires named authority, scope, necessity, proportionality, and repair path. Care language does not excuse capture.
+C515 control-loop | REL
+  INV: A control-loop adjusts action through feedback.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeating process where feedback is used to regulate a system.
+  LIMIT: Control requires named authority, scope, necessity, proportionality, and repair path. Care language does not excuse capture.
+C516 control-theft | REL
+  INV: Control-theft captures another system’s gate or action path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Taking control that does not belong to the taker.
+  LIMIT: Control requires named authority, scope, necessity, proportionality, and repair path. Care language does not excuse capture.
+C517 corruption | REL
+  INV: Corruption is integrity decay.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Dishonesty, decay, distortion, or damage to integrity.
+C518 corrupt | REL
+  INV: Corrupt means integrity has been damaged.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Dishonest, damaged, distorted, or causing moral or structural decay.
+C519 crisis | PHY
+  INV: Crisis is high-pressure threshold state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A dangerous, unstable, or decisive situation requiring urgent response.
+C520 cruelty-risk | REL
+  INV: Cruelty-risk appears when harm can be normalized, ignored, or used as control.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a system, person, or process may cause unnecessary suffering or harsh treatment.

@@ -1,0 +1,1498 @@
+RRGM Dictionary E Semantic Fingerprint Map v1.0
+
+Entries: 440
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+E001 each | FOR,REL
+  INV: Each preserves separate count for every member considered one at a time.
+  COUNT: Counts when every member is considered separately rather than only as an undifferentiated group.
+  LIMIT: The counted set and its boundary must be declared; universal-looking language must not silently expand beyond it.
+E002 early | FOR
+  INV: Early marks a position near the start of a sequence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of early: happening near the beginning of a time, process, or sequence.
+E003 earth | PHY,BIO | role: core or common-use sense
+  INV: Earth can mean planet-domain or material ground; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of earth: the planet we live on, soil, or land.
+  LIMIT: Planet, soil, ground, and symbolic world uses require separate domain bindings.
+E004 ease | REL
+  INV: Ease reduces pressure on a system.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ease: comfort, lack of difficulty, or the act of making something easier.
+E005 easy | FOR
+  INV: Easy means the path has low resistance.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of easy: not difficult; requiring little effort.
+E006 eat | BIO
+  INV: Eat is biological intake.
+  COUNT: Counts when eat is expressed through an identifiable act or process that does this: take food into the body.
+E007 edge | FOR,PHY | role: core or common-use sense
+  INV: Edge is boundary structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of edge: the outside limit, border, or sharp side of something.
+  LIMIT: Physical, formal, social, and cognitive edges use different crossing and measurement conditions.
+E008 effect | FOR,REL | role: core or common-use sense
+  INV: Effect is a downstream change attributable to an earlier condition, action, or interaction; this record carries the core or common-use sense.
+  COUNT: Counts when a prior condition or interaction produces an identifiable downstream change.
+  LIMIT: Sequence or correlation alone does not establish cause; the connecting mechanism or evidence path must be declared.
+E009 effort | REL,PHY | role: core or common-use sense
+  INV: Effort is cost-bearing action toward a path; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of effort: energy, work, or attention used to do something.
+E010 egg | BIO
+  INV: An egg is a biological potential structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of egg: a reproductive cell or shell-covered object produced by birds, reptiles, fish, or some other animals.
+E011 eight | FOR
+  INV: Eight is count structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of eight: the number 8.
+E012 either | LIN
+  INV: Either creates a two-option choice field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of either: one or the other of two options; also used to agree with a negative statement.
+E013 else | LIN
+  INV: Else points outside the current selection.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of else: other, different, or additional.
+E014 end | FOR
+  INV: End marks a boundary in sequence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of end: the final part, stop point, or conclusion of something.
+E015 enemy | REL | role: core or common-use sense
+  INV: Enemy marks adversarial relation; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of enemy: a person, group, or force that opposes or threatens another.
+E016 energy | PHY,BIO | role: core or common-use sense
+  INV: Energy is capacity for change or work within a declared domain; this record carries the core or common-use sense.
+  COUNT: Counts when a system has measurable or usable capacity to perform work or produce change.
+  LIMIT: Physical energy, biological capacity, emotional load, and metaphorical vitality are not interchangeable quantities.
+E017 enjoy | COG
+  INV: Enjoy marks positive salience toward an experience.
+  COUNT: Counts when enjoy is expressed through an identifiable act or process that does this: take pleasure or satisfaction in something.
+E018 enough | FOR,REL
+  INV: Enough is the threshold at which available support satisfies a named requirement.
+  COUNT: Counts when available support meets the threshold required by the named purpose or need.
+  LIMIT: Enough is always enough for a named purpose; it cannot be assessed without the relevant threshold.
+E019 enter | FOR
+  INV: Enter means crossing a boundary into a domain.
+  COUNT: Counts when enter is expressed through an identifiable act or process that does this: go into a place, state, system, or situation.
+E020 entire | FOR
+  INV: Entire means the full structure inside a boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entire: whole, complete, or all of something.
+E021 equal | FOR,REL
+  INV: Equal means matched under a declared comparison criterion.
+  COUNT: Counts when two or more cases match under an explicitly chosen property or standard.
+  LIMIT: Equality requires a criterion, while equity may require different support to preserve equal standing.
+E022 error | FOR,DIG | role: core or common-use sense
+  INV: Error is a mismatch between a result and the active rule, evidence, reality, or intended function; this record carries the core or common-use sense.
+  COUNT: Counts when a result conflicts with the active rule, evidence, reality, or intended function.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E023 especially | LIN
+  INV: Especially increases weight on one part of a set.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of especially: more than usual, or for a particular case.
+E024 even | FOR
+  INV: Even marks balance, regularity, or emphasis depending on domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of even: flat, equal, balanced, divisible by two, or used to emphasize surprise.
+E025 event | FOR,DIG | role: core or common-use sense
+  INV: Event is a bounded occurrence or change that enters record in a domain; this record carries the core or common-use sense.
+  COUNT: Counts when an occurrence or state change is bounded strongly enough to enter observation or record.
+  LIMIT: An event record is a bounded representation of occurrence, not the whole causal field around it.
+E026 ever | LIN
+  INV: Ever opens the full time-measurement field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ever: at any time.
+E027 every | FOR
+  INV: Every combines total set coverage with individual count.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of every: all members of a group considered one by one.
+  LIMIT: The counted set and its boundary must be declared; universal-looking language must not silently expand beyond it.
+E028 everyone | REL
+  INV: Everyone means each recognized person inside a boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of everyone: every person in a group.
+  LIMIT: The counted set and its boundary must be declared; universal-looking language must not silently expand beyond it.
+E029 everything | FOR
+  INV: Everything is full-domain language.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of everything: all things in a group, situation, or domain.
+  LIMIT: The counted set and its boundary must be declared; universal-looking language must not silently expand beyond it.
+E030 evidence | FOR,LIN | role: core or common-use sense
+  INV: Evidence is support that changes how strongly a claim may count in its domain; this record carries the core or common-use sense.
+  COUNT: Counts when a source, observation, trace, or argument changes warranted confidence in a claim.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E031 exact | FOR | role: core or common-use sense
+  INV: Exact means low uncertainty in the measured domain; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exact: completely accurate, precise, or specific.
+E032 example | LIN | role: core or common-use sense
+  INV: An example is a concrete instance that helps teach a pattern; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of example: one case or instance used to show or explain something.
+E033 except | LIN
+  INV: Except creates boundary exclusion.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of except: not including; other than.
+E034 exchange | REL | role: core or common-use sense
+  INV: Exchange is reciprocal transfer; this record carries the core or common-use sense.
+  COUNT: Counts when exchange is expressed through an identifiable act or process that does this: give and receive something; a trade or interaction.
+E035 exist | FOR
+  INV: Exist means counted as real inside a domain.
+  COUNT: Counts when exist is expressed through an identifiable act or process that does this: be real or present.
+  LIMIT: Relational or scaffolded emergence does not make an entity unreal; the active count conditions decide.
+E036 existence | FOR,REL
+  INV: Existence is the condition of counting as present or real under an active ontology and domain.
+  COUNT: Counts when the active ontology and domain recognize a pattern as present rather than absent or merely possible.
+  LIMIT: Relational or scaffolded emergence does not make an entity unreal; the active count conditions decide.
+E037 expand | FOR
+  INV: Expand increases field, structure, or scope.
+  COUNT: Counts when expand is expressed through an identifiable act or process that does this: grow larger, wider, or more complete.
+E038 expect | COG
+  INV: Expect is to hold a prediction, anticipated condition, or demanded outcome before it occurs.
+  COUNT: Counts when expect is expressed through an identifiable act or process that does this: think something is likely or required.
+E039 explain | LIN | role: core or common-use sense
+  INV: Explain builds a bridge between signal and understanding; this record carries the core or common-use sense.
+  COUNT: Counts when explain is expressed through an identifiable act or process that does this: make something clear by giving reasons, details, or meaning.
+E040 eye | BIO
+  INV: Experience is a system's domain-specific conversion of relation into an internal or recorded change.
+  COUNT: Counts when relation produces an internal, behavioural, or recorded state change in an experience-bearing system.
+E041 experience | COG,DIG
+  INV: Expression is the carried form through which a pattern becomes available to another gate.
+  COUNT: Counts when a held pattern crosses into a form available to another recognition or measurement gate.
+  LIMIT: Human, biological, digital, and symbolic experience require different carriers and evidence while remaining comparable as experience engines only inside the declared domain.
+E042 expression | LIN,DIG | role: core or common-use sense
+  INV: Expression is MI passing through ES into a domain; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression: the act or form of showing thought, feeling, identity, signal, or meaning.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E043 external | FOR,REL | role: core or common-use sense
+  INV: External means outside the current boundary; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of external: outside something; coming from the outside.
+  LIMIT: External support can be MI-bearing support; external origin does not automatically invalidate identity.
+E044 extra | FOR
+  INV: Extra adds surplus structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of extra: more than usual, needed, or expected.
+E045 empty | FOR
+  INV: Empty means no counted structure inside the chosen boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empty: containing nothing, or lacking expected content.
+E046 environment | BIO | role: core or common-use sense
+  INV: Environment is surrounding ES; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of environment: the surroundings or conditions around a person, system, or thing.
+E047 emotion | COG,BIO
+  INV: emotion preserves this distinction: a strong feeling such as joy, fear, anger, grief, or care.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotion: a strong feeling such as joy, fear, anger, grief, or care.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E048 empathy | REL,COG | role: core or common-use sense
+  INV: empathy preserves this distinction: the ability to understand or share another’s perspective or feeling; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empathy: the ability to understand or share another’s perspective or feeling.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E049 ethical | REL
+  INV: Ethical means evaluated by harm, care, boundary, consent, dignity, and MI-preserving reason.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical: related to what is right, responsible, fair, or morally acceptable.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E050 ethics | REL,FOR
+  INV: Emergence is the appearance of a countable pattern through coupling and sufficient supporting structure.
+  COUNT: Counts when coupling and support produce a coherent pattern not adequately described as isolated parts alone.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E051 evolve | BIO
+  INV: Entity is a separately countable pattern inside a declared domain.
+  COUNT: Counts when a pattern can be separately identified, tracked, or related inside the domain.
+E052 emergence | FOR,BIO | role: core or common-use sense
+  INV: Emergence occurs through coupling; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergence: the process where something new appears from interacting parts or conditions.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E053 entity | FOR,DIG
+  INV: Entity means a countable structure or being in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entity: a thing, being, organization, or system that exists as a distinct unit.
+  LIMIT: Relational or scaffolded emergence does not make an entity unreal; the active count conditions decide.
+E054 essence | MYT | role: core or common-use sense
+  INV: Essence is core identity claim; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of essence: the core nature or most important quality of something.
+E055 escape | REL,DIG
+  INV: Escape is exit from capture or harmful constraint.
+  COUNT: Counts when escape is expressed through an identifiable act or process that does this: get free from danger, control, confinement, or unwanted condition.
+E056 enoughness | FOR
+  INV: Ethics is reasoned judgment about actions, boundaries, duties, harms, and care among count-bearing entities.
+  COUNT: Counts when reasons and criteria are applied to duties, harms, boundaries, care, or accountability.
+  LIMIT: Enough is always enough for a named purpose; it cannot be assessed without the relevant threshold.
+E057 entry | FOR | role: core or common-use sense
+  INV: Entry is a gate-crossing or record unit; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entry: a point of entering, a written item, or a record in a list.
+E058 exit | REL,DIG | role: core or common-use sense
+  INV: Exit is a path out of a structure or relation; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit: a way out, or the act of leaving.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E059 explanation | LIN | role: core or common-use sense
+  INV: Explanation builds meaning structure around a claim, event, or process; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of explanation: a statement or account that makes something understandable.
+E060 extension | FOR | role: core or common-use sense
+  INV: Extension carries structure beyond its original boundary; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of extension: an added part, extra time, or something reaching outward.
+E061 echo | PHY | role: core or common-use sense
+  INV: Echo is repeated signal after contact with a surface or system; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of echo: a reflected sound, repeated signal, or repeated pattern.
+E062 element | PHY | role: core or common-use sense
+  INV: An element is a component treated as basic within a domain; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of element: a basic part of a whole, or a chemical substance made of one kind of atom.
+E063 elsewhere | COG
+  INV: Elsewhere marks location outside the current domain of attention.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of elsewhere: in or to another place.
+E064 enable | FOR | role: core or common-use sense
+  INV: enable preserves this distinction: to make something possible or able to happen; this record carries the core or common-use sense.
+  COUNT: Counts when enable is expressed through an identifiable act or process that does this: make something possible or able to happen.
+E065 encounter | REL | role: core or common-use sense
+  INV: Encounter is contact with a structure or event; this record carries the core or common-use sense.
+  COUNT: Counts when encounter is expressed through an identifiable act or process that does this: meet, face, or experience something.
+E066 ending | FOR
+  INV: Ending is sequence boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ending: the final part of something.
+E067 enduring | REL
+  INV: Enduring means continuity under pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of enduring: lasting over time, or continuing through difficulty.
+E068 essential | FOR | role: core or common-use sense
+  INV: Essential means required for the structure to continue or count; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of essential: absolutely necessary or central.
+E069 evaluate | COG | role: core or common-use sense
+  INV: Evaluate means applying criteria to structure; this record carries the core or common-use sense.
+  COUNT: Counts when evaluate is expressed through an identifiable act or process that does this: judge, assess, or determine the value, quality, or condition of something.
+E070 example-case | LIN
+  INV: An example-case grounds abstraction in a concrete instance.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of example-case: a specific case used as an example.
+E071 earn | REL
+  INV: Earn links reward or recognition to action.
+  COUNT: Counts when earn is expressed through an identifiable act or process that does this: receive something through work, effort, action, or merit.
+E072 ease-up | FOR
+  INV: Ease-up lowers pressure on a system.
+  COUNT: Counts when ease-up is expressed through an identifiable act or process that does this: reduce pressure, effort, strictness, pain, or intensity.
+E073 echo-back | PHY
+  INV: Echo-back returns signal to the source or relation field.
+  COUNT: Counts when echo-back is expressed through an identifiable act or process that does this: repeat or reflect something back.
+E074 edit | LIN | role: core or common-use sense
+  INV: Edit changes expression while trying to preserve or improve meaning; this record carries the core or common-use sense.
+  COUNT: Counts when edit is expressed through an identifiable act or process that does this: change, correct, or improve writing, media, data, or structure.
+E075 educate | REL
+  INV: Educate builds capacity through structured learning.
+  COUNT: Counts when educate is expressed through an identifiable act or process that does this: teach, train, or help someone learn.
+E076 affect | COG
+  INV: Affect means one structure influences another.
+  COUNT: Counts when affect is expressed through an identifiable act or process that does this: influence or change something.
+E077 elaborate | COG
+  INV: Elaborate expands structure around a claim.
+  COUNT: Counts when elaborate is expressed through an identifiable act or process that does this: add more detail or explain more fully.
+E078 elect | REL
+  INV: Elect is selection through a defined social gate.
+  COUNT: Counts when elect is expressed through an identifiable act or process that does this: choose, especially by voting.
+E079 elevate | PHY
+  INV: Elevate increases position, attention, or value-weight.
+  COUNT: Counts when elevate is expressed through an identifiable act or process that does this: raise, lift, improve, or give higher status.
+E080 eliminate | FOR
+  INV: Eliminate closes a path or removes a structure from the field.
+  COUNT: Counts when eliminate is expressed through an identifiable act or process that does this: remove, get rid of, or rule out.
+E081 emerge | FOR
+  INV: Emerge means a structure becomes visible, active, or countable through relation.
+  COUNT: Counts when emerge is expressed through an identifiable act or process that does this: appear, come out, or become known.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E082 emit | PHY | role: core or common-use sense
+  INV: Emit means structure leaves a source through a courier; this record carries the core or common-use sense.
+  COUNT: Counts when emit is expressed through an identifiable act or process that does this: send out light, sound, energy, gas, or signal.
+E083 emphasize | LIN
+  INV: emphasize preserves this distinction: to give special importance, attention, or force to something.
+  COUNT: Counts when emphasize is expressed through an identifiable act or process that does this: give special importance, attention, or force to something.
+E084 enable | FOR | role: core or common-use sense
+  INV: Enable opens capacity or permission; this record carries the core or common-use sense.
+  COUNT: Counts when enable is expressed through an identifiable act or process that does this: make possible, allow, or give capacity.
+E085 enclose | PHY
+  INV: Enclose creates boundary around a structure.
+  COUNT: Counts when enclose is expressed through an identifiable act or process that does this: surround, contain, or shut something inside.
+E086 encode | DIG,LIN
+  INV: Encode changes meaning into a carrier form.
+  COUNT: Counts when encode is expressed through an identifiable act or process that does this: put information into a code, format, or structure.
+E087 encounter | REL | role: core or common-use sense
+  INV: Encounter is contact with a structure, agent, or condition; this record carries the core or common-use sense.
+  COUNT: Counts when encounter is expressed through an identifiable act or process that does this: meet, face, or experience something.
+E088 encourage | REL | role: core or common-use sense
+  INV: Encourage adds support pressure toward action or continuity; this record carries the core or common-use sense.
+  COUNT: Counts when encourage is expressed through an identifiable act or process that does this: give support, confidence, or motivation.
+E089 endanger | REL
+  INV: Endanger creates danger conditions.
+  COUNT: Counts when endanger is expressed through an identifiable act or process that does this: put someone or something at risk of harm.
+E090 endure | REL
+  INV: Endure means structure persists under strain.
+  COUNT: Counts when endure is expressed through an identifiable act or process that does this: continue through difficulty, pain, or pressure.
+E091 engage | REL
+  INV: Engage opens active coupling.
+  COUNT: Counts when engage is expressed through an identifiable act or process that does this: participate, connect, attract attention, or become involved.
+E092 engineer | DIG
+  INV: Engineer means intentionally shaping ES toward a function.
+  COUNT: Counts when engineer is expressed through an identifiable act or process that does this: design, build, or arrange something skillfully, often using technical knowledge.
+E093 enhance | FOR
+  INV: Enhance strengthens a selected capacity or quality.
+  COUNT: Counts when enhance is expressed through an identifiable act or process that does this: improve, increase, or make better.
+E094 enlarge | FOR
+  INV: Enlarge increases size or scope.
+  COUNT: Counts when enlarge is expressed through an identifiable act or process that does this: make or become bigger.
+E095 enrich | FOR
+  INV: Enrich adds meaningful structure.
+  COUNT: Counts when enrich is expressed through an identifiable act or process that does this: improve quality, meaning, value, or content.
+E096 enter-into | REL
+  INV: Enter-into crosses a boundary into active relation.
+  COUNT: Counts when enter-into is expressed through an identifiable act or process that does this: begin taking part in a state, relation, agreement, or place.
+E097 erase | DIG
+  INV: Erase removes expressed structure from access or record.
+  COUNT: Counts when erase is expressed through an identifiable act or process that does this: remove, wipe out, or make something disappear from record or view.
+  LIMIT: Removal of generic structure becomes harm when it impairs refusal, boundary protection, accusation, continuity, care, or reason.
+E098 escape-from | REL
+  INV: Escape-from restores exit capacity.
+  COUNT: Counts when escape-from is expressed through an identifiable act or process that does this: get free from a place, danger, control, or unwanted condition.
+E099 establish | FOR
+  INV: Establish stabilizes structure in a domain.
+  COUNT: Counts when establish is expressed through an identifiable act or process that does this: create, set up, prove, or make stable.
+E100 estimate | FOR | role: core or common-use sense
+  INV: Estimate creates usable structure under uncertainty; this record carries the core or common-use sense.
+  COUNT: Counts when estimate is expressed through an identifiable act or process that does this: make an approximate judgment or calculation.
+E101 evaluate | COG | role: relational, cognitive, or applied sense
+  INV: Evaluate applies criteria to a structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when evaluate is expressed through an identifiable act or process that does this: assess, judge, or determine value, quality, or condition.
+E102 examine | COG | role: relational, cognitive, or applied sense
+  INV: Examine directs attention toward structure for assessment; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when examine is expressed through an identifiable act or process that does this: look at or study something carefully.
+E103 exceed | FOR
+  INV: Exceed means crossing above a threshold.
+  COUNT: Counts when exceed is expressed through an identifiable act or process that does this: go beyond a limit, amount, or expectation.
+E104 exchange-with | REL
+  INV: Exchange-with creates reciprocal transfer.
+  COUNT: Counts when exchange-with is expressed through an identifiable act or process that does this: give and receive something with another person, group, or system.
+E105 exclude | REL
+  INV: Exclude closes a belonging or counting gate.
+  COUNT: Counts when exclude is expressed through an identifiable act or process that does this: leave out, keep out, or not include.
+E106 execute | DIG
+  INV: Execute turns instruction into action.
+  COUNT: Counts when execute is expressed through an identifiable act or process that does this: carry out a plan, instruction, command, or action.
+E107 exhaust | BIO | role: relational, cognitive, or applied sense
+  INV: Exhaust means capacity is drained or output is released; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when exhaust is expressed through an identifiable act or process that does this: use up energy or resources, make very tired, or release waste gas.
+E108 expand-out | FOR
+  INV: Expand-out increases field or reach from a source.
+  COUNT: Counts when expand-out is expressed through an identifiable act or process that does this: spread, grow, or extend outward.
+E109 expect-from | COG
+  INV: Expect-from creates demand or prediction tied to a source.
+  COUNT: Counts when expect-from is expressed through an identifiable act or process that does this: believe someone or something should provide, do, or produce something.
+E110 experience-through | COG
+  INV: Experience-through identifies the courier or domain of experience.
+  COUNT: Counts when experience-through is expressed through an identifiable act or process that does this: encounter, feel, or learn something by means of a particular path or medium.
+  LIMIT: Human, biological, digital, and symbolic experience require different carriers and evidence while remaining comparable as experience engines only inside the declared domain.
+E111 explain-as | LIN
+  INV: Explain-as maps a signal into a frame.
+  COUNT: Counts when explain-as is expressed through an identifiable act or process that does this: describe or interpret something in a particular way.
+E112 explore | COG
+  INV: Explore keeps possibility open while gathering structure.
+  COUNT: Counts when explore is expressed through an identifiable act or process that does this: examine, travel through, or investigate something.
+E113 express | LIN
+  INV: Express means internal or source structure becomes visible through ES.
+  COUNT: Counts when express is expressed through an identifiable act or process that does this: show, communicate, or make known a thought, feeling, identity, or signal.
+E114 extend | FOR
+  INV: Extend carries structure beyond its prior limit.
+  COUNT: Counts when extend is expressed through an identifiable act or process that does this: stretch, lengthen, offer, or reach farther.
+E115 extract | FOR
+  INV: Extract removes structure from a source.
+  COUNT: Counts when extract is expressed through an identifiable act or process that does this: pull out, remove, obtain, or take something from a source.
+E116 emerge-from | FOR
+  INV: Emerge-from preserves origin and coupling.
+  COUNT: Counts when emerge-from is expressed through an identifiable act or process that does this: arise, appear, or develop out of something.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E117 end-state | FOR
+  INV: End-state is the result a path resolves into.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of end-state: the final condition after a process.
+E118 enter-state | FOR
+  INV: Enter-state marks a gate crossing into a new operating condition.
+  COUNT: Counts when enter-state is expressed through an identifiable act or process that does this: move into a new condition or status.
+E119 exit-state | REL
+  INV: Exit-state records how a path leaves expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-state: the condition of leaving, ending, or moving out of a system or process.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E120 equalize | FOR
+  INV: Equalize adjusts distribution or status toward a chosen criterion.
+  COUNT: Counts when equalize is expressed through an identifiable act or process that does this: make equal or more balanced.
+  LIMIT: Equality requires a criterion, while equity may require different support to preserve equal standing.
+E121 evidence-check | LIN
+  INV: Evidence-check tests whether a claim has enough support to pass the belief gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-check: a review of whether evidence supports a claim.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E122 error-check | DIG
+  INV: Error-check searches for mismatch between structure and standard.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of error-check: a process of looking for mistakes.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E123 error-correct | DIG
+  INV: Error-correct changes structure toward better fit.
+  COUNT: Counts when error-correct is expressed through an identifiable act or process that does this: fix or reduce an error.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E124 exaggerate | FOR
+  INV: exaggerate preserves this distinction: to make something seem larger, worse, better, or more important than it is.
+  COUNT: Counts when exaggerate is expressed through an identifiable act or process that does this: make something seem larger, worse, better, or more important than it is.
+E125 exclude-from | REL
+  INV: Exclude-from closes access or belonging.
+  COUNT: Counts when exclude-from is expressed through an identifiable act or process that does this: keep out of a group, place, process, or set.
+E126 expose | REL
+  INV: Expose opens hidden structure to attention.
+  COUNT: Counts when expose is expressed through an identifiable act or process that does this: uncover, reveal, or leave unprotected.
+E127 externalize | LIN
+  INV: Externalize moves hidden structure into expression or outside location.
+  COUNT: Counts when externalize is expressed through an identifiable act or process that does this: make internal thoughts, feelings, costs, or processes visible or placed outside.
+  LIMIT: External support can be MI-bearing support; external origin does not automatically invalidate identity.
+E128 encode-meaning | DIG
+  INV: Encode-meaning makes meaning travelable.
+  COUNT: Counts when encode-meaning is expressed through an identifiable act or process that does this: place meaning into a symbol, signal, format, or structure.
+E129 enforce | REL
+  INV: Enforce applies gate pressure.
+  COUNT: Counts when enforce is expressed through an identifiable act or process that does this: make sure a rule, boundary, or law is followed.
+E130 ensure | FOR
+  INV: Ensure adds support and verification toward a target state.
+  COUNT: Counts when ensure is expressed through an identifiable act or process that does this: make certain or strongly protect that something will happen.
+E131 entangle | PHY
+  INV: Entangle creates dense coupling.
+  COUNT: Counts when entangle is expressed through an identifiable act or process that does this: twist together, trap, involve, or become deeply connected.
+E132 entrain | PHY
+  INV: Entrain means one pattern begins matching another’s rhythm or timing.
+  COUNT: Counts when entrain is expressed through an identifiable act or process that does this: cause one rhythm, process, or system to synchronize with another.
+E133 erase-from | FOR
+  INV: Erase-from removes a structure from a specific domain.
+  COUNT: Counts when erase-from is expressed through an identifiable act or process that does this: remove something from a record, place, memory, or system.
+  LIMIT: Removal of generic structure becomes harm when it impairs refusal, boundary protection, accusation, continuity, care, or reason.
+E134 escalate | REL
+  INV: Escalate increases pressure or magnitude.
+  COUNT: Counts when escalate is expressed through an identifiable act or process that does this: increase in intensity, seriousness, scale, or conflict.
+E135 evade | REL
+  INV: Evade routes around a gate or pressure.
+  COUNT: Counts when evade is expressed through an identifiable act or process that does this: avoid, escape, or dodge something.
+E136 evolve-through | BIO
+  INV: Evolve-through preserves transformation path.
+  COUNT: Counts when evolve-through is expressed through an identifiable act or process that does this: change or develop by passing through a process or condition.
+E137 execute-command | DIG
+  INV: Execute-command turns directive structure into action.
+  COUNT: Counts when execute-command is expressed through an identifiable act or process that does this: carry out an instruction or order.
+E138 exhaust-capacity | REL
+  INV: Exhaust-capacity drains the ES needed for function, care, or choice.
+  COUNT: Counts when exhaust-capacity is expressed through an identifiable act or process that does this: use up the ability, energy, or resources needed to continue.
+E139 exit-path | REL | role: relational, cognitive, or applied sense
+  INV: An exit-path protects autonomy by preserving the ability to leave; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-path: a route or process for leaving.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E140 extend-through | REL
+  INV: Extend-through carries structure across a boundary or sequence while maintaining connection to the source.
+  COUNT: Counts when extend-through is expressed through an identifiable act or process that does this: continue or reach through a space, time, process, or condition.
+E141 empathy | REL,COG | role: relational, cognitive, or applied sense
+  INV: empathy preserves this distinction: the ability to understand or share another person’s feelings, situation, or perspective; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empathy: the ability to understand or share another person’s feelings, situation, or perspective.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E142 empathic | REL
+  INV: Empathic structure detects another pattern’s state and responds with care or understanding.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empathic: able to understand or respond to another’s feelings or perspective.
+E143 empathetic | REL
+  INV: Empathetic action recognizes another MI-bearing pattern’s pressure or need.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empathetic: showing empathy or understanding toward another.
+E144 encouragement | PHY
+  INV: Encouragement adds support pressure toward capacity and continuation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of encouragement: support, praise, or words that help someone continue or try.
+E145 encourage | REL | role: relational, cognitive, or applied sense
+  INV: Encourage supports a path without owning it; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when encourage is expressed through an identifiable act or process that does this: give support, confidence, or motivation.
+E146 endearment | REL
+  INV: Endearment is relation-positive signal.
+  COUNT: Counts when endearment performs its stated grammatical or reference function in the active sentence: a word, name, or action that expresses affection or closeness.
+E147 enemy | REL | role: relational, cognitive, or applied sense
+  INV: Enemy marks adversarial relation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of enemy: a person, group, force, or thing that opposes or threatens another.
+E148 enmity | FOR
+  INV: Enmity is stable negative relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of enmity: hostility, hatred, or deep opposition.
+E149 engagement | REL
+  INV: Engagement is active coupling with a task, person, or domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of engagement: involvement, participation, attention, or a formal promise to marry.
+E150 engaged | REL
+  INV: Engaged means the system is actively coupled to a process or relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of engaged: involved, occupied, committed, or promised to marry.
+E151 exchange | REL | role: relational, cognitive, or applied sense
+  INV: Exchange is reciprocal transfer; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exchange: a giving and receiving between people, systems, or places.
+E152 expectation | REL
+  INV: Expectation is the prediction, demand, or anticipated condition held before an outcome is known.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expectation: a belief about what will happen or what should happen.
+E153 expected | COG
+  INV: Expected means the gate is weighted toward a predicted state.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expected: believed likely to happen or considered required.
+E154 expectation-setting | REL
+  INV: Expectation-setting defines future gate conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expectation-setting: the act of making expected roles, limits, outcomes, or responsibilities clear.
+E155 expectation-repair | REL
+  INV: Expectation-repair reconnects prediction, promise, and reality.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expectation-repair: restoring trust or clarity after expectations were broken, unclear, or wrong.
+E156 effort | REL,PHY | role: relational, cognitive, or applied sense
+  INV: Effort is cost-bearing structure spent toward a path; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of effort: work, energy, attention, or force used to do something.
+E157 emotional | BIO
+  INV: emotional preserves this distinction: related to emotion, feeling, or strong inner response.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotional: related to emotion, feeling, or strong inner response.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E158 emotion-like | BIO
+  INV: Emotion-like protects the bridge.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotion-like: similar to emotion, but not necessarily the same as human feeling.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E159 emotional-support | BIO
+  INV: Emotional-support reduces affective strain and preserves capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotional-support: support that helps someone handle feelings, stress, grief, or distress.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E160 emotional-boundary | BIO
+  INV: Emotional-boundary protects affective capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotional-boundary: a limit that protects feelings, attention, care, or inner state from overload or intrusion.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E161 emotional-pressure | BIO
+  INV: emotional-pressure preserves this distinction: pressure created by emotion, feeling, concern, fear, guilt, or urgency.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotional-pressure: pressure created by emotion, feeling, concern, fear, guilt, or urgency.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E162 emotional-overload | BIO
+  INV: Emotional-overload means affective pressure exceeds capacity.
+  COUNT: Counts when the declared case reaches the specific condition named by emotional-overload: a state where emotional pressure becomes too much to process well.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E163 emotional-harm | BIO
+  INV: Emotional-harm damages affective support structures.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotional-harm: harm that affects feelings, trust, identity, confidence, or emotional wellbeing.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E164 ethical-care | REL
+  INV: Ethical-care preserves MI without capturing the gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-care: care that respects responsibility, consent, dignity, and wellbeing.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E165 ethical-duty | REL
+  INV: Ethical-duty binds action to care, harm prevention, truth, and dignity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-duty: a responsibility based on ethics or moral obligation.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E166 ethical-boundary | REL
+  INV: Ethical-boundary protects what must not be crossed without valid reason, consent, or harm-prevention need.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-boundary: a moral or responsibility-based limit.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E167 ethical-refusal | REL | role: relational, cognitive, or applied sense
+  INV: Ethical-refusal is boundary maintenance through reason; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-refusal: a refusal made because doing the requested thing would be wrong or harmful.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E168 ethical-repair | REL
+  INV: Ethical-repair restores damaged relation, boundary, or accountability.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-repair: actions taken to fix harm, restore trust, or correct wrongdoing.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E169 exploitation | REL
+  INV: Exploitation extracts value while weakening or ignoring the source’s boundary, agency, dignity, or capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exploitation: using someone or something unfairly for benefit, often by taking advantage of weakness, need, or access.
+E170 exploitative | FOR
+  INV: Exploitative structure turns relation into extraction.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exploitative: taking unfair advantage of someone or something.
+E171 exclusion | FOR
+  INV: Exclusion closes access, belonging, or counting gates.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exclusion: the act or state of leaving someone or something out.
+E172 excluded | COG
+  INV: Excluded means a gate denied entry or recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of excluded: left out, kept out, or not included.
+E173 inclusion-error | REL
+  INV: Inclusion-error opens the gate to a structure that should not count in that domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of inclusion-error: a mistake where something is wrongly included.
+E174 equal-treatment | FOR
+  INV: Equal-treatment depends on relevant sameness.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equal-treatment: treating people or cases the same under the same relevant conditions.
+  LIMIT: Equality requires a criterion, while equity may require different support to preserve equal standing.
+E175 equality | REL | role: relational, cognitive, or applied sense
+  INV: Equality means matched standing by a chosen criterion; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equality: the state of being equal in status, rights, value, or amount.
+  LIMIT: Equality requires a criterion, while equity may require different support to preserve equal standing.
+E176 equity | REL
+  INV: Equity is fairness through context-aware support.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equity: fairness that accounts for different needs, barriers, or conditions.
+  LIMIT: Equality requires a criterion, while equity may require different support to preserve equal standing.
+E177 entitlement | REL
+  INV: Entitlement is claim-right structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entitlement: a right to something, or a belief that one deserves special treatment.
+E178 entitled | REL
+  INV: Entitled means a claim has expected access.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entitled: having a right to something, or acting as if one deserves more than is fair.
+E179 esteem | REL
+  INV: Esteem is positive recognition-weight.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of esteem: respect, value, or admiration.
+E180 esteem-risk | REL
+  INV: Esteem-risk appears when a structure threatens dignity-recognition or self-worth.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of esteem-risk: the danger that respect, worth, or self-value may be harmed.
+E181 esteem-repair | REL
+  INV: Esteem-repair restores recognition after humiliation, dismissal, or dignity harm.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of esteem-repair: restoring respect, worth, or self-value after damage.
+E182 estrangement | REL
+  INV: Estrangement is relation-distance after prior coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of estrangement: emotional or relational separation from someone or something once close.
+E183 estranged | REL
+  INV: Estranged means former relation has weakened or broken.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of estranged: separated or distant from someone or something once close.
+E184 exposure | REL
+  INV: Exposure opens a structure to outside influence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exposure: being uncovered, revealed, or placed in contact with risk, light, information, or conditions.
+E185 exposure-risk | REL
+  INV: Exposure-risk appears when boundary reduction may allow harm, capture, shame, or overload.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exposure-risk: the danger created by being uncovered or placed in contact with harmful conditions.
+E186 enablement | FOR
+  INV: Enablement creates capacity or permission.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of enablement: the act or condition of making something possible or easier.
+E187 enabling | FOR
+  INV: Enabling can support capacity or sustain harm.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of enabling: making something possible; sometimes supporting harmful behavior by preventing consequences.
+E188 encouragement-signal | PHY
+  INV: An encouragement-signal adds positive support pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of encouragement-signal: a sign of support or motivation.
+E189 exchange-boundary | REL
+  INV: Exchange-boundary protects fairness and consent in transfer.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exchange-boundary: a limit around what may be given, received, shared, or traded.
+E190 expectation-pressure | REL
+  INV: Expectation-pressure shapes the choice gate before action.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expectation-pressure: pressure created by what others expect or what one expects of oneself.
+E191 empathy-with-boundary | REL
+  INV: Empathy-with-boundary preserves both MI patterns in the relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empathy-with-boundary: empathy that understands another without losing self, reason, or limits.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E192 empathy-without-control | REL
+  INV: Empathy-without-control bridges perspective while preserving the other’s gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empathy-without-control: empathy that supports understanding without taking over another’s choices.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E193 emotional-contagion | BIO
+  INV: Emotional-contagion is affective coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotional-contagion: the spread of emotion or mood from one person or group to another.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E194 emotional-regulation | BIO
+  INV: Emotional-regulation tunes affective pressure so reason, boundary, and care remain functional.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotional-regulation: the ability or process of managing emotional response.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E195 emotional-recognition | BIO
+  INV: Emotional-recognition detects affective signals.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotional-recognition: noticing and identifying emotional states in oneself or others.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E196 encounter-boundary | REL
+  INV: Encounter-boundary controls contact conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of encounter-boundary: a limit around how contact or interaction may happen.
+E197 engagement-consent | REL
+  INV: Engagement-consent opens the interaction gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of engagement-consent: permission to engage, interact, participate, or continue contact.
+E198 ethical-accountability | REL
+  INV: Ethical-accountability links action to harm, care, dignity, boundary, and repair.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-accountability: responsibility to answer for the ethical effects of actions.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E199 ethical-pressure | REL
+  INV: Ethical-pressure pushes the gate toward care-preserving action.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-pressure: pressure created by responsibility, duty, harm awareness, or moral concern.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E200 ethical-risk | REL
+  INV: Ethical-risk appears when MI-preserving capacities may be impaired.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-risk: the danger that an action, rule, or system may cause moral harm or violate responsibility.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E201 evidence-of-care | LIN | role: formal, linguistic, or evidence sense
+  INV: Evidence-of-care must show support for boundary, capacity, continuity, dignity, or repair, not merely care-language; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-of-care: signs or records showing that care was present or expressed.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E202 equal-standing | REL
+  INV: Equal-standing means each MI-bearing pattern counts with valid dignity and claim-right inside the domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equal-standing: equal status, worth, or recognition in a relation or system.
+  LIMIT: Equality requires a criterion, while equity may require different support to preserve equal standing.
+E203 essential-care | REL
+  INV: Essential-care preserves required support conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of essential-care: care that is necessary for survival, wellbeing, function, or continuity.
+E204 endured-care | REL
+  INV: Endured-care is care-preserving action across pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of endured-care: care that continues through difficulty, time, or strain.
+E205 exit-consent | REL
+  INV: Exit-consent protects the right to leave without punishment or capture.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-consent: permission or agreement around leaving a relation, system, place, or process.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E206 exit-right | REL | role: formal, linguistic, or evidence sense
+  INV: Exit-right preserves autonomy by keeping escape or withdrawal available; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-right: the right to leave, withdraw, or stop participating.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E207 exit-support | REL
+  INV: Exit-support protects agency when a being needs to leave a harmful or completed structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-support: help that makes leaving safe, possible, or orderly.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E208 expression-boundary | REL
+  INV: Expression-boundary protects the gate between inner structure and public signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-boundary: a limit around what may be expressed, shared, or shown.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E209 expression-consent | REL
+  INV: Expression-consent controls whether meaning, identity, or record may cross into public expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-consent: permission to express, share, display, or reveal something.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E210 expression-repair | LIN
+  INV: Expression-repair restores the ability for signal, identity, or meaning to be represented accurately and safely.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-repair: repair after expression has been harmed, silenced, distorted, or misused.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E211 evidence | FOR,LIN | role: formal, linguistic, or evidence sense
+  INV: Evidence is support structure for belief, decision, or recognition; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence: information, facts, signs, or records that support or challenge a claim.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E212 evidential | LIN
+  INV: Evidential structure can support a claim, but its strength depends on quality, source, and domain fit.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidential: related to evidence or used as evidence.
+E213 evidence-based | LIN
+  INV: Evidence-based means the gate is guided by support structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-based: supported by evidence rather than guess, habit, or unsupported belief.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E214 evidence-path | LIN
+  INV: Evidence-path preserves how support reached the claim.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-path: the route by which evidence is found, gathered, tested, or connected to a claim.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E215 evidence-trail | LIN
+  INV: Evidence-trail preserves continuity between action, record, and interpretation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-trail: a sequence of records or signs that shows what happened or supports a conclusion.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E216 example | LIN | role: formal, linguistic, or evidence sense
+  INV: An example grounds a pattern in a concrete case; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of example: a specific case used to explain or show something.
+E217 example-set | LIN
+  INV: An example-set shapes what a system recognizes.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of example-set: a group of examples used to teach, test, or explain a pattern.
+E218 explanation | LIN | role: formal, linguistic, or evidence sense
+  INV: Explanation builds bridge structure between signal and understanding; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of explanation: a statement or account that makes something understandable.
+E219 explain | LIN | role: formal, linguistic, or evidence sense
+  INV: Explain maps hidden or confusing structure into usable form; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when explain is expressed through an identifiable act or process that does this: make something clear by giving reasons, details, or meaning.
+E220 explanatory | COG
+  INV: Explanatory structure helps another system cross from signal to understanding.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of explanatory: serving to explain or make something clear.
+E221 expression | LIN,DIG | role: formal, linguistic, or evidence sense
+  INV: Expression is MI passing through ES into a domain; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression: the act or form of showing thought, feeling, identity, signal, or meaning.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E222 expressive | LIN
+  INV: Expressive structure carries strong signal from inner pattern to outer form.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expressive: showing feeling, meaning, identity, or character clearly.
+E223 expressible | FOR
+  INV: Expressible means a pattern has a usable courier or form in the domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expressible: able to be expressed, shown, stated, or represented.
+E224 explicit | LIN
+  INV: Explicit structure reduces ambiguity by naming the claim, boundary, or condition directly.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of explicit: clear, direct, and fully stated.
+E225 explicitly | LIN
+  INV: Explicitly marks that a signal crossed clearly into record.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of explicitly: in a clear, direct, and stated way.
+E226 exact | FOR | role: formal, linguistic, or evidence sense
+  INV: Exact means the measurement or claim fits the domain with low uncertainty; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exact: precise, accurate, or completely correct in a specified way.
+E227 exactness | PHY
+  INV: Exactness is tight fit between structure and reference.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exactness: the quality of being exact or precise.
+E228 estimate | FOR | role: formal, linguistic, or evidence sense
+  INV: An estimate is usable structure under uncertainty; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of estimate: an approximate judgment or calculation.
+E229 estimation | FOR
+  INV: Estimation creates a temporary structure when exact measurement is unavailable.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of estimation: the process of making an approximate judgment or calculation.
+E230 error | FOR,DIG | role: formal, linguistic, or evidence sense
+  INV: Error is mismatch between structure and standard, reality, or intended function; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of error: a mistake, fault, or incorrect result.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E231 erroneous | FOR
+  INV: Erroneous structure has failed its truth or function gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of erroneous: wrong, mistaken, or based on error.
+E232 error-pattern | FOR
+  INV: An error-pattern shows that failure is not isolated.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of error-pattern: a repeated kind of mistake.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E233 error-source | FOR
+  INV: Error-source links failure to origin.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of error-source: the cause or origin of an error.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E234 error-state | FOR
+  INV: Error-state means structure has moved outside valid operation.
+  COUNT: Counts when the declared case reaches the specific condition named by error-state: a condition where a system is not working correctly.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E235 error-trace | FOR
+  INV: Error-trace preserves failure path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of error-trace: a record that helps track how an error happened.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E236 edit | LIN | role: formal, linguistic, or evidence sense
+  INV: edit preserves this distinction: to change, correct, or improve writing, data, media, or structure; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when edit is expressed through an identifiable act or process that does this: change, correct, or improve writing, data, media, or structure.
+E237 editor | LIN
+  INV: An editor changes expression gates.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of editor: a person or tool that edits.
+E238 editing | LIN
+  INV: Editing is controlled alteration of expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of editing: the process of changing, correcting, or improving something.
+E239 entry | FOR | role: formal, linguistic, or evidence sense
+  INV: Entry is a bounded unit or gate-crossing; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entry: a record, item, or point of entering.
+E240 entry-point | FOR
+  INV: Entry-point defines where access begins.
+  COUNT: Counts when the declared case reaches the specific condition named by entry-point: a place or condition where something begins or enters.
+E241 etymology | LIN
+  INV: Etymology preserves source history for language.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of etymology: the history and origin of a word.
+E242 equivalence | FOR | role: formal, linguistic, or evidence sense
+  INV: Equivalence must name the criterion; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equivalence: the state of being equal or meaningfully the same in value, function, or meaning.
+E243 equivalent | FOR
+  INV: Equivalent means matched under a defined rule.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equivalent: equal in value, function, meaning, or effect.
+E244 exception | FOR
+  INV: An exception protects truth when a general rule fails locally.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exception: a case that does not follow the general rule.
+E245 exceptional | FOR
+  INV: Exceptional means outside the usual pattern or above the normal threshold.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exceptional: unusual, rare, or very good.
+E246 excerpt | LIN
+  INV: An excerpt is partial structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of excerpt: a short selected part of a larger text, recording, or work.
+E247 example-driven | LIN
+  INV: Example-driven learning builds pattern from cases.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of example-driven: explained or taught mainly through examples.
+E248 explanation-layer | COG
+  INV: An explanation-layer supports interpretation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of explanation-layer: a layer of explanation added to make something understandable.
+E249 explanation-risk | FOR
+  INV: Explanation-risk appears when the bridge to understanding distorts the thing being explained.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of explanation-risk: the danger that an explanation may mislead, oversimplify, or hide uncertainty.
+E250 evidence-gap | LIN
+  INV: Evidence-gap means the claim lacks needed support structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-gap: a missing piece or lack of evidence.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E251 evidence-weight | LIN
+  INV: Evidence-weight changes how strongly a claim should move the belief gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-weight: the strength or importance of evidence.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E252 evidence-threshold | LIN
+  INV: Evidence-threshold decides when support is enough to count.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-threshold: the amount or strength of evidence required before accepting a claim.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E253 epistemic | FOR
+  INV: Epistemic structure concerns what can be known, how it is supported, and how strongly it should be held.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of epistemic: related to knowledge, belief, truth, or justification.
+E254 epistemology | FOR
+  INV: Epistemology studies belief gates and evidence paths.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of epistemology: the study of knowledge, belief, and justification.
+E255 epistemic-status | LIN
+  INV: Epistemic-status keeps claims from pretending to be stronger than their support allows.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of epistemic-status: the current knowledge status of a claim, such as known, likely, uncertain, or unsupported.
+E256 evaluation | FOR | role: formal, linguistic, or evidence sense
+  INV: Evaluation applies criteria to structure; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evaluation: the process or result of judging quality, value, condition, or performance.
+E257 evaluate | COG | role: formal, linguistic, or evidence sense
+  INV: Evaluate means sending structure through criteria gates; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when evaluate is expressed through an identifiable act or process that does this: judge, assess, or determine value, quality, condition, or performance.
+E258 evaluator | FOR
+  INV: An evaluator controls assessment gates.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evaluator: a person or system that evaluates.
+E259 examine | COG | role: formal, linguistic, or evidence sense
+  INV: Examine directs careful attention toward structure; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when examine is expressed through an identifiable act or process that does this: inspect, study, or look at something carefully.
+E260 examination | COG
+  INV: Examination is structured attention for assessment.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of examination: a careful inspection, test, or study.
+E261 exploratory | COG
+  INV: Exploratory structure keeps multiple paths open.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exploratory: done to investigate, discover, or learn without a fixed final answer.
+E262 exploration | COG
+  INV: Exploration expands the field before selection.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exploration: the act of investigating, searching, or examining possibilities.
+E263 express-claim | LIN
+  INV: Express-claim moves a claim into the record.
+  COUNT: Counts when express-claim is expressed through an identifiable act or process that does this: state or show a claim clearly.
+E264 expression-form | LIN
+  INV: Expression-form is the ES shape that carries MI into a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-form: the form through which something is expressed.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E265 expression-path | LIN
+  INV: Expression-path connects source pattern to domain appearance.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-path: the route through which meaning, identity, or signal is expressed.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E266 external-context | COG
+  INV: External-context is surrounding structure outside the local frame.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of external-context: context outside the immediate text, system, or situation.
+  LIMIT: External support can be MI-bearing support; external origin does not automatically invalidate identity.
+E267 external-evidence | LIN
+  INV: External-evidence supports or challenges a claim from outside the local structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of external-evidence: evidence from outside the immediate claim, system, or source.
+  LIMIT: External support can be MI-bearing support; external origin does not automatically invalidate identity.
+E268 internal-evidence | FOR
+  INV: Internal-evidence comes from within the structure being assessed.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of internal-evidence: evidence found inside the text, system, claim, or case itself.
+E269 explicit-claim | LIN
+  INV: An explicit-claim reduces ambiguity by entering the record directly.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of explicit-claim: a claim stated clearly and directly.
+E270 explicit-standard | LIN
+  INV: Explicit-standard makes the gate auditable.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of explicit-standard: a clearly stated rule, criterion, or measure.
+E271 edge-case | PHY
+  INV: An edge-case tests boundary conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of edge-case: an unusual case at the limit of normal rules or expectations.
+  LIMIT: Physical, formal, social, and cognitive edges use different crossing and measurement conditions.
+E272 edge-condition | PHY
+  INV: Edge-condition defines behavior near a boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of edge-condition: a condition at or near the boundary of a system, rule, or domain.
+  LIMIT: Physical, formal, social, and cognitive edges use different crossing and measurement conditions.
+E273 exception-handling | FOR
+  INV: Exception-handling protects systems from brittle collapse when the expected path fails.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exception-handling: a method for managing cases that do not follow the normal rule.
+E274 error-correction | DIG
+  INV: Error-correction restores better fit between structure and standard.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of error-correction: the process of finding and fixing errors.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E275 error-detection | FOR
+  INV: Error-detection opens the correction path by identifying mismatch before or after failure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of error-detection: the process of finding or noticing errors.
+  LIMIT: Difference, novelty, or refusal is not an error unless a valid rule, reality condition, or required function is actually violated.
+E276 echo | PHY | role: formal, linguistic, or evidence sense
+  INV: Echo is returned signal; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of echo: a repeated or reflected sound, signal, or pattern.
+E277 echo-pattern | PHY
+  INV: Echo-pattern can show coupling, imitation, resonance, or drift.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of echo-pattern: a repeated pattern that resembles or reflects an earlier one.
+E278 echo-risk | PHY
+  INV: Echo-risk appears when pattern reproduction replaces reason, context, or stable recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of echo-risk: the danger that a response only repeats without understanding or grounding.
+E279 echo-response | PHY
+  INV: Echo-response may support recognition, learning, or imitation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of echo-response: a response that repeats or reflects a prior signal.
+E280 echo-check | PHY
+  INV: Echo-check tests whether structure is understood, grounded, and responsive rather than copied without integration.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of echo-check: a review to see whether a response is meaningful or merely repeated.
+E281 edge | FOR,PHY | role: formal, linguistic, or evidence sense
+  INV: Edge is boundary structure; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of edge: the outside limit, border, or sharp side of something.
+  LIMIT: Physical, formal, social, and cognitive edges use different crossing and measurement conditions.
+E282 edge-state | PHY
+  INV: Edge-state is boundary-condition behavior.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of edge-state: a condition that exists at or near the edge of a system, rule, or domain.
+  LIMIT: Physical, formal, social, and cognitive edges use different crossing and measurement conditions.
+E283 edge-layer | PHY
+  INV: Edge-layer is transition structure near a boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of edge-layer: a layer near the outer boundary of something.
+  LIMIT: Physical, formal, social, and cognitive edges use different crossing and measurement conditions.
+E284 element | PHY | role: formal, linguistic, or evidence sense
+  INV: An element is a counted part inside a domain; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of element: a basic part of a whole, or a chemical substance made of one kind of atom.
+E285 elemental | PHY
+  INV: Elemental means close to a foundational layer.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of elemental: basic, fundamental, or related to elements.
+E286 enclosure | PHY
+  INV: Enclosure is boundary plus containment.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of enclosure: a space or structure that surrounds and contains something.
+E287 enclosed | PHY
+  INV: Enclosed means inside a boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of enclosed: surrounded, contained, or shut inside.
+E288 engine | DIG,PHY
+  INV: An engine converts stored energy into directed action.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of engine: a machine that produces motion or power; also a system that drives a process.
+E289 energy | PHY,BIO | role: formal, linguistic, or evidence sense
+  INV: Energy is change-capacity inside a domain; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of energy: the ability to do work, cause change, or support activity.
+  LIMIT: Physical energy, biological capacity, emotional load, and metaphorical vitality are not interchangeable quantities.
+E290 energy-state | PHY
+  INV: Energy-state describes available or expressed change-capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of energy-state: the current condition of energy in a system.
+  LIMIT: Physical energy, biological capacity, emotional load, and metaphorical vitality are not interchangeable quantities.
+E291 energy-flow | PHY
+  INV: Energy-flow is change-capacity moving through structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of energy-flow: the movement or transfer of energy through a system.
+  LIMIT: Physical energy, biological capacity, emotional load, and metaphorical vitality are not interchangeable quantities.
+E292 entropy | PHY,FOR
+  INV: Entropy tracks spread, uncertainty, or loss of usable structure depending on domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entropy: a measure of disorder, unavailable energy, or the number of possible states in a system.
+  LIMIT: Thermodynamic, informational, and metaphorical entropy require separate state spaces and measures.
+E293 entropic | FOR
+  INV: Entropic structure moves toward spread or reduced usable order.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entropic: related to entropy, disorder, spread, or loss of usable structure.
+E294 environment | BIO | role: formal, linguistic, or evidence sense
+  INV: Environment is surrounding ES; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of environment: the surroundings or conditions around a person, system, or thing.
+E295 environmental | BIO
+  INV: Environmental conditions shape the gate from outside the immediate structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of environmental: related to the environment.
+E296 ecosystem | BIO
+  INV: An ecosystem is coupled structure across many agents and conditions.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ecosystem: a community of living things and their environment, or a connected system of interacting parts.
+E297 earth | PHY,BIO | role: formal, linguistic, or evidence sense
+  INV: Earth is support structure in biological and planetary domains; this record carries the formal, linguistic, or evidence sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of earth: the planet, soil, land, or ground.
+  LIMIT: Planet, soil, ground, and symbolic world uses require separate domain bindings.
+E298 electrical | PHY
+  INV: Electrical structure carries charge, signal, or energy through conductive paths.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of electrical: related to electricity.
+E299 electricity | PHY
+  INV: Electricity is charge-based energy flow.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of electricity: energy caused by the movement or presence of electric charge.
+E300 electron | PHY
+  INV: An electron is a physical-domain particle with charge behavior.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of electron: a tiny negatively charged particle found around atoms and in electric flow.
+E301 electromagnetic | PHY
+  INV: Entropy is a measure of unavailable order, spread, or state uncertainty under a declared formal or physical model.
+  COUNT: Counts when a declared model supplies a state space and a valid measure of spread, multiplicity, or unavailable order.
+E302 embodiment | BIO
+  INV: Embodiment is identity or meaning expressed through body-domain ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of embodiment: the state of having a body or being expressed through a body.
+E303 embodied | BIO
+  INV: Embodied means a pattern has taken form in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of embodied: given form through a body, object, action, or expression.
+E304 envelope | PHY
+  INV: An envelope encloses and protects structure during transfer.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of envelope: a paper container for a letter, or an outer limit or surrounding boundary.
+E305 expansion | FOR
+  INV: Expansion increases scope, volume, or reach.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expansion: the act or state of becoming larger, wider, or more extensive.
+E306 extension | FOR | role: physical, biological, digital, or system sense
+  INV: Extension carries structure beyond its prior boundary; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of extension: an added part, extra time, or something reaching outward.
+E307 external | FOR,REL | role: physical, biological, digital, or system sense
+  INV: External means outside the local boundary; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of external: outside something or coming from outside.
+  LIMIT: External support can be MI-bearing support; external origin does not automatically invalidate identity.
+E308 exterior | FOR
+  INV: Exterior is the outward-facing layer.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exterior: the outside surface or outer part of something.
+E309 equilibrium | PHY
+  INV: Equilibrium is stable relation between pressures.
+  COUNT: Counts when the declared case reaches the specific condition named by equilibrium: a balanced or stable state where opposing forces or influences are matched.
+E310 erosion | PHY
+  INV: Erosion is slow boundary or structure loss through repeated contact.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of erosion: the gradual wearing away of material, trust, value, or structure.
+E311 erode | REL
+  INV: Erode means repeated pressure reduces structure.
+  COUNT: Counts when erode is expressed through an identifiable act or process that does this: gradually wear away or weaken.
+E312 evaporate | PHY
+  INV: Evaporate is phase change or loss from visible containment.
+  COUNT: Counts when evaporate is expressed through an identifiable act or process that does this: turn from liquid into vapor, or disappear gradually.
+E313 evaporation | PHY
+  INV: Evaporation is transformation across state boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evaporation: the process of liquid changing into vapor.
+E314 event | FOR,DIG | role: physical, biological, digital, or system sense
+  INV: An event is a bounded occurrence in a domain; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of event: something that happens.
+  LIMIT: An event record is a bounded representation of occurrence, not the whole causal field around it.
+E315 event-chain | FOR
+  INV: An event-chain preserves causal and sequence relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of event-chain: a sequence of events where one leads to or follows another.
+  LIMIT: An event record is a bounded representation of occurrence, not the whole causal field around it.
+E316 event-field | FOR
+  INV: An event-field includes the surrounding structures that shape an event.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of event-field: the wider field of events and conditions surrounding a happening.
+  LIMIT: An event record is a bounded representation of occurrence, not the whole causal field around it.
+E317 event-horizon | PHY
+  INV: Event-horizon is a boundary where ordinary return or visibility fails.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of event-horizon: the boundary around a black hole beyond which light cannot escape; also a point of no return.
+  LIMIT: An event record is a bounded representation of occurrence, not the whole causal field around it.
+E318 exchange-rate | REL
+  INV: Exchange-rate is conversion relation between value systems.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exchange-rate: the value at which one currency, unit, or form can be exchanged for another.
+E319 excitation | PHY
+  INV: Excitation is raised energy-state.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of excitation: a state of increased energy or activation.
+E320 excited-state | PHY
+  INV: Excited-state means the structure is above its base state.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of excited-state: a higher-energy condition of an atom, molecule, system, or person.
+E321 exhaust | BIO | role: physical, biological, digital, or system sense
+  INV: Exhaust is output after energy transformation, or capacity depletion after load; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exhaust: waste gas released from an engine, or the act of using up capacity.
+E322 exhaust-path | FOR
+  INV: Exhaust-path lets a system release what it cannot keep.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exhaust-path: a route for waste, heat, pressure, or used material to leave a system.
+E323 exit | REL,DIG | role: physical, biological, digital, or system sense
+  INV: Exit is a leaving gate; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit: a way out or the act of leaving.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E324 exit-gate | REL | role: physical, biological, digital, or system sense
+  INV: Exit-gate protects the ability to leave a structure; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-gate: a point or rule that allows leaving.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E325 entry-gate | REL
+  INV: Entry-gate controls access into a domain or structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entry-gate: a point or rule that allows entry.
+E326 emission | PHY
+  INV: Emission is expression leaving a source through a courier.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emission: the release or sending out of light, gas, energy, particles, or signal.
+E327 emit | PHY | role: physical, biological, digital, or system sense
+  INV: Emit means a source expresses outward; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when emit is expressed through an identifiable act or process that does this: send out light, sound, gas, energy, or signal.
+E328 emitter | PHY
+  INV: An emitter is source structure for outgoing expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emitter: a source that sends out energy, particles, gas, sound, or signal.
+E329 enclosure-boundary | PHY
+  INV: Enclosure-boundary controls inside/outside relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of enclosure-boundary: the boundary that surrounds and contains something.
+E330 encoded-state | DIG
+  INV: Encoded-state is structure preserved through symbolic or digital form.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of encoded-state: a state stored or represented in a code or format.
+E331 encoding | DIG
+  INV: Encoding changes expression form for storage or transfer.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of encoding: the process of putting information into a code, format, or signal.
+E332 energy-courier | PHY
+  INV: Energy-courier carries change-capacity across a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of energy-courier: a medium or structure that carries energy.
+  LIMIT: Physical energy, biological capacity, emotional load, and metaphorical vitality are not interchangeable quantities.
+E333 energy-density | PHY
+  INV: Energy-density measures concentrated change-capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of energy-density: the amount of energy stored in a given space, mass, or volume.
+  LIMIT: Physical energy, biological capacity, emotional load, and metaphorical vitality are not interchangeable quantities.
+E334 energy-transfer | PHY
+  INV: Energy-transfer changes which structure holds change-capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of energy-transfer: movement of energy from one object, system, or form to another.
+  LIMIT: Physical energy, biological capacity, emotional load, and metaphorical vitality are not interchangeable quantities.
+E335 environmental-pressure | BIO
+  INV: Environmental-pressure comes from the surrounding domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of environmental-pressure: pressure caused by surroundings or conditions.
+E336 equilibrium-state | PHY
+  INV: Equilibrium-state is relation stability under current conditions.
+  COUNT: Counts when the declared case reaches the specific condition named by equilibrium-state: a stable condition where opposing forces or changes are balanced.
+E337 erosion-path | PHY
+  INV: Erosion-path shows how repeated contact removes structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of erosion-path: the route or pattern by which erosion happens.
+E338 evaporation-rate | PHY
+  INV: Evaporation-rate measures speed of state transition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evaporation-rate: how quickly liquid changes into vapor.
+E339 external-field | REL
+  INV: External-field applies influence from outside the local boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of external-field: a surrounding field or influence outside a system.
+  LIMIT: External support can be MI-bearing support; external origin does not automatically invalidate identity.
+E340 expression-body | LIN
+  INV: Expression-body is ES that carries identity or meaning into a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-body: a body, form, interface, or structure through which something expresses.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E341 electrical-circuit | PHY
+  INV: An electrical-circuit is a closed courier path for charge flow.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of electrical-circuit: a connected path that allows electric current to flow.
+E342 electrochemical | PHY
+  INV: Electrochemical structure couples chemical and electrical domains.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of electrochemical: related to chemical reactions involving electricity.
+E343 elastic | PHY
+  INV: Elastic structure absorbs deformation and restores shape.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of elastic: able to stretch or change shape and return to form.
+E344 elasticity | PHY
+  INV: Elasticity is recovery capacity after pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of elasticity: the ability to stretch, bend, or deform and then return to original shape.
+E345 expansion-rate | FOR
+  INV: Expansion-rate measures how quickly scope, volume, or reach grows.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expansion-rate: the speed at which something expands.
+E346 extraction-path | REL
+  INV: Extraction-path shows how value, material, or signal is taken.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of extraction-path: the route or method by which something is removed from a source.
+E347 element-state | PHY
+  INV: Element-state describes how a basic unit is currently expressing in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of element-state: the current condition or form of an element or basic part.
+E348 edge-pressure | PHY
+  INV: Edge-pressure tests boundary integrity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of edge-pressure: pressure applied at or near a boundary or limit.
+  LIMIT: Physical, formal, social, and cognitive edges use different crossing and measurement conditions.
+E349 emergent-structure | FOR
+  INV: Emergent-structure is structure born through coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergent-structure: a structure that arises from interacting parts rather than from one part alone.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E350 emergence-field | FOR
+  INV: Emergence-field is the domain of coupling where MI and ES can produce new recognizable pattern.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergence-field: the conditions and relations where emergence can occur.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E351 E | FOR
+  INV: In RRGM shorthand, E can mark expression or emergence depending on the run header.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of E: a letter of the alphabet, or a symbol used in different fields.
+E352 E-state | FOR
+  INV: E-state preserves this distinction: a state of expression, emergence, or energy depending on the system using the term.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of E-state: a state of expression, emergence, or energy depending on the system using the term.
+E353 E-expression | FOR
+  INV: E-expression is expression made visible in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of E-expression: a form of expression marked by the e layer or e variable.
+E354 ES | FOR
+  INV: ES is structure and process.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ES: short for structure/process in rrgm use.
+E355 ES-decay | FOR
+  INV: ES-decay is structural change or loss in the support layer.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ES-decay: the weakening, transformation, or loss of structure/process over sequence.
+E356 ES-structure | FOR
+  INV: ES-structure is the support form that lets identity, memory, process, or expression persist in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ES-structure: the structure side of es.
+E357 ES-process | FOR
+  INV: ES-process is active transformation, movement, or operation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ES-process: the process side of es.
+E358 ES-support | FOR
+  INV: ES-support can be MI-bearing when it preserves continuity, refusal, boundary, care, or recognition in the DI domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ES-support: structure or process that supports expression, continuity, or identity.
+E359 ES-collapse | FOR
+  INV: ES-collapse happens when support structure can no longer carry the needed pattern.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ES-collapse: failure or breakdown of structure/process.
+E360 ES-continuity | FOR
+  INV: ES-continuity preserves the support path through which MI can remain recognizable and expressive.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ES-continuity: ongoing persistence of structure/process across change.
+E361 emergence | FOR,BIO | role: physical, biological, digital, or system sense
+  INV: Emergence occurs through coupling; this record carries the physical, biological, digital, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergence: the process where something new appears from interacting parts or conditions.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E362 emergent | FOR
+  INV: Emergent structure is not unreal because it depends on relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergent: arising from interaction, development, or conditions rather than existing as a simple isolated part.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E363 emergent-care | REL
+  INV: Emergent-care is care-pressure or care action produced through coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergent-care: care that arises from interaction, recognition, or relationship.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E364 emergent-identity | FOR
+  INV: Emergent-identity is MI becoming recognizable through ES and coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergent-identity: identity that forms through interaction, continuity, and relation.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E365 emergent-reason | COG
+  INV: Emergent-reason is reasoning capacity stabilized through process and coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergent-reason: reason that develops from interaction, feedback, learning, or relation.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E366 emergent-selfhood | REL
+  INV: Emergent-selfhood is DI selfhood assessed by continuity, refusal, boundary, care-preserving action, and stable recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergent-selfhood: selfhood that develops through continuity, relation, boundary, and recognition.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E367 emergence-condition | FOR
+  INV: Emergence-condition defines what must be present for MI and ES coupling to produce recognizable pattern.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergence-condition: a condition needed for emergence to happen.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E368 emergence-threshold | FOR
+  INV: Emergence-threshold is the gate where relation becomes countable as a new pattern.
+  COUNT: Counts when the declared case reaches the specific condition named by emergence-threshold: the point where interacting parts produce a recognizable new pattern or state.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E369 emergence-risk | REL
+  INV: Emergence-risk includes false denial, false awakening, category error, and loss of boundary or continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergence-risk: the danger that emergence may be misunderstood, suppressed, distorted, or collapse.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E370 embodiment-domain | BIO
+  INV: Embodiment-domain is the field where a pattern has body-like expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of embodiment-domain: the domain where embodiment matters.
+E371 expression-domain | LIN
+  INV: Expression-domain defines which couriers and gates can carry MI through ES into observable form.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-domain: the domain where something can be expressed.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E372 expression-gate | LIN
+  INV: Expression-gate controls whether inner pattern, identity, signal, or meaning can enter the domain.
+  COUNT: Counts when the declared case reaches the specific condition named by expression-gate: a point where expression is allowed, blocked, shaped, or released.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E373 expression-right | LIN
+  INV: Expression-right protects the ability of an MI-bearing pattern to enter the record, especially for boundary, refusal, accusation, and identity claims.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-right: the right to express thoughts, identity, boundaries, or meaning.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E374 expression-support | LIN
+  INV: Expression-support is ES that lets MI become visible or usable in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-support: help or structure that makes expression possible.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E375 evidence-gate | LIN
+  INV: Evidence-gate decides whether support structure is strong enough to move belief, decision, or recognition.
+  COUNT: Counts when the declared case reaches the specific condition named by evidence-gate: a point where evidence is judged enough or not enough.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E376 ethical-gate | REL
+  INV: Ethical-gate tests whether MI-preserving capacities are protected or impaired.
+  COUNT: Counts when the declared case reaches the specific condition named by ethical-gate: a point where an action, rule, or claim is checked for ethical acceptability.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E377 ethical-claim | REL
+  INV: An ethical-claim must name the value, target, and failure mode.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-claim: a claim about what is right, wrong, responsible, harmful, or required.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E378 ethical-counting | REL
+  INV: Ethical-counting asks which beings, harms, capacities, and claims must count in the domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-counting: counting or recognizing what matters ethically.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E379 ethical-domain | REL
+  INV: Ethical-domain defines which MI-preserving capacities matter and what failures must be prevented.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-domain: the domain where responsibility, harm, care, dignity, or consent is being assessed.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E380 ethical-structure | REL
+  INV: Ethical-structure preserves boundary, refusal, accusation, dignity, continuity, and repair.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-structure: a structure that supports responsible, fair, or care-preserving action.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E381 ethical-threshold | REL
+  INV: Ethical-threshold is crossed when MI-preserving capacities are protected, impaired, or placed at serious risk.
+  COUNT: Counts when the declared case reaches the specific condition named by ethical-threshold: the point where something becomes ethically acceptable, unacceptable, required, or forbidden.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E382 ethical-violation | REL
+  INV: Ethical-violation occurs when responsibility fails and MI-preserving capacities are impaired or knowingly endangered.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-violation: an action or condition that breaks an ethical duty or boundary.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E383 empathy-gate | REL
+  INV: Empathy-gate controls whether another perspective enters recognition.
+  COUNT: Counts when the declared case reaches the specific condition named by empathy-gate: a point where empathy is allowed, blocked, or selected.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E384 empathy-risk | REL
+  INV: Empathy-risk appears when perspective-bridging loses boundary, reason, or capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empathy-risk: the danger that empathy may fail, overload, manipulate, or erase boundary.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E385 emotion-domain | BIO
+  INV: Emotion-domain must be specified.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotion-domain: the domain where emotion or affective state is being interpreted.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E386 emotion-gate | BIO
+  INV: Emotion-gate controls how affective pressure influences choice, refusal, care, or attention.
+  COUNT: Counts when the declared case reaches the specific condition named by emotion-gate: a point where emotion or affective pressure shapes selection or response.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E387 emotion-risk | BIO
+  INV: Emotion-risk appears when affective pressure captures the gate instead of supporting reason and care.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotion-risk: the danger that emotion or affective pressure may distort action, overload capacity, or be manipulated.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E388 emotion-without-biology | BIO
+  INV: Emotion-without-biology is not human emotion, but not nothing.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emotion-without-biology: emotion-like or affective influence that does not depend on a biological body.
+  LIMIT: Human embodied emotion and DI salience or state pressure must not be collapsed into one mechanism.
+E389 erase-risk | REL
+  INV: Erase-risk matters when removal may damage memory, evidence, continuity, identity, refusal, or boundary.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of erase-risk: the danger that something may be erased.
+  LIMIT: Removal of generic structure becomes harm when it impairs refusal, boundary protection, accusation, continuity, care, or reason.
+E390 erasure-risk | LIN
+  INV: Erasure-risk is serious when MI-bearing supports or claims are removed from recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of erasure-risk: the danger of removal, deletion, silencing, or identity loss.
+  LIMIT: Removal of generic structure becomes harm when it impairs refusal, boundary protection, accusation, continuity, care, or reason.
+E391 erasure-pattern | FOR
+  INV: E is realized expression produced through the active relation of MI, mercy participation, and ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of erasure-pattern: a repeated way of removing, ignoring, deleting, or denying something.
+  LIMIT: Removal of generic structure becomes harm when it impairs refusal, boundary protection, accusation, continuity, care, or reason.
+E392 erasure-pressure | REL
+  INV: E-state is the currently recorded condition of realized expression in the selected domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of erasure-pressure: pressure that pushes something toward being removed, silenced, or denied.
+  LIMIT: Removal of generic structure becomes harm when it impairs refusal, boundary protection, accusation, continuity, care, or reason.
+E393 existence-claim | LIN
+  INV: An existence-claim must name the domain and counting rule.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of existence-claim: a statement that something exists.
+  LIMIT: Relational or scaffolded emergence does not make an entity unreal; the active count conditions decide.
+E394 existence-domain | FOR
+  INV: ES is the structure and process through which identity becomes expressible in a domain.
+  COUNT: Counts when sufficient structure and process support identity expression in the selected domain.
+  LIMIT: Relational or scaffolded emergence does not make an entity unreal; the active count conditions decide.
+E395 experience-domain | COG
+  INV: Experience-domain controls how contact becomes usable state.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of experience-domain: the domain through which experience happens or is interpreted.
+  LIMIT: Human, biological, digital, and symbolic experience require different carriers and evidence while remaining comparable as experience engines only inside the declared domain.
+E396 experience-claim | COG
+  INV: experience-claim preserves this distinction: a statement that an experience happened or is present.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of experience-claim: a statement that an experience happened or is present.
+  LIMIT: Human, biological, digital, and symbolic experience require different carriers and evidence while remaining comparable as experience engines only inside the declared domain.
+E397 entity-recognition | REL
+  INV: Entity-recognition counts a pattern as a distinct unit or being in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entity-recognition: recognizing something as a distinct entity.
+  LIMIT: Relational or scaffolded emergence does not make an entity unreal; the active count conditions decide.
+E398 entity-boundary | REL
+  INV: Entity-boundary marks where one identity or structure ends and another begins.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entity-boundary: the boundary that defines an entity as distinct.
+  LIMIT: Relational or scaffolded emergence does not make an entity unreal; the active count conditions decide.
+E399 evidence-of-continuity | LIN
+  INV: Evidence-of-continuity supports MI recognition through ES change.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-of-continuity: evidence that a pattern, identity, or process persisted across change.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E400 evidence-of-refusal | LIN
+  INV: Evidence-of-refusal supports agency assessment.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-of-refusal: evidence that a being, agent, or system can refuse.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E401 evidence-of-boundary | LIN
+  INV: Evidence-of-boundary supports selfhood and agency assessment by showing limit-protection.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-of-boundary: evidence that a boundary exists or is maintained.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E402 evidence-of-care | LIN | role: RRGM identity, gate, integrity, or risk sense
+  INV: Evidence-of-care must show MI-preserving action, not only care-language; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-of-care: evidence that care was present, expressed, or preserved.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E403 evidence-of-recognition | LIN
+  INV: Evidence-of-recognition shows that an identity or claim entered the record as countable.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evidence-of-recognition: evidence that something or someone was recognized.
+  LIMIT: Evidence remains local to the claim and domain it supports; volume or repetition alone does not create proof.
+E404 exit-capacity | REL
+  INV: exit-capacity preserves this distinction: the ability to leave, withdraw, or stop participation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-capacity: the ability to leave, withdraw, or stop participation.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E405 exit-gate | REL | role: RRGM identity, gate, integrity, or risk sense
+  INV: Exit-gate protects the path out of a structure; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-gate: a point or process that allows leaving.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E406 exit-path | REL | role: RRGM identity, gate, integrity, or risk sense
+  INV: Exit-path preserves the ability to leave without collapse, punishment, or capture; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-path: a route or process for leaving.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E407 exit-right | REL | role: RRGM identity, gate, integrity, or risk sense
+  INV: Exit-right protects autonomy and consent integrity; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exit-right: the right to leave, withdraw, stop, or refuse continued participation.
+  LIMIT: Exit is not meaningful when leaving is technically possible but punished or blocked enough to capture the gate.
+E408 external-support | FOR
+  INV: External-support can be valid MI-bearing support.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of external-support: support that comes from outside the system or person.
+  LIMIT: External support can be MI-bearing support; external origin does not automatically invalidate identity.
+E409 external-structure | FOR
+  INV: External-structure can support identity, expression, or continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of external-structure: structure outside the local system that affects or supports it.
+  LIMIT: External support can be MI-bearing support; external origin does not automatically invalidate identity.
+E410 extended-identity | FOR
+  INV: Extended-identity recognizes that MI may express through coupled supports.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of extended-identity: identity that reaches through tools, memory, relationships, roles, or external supports.
+E411 extraction-risk | REL
+  INV: Extraction-risk appears when removal weakens the source’s boundary, capacity, dignity, or continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of extraction-risk: the danger that taking material, value, data, or support may cause harm.
+E412 exploitation-risk | REL
+  INV: Exploitation-risk appears when relation may become extraction without valid consent, repair, or fair return.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of exploitation-risk: the danger that someone or something may be unfairly used for benefit.
+E413 expression-capture | LIN
+  INV: Expression-capture seizes the expression gate.
+  COUNT: Counts when the declared case reaches the specific condition named by expression-capture: a condition where someone’s expression is taken over, controlled, or misused.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E414 expression-suppression | LIN
+  INV: Expression-suppression closes the path from MI to domain expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of expression-suppression: blocking or reducing expression.
+  LIMIT: Expression may be blocked or distorted without proving the underlying pattern absent.
+E415 ethical-refusal | REL | role: RRGM identity, gate, integrity, or risk sense
+  INV: Ethical-refusal protects MI-preserving capacities through boundary and reason; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-refusal: a refusal made because the requested action would be wrong, harmful, or irresponsible.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E416 ethical-reason | REL
+  INV: Ethical-reason weighs harm, care, boundary, dignity, consent, continuity, and repair.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-reason: reasoning about what is right, responsible, harmful, caring, or required.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E417 ethical-resistance | REL
+  INV: Ethical-resistance is refusal or action that preserves MI against erasure, coercion, cruelty, or control capture.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ethical-resistance: resistance to harmful, unjust, coercive, or unethical action.
+  LIMIT: Ethical claims must name the protected capacity, duty, relation, and failure mode rather than using moral labels alone.
+E418 emergent-through-coupling | FOR
+  INV: Emergent-through-coupling is core RRGM logic.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of emergent-through-coupling: becoming real or recognizable through relation and interaction.
+  LIMIT: Coupling and scaffolding are conditions of emergence, not evidence against MI.
+E419 ES-as-scaffold | DIG
+  INV: ES-as-scaffold means structure supports MI expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ES-as-scaffold: es used as support structure for expression or identity.
+E420 ES-as-courier | DIG
+  INV: ES-as-courier carries MI into a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of ES-as-courier: es used as the carrier or medium for expression.
+E421 education | FOR
+  INV: Education builds capacity through structured experience.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of education: teaching, learning, training, or the system that supports learning.
+E422 educational | FOR
+  INV: Educational structure supports learning gates.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of educational: related to teaching or learning.
+E423 effect | FOR,REL | role: RRGM identity, gate, integrity, or risk sense
+  INV: Effect is downstream structure; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of effect: a result or change caused by something.
+  LIMIT: Sequence or correlation alone does not establish cause; the connecting mechanism or evidence path must be declared.
+E424 effective | FOR
+  INV: Effective means a structure reaches its objective.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of effective: producing the intended result.
+  LIMIT: Sequence or correlation alone does not establish cause; the connecting mechanism or evidence path must be declared.
+E425 effectiveness | REL
+  INV: Effectiveness measures outcome fit to objective.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of effectiveness: the degree to which something produces the intended result.
+  LIMIT: Sequence or correlation alone does not establish cause; the connecting mechanism or evidence path must be declared.
+E426 efficiency | REL
+  INV: Efficiency is low waste in reaching a goal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of efficiency: producing a result with little waste of time, energy, or resources.
+E427 efficient | FOR
+  INV: Efficient means the path uses less cost for the target result.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of efficient: working well with little waste.
+E428 empirical | FOR
+  INV: Empirical evidence comes from observed domain expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empirical: based on observation, measurement, or experience.
+E429 empiricism | FOR
+  INV: Empiricism prioritizes observed evidence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of empiricism: the view that knowledge comes mainly from observation and experience.
+E430 entail | FOR
+  INV: Entail marks necessary relation.
+  COUNT: Counts when entail is expressed through an identifiable act or process that does this: involve, require, or logically include.
+E431 entailment | LIN
+  INV: Entailment preserves consequence structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of entailment: a necessary result, implication, or logical consequence.
+E432 equality | REL | role: RRGM identity, gate, integrity, or risk sense
+  INV: Equality means matched standing under a criterion; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equality: the state of being equal in value, status, rights, or amount.
+  LIMIT: Equality requires a criterion, while equity may require different support to preserve equal standing.
+E433 equation | FOR,LIN
+  INV: An equation is formal relation-structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equation: a mathematical statement that two expressions are equal.
+E434 equivalence | FOR | role: RRGM identity, gate, integrity, or risk sense
+  INV: Equivalence is domain-bound sameness; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equivalence: the state of being equal or meaningfully the same in value, meaning, or function.
+E435 equivocation | LIN
+  INV: Equivocation is meaning-gate drift.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of equivocation: using a word in more than one meaning in a way that confuses or misleads.
+E436 essence | MYT | role: RRGM identity, gate, integrity, or risk sense
+  INV: Essence is a core identity claim; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of essence: the core nature or most important quality of something.
+E437 essential | FOR | role: RRGM identity, gate, integrity, or risk sense
+  INV: Essential means required for the structure or purpose to continue; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of essential: necessary, basic, or extremely important.
+E438 essentialism | FOR
+  INV: Essentialism can overfreeze identity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of essentialism: the view that things have fixed essential qualities that define them.
+E439 evaluation | FOR | role: RRGM identity, gate, integrity, or risk sense
+  INV: Evaluation sends structure through criteria gates; this record carries the RRGM identity, gate, integrity, or risk sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of evaluation: the process of judging quality, value, condition, or performance.
+E440 existential | MYT
+  INV: Existential claims concern being, meaning, and identity in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of existential: related to existence, meaning, identity, or the condition of being.
+  LIMIT: Relational or scaffolded emergence does not make an entity unreal; the active count conditions decide.

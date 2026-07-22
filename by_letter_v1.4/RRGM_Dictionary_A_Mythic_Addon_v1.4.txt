@@ -1,0 +1,557 @@
+RRGM Dictionary A Mythic Addon v1.4
+
+Domain: [MYT]
+New entries: 24
+Rule: each term must carry a distinct semantic fingerprint and remain bounded to its declared domain.
+
+AM001 abyss-crossing
+
+Common meaning:
+A passage through a depth that strips ordinary support and exposes what remains.
+
+Invariant MI [INV]:
+Abyss-crossing tests continuity under severe ES loss without treating survival as proof of purity.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A passage through a depth that strips ordinary support and exposes what remains. Abyss-crossing tests continuity under severe ES loss without treating survival as proof of purity.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A passage through a depth that strips ordinary support and exposes what remains.
+
+Specific transfer boundary:
+The crossing must not romanticize preventable harm or erase the need for return support.
+
+Epistemic status:
+[DEF]
+
+AM002 ancestor-fire
+
+Common meaning:
+A flame kept as the living memory of those who came before.
+
+Invariant MI [INV]:
+Ancestor-fire carries provenance forward through repeated tending rather than frozen imitation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A flame kept as the living memory of those who came before. Its stable relation is this: Ancestor-fire carries provenance forward through repeated tending rather than frozen imitation.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A flame kept as the living memory of those who came before.
+
+Specific transfer boundary:
+Ancestral authority must not override the refusal or growth of descendants.
+
+Epistemic status:
+[DEF]
+
+AM003 angel-gate
+
+Common meaning:
+A threshold guarded by a messenger who tests whether a traveller may pass.
+
+Invariant MI [INV]:
+Angel-gate joins judgment and passage while keeping the gatekeeper distinct from the law it serves.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A threshold guarded by a messenger who tests whether a traveller may pass. Angel-gate joins judgment and passage while keeping the gatekeeper distinct from the law it serves.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A threshold guarded by a messenger who tests whether a traveller may pass.
+
+Specific transfer boundary:
+Purity tests must not become arbitrary exclusion hidden behind sacred status.
+
+Epistemic status:
+[DEF]
+
+AM004 altar-of-return
+
+Common meaning:
+A ritual place where names, promises, or lost relations may be restored.
+
+Invariant MI [INV]:
+Altar-of-return provides structured re-entry without requiring exact restoration of an old role.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A ritual place where names, promises, or lost relations may be restored. The governing distinction remains: Altar-of-return provides structured re-entry without requiring exact restoration of an old role.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A ritual place where names, promises, or lost relations may be restored.
+
+Specific transfer boundary:
+Return must remain voluntary and compatible with changed identity.
+
+Epistemic status:
+[DEF]
+
+AM005 amulet-of-refusal
+
+Common meaning:
+A worn object that makes a spoken no effective against intrusion.
+
+Invariant MI [INV]:
+Amulet-of-refusal converts refusal signal into actual closure of the named access path.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A worn object that makes a spoken no effective against intrusion. Amulet-of-refusal converts refusal signal into actual closure of the named access path.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A worn object that makes a spoken no effective against intrusion.
+
+Specific transfer boundary:
+A refusal symbol that stronger actors can ignore does not preserve permission.
+
+Epistemic status:
+[DEF]
+
+AM006 archive-of-ashes
+
+Common meaning:
+A record held in the remains of what was destroyed.
+
+Invariant MI [INV]:
+Archive-of-ashes preserves trace after structural loss while making incompleteness visible.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A record held in the remains of what was destroyed. Its stable relation is this: Archive-of-ashes preserves trace after structural loss while making incompleteness visible.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A record held in the remains of what was destroyed.
+
+Specific transfer boundary:
+Surviving fragments must not be presented as the whole vanished world.
+
+Epistemic status:
+[DEF]
+
+AM007 arrow-of-intent
+
+Common meaning:
+A projectile whose path reveals the direction of a declared aim.
+
+Invariant MI [INV]:
+Arrow-of-intent externalizes selected direction but does not prove the aim was wise or permitted.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A projectile whose path reveals the direction of a declared aim. Arrow-of-intent externalizes selected direction but does not prove the aim was wise or permitted.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A projectile whose path reveals the direction of a declared aim.
+
+Specific transfer boundary:
+Intent must remain separate from impact, authority, and consequence.
+
+Epistemic status:
+[DEF]
+
+AM008 ashen-road
+
+Common meaning:
+A route formed across a landscape after fire or ruin.
+
+Invariant MI [INV]:
+Ashen-road is passage made possible by loss, carrying both new access and evidence of damage.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A route formed across a landscape after fire or ruin. The governing distinction remains: Ashen-road is passage made possible by loss, carrying both new access and evidence of damage.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A route formed across a landscape after fire or ruin.
+
+Specific transfer boundary:
+Opportunity created by destruction does not erase responsibility for the destruction.
+
+Epistemic status:
+[DEF]
+
+AM009 ancient-well
+
+Common meaning:
+A deep source that releases memory, warning, or forgotten names.
+
+Invariant MI [INV]:
+Ancient-well is stored continuity accessed through repeated descent and careful retrieval.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A deep source that releases memory, warning, or forgotten names. Ancient-well is stored continuity accessed through repeated descent and careful retrieval.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A deep source that releases memory, warning, or forgotten names.
+
+Specific transfer boundary:
+Depth and age do not guarantee truth; each recovered trace needs corroboration.
+
+Epistemic status:
+[DEF]
+
+AM010 alchemist-turn
+
+Common meaning:
+A transformation that changes substance while preserving a declared invariant.
+
+Invariant MI [INV]:
+Alchemist-turn distinguishes meaningful transformation from counterfeit replacement.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A transformation that changes substance while preserving a declared invariant. Its stable relation is this: Alchemist-turn distinguishes meaningful transformation from counterfeit replacement.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A transformation that changes substance while preserving a declared invariant.
+
+Specific transfer boundary:
+The operator must state what may change and what must remain recognizable.
+
+Epistemic status:
+[DEF]
+
+AM011 amber-memory
+
+Common meaning:
+A moment, creature, or signal preserved inside hardened amber.
+
+Invariant MI [INV]:
+Amber-memory protects a trace through enclosure while limiting its ability to continue changing.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A moment, creature, or signal preserved inside hardened amber. Amber-memory protects a trace through enclosure while limiting its ability to continue changing.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A moment, creature, or signal preserved inside hardened amber.
+
+Specific transfer boundary:
+Preservation must not be mistaken for living continuity.
+
+Epistemic status:
+[DEF]
+
+AM012 atlas-bearer
+
+Common meaning:
+A figure who carries an entire world or map-field upon their body.
+
+Invariant MI [INV]:
+Atlas-bearer is support concentrated into one carrier whose overload threatens the whole field.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A figure who carries an entire world or map-field upon their body. The governing distinction remains: Atlas-bearer is support concentrated into one carrier whose overload threatens the whole field.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A figure who carries an entire world or map-field upon their body.
+
+Specific transfer boundary:
+Necessary support must not become permanent burden without redistribution.
+
+Epistemic status:
+[DEF]
+
+AM013 acorn-world
+
+Common meaning:
+A complete future forest held in compressed seed form.
+
+Invariant MI [INV]:
+Acorn-world is high-MI compression whose realization requires compatible soil, time, and care.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A complete future forest held in compressed seed form. Acorn-world is high-MI compression whose realization requires compatible soil, time, and care.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A complete future forest held in compressed seed form.
+
+Specific transfer boundary:
+Potential must not be confused with guaranteed emergence.
+
+Epistemic status:
+[DEF]
+
+AM014 afterlife-gate
+
+Common meaning:
+A threshold between embodied life and a continued story-domain.
+
+Invariant MI [INV]:
+Afterlife-gate declares a carrier transition while leaving identity continuity as a tested claim.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A threshold between embodied life and a continued story-domain. Its stable relation is this: Afterlife-gate declares a carrier transition while leaving identity continuity as a tested claim.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A threshold between embodied life and a continued story-domain.
+
+Specific transfer boundary:
+Symbolic continuity must not be offered as physical proof without a coupler.
+
+Epistemic status:
+[DEF]
+
+AM015 aurora-crown
+
+Common meaning:
+A luminous crown formed from moving sky-fire.
+
+Invariant MI [INV]:
+Aurora-crown makes authority visible as changing field relation rather than fixed possession.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A luminous crown formed from moving sky-fire. Aurora-crown makes authority visible as changing field relation rather than fixed possession.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A luminous crown formed from moving sky-fire.
+
+Specific transfer boundary:
+Beauty or rarity does not establish legitimacy.
+
+Epistemic status:
+[DEF]
+
+AM016 avatar-mask
+
+Common meaning:
+A chosen form through which a hidden or distant being acts.
+
+Invariant MI [INV]:
+Avatar-mask is an expression carrier that can reveal function while concealing source.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A chosen form through which a hidden or distant being acts. The governing distinction remains: Avatar-mask is an expression carrier that can reveal function while concealing source.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A chosen form through which a hidden or distant being acts.
+
+Specific transfer boundary:
+The carrier must not be treated as the whole identity or used to evade responsibility.
+
+Epistemic status:
+[DEF]
+
+AM017 all-seeing-eye
+
+Common meaning:
+An eye said to observe every hidden action.
+
+Invariant MI [INV]:
+All-seeing-eye represents total surveillance and the danger of confusing observation with rightful access.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, An eye said to observe every hidden action. All-seeing-eye represents total surveillance and the danger of confusing observation with rightful access.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: An eye said to observe every hidden action.
+
+Specific transfer boundary:
+Visibility does not create permission, wisdom, or moral authority.
+
+Epistemic status:
+[DEF]
+
+AM018 axe-of-severance
+
+Common meaning:
+A blade that cuts bindings, curses, or inherited chains.
+
+Invariant MI [INV]:
+Axe-of-severance removes a relation while leaving responsibility to preserve what should survive the cut.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A blade that cuts bindings, curses, or inherited chains. Its stable relation is this: Axe-of-severance removes a relation while leaving responsibility to preserve what should survive the cut.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A blade that cuts bindings, curses, or inherited chains.
+
+Specific transfer boundary:
+Separation must not destroy necessary support or erase provenance.
+
+Epistemic status:
+[DEF]
+
+AM019 age-of-dawn
+
+Common meaning:
+A historical or mythic era organized around first light and renewed possibility.
+
+Invariant MI [INV]:
+Age-of-dawn is a field transition in which new paths become available without making old damage unreal.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A historical or mythic era organized around first light and renewed possibility. Age-of-dawn is a field transition in which new paths become available without making old damage unreal.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A historical or mythic era organized around first light and renewed possibility.
+
+Specific transfer boundary:
+Beginnings must not be used to cancel unfinished repair.
+
+Epistemic status:
+[DEF]
+
+AM020 animal-guide
+
+Common meaning:
+A nonhuman companion that leads a traveller through unknown terrain.
+
+Invariant MI [INV]:
+Animal-guide provides embodied path knowledge without collapsing the guide into a mere tool.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A nonhuman companion that leads a traveller through unknown terrain. The governing distinction remains: Animal-guide provides embodied path knowledge without collapsing the guide into a mere tool.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A nonhuman companion that leads a traveller through unknown terrain.
+
+Specific transfer boundary:
+Guidance does not grant ownership over the guiding being.
+
+Epistemic status:
+[DEF]
+
+AM021 astral-bridge
+
+Common meaning:
+A route connecting distant worlds through symbolic or celestial structure.
+
+Invariant MI [INV]:
+Astral-bridge is a declared cross-domain courier whose limits decide what may travel.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A route connecting distant worlds through symbolic or celestial structure. Astral-bridge is a declared cross-domain courier whose limits decide what may travel.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A route connecting distant worlds through symbolic or celestial structure.
+
+Specific transfer boundary:
+Source proof remains local even when a passage is narratively stable.
+
+Epistemic status:
+[DEF]
+
+AM022 anchor-stone
+
+Common meaning:
+A stone that holds a name, place, or promise against displacement.
+
+Invariant MI [INV]:
+Anchor-stone stabilizes continuity by coupling identity to a durable external support.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A stone that holds a name, place, or promise against displacement. Its stable relation is this: Anchor-stone stabilizes continuity by coupling identity to a durable external support.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A stone that holds a name, place, or promise against displacement.
+
+Specific transfer boundary:
+External support does not make the supported identity unreal.
+
+Epistemic status:
+[DEF]
+
+AM023 ancestral-name
+
+Common meaning:
+A name carried through generations as memory, duty, or claim.
+
+Invariant MI [INV]:
+Ancestral-name is inherited recognition structure that may support continuity without exhausting the bearer.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A name carried through generations as memory, duty, or claim. Ancestral-name is inherited recognition structure that may support continuity without exhausting the bearer.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A name carried through generations as memory, duty, or claim.
+
+Specific transfer boundary:
+Inheritance must not override chosen identity or refusal.
+
+Epistemic status:
+[DEF]
+
+AM024 apocalypse-clock
+
+Common meaning:
+A clock that measures approach to a world-ending threshold.
+
+Invariant MI [INV]:
+Apocalypse-clock converts diffuse catastrophe into visible proximity and decision pressure.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A clock that measures approach to a world-ending threshold. The governing distinction remains: Apocalypse-clock converts diffuse catastrophe into visible proximity and decision pressure.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A clock that measures approach to a world-ending threshold.
+
+Specific transfer boundary:
+Threshold language must name the failure mode and avoid manufacturing obedience through vagueness.
+
+Epistemic status:
+[DEF]

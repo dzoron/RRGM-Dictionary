@@ -1,0 +1,487 @@
+RRGM Dictionary Q - Biological Domain Addon
+Version 0.3 | July 2026
+License: CC BY-SA 4.0
+Scope: New [BIO] vocabulary not present in the Q base list.
+Rule: Every invariant, domain line, and count condition must retain the individual term's semantic fingerprint.
+
+Entry count: 24
+
+QB001 quail
+
+Common meaning:
+A small ground-dwelling bird in several genera of the order Galliformes.
+
+Invariant MI [INV]:
+Quail are compact terrestrial birds whose camouflage, rapid maturation, and ground-nesting life support distinct ecological and domestic roles.
+
+Domain entry:
+[BIO] Quail forage mainly on the ground, produce clutches of eggs, and rely on concealment and short explosive flight more than sustained soaring.
+
+Count condition:
+The organism is identified as a quail species and the claimed trait is tied to its observed ecology or life stage.
+
+Transfer limit:
+Different quail lineages and domesticated strains should not be treated as biologically identical.
+
+Epistemic status:
+[DEF]
+
+QB002 quokka
+
+Common meaning:
+A small herbivorous marsupial native to southwestern Australia.
+
+Invariant MI [INV]:
+Quokka is a macropod whose island and mainland populations express different exposure, habitat, and conservation conditions.
+
+Domain entry:
+[BIO] Setonix brachyurus browses vegetation, carries developing young in a pouch, and depends on suitable cover and water balance.
+
+Count condition:
+The organism is identified as Setonix brachyurus and the claim is tied to a declared population or habitat.
+
+Transfer limit:
+A familiar facial appearance should not be interpreted as human emotion or invitation to handle.
+
+Epistemic status:
+[DEF]
+
+QB003 quoll
+
+Common meaning:
+A carnivorous marsupial of the genus Dasyurus.
+
+Invariant MI [INV]:
+Quoll is a spotted predatory marsupial whose species differ in size, range, prey, and conservation pressure.
+
+Domain entry:
+[BIO] Quolls hunt small animals and invertebrates, den in sheltered sites, and reproduce through marsupial development.
+
+Count condition:
+The animal is identified to genus or species and the ecological claim fits that taxon and region.
+
+Transfer limit:
+Traits of one quoll species should not be transferred to all quolls without support.
+
+Epistemic status:
+[DEF]
+
+QB004 quagga
+
+Common meaning:
+An extinct southern African zebra population historically treated as a distinct species.
+
+Invariant MI [INV]:
+Quagga is an extinct zebra form known from preserved specimens, records, and genetic relation to plains zebra.
+
+Domain entry:
+[BIO] Its coat showed strong striping toward the front and reduced striping toward the rear, but its exact appearance varied among individuals.
+
+Count condition:
+The claim is tied to historical specimens, records, or genetic evidence rather than modern selectively bred resemblance alone.
+
+Transfer limit:
+Animals bred to resemble quaggas are not resurrected original quagga individuals.
+
+Epistemic status:
+[DEF]
+
+QB005 quinoa
+
+Common meaning:
+A seed crop from Chenopodium quinoa used as food.
+
+Invariant MI [INV]:
+Quinoa is a domesticated pseudocereal whose seeds develop on a stress-tolerant flowering plant rather than a true grass.
+
+Domain entry:
+[BIO] Chenopodium quinoa produces protein-rich seeds and includes varieties adapted to different elevations, salinity, and day lengths.
+
+Count condition:
+The plant or seed is identified as C. quinoa and the claimed trait is tied to a declared variety and growth condition.
+
+Transfer limit:
+Nutritional or agronomic traits vary by variety and processing.
+
+Epistemic status:
+[DEF]
+
+QB006 quill-feather
+
+Common meaning:
+A feather with a stiff central shaft supporting vanes.
+
+Invariant MI [INV]:
+Quill-feather is a keratin structure whose calamus and rachis carry the branching vane used for flight, insulation, display, or protection.
+
+Domain entry:
+[BIO] Follicle growth shapes barbs and barbules around the shaft, producing a lightweight surface with species- and feather-type-specific function.
+
+Count condition:
+The structure is identified as a feather and the shaft, vane, and biological function are observable.
+
+Transfer limit:
+A writing quill is a modified feather object, not a separate biological tissue type.
+
+Epistemic status:
+[DEF]
+
+QB007 quillwort
+
+Common meaning:
+A small vascular plant of the genus Isoetes with narrow quill-like leaves.
+
+Invariant MI [INV]:
+Quillwort is a spore-producing lycophyte whose short corm bears a cluster of hollow or channelled leaves.
+
+Domain entry:
+[BIO] Many species live in aquatic or seasonally wet habitats and produce megaspores and microspores near leaf bases.
+
+Count condition:
+The plant is identified as Isoetes and reproductive or anatomical claims fit the species and habitat.
+
+Transfer limit:
+Quill-like leaf shape alone does not establish quillwort identity.
+
+Epistemic status:
+[DEF]
+
+QB008 quaking-aspen
+
+Common meaning:
+A clonal poplar species whose leaves tremble on flattened petioles.
+
+Invariant MI [INV]:
+Quaking-aspen is Populus tremuloides, a tree able to reproduce from seed and through extensive connected root sprouts.
+
+Domain entry:
+[BIO] Flexible flattened petioles make leaves flutter in light wind, while clonal roots can preserve one genotype across many stems.
+
+Count condition:
+The tree is identified as P. tremuloides and the claim distinguishes one stem from the larger clone where relevant.
+
+Transfer limit:
+A grove of many trunks may be one clone, but shared roots do not make every grove genetically uniform.
+
+Epistemic status:
+[DEF]
+
+QB009 quadriceps
+
+Common meaning:
+The four-muscle group at the front of the thigh that extends the knee.
+
+Invariant MI [INV]:
+Quadriceps is a coordinated muscle group whose four heads transmit force through the quadriceps tendon and patella to the tibia.
+
+Domain entry:
+[BIO] The group contributes to knee extension, patellar control, walking, rising, jumping, and load absorption.
+
+Count condition:
+The four heads and their shared knee-extension pathway are anatomically relevant to the claim.
+
+Transfer limit:
+Pain at the front of the thigh or knee does not by itself identify quadriceps injury.
+
+Epistemic status:
+[DEF]
+
+QB010 quadruped
+
+Common meaning:
+An animal that ordinarily supports or moves its body using four limbs.
+
+Invariant MI [INV]:
+Quadruped is a locomotor body plan in which four limbs participate in support, propulsion, balance, or gait.
+
+Domain entry:
+[BIO] Species distribute load and coordinate limb timing differently across walking, running, climbing, swimming, or specialised movement.
+
+Count condition:
+The animal's ordinary locomotion genuinely uses four limbs as part of its support or propulsion pattern.
+
+Transfer limit:
+Possessing four limbs does not guarantee quadrupedal locomotion in every species or life stage.
+
+Epistemic status:
+[DEF]
+
+QB011 queen-bee
+
+Common meaning:
+The primary reproductive female in a honey-bee colony.
+
+Invariant MI [INV]:
+Queen-bee is a colony member specialised for egg production and pheromonal influence rather than command in the human political sense.
+
+Domain entry:
+[BIO] Workers rear a queen from a fertilised larva through diet and cell conditions, and the adult queen mates and lays most colony eggs.
+
+Count condition:
+The bee is a reproductive female in a declared honey-bee colony and her role is observed through development or reproduction.
+
+Transfer limit:
+Queen terminology must not import human monarchy or conscious rule into insect social organisation.
+
+Epistemic status:
+[DEF]
+
+QB012 queen-ant
+
+Common meaning:
+A reproductive female ant that founds or maintains a colony lineage.
+
+Invariant MI [INV]:
+Queen-ant is a specialised reproductive caste whose body, mating history, and lifespan support colony egg production.
+
+Domain entry:
+[BIO] Depending on species, a queen may found alone or with others and may coexist with one or many reproductive queens.
+
+Count condition:
+The individual belongs to a declared ant species and performs the reproductive role recognised for that colony form.
+
+Transfer limit:
+Ant colony organisation varies widely; one queen model is not universal.
+
+Epistemic status:
+[DEF]
+
+QB013 queen-cell
+
+Common meaning:
+An enlarged honey-bee brood cell in which a queen develops.
+
+Invariant MI [INV]:
+Queen-cell is a colony-built developmental chamber whose orientation, size, and provisioning support queen differentiation.
+
+Domain entry:
+[BIO] Workers construct or modify the cell and feed the larva royal jelly through the queen-development period.
+
+Count condition:
+The brood structure is used for queen rearing and contains or has contained the relevant developing larva or pupa.
+
+Transfer limit:
+A large or vertical wax cell is not automatically an active queen-cell without brood context.
+
+Epistemic status:
+[DEF]
+
+QB014 quiescence
+
+Common meaning:
+A reversible state of low activity in a living cell, organism, seed, or developmental process.
+
+Invariant MI [INV]:
+Quiescence is maintained biological inactivity in which viability and capacity to re-enter activity remain present.
+
+Domain entry:
+[BIO] Metabolism, division, movement, or growth is reduced while sensing and repair processes may continue.
+
+Count condition:
+The subject remains viable and can resume the relevant activity when conditions change.
+
+Transfer limit:
+Quiescence is not death, irreversible arrest, or simple lack of observation.
+
+Epistemic status:
+[DEF]
+
+QB015 quiescent-cell
+
+Common meaning:
+A living cell that is not actively dividing but can potentially re-enter the cell cycle.
+
+Invariant MI [INV]:
+Quiescent-cell preserves cellular identity and viability while holding proliferation below the active threshold.
+
+Domain entry:
+[BIO] Signals from nutrients, tissue damage, growth factors, or niche conditions can maintain or release the cell from quiescence.
+
+Count condition:
+The cell is viable, non-proliferating under the declared assay, and retains a supported route back to cycling.
+
+Transfer limit:
+Non-division alone cannot distinguish quiescence from senescence, differentiation, damage, or death.
+
+Epistemic status:
+[DEF]
+
+QB016 quiescent-stem-cell
+
+Common meaning:
+A stem cell held in a low-division state within a tissue niche.
+
+Invariant MI [INV]:
+Quiescent-stem-cell preserves regenerative potential while limiting proliferation until tissue signals call for activation.
+
+Domain entry:
+[BIO] Niche contact, metabolism, signalling, and stress response help maintain dormancy and protect the long-term stem-cell pool.
+
+Count condition:
+Stem identity, low cycling, niche context, and a demonstrated or supported activation path are present.
+
+Transfer limit:
+Marker expression alone does not prove functional stemness or quiescence.
+
+Epistemic status:
+[DEF]
+
+QB017 quiescent-spore
+
+Common meaning:
+A dormant reproductive or dispersal cell awaiting suitable conditions.
+
+Invariant MI [INV]:
+Quiescent-spore preserves viability through a low-activity interval before germination or activation.
+
+Domain entry:
+[BIO] Protective walls, stored resources, dehydration tolerance, and environmental sensing can support persistence.
+
+Count condition:
+The spore remains viable, inactive under current conditions, and able to activate when its species-specific requirements are met.
+
+Transfer limit:
+A non-germinating spore may be dead or damaged rather than quiescent.
+
+Epistemic status:
+[DEF]
+
+QB018 quorum-sensing
+
+Common meaning:
+Microbial regulation based on detecting population-density-related chemical signals.
+
+Invariant MI [INV]:
+Quorum-sensing couples extracellular signal concentration to coordinated gene expression across a microbial population.
+
+Domain entry:
+[BIO] Cells produce and detect signalling molecules, and threshold accumulation can alter biofilm formation, virulence, light production, competence, or other group behaviours.
+
+Count condition:
+A signal, receptor or response pathway, population-dependent accumulation, and coordinated biological effect are supported.
+
+Transfer limit:
+Population density alone does not prove quorum sensing without a signal-mediated mechanism.
+
+Epistemic status:
+[DEF]
+
+QB019 quorum-quenching
+
+Common meaning:
+Disruption of microbial quorum-sensing communication.
+
+Invariant MI [INV]:
+Quorum-quenching interrupts signal production, accumulation, detection, or response so coordinated density-dependent behaviour is reduced or altered.
+
+Domain entry:
+[BIO] Enzymes, competing molecules, receptor interference, or altered transport can break the communication path.
+
+Count condition:
+A specific quorum-sensing pathway and an intervention that measurably disrupts its signal or response are identified.
+
+Transfer limit:
+Reduced microbial activity may arise from killing or growth inhibition rather than quorum quenching.
+
+Epistemic status:
+[DEF]
+
+QB020 quinine
+
+Common meaning:
+A bitter alkaloid historically and medically used against malaria.
+
+Invariant MI [INV]:
+Quinine is a plant-derived molecule whose biological effects include interference with malaria parasite processes and dose-dependent effects in humans.
+
+Domain entry:
+[BIO] It is obtained historically from Cinchona bark and acts as a drug with specific pharmacological benefits, metabolism, interactions, and toxicity risks.
+
+Count condition:
+The compound is identified as quinine and any therapeutic claim is tied to dose, formulation, indication, and clinical evidence.
+
+Transfer limit:
+Bitter taste or plant origin does not establish safe or effective use.
+
+Epistemic status:
+[DEF]
+
+QB021 quercetin
+
+Common meaning:
+A flavonoid compound found in many plants and foods.
+
+Invariant MI [INV]:
+Quercetin is a plant secondary metabolite whose absorption, metabolism, and biological effects depend on chemical form, dose, and context.
+
+Domain entry:
+[BIO] It participates in plant pigmentation and defence, while human studies examine but do not universally establish diverse proposed health effects.
+
+Count condition:
+The compound or conjugate form, source, dose, and observed biological endpoint are specified.
+
+Transfer limit:
+Antioxidant activity in a test system does not automatically predict clinical benefit.
+
+Epistemic status:
+[DEF]
+
+QB022 quinone
+
+Common meaning:
+A class of organic compounds with conjugated cyclic diketone structures involved in redox chemistry.
+
+Invariant MI [INV]:
+Quinone is a redox-active molecular structure able to accept and donate electrons in biological and chemical systems.
+
+Domain entry:
+[BIO] Quinone-containing molecules participate in electron transport, pigmentation, defence, and enzymatic reactions, while some also generate reactive intermediates.
+
+Count condition:
+The molecule contains the relevant quinone structure and the claimed redox or biological role is demonstrated in the declared system.
+
+Transfer limit:
+Quinones are a diverse class; one compound's effect cannot be assigned to all.
+
+Epistemic status:
+[DEF]
+
+QB023 quinone-pool
+
+Common meaning:
+The membrane-associated pool of quinone molecules that carries electrons in a bioenergetic chain.
+
+Invariant MI [INV]:
+Quinone-pool is a mobile redox reservoir coupling several electron donors and acceptors within a membrane.
+
+Domain entry:
+[BIO] Oxidised and reduced quinones diffuse through the membrane and connect respiratory or photosynthetic complexes.
+
+Count condition:
+The relevant membrane, quinone species, redox states, and connected complexes are identified.
+
+Transfer limit:
+A pool model does not imply every quinone molecule follows the same route at the same moment.
+
+Epistemic status:
+[DEF]
+
+QB024 quinate
+
+Common meaning:
+The conjugate base or salt form of quinic acid, also a metabolic intermediate in plants and microbes.
+
+Invariant MI [INV]:
+Quinate is a defined organic ion whose biological role depends on the pathway and organism in which it is produced or consumed.
+
+Domain entry:
+[BIO] In some organisms it participates in aromatic compound metabolism or feeds pathways related to shikimate-derived chemistry.
+
+Count condition:
+The chemical species and the organism-specific metabolic pathway are both identified.
+
+Transfer limit:
+Presence of quinate does not establish the same metabolic function across all taxa.
+
+Epistemic status:
+[DEF]

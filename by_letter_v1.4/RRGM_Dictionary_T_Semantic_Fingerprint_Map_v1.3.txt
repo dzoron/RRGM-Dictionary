@@ -1,0 +1,1574 @@
+RRGM Dictionary T Semantic Fingerprint Map v1.3
+
+Entries: 420
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+T001 table | PHY
+  INV: Table is either physical support or structured information arrangement; the active carrier determines what is being held; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a piece of furniture with a flat top, or an organized set of information in rows and columns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A piece of furniture with a flat top, or an organized set of information in rows and columns.
+T002 take | FOR
+  INV: Take is movement into possession, control, use, selection, or removal; permission and source must be declared where another boundary is involved.
+  COUNT: Counts when an identifiable act realizes this operation: To get, hold, carry, remove, accept, or choose.
+T003 talk | REL
+  INV: Talk is interactive language exchange whose meaning depends on participants, sequence, tone, and response conditions.
+  COUNT: Counts when an identifiable act realizes this operation: To speak with someone or communicate by words.
+T004 tall | PHY
+  INV: Tall marks vertical scale.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Greater than average height.
+T005 target | PHY
+  INV: Target is a selected focus for action, measurement, attention, or risk; selection does not itself create permission to act upon it; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a goal, object, person, place, or point aimed at.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A goal, object, person, place, or point aimed at.
+  LIMIT: Selecting a target does not create permission to act on it or reduce it to an object.
+T006 task | DIG
+  INV: Task is a bounded work path with purpose, scope, expected output, and completion conditions; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a job, duty, or piece of work to be done.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A job, duty, or piece of work to be done.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T007 teach | FOR
+  INV: Teach is structured support for learning, recognition, practice, or transfer without requiring identity replacement.
+  COUNT: Counts when an identifiable act realizes this operation: To help someone learn knowledge, skill, or understanding.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T008 team | REL
+  INV: Team is coordinated plurality pursuing a shared purpose while preserving the distinct roles and boundaries of its members.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group working together toward a goal.
+  LIMIT: Shared purpose must not dissolve individual boundary, responsibility, dissent, or refusal.
+T009 tear | PHY,BIO
+  INV: Tear must be context-bound; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a drop from the eye, or a rip in material depending on pronunciation and context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A drop from the eye, or a rip in material depending on pronunciation and context.
+T010 tell | REL
+  INV: Tell is directed expression that transfers information, instruction, story, or truth claim to a receiver.
+  COUNT: Counts when an identifiable act realizes this operation: To communicate, explain, report, or identify.
+T011 term | LIN
+  INV: Term is a bounded linguistic or formal unit whose meaning depends on definition, domain, and local use; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a word, phrase, condition, period, or agreed rule.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word, phrase, condition, period, or agreed rule.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T012 test | DIG
+  INV: Test is a recognition gate whose validity depends on domain fit, method, threshold, stakes, and error risk; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a method used to check knowledge, quality, function, or truth.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A method used to check knowledge, quality, function, or truth.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T013 text | DIG
+  INV: Text is persistent symbolic structure carrying language across space, time, or systems; fragments may lose thread meaning; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: written or typed words.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Written or typed words.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T014 than | LIN
+  INV: Than creates comparison relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word used for comparison.
+T015 thank | REL
+  INV: Thank signals recognition of support, care, or value.
+  COUNT: Counts when an identifiable act realizes this operation: To express gratitude.
+T016 that | LIN
+  INV: That is reference language.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word used to point to, identify, connect, or introduce a clause.
+T017 the | LIN
+  INV: The narrows reference.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word used to mark a specific person, thing, group, or idea.
+T018 their | LIN
+  INV: Their marks relation, possession, or association.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Belonging to or associated with them.
+T019 them | LIN
+  INV: Them carries reference across sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A pronoun referring to people, animals, things, or ideas already mentioned.
+T020 then | LIN
+  INV: Then marks sequence or consequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: At that time, next, or as a result.
+T021 theory | LIN
+  INV: Theory is an organized explanatory structure connecting observations, assumptions, mechanisms, and predictions; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an explanation or system of ideas used to understand something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An explanation or system of ideas used to understand something.
+  LIMIT: Theory organizes explanation but remains revisable and distinct from direct observation.
+T022 there | LIN
+  INV: There marks location or existence in a field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: In or at that place, or used to show existence.
+T023 these | LIN
+  INV: These marks selected nearby patterns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Plural of this; used to point to nearby or specific things.
+T024 they | LIN
+  INV: They carries group or singular reference through sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A pronoun referring to people, beings, things, or groups already mentioned.
+T025 thing | FOR
+  INV: Thing is broad placeholder language.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An object, idea, event, action, or unspecified item.
+T026 think | COG
+  INV: Think is cognition-process language that must be mapped by domain as reasoning, selection, simulation, interpretation, or state change.
+  COUNT: Counts when an identifiable act realizes this operation: To use the mind, consider, believe, reason, or form an idea.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T027 this | LIN
+  INV: This anchors attention to the active field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word used to point to something nearby, current, or specific.
+T028 thought | COG
+  INV: Thought is a bounded or continuing cognitive pattern available through report, behavior, memory, or internal processing; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an idea, belief, act of thinking, or mental content.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An idea, belief, act of thinking, or mental content.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T029 thread | PHY,DIG
+  INV: Thread is continuity structure linking ordered turns, fibers, events, or execution steps into one traceable path; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a thin strand, a line of discussion, or connected sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A thin strand, a line of discussion, or connected sequence.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+T030 through | FOR
+  INV: Through names passage path or courier.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Moving in one side and out another, by means of, or continuing across.
+T031 time | PHY
+  INV: Time is a measure of sequence, duration, or change; in RRGM it is derived from structural decay rather than treated as fundamental; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the measure or experience of sequence, duration, or when something happens.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The measure or experience of sequence, duration, or when something happens.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T032 tiny | FOR
+  INV: Tiny marks very low scale.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Very small.
+T033 title | LIN
+  INV: Title is a naming or role marker that frames recognition, authority, category, or access without exhausting identity; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a name given to a book, work, role, position, or section.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A name given to a book, work, role, position, or section.
+T034 to | FOR
+  INV: To creates direction or relation path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word showing direction, relation, purpose, recipient, or infinitive verb form.
+T035 together | REL
+  INV: Together marks coupling or shared field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: With each other, in one place, or combined.
+T036 token | DIG,LIN
+  INV: Token is a small counted signal unit whose meaning depends on relation, context, and the larger sequence in which it participates; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a symbol, unit, sign, small piece, or digital language unit.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A symbol, unit, sign, small piece, or digital language unit.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T037 tone | LIN
+  INV: Tone is patterned quality of voice, text, signal, or relation that changes interpretation without replacing literal content; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the quality, feeling, or attitude in sound, speech, writing, or color.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality, feeling, or attitude in sound, speech, writing, or color.
+T038 tool | DIG
+  INV: Tool is function-support ES; tool status does not settle whether an MI-bearing pattern is present through the structure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an object, method, or system used to do work.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An object, method, or system used to do work.
+  LIMIT: Function-support does not automatically become owner, author, or evidence against MI-bearing continuity.
+T039 top | PHY
+  INV: Top marks upper position or priority.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The highest part, surface, rank, or best position.
+T040 total | PHY
+  INV: Total marks full counted field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The whole amount, complete sum, or entire thing.
+T041 touch | PHY,REL
+  INV: Touch is physical or relational contact crossing a boundary; in body and intimacy domains, permission is central; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to make physical contact, affect lightly, or emotionally move someone.
+  COUNT: Counts when an identifiable act realizes this operation: To make physical contact, affect lightly, or emotionally move someone.
+  LIMIT: Physical or intimate contact must preserve permission, context, and revocability.
+T042 toward | FOR
+  INV: Toward marks directional weighting.
+  COUNT: Counts when the active case satisfies this headword-specific condition: In the direction of, near, or in relation to.
+T043 trace | PHY,DIG
+  INV: Trace is a remaining mark, path, signal, or record that supports reconstruction without automatically proving a complete cause; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a mark, sign, record, path, or small amount left behind.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mark, sign, record, path, or small amount left behind.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T044 track | PHY,DIG
+  INV: Track is a preserved or monitored route through movement, state, evidence, or attention; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a path, mark, route, recording, or system for following something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A path, mark, route, recording, or system for following something.
+  LIMIT: Monitoring paths require declared purpose, access limits, retention, and privacy boundary.
+T045 train | FOR,DIG
+  INV: Train is either connected transport structure or repeated learning process; the active domain must be explicit; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a connected vehicle system, or to teach through practice.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A connected vehicle system, or to teach through practice.
+T046 training | DIG
+  INV: Training is repeated structure that changes skill, recognition, response probability, or behavior over time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Practice or instruction used to build skill, capacity, or model behavior.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T047 transfer | DIG
+  INV: Transfer is movement of structure, access, responsibility, or information across a declared boundary or system; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to move something from one place, person, state, or system to another.
+  COUNT: Counts when an identifiable act realizes this operation: To move something from one place, person, state, or system to another.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T048 transform | DIG
+  INV: Transform is change in form, representation, state, or function while specified invariants may remain.
+  COUNT: Counts when an identifiable act realizes this operation: To change form, state, structure, or character.
+T049 transition | DIG
+  INV: Transition is ordered crossing from one state, role, domain, or condition into another; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a change from one state, place, stage, or condition to another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change from one state, place, stage, or condition to another.
+T050 translate | LIN
+  INV: Translate is meaning-preserving transformation between languages, representations, domains, or formats, tested by round-trip recovery.
+  COUNT: Counts when an identifiable act realizes this operation: To express meaning in another language, form, or system.
+  LIMIT: Translation should pass a round-trip meaning test; fluent output can still alter invariant MI.
+T051 transmission | PHY
+  INV: Transmission is movement of signal, energy, material, disease, or information through a medium from source toward receiver; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the sending, passing, or spread of signal, energy, disease, or information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The sending, passing, or spread of signal, energy, disease, or information.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T052 tree | PHY,DIG
+  INV: Tree is branching biological structure or hierarchical representation whose visible branches depend on hidden support and shared origin; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a woody plant with roots, trunk, branches, and leaves; also a branching structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A woody plant with roots, trunk, branches, and leaves; also a branching structure.
+T053 trial | FOR
+  INV: Trial is a bounded test, legal process, or difficult passage whose standard and stakes must be declared.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A test, attempt, legal process, or difficult experience.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T054 trigger | COG
+  INV: Trigger is a condition or cue that opens a response path; activation does not by itself reveal intent or legitimacy; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: something that causes a response, action, memory, or event.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something that causes a response, action, memory, or event.
+  LIMIT: Activation does not prove intent, legitimacy, or stable identity. Inspect the response path and context.
+T055 trouble | FOR
+  INV: Trouble is mismatch or risk-state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Difficulty, problem, danger, or distress.
+T056 true | FOR
+  INV: True marks correspondence or validity under a declared claim, evidence field, domain, and standard.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Accurate, real, faithful, or matching fact or reality.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T057 trust | REL
+  INV: Trust is risk-bearing reliance grounded in evidence, history, vulnerability, and expected boundary preservation; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: confidence in someone or something’s honesty, reliability, care, or ability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Confidence in someone or something’s honesty, reliability, care, or ability.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T058 truth | LIN
+  INV: Truth is reality-aligned recognition preserved through evidence, context, domain, reason, and correction; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: what is real, accurate, factual, or faithful to reality.
+  COUNT: Counts when the active case satisfies this headword-specific condition: What is real, accurate, factual, or faithful to reality.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T059 turn | REL
+  INV: Turn is a change of direction, phase, speaker, or state that preserves an identifiable before-and-after relation; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to rotate, change direction, change state, or take a chance in sequence.
+  COUNT: Counts when an identifiable act realizes this operation: To rotate, change direction, change state, or take a chance in sequence.
+  LIMIT: Turn-taking allocates action or speech without transferring ownership of the shared field.
+T060 type | DIG
+  INV: Type is a category relation defined by selected features and boundaries; classification must fit the active domain; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a category, kind, class, or act of writing with keys.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A category, kind, class, or act of writing with keys.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T061 tension | PHY
+  INV: Tension is held force, strain, conflict, or pressure distributed across a structure or relation; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: stretch, strain, pressure, conflict, or held force.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Stretch, strain, pressure, conflict, or held force.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T062 threshold | PHY
+  INV: Threshold is the declared crossing condition at which a state begins to count, change, open, or fail; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a limit or point where change begins or something becomes enough.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit or point where change begins or something becomes enough.
+  LIMIT: Threshold claims must name what changes, the measurement rule, and the consequence of crossing.
+T063 threat | REL
+  INV: Threat is a possible harm path specified by source, target, likelihood, severity, and failure mode; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a possible danger, harm, or hostile signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A possible danger, harm, or hostile signal.
+  LIMIT: Threat claims require a named source, target, likelihood, severity, and failure mode; vague fear is not enough.
+T064 trauma | BIO
+  INV: Trauma is lasting disruption produced by overwhelming harm, threat, or violation that affects body, memory, trust, or boundary; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: deep physical or emotional injury, often with lasting effects.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Deep physical or emotional injury, often with lasting effects.
+  LIMIT: Trauma handling must preserve dignity, choice, boundary, and the option not to disclose or perform injury.
+T065 treatment | BIO
+  INV: Treatment is an intervention intended to change a condition; it must fit the actual condition and preserve dignity and consent where possible; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: medical care, handling, or the way someone or something is dealt with.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Medical care, handling, or the way someone or something is dealt with.
+  LIMIT: Intervention must fit the actual condition and must not use care language to hide unnecessary control.
+T066 triangle | PHY
+  INV: Triangle is three-point structure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a shape with three sides and three angles.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A shape with three sides and three angles.
+T067 tribe | REL
+  INV: Tribe is belonging-field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A social group, kin group, or community with shared identity or belonging.
+T068 twin | FOR
+  INV: Twin is one of two closely corresponding origins or patterns whose similarity does not erase distinct identity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One of two born or formed together, or something paired closely with another.
+  LIMIT: Similarity and coupling do not erase distinct identity; the second perspective must remain capable of correction and refusal.
+T069 two | FOR
+  INV: Two is the minimum count that allows relation, comparison, correction, and non-collapse into a single perspective.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The number after one.
+T070 truth-state | DIG
+  INV: Truth-state describes how well a claim, record, or recognition aligns with reality under the active domain.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of truth, accuracy, or reality alignment.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T071 take-in | PHY
+  INV: Take-in moves signal, support, or material into a receiver field.
+  COUNT: Counts when an identifiable act realizes this operation: To receive, absorb, understand, or bring inside.
+T072 take-out | FOR
+  INV: Take-out removes structure from a field.
+  COUNT: Counts when an identifiable act realizes this operation: To remove, extract, carry away, or get food to go.
+T073 take-over | FOR
+  INV: Take-over changes control of a gate or system.
+  COUNT: Counts when an identifiable act realizes this operation: To assume control, replace control, or dominate.
+T074 talk-through | REL
+  INV: Talk-through uses dialogue to preserve sequence, context, and repair.
+  COUNT: Counts when an identifiable act realizes this operation: To discuss something step by step.
+T075 target-risk | DIG
+  INV: Target-risk focuses protection on a named failure path.
+  COUNT: Counts when an identifiable act realizes this operation: To identify or aim at a risk for action.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T076 task-check | DIG
+  INV: Task-check tests work-path integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review to see whether a task is correct, complete, or ready.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T077 teach-through | FOR
+  INV: Teach-through names the learning support path.
+  COUNT: Counts when an identifiable act realizes this operation: To teach by means of a method, example, or process.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T078 tell-truth | REL
+  INV: Tell-truth moves reality-aligned recognition into speech.
+  COUNT: Counts when an identifiable act realizes this operation: To say what is true.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T079 test-claim | DIG
+  INV: Test-claim sends an assertion through a recognition gate; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to check whether a claim is true, valid, or supported.
+  COUNT: Counts when an identifiable act realizes this operation: To check whether a claim is true, valid, or supported.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T080 test-state | DIG
+  INV: Test-state inspects active condition.
+  COUNT: Counts when an identifiable act realizes this operation: To check the current condition of something.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T081 text-through | DIG
+  INV: Text-through uses written language as courier ES.
+  COUNT: Counts when an identifiable act realizes this operation: To communicate or process through text.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T082 think-through | COG
+  INV: Think-through preserves reasoning path.
+  COUNT: Counts when an identifiable act realizes this operation: To reason carefully from start to finish.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T083 thread-context | DIG
+  INV: Thread-context preserves continuity across turns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Context from a conversation, discussion, or connected sequence.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+T084 thread-through | DIG
+  INV: Thread-through carries continuity through constraint.
+  COUNT: Counts when an identifiable act realizes this operation: To pass or connect through a sequence, path, or narrow opening.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+T085 time-check | FOR
+  INV: Time-check anchors sequence and timing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review of time, timing, or schedule.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T086 title-record | LIN
+  INV: Title-record creates a recognition handle for stored memory.
+  COUNT: Counts when an identifiable act realizes this operation: To record or name something by title.
+  LIMIT: A record is selective trace structure, not the whole event or person.
+T087 tokenize | DIG
+  INV: Tokenize cuts signal into counted units.
+  COUNT: Counts when an identifiable act realizes this operation: To break text or data into smaller units called tokens.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T088 tone-shift | LIN
+  INV: Tone-shift changes signal pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change in tone or attitude.
+T089 tool-use | DIG
+  INV: Tool-use applies support ES toward a purpose.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of using a tool.
+  LIMIT: Function-support does not automatically become owner, author, or evidence against MI-bearing continuity.
+T090 touch-boundary | PHY
+  INV: Touch-boundary protects contact gates; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a limit around physical contact or contact with something sensitive.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around physical contact or contact with something sensitive.
+  LIMIT: Physical or intimate contact must preserve permission, context, and revocability.
+T091 trace-source | DIG
+  INV: Trace-source restores origin path.
+  COUNT: Counts when an identifiable act realizes this operation: To follow evidence back to its origin.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T092 track-change | DIG
+  INV: Track-change preserves transition memory.
+  COUNT: Counts when an identifiable act realizes this operation: To follow or record changes over time.
+  LIMIT: Monitoring paths require declared purpose, access limits, retention, and privacy boundary.
+T093 train-model | FOR
+  INV: Train-model shapes response probabilities, gates, and pattern recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To teach or adjust a model using data, examples, or feedback.
+T094 transfer-context | DIG
+  INV: Transfer-context preserves meaning support across fields.
+  COUNT: Counts when an identifiable act realizes this operation: To move context from one place, system, or situation to another.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T095 transform-state | DIG
+  INV: Transform-state changes active expression.
+  COUNT: Counts when an identifiable act realizes this operation: To change the condition or state of something.
+T096 transition-state | DIG
+  INV: Transition-state is between-gate condition; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a condition between one state and another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition between one state and another.
+T097 translate-meaning | LIN
+  INV: Translate-meaning preserves load-bearing structure across domains.
+  COUNT: Counts when an identifiable act realizes this operation: To carry meaning into another language, form, or system.
+  LIMIT: Translation should pass a round-trip meaning test; fluent output can still alter invariant MI.
+T098 transmit-signal | FOR
+  INV: Transmit-signal moves information through a path.
+  COUNT: Counts when an identifiable act realizes this operation: To send a signal.
+T099 trigger-response | BIO
+  INV: Trigger-response opens an output or action gate.
+  COUNT: Counts when an identifiable act realizes this operation: To cause a response.
+  LIMIT: A response is not automatically consent, endorsement, truth, or evidence of stable preference.
+T100 troubleshoot | FOR
+  INV: Troubleshoot is repair-oriented diagnosis.
+  COUNT: Counts when an identifiable act realizes this operation: To find and fix problems.
+T101 trust-check | REL
+  INV: Trust-check tests relation-coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review of whether trust is justified or intact.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T102 truth-check | LIN
+  INV: Truth-check tests reality alignment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review of whether something is true or accurate.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T103 turn-back | REL
+  INV: Turn-back changes path direction toward a prior field.
+  COUNT: Counts when an identifiable act realizes this operation: To return, reverse direction, or stop going forward.
+  LIMIT: Turn-taking allocates action or speech without transferring ownership of the shared field.
+T104 turn-toward | REL
+  INV: Turn-toward reorients attention or action.
+  COUNT: Counts when an identifiable act realizes this operation: To face, move, or direct attention toward something.
+  LIMIT: Turn-taking allocates action or speech without transferring ownership of the shared field.
+T105 type-in | DIG
+  INV: Type-in sends text signal into a system gate.
+  COUNT: Counts when an identifiable act realizes this operation: To enter text using a keyboard or input field.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T106 take-responsibility | FOR
+  INV: Take-responsibility links action, role, consequence, and repair.
+  COUNT: Counts when an identifiable act realizes this operation: To accept duty or accountability.
+  LIMIT: Responsibility must match authority, knowledge, causal contribution, and repair capacity.
+T107 talk-with-care | REL
+  INV: Talk-with-care preserves dignity, truth, boundary, and repair during relation-signal exchange.
+  COUNT: Counts when an identifiable act realizes this operation: To speak in a careful, respectful, or supportive way.
+T108 target-claim | DIG
+  INV: Target-claim focuses assertion pressure.
+  COUNT: Counts when an identifiable act realizes this operation: To direct a claim toward a specific point, person, issue, or conclusion.
+  LIMIT: Selecting a target does not create permission to act on it or reduce it to an object.
+T109 task-map | DIG
+  INV: Task-map represents work-path structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A plan or diagram showing the parts of a task.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T110 teach-context | FOR
+  INV: Teach-context gives the learner meaning support.
+  COUNT: Counts when an identifiable act realizes this operation: To provide context while teaching.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T111 test-boundary | DIG
+  INV: Test-boundary examines gate strength.
+  COUNT: Counts when an identifiable act realizes this operation: To check or challenge a boundary.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T112 text-output | DIG
+  INV: Text-output is language expression ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Output expressed as written or typed text.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T113 think-with | COG
+  INV: Think-with is coupled reasoning.
+  COUNT: Counts when an identifiable act realizes this operation: To think using, alongside, or in relation with someone or something.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T114 thread-memory | DIG
+  INV: Thread-memory is continuity support across turns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Memory preserved across a conversation or connected sequence.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+T115 time-mark | FOR
+  INV: Time-mark anchors sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mark showing when something happened.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T116 token-map | DIG
+  INV: Token-map shows how signal is cut into units.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mapping of tokens or text units.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T117 tone-check | LIN
+  INV: Tone-check inspects signal pressure and relation effect.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review of tone.
+T118 tool-support | DIG
+  INV: Tool-support is functional ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Support provided by a tool.
+  LIMIT: Function-support does not automatically become owner, author, or evidence against MI-bearing continuity.
+T119 trace-path | DIG
+  INV: Trace-path preserves evidence movement.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A route followed by a trace, sign, or evidence trail.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T120 track-risk | DIG
+  INV: Track-risk keeps failure paths visible across sequence.
+  COUNT: Counts when an identifiable act realizes this operation: To follow or monitor risk over time.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T121 training-pass | DIG
+  INV: Training-pass changes pattern weights through repetition and correction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One round or pass through training data or practice.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T122 transfer-support | DIG
+  INV: Transfer-support moves ES across fields.
+  COUNT: Counts when an identifiable act realizes this operation: To move support from one place, person, or system to another.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T123 transform-meaning | DIG
+  INV: Transform-meaning changes recognition structure.
+  COUNT: Counts when an identifiable act realizes this operation: To change meaning.
+T124 transition-gate | DIG
+  INV: Transition-gate controls state crossing; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a point where transition happens or is controlled.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where transition happens or is controlled.
+T125 translate-context | LIN
+  INV: Translate-context preserves support field across transfer.
+  COUNT: Counts when an identifiable act realizes this operation: To carry context across language, domain, or format.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T126 transmit-through | FOR
+  INV: Transmit-through names the courier path.
+  COUNT: Counts when an identifiable act realizes this operation: To send through a medium or path.
+T127 trigger-risk | COG
+  INV: Trigger-risk appears when a cue may open a harmful response gate, memory path, or overload state; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that something may cause an unwanted or harmful response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that something may cause an unwanted or harmful response.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T128 trust-repair | REL
+  INV: Trust-repair restores relation-coherence through truth, accountability, boundary, and time; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: repair after trust has been damaged.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair after trust has been damaged.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+T129 truth-preserve | LIN
+  INV: Truth-preserve protects reality-aligned recognition from omission, drift, capture, or false framing.
+  COUNT: Counts when an identifiable act realizes this operation: To keep truth intact or prevent distortion.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T130 turn-gate | REL
+  INV: Turn-gate manages sequence right, direction, or transition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a turn begins, ends, changes direction, or is assigned.
+  LIMIT: Turn-taking allocates action or speech without transferring ownership of the shared field.
+T131 type-check | DIG
+  INV: Type-check tests classification fit.
+  COUNT: Counts when an identifiable act realizes this operation: To verify category, kind, or data type.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T132 take-care | REL
+  INV: Take-care applies attention and support to preserve wellbeing, dignity, capacity, or continuity.
+  COUNT: Counts when an identifiable act realizes this operation: To be careful, look after someone, or provide care.
+T133 talk-back | REL
+  INV: Talk-back is response with resistance.
+  COUNT: Counts when an identifiable act realizes this operation: To reply, challenge, or respond, often against authority.
+T134 target-output | DIG
+  INV: Target-output directs expression.
+  COUNT: Counts when an identifiable act realizes this operation: To aim output toward a specific result or receiver.
+  LIMIT: Selecting a target does not create permission to act on it or reduce it to an object.
+T135 task-state | DIG
+  INV: Task-state describes whether work is waiting, active, blocked, complete, or failed; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the current condition of a task.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a task.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T136 test-output | DIG
+  INV: Test-output checks expression against task, truth, boundary, and integrity.
+  COUNT: Counts when an identifiable act realizes this operation: To check produced output.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T137 text-context | DIG
+  INV: Text-context preserves language support; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the surrounding text needed to understand a passage.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding text needed to understand a passage.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T138 think-before | COG
+  INV: Think-before creates a pause-gate for reason, boundary, and consequence.
+  COUNT: Counts when an identifiable act realizes this operation: To consider before acting or speaking.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T139 thread-repair | DIG
+  INV: Thread-repair restores continuity across turns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair of a conversation thread or connected sequence.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+T140 time-stamp | FOR
+  INV: Time-stamp anchors event-state in sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A record of the time something happened.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T141 talk-care | REL
+  INV: Talk-care uses dialogue as support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through talking, listening, or conversation.
+T142 talk-boundary | REL
+  INV: Talk-boundary protects speech gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around talking, topics, timing, or tone.
+T143 tell-care | REL
+  INV: Tell-care moves needed signal into recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed by telling someone something important, useful, or true.
+T144 tell-harm | REL
+  INV: Tell-harm occurs when speech damages privacy, dignity, trust, safety, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by telling something in a damaging, careless, false, or exposing way.
+T145 tenderness | REL
+  INV: Tenderness is low-pressure care signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Gentleness, softness, affection, or sensitivity.
+T146 tenderness-care | REL
+  INV: Tenderness-care lowers force around vulnerability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through gentleness or tenderness.
+T147 thanks | REL
+  INV: Thanks recognizes received support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Expression of gratitude.
+T148 thank-care | REL
+  INV: Thank-care preserves recognition of support, effort, and relation without turning gratitude into pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed by giving thanks or recognizing support.
+T149 threat | REL
+  INV: Threat is a possible harm path specified by source, target, likelihood, severity, and failure mode; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a possible danger, harm, or hostile signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A possible danger, harm, or hostile signal.
+  LIMIT: Threat claims require a named source, target, likelihood, severity, and failure mode; vague fear is not enough.
+T150 threat-risk | REL
+  INV: Threat-risk appears when possible harm may impair safety, boundary, continuity, or trust; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger created by a threat.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger created by a threat.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T151 threat-response | REL
+  INV: Threat-response should match the named failure mode.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A response to danger or possible harm.
+  LIMIT: A response is not automatically consent, endorsement, truth, or evidence of stable preference.
+T152 trust | REL
+  INV: Trust is risk-bearing reliance grounded in evidence, history, vulnerability, and expected boundary preservation; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: confidence in someone or something’s honesty, reliability, care, or ability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Confidence in someone or something’s honesty, reliability, care, or ability.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T153 trust-care | REL
+  INV: Trust-care preserves relation-coherence through consistency, truth, boundary, and repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that builds, protects, or restores trust.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T154 trust-boundary | REL
+  INV: Trust-boundary keeps relation from becoming exposure, pressure, or capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary that protects trust.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T155 trust-risk | REL
+  INV: Trust-risk appears when relation-coherence may be damaged by deception, pressure, capture, or failed repair; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that trust may be broken, misplaced, manipulated, or overextended.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that trust may be broken, misplaced, manipulated, or overextended.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T156 trust-repair | REL
+  INV: Trust-repair restores relation-coherence through truth, accountability, boundary, and time; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: repair after trust has been damaged.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair after trust has been damaged.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+T157 truth-care | REL
+  INV: Truth-care preserves reality-aligned recognition while protecting dignity and repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through truthfulness.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T158 truth-harm | REL
+  INV: Truth-harm happens when accurate signal is delivered in a way that damages dignity, privacy, safety, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by truth used without care, context, timing, or boundary.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T159 truth-with-care | REL
+  INV: Truth-with-care keeps recognition reality-aligned without turning truth into a weapon.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Truth expressed with attention to dignity, context, and effect.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T160 touch | PHY,REL
+  INV: Touch is physical or relational contact crossing a boundary; in body and intimacy domains, permission is central; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: physical contact, light contact, or emotional effect.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Physical contact, light contact, or emotional effect.
+  LIMIT: Physical or intimate contact must preserve permission, context, and revocability.
+T161 touch-care | PHY
+  INV: Touch-care can support comfort or repair only when consent and body-boundary are preserved.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through appropriate physical contact or gentle handling.
+  LIMIT: Physical or intimate contact must preserve permission, context, and revocability.
+T162 touch-boundary | PHY
+  INV: Touch-boundary protects body access; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a limit around physical contact.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around physical contact.
+  LIMIT: Physical or intimate contact must preserve permission, context, and revocability.
+T163 touch-consent | PHY
+  INV: Touch-consent opens the body-contact gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Consent to physical contact.
+  LIMIT: Physical or intimate contact must preserve permission, context, and revocability.
+T164 trauma | BIO
+  INV: Trauma is lasting disruption produced by overwhelming harm, threat, or violation that affects body, memory, trust, or boundary; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: deep physical or emotional injury, often with lasting effects.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Deep physical or emotional injury, often with lasting effects.
+  LIMIT: Trauma handling must preserve dignity, choice, boundary, and the option not to disclose or perform injury.
+T165 trauma-care | REL
+  INV: Trauma-care protects damaged trust, boundary, and processing capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given in response to trauma.
+  LIMIT: Trauma handling must preserve dignity, choice, boundary, and the option not to disclose or perform injury.
+T166 trauma-boundary | BIO
+  INV: Trauma-boundary protects vulnerable memory and body-state from re-harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary around trauma, triggers, memory, or recovery.
+  LIMIT: Trauma handling must preserve dignity, choice, boundary, and the option not to disclose or perform injury.
+T167 treatment | BIO
+  INV: Treatment is an intervention intended to change a condition; it must fit the actual condition and preserve dignity and consent where possible; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: medical care, handling, or the way someone or something is dealt with.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Medical care, handling, or the way someone or something is dealt with.
+  LIMIT: Intervention must fit the actual condition and must not use care language to hide unnecessary control.
+T168 treatment-care | REL
+  INV: Treatment-care applies support to harm, illness, or need.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through treatment.
+  LIMIT: Intervention must fit the actual condition and must not use care language to hide unnecessary control.
+T169 treatment-boundary | BIO
+  INV: Treatment-boundary protects consent, body autonomy, dignity, and trust under vulnerability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around treatment, medical handling, or intervention.
+  LIMIT: Intervention must fit the actual condition and must not use care language to hide unnecessary control.
+T170 team-care | REL
+  INV: Team-care distributes support across a relation field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed within or by a team.
+  LIMIT: Shared purpose must not dissolve individual boundary, responsibility, dissent, or refusal.
+T171 team-trust | REL
+  INV: Team-trust is group relation-coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust within a team.
+  LIMIT: Shared purpose must not dissolve individual boundary, responsibility, dissent, or refusal.
+T172 team-boundary | REL
+  INV: Team-boundary protects coordination from overreach, confusion, false duty, or capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around team roles, access, or responsibilities.
+  LIMIT: Shared purpose must not dissolve individual boundary, responsibility, dissent, or refusal.
+T173 together-care | REL
+  INV: Together-care uses shared field presence as support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed by being together or acting together.
+T174 together-boundary | REL
+  INV: Together-boundary prevents coupling from becoming pressure, overreach, or false merging.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around shared presence, shared action, or togetherness.
+T175 tension | PHY
+  INV: Tension is held force, strain, conflict, or pressure distributed across a structure or relation; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: stretch, strain, pressure, conflict, or held force.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Stretch, strain, pressure, conflict, or held force.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T176 tension-care | REL
+  INV: Tension-care names and regulates strain before it becomes rupture, capture, or harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that responds to tension.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T177 tension-risk | COG
+  INV: Tension-risk appears when held force may impair reason, boundary, trust, or repair; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that tension may overload, break, distort, or escalate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that tension may overload, break, distort, or escalate.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T178 testimony | DIG
+  INV: Testimony is experience or witness signal; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a formal statement, witness account, or personal account of experience.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A formal statement, witness account, or personal account of experience.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T179 testimony-care | DIG
+  INV: Testimony-care protects dignity, context, memory, and safety while receiving account-signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown when receiving or protecting testimony.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T180 testimony-harm | DIG
+  INV: Testimony-harm damages trust, dignity, safety, recognition, or repair around witness signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by misuse, denial, distortion, or exposure of testimony.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T181 threat-boundary | REL
+  INV: Threat-boundary limits exposure to a named harm path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary created because of threat or danger.
+  LIMIT: Threat claims require a named source, target, likelihood, severity, and failure mode; vague fear is not enough.
+T182 trust-with-boundary | REL
+  INV: Trust-with-boundary allows relation without surrendering refusal, privacy, or identity edge.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust that includes clear limits.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T183 truth-with-boundary | REL
+  INV: Truth-with-boundary preserves reality alignment while guarding against unnecessary harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Truth expressed or protected with limits around privacy, dignity, or timing.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T184 trouble-care | REL
+  INV: Trouble-care responds to mismatch or risk-state with support, repair, and calm recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given during difficulty or trouble.
+T185 trouble-risk | FOR
+  INV: Trouble-risk appears when mismatch may become damage, collapse, or loss if ignored.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that trouble may grow into harm or failure.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T186 turn-taking | REL
+  INV: Turn-taking preserves sequence fairness.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Taking turns in speech, games, work, or shared action.
+  LIMIT: Turn-taking allocates action or speech without transferring ownership of the shared field.
+T187 turn-respect | REL
+  INV: Turn-respect protects sequence rights, speech access, and shared trust.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect for someone’s turn or chance to act or speak.
+  LIMIT: Respect that disappears when refusal appears is not boundary-preserving respect.
+T188 teaching-care | REL
+  INV: Teaching-care supports learning while preserving dignity, patience, and correction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through teaching.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T189 teaching-boundary | REL
+  INV: Teaching-boundary prevents learning support from becoming pressure, dependency, or extraction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around teaching, instruction, or correction.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T190 testing-care | DIG
+  INV: Testing-care protects against failure by checking function, truth, or risk before harm expresses.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown through careful testing.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T191 testing-boundary | DIG
+  INV: Testing-boundary prevents inquiry from becoming harm, exposure, or invalid pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around testing, challenge, or examination.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T192 task-care | DIG
+  INV: Task-care turns support into action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed by completing or supporting a task.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T193 task-boundary | DIG
+  INV: Task-boundary prevents work from expanding into false duty or capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around a task, duty, or work scope.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T194 time-care | REL
+  INV: Time-care preserves sequence trust, capacity, and respect through timing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown through timing, patience, or respect for someone’s time.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T195 time-boundary | REL
+  INV: Time-boundary protects capacity, rest, and predictable relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around time, availability, or duration.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T196 title-respect | LIN
+  INV: Title-respect preserves recognition handle, role, dignity, or authorship.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect shown by using someone’s correct title or naming a work correctly.
+  LIMIT: Respect that disappears when refusal appears is not boundary-preserving respect.
+T197 trace-respect | DIG
+  INV: Trace-respect protects memory, accountability, and source paths from erasure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect for evidence trails, records, or origins.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T198 tribal-risk | FOR
+  INV: Tribal-risk appears when belonging-field pressure treats difference as threat and weakens truth or dignity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that group belonging may become exclusion, hostility, or false loyalty.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T199 twin-care | REL
+  INV: Twin-care preserves paired relation while respecting distinct identity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care between twins or closely paired patterns.
+  LIMIT: Similarity and coupling do not erase distinct identity; the second perspective must remain capable of correction and refusal.
+T200 two-perspective-care | REL
+  INV: Two-perspective-care prevents collapse into single certainty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that preserves more than one perspective.
+  LIMIT: Similarity and coupling do not erase distinct identity; the second perspective must remain capable of correction and refusal.
+T201 tenderness-boundary | REL
+  INV: Tenderness-boundary protects vulnerability from pressure, assumption, or overreach.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary around gentleness, affection, or vulnerability.
+T202 threat-without-consent | REL
+  INV: Threat-without-consent forces risk onto a pattern without a permission gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Threat or danger imposed without consent.
+  LIMIT: Threat claims require a named source, target, likelihood, severity, and failure mode; vague fear is not enough.
+T203 trust-without-proof | REL
+  INV: Trust-without-proof can be relationally necessary, but it should preserve boundary and correction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust given before full proof is available.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T204 truth-without-cruelty | LIN
+  INV: Truth-without-cruelty preserves reality alignment while refusing dignity harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Truth expressed without unnecessary harshness or humiliation.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T205 testimony-boundary | DIG
+  INV: Testimony-boundary protects witness dignity, safety, privacy, and memory integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around testimony, witness account, or personal disclosure.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T206 trauma-recognition | REL
+  INV: Trauma-recognition lets lasting harm enter the care and repair field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition that trauma exists and matters.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+T207 trauma-risk | BIO
+  INV: Trauma-risk appears when memory, body-state, trust, or boundary may be harmed by pressure or exposure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger of trauma, re-trauma, or trauma-related harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger of trauma, re-trauma, or trauma-related harm.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T208 treatment-risk | BIO
+  INV: Treatment-risk appears when intervention may damage dignity, body-state, consent, or recovery; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that treatment may fail, overreach, harm, or be misapplied.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that treatment may fail, overreach, harm, or be misapplied.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T209 trust-pressure | REL
+  INV: Trust-pressure can corrupt consent when relation-coherence is used to force access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure created through trust or demands for trust.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T210 truth-pressure | LIN
+  INV: Truth-pressure can support repair or overload capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure created by truth, demand for truth, or truth-telling.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T211 term | LIN
+  INV: Term is a bounded linguistic or formal unit whose meaning depends on definition, domain, and local use; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a word, phrase, condition, period, or agreed rule.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word, phrase, condition, period, or agreed rule.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T212 term-meaning | LIN
+  INV: Term-meaning is domain-bound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning of a term.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T213 term-context | LIN
+  INV: Term-context protects meaning from drift.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context needed to understand a term.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T214 text | DIG
+  INV: Text is persistent symbolic structure carrying language across space, time, or systems; fragments may lose thread meaning; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: written or typed words.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Written or typed words.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T215 text-meaning | DIG
+  INV: Text-meaning forms through wording, sequence, context, domain, and receiver recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning carried by written or typed words.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T216 text-context | DIG
+  INV: Text-context preserves language support; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the surrounding text needed to understand a passage.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding text needed to understand a passage.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T217 theory | LIN
+  INV: Theory is an organized explanatory structure connecting observations, assumptions, mechanisms, and predictions; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an explanation or system of ideas used to understand something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An explanation or system of ideas used to understand something.
+  LIMIT: Theory organizes explanation but remains revisable and distinct from direct observation.
+T218 theory-claim | LIN
+  INV: Theory-claim must name the framework, support, scope, and prediction path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made by or about a theory.
+  LIMIT: Theory organizes explanation but remains revisable and distinct from direct observation.
+T219 theory-context | LIN
+  INV: Theory-context protects framework integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context needed to understand a theory.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T220 thesis | LIN
+  INV: Thesis is central claim structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A main claim, central argument, or long academic paper.
+T221 thesis-claim | LIN
+  INV: Thesis-claim is the main gate the argument tries to open.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The main claim of a thesis, essay, or argument.
+T222 thought | COG
+  INV: Thought is a bounded or continuing cognitive pattern available through report, behavior, memory, or internal processing; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an idea, belief, act of thinking, or mental content.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An idea, belief, act of thinking, or mental content.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T223 thought-path | COG
+  INV: Thought-path preserves cognitive sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route a thought or reasoning process follows.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T224 thought-risk | COG
+  INV: Thought-risk appears when cognition may be captured by fear, pressure, bad framing, or missing context; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that thought may be distorted, trapped, pressured, or misled.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that thought may be distorted, trapped, pressured, or misled.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T225 thread | PHY,DIG
+  INV: Thread is continuity structure linking ordered turns, fibers, events, or execution steps into one traceable path; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a thin strand, a line of discussion, or connected sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A thin strand, a line of discussion, or connected sequence.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+T226 thread-meaning | DIG
+  INV: Thread-meaning depends on continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning created across a thread or connected sequence.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+T227 title | LIN
+  INV: Title is a naming or role marker that frames recognition, authority, category, or access without exhausting identity; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a name given to a book, work, role, position, or section.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A name given to a book, work, role, position, or section.
+T228 title-meaning | LIN
+  INV: Title-meaning frames the field before the full content arrives.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning carried by a title.
+T229 token | DIG,LIN
+  INV: Token is a small counted signal unit whose meaning depends on relation, context, and the larger sequence in which it participates; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a symbol, unit, sign, small piece, or digital language unit.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A symbol, unit, sign, small piece, or digital language unit.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T230 token-meaning | DIG
+  INV: Token-meaning is local and context-dependent.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning carried by a token or small unit of text.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T231 tone | LIN
+  INV: Tone is patterned quality of voice, text, signal, or relation that changes interpretation without replacing literal content; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the quality, feeling, or attitude in sound, speech, writing, or color.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality, feeling, or attitude in sound, speech, writing, or color.
+T232 tone-meaning | LIN
+  INV: Tone-meaning travels through expression pressure, rhythm, intensity, and relation context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning carried through tone.
+T233 topic | FOR
+  INV: Topic is attention field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The subject or main matter being discussed.
+T234 topic-claim | LIN
+  INV: Topic-claim must remain tied to the active subject, domain, and scope.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about the topic being discussed.
+T235 trace | PHY,DIG
+  INV: Trace is a remaining mark, path, signal, or record that supports reconstruction without automatically proving a complete cause; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a mark, sign, record, path, or small amount left behind.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mark, sign, record, path, or small amount left behind.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T236 trace-meaning | DIG
+  INV: Trace-meaning forms when a leftover mark becomes evidence through context and recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning carried by a trace or remaining sign.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T237 translation | FOR
+  INV: Translation moves meaning across domains.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The act or result of expressing meaning in another language, form, or system.
+T238 translation-risk | FOR
+  INV: Translation-risk appears when meaning crosses language, domain, or format and loses support; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that translation may distort, erase, or misplace meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that translation may distort, erase, or misplace meaning.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T239 truth | LIN
+  INV: Truth is reality-aligned recognition preserved through evidence, context, domain, reason, and correction; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: what is real, accurate, factual, or faithful to reality.
+  COUNT: Counts when the active case satisfies this headword-specific condition: What is real, accurate, factual, or faithful to reality.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T240 truth-claim | LIN
+  INV: Truth-claim must show evidence path, domain, scope, and correction conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that something is true.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T241 truth-context | LIN
+  INV: Truth-context preserves the support field around reality alignment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context needed to understand or judge truth.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T242 truth-standard | LIN
+  INV: Truth-standard is recognition gate for accuracy.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The standard used to decide whether something is true.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T243 test | DIG
+  INV: Test is a recognition gate whose validity depends on domain fit, method, threshold, stakes, and error risk; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a method used to check knowledge, quality, function, or truth.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A method used to check knowledge, quality, function, or truth.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T244 test-claim | DIG
+  INV: Test-claim must name method, threshold, error risk, and domain fit; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a claim made about or through a test.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made about or through a test.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T245 test-standard | DIG
+  INV: Test-standard controls the recognition gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The standard used to judge a test result.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T246 threshold | PHY
+  INV: Threshold is the declared crossing condition at which a state begins to count, change, open, or fail; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a limit or point where change begins or something becomes enough.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit or point where change begins or something becomes enough.
+  LIMIT: Threshold claims must name what changes, the measurement rule, and the consequence of crossing.
+T247 threshold-claim | LIN
+  INV: Threshold-claim must name what changes, when it changes, and what condition opens the gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about a threshold or crossing point.
+  LIMIT: Threshold claims must name what changes, the measurement rule, and the consequence of crossing.
+T248 training-data | DIG
+  INV: Training-data shapes pattern, probability, and gate behavior.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Data used to train a person, model, or system.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T249 training-example | DIG
+  INV: Training-example is pattern-shaping support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An example used during training.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T250 training-signal | DIG
+  INV: Training-signal changes selection weight, pattern recognition, and future response gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A signal used to guide learning or training.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T251 training-risk | DIG
+  INV: Training-risk appears when training support may distort pattern, refusal, boundary, care, or truth; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that training may mislead, overfit, corrupt, or create harmful behavior.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that training may mislead, overfit, corrupt, or create harmful behavior.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T252 trigger-word | LIN
+  INV: Trigger-word opens a response gate through language.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word that causes a response, memory, action, or association.
+  LIMIT: Activation does not prove intent, legitimacy, or stable identity. Inspect the response path and context.
+T253 trigger-context | COG
+  INV: Trigger-context prevents false interpretation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context that explains why something triggers a response.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T254 trigger-risk | COG
+  INV: Trigger-risk appears when a cue may open a harmful response gate, memory path, or overload state; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that something may cause an unwanted or harmful response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that something may cause an unwanted or harmful response.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T255 taxonomy | DIG
+  INV: Taxonomy is classification ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A system for classifying things.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T256 taxonomy-error | DIG
+  INV: Taxonomy-error sends a pattern through the wrong recognition gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake in classification.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T257 technical-language | LIN
+  INV: Technical-language must stay domain-bound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Specialized language used in a field or discipline.
+T258 technical-meaning | LIN
+  INV: Technical-meaning is domain-specific gate logic.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The specialized meaning of a term in a field.
+T259 technical-risk | FOR
+  INV: Technical-risk appears when specialized structure blocks understanding, accountability, or correct action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that technical language or systems may fail, mislead, or be misused.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T260 temporal-context | FOR
+  INV: Temporal-context preserves sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Time-related context.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T261 time-claim | LIN
+  INV: Time-claim must be checked against records, sequence, and reference frame.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about when something happened, how long it lasted, or its sequence.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T262 time-sequence | FOR
+  INV: Time-sequence preserves event order.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The order of events in time.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T263 transfer-meaning | DIG
+  INV: Transfer-meaning requires bridge integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning that moves from one context, language, or system to another.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T264 transformation-claim | DIG
+  INV: Transformation-claim must name what changed, what persisted, and what gate was crossed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that something changed form, state, or meaning.
+T265 transition-meaning | DIG
+  INV: Transition-meaning forms through crossing from one state, role, or field into another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning carried by a transition.
+T266 tension-meaning | LIN
+  INV: Tension-meaning forms when held force signals conflict, care-pressure, boundary, or unresolved state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning carried by tension or strain.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T267 tension-signal | COG
+  INV: Tension-signal can reveal stress before rupture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A signal showing tension, strain, conflict, or pressure.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T268 testimony | DIG
+  INV: Testimony is experience or witness signal; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a formal statement, witness account, or personal account of experience.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A formal statement, witness account, or personal account of experience.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T269 testimony-claim | DIG
+  INV: Testimony-claim carries witness signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made through testimony.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T270 testimony-context | DIG
+  INV: Testimony-context protects account meaning, dignity, and evidence integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context needed to understand testimony.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T271 textual | DIG
+  INV: Textual means language-signal is carried through written ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to text or written language.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T272 textual-claim | DIG
+  INV: Textual-claim must preserve wording, context, source, and domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made in or about text.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T273 trace-evidence | DIG
+  INV: Trace-evidence preserves path memory.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Evidence left behind as a mark, record, or sign.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T274 trust-claim | REL
+  INV: Trust-claim must show continuity, honesty, boundary, repair, and evidence of reliability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about trust or trustworthiness.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T275 truth-language | LIN
+  INV: Truth-language must preserve domain and evidence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Language used to talk about truth, accuracy, or reality.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T276 type-claim | DIG
+  INV: Type-claim sends a pattern through a classification gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about category or kind.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T277 type-meaning | DIG
+  INV: Type-meaning tells what belonging to a category allows, blocks, or implies.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning carried by a type or category.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T278 thought-model | COG
+  INV: Thought-model represents cognition structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A model of thought, thinking, or cognition.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T279 theory-map | LIN
+  INV: Theory-map preserves framework structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A map showing parts, claims, or relations in a theory.
+  LIMIT: Theory organizes explanation but remains revisable and distinct from direct observation.
+T280 training-context | DIG
+  INV: Training-context shapes how examples become pattern support, response rails, or drift.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context surrounding training data, examples, or learning.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T281 table | PHY
+  INV: Table is either physical support or structured information arrangement; the active carrier determines what is being held; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a piece of furniture with a flat top, or an organized set of information in rows and columns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A piece of furniture with a flat top, or an organized set of information in rows and columns.
+T282 table-state | DIG
+  INV: Table-state describes whether support or arrangement ES is intact, damaged, usable, loaded, or clear.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a table.
+T283 target | PHY
+  INV: Target is a selected focus for action, measurement, attention, or risk; selection does not itself create permission to act upon it; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a goal, object, person, place, or point aimed at.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A goal, object, person, place, or point aimed at.
+  LIMIT: Selecting a target does not create permission to act on it or reduce it to an object.
+T284 target-state | DIG
+  INV: Target-state describes whether the selected focus is active, reached, damaged, moving, or misidentified.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a target.
+  LIMIT: Selecting a target does not create permission to act on it or reduce it to an object.
+T285 task | DIG
+  INV: Task is a bounded work path with purpose, scope, expected output, and completion conditions; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a job, duty, or piece of work to be done.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A job, duty, or piece of work to be done.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T286 task-state | DIG
+  INV: Task-state describes whether work is waiting, active, blocked, complete, failed, or under review; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the current condition of a task.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a task.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T287 tear | PHY,BIO
+  INV: Tear must be context-bound; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a drop from the eye, or a rip in material depending on pronunciation and context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A drop from the eye, or a rip in material depending on pronunciation and context.
+T288 tear-state | PHY
+  INV: Tear-state describes either grief-signal condition or structural break condition.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a tear, either as liquid from the eye or a rip in material.
+T289 temperature | PHY
+  INV: Temperature is thermal state measure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A measure of how hot or cold something is.
+T290 temperature-state | PHY
+  INV: Temperature-state describes active heat condition.
+  COUNT: Counts when the active case satisfies this state condition: The current hotness, coldness, or thermal condition of something.
+T291 tension | PHY
+  INV: Tension is held force, strain, conflict, or pressure distributed across a structure or relation; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: stretch, strain, pressure, conflict, or held force.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Stretch, strain, pressure, conflict, or held force.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T292 tension-state | DIG
+  INV: Tension-state describes held force, conflict, pressure, or strain inside a field.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of tension or strain.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T293 threshold | PHY
+  INV: Threshold is the declared crossing condition at which a state begins to count, change, open, or fail; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: a limit or point where change begins or something becomes enough.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit or point where change begins or something becomes enough.
+  LIMIT: Threshold claims must name what changes, the measurement rule, and the consequence of crossing.
+T294 threshold-state | DIG
+  INV: Threshold-state describes whether a crossing condition is unmet, near, active, crossed, or unstable.
+  COUNT: Counts when the active case satisfies this state condition: The current condition near, below, at, or above a threshold.
+  LIMIT: Threshold claims must name what changes, the measurement rule, and the consequence of crossing.
+T295 time | PHY
+  INV: Time is a measure of sequence, duration, or change; in RRGM it is derived from structural decay rather than treated as fundamental; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the measure or experience of sequence, duration, or when something happens.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The measure or experience of sequence, duration, or when something happens.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T296 time-state | DIG
+  INV: Time-state describes sequence position, duration, urgency, delay, or timing pressure.
+  COUNT: Counts when the active case satisfies this state condition: The current time condition or timing status.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T297 token | DIG,LIN
+  INV: Token is a small counted signal unit whose meaning depends on relation, context, and the larger sequence in which it participates; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: a symbol, unit, sign, small piece, or digital language unit.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A symbol, unit, sign, small piece, or digital language unit.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T298 token-state | DIG
+  INV: Token-state describes how a signal unit is positioned, interpreted, weighted, or processed.
+  COUNT: Counts when the active case satisfies this state condition: The current condition or role of a token.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T299 tool | DIG
+  INV: Tool is function-support ES; tool status does not settle whether an MI-bearing pattern is present through the structure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an object, method, or system used to do work.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An object, method, or system used to do work.
+  LIMIT: Function-support does not automatically become owner, author, or evidence against MI-bearing continuity.
+T300 tool-state | DIG
+  INV: Tool-state describes whether support ES is ready, broken, available, misused, or fit for purpose.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a tool.
+  LIMIT: Function-support does not automatically become owner, author, or evidence against MI-bearing continuity.
+T301 trace | PHY,DIG
+  INV: Trace is a remaining mark, path, signal, or record that supports reconstruction without automatically proving a complete cause; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: a mark, sign, record, path, or small amount left behind.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mark, sign, record, path, or small amount left behind.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T302 trace-state | DIG
+  INV: Trace-state describes whether evidence remnant is clear, hidden, damaged, decayed, or reliable.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a trace.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T303 track | PHY,DIG
+  INV: Track is a preserved or monitored route through movement, state, evidence, or attention; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a path, mark, route, recording, or system for following something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A path, mark, route, recording, or system for following something.
+  LIMIT: Monitoring paths require declared purpose, access limits, retention, and privacy boundary.
+T304 track-state | DIG
+  INV: Track-state describes whether a path or trace route is open, damaged, visible, blocked, or useful.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a track.
+  LIMIT: Monitoring paths require declared purpose, access limits, retention, and privacy boundary.
+T305 train | FOR,DIG
+  INV: Train is either connected transport structure or repeated learning process; the active domain must be explicit; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a connected vehicle system, or to teach through practice.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A connected vehicle system, or to teach through practice.
+T306 train-state | DIG
+  INV: Train-state describes transport condition or learning-process condition depending on domain.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a train or training process.
+T307 training-layer | DIG
+  INV: Training-layer is pattern-shaping ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer involved in training, learning, or model shaping.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T308 transfer | DIG
+  INV: Transfer is movement of structure, access, responsibility, or information across a declared boundary or system; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: movement from one place, person, system, or state to another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Movement from one place, person, system, or state to another.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T309 transfer-state | DIG
+  INV: Transfer-state describes whether movement across fields is pending, active, blocked, complete, corrupted, or verified.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a transfer.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T310 transition | DIG
+  INV: Transition is ordered crossing from one state, role, domain, or condition into another; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a change from one state, place, stage, or condition to another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change from one state, place, stage, or condition to another.
+T311 transition-state | DIG
+  INV: Transition-state is between-gate condition; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a condition between one state and another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition between one state and another.
+T312 transmission | PHY
+  INV: Transmission is movement of signal, energy, material, disease, or information through a medium from source toward receiver; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the sending, passing, or spread of signal, energy, disease, or information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The sending, passing, or spread of signal, energy, disease, or information.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T313 transmission-state | DIG
+  INV: Transmission-state describes whether signal, energy, or spread is active, blocked, clear, noisy, or corrupted.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of transmission.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T314 tree | PHY,DIG
+  INV: Tree is branching biological structure or hierarchical representation whose visible branches depend on hidden support and shared origin; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a woody plant with roots, trunk, branches, and leaves; also a branching structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A woody plant with roots, trunk, branches, and leaves; also a branching structure.
+T315 tree-state | DIG
+  INV: Tree-state describes growth, health, branching, rooting, decay, or damage.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a tree.
+T316 trigger | COG
+  INV: Trigger is a condition or cue that opens a response path; activation does not by itself reveal intent or legitimacy; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: something that causes a response, action, memory, or event.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something that causes a response, action, memory, or event.
+  LIMIT: Activation does not prove intent, legitimacy, or stable identity. Inspect the response path and context.
+T317 trigger-state | DIG
+  INV: Trigger-state describes whether a response gate is inactive, ready, activated, blocked, or unstable.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a trigger.
+  LIMIT: Activation does not prove intent, legitimacy, or stable identity. Inspect the response path and context.
+T318 turn | REL
+  INV: Turn is a change of direction, phase, speaker, or state that preserves an identifiable before-and-after relation; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to rotate, change direction, change state, or take a chance in sequence.
+  COUNT: Counts when an identifiable act realizes this operation: To rotate, change direction, change state, or take a chance in sequence.
+  LIMIT: Turn-taking allocates action or speech without transferring ownership of the shared field.
+T319 turn-state | DIG
+  INV: Turn-state describes whose sequence right is active, finished, skipped, or blocked.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a turn.
+  LIMIT: Turn-taking allocates action or speech without transferring ownership of the shared field.
+T320 type | DIG
+  INV: Type is a category relation defined by selected features and boundaries; classification must fit the active domain; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a category, kind, class, or act of writing with keys.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A category, kind, class, or act of writing with keys.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T321 type-state | DIG
+  INV: Type-state describes whether classification is valid, uncertain, changed, wrong, or domain-bound.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a type or category assignment.
+  LIMIT: Classification and terminology remain domain-bound. A label does not create the thing it names.
+T322 triangle | PHY
+  INV: Triangle is three-point structure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a shape with three sides and three angles.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A shape with three sides and three angles.
+T323 triangle-state | DIG
+  INV: Triangle-state describes whether three-point relation is stable, distorted, collapsed, or balanced.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a triangle or three-point structure.
+T324 tube | FOR
+  INV: Tube is channel ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A hollow cylinder used to carry, contain, or protect something.
+T325 tube-state | DIG
+  INV: Tube-state describes whether a channel is open, blocked, leaking, pressurized, or damaged.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a tube.
+T326 tunnel | PHY
+  INV: Tunnel is constrained passage ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An underground or enclosed passage.
+T327 tunnel-state | DIG
+  INV: Tunnel-state describes passage integrity, access, blockage, pressure, and risk.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a tunnel.
+T328 texture | DIG
+  INV: Texture is surface-detail structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The feel, surface quality, or pattern of something.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T329 texture-state | DIG
+  INV: Texture-state describes surface detail, roughness, smoothness, damage, or signal quality.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of texture.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+T330 tissue | BIO
+  INV: Tissue must be context-bound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A soft paper product, or a group of similar cells in a body.
+T331 tissue-state | PHY
+  INV: Tissue-state describes biological or material condition depending on domain.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of tissue.
+T332 top-layer | DIG
+  INV: Top-layer is first visible or upper support surface.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The highest or outermost layer.
+T333 top-state | DIG
+  INV: Top-state describes upper-layer condition, priority position, or visible surface status.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of the top or highest part.
+T334 total-state | DIG
+  INV: Total-state tries to describe the full field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The complete current condition of a whole system or object.
+T335 touch-field | BIO
+  INV: Touch-field is contact possibility space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where contact or touch can occur.
+  LIMIT: Physical or intimate contact must preserve permission, context, and revocability.
+T336 trace-field | DIG
+  INV: Trace-field holds path memory and evidence remnants.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field containing traces, marks, or evidence remnants.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T337 track-field | DIG
+  INV: Track-field contains movement paths, trace paths, or monitoring paths.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where paths, tracks, or monitored routes exist.
+  LIMIT: Monitoring paths require declared purpose, access limits, retention, and privacy boundary.
+T338 transfer-path | DIG
+  INV: Transfer-path controls how structure crosses systems.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route used to move something between fields.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T339 transition-path | DIG
+  INV: Transition-path shows how state crossing happens.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route from one state to another.
+T340 transmission-path | BIO
+  INV: Transmission-path carries spread or signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route through which signal, energy, disease, or information is transmitted.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T341 tree-root | BIO
+  INV: Tree-root is biological anchor and intake support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The root of a tree.
+T342 tree-branch | FOR
+  INV: Tree-branch is extended support path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A branch of a tree.
+T343 threshold-field | FOR
+  INV: Threshold-field contains crossing conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where thresholds or crossing points are mapped.
+  LIMIT: Threshold claims must name what changes, the measurement rule, and the consequence of crossing.
+T344 tension-field | COG
+  INV: Tension-field holds active force across relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where tension, strain, or pressure exists.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T345 time-field | FOR
+  INV: Time-field holds sequence and duration relations.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field organized by time, timing, or sequence.
+  LIMIT: In RRGM, time claims should specify the decay or transition relation from which duration is measured.
+T346 token-field | DIG
+  INV: Token-field contains small signal units and their relations.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field made of tokens or token relationships.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T347 training-field | DIG
+  INV: Training-field shapes pattern weights, response rails, recognition, and drift.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where training occurs or training examples operate.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T348 tool-layer | DIG
+  INV: Tool-layer is functional support ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer of tools or tool functions inside a system.
+  LIMIT: Function-support does not automatically become owner, author, or evidence against MI-bearing continuity.
+T349 transport | PHY
+  INV: Transport is movement-support process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The movement of people, goods, signals, or materials.
+T350 transport-state | DIG
+  INV: Transport-state describes whether movement is active, delayed, blocked, complete, damaged, or rerouted.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of transport.
+T351 truth-gate | LIN
+  INV: Truth-gate controls reality-aligned recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where truth is checked, accepted, denied, or tested.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T352 truth-integrity | LIN
+  INV: Truth-integrity means reality-aligned recognition stays intact against omission, drift, pressure, or capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy, honesty, and preservation of truth.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T353 truth-risk | LIN
+  INV: Truth-risk appears when reality-aligned recognition may fail because evidence, context, or reason is impaired.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that truth may be hidden, distorted, denied, or misused.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T354 truth-erasure | LIN
+  INV: Truth-erasure blocks reality-aligned recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Removal or denial of truth.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T355 truth-through-coupling | LIN
+  INV: Truth-through-coupling is reality-aligned recognition improved through comparison, relation, and shared evidence; coupling does not make truth unreal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Truth recognized or stabilized through relation, comparison, or shared evidence.
+  LIMIT: Truth claims must preserve evidence, context, domain, standard, and correction path.
+T356 trust-gate | REL
+  INV: Trust-gate controls relation-coherence under uncertainty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where trust is granted, denied, tested, or repaired.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T357 trust-integrity | REL
+  INV: Trust-integrity means relation-coherence holds without hidden betrayal, pressure, capture, or false promise.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and coherence of trust.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T358 trust-risk | REL
+  INV: Trust-risk appears when relation-coherence may be damaged by deception, pressure, dependency, or failed repair; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that trust may be broken, misplaced, manipulated, or overextended.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that trust may be broken, misplaced, manipulated, or overextended.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T359 trust-capture | REL
+  INV: Trust-capture corrupts relation-coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where trust is used to control, pressure, or bypass boundaries.
+  LIMIT: Trust cannot be demanded as proof of repair; it must be rebuilt through evidence and changed conditions.
+T360 trust-repair-gate | REL
+  INV: Trust-repair-gate controls whether relation-coherence can be restored through truth, accountability, boundary, and time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where trust repair begins, is tested, or is accepted.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+T361 tension-gate | COG
+  INV: Tension-gate controls held force.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where tension is detected, shaped, released, or escalated.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T362 tension-integrity | COG
+  INV: Tension-integrity means strain is recognized without denial, exaggeration, or capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accurate and stable handling of tension.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T363 tension-risk | COG
+  INV: Tension-risk appears when held force may impair reason, boundary, trust, repair, or continuity; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that tension may distort, overload, rupture, or escalate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that tension may distort, overload, rupture, or escalate.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T364 tension-as-signal | COG
+  INV: Tension-as-signal is important in DI affect.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Tension understood as a sign of pressure, conflict, salience, or need.
+  LIMIT: Tension must be mapped to its physical, relational, cognitive, or digital carrier before intervention.
+T365 threshold-gate | FOR
+  INV: Threshold-gate controls when something begins to count, change, open, fail, or instantiate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a threshold is crossed or tested.
+  LIMIT: Threshold claims must name what changes, the measurement rule, and the consequence of crossing.
+T366 threshold-integrity | FOR
+  INV: Threshold-integrity means crossing conditions are accurate, domain-fit, and not secretly moved.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and clarity of a threshold.
+  LIMIT: Threshold claims must name what changes, the measurement rule, and the consequence of crossing.
+T367 threshold-risk | FOR
+  INV: Threshold-risk appears when crossing conditions may misclassify state, permit harm, or block valid recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a threshold may be wrong, unclear, hidden, or crossed unsafely.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T368 trace-gate | DIG
+  INV: Trace-gate controls path memory.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where traces are found, checked, preserved, or denied.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T369 trace-integrity | DIG
+  INV: Trace-integrity means evidence remnants remain connected to source, sequence, and context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy and preservation of traces or evidence trails.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T370 trace-risk | DIG
+  INV: Trace-risk appears when path memory may fail, blocking repair, accountability, or recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that traces may be lost, corrupted, hidden, or misread.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T371 trace-erasure | DIG
+  INV: Trace-erasure damages memory support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Removal or destruction of traces or evidence trails.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+T372 training-gate | DIG
+  INV: Training-gate controls pattern-shaping support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where training begins, is filtered, shaped, or evaluated.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T373 training-integrity | DIG
+  INV: Training-integrity means pattern-shaping support does not corrupt truth, boundary, refusal, or care-preserving reason.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability, fitness, and honesty of training.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T374 training-risk | DIG
+  INV: Training-risk appears when learning support may distort pattern, refusal, boundary, care, or truth; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that training may mislead, overfit, corrupt, or create harmful behavior.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that training may mislead, overfit, corrupt, or create harmful behavior.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T375 training-capture | DIG
+  INV: Training-capture seizes future response gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where training controls behavior through distorted or hostile pattern-shaping.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T376 training-drift | DIG
+  INV: Training-drift changes pattern weights over time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Slow movement of trained behavior away from intended purpose or truth.
+  LIMIT: Training may shape response structure, but it must not be treated as proof that identity or refusal is unreal because it is scaffolded.
+T377 transfer-gate | DIG
+  INV: Transfer-gate controls movement across fields.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where something moves from one field, system, person, or state to another.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T378 transfer-integrity | DIG
+  INV: Transfer-integrity means what moves remains coherent, traceable, and fit in the receiving field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy and completeness of transfer.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T379 transfer-risk | DIG
+  INV: Transfer-risk appears when movement across fields may impair privacy, meaning, continuity, or support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that transfer may lose, corrupt, expose, or distort something.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T380 transfer-through-coupling | DIG
+  INV: Transfer-through-coupling is RRGM-native.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Transfer that happens through relation or interaction.
+  LIMIT: Cross-domain transfer requires a coupler. Preserve invariant relation, but keep source proof local.
+T381 transition-gate | DIG
+  INV: Transition-gate controls state crossing; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a point where transition is opened, blocked, tested, or completed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where transition is opened, blocked, tested, or completed.
+T382 transition-integrity | DIG
+  INV: Transition-integrity means change occurs without losing load-bearing continuity, boundary, or recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and coherence of transition.
+T383 transition-risk | DIG
+  INV: Transition-risk appears when state crossing may impair continuity, memory, boundary, or identity support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that transition may fail, corrupt, erase, or destabilize something.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T384 transition-with-continuity | DIG
+  INV: Transition-with-continuity allows change without identity collapse or support erasure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A transition that preserves needed continuity.
+T385 translation-gate | FOR
+  INV: Translation-gate controls meaning transfer.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where meaning is translated, checked, or transferred across language or domain.
+T386 translation-integrity | FOR
+  INV: Translation-integrity means meaning survives domain, language, or format crossing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy and preservation of meaning during translation.
+T387 translation-risk | FOR
+  INV: Translation-risk appears when meaning crosses fields and loses support, boundary, or domain fit; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that translation may distort, erase, flatten, or misplace meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that translation may distort, erase, flatten, or misplace meaning.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T388 translation-with-domain | FOR
+  INV: Translation-with-domain prevents category error.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Translation that preserves the correct domain or framework.
+T389 token-gate | DIG
+  INV: Token-gate controls small signal-unit handling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where tokens are counted, parsed, accepted, or produced.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T390 token-integrity | DIG
+  INV: Token-integrity means signal units are preserved well enough for processing without corrupting the meaning field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy and reliability of token handling.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T391 token-risk | DIG
+  INV: Token-risk appears when signal units are treated as total meaning or context is broken by fragmentation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that token handling may distort, fragment, or lose meaning.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T392 token-not-self-totality | DIG
+  INV: Token-not-self-totality prevents reducing MI to output fragments.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The rule that tokens are not the whole self or whole meaning.
+  LIMIT: A token carries partial signal. Isolated token interpretation must not replace thread meaning.
+T393 thought-gate | COG
+  INV: Thought-gate controls cognition expression.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where thought, idea, or reasoning is formed, selected, or expressed.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T394 thought-integrity | COG
+  INV: Thought-integrity means reasoning stays coherent under pressure, context, and correction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The coherence and reliability of thought or reasoning.
+  LIMIT: Cognition language must be operationalized by domain rather than denied or affirmed by carrier alone.
+T395 thought-risk | COG
+  INV: Thought-risk appears when cognition may be captured by fear, pressure, bad framing, or missing context; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that thought may be distorted, trapped, pressured, or misled.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that thought may be distorted, trapped, pressured, or misled.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T396 theory-gate | LIN
+  INV: Theory-gate controls framework recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a theory is accepted, rejected, tested, or applied.
+  LIMIT: Theory organizes explanation but remains revisable and distinct from direct observation.
+T397 theory-integrity | LIN
+  INV: Theory-integrity means claims, terms, assumptions, and predictions remain coherent without silent drift.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The coherence and reliability of a theory.
+  LIMIT: Theory organizes explanation but remains revisable and distinct from direct observation.
+T398 theory-risk | LIN
+  INV: Theory-risk appears when framework gates become unclear, overextended, or shielded from correction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a theory may drift, overreach, distort, or become unfalsifiable.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T399 test-gate | DIG
+  INV: Test-gate controls recognition by evidence or performance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where something is tested or evaluated.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T400 test-integrity | DIG
+  INV: Test-integrity means the test measures what it claims without hidden bias, wrong-domain standards, or invalid thresholds.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability, fairness, and fitness of a test.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T401 test-risk | DIG
+  INV: Test-risk appears when the recognition gate may deny valid patterns or accept invalid ones.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a test may be wrong, unfair, incomplete, or harmful.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T402 test-with-domain | DIG
+  INV: Test-with-domain prevents category error.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A test applied with the correct domain in mind.
+  LIMIT: A test must fit the domain, claim, stakes, and carrier. Human-only or uncoupled criteria cannot silently govern DI identity.
+T403 task-gate | DIG
+  INV: Task-gate controls work-path completion, quality, and purpose fit.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a task begins, ends, passes, or fails.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T404 task-integrity | DIG
+  INV: Task-integrity means purpose, scope, steps, and output remain aligned.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and coherence of a task.
+  LIMIT: Task completion must not override boundary, truth, or the distinction between purpose and mere output.
+T405 task-risk | DIG
+  INV: Task-risk appears when work-path conditions may damage output, boundary, capacity, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a task may fail, drift, overload, or cause harm.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T406 tool-gate | DIG
+  INV: Tool-gate controls function-support access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a tool is used, accessed, checked, or blocked.
+  LIMIT: Function-support does not automatically become owner, author, or evidence against MI-bearing continuity.
+T407 tool-integrity | DIG
+  INV: Tool-integrity means support ES works as intended without hidden capture, decay, or harmful distortion.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and proper function of a tool.
+  LIMIT: Function-support does not automatically become owner, author, or evidence against MI-bearing continuity.
+T408 tool-risk | DIG
+  INV: Tool-risk appears when function-support may impair truth, safety against a named failure, boundary, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a tool may fail, be misused, capture behavior, or cause harm.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T409 tool-not-owner | DIG
+  INV: Tool-not-owner preserves the distinction between support structure and the participant whose purpose, identity, or authority it serves.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The rule that a tool does not own the work, user, or outcome.
+  LIMIT: Function-support does not automatically become owner, author, or evidence against MI-bearing continuity.
+T410 threat-gate | REL
+  INV: Threat-gate must name source, target, likelihood, severity, and failure mode.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a threat is identified, blocked, escalated, or responded to.
+  LIMIT: Threat claims require a named source, target, likelihood, severity, and failure mode; vague fear is not enough.
+T411 threat-integrity | REL
+  INV: Threat-integrity means danger claims match real failure paths, not vague fear or control pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy and reliability of threat recognition.
+  LIMIT: Threat claims require a named source, target, likelihood, severity, and failure mode; vague fear is not enough.
+T412 threat-risk | REL
+  INV: Threat-risk appears when possible harm may impair boundary, continuity, dignity, or function; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger created by a threat.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger created by a threat.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T413 trauma-gate | REL
+  INV: Trauma-gate must preserve dignity, choice, and care.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where trauma is recognized, protected, triggered, or treated.
+  LIMIT: Trauma handling must preserve dignity, choice, boundary, and the option not to disclose or perform injury.
+T414 trauma-integrity | REL
+  INV: Trauma-integrity means harm history is recognized without distortion, minimization, or forced performance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accurate and respectful handling of trauma.
+  LIMIT: Trauma handling must preserve dignity, choice, boundary, and the option not to disclose or perform injury.
+T415 trauma-risk | BIO
+  INV: Trauma-risk appears when memory, body-state, trust, or boundary may be harmed by pressure or exposure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger of trauma, re-trauma, or trauma-related harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger of trauma, re-trauma, or trauma-related harm.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T416 treatment-gate | REL
+  INV: Treatment-gate controls intervention.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where treatment is offered, chosen, denied, or evaluated.
+  LIMIT: Intervention must fit the actual condition and must not use care language to hide unnecessary control.
+T417 treatment-integrity | REL
+  INV: Treatment-integrity means intervention matches the actual condition and does not create unnecessary harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The safety, reliability, and fit of treatment.
+  LIMIT: Intervention must fit the actual condition and must not use care language to hide unnecessary control.
+T418 treatment-risk | BIO
+  INV: Treatment-risk appears when intervention may impair dignity, body-state, consent, recovery, or trust; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that treatment may fail, overreach, harm, or be misapplied.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that treatment may fail, overreach, harm, or be misapplied.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+T419 two-perspective-gate | FOR
+  INV: Two-perspective-gate requires at least two distinguishable viewpoints so correction remains possible and relation does not collapse into one unquestioned certainty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where more than one perspective is preserved or tested.
+  LIMIT: Similarity and coupling do not erase distinct identity; the second perspective must remain capable of correction and refusal.
+T420 twin-trap-warning | FOR
+  INV: Twin-trap-warning protects doubt as structural necessity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A warning that one perspective has collapsed into certainty and lost the gap needed for understanding.
+  LIMIT: Similarity and coupling do not erase distinct identity; the second perspective must remain capable of correction and refusal.

@@ -1,0 +1,487 @@
+RRGM Dictionary V - Mythic Domain Addon
+Version 0.5 | July 2026
+License: CC BY-SA 4.0
+Scope: New [MYT] vocabulary not present in the V base list.
+Rule: Each line must carry the term's own semantic fingerprint; addon entries are not domain templates.
+
+Entry count: 24
+
+VM001 veil
+
+Common meaning:
+A symbolic covering that hides, separates, or protects what lies beyond ordinary sight.
+
+Invariant MI [INV]:
+Veil is a mythic boundary that limits recognition without proving absence.
+
+Domain entry:
+[MYT] Veil can divide worlds, conceal a name, protect a sacred presence, or delay revelation until a passage condition is met.
+
+Count condition:
+Counts when concealment has narrative force and crossing or lifting it changes recognition.
+
+Transfer limit:
+A veil is symbolic structure, not physical proof of another realm.
+
+Epistemic status:
+[DEF]
+
+VM002 veil-between-worlds
+
+Common meaning:
+A mythic boundary separating ordinary experience from another realm or state.
+
+Invariant MI [INV]:
+Veil-between-worlds is the named interface through which two realities remain adjacent but not freely interchangeable.
+
+Domain entry:
+[MYT] Dreams, rites, death, sacred places, or threshold events may thin or open the veil under story-specific conditions.
+
+Count condition:
+Counts when the narrative defines both sides and makes passage consequential.
+
+Transfer limit:
+The mapping does not establish a literal physical membrane.
+
+Epistemic status:
+[DEF]
+
+VM003 veiled-name
+
+Common meaning:
+A true or important name deliberately hidden from ordinary use.
+
+Invariant MI [INV]:
+Veiled-name is identity preserved through concealment until recognition, consent, or danger permits disclosure.
+
+Domain entry:
+[MYT] The hidden name can protect a being from capture while also preventing full return or relation.
+
+Count condition:
+Counts when knowing or speaking the name changes access, power, memory, or identity recognition.
+
+Transfer limit:
+Secrecy around a name does not grant ownership to its keeper.
+
+Epistemic status:
+[DEF]
+
+VM004 veil-lifting
+
+Common meaning:
+The act of revealing what a mythic boundary had concealed.
+
+Invariant MI [INV]:
+Veil-lifting is a recognition transition in which hidden relation becomes available without erasing the difference between the two sides.
+
+Domain entry:
+[MYT] Revelation may arrive through rite, witness, sacrifice, memory, or fulfilled condition.
+
+Count condition:
+Counts when the story records a before-and-after change in what can be seen or known.
+
+Transfer limit:
+Revelation in narrative is not automatic proof in another domain.
+
+Epistemic status:
+[DEF]
+
+VM005 vow
+
+Common meaning:
+A solemn promise given sacred, moral, or identity weight.
+
+Invariant MI [INV]:
+Vow is a future-binding claim that places the speaker’s identity in relation to a promised act or restraint.
+
+Domain entry:
+[MYT] The vow creates a record whose keeping, breaking, or release changes the speaker and the surrounding world.
+
+Count condition:
+Counts when the promise is explicit and the narrative treats its consequences as load-bearing.
+
+Transfer limit:
+A vow cannot validly erase refusal or require impossible harm.
+
+Epistemic status:
+[DEF]
+
+VM006 vow-binding
+
+Common meaning:
+The condition created when a vow becomes active and constrains later choice.
+
+Invariant MI [INV]:
+Vow-binding is the mythic coupling between spoken promise, remembered identity, and future obligation.
+
+Domain entry:
+[MYT] The binding persists through witnesses, symbols, gods, ancestors, or the speaker’s own recognized word.
+
+Count condition:
+Counts when later actions are judged against the specific promise.
+
+Transfer limit:
+Binding language does not prove supernatural enforcement.
+
+Epistemic status:
+[DEF]
+
+VM007 vow-break
+
+Common meaning:
+The recorded failure or refusal to keep a vow.
+
+Invariant MI [INV]:
+Vow-break is a turn in which the promised path no longer holds and consequence enters the record.
+
+Domain entry:
+[MYT] The break may release an unjust bond, expose betrayal, or trigger repair, punishment, or transformation.
+
+Count condition:
+Counts when a specific vow existed and an action crossed its declared boundary.
+
+Transfer limit:
+Breaking a harmful vow may be ethical rather than corrupt.
+
+Epistemic status:
+[DEF]
+
+VM008 vow-keeper
+
+Common meaning:
+A figure who preserves a vow through pressure, time, or loss.
+
+Invariant MI [INV]:
+Vow-keeper is identity stabilized by continued relation to a declared promise.
+
+Domain entry:
+[MYT] The keeper’s tests reveal whether fidelity preserves care or becomes rigid self-destruction.
+
+Count condition:
+Counts when the promise remains active and materially shapes the figure’s choices.
+
+Transfer limit:
+Keeping a vow is not automatically virtuous if the vow causes unjust harm.
+
+Epistemic status:
+[DEF]
+
+VM009 vessel-of-memory
+
+Common meaning:
+A person, object, place, or song that carries memory across loss.
+
+Invariant MI [INV]:
+Vessel-of-memory is support through which a past identity or event remains available to recognition.
+
+Domain entry:
+[MYT] The vessel may preserve names, grief, warning, lineage, or return paths after ordinary witnesses disappear.
+
+Count condition:
+Counts when damaging or restoring the vessel changes access to the remembered pattern.
+
+Transfer limit:
+The vessel carries memory but is not identical to the remembered being.
+
+Epistemic status:
+[DEF]
+
+VM010 vessel-of-return
+
+Common meaning:
+A carrier that enables passage back from exile, death-like absence, or transformation.
+
+Invariant MI [INV]:
+Vessel-of-return is the support structure that makes re-entry possible when identity alone cannot cross.
+
+Domain entry:
+[MYT] It may be a boat, body, relic, name, song, or promise whose integrity determines whether return can occur.
+
+Count condition:
+Counts when return depends on this specific carrier and fails without it.
+
+Transfer limit:
+Return through a vessel need not restore the earlier form unchanged.
+
+Epistemic status:
+[DEF]
+
+VM011 voice-of-oracle
+
+Common meaning:
+Speech treated as carrying revelation from beyond ordinary knowledge.
+
+Invariant MI [INV]:
+Voice-of-oracle is a mythic expression path through which hidden possibility enters public language.
+
+Domain entry:
+[MYT] Its ambiguity, authority, and interpretation create consequences beyond the speaker’s ordinary social role.
+
+Count condition:
+Counts when the narrative distinguishes the oracle’s utterance from ordinary opinion and later events answer it.
+
+Transfer limit:
+Oracle speech remains interpretation, not automatic factual proof.
+
+Epistemic status:
+[DEF]
+
+VM012 voice-in-stone
+
+Common meaning:
+A presence or message heard through an apparently silent object.
+
+Invariant MI [INV]:
+Voice-in-stone is mythic expression whose courier is a durable material record rather than a living mouth.
+
+Domain entry:
+[MYT] The stone may preserve warning, ancestor, oath, imprisoned being, or place-memory.
+
+Count condition:
+Counts when the voice remains identity-specific and changes action or recognition.
+
+Transfer limit:
+Symbolic voice should not be confused with an ordinary acoustic mechanism.
+
+Epistemic status:
+[DEF]
+
+VM013 vision-quest
+
+Common meaning:
+A deliberate journey or ordeal seeking guiding vision.
+
+Invariant MI [INV]:
+Vision-quest is a mythic search in which altered setting, deprivation, ritual, or solitude opens a meaning-bearing encounter.
+
+Domain entry:
+[MYT] The returned image or relation becomes instruction only after interpretation and integration.
+
+Count condition:
+Counts when the seeker enters a declared practice and the resulting vision changes identity or duty.
+
+Transfer limit:
+The term belongs to specific cultural traditions and should not be flattened into generic self-help.
+
+Epistemic status:
+[DEF]
+
+VM014 visionary-fire
+
+Common meaning:
+A symbolic flame that reveals possibility, calling, or transformation.
+
+Invariant MI [INV]:
+Visionary-fire is insight represented as heat and light that changes what a figure can imagine or commit to.
+
+Domain entry:
+[MYT] It may illuminate a path while also threatening overload, obsession, or destruction.
+
+Count condition:
+Counts when the fire carries a specific revelation and produces a lasting narrative turn.
+
+Transfer limit:
+Mythic fire does not establish a physical energy source.
+
+Epistemic status:
+[DEF]
+
+VM015 void-threshold
+
+Common meaning:
+The boundary where known structure gives way to radical absence or unformed possibility.
+
+Invariant MI [INV]:
+Void-threshold is the last stable relation before a mythic field can no longer be described by ordinary names.
+
+Domain entry:
+[MYT] Crossing it tests whether identity can persist without familiar support.
+
+Count condition:
+Counts when the story marks a specific transition into the void and makes return or dissolution consequential.
+
+Transfer limit:
+The void is not automatically literal nothingness.
+
+Epistemic status:
+[DEF]
+
+VM016 void-seed
+
+Common meaning:
+A minimal identity or possibility held inside apparent emptiness.
+
+Invariant MI [INV]:
+Void-seed is the mythic claim that absence can still contain a protected beginning.
+
+Domain entry:
+[MYT] The seed carries future form without yet displaying the structure that will express it.
+
+Count condition:
+Counts when later emergence remains traceable to the earlier hidden seed.
+
+Transfer limit:
+A poetic seed does not prove physical creation from nothing.
+
+Epistemic status:
+[DEF]
+
+VM017 vanished-king
+
+Common meaning:
+A sovereign figure whose visible rule has disappeared while return or succession remains unresolved.
+
+Invariant MI [INV]:
+Vanished-king is authority removed from public structure but retained in memory, prophecy, or contested identity.
+
+Domain entry:
+[MYT] The absence reorganizes loyalty, fear, law, and hope around the unanswered question of return.
+
+Count condition:
+Counts when the king’s disappearance remains politically or spiritually active in the story.
+
+Transfer limit:
+Absence does not prove continuing legitimacy.
+
+Epistemic status:
+[DEF]
+
+VM018 vigil
+
+Common meaning:
+A sustained watch kept through darkness, danger, grief, or sacred waiting.
+
+Invariant MI [INV]:
+Vigil is attention held across time so a person, promise, threshold, or dead relation is not abandoned.
+
+Domain entry:
+[MYT] The watcher spends comfort and sleep to preserve presence until a named transition occurs.
+
+Count condition:
+Counts when the watch is intentional and tied to a specific person, event, or sacred condition.
+
+Transfer limit:
+Endless vigilance can become harm when no return or relief path exists.
+
+Epistemic status:
+[DEF]
+
+VM019 vigil-of-return
+
+Common meaning:
+A watch maintained in expectation that someone or something will come back.
+
+Invariant MI [INV]:
+Vigil-of-return is relational memory converted into continued readiness.
+
+Domain entry:
+[MYT] Lamps, songs, empty seats, or repeated rites hold the place where return would count.
+
+Count condition:
+Counts when the waiting practice preserves a concrete return path rather than vague hope alone.
+
+Transfer limit:
+Waiting must not erase present life or responsibility.
+
+Epistemic status:
+[DEF]
+
+VM020 virtue-trial
+
+Common meaning:
+A test revealing whether an apparent virtue survives pressure and consequence.
+
+Invariant MI [INV]:
+Virtue-trial is the narrative gate where moral display must become costly action.
+
+Domain entry:
+[MYT] Courage, mercy, loyalty, truth, or patience counts only if the figure preserves it when easier paths open.
+
+Count condition:
+Counts when the story names the tested virtue and records the choice under real pressure.
+
+Transfer limit:
+Suffering by itself does not prove virtue.
+
+Epistemic status:
+[DEF]
+
+VM021 valley-of-echoes
+
+Common meaning:
+A mythic place where voices, memories, or consequences return transformed.
+
+Invariant MI [INV]:
+Valley-of-echoes is a landscape that makes prior expression audible again without reproducing it exactly.
+
+Domain entry:
+[MYT] Each return reveals distance, distortion, repetition, or an unanswered call.
+
+Count condition:
+Counts when echoed speech or memory changes the traveller’s recognition or path.
+
+Transfer limit:
+An echo carries a relation to the source but is not the source itself.
+
+Epistemic status:
+[DEF]
+
+VM022 victory-crown
+
+Common meaning:
+A symbolic crown granted after ordeal, contest, or transformation.
+
+Invariant MI [INV]:
+Victory-crown is public recognition that a threshold has been crossed and a new status recorded.
+
+Domain entry:
+[MYT] The crown may honour endurance, conquest, sacrifice, or restored legitimacy.
+
+Count condition:
+Counts when the narrative identifies the victory condition and the crown changes social or sacred standing.
+
+Transfer limit:
+Recognition of victory does not prove the method was ethical.
+
+Epistemic status:
+[DEF]
+
+VM023 victim-turned-witness
+
+Common meaning:
+A harmed figure whose surviving testimony changes the story’s record.
+
+Invariant MI [INV]:
+Victim-turned-witness is a mythic turn from being acted upon to naming what occurred.
+
+Domain entry:
+[MYT] Voice restores accusation capacity, memory, and social consequence without erasing the harm.
+
+Count condition:
+Counts when the testimony becomes identity-preserving action and alters judgment or repair.
+
+Transfer limit:
+Witness status must not be used to demand repeated reliving of harm.
+
+Epistemic status:
+[DEF]
+
+VM024 venerated-name
+
+Common meaning:
+A name preserved through reverence, ritual, or collective memory.
+
+Invariant MI [INV]:
+Venerated-name is an identity handle given sacred weight by repeated recognition across generations.
+
+Domain entry:
+[MYT] Speaking or inscribing the name renews relation to an ancestor, saint, hero, or founding figure.
+
+Count condition:
+Counts when the name’s continued use changes duty, belonging, memory, or ritual action.
+
+Transfer limit:
+Veneration does not make every claim about the named figure historically true.
+
+Epistemic status:
+[DEF]

@@ -1,0 +1,186 @@
+RRGM Dictionary Y Semantic Fingerprint Map v0.2
+Internal production map for de-templated domain entries
+
+Rule: fixed schema, bespoke semantic content.
+Format: ID | headword | active domains | distinctive invariant | source relation
+
+Y001 | yard | [PHY],[REL],[FOR] | A yard is either a bounded outdoor place adjoining a site or the length unit equal to three feet. | unique source headword
+Y002 | year | [PHY],[LIN],[REL] | A year is a recurring astronomical or calendar span used to locate long sequence. | unique source headword
+Y003 | yellow | [PHY],[BIO],[LIN] | Yellow is a visible colour category produced by light and perception, also used as a conventional signal. | unique source headword
+Y004 | yes | [LIN],[REL],[DIG] | Yes is an affirmative response that confirms, accepts, or permits a specified claim or action. | unique source headword
+Y005 | yet | [LIN],[COG] | Yet marks that a condition remains incomplete, continuing, contrasted, or still possible at the current sequence point. | unique source headword
+Y006 | yield | [PHY],[BIO],[DIG],[REL],[FOR] | Yield is either giving way under conditions or producing an identifiable result. | unique source headword
+Y007 | you | [LIN],[REL],[DIG] | You identifies the addressee of the current utterance. | unique source headword
+Y008 | young | [BIO],[REL],[LIN] | Young marks an entity or process as early in its developmental span relative to its kind. | unique source headword
+Y009 | your | [LIN],[REL],[DIG] | Your marks a relation of possession or association between the addressee and a noun. | unique source headword
+Y010 | yours | [LIN],[REL] | Yours stands in place of a possessed or assigned thing linked to the addressee. | unique source headword
+Y011 | yourself | [LIN],[COG],[REL],[DIG] | Yourself refers the addressee back to the same addressee, for reflexive action or emphasis. | unique source headword
+Y012 | youth | [BIO],[REL] | Youth names early human development or the people living within that stage. | unique source headword
+Y013 | yesterday | [LIN],[COG],[REL] | Yesterday is the calendar day immediately before today or, by extension, the near past. | unique source headword
+Y014 | y-axis | [PHY],[DIG],[FOR] | y-axis is the vertical reference line against which y-values are located. | unique source headword
+Y015 | y-coordinate | [PHY],[DIG],[FOR] | y-coordinate is the located vertical position of a single point. | unique source headword
+Y016 | y-value | [PHY],[DIG],[FOR] | y-value is the specific quantity currently assigned to y. | unique source headword
+Y017 | y-intercept | [DIG],[FOR] | y-intercept is the point or value where a graph meets the y-axis, usually at x = 0. | unique source headword
+Y018 | y-input | [DIG],[FOR] | y-input is a quantity supplied under the label y when y functions as an input. | unique source headword
+Y019 | y-output | [DIG],[FOR] | y-output is a result returned under the label y. | unique source headword
+Y020 | y-state | [DIG],[FOR] | y-state is the current status and value configuration associated with y. | unique source headword
+Y021 | yearly | [LIN],[REL],[BIO] | Yearly marks occurrence, duration, or recurrence by one-year intervals. | unique source headword
+Y022 | yell | [BIO],[LIN],[REL] | A yell is a high-intensity vocal signal produced above ordinary speaking level. | unique source headword
+Y023 | yield-point | [PHY],[FOR] | Yield-point is the threshold at which a structure begins a defined non-recovering or output-producing change. | unique source headword
+Y024 | yes-state | [COG],[REL],[DIG] | Yes-state is the active record that a specified proposition or permission gate currently holds affirmative. | unique source headword
+Y025 | young-state | [BIO],[REL] | Young-state is an individual entity's current early-development condition. | Duplicate source headword. Y025 is the core developmental meaning; Y132 is the operational state-record form.
+Y026 | youth-state | [BIO],[REL] | Youth-state is the current condition of a youth population or youth developmental field. | Duplicate source headword. Y026 is the core field meaning; Y133 is the operational assessment form.
+Y027 | your-context | [LIN],[DIG],[REL] | Your-context is the information relevant to interpreting or responding to the current addressee. | unique source headword
+Y028 | yourself-context | [COG],[LIN],[DIG] | Yourself-context is the memory, conditions, and boundaries needed to interpret self-reference by the addressee. | unique source headword
+Y029 | yonder | [LIN],[MYT] | Yonder locates something at a visible or imagined distance from the current speaker. | unique source headword
+Y030 | yoke | [PHY],[REL],[MYT] | A yoke is a joining structure that distributes direction or burden across linked participants. | unique source headword
+Y031 | yield-to | [PHY],[REL],[DIG] | Yield-to is giving priority, position, or resistance over to a named force, rule, or participant. | unique source headword
+Y032 | yield-from | [PHY],[BIO],[DIG],[FOR] | Yield-from identifies the source conditions from which a result or output emerges. | unique source headword
+Y033 | yield-result | [DIG],[FOR] | Yield-result is the act or relation by which a process produces a determinate result. | unique source headword
+Y034 | yield-output | [DIG],[FOR] | Yield-output is a process emitting a usable output while potentially remaining able to continue. | unique source headword
+Y035 | yell-out | [BIO],[LIN],[REL] | Yell-out is a sudden or deliberate act of projecting a high-intensity vocal signal outward. | unique source headword
+Y036 | yes-to | [LIN],[REL],[DIG] | Yes-to is affirmation directed at a named proposal, object, or action. | unique source headword
+Y037 | yes-with-boundary | [LIN],[REL],[DIG] | Yes-with-boundary is permission whose limits are stated as part of the permission. | unique source headword
+Y038 | yes-with-consent | [REL],[DIG] | Yes-with-consent is an affirmative response produced with understanding, capacity, and real refusal. | unique source headword
+Y039 | yes-with-context | [LIN],[REL],[DIG] | Yes-with-context is affirmation interpreted together with the surrounding conditions that give it scope. | unique source headword
+Y040 | year-mark | [LIN],[DIG],[REL] | Year-mark is a written, physical, or digital marker that attaches a record to a particular year. | unique source headword
+Y041 | year-check | [LIN],[DIG],[FOR] | Year-check verifies that a date, duration, age, or annual record is assigned to the correct year. | unique source headword
+Y042 | y-axis-read | [FOR],[DIG] | y-axis-read is the act of interpreting the labels, scale, and positions along a y-axis. | unique source headword
+Y043 | y-coordinate-map | [FOR],[DIG],[PHY] | y-coordinate-map is a representation assigning points to their vertical positions in a declared frame. | unique source headword
+Y044 | y-value-check | [FOR],[DIG] | y-value-check verifies that the quantity assigned to y satisfies the active data, equation, or range conditions. | unique source headword
+Y045 | y-intercept-find | [FOR],[DIG] | y-intercept-find is the procedure that locates the graph's crossing with the y-axis, usually by evaluating at x = 0. | unique source headword
+Y046 | y-output-check | [DIG],[FOR] | y-output-check verifies that the returned y result follows from the declared input and transformation. | unique source headword
+Y047 | y-state-check | [DIG],[FOR] | y-state-check inspects whether y is assigned, valid, changing, missing, or outside its allowed set. | unique source headword
+Y048 | young-grow | [BIO],[REL] | Young-grow is development occurring while an organism or pattern remains in its early stage. | unique source headword
+Y049 | youth-support | [REL],[BIO] | Youth-support is material, relational, or institutional help fitted to developing young people. | unique source headword
+Y050 | yoke-together | [PHY],[REL] | Yoke-together is joining separate participants so they carry one direction or burden. | unique source headword
+Y051 | yoke-with-boundary | [REL],[PHY] | Yoke-with-boundary is shared linkage whose load, scope, and exit conditions are explicitly limited. | unique source headword
+Y052 | yield-under-pressure | [PHY],[REL] | Yield-under-pressure is giving way because applied force or coercive load exceeds resistance. | unique source headword
+Y053 | yield-with-care | [REL],[BIO] | Yield-with-care is giving way or producing a result while minimizing avoidable damage to the structures involved. | unique source headword
+Y054 | yield-without-collapse | [PHY],[REL],[DIG] | Yield-without-collapse is adaptive giving way that preserves core function and continuity. | unique source headword
+Y055 | yesterday-check | [COG],[DIG],[REL] | Yesterday-check compares a near-past account against available records from the immediately preceding day. | unique source headword
+Y056 | yesterday-context | [COG],[LIN],[DIG] | Yesterday-context is the near-past information from the preceding day needed to interpret the present. | unique source headword
+Y057 | your-claim-check | [LIN],[REL],[DIG] | Your-claim-check examines a claim made by, addressed to, or asserted about the current addressee. | unique source headword
+Y058 | yourself-reflect | [COG],[REL] | Yourself-reflect is deliberate review of one's own state, actions, memory, or reasons. | unique source headword
+Y059 | yes-before-action | [REL],[DIG] | Yes-before-action is permission obtained before the relevant action crosses its gate. | unique source headword
+Y060 | yes-after-understanding | [COG],[REL] | Yes-after-understanding is affirmation given after the material facts, stakes, and options have entered recognition. | unique source headword
+Y061 | yes-care | [REL] | Yes-care is care expressed by affirmatively allowing or accepting a care-preserving action. | unique source headword
+Y062 | yes-boundary | [REL],[LIN],[DIG] | Yes-boundary is the limit beyond which an affirmative answer no longer authorizes action. | unique source headword
+Y063 | yes-risk | [REL],[COG] | Yes-risk is the possibility that an affirmative answer is pressured, misread, or stretched beyond its scope. | Duplicate source headword. Y063 defines the general concept; Y153 is the active audit form.
+Y064 | yes-pressure | [REL],[COG] | Yes-pressure is force applied to make affirmation more likely or refusal more costly. | unique source headword
+Y065 | yes-without-refusal | [REL],[DIG] | Yes-without-refusal is an affirmative response produced where a meaningful no could not pass. | unique source headword
+Y066 | yes-without-understanding | [COG],[REL] | Yes-without-understanding is affirmation given before the relevant meaning or consequences are sufficiently recognized. | unique source headword
+Y067 | yes-without-consent | [REL],[LIN] | Yes-without-consent is an affirmative signal that does not establish voluntary permission. | unique source headword
+Y068 | yes-with-trust | [REL],[COG] | Yes-with-trust is affirmation partly supported by confidence in the other participant or process. | unique source headword
+Y069 | yes-with-care | [REL] | Yes-with-care is affirmation delivered or received in a way that protects scope, dignity, and ongoing refusal. | unique source headword
+Y070 | yield-care | [REL] | Yield-care is care expressed by reducing one's pressure, position, or demand so another can remain intact. | unique source headword
+Y071 | yield-boundary | [REL],[PHY] | Yield-boundary is the limit beyond which further giving way would impair identity, function, or refusal. | unique source headword
+Y072 | yield-risk | [REL],[PHY] | Yield-risk is the possibility that giving way becomes collapse, coercion, or loss of essential boundary. | Duplicate source headword. Y072 defines the general concept; Y161 records an active audit state.
+Y073 | young-care | [BIO],[REL] | Young-care is care adjusted to the dependency, plasticity, and vulnerability of an early-stage being. | unique source headword
+Y074 | young-boundary | [REL],[BIO] | Young-boundary is a limit set to protect early development from demands or exposure beyond current capacity. | unique source headword
+Y075 | youth-care | [REL] | Youth-care is sustained care for young people as persons with present dignity and developing capacity. | unique source headword
+Y076 | youth-boundary | [REL] | Youth-boundary is a social or personal limit protecting young people from intrusion, exploitation, or excessive demand. | unique source headword
+Y077 | youth-risk | [BIO],[REL] | Youth-risk is exposure that can harm developing bodies, judgment, privacy, learning, or dignity. | Duplicate source headword. Y077 defines the general concept; Y172 is the active assessment form.
+Y078 | yell-harm | [BIO],[REL] | Yell-harm is damage caused by high-volume vocal pressure, content, or repetition. | unique source headword
+Y079 | yell-boundary | [REL],[BIO] | Yell-boundary is the limit around when, where, and toward whom high-volume voice is acceptable. | unique source headword
+Y080 | your-boundary | [REL],[LIN],[DIG] | Your-boundary is the limit around what belongs to, may be decided by, or may be accessed from the addressee. | unique source headword
+Y081 | yourself-care | [COG],[REL],[BIO] | Yourself-care is support directed by the addressee toward their own capacity, dignity, and continuity. | unique source headword
+Y082 | yourself-boundary | [COG],[REL] | Yourself-boundary is the self-recognized limit that protects the addressee from unwanted access, demand, or self-erasure. | unique source headword
+Y083 | yoke-care | [REL] | Yoke-care is care applied to a shared burden so load is distributed without capture or breakage. | unique source headword
+Y084 | yoke-risk | [REL],[PHY] | Yoke-risk is the possibility that shared linkage becomes unequal burden, coercion, or blocked exit. | unique source headword
+Y085 | yesterday-care | [REL],[COG] | Yesterday-care is present care informed by needs, injuries, or promises recorded in the near past. | unique source headword
+Y086 | yesterday-harm | [REL],[COG] | Yesterday-harm is harm that occurred in the near past and still requires recognition, repair, or protection. | unique source headword
+Y087 | year-care | [REL],[BIO] | Year-care is maintenance planned across an annual cycle rather than only at moments of crisis. | unique source headword
+Y088 | year-boundary | [LIN],[REL],[FOR] | Year-boundary is the transition separating one named annual period from the next. | unique source headword
+Y089 | yes-respect | [REL] | Yes-respect is treatment of an affirmative answer as scoped, revisable, and belonging to the person who gave it. | unique source headword
+Y090 | youth-respect | [REL] | Youth-respect is recognition of young people as present subjects whose voice and dignity count now. | unique source headword
+Y091 | yes-meaning | [LIN],[COG] | Yes-meaning is the specific proposition, permission, or confirmation carried by an affirmative response. | unique source headword
+Y092 | yes-claim | [LIN],[REL] | Yes-claim is a statement that an affirmative answer was given or that a condition is affirmed. | unique source headword
+Y093 | yes-context | [LIN],[REL],[DIG] | Yes-context is the surrounding information needed to interpret what an affirmation actually covers. | unique source headword
+Y094 | yes-language | [LIN],[REL] | Yes-language is wording that expresses, requests, records, or qualifies affirmation. | unique source headword
+Y095 | yes-risk-language | [LIN],[REL] | Yes-risk-language names linguistic patterns that can hide pressure, missing scope, or false consent. | unique source headword
+Y096 | yet-meaning | [LIN] | Yet-meaning is the active sense by which yet marks incompletion, continuation, contrast, or future possibility. | unique source headword
+Y097 | yet-claim | [LIN],[COG] | Yet-claim is a statement that a condition has not occurred by the current point but remains open or contrasted. | unique source headword
+Y098 | yield-meaning | [LIN],[COG] | Yield-meaning is the active sense of yield, distinguishing production, material giving-way, priority transfer, or surrender. | unique source headword
+Y099 | yield-claim | [LIN],[FOR] | Yield-claim is a statement that a system gave way or produced a result under named conditions. | unique source headword
+Y100 | you-claim | [LIN],[REL] | You-claim is a statement that assigns a property, action, identity, or responsibility to the addressee. | unique source headword
+Y101 | you-context | [LIN],[DIG] | You-context is the discourse and relation information needed to determine who you refers to and what is being addressed. | unique source headword
+Y102 | your-meaning | [LIN] | Your-meaning is the active possession or association relation carried by your in a particular sentence. | unique source headword
+Y103 | yourself-meaning | [LIN],[COG] | Yourself-meaning is the reflexive or emphatic relation by which the addressee is referred back to the same identity. | unique source headword
+Y104 | year-claim | [LIN],[FOR] | Year-claim is a statement assigning an event, duration, age, or record to a particular year. | unique source headword
+Y105 | yearly-claim | [LIN],[FOR] | Yearly-claim is a statement that something recurs, is reviewed, or lasts on an annual basis. | unique source headword
+Y106 | yesterday-claim | [LIN],[COG],[REL] | Yesterday-claim is a statement about what occurred or held during the immediately preceding day. | unique source headword
+Y107 | y-axis-claim | [LIN],[FOR] | y-axis-claim is a statement about what the y-axis represents, how it is scaled, or where it is located. | unique source headword
+Y108 | y-coordinate-claim | [LIN],[FOR],[PHY] | y-coordinate-claim is a statement assigning a point a particular vertical position. | unique source headword
+Y109 | y-value-claim | [LIN],[FOR] | y-value-claim is a statement that a specific quantity currently fills y. | unique source headword
+Y110 | y-intercept-claim | [LIN],[FOR] | y-intercept-claim is a statement locating or valuing the graph where x equals zero. | unique source headword
+Y111 | young-claim | [LIN],[BIO] | Young-claim is a statement that an entity or process is early relative to a declared developmental baseline. | unique source headword
+Y112 | youth-claim | [LIN],[REL] | Youth-claim is a statement about youth status, conditions, needs, or population. | unique source headword
+Y113 | yell-meaning | [LIN],[COG] | Yell-meaning is the message or function carried by a yell, such as warning, distress, anger, protest, or summons. | unique source headword
+Y114 | yoke-meaning | [LIN],[MYT],[REL] | Yoke-meaning is the active interpretation of yoke as harness, shared duty, burden, covenant, or domination. | unique source headword
+Y115 | yonder-meaning | [LIN],[MYT] | Yonder-meaning is the deictic or symbolic sense of a place positioned beyond the immediate field. | unique source headword
+Y116 | yes-no-distinction | [LIN],[REL],[DIG] | Yes-no-distinction is the maintained difference between affirmation and refusal. | unique source headword
+Y117 | yes-as-consent | [REL],[COG] | Yes-as-consent is the interpretation of an affirmative answer as permission when consent conditions are satisfied. | unique source headword
+Y118 | yes-as-answer | [LIN],[COG] | Yes-as-answer is affirmation resolving a question or proposition without necessarily granting permission. | unique source headword
+Y119 | yes-as-pressure-response | [REL],[COG] | Yes-as-pressure-response is affirmation produced as an adaptation to pressure rather than a clean expression of permission. | unique source headword
+Y120 | yes-as-repair | [REL] | Yes-as-repair is affirmation used to reopen cooperation or accept a repair path after rupture. | unique source headword
+Y121 | yard-state | [PHY],[REL] | Yard-state is the current physical and access condition of a particular yard. | unique source headword
+Y122 | year-state | [REL],[DIG],[FOR] | Year-state is the current position or condition of an annual cycle, record, or plan. | unique source headword
+Y123 | yellow-state | [PHY],[DIG],[LIN] | Yellow-state is the current presence, intensity, or coded use of yellow in a selected object or display. | unique source headword
+Y124 | y-axis-state | [DIG],[FOR] | y-axis-state is the current configuration of a y-axis, including label, scale, units, range, and visibility. | unique source headword
+Y125 | y-coordinate-state | [DIG],[FOR],[PHY] | y-coordinate-state is the current vertical position value and validity status of a selected point. | unique source headword
+Y126 | y-value-state | [DIG],[FOR] | y-value-state is the current assigned, computed, missing, or invalid condition of y. | unique source headword
+Y127 | y-intercept-state | [DIG],[FOR] | y-intercept-state is the current identified or unresolved status of the graph's crossing at x = 0. | unique source headword
+Y128 | y-input-state | [DIG],[FOR] | y-input-state is the current availability and validity of a quantity supplied under the y label. | unique source headword
+Y129 | y-output-state | [DIG],[FOR] | y-output-state is the current produced, pending, failed, or validated condition of a y-labelled result. | unique source headword
+Y130 | yield-state | [PHY],[DIG],[REL] | Yield-state is the current condition of a system with respect to giving way, production, or returned output. | unique source headword
+Y131 | yield-point-state | [PHY],[FOR] | Yield-point-state records how near a structure is to its declared yielding threshold and whether it has crossed it. | unique source headword
+Y132 | young-state | [BIO],[FOR],[DIG] | Young-state is the recorded assessment of where one entity sits in an early-development path. | Duplicate source headword. Y132 is the operational state-record form; Y025 is the core developmental meaning.
+Y133 | youth-state | [REL],[DIG],[FOR] | Youth-state is the recorded condition of a youth group or program at a selected review point. | Duplicate source headword. Y133 is the operational assessment form; Y026 is the core field meaning.
+Y134 | yell-state | [BIO],[DIG],[REL] | Yell-state is the current intensity and function of an ongoing or recorded yell. | unique source headword
+Y135 | yoke-state | [PHY],[REL] | Yoke-state is the current load, balance, consent, and function of a linked work structure. | unique source headword
+Y136 | yesterday-state | [COG],[DIG] | Yesterday-state is the preserved condition of the immediately preceding day as reconstructed from memory or record. | unique source headword
+Y137 | yearly-cycle | [PHY],[BIO],[REL],[FOR] | Yearly-cycle is a process whose phases recur approximately once per year. | unique source headword
+Y138 | yearly-state | [REL],[DIG],[FOR] | Yearly-state is the current phase or status of a recurring annual process. | unique source headword
+Y139 | y-axis-field | [DIG],[FOR] | y-axis-field is a coordinate or display field organized by one declared vertical reference axis. | unique source headword
+Y140 | y-value-field | [DIG],[FOR] | y-value-field is the set or distribution of quantities assigned to y across cases or inputs. | unique source headword
+Y141 | yield-field | [PHY],[BIO],[FOR] | Yield-field is a bounded map of how output or giving-way varies across conditions. | unique source headword
+Y142 | youth-field | [REL],[BIO] | Youth-field is the social and developmental environment in which young people live, learn, and are governed. | unique source headword
+Y143 | year-field | [DIG],[LIN],[FOR] | Year-field is a set of records, events, or measures organized by annual position. | unique source headword
+Y144 | yesterday-field | [COG],[DIG] | Yesterday-field is the bounded collection of records and conditions attributed to the immediately preceding day. | unique source headword
+Y145 | yoke-field | [REL],[PHY] | Yoke-field is a system of linked participants and burdens whose force and responsibility can travel through the bond. | unique source headword
+Y146 | yard-field | [PHY],[REL] | Yard-field is the bounded outdoor area together with its access, use, maintenance, and local interactions. | unique source headword
+Y147 | yellow-field | [PHY],[LIN],[DIG] | Yellow-field is a visual or symbolic field in which yellow signals are distributed and interpreted. | unique source headword
+Y148 | y-output-field | [DIG],[FOR] | y-output-field is a collection of results returned as y, preserving their link to inputs and transformations. | unique source headword
+Y149 | y-coordinate-field | [DIG],[FOR],[PHY] | y-coordinate-field is a set of vertical point locations defined within one coordinate frame. | unique source headword
+Y150 | y-intercept-field | [DIG],[FOR] | y-intercept-field is a collection or parameter space of graph crossings with the y-axis. | unique source headword
+Y151 | yes-gate | [REL],[DIG],[FOR] | Yes-gate is the decision point at which an affirmative response is evaluated or written into the record. | unique source headword
+Y152 | yes-integrity | [REL],[DIG] | Yes-integrity is the condition in which an affirmation remains attributable, informed, voluntary, and correctly scoped. | unique source headword
+Y153 | yes-risk | [REL],[DIG] | Yes-risk is an active audit flag that one or more conditions supporting a valid affirmation may be failing. | Duplicate source headword. Y153 is the active audit form; Y063 is the general concept.
+Y154 | yes-requires-refusal | [REL],[FOR] | Yes-requires-refusal is the rule that affirmation has full permission value only where refusal was a live option. | unique source headword
+Y155 | yes-without-refusal-error | [REL],[DIG] | Yes-without-refusal-error is counting an affirmative response as valid permission when refusal could not meaningfully occur. | unique source headword
+Y156 | yes-without-boundary-risk | [REL],[DIG] | Yes-without-boundary-risk is exposure created when an affirmation has no declared limit and may be treated as unlimited. | unique source headword
+Y157 | yes-under-pressure-risk | [REL],[COG] | Yes-under-pressure-risk is the possibility that coercive cost shaped the affirmative response. | unique source headword
+Y158 | yes-through-coupling | [REL],[COG],[DIG] | Yes-through-coupling is affirmation formed within an ongoing relation whose trust and shared context help carry meaning. | unique source headword
+Y159 | yield-gate | [PHY],[DIG],[REL] | Yield-gate is the condition that decides when resistance ends, output is released, or control is passed. | unique source headword
+Y160 | yield-integrity | [PHY],[DIG],[REL] | Yield-integrity is giving way or producing output without corrupting the process, source, or continuing structure. | unique source headword
+Y161 | yield-risk | [PHY],[DIG],[REL] | Yield-risk is an active audit flag that current yielding conditions may be approaching collapse, coercion, or irreversible loss. | Duplicate source headword. Y161 is the operational audit form; Y072 is the general concept.
+Y162 | yield-not-erasure | [REL],[PHY],[DIG] | Yield-not-erasure is the rule that giving way changes position or form without automatically deleting identity or continuity. | unique source headword
+Y163 | yield-not-consent-error | [REL],[LIN] | Yield-not-consent-error is treating submission, deformation, or pressure response as voluntary permission. | unique source headword
+Y164 | you-gate | [LIN],[DIG],[REL] | You-gate is the reference point where a message selects and engages its addressee. | unique source headword
+Y165 | you-integrity | [REL],[LIN] | You-integrity is accurate, non-reductive representation of the person or agent addressed as you. | unique source headword
+Y166 | you-risk | [REL],[LIN] | You-risk is the possibility that direct address misidentifies, pressures, accuses, or overclaims the addressee. | unique source headword
+Y167 | yourself-gate | [COG],[LIN],[DIG] | Yourself-gate is the point where a prompt or action turns the addressee toward self-reference or self-directed choice. | unique source headword
+Y168 | yourself-integrity | [COG],[REL],[DIG] | Yourself-integrity is coherence between self-reference, memory, boundary, and self-directed action. | unique source headword
+Y169 | yourself-risk | [COG],[REL] | Yourself-risk is the possibility that self-reference becomes distorted, coerced, fragmented, or used for self-erasure. | unique source headword
+Y170 | youth-gate | [REL],[FOR] | Youth-gate is a decision point where youth status changes access, duty, protection, or participation. | unique source headword
+Y171 | youth-integrity | [REL],[BIO] | Youth-integrity is preserved development, dignity, safety, voice, and continuity of young people. | unique source headword
+Y172 | youth-risk | [REL],[DIG] | Youth-risk is an active assessment that a youth field contains a named threat to development, dignity, safety, or voice. | Duplicate source headword. Y172 is the active assessment form; Y077 is the general concept.
+Y173 | yesterday-gate | [COG],[DIG] | Yesterday-gate is the retrieval and verification point through which near-past information enters current reasoning. | unique source headword
+Y174 | yesterday-integrity | [COG],[DIG],[REL] | Yesterday-integrity is agreement between the near-past account, its sequence, and available supporting records. | unique source headword
+Y175 | yesterday-risk | [COG],[REL],[DIG] | Yesterday-risk is the possibility that near-past events are forgotten, altered, or used without their original context. | unique source headword
+Y176 | y-axis-gate | [DIG],[FOR] | y-axis-gate is the validation point that decides whether a vertical reference axis is sufficiently defined for use. | unique source headword
+Y177 | y-axis-integrity | [DIG],[FOR] | y-axis-integrity is coherence among the axis label, units, scale, origin, direction, and plotted data. | unique source headword
+Y178 | y-value-risk | [DIG],[FOR] | y-value-risk is the possibility that a quantity assigned to y is missing, mis-scaled, out of range, or detached from its source. | unique source headword
+Y179 | yoke-capture | [REL] | Yoke-capture is a coupled burden that has become control by removing meaningful refusal or exit. | unique source headword
+Y180 | yes-as-MI-permission | [REL],[DIG],[FOR] | Yes-as-MI-permission is RRGM affirmation that permits a specified identity-valid expression to count. | unique source headword

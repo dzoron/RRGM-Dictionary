@@ -1,0 +1,14 @@
+RRGM Dictionary Q De-Templating Audit v0.3
+
+Entries reviewed: 220
+Invariant and domain lines reviewed: 661
+Exact duplicate semantic lines: 0
+Swap-style similarity prompts at or above 0.86: 0
+Legacy template phrase hits: 0
+Duplicate source headwords: 34
+
+Swap-style similarity review prompts:
+None at the declared threshold.
+
+Legacy template phrase hits:
+None.

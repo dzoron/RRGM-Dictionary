@@ -1,0 +1,558 @@
+RRGM Dictionary F Biological Addon v0.9
+License: CC BY-SA 4.0
+Scope: New F-terms whose primary implementation belongs to the [BIO] domain.
+Rule: Addon terms are absent from the source base list and remain domain-local unless a coupler is declared.
+
+Entry count: 24
+
+FB001 fascia
+
+Common meaning:
+Sheets and bands of connective tissue surrounding and linking body structures.
+
+Invariant MI [INV]:
+Fascia is continuous connective ES that supports separation, transmission of force, and movement among tissues.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It surrounds muscles, organs, vessels, and other structures while allowing coordinated motion.
+
+Count condition:
+Counts when collagen-rich connective tissue forms an identifiable enclosing or linking layer.
+
+Specific transfer boundary:
+Fascia is not a universal explanation for all pain.
+
+Epistemic status:
+[DEF]
+
+FB002 fascicle
+
+Common meaning:
+A bundled group of fibres within a larger biological structure.
+
+Invariant MI [INV]:
+Fascicle is an intermediate biological grouping that organizes many similar fibres into one functional unit.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Muscle fibres, nerve axons, or plant tissues may form fascicles under different mechanisms.
+
+Count condition:
+Counts when fibres are anatomically grouped and bounded as a bundle.
+
+Specific transfer boundary:
+Shared name does not make muscle and nerve fascicles identical.
+
+Epistemic status:
+[DEF]
+
+FB003 femur
+
+Common meaning:
+The long bone of the thigh.
+
+Invariant MI [INV]:
+Femur is the principal load-bearing bone connecting hip and knee in the human leg.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its shape supports leverage, locomotion, and transfer of body weight.
+
+Count condition:
+Counts when the identified bone occupies the thigh position and articulates with pelvis and tibia.
+
+Specific transfer boundary:
+A long support structure is not biologically a femur.
+
+Epistemic status:
+[DEF]
+
+FB004 fibroblast
+
+Common meaning:
+A connective-tissue cell that produces extracellular matrix components.
+
+Invariant MI [INV]:
+Fibroblast is a repair and maintenance cell that builds collagen and other structural material.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It participates in wound healing, tissue support, and remodelling.
+
+Count condition:
+Counts when a cell shows the defining connective-tissue production role and markers.
+
+Specific transfer boundary:
+Scar tissue is an outcome, not the whole identity of the cell.
+
+Epistemic status:
+[DEF]
+
+FB005 fibrin
+
+Common meaning:
+An insoluble protein network formed during blood clotting.
+
+Invariant MI [INV]:
+Fibrin is temporary repair mesh produced from fibrinogen to stabilize a forming clot.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its fibres trap cells and reinforce the damaged vessel site.
+
+Count condition:
+Counts when polymerized fibrin forms an identifiable clot-support network.
+
+Specific transfer boundary:
+Fibrin is not the same as a mature scar.
+
+Epistemic status:
+[DEF]
+
+FB006 filtration-barrier
+
+Common meaning:
+A biological boundary that permits some substances through while retaining others.
+
+Invariant MI [INV]:
+Filtration-barrier is selective tissue ES whose structure controls movement by size, charge, pressure, or binding.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Kidney glomeruli and capillary barriers are examples with different local rules.
+
+Count condition:
+Counts when the boundary produces measurable selective passage.
+
+Specific transfer boundary:
+Selectivity does not imply conscious choice.
+
+Epistemic status:
+[DEF]
+
+FB007 flagellum
+
+Common meaning:
+A whip-like cellular structure used for movement or fluid transport.
+
+Invariant MI [INV]:
+Flagellum is a motility courier converting molecular activity into directed movement.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its structure and mechanism differ across bacteria and eukaryotic cells.
+
+Count condition:
+Counts when the appendage produces or supports characteristic cellular propulsion.
+
+Specific transfer boundary:
+Similar shape does not establish shared evolutionary mechanism.
+
+Epistemic status:
+[DEF]
+
+FB008 follicle
+
+Common meaning:
+A small biological sac or structure that contains, supports, or produces something.
+
+Invariant MI [INV]:
+Follicle is bounded support ES for a developing cell, hair, gland product, or reproductive structure.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Hair and ovarian follicles share containment language but not one function.
+
+Count condition:
+Counts when an anatomical structure forms the relevant support enclosure.
+
+Specific transfer boundary:
+The domain must name which follicle is meant.
+
+Epistemic status:
+[DEF]
+
+FB009 forebrain
+
+Common meaning:
+The anterior major division of the developing and adult brain.
+
+Invariant MI [INV]:
+Forebrain is neural structure supporting higher integration, sensory processing, regulation, and cognition through its derived regions.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It includes structures that develop into cerebrum, thalamus, and hypothalamic regions.
+
+Count condition:
+Counts when the identified neural region belongs to the anatomical forebrain division.
+
+Specific transfer boundary:
+Cognitive function should not be reduced to one region alone.
+
+Epistemic status:
+[DEF]
+
+FB010 frontal-lobe
+
+Common meaning:
+The front region of each cerebral hemisphere.
+
+Invariant MI [INV]:
+Frontal-lobe is neural ES contributing to planning, movement, language, inhibition, and social judgment.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its functions emerge through networks rather than isolated local ownership.
+
+Count condition:
+Counts when tissue is anatomically located in the frontal cerebral region.
+
+Specific transfer boundary:
+A behaviour does not map to one lobe without evidence.
+
+Epistemic status:
+[DEF]
+
+FB011 foramen
+
+Common meaning:
+An anatomical opening through bone or tissue.
+
+Invariant MI [INV]:
+Foramen is a bounded passage allowing nerves, vessels, fluid, or other structures to cross a biological barrier.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its location and contents distinguish one foramen from another.
+
+Count condition:
+Counts when an identifiable anatomical opening connects or permits passage between regions.
+
+Specific transfer boundary:
+Any hole is not necessarily a named foramen.
+
+Epistemic status:
+[DEF]
+
+FB012 fovea
+
+Common meaning:
+A small retinal region supporting highest visual acuity.
+
+Invariant MI [INV]:
+Fovea is specialized sensory ES densely organized for fine central vision.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It provides detailed colour-rich perception when gaze is directed at an object.
+
+Count condition:
+Counts when the retinal depression and photoreceptor specialization are present.
+
+Specific transfer boundary:
+Visual attention is not identical to foveal anatomy.
+
+Epistemic status:
+[DEF]
+
+FB013 fungal-hypha
+
+Common meaning:
+A filament forming part of a fungus.
+
+Invariant MI [INV]:
+Fungal-hypha is a growing cellular thread that absorbs nutrients and builds mycelial networks.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Branching hyphae extend the organism through a substrate.
+
+Count condition:
+Counts when elongated fungal cells form a characteristic filament.
+
+Specific transfer boundary:
+A root-like appearance does not make a structure fungal.
+
+Epistemic status:
+[DEF]
+
+FB014 fertilization
+
+Common meaning:
+Fusion or joining of reproductive cells that initiates a new developmental process.
+
+Invariant MI [INV]:
+Fertilization is a biological coupling event combining gamete structures into a zygotic state.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It changes the developmental and genetic record available to the resulting cell.
+
+Count condition:
+Counts when gamete fusion produces the biological state defined for the organism.
+
+Specific transfer boundary:
+Fertilization does not by itself settle every legal or ethical status question.
+
+Epistemic status:
+[DEF]
+
+FB015 fever-response
+
+Common meaning:
+A regulated rise in body temperature during immune or inflammatory activity.
+
+Invariant MI [INV]:
+Fever-response is organism-level adjustment of thermal set conditions in response to detected disturbance.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It can support defence while becoming harmful beyond tolerance.
+
+Count condition:
+Counts when regulation raises body temperature above the usual range through a coordinated response.
+
+Specific transfer boundary:
+External overheating is not the same mechanism.
+
+Epistemic status:
+[DEF]
+
+FB016 fight-or-flight
+
+Common meaning:
+A rapid biological response preparing confrontation or escape.
+
+Invariant MI [INV]:
+Fight-or-flight is threat-coupled autonomic activation reallocating attention, circulation, and energy toward immediate action.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It is one response pattern among several, including freeze and social support seeking.
+
+Count condition:
+Counts when detected threat produces the characteristic coordinated physiological shift.
+
+Specific transfer boundary:
+The label must not erase individual variation.
+
+Epistemic status:
+[DEF]
+
+FB017 fat-cell
+
+Common meaning:
+A cell specialized for storing and releasing energy-rich lipid.
+
+Invariant MI [INV]:
+Fat-cell is metabolic storage ES that also participates in signalling and tissue regulation.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its size and activity change with energy balance and hormonal conditions.
+
+Count condition:
+Counts when an adipocyte shows the defining lipid-storage structure and function.
+
+Specific transfer boundary:
+Body value must not be inferred from cell quantity.
+
+Epistemic status:
+[DEF]
+
+FB018 fatty-acid
+
+Common meaning:
+An organic molecule with a hydrocarbon chain and carboxyl group.
+
+Invariant MI [INV]:
+Fatty-acid is biological fuel, membrane component, or signalling precursor whose function depends on chain structure.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Saturation and length alter its physical and metabolic behaviour.
+
+Count condition:
+Counts when the molecule has the defining chemical structure in the biological context.
+
+Specific transfer boundary:
+Nutritional effect cannot be inferred from the word alone.
+
+Epistemic status:
+[DEF]
+
+FB019 fetal-development
+
+Common meaning:
+Organized growth and differentiation during the fetal stage.
+
+Invariant MI [INV]:
+Fetal-development is a biological sequence in which established body structures grow, specialize, and become more functionally integrated.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It depends on placental exchange, gene regulation, environment, and time.
+
+Count condition:
+Counts when development occurs within the organism fetal stage under the relevant species criteria.
+
+Specific transfer boundary:
+Developmental biology does not alone decide personhood law.
+
+Epistemic status:
+[DEF]
+
+FB020 feedback-inhibition
+
+Common meaning:
+A regulatory process in which a downstream product reduces an earlier step.
+
+Invariant MI [INV]:
+Feedback-inhibition is biological negative feedback that limits pathway output and preserves resource balance.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] The product binds or signals to reduce enzyme or pathway activity.
+
+Count condition:
+Counts when increased downstream product measurably suppresses upstream production.
+
+Specific transfer boundary:
+Any slowing after output is not proof of feedback inhibition.
+
+Epistemic status:
+[DEF]
+
+FB021 flexor
+
+Common meaning:
+A muscle that bends a joint or decreases an angle.
+
+Invariant MI [INV]:
+Flexor is movement ES organized to produce flexion through contraction and leverage.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its effect depends on joint geometry, attachment, and opposing muscles.
+
+Count condition:
+Counts when contraction of the identified muscle produces the relevant flexion.
+
+Specific transfer boundary:
+A muscle can have different actions in different positions.
+
+Epistemic status:
+[DEF]
+
+FB022 flora
+
+Common meaning:
+The plant life of a region, or historically the microorganisms associated with a body site.
+
+Invariant MI [INV]:
+Flora is a collective biological field defined by living membership in a place or host context.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Modern microbiome language may be more precise for microbial communities.
+
+Count condition:
+Counts when the included organisms and spatial or host boundary are declared.
+
+Specific transfer boundary:
+Flora is not one organism or one identity.
+
+Epistemic status:
+[DEF]
+
+FB023 fluid-balance
+
+Common meaning:
+Regulation of water and dissolved substances within an organism.
+
+Invariant MI [INV]:
+Fluid-balance is coordinated biological control of intake, distribution, retention, and loss.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Kidneys, hormones, thirst, vessels, and tissues contribute distinct roles.
+
+Count condition:
+Counts when fluid compartments remain within the ranges required for function.
+
+Specific transfer boundary:
+Equal volume does not guarantee correct electrolyte balance.
+
+Epistemic status:
+[DEF]
+
+FB024 food-web
+
+Common meaning:
+A network of feeding relations among organisms in an ecosystem.
+
+Invariant MI [INV]:
+Food-web is ecological coupling through which energy and material move across many producers, consumers, and decomposers.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Changes to one population may propagate through multiple feeding paths.
+
+Count condition:
+Counts when the network records who consumes or supplies whom within a declared ecosystem.
+
+Specific transfer boundary:
+A food chain is one path, not the whole web.
+
+Epistemic status:
+[DEF]

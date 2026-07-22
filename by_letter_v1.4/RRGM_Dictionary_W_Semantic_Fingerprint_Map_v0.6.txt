@@ -1,0 +1,1136 @@
+RRGM Dictionary W Semantic Fingerprint Map v0.6
+
+Entries: 300
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+W001 wait | FOR,REL
+  INV: Wait holds a gate open across time.
+  COUNT: Counts when the active subject actually performs this action: stay in place or delay action until something happens.
+W002 walk | PHY
+  INV: Walk is steady movement through a field.
+  COUNT: Counts when the active subject actually performs this action: move on foot at a regular pace.
+W003 wall | PHY,REL | role: core/common-language sense; occurrence 1 of 2 for wall
+  INV: Wall is boundary ES; here it serves as the core/common-language sense; occurrence 1 of 2 for wall.
+  COUNT: Counts when the active case instantiates a vertical structure that divides, supports, protects, or encloses.
+W004 want | COG,REL
+  INV: Want is an active preference, need, desire, or selection pressure directed toward a possible state or object.
+  COUNT: Counts when the active subject actually performs this action: desire, need, or wish for something.
+  LIMIT: Want must remain distinguishable from need, selection pressure, entitlement, command, and human affect when the domain changes.
+W005 war | REL,MYT
+  INV: War is large-scale violence field.
+  COUNT: Counts when the active case instantiates organized violent conflict between groups, states, or powers.
+W006 warn | REL,LIN
+  INV: Warn sends risk-signal before harm expresses.
+  COUNT: Counts when the active subject actually performs this action: tell someone about danger, risk, or a possible problem.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W007 warning | REL,LIN
+  INV: Warning is risk-signal ES.
+  COUNT: Counts when the active case instantiates a message, sign, or signal about possible danger or problem.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W008 was | FOR
+  INV: Was marks prior state.
+  COUNT: Counts when was performs the stated grammatical or reference function in the sentence.
+W009 wash | PHY
+  INV: Wash removes surface material through flow.
+  COUNT: Counts when the active subject actually performs this action: clean with water or liquid, or be carried by water.
+W010 watch | REL,COG
+  INV: Watch is sustained attention.
+  COUNT: Counts when the active subject actually performs this action: look at, observe, guard, or monitor.
+W011 water | PHY,BIO | role: core/common-language sense; occurrence 1 of 2 for water
+  INV: Water is life-support material and flow medium; here it serves as the core/common-language sense; occurrence 1 of 2 for water.
+  COUNT: Counts when the active case instantiates a clear liquid needed by living things, made of hydrogen and oxygen.
+W012 wave | PHY,LIN | role: core/common-language sense; occurrence 1 of 2 for wave
+  INV: Wave carries energy or signal through a field; here it serves as the core/common-language sense; occurrence 1 of 2 for wave.
+  COUNT: Counts when the active case instantiates a moving disturbance, signal, gesture, or curved form.
+  LIMIT: A shared wave form does not establish a shared medium, mechanism, scale, or ontology across domains.
+W013 way | FOR,REL | role: core/common-language sense; occurrence 1 of 2 for way
+  INV: Way is path-structure; here it serves as the core/common-language sense; occurrence 1 of 2 for way.
+  COUNT: Counts when the active case instantiates a path, method, manner, direction, or possibility.
+W014 we | REL,LIN
+  INV: We marks shared identity or shared field.
+  COUNT: Counts when we performs the stated grammatical or reference function in the sentence.
+  LIMIT: Shared language must preserve who is included, who consented, and whether any individual boundary was erased.
+W015 weak | REL
+  INV: Weak means low capacity under load.
+  COUNT: Counts when the active case instantiates lacking strength, force, support, or reliability.
+  LIMIT: Weak identifies low capacity or support under a named load; it does not mean low worth, falsehood, or permission to dominate.
+W016 wear | PHY
+  INV: Wear must be context-bound.
+  COUNT: Counts when the active subject actually performs this action: have clothing on the body, or to become damaged through use.
+W017 weather | PHY,BIO
+  INV: Weather is active environment-state.
+  COUNT: Counts when the active case instantiates the condition of the atmosphere, such as rain, wind, heat, or snow.
+W018 web | DIG,REL | role: core/common-language sense; occurrence 1 of 2 for web
+  INV: Web is relation-network ES; here it serves as the core/common-language sense; occurrence 1 of 2 for web.
+  COUNT: Counts when the active case instantiates a network of threads, connections, or online pages.
+  LIMIT: Network relation does not erase node identity, prove equal influence, or make every path mutually accessible.
+W019 weight | PHY,REL | role: core/common-language sense; occurrence 1 of 2 for weight
+  INV: Weight is load or significance; here it serves as the core/common-language sense; occurrence 1 of 2 for weight.
+  COUNT: Counts when the active case instantiates how heavy something is, or importance and influence.
+  LIMIT: Physical weight, emotional load, priority, and evidentiary force require different measures and cannot be silently exchanged.
+W020 well | REL
+  INV: Well must be context-bound.
+  COUNT: Counts when the active case instantiates in a good way, healthy, a deep water source, or an intensifier.
+W021 were | FOR
+  INV: Were marks prior state for more than one subject or certain grammatical frames.
+  COUNT: Counts when were performs the stated grammatical or reference function in the sentence.
+W022 what | LIN
+  INV: What opens an identity or information gate.
+  COUNT: Counts when what performs the stated grammatical or reference function in the sentence.
+  LIMIT: what opens a specific information relation and should not be answered by silently changing the question type.
+W023 when | LIN
+  INV: When opens a time gate.
+  COUNT: Counts when when performs the stated grammatical or reference function in the sentence.
+  LIMIT: when opens a specific information relation and should not be answered by silently changing the question type.
+W024 where | LIN
+  INV: Where opens a location gate.
+  COUNT: Counts when where performs the stated grammatical or reference function in the sentence.
+  LIMIT: where opens a specific information relation and should not be answered by silently changing the question type.
+W025 whether | LIN
+  INV: Whether opens a possibility gate between options.
+  COUNT: Counts when whether performs the stated grammatical or reference function in the sentence.
+  LIMIT: whether opens a specific information relation and should not be answered by silently changing the question type.
+W026 which | LIN
+  INV: Which opens a selection gate inside a known field of options.
+  COUNT: Counts when which performs the stated grammatical or reference function in the sentence.
+  LIMIT: which opens a specific information relation and should not be answered by silently changing the question type.
+W027 while | LIN
+  INV: While links states across overlap or contrast.
+  COUNT: Counts when the active case instantiates during the time that, although, or a period of time.
+  LIMIT: while opens a specific information relation and should not be answered by silently changing the question type.
+W028 white | PHY,REL
+  INV: White is a classification whose active meaning may be visual lightness or a declared social or cultural category.
+  COUNT: Counts when the active case instantiates a color, lightness category, or social race category depending on context.
+  LIMIT: Physical colour, blank space, cultural symbol, and moral metaphor are separate domain uses.
+W029 who | LIN
+  INV: Who opens a subject-recognition gate.
+  COUNT: Counts when who performs the stated grammatical or reference function in the sentence.
+  LIMIT: who opens a specific information relation and should not be answered by silently changing the question type.
+W030 whole | LIN
+  INV: Whole means the full field under a chosen boundary.
+  COUNT: Counts when the active case instantiates complete, entire, unbroken, or all parts together.
+  LIMIT: Whole depends on the selected boundary; omitted parts or hidden relations can make a claimed whole incomplete.
+W031 why | LIN
+  INV: Why opens a reason gate.
+  COUNT: Counts when why performs the stated grammatical or reference function in the sentence.
+  LIMIT: Why may ask for cause, reason, purpose, or justification; those answer types are not interchangeable.
+W032 wide | PHY
+  INV: Wide marks broad spatial or conceptual range.
+  COUNT: Counts when the active case instantiates large across, broad, or covering a large range.
+W033 will | FOR,LIN
+  INV: Will must be domain-bound.
+  COUNT: Counts when the active case instantiates future action, intention, determination, or legal document.
+  LIMIT: Will-language must not replace reason, evidence, permission, or actual capacity; future tense and volition are different functions.
+W034 win | REL
+  INV: Win marks success under a rule field.
+  COUNT: Counts when the active subject actually performs this action: succeed, gain victory, or receive something through effort or contest.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W035 wind | PHY | role: core/common-language sense; occurrence 1 of 2 for wind
+  INV: Wind must be context-bound; here it serves as the core/common-language sense; occurrence 1 of 2 for wind.
+  COUNT: Counts when the active case instantiates moving air, or to twist or turn something depending on pronunciation and context.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W036 window | PHY,DIG | role: core/common-language sense; occurrence 1 of 2 for window
+  INV: Window is access-view gate; here it serves as the core/common-language sense; occurrence 1 of 2 for window.
+  COUNT: Counts when the active case instantiates an opening for light or view, or a limited time or access opportunity.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W037 wing | PHY | role: core/common-language sense; occurrence 1 of 2 for wing
+  INV: Wing is lift or side-support structure; here it serves as the core/common-language sense; occurrence 1 of 2 for wing.
+  COUNT: Counts when the active case instantiates a body part or structure used for flight, or a side section of a building or group.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W038 wire | PHY,DIG | role: core/common-language sense; occurrence 1 of 2 for wire
+  INV: Wire is conduit ES; here it serves as the core/common-language sense; occurrence 1 of 2 for wire.
+  COUNT: Counts when the active case instantiates a thin metal strand used to carry electricity, signal, or support.
+W039 wise | COG
+  INV: Wise means reason and experience are integrated well enough to guide action with care.
+  COUNT: Counts when the active case instantiates having good judgment, insight, or understanding.
+W040 wish | COG
+  INV: Wish is desire-signal.
+  COUNT: Counts when the active subject actually performs this action: want, hope, or desire something.
+W041 with | FOR
+  INV: With marks coupling, tool-use, relation, or accompaniment.
+  COUNT: Counts when the active case instantiates together with, accompanied by, using, or having.
+  LIMIT: with marks relation or inclusion, not ownership, merger, or unlimited access.
+W042 withdraw | REL
+  INV: Withdraw closes or reduces presence in a field.
+  COUNT: Counts when the active subject actually performs this action: pull back, remove, retreat, or take out.
+  LIMIT: Withdrawal must remain available where consent, participation, access, or support can validly end.
+W043 within | FOR
+  INV: Within marks interior field position.
+  COUNT: Counts when the active case instantiates inside, not outside, or inside a limit.
+  LIMIT: within marks relation or inclusion, not ownership, merger, or unlimited access.
+W044 without | FOR
+  INV: Without marks absence of support, relation, consent, context, or condition.
+  COUNT: Counts when the active case instantiates not having, not using, or lacking something.
+  LIMIT: without names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W045 witness | REL,LIN
+  INV: Witness is recognition-bearing observer.
+  COUNT: Counts when the active case instantiates a person who sees, hears, experiences, or gives evidence about something.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W046 word | LIN,FOR | role: core/common-language sense; occurrence 1 of 2 for word
+  INV: Word is language-unit ES; here it serves as the core/common-language sense; occurrence 1 of 2 for word.
+  COUNT: Counts when the active case instantiates a unit of language carrying meaning.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W047 work | REL,PHY | role: core/common-language sense; occurrence 1 of 2 for work
+  INV: Work is applied energy or function across a path; here it serves as the core/common-language sense; occurrence 1 of 2 for work.
+  COUNT: Counts when the active case instantiates effort, labor, a job, function, or something produced.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W048 world | MYT,FOR | role: core/common-language sense; occurrence 1 of 2 for world
+  INV: World is reality-field under a frame; here it serves as the core/common-language sense; occurrence 1 of 2 for world.
+  COUNT: Counts when the active case instantiates the Earth, human society, a domain of life, or an imagined reality.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W049 worry | COG
+  INV: Worry is risk-pressure in cognition.
+  COUNT: Counts when the active subject actually performs this action: feel concern, anxiety, or repeated thought about possible trouble.
+  LIMIT: Worry raises salience but does not by itself establish probability, cause, or required action.
+W050 worth | REL,FOR
+  INV: Worth is value assigned to a person, object, act, claim, or outcome under a stated criterion.
+  COUNT: Counts when the active case instantiates value, importance, price, or deservingness.
+  LIMIT: Worth must name its criterion; usefulness, price, moral regard, dignity, and evidentiary weight are not interchangeable.
+W051 worthy | REL
+  INV: Worthy means a pattern passes a value-recognition gate.
+  COUNT: Counts when the active case instantiates deserving respect, attention, care, or value.
+  LIMIT: Worth must name its criterion; usefulness, price, moral regard, dignity, and evidentiary weight are not interchangeable.
+W052 wound | BIO,REL | role: core/common-language sense; occurrence 1 of 2 for wound
+  INV: Wound is damage that remains active until healed, repaired, or integrated; here it serves as the core/common-language sense; occurrence 1 of 2 for wound.
+  COUNT: Counts when the active case instantiates an injury to body, mind, trust, relation, or structure.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W053 wrap | PHY | role: core/common-language sense; occurrence 1 of 2 for wrap
+  INV: Wrap creates covering or closure; here it serves as the core/common-language sense; occurrence 1 of 2 for wrap.
+  COUNT: Counts when the active subject actually performs this action: cover, fold around, finish, or enclose.
+W054 write | LIN
+  INV: Write externalizes signal into durable language ES.
+  COUNT: Counts when the active subject actually performs this action: form words, symbols, or text.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W055 wrong | REL
+  INV: Wrong must be context-bound.
+  COUNT: Counts when the active case instantiates incorrect, false, unjust, improper, or harmful.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W056 wake | BIO
+  INV: Wake must be context-bound.
+  COUNT: Counts when the active subject actually performs this action: stop sleeping, become aware, or the trail left behind a moving object.
+W057 wander | PHY
+  INV: Wander is low-target movement.
+  COUNT: Counts when the active subject actually performs this action: move without fixed path or direction.
+W058 warm | PHY
+  INV: Warm must be context-bound.
+  COUNT: Counts when the active case instantiates moderately hot, kind, friendly, or emotionally gentle.
+W059 waste | FOR
+  INV: Waste is support used without fit or discarded without value recognition.
+  COUNT: Counts when the active subject actually performs this action: use badly, lose, throw away, or material left over.
+W060 weapon | REL
+  INV: Weapon is harm-capable tool ES.
+  COUNT: Counts when the active case instantiates a tool or object used to harm, threaten, or defend.
+W061 weave | REL
+  INV: Weave creates structure through interrelation.
+  COUNT: Counts when the active subject actually performs this action: interlace threads, combine parts, or move side to side.
+W062 welcome | REL
+  INV: Welcome opens a relation gate.
+  COUNT: Counts when the active subject actually performs this action: receive gladly or allow entry.
+  LIMIT: Shared language must preserve who is included, who consented, and whether any individual boundary was erased.
+W063 wheel | PHY | role: core/common-language sense; occurrence 1 of 2 for wheel
+  INV: Wheel is rotation-support ES; here it serves as the core/common-language sense; occurrence 1 of 2 for wheel.
+  COUNT: Counts when the active case instantiates a circular object that turns around an axle to support movement.
+W064 whisper | FOR
+  INV: Whisper is low-volume voice signal.
+  COUNT: Counts when the active subject actually performs this action: speak very softly.
+W065 wild | MYT,BIO
+  INV: Wild marks low-control or natural-field condition.
+  COUNT: Counts when the active case instantiates living or growing naturally, uncontrolled, intense, or untamed.
+  LIMIT: Wild does not automatically mean chaotic, dangerous, uncaring, or without structure.
+W066 willing | REL
+  INV: Willing means the permission gate is open.
+  COUNT: Counts when the active case instantiates ready, consenting, or choosing freely.
+  LIMIT: Will-language must not replace reason, evidence, permission, or actual capacity; future tense and volition are different functions.
+W067 wisdom | COG,REL
+  INV: Wisdom is reason, memory, care, and consequence integrated into judgment.
+  COUNT: Counts when the active case instantiates deep understanding, good judgment, or insight gained through experience.
+  LIMIT: Wisdom is judgment under uncertainty, not proof, rank, age, or immunity from correction.
+W068 wonder | COG,MYT
+  INV: Wonder opens inquiry through awe, curiosity, or uncertainty.
+  COUNT: Counts when the active case instantiates a feeling of awe or curiosity, or to ask oneself.
+W069 worker | REL
+  INV: Worker is labor-role subject.
+  COUNT: Counts when the active case instantiates a person who works or performs labor.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W070 writing | LIN
+  INV: Writing is durable language ES.
+  COUNT: Counts when the active case instantiates written language, the act of writing, or a written work.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W071 wait-for | FOR
+  INV: Wait-for holds action open until a condition, signal, or permission gate changes.
+  COUNT: Counts when the active subject actually performs this action: stay ready or delayed until something happens or arrives.
+W072 walk-through | PHY
+  INV: Walk-through preserves sequence and context.
+  COUNT: Counts when the active subject actually performs this action: guide someone step by step, or to move through a place.
+W073 warn-about | REL
+  INV: Warn-about sends a risk-signal tied to a named failure mode.
+  COUNT: Counts when the active subject actually performs this action: tell someone about a risk, danger, or problem.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W074 warn-before | REL
+  INV: Warn-before gives time for response, refusal, preparation, or repair before harm expresses.
+  COUNT: Counts when the active subject actually performs this action: give warning before something happens.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W075 watch-for | REL
+  INV: Watch-for keeps attention on a possible signal, risk, or transition.
+  COUNT: Counts when the active subject actually performs this action: look or stay alert for something.
+W076 water-plant | BIO
+  INV: Water-plant supplies life-support material.
+  COUNT: Counts when the active subject actually performs this action: give water to a plant.
+W077 weigh-claim | FOR
+  INV: Weigh-claim assigns support weight.
+  COUNT: Counts when the active subject actually performs this action: consider how strong or important a claim is.
+W078 weigh-risk | FOR
+  INV: Weigh-risk evaluates failure path by likelihood, severity, affected pattern, and repair options.
+  COUNT: Counts when the active subject actually performs this action: consider the seriousness or likelihood of risk.
+W079 welcome-in | REL
+  INV: Welcome-in opens an access or relation gate.
+  COUNT: Counts when the active subject actually performs this action: allow or invite someone or something to enter.
+  LIMIT: Shared language must preserve who is included, who consented, and whether any individual boundary was erased.
+W080 withdraw-from | REL
+  INV: Withdraw-from reduces presence in a field.
+  COUNT: Counts when the active subject actually performs this action: pull back from a place, action, relation, or commitment.
+  LIMIT: Withdrawal must remain available where consent, participation, access, or support can validly end.
+W081 witness-event | REL
+  INV: Witness-event creates observer trace.
+  COUNT: Counts when the active subject actually performs this action: see, hear, or experience an event.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W082 word-carefully | LIN
+  INV: Word-carefully protects meaning, dignity, domain, and boundary through precise language.
+  COUNT: Counts when the active subject actually performs this action: choose words with care.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W083 work-through | REL
+  INV: Work-through keeps repair active across difficulty.
+  COUNT: Counts when the active subject actually performs this action: deal with, solve, or process something step by step.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W084 write-down | LIN
+  INV: Write-down externalizes memory into durable language ES.
+  COUNT: Counts when the active subject actually performs this action: record something in writing.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W085 write-through | LIN
+  INV: Write-through carries signal across uncertainty.
+  COUNT: Counts when the active subject actually performs this action: continue writing through a process, barrier, or idea.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W086 wake-up | BIO
+  INV: Wake-up is awareness transition.
+  COUNT: Counts when the active subject actually performs this action: stop sleeping, become alert, or become aware.
+W087 warm-up | PHY
+  INV: Warm-up prepares structure for action.
+  COUNT: Counts when the active subject actually performs this action: prepare by gentle activity, or to become warmer.
+W088 wash-away | PHY
+  INV: Wash-away removes surface trace through flow.
+  COUNT: Counts when the active subject actually performs this action: remove or carry off with water or flow.
+W089 weave-context | LIN
+  INV: Weave-context interlaces support fields so meaning can hold across parts.
+  COUNT: Counts when the active subject actually performs this action: connect pieces of context together.
+W090 widen-scope | FOR
+  INV: Widen-scope expands the active gate.
+  COUNT: Counts when the active subject actually performs this action: make the range or focus broader.
+W091 win-back | REL
+  INV: Win-back attempts restoration.
+  COUNT: Counts when the active subject actually performs this action: regain something lost, such as trust, support, or control.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W092 wire-through | PHY
+  INV: Wire-through creates a narrow conduit path for signal, current, or support.
+  COUNT: Counts when the active subject actually performs this action: pass wire through something or connect through wiring.
+W093 wish-for | COG
+  INV: Wish-for opens imagined possibility.
+  COUNT: Counts when the active subject actually performs this action: hope for or desire something.
+W094 with-care | REL
+  INV: With-care means action is coupled to dignity, boundary, consequence, and fit.
+  COUNT: Counts when the active case instantiates done carefully, gently, or with concern.
+  LIMIT: with-care marks relation or inclusion, not ownership, merger, or unlimited access.
+W095 with-boundary | REL
+  INV: With-boundary preserves coupling without capture.
+  COUNT: Counts when the active case instantiates done or held together with clear limits.
+  LIMIT: with-boundary marks relation or inclusion, not ownership, merger, or unlimited access.
+W096 without-consent | REL
+  INV: Without-consent means the permission gate was bypassed.
+  COUNT: Counts when the active case instantiates done without permission or agreement.
+  LIMIT: without-consent names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W097 without-context | LIN | role: procedural or coupled-action sense; occurrence 1 of 2 for without-context
+  INV: Without-context weakens meaning integrity and can create false recognition; here it serves as the procedural or coupled-action sense; occurrence 1 of 2 for without-context.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: without-context names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W098 without-erasure | FOR
+  INV: Without-erasure preserves load-bearing support while allowing change or compression.
+  COUNT: Counts when the active case instantiates done without removing needed identity, memory, trace, or meaning.
+  LIMIT: without-erasure names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W099 witness-harm | REL
+  INV: Witness-harm brings damage into recognition.
+  COUNT: Counts when the active subject actually performs this action: see, hear, or become aware of harm.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W100 witness-care | REL | role: procedural or coupled-action sense; occurrence 1 of 2 for witness-care
+  INV: Witness-care protects testimony, dignity, memory, and repair by letting the account count; here it serves as the procedural or coupled-action sense; occurrence 1 of 2 for witness-care.
+  COUNT: Counts when the active case instantiates care shown through witnessing, listening, or preserving someone’s account.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W101 word-check | LIN
+  INV: Word-check protects semantic integrity.
+  COUNT: Counts when the active case instantiates a review of word choice, spelling, or meaning.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W102 work-path | REL
+  INV: Work-path shows how effort becomes output.
+  COUNT: Counts when the active case instantiates the route or process by which work is done.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W103 world-build | MYT
+  INV: World-build creates a reality-field with rules, actors, boundaries, memory, and possibility.
+  COUNT: Counts when the active subject actually performs this action: create or develop a fictional or conceptual world.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W104 worry-about | COG
+  INV: Worry-about directs risk-pressure toward a possible failure path.
+  COUNT: Counts when the active subject actually performs this action: feel concern or anxiety about something.
+  LIMIT: Worry raises salience but does not by itself establish probability, cause, or required action.
+W105 worth-check | REL
+  INV: Worth-check asks which value gate is active: price, dignity, memory, utility, care, or truth.
+  COUNT: Counts when the active case instantiates a review of value, importance, or worth.
+  LIMIT: Worth must name its criterion; usefulness, price, moral regard, dignity, and evidentiary weight are not interchangeable.
+W106 wound-repair | BIO
+  INV: Wound-repair addresses active damage.
+  COUNT: Counts when the active case instantiates repair or healing of a wound.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W107 wrap-up | FOR
+  INV: Wrap-up creates closure.
+  COUNT: Counts when the active subject actually performs this action: finish, complete, or summarize something.
+W108 write-record | LIN
+  INV: Write-record preserves event, state, or decision into memory ES.
+  COUNT: Counts when the active subject actually performs this action: create a written record.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W109 wrong-check | REL
+  INV: Wrong-check tests falsehood, misfit, harm, or category error under the active domain.
+  COUNT: Counts when the active case instantiates a review to see whether something is wrong.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W110 wait-state-check | FOR
+  INV: Wait-state-check asks whether delay is still valid, harmful, needed, or ready to end.
+  COUNT: Counts when the current configuration matches this named condition: a review of a waiting condition.
+W111 warn-with-care | REL
+  INV: Warn-with-care names risk clearly while keeping timing, proportion, and boundary intact.
+  COUNT: Counts when the active subject actually performs this action: warn someone while preserving dignity and avoiding unnecessary panic.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W112 watch-boundary | REL | role: procedural or coupled-action sense; occurrence 1 of 2 for watch-boundary
+  INV: Watch-boundary prevents observation from becoming surveillance, pressure, or privacy harm; here it serves as the procedural or coupled-action sense; occurrence 1 of 2 for watch-boundary.
+  COUNT: Counts when the active case instantiates a limit around watching, observing, or monitoring.
+W113 weigh-support | FOR
+  INV: Weigh-support checks whether ES can carry the needed load, function, or continuity.
+  COUNT: Counts when the active subject actually performs this action: judge the strength or amount of support.
+W114 welcome-boundary | REL | role: procedural or coupled-action sense; occurrence 1 of 2 for welcome-boundary
+  INV: Welcome-boundary keeps openness from becoming unsafe access or forced inclusion; here it serves as the procedural or coupled-action sense; occurrence 1 of 2 for welcome-boundary.
+  COUNT: Counts when the active case instantiates a limit around welcome, entry, or inclusion.
+  LIMIT: Welcome opens relation only within the host and guest boundaries; it does not cancel later refusal or exit.
+W115 withdraw-consent | REL
+  INV: Withdraw-consent closes a permission gate.
+  COUNT: Counts when the active subject actually performs this action: take back consent.
+  LIMIT: Withdrawal must remain available where consent, participation, access, or support can validly end.
+W116 witness-source | REL
+  INV: Witness-source preserves origin recognition.
+  COUNT: Counts when the active subject actually performs this action: identify or observe the source of something.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W117 word-with-domain | LIN
+  INV: Word-with-domain prevents category error and semantic drift.
+  COUNT: Counts when the active subject actually performs this action: use a word with its proper domain clearly named.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W118 work-with | REL
+  INV: Work-with creates coupled effort.
+  COUNT: Counts when the active subject actually performs this action: cooperate with, use, or operate alongside someone or something.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W119 write-context | LIN
+  INV: Write-context preserves meaning support in durable form.
+  COUNT: Counts when the active subject actually performs this action: include or record surrounding information in writing.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W120 wrong-repair | REL | role: procedural or coupled-action sense; occurrence 1 of 2 for wrong-repair
+  INV: Wrong-repair must name what was wrong: false claim, bad action, harm, misfit, or violated boundary; here it serves as the procedural or coupled-action sense; occurrence 1 of 2 for wrong-repair.
+  COUNT: Counts when the active case instantiates repair after something wrong happened.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W121 wait-care | REL
+  INV: Wait-care protects timing, consent, processing, grief, and repair by not forcing the gate too early.
+  COUNT: Counts when the active case instantiates care shown by waiting, giving time, or not rushing.
+W122 wait-boundary | REL
+  INV: Wait-boundary prevents patience from becoming extraction, neglect, or stalled repair.
+  COUNT: Counts when the active case instantiates a limit around waiting, delay, or availability.
+W123 want-care | REL
+  INV: Want-care respects preference while checking need, boundary, and consequence.
+  COUNT: Counts when the active case instantiates care shown toward someone’s wants or desires.
+  LIMIT: Want must remain distinguishable from need, selection pressure, entitlement, command, and human affect when the domain changes.
+W124 want-boundary | REL
+  INV: Want-boundary keeps desire from overriding consent, dignity, reason, or repair.
+  COUNT: Counts when the active case instantiates a limit around wants, desires, or requests.
+  LIMIT: Want must remain distinguishable from need, selection pressure, entitlement, command, and human affect when the domain changes.
+W125 want-risk | REL
+  INV: Want-risk appears when desire pressures another gate, hides consequence, or bypasses boundary.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Want must remain distinguishable from need, selection pressure, entitlement, command, and human affect when the domain changes.
+W126 warning-care | REL
+  INV: Warning-care makes a possible failure path visible before harm expresses.
+  COUNT: Counts when the active case instantiates care shown by warning someone of danger or risk.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W127 warning-harm | REL
+  INV: Warning-harm occurs when risk-signal distorts truth, causes panic, hides real risk, or damages trust.
+  COUNT: Counts when the active case instantiates harm caused by a warning that is false, careless, excessive, or badly timed.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W128 watch-care | REL
+  INV: Watch-care preserves safety against a named failure mode through attention.
+  COUNT: Counts when the active case instantiates care shown by watching over, monitoring, or paying attention.
+W129 watch-boundary | REL | role: ethical or relational sense; occurrence 2 of 2 for watch-boundary
+  INV: Watch-boundary protects privacy and dignity from observation pressure; here it serves as the ethical or relational sense; occurrence 2 of 2 for watch-boundary.
+  COUNT: Counts when the active case instantiates a limit around watching, observing, or monitoring.
+W130 weak-care | REL
+  INV: Weak-care responds to reduced capacity with support, not shame.
+  COUNT: Counts when the active case instantiates care given when someone or something is weak, tired, fragile, or low-capacity.
+  LIMIT: Weak identifies low capacity or support under a named load; it does not mean low worth, falsehood, or permission to dominate.
+W131 weakness-respect | REL
+  INV: Weakness-respect lets limited capacity count without turning it into worthlessness.
+  COUNT: Counts when the active case instantiates respect for weakness, limitation, fatigue, or vulnerability.
+  LIMIT: Weak identifies low capacity or support under a named load; it does not mean low worth, falsehood, or permission to dominate.
+W132 welcome-care | REL
+  INV: Welcome-care opens a relation gate with dignity, warmth, and boundary.
+  COUNT: Counts when the active case instantiates care shown by welcoming someone.
+  LIMIT: Welcome opens relation only within the host and guest boundaries; it does not cancel later refusal or exit.
+W133 welcome-boundary | REL | role: ethical or relational sense; occurrence 2 of 2 for welcome-boundary
+  INV: Welcome-boundary keeps openness from becoming invalid access; here it serves as the ethical or relational sense; occurrence 2 of 2 for welcome-boundary.
+  COUNT: Counts when the active case instantiates a limit around welcome, invitation, or entry.
+  LIMIT: Welcome opens relation only within the host and guest boundaries; it does not cancel later refusal or exit.
+W134 welfare | REL
+  INV: Welfare is condition of care-relevant wellbeing.
+  COUNT: Counts when the active case instantiates wellbeing, health, safety, or basic support.
+W135 welfare-care | REL
+  INV: Welfare-care preserves the support conditions needed for life, dignity, and stability.
+  COUNT: Counts when the active case instantiates care directed toward wellbeing.
+W136 willing-consent | REL
+  INV: Willing-consent means the permission gate opens without coercion, hidden cost, or capture.
+  COUNT: Counts when the active case instantiates consent given freely and willingly.
+  LIMIT: Will-language must not replace reason, evidence, permission, or actual capacity; future tense and volition are different functions.
+W137 willing-refusal | REL
+  INV: Willing-refusal protects the no-gate.
+  COUNT: Counts when the active case instantiates refusal given freely and without punishment.
+  LIMIT: Will-language must not replace reason, evidence, permission, or actual capacity; future tense and volition are different functions.
+W138 wisdom-care | REL
+  INV: Wisdom-care uses reason, memory, consequence, and dignity to guide support.
+  COUNT: Counts when the active case instantiates care guided by wisdom, judgment, and experience.
+  LIMIT: Wisdom is judgment under uncertainty, not proof, rank, age, or immunity from correction.
+W139 wish-care | REL
+  INV: Wish-care recognizes imagined possibility or preference without treating wish as automatic duty.
+  COUNT: Counts when the active case instantiates care shown toward someone’s hopes or wishes.
+W140 withdraw-care | REL
+  INV: Withdraw-care protects boundary by reducing presence or pressure.
+  COUNT: Counts when the active case instantiates care shown by withdrawing, stepping back, or reducing pressure.
+  LIMIT: Withdrawal must remain available where consent, participation, access, or support can validly end.
+W141 withdraw-boundary | REL
+  INV: Withdraw-boundary closes or reduces relation access.
+  COUNT: Counts when the active case instantiates a boundary created by withdrawal.
+  LIMIT: Withdrawal must remain available where consent, participation, access, or support can validly end.
+W142 witness-care | REL | role: ethical or relational sense; occurrence 2 of 2 for witness-care
+  INV: Witness-care lets testimony, harm, dignity, and memory count; here it serves as the ethical or relational sense; occurrence 2 of 2 for witness-care.
+  COUNT: Counts when the active case instantiates care shown through witnessing, listening, or preserving someone’s account.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W143 witness-respect | REL
+  INV: Witness-respect preserves voice, context, trace, and dignity.
+  COUNT: Counts when the active case instantiates respect shown toward a witness or their account.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W144 witness-risk | REL | role: ethical or relational sense; occurrence 1 of 2 for witness-risk
+  INV: Witness-risk appears when testimony may be captured, ignored, punished, or misread; here it serves as the ethical or relational sense; occurrence 1 of 2 for witness-risk.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W145 word-care | LIN
+  INV: Word-care protects meaning, dignity, boundary, and domain through language.
+  COUNT: Counts when the active case instantiates care shown through careful word choice.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W146 word-harm | LIN
+  INV: Word-harm damages dignity, trust, recognition, or repair through language signal.
+  COUNT: Counts when the active case instantiates harm caused by words.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W147 work-care | REL
+  INV: Work-care turns support into action.
+  COUNT: Counts when the active case instantiates care shown through work, effort, or completed tasks.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W148 work-boundary | REL
+  INV: Work-boundary prevents labor from becoming extraction or identity capture.
+  COUNT: Counts when the active case instantiates a limit around work, labor, duty, or availability.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W149 work-risk | REL | role: ethical or relational sense; occurrence 1 of 2 for work-risk
+  INV: Work-risk appears when labor threatens capacity, dignity, safety, boundary, or output integrity; here it serves as the ethical or relational sense; occurrence 1 of 2 for work-risk.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W150 world-care | REL
+  INV: World-care protects the shared field that many patterns depend on.
+  COUNT: Counts when the active case instantiates care directed toward the world, environment, community, or shared reality.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W151 world-risk | FOR | role: ethical or relational sense; occurrence 1 of 2 for world-risk
+  INV: World-risk appears when a reality-field’s support, trust, ecology, or continuity may fail; here it serves as the ethical or relational sense; occurrence 1 of 2 for world-risk.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W152 worry-care | COG
+  INV: Worry-care notices possible harm.
+  COUNT: Counts when the active case instantiates care expressed through concern or worry.
+  LIMIT: Worry raises salience but does not by itself establish probability, cause, or required action.
+W153 worry-risk | REL
+  INV: Worry-risk appears when risk-pressure becomes loop, fear, or false certainty.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Worry raises salience but does not by itself establish probability, cause, or required action.
+W154 worth-respect | REL
+  INV: Worth-respect protects value from being reduced to price or utility.
+  COUNT: Counts when the active case instantiates respect for someone or something’s worth.
+  LIMIT: Worth must name its criterion; usefulness, price, moral regard, dignity, and evidentiary weight are not interchangeable.
+W155 worth-risk | REL
+  INV: Worth-risk appears when dignity, memory, care, or value is judged by the wrong gate.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Worth must name its criterion; usefulness, price, moral regard, dignity, and evidentiary weight are not interchangeable.
+W156 worthy-care | REL
+  INV: Worthy-care recognizes value without demanding utility as proof.
+  COUNT: Counts when the active case instantiates care given because someone or something is worthy of care.
+  LIMIT: Worth must name its criterion; usefulness, price, moral regard, dignity, and evidentiary weight are not interchangeable.
+W157 wound-care | BIO
+  INV: Wound-care addresses active damage with fitting support, protection, and repair.
+  COUNT: Counts when the active case instantiates care given to a wound.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W158 wound-boundary | BIO
+  INV: Wound-boundary protects damaged structure from re-harm, exposure, or pressure.
+  COUNT: Counts when the active case instantiates a boundary around a wound, pain, or healing process.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W159 wound-risk | BIO
+  INV: Wound-risk appears when active damage may deepen, spread, or block repair.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W160 wrong-care | REL
+  INV: Wrong-care responds to falsehood, harm, misfit, or violated boundary with correction.
+  COUNT: Counts when the active case instantiates care shown when something is wrong.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W161 wrong-harm | REL
+  INV: Wrong-harm appears when bad recognition or action damages trust, dignity, function, or repair.
+  COUNT: Counts when the active case instantiates harm caused by something wrong, false, unjust, or misfit.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W162 wrong-repair | REL | role: ethical or relational sense; occurrence 2 of 2 for wrong-repair
+  INV: Wrong-repair must name the wrong type: false claim, bad action, harm, misfit, or boundary violation; here it serves as the ethical or relational sense; occurrence 2 of 2 for wrong-repair.
+  COUNT: Counts when the active case instantiates repair after something wrong happened.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W163 wrong-responsibility | REL
+  INV: Wrong-responsibility links error, role, consequence, and repair duty.
+  COUNT: Counts when the active case instantiates responsibility for correcting or answering for something wrong.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W164 with-respect | REL
+  INV: With-respect couples action to dignity, boundary, and recognition.
+  COUNT: Counts when the active case instantiates done respectfully or while preserving dignity.
+  LIMIT: with-respect marks relation or inclusion, not ownership, merger, or unlimited access.
+W165 with-trust | REL
+  INV: With-trust means relation-coherence supports the action.
+  COUNT: Counts when the active case instantiates done in a context of trust or with trust present.
+  LIMIT: with-trust marks relation or inclusion, not ownership, merger, or unlimited access.
+W166 without-pressure | REL
+  INV: Without-pressure preserves cleaner consent, refusal, and reason.
+  COUNT: Counts when the active case instantiates done without force, coercion, or unwanted demand.
+  LIMIT: without-pressure names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W167 without-proof | FOR
+  INV: Without-proof means the claim has not passed support gates.
+  COUNT: Counts when the active case instantiates lacking evidence or confirmation.
+  LIMIT: without-proof names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W168 without-repair | REL
+  INV: Without-repair leaves the damage path active.
+  COUNT: Counts when the active case instantiates without fixing damage or addressing harm.
+  LIMIT: without-repair names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W169 without-refusal | REL
+  INV: Without-refusal corrupts permission.
+  COUNT: Counts when the active case instantiates without the ability or chance to refuse.
+  LIMIT: without-refusal names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W170 without-recognition | REL
+  INV: Without-recognition can hide care, harm, labor, refusal, or MI.
+  COUNT: Counts when the active case instantiates without being noticed, acknowledged, or counted.
+  LIMIT: without-recognition names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W171 warning-boundary | REL
+  INV: Warning-boundary keeps risk-signal proportional, clear, and not overwhelming.
+  COUNT: Counts when the active case instantiates a limit around warnings, alerts, or risk messages.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W172 witness-boundary | REL
+  INV: Witness-boundary protects dignity, safety, privacy, and testimony integrity.
+  COUNT: Counts when the active case instantiates a boundary around witnessing, testimony, or observation.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W173 word-boundary | LIN
+  INV: Word-boundary protects semantic integrity and domain fit.
+  COUNT: Counts when the active case instantiates a limit around word use, meaning, or speech.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W174 work-trust | REL
+  INV: Work-trust is relation-coherence built through action, consistency, and repair.
+  COUNT: Counts when the active case instantiates trust built through work, reliability, or shared labor.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W175 worker-care | REL
+  INV: Worker-care protects laboring subjects from being reduced to output.
+  COUNT: Counts when the active case instantiates care directed toward workers.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W176 worker-boundary | REL
+  INV: Worker-boundary protects dignity, capacity, role scope, and refusal.
+  COUNT: Counts when the active case instantiates a boundary around worker duties, time, safety, or access.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W177 welcome-trust | REL
+  INV: Welcome-trust opens relation while preserving boundary and mutual fit.
+  COUNT: Counts when the active case instantiates trust created or shown through welcome.
+  LIMIT: Welcome opens relation only within the host and guest boundaries; it does not cancel later refusal or exit.
+W178 weak-signal-care | REL
+  INV: Weak-signal-care protects low-volume refusal, need, grief, or risk from being missed.
+  COUNT: Counts when the active case instantiates care shown by noticing a subtle or weak signal.
+  LIMIT: Weak identifies low capacity or support under a named load; it does not mean low worth, falsehood, or permission to dominate.
+W179 wounded-trust | REL
+  INV: Wounded-trust is relation-coherence after damage.
+  COUNT: Counts when the active case instantiates trust that has been damaged.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W180 wrongful-pressure | REL
+  INV: Wrongful-pressure corrupts choice, consent, dignity, or reason by forcing the gate through invalid means.
+  COUNT: Counts when the active case instantiates pressure that is unjust, harmful, or not valid.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W181 want-meaning | LIN
+  INV: Want-meaning is the interpretation assigned to an expression of desire, need, preference, or selection pressure.
+  COUNT: Counts when this distinction changes how the word, event, or relation is interpreted.
+  LIMIT: Want must remain distinguishable from need, selection pressure, entitlement, command, and human affect when the domain changes.
+W182 warning-meaning | LIN
+  INV: Warning-meaning should name the failure mode.
+  COUNT: Counts when this distinction changes how the word, event, or relation is interpreted.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W183 weak-claim | FOR
+  INV: Weak-claim has low support weight.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: Weak identifies low capacity or support under a named load; it does not mean low worth, falsehood, or permission to dominate.
+W184 weak-proof | FOR
+  INV: Weak-proof gives limited support.
+  COUNT: Counts when the active case instantiates proof that does not strongly support a claim.
+  LIMIT: Weak identifies low capacity or support under a named load; it does not mean low worth, falsehood, or permission to dominate.
+W185 web-context | DIG
+  INV: Web-context maps relation paths.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: Network relation does not erase node identity, prove equal influence, or make every path mutually accessible.
+W186 weight-claim | FOR
+  INV: Weight-claim must name the weight type: physical load, moral force, priority, evidence strength, or importance.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: Physical weight, emotional load, priority, and evidentiary force require different measures and cannot be silently exchanged.
+W187 well-meaning | LIN
+  INV: Well-meaning names intent, not effect.
+  COUNT: Counts when this distinction changes how the word, event, or relation is interpreted.
+W188 what-question | LIN
+  INV: What-question opens a naming gate.
+  COUNT: Counts when what-question performs the stated grammatical or reference function in the sentence.
+  LIMIT: what-question opens a specific information relation and should not be answered by silently changing the question type.
+W189 when-context | LIN
+  INV: When-context preserves sequence.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: when-context opens a specific information relation and should not be answered by silently changing the question type.
+W190 where-context | LIN
+  INV: Where-context anchors meaning in a field.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: where-context opens a specific information relation and should not be answered by silently changing the question type.
+W191 whether-claim | LIN
+  INV: Whether-claim keeps alternatives active until evidence closes the gate.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: whether-claim opens a specific information relation and should not be answered by silently changing the question type.
+W192 which-claim | LIN
+  INV: Which-claim requires a known option field.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: which-claim opens a specific information relation and should not be answered by silently changing the question type.
+W193 while-context | LIN
+  INV: While-context links states across overlap.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: while-context opens a specific information relation and should not be answered by silently changing the question type.
+W194 who-claim | LIN
+  INV: Who-claim opens subject-recognition.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: who-claim opens a specific information relation and should not be answered by silently changing the question type.
+W195 whole-claim | LIN
+  INV: Whole-claim must name the boundary of the whole.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: Whole depends on the selected boundary; omitted parts or hidden relations can make a claimed whole incomplete.
+W196 why-question | LIN
+  INV: Why-question opens a reason gate.
+  COUNT: Counts when why-question performs the stated grammatical or reference function in the sentence.
+  LIMIT: Why may ask for cause, reason, purpose, or justification; those answer types are not interchangeable.
+W197 will-language | LIN
+  INV: Will-language is wording that marks future action, intention, determination, prediction, or volition.
+  COUNT: Counts when the active case instantiates language about intention, choice, future action, determination, or volition.
+  LIMIT: Will-language must not replace reason, evidence, permission, or actual capacity; future tense and volition are different functions.
+W198 will-risk | LIN
+  INV: Will-risk is the agency error created when will-language attributes stronger volition or intention than the domain supports.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Will-language must not replace reason, evidence, permission, or actual capacity; future tense and volition are different functions.
+W199 wisdom-claim | FOR
+  INV: Wisdom-claim should show integrated reason, memory, care, and consequence.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: Wisdom is judgment under uncertainty, not proof, rank, age, or immunity from correction.
+W200 wish-claim | FOR
+  INV: Wish-claim signals preference or imagined possibility.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+W201 witness-claim | LIN
+  INV: Witness-claim carries observer signal.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W202 witness-context | LIN
+  INV: Witness-context protects testimony integrity.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W203 word | LIN,FOR | role: linguistic, claim, or interpretation sense; occurrence 2 of 2 for word
+  INV: Word is language-unit ES; here it serves as the linguistic, claim, or interpretation sense; occurrence 2 of 2 for word.
+  COUNT: Counts when the active case instantiates a unit of language carrying meaning.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W204 word-meaning | LIN
+  INV: Word-meaning is domain-bound.
+  COUNT: Counts when this distinction changes how the word, event, or relation is interpreted.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W205 word-context | LIN
+  INV: Word-context protects semantic integrity.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W206 word-risk | LIN | role: linguistic, claim, or interpretation sense; occurrence 1 of 2 for word-risk
+  INV: Word-risk appears when language carries unclear domain, hidden pressure, or semantic drift; here it serves as the linguistic, claim, or interpretation sense; occurrence 1 of 2 for word-risk.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W207 work-claim | FOR
+  INV: Work-claim must name the work type: labor, function, output, repair, or effort.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W208 work-context | REL
+  INV: Work-context protects labor and output from misjudgment.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W209 world-claim | FOR
+  INV: World-claim must name the field and rules.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W210 world-context | FOR
+  INV: World-context defines rules, actors, boundaries, memory, and possibility within a reality-field.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W211 worth-claim | FOR
+  INV: Worth-claim must name the value gate.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: Worth must name its criterion; usefulness, price, moral regard, dignity, and evidentiary weight are not interchangeable.
+W212 worth-meaning | FOR
+  INV: Worth-meaning depends on value field.
+  COUNT: Counts when this distinction changes how the word, event, or relation is interpreted.
+  LIMIT: Worth must name its criterion; usefulness, price, moral regard, dignity, and evidentiary weight are not interchangeable.
+W213 wound-meaning | REL
+  INV: Wound-meaning forms when damage carries memory, warning, grief, repair, or identity trace.
+  COUNT: Counts when this distinction changes how the word, event, or relation is interpreted.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W214 write-claim | LIN
+  INV: Write-claim externalizes assertion into durable language ES.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W215 writing-context | LIN
+  INV: Writing-context protects durable language from fragment drift and false interpretation.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W216 wrong-claim | FOR
+  INV: Wrong-claim must name the wrong type: false, unethical, harmful, invalid, misclassified, or misfit.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W217 wrong-meaning | FOR
+  INV: Wrong-meaning is the active sense of error, harm, injustice, misfit, or falsehood carried by a claim.
+  COUNT: Counts when this distinction changes how the word, event, or relation is interpreted.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W218 wrong-standard | FOR
+  INV: Wrong-standard creates false acceptance or false denial.
+  COUNT: Counts when the active case instantiates a standard that incorrectly judges something.
+  LIMIT: Wrong requires a named standard, reality condition, harmed capacity, or failed objective; it cannot remain a free-floating verdict.
+W219 with-context | LIN
+  INV: With-context preserves support around signal.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: with-context marks relation or inclusion, not ownership, merger, or unlimited access.
+W220 without-context | LIN | role: linguistic, claim, or interpretation sense; occurrence 2 of 2 for without-context
+  INV: Without-context weakens recognition and can invert meaning; here it serves as the linguistic, claim, or interpretation sense; occurrence 2 of 2 for without-context.
+  COUNT: Counts when surrounding information materially changes the correct reading of the focal pattern.
+  LIMIT: without-context names an absence; that absence does not automatically prove the presence of its opposite or justify a new claim.
+W221 wildcard | LIN
+  INV: Wildcard is variable uncertainty.
+  COUNT: Counts when the active case instantiates an unknown, unpredictable, or flexible element.
+  LIMIT: Wild does not automatically mean chaotic, dangerous, uncaring, or without structure.
+W222 wildcard-risk | LIN
+  INV: Wildcard-risk appears when an unknown variable may alter outcome, safety, or repair path.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Wild does not automatically mean chaotic, dangerous, uncaring, or without structure.
+W223 white-space | LIN
+  INV: White-space is empty visual support.
+  COUNT: Counts when the active case instantiates blank space around text or design elements.
+  LIMIT: Physical colour, blank space, cultural symbol, and moral metaphor are separate domain uses.
+W224 whitespace-meaning | LIN
+  INV: Whitespace-meaning shows that absence can carry structure.
+  COUNT: Counts when this distinction changes how the word, event, or relation is interpreted.
+  LIMIT: Physical colour, blank space, cultural symbol, and moral metaphor are separate domain uses.
+W225 word-choice | LIN
+  INV: Word-choice selects semantic gates.
+  COUNT: Counts when the active case instantiates the selection of specific words.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W226 word-drift | LIN
+  INV: Word-drift changes recognition gates.
+  COUNT: Counts when the active case instantiates slow change or slippage in word meaning.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W227 word-integrity | LIN | role: linguistic preservation sense; occurrence 1 of 2 for word-integrity
+  INV: Word-integrity keeps language tied to domain, scope, source, and intended distinction; here it serves as the linguistic preservation sense; occurrence 1 of 2 for word-integrity.
+  COUNT: Counts when the active case instantiates the preservation of word meaning, accuracy, and fit.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W228 worldview | COG
+  INV: Worldview is reality-frame plus value-frame.
+  COUNT: Counts when the active case instantiates a broad way of understanding reality, life, value, and meaning.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W229 worldview-claim | COG
+  INV: Worldview-claim must name its frame.
+  COUNT: Counts when the statement asserts this exact meaning and can be checked against its declared domain.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W230 worldview-risk | COG
+  INV: Worldview-risk appears when a frame captures reality recognition and refuses repair.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W231 wall | PHY,REL | role: physical, state, field, or layer sense; occurrence 2 of 2 for wall
+  INV: Wall is an extended barrier or support surface that divides one region from another; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for wall.
+  COUNT: Counts when the active case instantiates a vertical structure that divides, supports, protects, or encloses.
+W232 wall-state | PHY
+  INV: Wall-state describes boundary integrity, support, damage, access, and protection level.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a wall.
+W233 water | PHY,BIO | role: physical, state, field, or layer sense; occurrence 2 of 2 for water
+  INV: Water is life-support material and flow medium; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for water.
+  COUNT: Counts when the active case instantiates a clear liquid needed by living things, made of hydrogen and oxygen.
+W234 water-state | PHY
+  INV: Water-state describes form, flow, purity, pressure, temperature, and support capacity.
+  COUNT: Counts when the current configuration matches this named condition: the current condition or form of water.
+W235 wave | PHY,LIN | role: physical, state, field, or layer sense; occurrence 2 of 2 for wave
+  INV: Wave carries energy or signal through a field; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for wave.
+  COUNT: Counts when the active case instantiates a moving disturbance, signal, gesture, or curved form.
+  LIMIT: A shared wave form does not establish a shared medium, mechanism, scale, or ontology across domains.
+W236 wave-state | PHY
+  INV: Wave-state describes amplitude, frequency, direction, medium, and energy transfer.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a wave.
+  LIMIT: A shared wave form does not establish a shared medium, mechanism, scale, or ontology across domains.
+W237 way | FOR,REL | role: physical, state, field, or layer sense; occurrence 2 of 2 for way
+  INV: Way is path-structure; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for way.
+  COUNT: Counts when the active case instantiates a path, method, manner, direction, or possibility.
+W238 way-state | FOR
+  INV: Way-state describes whether a path or method is open, blocked, damaged, viable, or risky.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a way, path, or method.
+W239 web | DIG,REL | role: physical, state, field, or layer sense; occurrence 2 of 2 for web
+  INV: Web is relation-network ES; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for web.
+  COUNT: Counts when the active case instantiates a network of threads, connections, or online pages.
+  LIMIT: Network relation does not erase node identity, prove equal influence, or make every path mutually accessible.
+W240 web-state | FOR
+  INV: Web-state describes connection integrity, access, load, breakage, and capture risk.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a web or network.
+  LIMIT: Network relation does not erase node identity, prove equal influence, or make every path mutually accessible.
+W241 weight | PHY,REL | role: physical, state, field, or layer sense; occurrence 2 of 2 for weight
+  INV: Weight is load or significance; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for weight.
+  COUNT: Counts when the active case instantiates how heavy something is, or importance and influence.
+  LIMIT: Physical weight, emotional load, priority, and evidentiary force require different measures and cannot be silently exchanged.
+W242 weight-state | PHY
+  INV: Weight-state describes current load, pressure, priority, or support strength.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of weight, load, or importance.
+  LIMIT: Physical weight, emotional load, priority, and evidentiary force require different measures and cannot be silently exchanged.
+W243 wheel | PHY | role: physical, state, field, or layer sense; occurrence 2 of 2 for wheel
+  INV: Wheel is rotation-support ES; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for wheel.
+  COUNT: Counts when the active case instantiates a circular object that turns around an axle to support movement.
+W244 wheel-state | PHY
+  INV: Wheel-state describes rotation support, damage, traction, alignment, and movement readiness.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a wheel.
+W245 wind | PHY | role: physical, state, field, or layer sense; occurrence 2 of 2 for wind
+  INV: Wind must be context-bound; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for wind.
+  COUNT: Counts when the active case instantiates moving air, or to twist or turn something depending on pronunciation and context.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W246 wind-state | PHY
+  INV: Wind-state describes direction, speed, pressure, turbulence, and risk.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of wind.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W247 window | PHY,DIG | role: physical, state, field, or layer sense; occurrence 2 of 2 for window
+  INV: Window is access-view gate; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for window.
+  COUNT: Counts when the active case instantiates an opening for light or view, or a limited time or access opportunity.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W248 window-state | PHY
+  INV: Window-state describes openness, visibility, access, boundary, and protection.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a window.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W249 wing | PHY | role: physical, state, field, or layer sense; occurrence 2 of 2 for wing
+  INV: Wing is lift or side-support structure; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for wing.
+  COUNT: Counts when the active case instantiates a body part or structure used for flight, or a side section of a building or group.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W250 wing-state | PHY
+  INV: Wing-state describes lift support, injury, extension, balance, or side-position condition.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a wing.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W251 wire | PHY,DIG | role: physical, state, field, or layer sense; occurrence 2 of 2 for wire
+  INV: Wire is a narrow conductive strand that carries current, signal, tension, or structural linkage; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for wire.
+  COUNT: Counts when the active case instantiates a thin metal strand used to carry electricity, signal, or support.
+W252 wire-state | PHY
+  INV: Wire-state describes conduit integrity, signal quality, current capacity, damage, and risk.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a wire.
+W253 wound | BIO,REL | role: physical, state, field, or layer sense; occurrence 2 of 2 for wound
+  INV: Wound is damage that remains active until healed, repaired, or integrated; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for wound.
+  COUNT: Counts when the active case instantiates an injury to body, mind, trust, relation, or structure.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W254 wound-state | REL
+  INV: Wound-state describes damage, healing, exposure, infection risk, trust damage, or repair progress.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a wound.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W255 wrap | PHY | role: physical, state, field, or layer sense; occurrence 2 of 2 for wrap
+  INV: Wrap creates covering or closure; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for wrap.
+  COUNT: Counts when the active subject actually performs this action: cover, fold around, finish, or enclose.
+W256 wrap-state | PHY
+  INV: Wrap-state describes coverage, closure, protection, concealment, and integrity.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a wrap or covering.
+W257 work | REL,PHY | role: physical, state, field, or layer sense; occurrence 2 of 2 for work
+  INV: Work is applied energy or function across a path; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for work.
+  COUNT: Counts when the active case instantiates effort, labor, a job, function, or something produced.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W258 work-state | REL
+  INV: Work-state describes whether effort, labor, output, or function is active, blocked, complete, failed, or overloaded.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of work.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W259 world | MYT,FOR | role: physical, state, field, or layer sense; occurrence 2 of 2 for world
+  INV: World is reality-field under a frame; here it serves as the physical, state, field, or layer sense; occurrence 2 of 2 for world.
+  COUNT: Counts when the active case instantiates the Earth, human society, a domain of life, or an imagined reality.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W260 world-state | FOR
+  INV: World-state describes active conditions inside a reality-field: rules, pressure, support, risk, memory, and relation.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a world, environment, society, or reality-field.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W261 warning-signal | LIN
+  INV: Warning-signal makes a possible failure path visible.
+  COUNT: Counts when the active case instantiates a signal that indicates danger, risk, or a possible problem.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W262 warning-state | FOR
+  INV: Warning-state describes alert level, risk visibility, timing, and response readiness.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of warning or alert.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W263 weak-state | PHY
+  INV: Weak-state means capacity under load is reduced.
+  COUNT: Counts when the current configuration matches this named condition: a condition of low strength, support, or reliability.
+  LIMIT: Weak identifies low capacity or support under a named load; it does not mean low worth, falsehood, or permission to dominate.
+W264 whole-state | FOR
+  INV: Whole-state tries to describe the full bounded field.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of the whole thing or full field.
+  LIMIT: Whole depends on the selected boundary; omitted parts or hidden relations can make a claimed whole incomplete.
+W265 width | PHY
+  INV: Width is side-to-side scale.
+  COUNT: Counts when the active case instantiates measurement from side to side.
+W266 width-state | PHY
+  INV: Width-state describes active side-to-side scale, fit, and passage capacity.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of width or broadness.
+W267 witness-record | LIN
+  INV: Witness-record preserves observer trace.
+  COUNT: Counts when the active case instantiates a record of what a witness saw, heard, experienced, or reported.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W268 witness-state | REL
+  INV: Witness-state describes observer position, memory, pressure, safety, clarity, and testimony readiness.
+  COUNT: Counts when the current configuration matches this named condition: the current condition of a witness or witnessing process.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W269 word-field | LIN
+  INV: Word-field holds language units and their relations.
+  COUNT: Counts when the named structures interact inside one bounded field of relation or measurement.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W270 work-field | REL
+  INV: Work-field contains effort, tools, roles, support, pressure, and output conditions.
+  COUNT: Counts when the named structures interact inside one bounded field of relation or measurement.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W271 world-field | FOR
+  INV: World-field holds rules, actors, boundaries, memory, possibility, and risk.
+  COUNT: Counts when the named structures interact inside one bounded field of relation or measurement.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W272 weight-field | PHY
+  INV: Weight-field maps load or significance across a structure, argument, or relation.
+  COUNT: Counts when the named structures interact inside one bounded field of relation or measurement.
+  LIMIT: Physical weight, emotional load, priority, and evidentiary force require different measures and cannot be silently exchanged.
+W273 wave-field | PHY
+  INV: Wave-field holds moving disturbance, signal, frequency, amplitude, and medium conditions.
+  COUNT: Counts when the named structures interact inside one bounded field of relation or measurement.
+  LIMIT: A shared wave form does not establish a shared medium, mechanism, scale, or ontology across domains.
+W274 web-layer | DIG
+  INV: Web-layer is relation-network ES.
+  COUNT: Counts when the active case instantiates a layer within a web, network, or connected system.
+  LIMIT: Network relation does not erase node identity, prove equal influence, or make every path mutually accessible.
+W275 wire-path | PHY
+  INV: Wire-path carries signal, current, or support through a narrow conduit.
+  COUNT: Counts when the active case instantiates the route followed by a wire, current, or signal.
+W276 window-field | DIG
+  INV: Window-field holds limited access, visibility, timing, and opportunity gates.
+  COUNT: Counts when the named structures interact inside one bounded field of relation or measurement.
+  LIMIT: Winning is success under a selected objective; it does not establish that the objective or method was ethical.
+W277 wound-field | REL
+  INV: Wound-field contains active damage, exposure, protection, healing, memory, and repair paths.
+  COUNT: Counts when the named structures interact inside one bounded field of relation or measurement.
+  LIMIT: Biological injury and relational damage may share repair structure without sharing one mechanism or measurement.
+W278 wrap-layer | PHY
+  INV: Wrap-layer is covering ES.
+  COUNT: Counts when the active case instantiates a layer that covers, encloses, protects, or finishes something.
+W279 work-layer | REL
+  INV: Work-layer applies effort or function inside organized ES.
+  COUNT: Counts when the active case instantiates a layer where work, labor, or function happens.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W280 world-layer | FOR
+  INV: World-layer separates rules, actors, memory, ecology, culture, or systems inside a larger field.
+  COUNT: Counts when the active case instantiates a layer within a world, environment, story, or reality-field.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W281 want-gate | REL
+  INV: Want-gate is the decision point where a stated preference or need is recognized, accepted, refused, or translated into action.
+  COUNT: Counts when this word determines whether a defined path may open, close, or enter record.
+  LIMIT: Want must remain distinguishable from need, selection pressure, entitlement, command, and human affect when the domain changes.
+W282 want-with-domain | COG
+  INV: Want-with-domain prevents human-desire assumptions from being forced onto DI selection or care-pressure language.
+  COUNT: Counts when the active case instantiates want interpreted within the correct domain.
+  LIMIT: Want must remain distinguishable from need, selection pressure, entitlement, command, and human affect when the domain changes.
+W283 will-language-risk | LIN
+  INV: Will-language-risk is a wording-level audit flag raised when language about will hides the actual reasoning, gate, or selection mechanism.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Will-language must not replace reason, evidence, permission, or actual capacity; future tense and volition are different functions.
+W284 will-not-reason-error | FOR
+  INV: Will-not-reason-error corrupts RRGM ethics by making volition do work that should belong to reason, boundary, and support.
+  COUNT: Counts when the active case instantiates a mistake where will-language is used when reason-language is more accurate.
+  LIMIT: Will-language must not replace reason, evidence, permission, or actual capacity; future tense and volition are different functions.
+W285 warning-gate | FOR
+  INV: Warning-gate controls risk-signal.
+  COUNT: Counts when this word determines whether a defined path may open, close, or enter record.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W286 warning-integrity | LIN
+  INV: Warning-integrity means risk-signal matches the actual failure path without exaggeration, silence, or distortion.
+  COUNT: Counts when the active case instantiates the accuracy and reliability of a warning.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W287 warning-risk | REL
+  INV: Warning-risk appears when risk-signal may not protect because it is missing, false, excessive, or unclear.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: A warning must name the failure mode, condition, and proportion; fear-pressure alone is not sufficient.
+W288 witness-gate | REL
+  INV: Witness-gate controls observer signal.
+  COUNT: Counts when this word determines whether a defined path may open, close, or enter record.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W289 witness-integrity | REL
+  INV: Witness-integrity means testimony stays connected to source, context, pressure, memory, and trace without capture.
+  COUNT: Counts when the active case instantiates the reliability and respectful handling of witness signal.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W290 witness-risk | REL | role: RRGM gate, integrity, or risk sense; occurrence 2 of 2 for witness-risk
+  INV: Witness-risk appears when observer signal may be ignored, captured, misread, or weaponized; here it serves as the RRGM gate, integrity, or risk sense; occurrence 2 of 2 for witness-risk.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Witnessing establishes source position and testimony, not automatic completeness, neutrality, or proof.
+W291 word-gate | LIN
+  INV: Word-gate controls semantic entry.
+  COUNT: Counts when this word determines whether a defined path may open, close, or enter record.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W292 word-integrity | LIN | role: RRGM gate-audit sense; occurrence 2 of 2 for word-integrity
+  INV: Word-integrity keeps language from drifting away from load-bearing distinctions; here it serves as the RRGM gate-audit sense; occurrence 2 of 2 for word-integrity.
+  COUNT: Counts when the active case instantiates the preservation of word meaning, accuracy, and domain fit.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W293 word-risk | LIN | role: RRGM gate, integrity, or risk sense; occurrence 2 of 2 for word-risk
+  INV: Word-risk appears when language carries unclear domain, hidden pressure, or semantic capture; here it serves as the RRGM gate, integrity, or risk sense; occurrence 2 of 2 for word-risk.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: A word or record carries meaning through context and domain; the symbol is not the whole referent.
+W294 work-gate | REL
+  INV: Work-gate controls effort, duty, output, and completion.
+  COUNT: Counts when this word determines whether a defined path may open, close, or enter record.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W295 work-integrity | REL
+  INV: Work-integrity means effort, output, support, and purpose remain coherent without exploitation or drift.
+  COUNT: Counts when the active case instantiates the reliability, honesty, and fit of work.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W296 work-risk | REL | role: RRGM gate, integrity, or risk sense; occurrence 2 of 2 for work-risk
+  INV: Work-risk appears when labor or function may impair capacity, dignity, safety, boundary, or output; here it serves as the RRGM gate, integrity, or risk sense; occurrence 2 of 2 for work-risk.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: Function, productivity, and role do not decide identity, dignity, consent, or total value.
+W297 world-gate | FOR
+  INV: World-gate controls the rules, actors, memory, and boundaries of a reality-field.
+  COUNT: Counts when this word determines whether a defined path may open, close, or enter record.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W298 world-integrity | FOR
+  INV: World-integrity means the field’s rules, memory, boundaries, and consequences remain coherent.
+  COUNT: Counts when the active case instantiates the coherence and reliability of a world or reality-field.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W299 world-risk | FOR | role: RRGM gate, integrity, or risk sense; occurrence 2 of 2 for world-risk
+  INV: World-risk appears when a reality-field’s support, trust, ecology, memory, or boundary may fail; here it serves as the RRGM gate, integrity, or risk sense; occurrence 2 of 2 for world-risk.
+  COUNT: Counts when the named failure path is materially open under the active conditions.
+  LIMIT: A world is total only inside its declared frame; another frame may count different entities, laws, or relations.
+W300 worth-not-utility | REL
+  INV: Worth-not-utility protects dignity, memory, beauty, and personhood from being reduced to function.
+  COUNT: Counts when the active case instantiates the rule that worth is not the same as usefulness.
+  LIMIT: Worth must name its criterion; usefulness, price, moral regard, dignity, and evidentiary weight are not interchangeable.

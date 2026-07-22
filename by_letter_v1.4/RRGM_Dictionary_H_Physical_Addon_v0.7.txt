@@ -1,0 +1,558 @@
+RRGM Dictionary H Physical Addon v0.7
+
+Scope: New H-terms whose primary implementation belongs to the [PHY] domain and which are not present as headwords in the base H section.
+Production rule: Each entry carries its own invariant MI. Definitions are compressed, domain-specific, and proof remains local.
+
+Entry count: 24
+
+HP001 half-life
+
+Common meaning:
+The interval required for a quantity in exponential decay to fall to half its current value.
+
+Invariant MI [INV]:
+Half-life is a decay timescale defined by proportional reduction rather than a fixed amount lost per interval.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] It applies to radioactive populations and other exponential processes with a stable decay constant.
+
+Count condition:
+Counts when the process follows a declared exponential decay model and the 50 percent interval is measurable.
+
+Specific transfer boundary:
+Half-life does not mean the entire quantity disappears after two intervals.
+
+Epistemic status:
+[DEF]
+
+HP002 heat-capacity
+
+Common meaning:
+The heat required to raise a system’s temperature by one unit.
+
+Invariant MI [INV]:
+Heat-capacity relates transferred thermal energy to resulting temperature change.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] It depends on the system boundary, amount of material, state, and conditions.
+
+Count condition:
+Counts when added heat and temperature change are measured for the same declared system.
+
+Specific transfer boundary:
+Heat capacity is not temperature.
+
+Epistemic status:
+[DEF]
+
+HP003 heat-flux
+
+Common meaning:
+Thermal energy transferred per unit area per unit time.
+
+Invariant MI [INV]:
+Heat-flux measures how intensely heat crosses a surface.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Direction and sign depend on the selected surface orientation and temperature field.
+
+Count condition:
+Counts when energy transfer, area, and interval are declared.
+
+Specific transfer boundary:
+Total heat flow and heat flux are different quantities.
+
+Epistemic status:
+[DEF]
+
+HP004 heat-sink
+
+Common meaning:
+A structure that absorbs and disperses heat from another component.
+
+Invariant MI [INV]:
+Heat-sink lowers component temperature by providing a larger or better-coupled path for thermal transfer.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Conduction moves heat into the sink and convection or radiation releases it to the environment.
+
+Count condition:
+Counts when the attached structure measurably increases heat removal from the source.
+
+Specific transfer boundary:
+A heat sink does not create cold or eliminate energy.
+
+Epistemic status:
+[DEF]
+
+HP005 heat-engine
+
+Common meaning:
+A device that converts part of a heat flow into mechanical work.
+
+Invariant MI [INV]:
+Heat-engine operates between thermal reservoirs and rejects some heat while producing work.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Its efficiency is bounded by reservoir temperatures and irreversible losses.
+
+Count condition:
+Counts when a cyclic process absorbs heat, performs net work, and releases residual heat.
+
+Specific transfer boundary:
+No heat engine converts all absorbed heat into work.
+
+Epistemic status:
+[DEF]
+
+HP006 harmonic-oscillator
+
+Common meaning:
+A system whose restoring force is proportional and opposite to displacement.
+
+Invariant MI [INV]:
+Harmonic-oscillator produces sinusoidal motion around equilibrium under the ideal linear rule.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Mass, stiffness, and damping determine its frequency and response.
+
+Count condition:
+Counts when the restoring relation is linear over the active range.
+
+Specific transfer boundary:
+Real oscillators may depart from harmonic behaviour at large amplitude.
+
+Epistemic status:
+[DEF]
+
+HP007 harmonic-frequency
+
+Common meaning:
+A frequency equal to an integer multiple of a fundamental frequency.
+
+Invariant MI [INV]:
+Harmonic-frequency is one periodic component aligned to the base cycle by an integer ratio.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Harmonics shape waveform, resonance, sound, and vibration.
+
+Count condition:
+Counts when the ratio to the declared fundamental is an integer.
+
+Specific transfer boundary:
+A non-integer related frequency is not a harmonic under this definition.
+
+Epistemic status:
+[DEF]
+
+HP008 helicity
+
+Common meaning:
+A measure of handedness relating a vector quantity to the direction of motion or field structure.
+
+Invariant MI [INV]:
+Helicity distinguishes aligned from opposed twist or spin-direction relations.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Its exact form depends on whether the system is a particle, fluid, or field.
+
+Count condition:
+Counts when the relevant directional quantities and sign convention are declared.
+
+Specific transfer boundary:
+Helicity in different physical theories is not automatically the same observable.
+
+Epistemic status:
+[DEF]
+
+HP009 hydraulic-pressure
+
+Common meaning:
+Pressure transmitted through a confined liquid.
+
+Invariant MI [INV]:
+Hydraulic-pressure carries force through fluid contact across the containing system.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Differences in piston area can transform force while conserving the pressure relation ideally.
+
+Count condition:
+Counts when a confined liquid transmits normal force per unit area.
+
+Specific transfer boundary:
+Pressure transmission does not create energy.
+
+Epistemic status:
+[DEF]
+
+HP010 hydrostatic-pressure
+
+Common meaning:
+Pressure in a fluid at rest caused by overlying fluid weight and external pressure.
+
+Invariant MI [INV]:
+Hydrostatic-pressure increases with depth according to density and gravitational field.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] It acts in all directions at a point in an ideal static fluid.
+
+Count condition:
+Counts when the fluid is sufficiently at rest and depth, density, and gravity are declared.
+
+Specific transfer boundary:
+Flowing-fluid pressure may require additional terms.
+
+Epistemic status:
+[DEF]
+
+HP011 hydrogen-bond
+
+Common meaning:
+An attractive interaction involving hydrogen bound to an electronegative atom and another electronegative site.
+
+Invariant MI [INV]:
+Hydrogen-bond is a directional intermolecular or intramolecular interaction weaker than a typical covalent bond.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] It strongly influences water, molecular structure, and material properties.
+
+Count condition:
+Counts when donor, hydrogen, and acceptor geometry support the interaction.
+
+Specific transfer boundary:
+The name does not mean a free hydrogen atom forms a covalent bond.
+
+Epistemic status:
+[DEF]
+
+HP012 hall-effect
+
+Common meaning:
+A transverse voltage produced when charge carriers move through a magnetic field.
+
+Invariant MI [INV]:
+Hall-effect separates charge across a conductor or semiconductor perpendicular to current and magnetic field.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] The sign and magnitude reveal carrier type, density, and field strength under declared conditions.
+
+Count condition:
+Counts when current, magnetic field, and measurable transverse potential are present.
+
+Specific transfer boundary:
+A transverse voltage from another cause is not automatically Hall effect.
+
+Epistemic status:
+[DEF]
+
+HP013 horizon-distance
+
+Common meaning:
+The maximum line-of-sight distance to a horizon for a declared observer height and geometry.
+
+Invariant MI [INV]:
+Horizon-distance is set by curvature and observer position rather than by visibility alone.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Atmospheric refraction may alter the measured distance.
+
+Count condition:
+Counts when the reference surface, observer height, and line of sight are defined.
+
+Specific transfer boundary:
+Cloud or terrain obstruction is not the geometric horizon.
+
+Epistemic status:
+[DEF]
+
+HP014 hard-vacuum
+
+Common meaning:
+A very low-pressure environment with extremely sparse gas particles.
+
+Invariant MI [INV]:
+Hard-vacuum is a practical vacuum state defined by pressure and mean free path, not absolute nothingness.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Residual particles, radiation, fields, and material outgassing may remain.
+
+Count condition:
+Counts when measured pressure falls within the declared high-vacuum regime.
+
+Specific transfer boundary:
+Vacuum does not mean absence of all energy or field structure.
+
+Epistemic status:
+[DEF]
+
+HP015 hysteresis
+
+Common meaning:
+Dependence of a system’s current state on the path by which it arrived there.
+
+Invariant MI [INV]:
+Hysteresis creates different response curves for increasing and decreasing input.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] It appears in magnetic, mechanical, thermal, and other systems with retained state.
+
+Count condition:
+Counts when identical present input can produce different output because prior trajectory differs.
+
+Specific transfer boundary:
+Ordinary delay alone is not necessarily hysteresis.
+
+Epistemic status:
+[DEF]
+
+HP016 humidity-ratio
+
+Common meaning:
+The mass of water vapour relative to the mass of dry air in a mixture.
+
+Invariant MI [INV]:
+Humidity-ratio measures moisture content independently of the mixture’s total mass scale.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] It is used in psychrometric analysis of air and water vapour.
+
+Count condition:
+Counts when vapour mass and dry-air mass are defined for the same sample.
+
+Specific transfer boundary:
+Humidity ratio is not the same as relative humidity.
+
+Epistemic status:
+[DEF]
+
+HP017 high-pass-filter
+
+Common meaning:
+A filter that passes frequencies above a chosen transition region more strongly than lower frequencies.
+
+Invariant MI [INV]:
+High-pass-filter suppresses slow variation while preserving faster signal components.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Its cutoff and slope describe the frequency-dependent response.
+
+Count condition:
+Counts when measured gain increases from the rejected low-frequency band toward the passed band.
+
+Specific transfer boundary:
+A high-pass filter does not guarantee removal of all low-frequency content.
+
+Epistemic status:
+[DEF]
+
+HP018 high-energy-state
+
+Common meaning:
+A state with greater energy than a declared reference or lower state.
+
+Invariant MI [INV]:
+High-energy-state is relative position in an energy spectrum or potential landscape.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] It may be excited, metastable, thermally populated, or externally driven.
+
+Count condition:
+Counts when the system’s energy exceeds the named reference under the same Hamiltonian or measurement rule.
+
+Specific transfer boundary:
+High energy does not automatically mean unstable or dangerous.
+
+Epistemic status:
+[DEF]
+
+HP019 hole-conduction
+
+Common meaning:
+Charge transport described through the motion of electron vacancies in a material.
+
+Invariant MI [INV]:
+Hole-conduction treats missing electrons in an occupied band as positive mobile carriers.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] The effective hole motion is opposite the motion of the electrons filling successive vacancies.
+
+Count condition:
+Counts when the band structure and carrier model support hole-like transport.
+
+Specific transfer boundary:
+A hole is not a literal empty particle travelling through free space.
+
+Epistemic status:
+[DEF]
+
+HP020 heat-conduction
+
+Common meaning:
+Heat transfer through microscopic interactions within or between contacting matter.
+
+Invariant MI [INV]:
+Heat-conduction moves thermal energy down a temperature gradient without bulk material flow being required.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Conductivity, geometry, and gradient determine the rate in the local model.
+
+Count condition:
+Counts when a temperature gradient drives energy transfer through material contact.
+
+Specific transfer boundary:
+Conduction and convection are different transfer mechanisms.
+
+Epistemic status:
+[DEF]
+
+HP021 heat-radiation
+
+Common meaning:
+Thermal energy transfer by electromagnetic emission and absorption.
+
+Invariant MI [INV]:
+Heat-radiation can cross vacuum because its courier is electromagnetic radiation rather than material contact.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Emission depends on temperature, surface properties, and wavelength.
+
+Count condition:
+Counts when net electromagnetic energy transfer is attributable to thermal emission and absorption.
+
+Specific transfer boundary:
+Radiation heat transfer is not radioactive decay.
+
+Epistemic status:
+[DEF]
+
+HP022 helmholtz-energy
+
+Common meaning:
+A thermodynamic potential equal to internal energy minus temperature times entropy.
+
+Invariant MI [INV]:
+Helmholtz-energy measures work availability for a closed system under fixed temperature and volume conditions.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Equilibrium tends toward lower Helmholtz free energy under those declared constraints.
+
+Count condition:
+Counts when system boundary, temperature, volume, energy, and entropy are defined.
+
+Specific transfer boundary:
+Its minimization rule does not apply under every thermodynamic constraint.
+
+Epistemic status:
+[DEF]
+
+HP023 hookes-law
+
+Common meaning:
+The linear relation between deformation and restoring force or stress within an elastic range.
+
+Invariant MI [INV]:
+Hookes-law states that response is proportional to applied deformation before the material leaves its linear regime.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] The proportionality constant depends on the system and geometry.
+
+Count condition:
+Counts when measured response remains linear and reversible over the declared range.
+
+Specific transfer boundary:
+The law fails beyond elastic or small-deformation conditions.
+
+Epistemic status:
+[DEF]
+
+HP024 hubble-constant
+
+Common meaning:
+The present proportionality scale relating cosmic recession speed to distance in the local expansion model.
+
+Invariant MI [INV]:
+Hubble-constant parameterizes the current expansion rate of the universe.
+
+Active domain:
+[PHY]
+
+Domain entry:
+[PHY] Its inferred value depends on measurement method, cosmological model, and calibration.
+
+Count condition:
+Counts when recession and distance observations are interpreted within a declared cosmological framework.
+
+Specific transfer boundary:
+It is not constant across all cosmic history in the same sense as a fundamental constant.
+
+Epistemic status:
+[DEF]

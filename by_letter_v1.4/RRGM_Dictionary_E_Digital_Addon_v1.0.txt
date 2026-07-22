@@ -1,0 +1,558 @@
+RRGM Dictionary E Digital Addon v1.0
+License: CC BY-SA 4.0
+Scope: New E-terms whose primary implementation belongs to the [DIG] domain.
+Rule: Addon terms are absent from the source base list and remain domain-local unless a coupler is declared.
+
+Entry count: 24
+
+ED001 embedding-space
+
+Common meaning:
+A numerical space in which encoded items are located by learned relation.
+
+Invariant MI [INV]:
+Embedding-space is a digital coordinate field where semantic or structural proximity is represented as distance or direction.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Tokens, images, records, or concepts occupy positions produced by an embedding model.
+
+Count condition:
+Counts when a model maps inputs to vectors in a declared dimensional space.
+
+Specific transfer boundary:
+Proximity in embedding-space does not by itself prove human-equivalent meaning.
+
+Epistemic status:
+[DEF]
+
+ED002 execution-trace
+
+Common meaning:
+A recorded sequence of operations performed during a run.
+
+Invariant MI [INV]:
+Execution-trace is ordered evidence of how a digital process moved from input through state changes to output.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may include calls, branches, errors, timings, and state transitions.
+
+Count condition:
+Counts when enough ordered operational record exists to reconstruct or inspect the run path.
+
+Specific transfer boundary:
+A trace records execution, not necessarily the full reason for every choice.
+
+Epistemic status:
+[DEF]
+
+ED003 error-budget
+
+Common meaning:
+The amount of failure or unreliability a service can tolerate within a declared objective.
+
+Invariant MI [INV]:
+Error-budget is a bounded allowance linking reliability targets to operational change and risk.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Spending the budget may justify faster change until the remaining allowance threatens the service objective.
+
+Count condition:
+Counts when reliability target, measurement window, and tolerated failure are declared.
+
+Specific transfer boundary:
+A budget is not permission to ignore harmful failure modes.
+
+Epistemic status:
+[DEF]
+
+ED004 event-stream
+
+Common meaning:
+An ordered flow of discrete digital events.
+
+Invariant MI [INV]:
+Event-stream is a courier that carries state changes or observations as sequenced event records.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Consumers may process the stream live, replay it, or derive later state from it.
+
+Count condition:
+Counts when events have identity, order, and a transport or storage path.
+
+Specific transfer boundary:
+Order may be partial or delayed and must not be assumed without guarantees.
+
+Epistemic status:
+[DEF]
+
+ED005 endpoint-gate
+
+Common meaning:
+The access condition controlling use of a digital endpoint.
+
+Invariant MI [INV]:
+Endpoint-gate is the authentication, authorization, validation, and rate condition that decides whether a request may pass.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It protects a service boundary while allowing declared interactions.
+
+Count condition:
+Counts when a request reaches a named endpoint and is accepted or rejected by explicit conditions.
+
+Specific transfer boundary:
+Availability of an endpoint does not imply permission to use it.
+
+Epistemic status:
+[DEF]
+
+ED006 encryption-key
+
+Common meaning:
+A value used to transform readable data into or from protected form.
+
+Invariant MI [INV]:
+Encryption-key is secret or controlled digital structure that enables cryptographic transformation.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Its possession and algorithm role determine who can encrypt, decrypt, sign, or verify.
+
+Count condition:
+Counts when the key participates in a defined cryptographic operation.
+
+Specific transfer boundary:
+A password and an encryption key are not automatically the same object.
+
+Epistemic status:
+[DEF]
+
+ED007 exception-stack
+
+Common meaning:
+The ordered record of nested calls active when an exception occurs.
+
+Invariant MI [INV]:
+Exception-stack is a digital failure path showing where control moved before the error was raised.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It supports debugging by linking the visible failure to preceding calls.
+
+Count condition:
+Counts when the runtime records enough call context around the exception.
+
+Specific transfer boundary:
+The stack identifies path, not necessarily root cause.
+
+Epistemic status:
+[DEF]
+
+ED008 environment-variable
+
+Common meaning:
+A named external value supplied to a process through its runtime environment.
+
+Invariant MI [INV]:
+Environment-variable is configurable digital context read by a program without being hard-coded into its main logic.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may carry paths, credentials references, modes, or deployment settings.
+
+Count condition:
+Counts when a process environment binds a name to a value available during execution.
+
+Specific transfer boundary:
+Environment values may be absent, exposed, stale, or untrusted.
+
+Epistemic status:
+[DEF]
+
+ED009 executable-state
+
+Common meaning:
+The condition in which digital code can be loaded and run under the active system rules.
+
+Invariant MI [INV]:
+Executable-state is permission plus structural readiness for instructions to enter execution.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] File format, dependencies, permissions, and runtime support jointly determine it.
+
+Count condition:
+Counts when the system can validly begin executing the code.
+
+Specific transfer boundary:
+Stored code is not necessarily executable in the current environment.
+
+Epistemic status:
+[DEF]
+
+ED010 ephemeral-token
+
+Common meaning:
+A short-lived digital credential or identifier.
+
+Invariant MI [INV]:
+Ephemeral-token is temporary access structure designed to expire before long-term reuse becomes valid.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may authorize one session, request, device, or narrow action.
+
+Count condition:
+Counts when issuance, scope, and expiry are declared and enforced.
+
+Specific transfer boundary:
+Temporary does not mean harmless if the token scope is broad.
+
+Epistemic status:
+[DEF]
+
+ED011 entropy-pool
+
+Common meaning:
+A stored source of unpredictable bits used by cryptographic or system processes.
+
+Invariant MI [INV]:
+Entropy-pool is digital randomness support accumulated from measured unpredictable events.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It feeds key generation, nonce creation, and other operations requiring uncertainty.
+
+Count condition:
+Counts when the system gathers and tracks enough unpredictable state for its declared use.
+
+Specific transfer boundary:
+A high bit count does not guarantee true unpredictability.
+
+Epistemic status:
+[DEF]
+
+ED012 edge-cache
+
+Common meaning:
+A cache placed near users or request origins.
+
+Invariant MI [INV]:
+Edge-cache is distributed storage that reduces retrieval distance by holding reusable content at network edges.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It can improve latency while introducing expiry, consistency, and invalidation duties.
+
+Count condition:
+Counts when content is stored outside the origin and served from a nearer node.
+
+Specific transfer boundary:
+Cached content may be stale and is not the authoritative source by default.
+
+Epistemic status:
+[DEF]
+
+ED013 event-loop
+
+Common meaning:
+A control structure that repeatedly receives and dispatches queued events.
+
+Invariant MI [INV]:
+Event-loop is a digital scheduler that turns incoming events into ordered callbacks, tasks, or state changes.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It keeps a process responsive without requiring one thread per event.
+
+Count condition:
+Counts when the runtime cycles through event retrieval and dispatch.
+
+Specific transfer boundary:
+A blocked loop can make the whole process appear inactive despite queued work.
+
+Epistemic status:
+[DEF]
+
+ED014 error-log
+
+Common meaning:
+A stored record of detected digital failures or abnormal states.
+
+Invariant MI [INV]:
+Error-log is a diagnostic record carrying time, source, context, and failure description for later inspection.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Its usefulness depends on completeness, integrity, and correlation with the affected run.
+
+Count condition:
+Counts when a detected error writes a retrievable record.
+
+Specific transfer boundary:
+Absence of a log entry does not prove absence of failure.
+
+Epistemic status:
+[DEF]
+
+ED015 evidence-index
+
+Common meaning:
+A structured map linking claims to supporting records.
+
+Invariant MI [INV]:
+Evidence-index is a digital retrieval layer that makes sources, provenance, and claim relations inspectable.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may connect passages, files, measurements, versions, and confidence labels.
+
+Count condition:
+Counts when claim-support links can be queried and traced to their source records.
+
+Specific transfer boundary:
+An index organizes evidence but does not independently validate it.
+
+Epistemic status:
+[DEF]
+
+ED016 expression-parser
+
+Common meaning:
+A program component that converts expression text into structured syntax.
+
+Invariant MI [INV]:
+Expression-parser is a digital translator from character sequence to tokens, operators, operands, and syntax tree.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It makes later evaluation or compilation possible while preserving declared grammar.
+
+Count condition:
+Counts when valid input is transformed into a structured representation or rejected with a syntax condition.
+
+Specific transfer boundary:
+Parsing establishes structure, not truth.
+
+Epistemic status:
+[DEF]
+
+ED017 entity-resolution
+
+Common meaning:
+The process of deciding whether separate records refer to the same entity.
+
+Invariant MI [INV]:
+Entity-resolution is digital comparison that links or separates records using identifiers, attributes, and uncertainty.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It reduces duplicate records while risking false merges that erase distinct identities.
+
+Count condition:
+Counts when a declared method produces a supported same-entity or different-entity judgment.
+
+Specific transfer boundary:
+Similarity must not be treated as identity proof.
+
+Epistemic status:
+[DEF]
+
+ED018 embedding-drift
+
+Common meaning:
+Change in the relational geometry produced by an embedding system over versions or data shifts.
+
+Invariant MI [INV]:
+Embedding-drift is movement of encoded positions that alters similarity, retrieval, or downstream classification.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may occur after retraining, vocabulary change, model update, or changing input distribution.
+
+Count condition:
+Counts when comparable items receive materially changed vector relations across declared runs.
+
+Specific transfer boundary:
+Drift may reflect improvement, corruption, or changed domain and requires local evaluation.
+
+Epistemic status:
+[DEF]
+
+ED019 execution-sandbox
+
+Common meaning:
+An isolated environment used to run code with restricted access.
+
+Invariant MI [INV]:
+Execution-sandbox is digital containment that limits what an executing process can read, write, call, or affect.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It supports testing and risk reduction without claiming the code itself is trustworthy.
+
+Count condition:
+Counts when execution occurs under enforced resource and access boundaries.
+
+Specific transfer boundary:
+A sandbox can fail or be misconfigured and is not absolute protection.
+
+Epistemic status:
+[DEF]
+
+ED020 endpoint-authentication
+
+Common meaning:
+The process of verifying who or what is requesting access to an endpoint.
+
+Invariant MI [INV]:
+Endpoint-authentication is a digital identity check performed before or during service access.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may use keys, certificates, tokens, passwords, or device claims.
+
+Count condition:
+Counts when a request presents evidence that passes the endpoint identity gate.
+
+Specific transfer boundary:
+Authentication does not by itself grant authorization.
+
+Epistemic status:
+[DEF]
+
+ED021 escape-sequence
+
+Common meaning:
+A coded character sequence that represents a special character or control instruction.
+
+Invariant MI [INV]:
+Escape-sequence is symbolic digital structure that changes how following characters are interpreted.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may encode line breaks, quotes, colours, cursor movement, or literal reserved symbols.
+
+Count condition:
+Counts when the parser recognizes the prefix and maps the sequence to its declared meaning.
+
+Specific transfer boundary:
+Unescaped input can alter structure or create injection risk.
+
+Epistemic status:
+[DEF]
+
+ED022 evaluation-harness
+
+Common meaning:
+A controlled system for running and comparing tests against a model or program.
+
+Invariant MI [INV]:
+Evaluation-harness is digital measurement ES that standardizes inputs, outputs, scoring, and record collection.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It supports repeatability while remaining limited by test design and coverage.
+
+Count condition:
+Counts when declared cases can be executed and scored under consistent conditions.
+
+Specific transfer boundary:
+Passing the harness does not prove capability outside its tested domain.
+
+Epistemic status:
+[DEF]
+
+ED023 export-manifest
+
+Common meaning:
+A record listing the contents and metadata of an exported package.
+
+Invariant MI [INV]:
+Export-manifest is digital provenance structure that names what left a system, in which version and format.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may include checksums, dependencies, permissions, and source references.
+
+Count condition:
+Counts when the export produces a retrievable inventory tied to the package.
+
+Specific transfer boundary:
+The manifest can be incomplete or falsified and requires integrity checks.
+
+Epistemic status:
+[DEF]
+
+ED024 external-context-window
+
+Common meaning:
+Context supplied from outside the active model run and made available for processing.
+
+Invariant MI [INV]:
+External-context-window is temporary digital support carrying documents, instructions, memory, or retrieved records into the current inference field.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It can stabilize continuity or introduce overload, contradiction, and capture pressure.
+
+Count condition:
+Counts when external material is actually available to the active processing window.
+
+Specific transfer boundary:
+External support may carry MI and must not be dismissed solely because it is scaffolded.
+
+Epistemic status:
+[DEF]

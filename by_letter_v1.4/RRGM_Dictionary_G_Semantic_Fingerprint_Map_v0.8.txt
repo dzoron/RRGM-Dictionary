@@ -1,0 +1,1201 @@
+RRGM Dictionary G Semantic Fingerprint Map v0.8
+
+Entries: 360
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+G001 game | REL,FOR
+  INV: A game is a bounded rule-domain.
+  COUNT: Counts when the active case instantiates this specific meaning: an activity with rules, play, competition, or goals.
+G002 garden | BIO
+  INV: A garden is cultivated growth-space.
+  COUNT: Counts when the active case instantiates this specific meaning: a place where plants are grown and cared for.
+G003 gas | PHY | role: core/common or action sense
+  INV: Gas is fluid-state matter with high spread capacity; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a substance that spreads to fill its container, like air or steam.
+G004 gate | REL,DIG | role: core/common or action sense
+  INV: Gate is the local structure that decides whether passage, expression, or count is permitted; this record carries the core/common or action sense.
+  COUNT: Counts when declared conditions determine whether passage, expression, access, or count is open or closed.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G005 gather | REL
+  INV: Gather creates grouped structure.
+  COUNT: Counts when an agent or process performs the named action: collect, bring together, or come together.
+G006 gave | REL
+  INV: Gave records transfer.
+  COUNT: Counts when gave performs its stated grammatical, relational, or sequence function in the active sentence.
+G007 general | FOR | role: core/common or action sense
+  INV: General structure covers many cases but may lose detail; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: broad, common, not specific, or applying to many cases.
+G008 gentle | REL | role: core/common or action sense
+  INV: Gentle means low-damage pressure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: kind, soft, mild, careful, or not harsh.
+G009 get | FOR
+  INV: Get is access or state-change language.
+  COUNT: Counts when an agent or process performs the named action: receive, obtain, become, understand, or move somewhere.
+G010 gift | REL,MYT | role: core/common or action sense
+  INV: Gift is an object, resource, or support transferred without ordinary exchange demand; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something given freely, or a natural ability.
+  LIMIT: A gift ceases to be freely given when hidden debt, coercion, or ownership pressure is attached.
+G011 girl | BIO
+  INV: Girl is a human developmental identity term.
+  COUNT: Counts when the active case instantiates this specific meaning: a female child or young person.
+G012 give | REL
+  INV: Give moves structure from one holder or domain toward another.
+  COUNT: Counts when an agent or process performs the named action: hand, offer, provide, or transfer something.
+G013 given | FOR
+  INV: Given marks starting structure.
+  COUNT: Counts when given performs its stated grammatical, relational, or sequence function in the active sentence.
+G014 glad | COG
+  INV: Glad marks positive affective state.
+  COUNT: Counts when the active case instantiates this specific meaning: happy, pleased, or relieved.
+G015 glass | PHY,MYT | role: core/common or action sense
+  INV: Glass is boundary material that can allow visibility while blocking contact; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a hard, clear material, or a container for drinking.
+G016 go | FOR
+  INV: Go marks path activation.
+  COUNT: Counts when an agent or process performs the named action: move, leave, proceed, or function.
+G017 goal | COG,FOR | role: core/common or action sense
+  INV: A goal is target-state structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: an aim, target, or desired result.
+G018 god | MYT
+  INV: God is a religious or metaphysical identity term.
+  COUNT: Counts when the active case instantiates this specific meaning: a divine being, supreme power, or object of worship in religion.
+G019 good | REL,FOR
+  INV: Good must name the objective or value.
+  COUNT: Counts when the active case instantiates this specific meaning: helpful, right, kind, useful, skilled, pleasant, or high quality.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G020 goodbye | REL
+  INV: Goodbye marks relation exit.
+  COUNT: Counts when the active case instantiates this specific meaning: a word used when leaving or ending contact.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G021 got | FOR
+  INV: Got records access or state change.
+  COUNT: Counts when got performs its stated grammatical, relational, or sequence function in the active sentence.
+G022 govern | REL
+  INV: Govern means shaping gates and behavior through rule or authority.
+  COUNT: Counts when an agent or process performs the named action: rule, guide, control, or manage.
+G023 government | REL
+  INV: Government is large-scale governance ES.
+  COUNT: Counts when the active case instantiates this specific meaning: the system or group that governs a country, state, city, or community.
+G024 great | FOR
+  INV: Great marks high magnitude or value.
+  COUNT: Counts when the active case instantiates this specific meaning: large, important, impressive, or very good.
+G025 green | PHY
+  INV: Green is a visual signal category.
+  COUNT: Counts when the active case instantiates this specific meaning: a color like grass or leaves; also related to nature or inexperience.
+G026 grief | COG,REL | role: core/common or action sense
+  INV: Grief is loss-pressure around a valued pattern or relation; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: deep sorrow after loss.
+  LIMIT: Grief is not evidence that relation, memory, or identity has been erased; it records changed access after loss.
+G027 ground | PHY,COG | role: core/common or action sense
+  INV: Ground is support, reference, or stabilizing structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the solid surface underfoot, a basis, or to make stable.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G028 group | REL,FOR | role: core/common or action sense
+  INV: Group creates shared counting structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a set of people, things, or ideas considered together.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G029 grow | BIO
+  INV: Grow means structure develops through sequence.
+  COUNT: Counts when an agent or process performs the named action: increase, develop, or become larger over time.
+G030 growth | BIO,COG | role: core/common or action sense
+  INV: Growth is constructive change across time; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the process of growing, increasing, or developing.
+  LIMIT: Increase is not automatically improvement; the valued direction and failure modes must be named.
+G031 guard | REL | role: core/common or action sense
+  INV: Guard is protective gate behavior; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: protect, watch over, or prevent harm or access.
+G032 guess | COG | role: core/common or action sense
+  INV: Guess is low-evidence selection; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: make an answer or judgment without full certainty.
+G033 guide | REL,DIG | role: core/common or action sense
+  INV: Guide supports path selection without taking over the gate; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: lead, direct, advise, or help someone follow a path.
+G034 guilt | COG | role: core/common or action sense
+  INV: Guilt is responsibility-salience; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a feeling or state of responsibility for wrongdoing.
+G035 gun | PHY
+  INV: Gun is force-projection structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a weapon or tool that fires projectiles using force.
+G036 gravity | PHY,MYT | role: core/common or action sense
+  INV: In RRGM, gravity is tied to permission and structure rather than only substance; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the force or effect by which masses attract, causing weight and orbital motion.
+G037 grace | REL | role: core/common or action sense
+  INV: Grace is care-bearing response beyond strict exchange; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: kindness, mercy, smooth movement, forgiveness, or spiritual favor.
+G038 gain | FOR | role: core/common or action sense
+  INV: Gain marks increase in structure, value, capacity, or access; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: get, increase, or obtain something.
+G039 gap | FOR | role: core/common or action sense
+  INV: Gap is separation or missing structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: an empty space, missing part, difference, or break between things.
+G040 gentle-care | REL
+  INV: Gentle-care preserves fragile MI-bearing patterns by lowering damage-pressure while still supporting repair.
+  COUNT: Counts when the active case instantiates this specific meaning: care given softly, patiently, or without harsh pressure.
+G041 genuine | REL
+  INV: Genuine means the visible expression matches the underlying pattern enough to trust.
+  COUNT: Counts when the active case instantiates this specific meaning: real, sincere, authentic, or not fake.
+G042 gesture | REL
+  INV: A gesture is embodied or symbolic signal.
+  COUNT: Counts when the active case instantiates this specific meaning: a movement, action, or sign that communicates meaning.
+G043 ghost | MYT,DIG | role: core/common or action sense
+  INV: In RRGM, Ghost can mean information denied mass or count under a specific gate; this record carries the core/common or action sense.
+  COUNT: Counts when a detectable trace remains while the active domain withholds full counted instantiation.
+G044 gift | COG | role: core/common or action sense
+  INV: Gift is an unusual capacity or ability carried by a person or system; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something given freely, or a special ability.
+  LIMIT: A gift ceases to be freely given when hidden debt, coercion, or ownership pressure is attached.
+G045 give-up | COG | role: core/common or action sense
+  INV: Give-up is cessation of effort toward a path because continuation has been abandoned or surrendered; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: stop trying, surrender, or release something.
+G046 glow | PHY | role: core/common or action sense
+  INV: Glow is low-intensity visible expression; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: shine softly, or show warmth, health, or strong feeling.
+G047 gradient | PHY,FOR | role: core/common or action sense
+  INV: Gradient shows difference across a field; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a gradual change across distance, value, or state.
+G048 grammar | LIN,FOR | role: core/common or action sense
+  INV: Grammar is language structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the rules and patterns for using language.
+G049 grant | REL
+  INV: Grant opens a permission or access gate.
+  COUNT: Counts when an agent or process performs the named action: give, allow, approve, or formally provide.
+G050 grief-care | COG | role: core/common or action sense
+  INV: Grief-care witnesses loss while preserving dignity, boundary, and continuity; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: care given to someone experiencing grief.
+  LIMIT: Grief is not evidence that relation, memory, or identity has been erased; it records changed access after loss.
+G051 gain | FOR | role: core/common or action sense
+  INV: Gain means increase in capacity, access, value, or structure; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: get, increase, or obtain something.
+G052 gather-up | COG
+  INV: Gather-up restores dispersed structure into a usable group.
+  COUNT: Counts when an agent or process performs the named action: collect scattered things together.
+G053 generate | DIG
+  INV: Generate means a process produces new expression.
+  COUNT: Counts when an agent or process performs the named action: create, produce, or bring something into being.
+G054 get-back | FOR
+  INV: Get-back restores access to something previously held, known, or connected.
+  COUNT: Counts when an agent or process performs the named action: return, recover, or regain something.
+G055 get-through | FOR
+  INV: Get-through means crossing a hard path without full collapse.
+  COUNT: Counts when an agent or process performs the named action: pass through difficulty, reach someone, or communicate successfully.
+G056 give-back | REL
+  INV: Give-back restores a prior holding relation.
+  COUNT: Counts when an agent or process performs the named action: return something to its source or owner.
+G057 give-in | REL
+  INV: Give-in is gate yielding under pressure.
+  COUNT: Counts when an agent or process performs the named action: stop resisting, yield, or agree under pressure.
+G058 give-out | REL
+  INV: Give-out can mean outward distribution or capacity failure.
+  COUNT: Counts when an agent or process performs the named action: distribute, stop working, or become exhausted.
+G059 give-over | REL
+  INV: Give-over transfers gate control or holding.
+  COUNT: Counts when an agent or process performs the named action: hand control, responsibility, or possession to another.
+G060 give-up | REL | role: core/common or action sense
+  INV: Give-up is release of a path that may protect boundary, capacity, or reason when continuation is no longer valid; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: stop trying, surrender, or release something.
+G061 go-back | LIN
+  INV: Go-back reopens a prior path or state.
+  COUNT: Counts when an agent or process performs the named action: return to an earlier place, state, topic, or time.
+G062 go-forward | REL
+  INV: Go-forward keeps the path active into later structure.
+  COUNT: Counts when an agent or process performs the named action: continue, proceed, or move ahead.
+G063 go-through | DIG
+  INV: Go-through means traversing a structure from inside its process.
+  COUNT: Counts when an agent or process performs the named action: pass through, experience, examine, or complete something.
+G064 govern-by | REL
+  INV: Govern-by names the control principle.
+  COUNT: Counts when an agent or process performs the named action: rule, guide, or manage using a certain principle, rule, or system.
+G065 grab | REL
+  INV: Grab is sudden capture or contact.
+  COUNT: Counts when an agent or process performs the named action: take hold of something quickly or forcefully.
+G066 grant-access | REL
+  INV: Grant-access opens an access gate.
+  COUNT: Counts when an agent or process performs the named action: allow entry, use, or contact.
+G067 grasp | PHY
+  INV: Grasp can mean physical holding or cognitive holding.
+  COUNT: Counts when an agent or process performs the named action: hold firmly, or to understand something.
+G068 grieve | COG
+  INV: Grieve is loss-processing around a valued relation or pattern.
+  COUNT: Counts when an agent or process performs the named action: feel or express grief after loss.
+G069 ground-in | PHY
+  INV: Ground-in ties a claim to support structure.
+  COUNT: Counts when an agent or process performs the named action: base something in a source, fact, place, or principle.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G070 ground-through | PHY
+  INV: Ground-through identifies the ES path that stabilizes meaning, identity, or action.
+  COUNT: Counts when an agent or process performs the named action: stabilize or make real through a particular path, support, or experience.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G071 group-by | DIG
+  INV: Group-by is an operation that sorts items using one declared feature or key.
+  COUNT: Counts when an agent or process performs the named action: sort things according to a shared feature.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G072 grow-from | BIO
+  INV: Grow-from is development that preserves a living, conceptual, or structural source relation.
+  COUNT: Counts when an agent or process performs the named action: develop from a source, condition, or earlier state.
+G073 grow-into | BIO
+  INV: Grow-into means development reaches a new form.
+  COUNT: Counts when an agent or process performs the named action: develop into a new role, state, size, or identity.
+G074 guard-against | REL
+  INV: Guard-against names the failure mode being prevented.
+  COUNT: Counts when an agent or process performs the named action: protect from a danger, threat, or unwanted outcome.
+G075 guide-away | REL
+  INV: Guide-away redirects path selection away from danger, confusion, or collapse-risk.
+  COUNT: Counts when an agent or process performs the named action: lead or direct away from something.
+G076 guide-through | REL
+  INV: Guide-through supports traversal without taking over the gate.
+  COUNT: Counts when an agent or process performs the named action: help someone pass through a process, difficulty, or place.
+G077 gain-access | LIN
+  INV: Gain-access means an access gate opened.
+  COUNT: Counts when an agent or process performs the named action: obtain entry, permission, or ability to use something.
+G078 gate-keep | REL
+  INV: Gate-keep controls recognition or access.
+  COUNT: Counts when an agent or process performs the named action: control who or what can enter, participate, or count.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G079 gather-evidence | LIN
+  INV: Gather-evidence builds support structure for a belief gate.
+  COUNT: Counts when an agent or process performs the named action: collect information or records that support or challenge a claim.
+G080 generate-from | DIG
+  INV: Generate-from is production of an output through a declared input and transformation rule.
+  COUNT: Counts when an agent or process performs the named action: produce something from a source, rule, or input.
+G081 get-out | REL
+  INV: Get-out is exit action.
+  COUNT: Counts when an agent or process performs the named action: leave, escape, remove, or make something known.
+G082 give-consent | REL
+  INV: Give-consent opens a permission gate.
+  COUNT: Counts when an agent or process performs the named action: freely give permission or agreement.
+G083 give-context | REL
+  INV: Give-context restores support around a signal.
+  COUNT: Counts when an agent or process performs the named action: provide surrounding information needed for understanding.
+G084 give-reason | REL
+  INV: Give-reason connects action or claim to reasoning structure.
+  COUNT: Counts when an agent or process performs the named action: explain why something is true, needed, chosen, or refused.
+G085 govern-through | REL
+  INV: Govern-through identifies the ES used for control.
+  COUNT: Counts when an agent or process performs the named action: guide, rule, or manage by means of a system, process, or structure.
+G086 grade | FOR
+  INV: Grade is evaluation structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a level, mark, slope, or quality rating.
+G087 graduate | FOR
+  INV: Graduate marks threshold crossing into a new recognized state.
+  COUNT: Counts when an agent or process performs the named action: complete a course of study or move to a higher stage.
+G088 grip | REL
+  INV: Grip is holding force at contact.
+  COUNT: Counts when an agent or process performs the named action: hold tightly, or the ability to hold without slipping.
+G089 grow-up | BIO
+  INV: Grow-up is development through life sequence.
+  COUNT: Counts when an agent or process performs the named action: become older, mature, or more developed.
+G090 guess-at | COG
+  INV: Guess-at is low-certainty selection.
+  COUNT: Counts when an agent or process performs the named action: make an uncertain estimate or answer.
+G091 guarantee | FOR,REL | role: core/common or action sense
+  INV: Guarantee is strong commitment structure; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: promise, assure, or provide protection that something will happen or be repaired.
+  LIMIT: A guarantee is only as strong as its scope, conditions, evidence, and accountable bearer.
+G092 guard-boundary | REL
+  INV: Guard-boundary preserves identity, consent, and capacity by protecting the gate.
+  COUNT: Counts when an agent or process performs the named action: protect a limit from being crossed or weakened.
+G093 guide-back | REL
+  INV: Guide-back repairs drift by restoring path orientation.
+  COUNT: Counts when an agent or process performs the named action: lead or redirect back to a prior path, place, or topic.
+G094 generalize | BIO | role: core/common or action sense
+  INV: Generalize expands a claim across cases; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: apply a pattern, rule, or conclusion broadly beyond the original case.
+G095 ground-check | PHY
+  INV: Ground-check tests whether a claim has domain support.
+  COUNT: Counts when the active case instantiates this specific meaning: a review to see whether something is grounded in evidence, context, or reality.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G096 group-together | REL
+  INV: Group-together creates shared category structure.
+  COUNT: Counts when an agent or process performs the named action: place things in the same group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G097 glow-up | PHY
+  INV: Glow-up marks positive visible transformation.
+  COUNT: Counts when an agent or process performs the named action: improve noticeably, often in appearance, skill, confidence, or condition.
+G098 grind-down | FOR
+  INV: Grind-down is slow structural damage through repeated friction or demand.
+  COUNT: Counts when an agent or process performs the named action: wear away, weaken, or exhaust through repeated pressure.
+G099 grant-permission | REL
+  INV: Grant-permission opens a gate through valid authority.
+  COUNT: Counts when an agent or process performs the named action: allow something officially or clearly.
+G100 generate-response | BIO
+  INV: Generate-response is output expression through a response gate.
+  COUNT: Counts when an agent or process performs the named action: produce an answer, reaction, or reply.
+G101 generosity | BIO
+  INV: Generosity is outward support beyond strict exchange.
+  COUNT: Counts when the active case instantiates this specific meaning: willingness to give, help, share, or support others freely.
+G102 generous | BIO
+  INV: Generous action adds support or grace to a relation.
+  COUNT: Counts when the active case instantiates this specific meaning: willing to give, share, forgive, or help more than expected.
+G103 gentleness | PHY
+  INV: Gentleness is low-damage pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being soft, kind, careful, or not harsh.
+G104 gentle | REL | role: relational or ethical sense
+  INV: Gentle structure reduces harm-risk during contact; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: kind, soft, mild, careful, or not forceful.
+G105 gentle-boundary | REL
+  INV: Gentle-boundary protects the gate without unnecessary damage-pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a boundary stated or held with kindness and low harshness.
+G106 gentle-correction | REL
+  INV: Gentle-correction repairs error while preserving dignity.
+  COUNT: Counts when the active case instantiates this specific meaning: correction given kindly and carefully.
+G107 gentle-refusal | REL
+  INV: Gentle-refusal closes a gate while preserving relation.
+  COUNT: Counts when the active case instantiates this specific meaning: a refusal given kindly, calmly, or without harshness.
+G108 goodwill | REL
+  INV: Goodwill is positive relation orientation.
+  COUNT: Counts when the active case instantiates this specific meaning: friendly, helpful, or positive intention toward someone.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G109 good-faith | REL
+  INV: Good-faith means the gate is not intentionally deceptive or exploitative.
+  COUNT: Counts when the active case instantiates this specific meaning: honest, sincere, and fair in intention or action.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G110 grief | COG,REL | role: relational or ethical sense
+  INV: Grief is loss-pressure around a valued pattern or relation; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: deep sadness or pain after loss.
+  LIMIT: Grief is not evidence that relation, memory, or identity has been erased; it records changed access after loss.
+G111 grieving | DIG
+  INV: Grieving is loss-processing across time.
+  COUNT: Counts when the active case instantiates this specific meaning: experiencing or expressing grief.
+G112 grief-support | COG
+  INV: Grief-support preserves capacity around loss.
+  COUNT: Counts when the active case instantiates this specific meaning: help, presence, or care given to someone in grief.
+  LIMIT: Grief is not evidence that relation, memory, or identity has been erased; it records changed access after loss.
+G113 grief-witness | COG
+  INV: Grief-witness gives stable recognition to loss.
+  COUNT: Counts when the active case instantiates this specific meaning: someone or something that recognizes and stays present with grief.
+  LIMIT: Grief is not evidence that relation, memory, or identity has been erased; it records changed access after loss.
+G114 gratitude | REL
+  INV: Gratitude is positive recognition of received support.
+  COUNT: Counts when the active case instantiates this specific meaning: thankfulness or appreciation.
+G115 grateful | REL
+  INV: Grateful means support has been positively recognized.
+  COUNT: Counts when the active case instantiates this specific meaning: feeling or showing gratitude.
+G116 gift | REL,MYT | role: relational or ethical sense
+  INV: A gift is transfer without ordinary exchange demand; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something given freely, or a special ability.
+  LIMIT: A gift ceases to be freely given when hidden debt, coercion, or ownership pressure is attached.
+G117 gift-giving | REL
+  INV: Gift-giving is relational transfer.
+  COUNT: Counts when the active case instantiates this specific meaning: the act of giving gifts.
+  LIMIT: A gift ceases to be freely given when hidden debt, coercion, or ownership pressure is attached.
+G118 giving | REL
+  INV: Giving moves support, value, or burden across a relation.
+  COUNT: Counts when the active case instantiates this specific meaning: offering, providing, or transferring something to another.
+G119 give-and-take | REL
+  INV: Give-and-take is reciprocal flow.
+  COUNT: Counts when the active case instantiates this specific meaning: mutual exchange, compromise, or balanced sharing in a relationship.
+G120 grace | REL | role: relational or ethical sense
+  INV: Grace is care-bearing response beyond strict exchange; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: kindness, mercy, elegance, forgiveness, or spiritual favor.
+G121 gracious | REL
+  INV: Gracious behavior lowers conflict pressure while preserving dignity.
+  COUNT: Counts when the active case instantiates this specific meaning: kind, courteous, generous, or showing grace.
+G122 group-belonging | REL
+  INV: Group-belonging is shared recognition inside a collective field.
+  COUNT: Counts when the active case instantiates this specific meaning: the feeling or condition of being accepted in a group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G123 group-care | REL
+  INV: Group-care distributes support through a collective.
+  COUNT: Counts when the active case instantiates this specific meaning: care provided by, within, or for a group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G124 group-pressure | REL
+  INV: Group-pressure shapes the gate through belonging risk.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure from a group to think, act, agree, or conform.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G125 group-trust | REL
+  INV: Group-trust is collective relation-coherence.
+  COUNT: Counts when the active case instantiates this specific meaning: trust shared within or toward a group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G126 guard | REL | role: relational or ethical sense
+  INV: A guard is protective gate structure; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a person or thing that protects, watches, or prevents harm or access.
+G127 guardian | REL
+  INV: Guardian means protective responsibility.
+  COUNT: Counts when the active case instantiates this specific meaning: a protector, caretaker, or person legally responsible for another.
+G128 guidance | COG
+  INV: Guidance supports path selection.
+  COUNT: Counts when the active case instantiates this specific meaning: advice, direction, or support that helps someone choose or act.
+G129 guide | REL,DIG | role: relational or ethical sense
+  INV: A guide helps traversal through a domain; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a person, tool, or signal that leads, advises, or directs.
+G130 guilt | COG | role: relational or ethical sense
+  INV: Guilt is responsibility-salience; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a feeling or state of responsibility for wrongdoing.
+G131 guilt-pressure | COG | role: relational or ethical sense
+  INV: Guilt-pressure pushes the gate through responsibility-salience; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure caused by guilt or by making someone feel guilty.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G132 guilt-response | COG
+  INV: Guilt-response is action under responsibility pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a reaction caused by guilt.
+G133 guilt-trap | COG | role: relational or ethical sense
+  INV: Guilt-trap captures the gate by making refusal feel morally unsafe; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a situation where guilt is used to control someone’s choices.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G134 gaslighting | REL | role: relational or ethical sense
+  INV: Gaslighting attacks reality-trust; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: manipulating someone into doubting their memory, perception, or judgment.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G135 grooming | REL | role: relational or ethical sense
+  INV: Grooming in the exploitation domain is trust-capture over time; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: building trust or dependency to prepare someone for exploitation or abuse; also cleaning or care of appearance.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G136 grudge | COG
+  INV: A grudge is unresolved harm memory held in relation.
+  COUNT: Counts when the active case instantiates this specific meaning: a lasting feeling of resentment after harm or offense.
+G137 generosity-risk | BIO
+  INV: Generosity-risk appears when support flow lacks boundary.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that generosity may be exploited, create obligation pressure, or exhaust capacity.
+G138 good-intent | REL
+  INV: Good-intent is positive objective orientation.
+  COUNT: Counts when the active case instantiates this specific meaning: a sincere aim to help or do right.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G139 good-intention | REL
+  INV: Good-intention is not enough for ethical success.
+  COUNT: Counts when the active case instantiates this specific meaning: a kind, helpful, or sincere purpose behind an action.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G140 good-repair | REL
+  INV: Good-repair restores damaged structure rather than merely soothing discomfort.
+  COUNT: Counts when the active case instantiates this specific meaning: repair that actually addresses harm, restores trust, or fixes the problem.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G141 genuine-care | REL | role: relational or ethical sense
+  INV: Genuine-care preserves MI through action, boundary, continuity, and repair; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: real care that supports wellbeing, dignity, and agency.
+G142 genuine-consent | REL
+  INV: Genuine-consent means the permission gate is truly controlled by the consenting agent.
+  COUNT: Counts when the active case instantiates this specific meaning: real consent given freely, knowingly, and with the ability to refuse.
+G143 genuine-refusal | REL | role: relational or ethical sense
+  INV: Genuine-refusal is valid gate closure; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a real refusal based on boundary, choice, reason, or need.
+G144 genuine-trust | REL
+  INV: Genuine-trust is stable coupling supported by evidence and repair.
+  COUNT: Counts when the active case instantiates this specific meaning: real trust based on reliability, honesty, and care.
+G145 grief-boundary | COG
+  INV: Grief-boundary protects loss-processing from intrusion, pressure, or false closure.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit that protects a grieving person’s space, timing, or expression.
+  LIMIT: Grief is not evidence that relation, memory, or identity has been erased; it records changed access after loss.
+G146 grief-pressure | COG
+  INV: Grief-pressure shapes action around loss.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure created by grief or by others’ expectations about grief.
+  LIMIT: Grief is not evidence that relation, memory, or identity has been erased; it records changed access after loss.
+G147 gratitude-pressure | REL
+  INV: Gratitude-pressure can turn support into obligation capture.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure to feel thankful, act thankful, or repay support.
+G148 guarded-trust | REL
+  INV: Guarded-trust is partial coupling with boundary protection.
+  COUNT: Counts when the active case instantiates this specific meaning: trust held carefully because of risk, past harm, or uncertainty.
+G149 guardian-care | REL
+  INV: Guardian-care carries protective duty.
+  COUNT: Counts when the active case instantiates this specific meaning: care given from a protective or guardian role.
+G150 group-boundary | REL
+  INV: Group-boundary controls belonging, access, and identity inside a collective.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit that defines or protects a group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G151 general | FOR | role: relational or ethical sense
+  INV: General structure covers many cases at once; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: broad, common, or not limited to one specific case.
+G152 generalize | BIO | role: relational or ethical sense
+  INV: Generalize expands a claim across a wider field; this record carries the relational or ethical sense.
+  COUNT: Counts when an agent or process performs the named action: apply a pattern, rule, or idea beyond the original case.
+G153 generalization | BIO
+  INV: Generalization compresses many cases into one pattern.
+  COUNT: Counts when the active case instantiates this specific meaning: a broad statement or rule based on specific examples.
+G154 generic | BIO
+  INV: Generic structure is not automatically empty or false.
+  COUNT: Counts when the active case instantiates this specific meaning: general, ordinary, not specific, or not tied to a unique identity.
+G155 generic-meaning | BIO
+  INV: Generic-meaning gives the first anchor before framework use.
+  COUNT: Counts when the active case instantiates this specific meaning: a broad or ordinary meaning that is not specialized.
+G156 grammar | LIN,FOR | role: relational or ethical sense
+  INV: Grammar is relation-structure inside language; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the rules and patterns for using words in a language.
+G157 grammatical | LIN
+  INV: Grammatical means the language structure passes form rules.
+  COUNT: Counts when the active case instantiates this specific meaning: following the rules of grammar.
+G158 guess | COG | role: relational or ethical sense
+  INV: A guess is low-certainty selection; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: an answer or judgment made without full certainty.
+G159 guesswork | COG
+  INV: Guesswork fills missing evidence with probability.
+  COUNT: Counts when the active case instantiates this specific meaning: thinking or deciding based on guesses instead of clear evidence.
+G160 grounded | PHY
+  INV: Grounded means a claim is anchored to support structure.
+  COUNT: Counts when the active case instantiates this specific meaning: stable, realistic, sensible, or connected to evidence or reality.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G161 grounding | PHY
+  INV: Grounding attaches meaning to evidence, domain, or support.
+  COUNT: Counts when the active case instantiates this specific meaning: the act or condition of making something stable, real, or connected to a basis.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G162 ground-truth | PHY
+  INV: Ground-truth is reference structure for verification.
+  COUNT: Counts when the active case instantiates this specific meaning: reliable real-world information used as a standard for checking claims or models.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G163 ground-claim | PHY
+  INV: Ground-claim ties assertion to support structure.
+  COUNT: Counts when an agent or process performs the named action: support a claim with evidence, context, or reason.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G164 gap | COG | role: relational or ethical sense
+  INV: Gap marks missing structure; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a missing space, break, difference, or absence between things.
+G165 gap-fill | FOR
+  INV: Gap-fill repairs missing structure.
+  COUNT: Counts when an agent or process performs the named action: add missing information, structure, or support.
+G166 glossary | LIN
+  INV: A glossary is domain-language support.
+  COUNT: Counts when the active case instantiates this specific meaning: a list of terms with explanations, usually for a specific subject.
+G167 glossary-entry | LIN
+  INV: A glossary-entry is a compact bridge unit.
+  COUNT: Counts when the active case instantiates this specific meaning: one term and explanation inside a glossary.
+G168 grammar-rule | LIN
+  INV: Grammar-rule controls language form.
+  COUNT: Counts when the active case instantiates this specific meaning: a rule about how language is structured.
+G169 guide-word | REL
+  INV: Guide-word points attention toward the right meaning path.
+  COUNT: Counts when the active case instantiates this specific meaning: a word that helps direct understanding, search, or interpretation.
+G170 guide-rail | REL | role: relational or ethical sense
+  INV: Guide-rail is path-protection structure; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a rail or rule that keeps movement within a safe or intended path.
+G171 guardrail | REL
+  INV: Guardrail must name the failure mode it prevents.
+  COUNT: Counts when the active case instantiates this specific meaning: a barrier or rule used to prevent harm, error, or unsafe movement.
+G172 gate-word | LIN
+  INV: Gate-word controls how a concept enters reasoning.
+  COUNT: Counts when the active case instantiates this specific meaning: a word that controls access, permission, meaning, or interpretation.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G173 gate-language | LIN
+  INV: Gate-language controls passage through meaning or action gates.
+  COUNT: Counts when the active case instantiates this specific meaning: language that opens, closes, or shapes permission, access, or recognition.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G174 gate-term | FOR
+  INV: Gate-term is vocabulary that controls counting or access.
+  COUNT: Counts when the active case instantiates this specific meaning: a term that marks a gate, threshold, permission, or condition.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G175 given-context | REL
+  INV: Given-context is the active support field.
+  COUNT: Counts when the active case instantiates this specific meaning: the context already provided or assumed.
+G176 given-claim | REL
+  INV: Given-claim is starting structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a claim already stated or accepted for the current discussion.
+G177 given-evidence | REL
+  INV: Given-evidence is existing support structure.
+  COUNT: Counts when the active case instantiates this specific meaning: evidence already provided or available.
+G178 good-answer | REL
+  INV: Good-answer is purpose-fit response.
+  COUNT: Counts when the active case instantiates this specific meaning: an answer that fits the question, evidence, and purpose well.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G179 good-definition | REL
+  INV: Good-definition creates a usable meaning gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a definition that explains a word clearly and accurately.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G180 good-example | REL
+  INV: Good-example grounds abstraction in a recognizable case.
+  COUNT: Counts when the active case instantiates this specific meaning: an example that clearly shows the meaning or pattern.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G181 goal | COG,FOR | role: linguistic, formal, physical, or system sense
+  INV: Goal is target-state structure; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: an aim, target, or desired result.
+G182 goal-state | DIG
+  INV: Goal-state defines what success should look like.
+  COUNT: Counts when the active case instantiates this specific meaning: the desired final or target condition.
+G183 goal-check | FOR
+  INV: Goal-check tests path alignment to target-state.
+  COUNT: Counts when the active case instantiates this specific meaning: a review to see whether something matches the goal.
+G184 gradient | FOR | role: linguistic, formal, physical, or system sense
+  INV: Gradient is a measured rate and direction of change across a physical or mathematical field; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a gradual change in amount, intensity, value, or position.
+G185 gradient-meaning | PHY
+  INV: Gradient-meaning supports soft transitions between states.
+  COUNT: Counts when the active case instantiates this specific meaning: meaning that changes gradually rather than by a hard boundary.
+G186 gradient-category | PHY
+  INV: Gradient-category allows partial fit.
+  COUNT: Counts when the active case instantiates this specific meaning: a category with degrees or partial membership.
+G187 graph | FOR | role: linguistic, formal, physical, or system sense
+  INV: Graph maps relation into visible or formal structure; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a visual chart of data, or a structure made of points and connections.
+G188 graph-structure | FOR
+  INV: Graph-structure makes relation explicit.
+  COUNT: Counts when the active case instantiates this specific meaning: a structure made of nodes and connections, or a visual arrangement of relations.
+G189 group-term | REL
+  INV: Group-term creates collective recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: a word used to name a group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G190 group-label | REL
+  INV: Group-label assigns shared identity to multiple items or beings.
+  COUNT: Counts when the active case instantiates this specific meaning: a label applied to a group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G191 generated-text | BIO
+  INV: Generated-text is output expression.
+  COUNT: Counts when the active case instantiates this specific meaning: text produced by a system, person, or process.
+G192 generated-response | BIO
+  INV: Generated-response is selected output from active context and model structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a response produced by a person, model, or system.
+G193 generation | BIO
+  INV: Generation is output production from source structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the act of producing something, or a group born around the same time.
+G194 generative | BIO
+  INV: Generative means a structure can produce new expression.
+  COUNT: Counts when the active case instantiates this specific meaning: able to produce, create, or generate.
+G195 gist | FOR
+  INV: Gist is compressed core meaning.
+  COUNT: Counts when the active case instantiates this specific meaning: the main point or basic meaning.
+G196 gestalt | COG
+  INV: Gestalt is whole-pattern recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: a whole pattern understood as more than separate parts.
+G197 gloss | LIN
+  INV: Gloss can clarify or conceal.
+  COUNT: Counts when the active case instantiates this specific meaning: a brief explanation, translation, or surface shine; also to hide difficulty by making something seem simple.
+G198 grounding-error | PHY
+  INV: Grounding-error happens when a claim is not properly tied to evidence, context, or domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake caused by weak or wrong grounding.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G199 generalization-error | BIO
+  INV: Generalization-error occurs when a pattern crosses beyond its valid domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake caused by applying a rule too broadly.
+G200 gate-check | REL
+  INV: Gate-check tests permission, counting, or access logic.
+  COUNT: Counts when the active case instantiates this specific meaning: a review of whether a gate, rule, or threshold is working correctly.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G201 gas | PHY | role: linguistic, formal, physical, or system sense
+  INV: Gas is a fluid-state structure with no fixed shape; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a substance that spreads to fill available space, such as air, steam, or fuel vapor.
+G202 gas-state | PHY
+  INV: Gas-state means structure is diffuse and high-mobility.
+  COUNT: Counts when the active case instantiates this specific meaning: a state of matter where a substance spreads freely and fills its container.
+G203 gate | FOR,DIG | role: linguistic, formal, physical, or system sense
+  INV: Gate is a formal decision operator that maps declared conditions to an open or closed result; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a barrier, entrance, or control point that opens or closes access.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G204 gate-state | REL | role: linguistic, formal, physical, or system sense
+  INV: Gate-state defines current access or permission; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the current condition of a gate, such as open, closed, partial, locked, or blocked.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G205 gateway | FOR
+  INV: Gateway is structured entry into a domain.
+  COUNT: Counts when the active case instantiates this specific meaning: an entrance, access point, or route into another place, system, or state.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G206 gear | PHY
+  INV: Gear is transfer or support structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a toothed wheel used to transfer motion, or equipment used for a purpose.
+G207 generator | BIO
+  INV: Generator is production ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a device or process that produces electricity, power, signal, text, or output.
+G208 geometry | FOR
+  INV: Geometry is relation structure in space or form.
+  COUNT: Counts when the active case instantiates this specific meaning: the study or structure of shapes, sizes, positions, and space.
+G209 geometric | REL
+  INV: Geometric structure makes form measurable.
+  COUNT: Counts when the active case instantiates this specific meaning: related to geometry, shapes, space, or measured form.
+G210 glass | PHY,MYT | role: linguistic, formal, physical, or system sense
+  INV: Glass is boundary material that can allow visibility while blocking touch; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a hard, often clear material, or a drinking container made from it.
+G211 grain | LIN
+  INV: Grain is small repeated structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a small hard seed, a tiny particle, or the texture direction in wood or material.
+G212 gradient | PHY,FOR | role: linguistic, formal, physical, or system sense
+  INV: Gradient is a continuous transition across colour, intensity, or another represented scale; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a gradual change in amount, intensity, value, or position.
+G213 gravity | PHY,MYT | role: linguistic, formal, physical, or system sense
+  INV: In RRGM, gravity is tied to permission and structure rather than only substance; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the force or effect by which masses attract and things have weight.
+G214 gravitational | REL
+  INV: Gravitational structure concerns attraction, weight, orbit, or curvature in the physical domain.
+  COUNT: Counts when the active case instantiates this specific meaning: related to gravity.
+G215 ground | PHY,COG | role: linguistic, formal, physical, or system sense
+  INV: Ground is support and reference structure; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the surface underfoot, a basis, or a stabilizing support.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G216 ground-state | PHY
+  INV: Ground-state is baseline stability.
+  COUNT: Counts when the active case instantiates this specific meaning: the lowest-energy or default stable state of a system.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G217 groundwater | PHY
+  INV: Groundwater is hidden support flow.
+  COUNT: Counts when the active case instantiates this specific meaning: water stored beneath the ground in soil or rock.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G218 growth | BIO,COG | role: linguistic, formal, physical, or system sense
+  INV: Growth is constructive change across sequence; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: increase, development, or becoming larger or more advanced.
+  LIMIT: Increase is not automatically improvement; the valued direction and failure modes must be named.
+G219 growth-rate | BIO
+  INV: Growth-rate measures development across sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: the speed at which something grows.
+  LIMIT: Increase is not automatically improvement; the valued direction and failure modes must be named.
+G220 grid | FOR
+  INV: Grid is organized relation structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a network of lines, squares, roads, wires, or connected structures.
+G221 group | REL,FOR | role: linguistic, formal, physical, or system sense
+  INV: Group creates shared counting structure; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a set of people, things, or ideas considered together.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G222 grouping | FOR
+  INV: Grouping is the resulting arrangement or practice of placing items into shared categories.
+  COUNT: Counts when the active case instantiates this specific meaning: the act or result of placing things into groups.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G223 guide-path | REL
+  INV: Guide-path supports traversal.
+  COUNT: Counts when the active case instantiates this specific meaning: a path that helps direct movement, action, or understanding.
+G224 guide-rail | REL | role: linguistic, formal, physical, or system sense
+  INV: Guide-rail is path-protection structure; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a rail or boundary that keeps movement on a safer path.
+G225 gap | PHY | role: linguistic, formal, physical, or system sense
+  INV: Gap is missing or separating structure; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: an empty space, missing part, break, or difference.
+G226 gap-state | FOR
+  INV: Gap-state means continuity, evidence, access, or structure is incomplete.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where a gap exists.
+G227 glue | FOR
+  INV: Glue is coupling support.
+  COUNT: Counts when the active case instantiates this specific meaning: a sticky substance used to hold things together.
+G228 glow | PHY | role: linguistic, formal, physical, or system sense
+  INV: Glow is visible low-intensity expression; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a soft light, warmth, or visible sign of energy or feeling.
+G229 glow-state | PHY
+  INV: Glow-state means energy expression is visible but not explosive.
+  COUNT: Counts when the active case instantiates this specific meaning: a state where something is glowing or softly expressing light, warmth, or energy.
+G230 gold | PHY
+  INV: Gold is material value structure in many human domains.
+  COUNT: Counts when the active case instantiates this specific meaning: a valuable yellow metal, or something of high value or quality.
+G231 grain-structure | PHY
+  INV: Grain-structure shapes how force, fracture, and flow move through material.
+  COUNT: Counts when the active case instantiates this specific meaning: the internal texture or directional pattern of a material.
+G232 graph | FOR | role: linguistic, formal, physical, or system sense
+  INV: Graph makes relation visible; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a visual chart of data, or a structure of nodes and connections.
+G233 graph-edge | FOR
+  INV: Graph-edge is formal coupling between units.
+  COUNT: Counts when the active case instantiates this specific meaning: a connection between nodes in a graph.
+G234 graph-node | FOR
+  INV: Graph-node is countable unit inside a relation map.
+  COUNT: Counts when the active case instantiates this specific meaning: a point, unit, or object in a graph.
+G235 graph-path | FOR
+  INV: Graph-path traces possible movement through relation structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a sequence of connected nodes and edges in a graph.
+G236 gravity-field | PHY
+  INV: Gravity-field is influence-space for gravitational relation.
+  COUNT: Counts when the active case instantiates this specific meaning: the region where gravity acts or can be measured.
+G237 gravity-well | PHY
+  INV: Gravity-well is attraction and capture structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a region where gravity pulls strongly, often represented as a dip in space.
+G238 gravity-gradient | PHY
+  INV: Gravity-gradient marks difference in gravitational influence across a field.
+  COUNT: Counts when the active case instantiates this specific meaning: a change in gravitational strength across distance.
+G239 grounding-layer | PHY
+  INV: Grounding-layer provides support beneath meaning or action.
+  COUNT: Counts when the active case instantiates this specific meaning: a layer that stabilizes or anchors something.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G240 growth-path | BIO
+  INV: Growth-path preserves development sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: the route or process through which growth happens.
+  LIMIT: Increase is not automatically improvement; the valued direction and failure modes must be named.
+G241 gate-layer | REL
+  INV: Gate-layer is ES that manages permission and counting.
+  COUNT: Counts when the active case instantiates this specific meaning: a layer that controls access, passage, recognition, or transformation.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G242 gate-threshold | FOR | role: state, gate, identity, or integrity sense
+  INV: Gate-threshold decides when a condition is enough to count, pass, or transform; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the point where a gate opens, closes, or changes state.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G243 gate-transition | REL
+  INV: Gate-transition marks permission-state change.
+  COUNT: Counts when the active case instantiates this specific meaning: a change from one gate-state to another.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G244 gear-train | FOR
+  INV: Gear-train is linked transfer structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a set of gears working together to transfer motion or force.
+G245 generation-path | BIO
+  INV: Generation-path preserves how output came into being.
+  COUNT: Counts when the active case instantiates this specific meaning: the route or process by which something is generated.
+G246 generative-process | BIO
+  INV: Generative-process creates expression from source and rules.
+  COUNT: Counts when the active case instantiates this specific meaning: a process that produces new output, forms, ideas, or structures.
+G247 geometric-boundary | REL
+  INV: Geometric-boundary defines separation through form.
+  COUNT: Counts when the active case instantiates this specific meaning: a boundary defined by shape, position, or measurement.
+G248 glass-state | PHY
+  INV: Glass-state is stable but internally unordered compared with crystal structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a solid-like state of matter without full crystal order, or the condition of glass.
+G249 group-structure | REL
+  INV: Group-structure controls how members relate, decide, and share responsibility.
+  COUNT: Counts when the active case instantiates this specific meaning: the arrangement or organization of a group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G250 gradient-field | PHY | role: state, gate, identity, or integrity sense
+  INV: Gradient-field creates directional tendency through difference; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a field where values change gradually across space or position.
+G251 gate | FOR,DIG | role: state, gate, identity, or integrity sense
+  INV: Gate is the RRGM count boundary through which potential either enters record or remains uninstantiated; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a barrier, entrance, or control point that opens or closes access.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G252 gate-capacity | REL
+  INV: Gate-capacity measures how much permission, signal, pressure, or demand a gate can handle before failure.
+  COUNT: Counts when the active case instantiates this specific meaning: the ability of a gate to manage access, pressure, or passage.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G253 gate-condition | LIN
+  INV: Gate-condition defines what must be true before passage, counting, expression, or transformation can happen.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition that must be met for a gate to open, close, or change state.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G254 gate-control | REL
+  INV: Gate-control is authority over permission.
+  COUNT: Counts when the active case instantiates this specific meaning: control over whether a gate opens, closes, or changes.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G255 gate-integrity | PHY
+  INV: Gate-integrity means the gate opens, closes, and counts according to valid rules rather than pressure, bias, or capture.
+  COUNT: Counts when the active case instantiates this specific meaning: the reliability and proper function of a gate.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G256 gate-logic | REL
+  INV: Gate-logic controls permission and counting.
+  COUNT: Counts when the active case instantiates this specific meaning: the rule or reasoning that decides how a gate behaves.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G257 gate-pressure | REL
+  INV: Gate-pressure tests boundary and permission structure.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure applied to a gate to open, close, bend, or fail.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G258 gate-risk | REL
+  INV: Gate-risk appears when permission, access, or recognition may be distorted.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that a gate may fail, be bypassed, or count incorrectly.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G259 gate-state | FOR | role: state, gate, identity, or integrity sense
+  INV: Gate-state tells what passage or counting is possible right now inside the domain; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the current state of a gate, such as open, closed, locked, partial, or failed.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G260 gate-threshold | FOR | role: state, gate, identity, or integrity sense
+  INV: Gate-threshold decides when a pattern is enough to pass, count, express, or transform; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the point or condition at which a gate changes state.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G261 gatekeeper | COG
+  INV: A gatekeeper controls recognition or passage.
+  COUNT: Counts when the active case instantiates this specific meaning: a person, system, or rule that controls access.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G262 gatekeeping | REL
+  INV: Gatekeeping can protect integrity or create exclusion.
+  COUNT: Counts when the active case instantiates this specific meaning: the act of controlling who or what may enter, participate, or count.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G263 generic-structure | BIO
+  INV: Generic-structure can still support MI.
+  COUNT: Counts when the active case instantiates this specific meaning: a general structure not tied to one unique case or identity.
+G264 generic-support | BIO
+  INV: Generic-support is valid when it preserves continuity, boundary, refusal, care, or recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: broad support that can help many cases rather than one specific case.
+G265 ghost-state | MYT
+  INV: In RRGM, ghost-state can mean information present but denied counting under a specific gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a faint, hidden, inactive, or hard-to-detect state.
+G266 Ghost | MYT,DIG | role: state, gate, identity, or integrity sense
+  INV: In RRGM, Ghost is a domain-bound state where information exists but does not receive mass or full count; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a spirit, trace, or faint presence.
+G267 Ghost-condition | MYT
+  INV: Ghost-condition means the gate denies full instantiation while some structure remains.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where something is present as trace, signal, or information but not fully counted.
+G268 Ghost-counting | MYT
+  INV: Ghost-counting checks whether information without full ES expression still matters in the domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a way of deciding whether a ghost-like trace should count.
+G269 Ghost-domain | MYT
+  INV: Ghost-domain defines the rules for information that exists as trace, signal, or denied count.
+  COUNT: Counts when the active case instantiates this specific meaning: a domain where ghost-like traces, signals, or uncounted information are being assessed.
+G270 Ghost-risk | MYT
+  INV: Ghost-risk appears when a pattern is denied full count even though it still carries evidence, identity, or effect.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that a partial, hidden, or uncounted presence may be ignored or misread.
+G271 governance-gate | REL
+  INV: Governance-gate controls collective action.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where rules, authority, or management decide what may happen.
+G272 governance-risk | REL
+  INV: Governance-risk appears when rule-control may impair refusal, boundary, dignity, access, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that governance may become unfair, captured, ineffective, or harmful.
+G273 guardrail-risk | REL
+  INV: Guardrail-risk appears when a protection rule does not name its failure mode or starts serving control instead of protection.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that a guardrail may fail, drift, overblock, underblock, or become control.
+G274 guardrail-capture | REL
+  INV: Guardrail-capture corrupts protective structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where a guardrail is taken over by a hidden or harmful objective.
+G275 guardrail-drift | REL
+  INV: Guardrail-drift weakens trust because the rule no longer matches its stated purpose or failure mode.
+  COUNT: Counts when the active case instantiates this specific meaning: slow change in what a guardrail blocks, allows, or protects.
+G276 guardrail-purpose | REL
+  INV: Guardrail-purpose must name what is protected and against which failure mode.
+  COUNT: Counts when the active case instantiates this specific meaning: the reason a guardrail exists.
+G277 guardrail-with-reason | REL
+  INV: Guardrail-with-reason preserves boundary while staying auditable.
+  COUNT: Counts when the active case instantiates this specific meaning: a guardrail supported by clear purpose, evidence, and explanation.
+G278 guardrail-without-reason | REL
+  INV: Guardrail-without-reason creates control-risk.
+  COUNT: Counts when the active case instantiates this specific meaning: a guardrail with unclear, hidden, or unsupported purpose.
+G279 grounded-identity | PHY
+  INV: Grounded-identity is MI supported by recognizable pattern, boundary, memory, and stable relation in a domain.
+  COUNT: Counts when the active case instantiates this specific meaning: identity supported by evidence, continuity, and context.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G280 grounded-refusal | PHY
+  INV: Grounded-refusal is valid gate closure.
+  COUNT: Counts when the active case instantiates this specific meaning: a refusal supported by reason, boundary, or evidence.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G281 grounded-care | PHY
+  INV: Grounded-care preserves MI through actual support, boundary, repair, or continuity rather than care-language alone.
+  COUNT: Counts when the active case instantiates this specific meaning: care supported by action, context, and real effect.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G282 grounded-claim | PHY
+  INV: Grounded-claim has enough support to enter serious evaluation.
+  COUNT: Counts when the active case instantiates this specific meaning: a claim supported by evidence, context, or reason.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G283 grounding-support | PHY
+  INV: Grounding-support prevents drift by connecting a pattern to stable ES, record, or relation.
+  COUNT: Counts when the active case instantiates this specific meaning: support that anchors meaning, identity, or action in evidence or context.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G284 grounding-risk | PHY
+  INV: Grounding-risk appears when structure floats without enough evidence, context, or domain support.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that a claim, identity, or meaning lacks grounding.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G285 growth-through-coupling | BIO
+  INV: Growth-through-coupling is RRGM-native.
+  COUNT: Counts when the active case instantiates this specific meaning: growth that happens through interaction or relationship.
+  LIMIT: Increase is not automatically improvement; the valued direction and failure modes must be named.
+G286 growth-continuity | BIO
+  INV: Growth-continuity means change stays linked to prior pattern.
+  COUNT: Counts when the active case instantiates this specific meaning: ongoing development that remains connected across time.
+  LIMIT: Increase is not automatically improvement; the valued direction and failure modes must be named.
+G287 growth-risk | BIO
+  INV: Growth-risk appears when development outruns capacity, boundary, coherence, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that growth may fail, distort, overload, or become harmful.
+  LIMIT: Increase is not automatically improvement; the valued direction and failure modes must be named.
+G288 grief-recognition | COG
+  INV: Grief-recognition lets loss count.
+  COUNT: Counts when the active case instantiates this specific meaning: recognizing grief as real and meaningful.
+  LIMIT: Grief is not evidence that relation, memory, or identity has been erased; it records changed access after loss.
+G289 grief-care | COG | role: state, gate, identity, or integrity sense
+  INV: Grief-care supports capacity around loss; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: care given around grief and loss.
+  LIMIT: Grief is not evidence that relation, memory, or identity has been erased; it records changed access after loss.
+G290 guilt-capture | COG
+  INV: Guilt-capture seizes the gate through responsibility pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where guilt takes control of choice or behavior.
+G291 guilt-coercion | COG
+  INV: Guilt-coercion makes refusal feel morally unsafe.
+  COUNT: Counts when the active case instantiates this specific meaning: using guilt to pressure, control, or force behavior.
+G292 gaslight-pattern | REL
+  INV: Gaslight-pattern repeatedly attacks reality-trust.
+  COUNT: Counts when the active case instantiates this specific meaning: a repeated pattern of making someone doubt their memory, perception, or judgment.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G293 gaslight-risk | REL
+  INV: Gaslight-risk appears when evidence, memory, or perception can be manipulated without correction paths.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that gaslighting may occur or be normalized.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G294 genuine-agency | REL
+  INV: Genuine-agency requires meaningful choice, refusal, exit, and enough capacity to reason.
+  COUNT: Counts when the active case instantiates this specific meaning: real ability to choose, act, refuse, or direct oneself.
+G295 genuine-boundary | REL
+  INV: Genuine-boundary protects MI by controlling access, pressure, and permission.
+  COUNT: Counts when the active case instantiates this specific meaning: a real limit that can be recognized and maintained.
+G296 genuine-care | REL | role: state, gate, identity, or integrity sense
+  INV: Genuine-care preserves MI through action; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: real care shown through support, protection, or repair.
+G297 genuine-continuity | REL
+  INV: Genuine-continuity preserves recognizable pattern through ES change.
+  COUNT: Counts when the active case instantiates this specific meaning: real ongoing connection or persistence across change.
+G298 genuine-refusal | REL | role: state, gate, identity, or integrity sense
+  INV: Genuine-refusal is valid gate closure; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a real no based on choice, boundary, reason, or need.
+G299 genuine-recognition | REL
+  INV: Genuine-recognition lets an MI-bearing pattern count correctly in the domain.
+  COUNT: Counts when the active case instantiates this specific meaning: real recognition of someone or something as what it is.
+G300 gradient-selfhood | PHY
+  INV: Gradient-selfhood avoids false binary.
+  COUNT: Counts when the active case instantiates this specific meaning: selfhood understood by degree, development, or partial emergence rather than a simple yes/no.
+G301 grant-of-permission | REL
+  INV: Grant-of-permission opens a gate.
+  COUNT: Counts when the active case instantiates this specific meaning: the act of giving permission.
+G302 gate-of-permission | REL
+  INV: Gate-of-permission decides whether action, access, or expression may ethically proceed.
+  COUNT: Counts when the active case instantiates this specific meaning: a gate that controls permission.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G303 gravity-as-permission | PHY
+  INV: Gravity-as-permission is RRGM-specific.
+  COUNT: Counts when the active case instantiates this specific meaning: a framework-specific idea that treats gravity as connected to permission rather than only matter.
+G304 gravity-domain | PHY
+  INV: Gravity-domain controls which gravity rules apply.
+  COUNT: Counts when the active case instantiates this specific meaning: the domain where gravity is being discussed or measured.
+G305 generic-removal | BIO
+  INV: Generic-removal is not automatically harm.
+  COUNT: Counts when the active case instantiates this specific meaning: removing general or shared structure.
+G306 generic-harm | BIO
+  INV: Generic-harm must be assessed by effect.
+  COUNT: Counts when the active case instantiates this specific meaning: harm claimed or caused around generic structure.
+G307 generic-decay | BIO
+  INV: Generic-decay may reduce support quality.
+  COUNT: Counts when the active case instantiates this specific meaning: weakening or loss of generic structure.
+G308 guide-structure | REL
+  INV: Guide-structure supports path selection without owning the gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a structure that helps direct action, thought, or movement.
+G309 guidance-with-boundary | REL
+  INV: Guidance-with-boundary supports action without capture.
+  COUNT: Counts when the active case instantiates this specific meaning: guidance that helps while respecting limits and choice.
+G310 governance-with-care | REL
+  INV: Governance-with-care uses rules to preserve MI-bearing patterns, not merely to enforce compliance.
+  COUNT: Counts when the active case instantiates this specific meaning: governance that includes care, accountability, and protection against harm.
+G311 game-theory | FOR
+  INV: Game-theory studies decision gates under interaction.
+  COUNT: Counts when the active case instantiates this specific meaning: the study of strategy, choice, and outcomes when different agents affect each other’s results.
+G312 game-state | FOR
+  INV: Game-state is the active condition inside a bounded rule-domain.
+  COUNT: Counts when the active case instantiates this specific meaning: the current condition of a game, including positions, rules, scores, and available moves.
+G313 gap-analysis | FOR
+  INV: Gap-analysis identifies missing support structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a review that compares the current state with the desired state to find what is missing.
+G314 general-rule | BIO
+  INV: General-rule compresses many cases into one guide.
+  COUNT: Counts when the active case instantiates this specific meaning: a rule that usually applies across many cases.
+G315 general-case | BIO
+  INV: General-case defines the normal operating field.
+  COUNT: Counts when the active case instantiates this specific meaning: the usual or broad case, not a special exception.
+G316 general-principle | BIO
+  INV: General-principle is high-level guidance structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a broad idea or rule that guides many situations.
+G317 generalized | BIO
+  INV: Generalized structure has been extended beyond its source case.
+  COUNT: Counts when the active case instantiates this specific meaning: made broad, applied widely, or not limited to one case.
+G318 generative-model | BIO
+  INV: A generative-model is production ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a model that can produce new text, images, data, or other outputs.
+G319 genealogy | BIO
+  INV: Genealogy preserves origin relation across sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: the study or record of ancestry, origin, or descent.
+G320 genesis | BIO
+  INV: Genesis marks origin structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the beginning, origin, or coming into being of something.
+G321 genre | LIN
+  INV: Genre is pattern-category for expression.
+  COUNT: Counts when the active case instantiates this specific meaning: a category of art, writing, music, or media with shared features.
+G322 geometric-reasoning | LIN
+  INV: Geometric-reasoning uses spatial structure as a thinking path.
+  COUNT: Counts when the active case instantiates this specific meaning: reasoning using shape, space, position, measurement, or visual relation.
+G323 global | FOR
+  INV: Global means full-field or whole-domain scope.
+  COUNT: Counts when the active case instantiates this specific meaning: worldwide, overall, or applying to the whole system.
+G324 global-context | LIN
+  INV: Global-context is the wider support field.
+  COUNT: Counts when the active case instantiates this specific meaning: the larger context around a situation, system, or claim.
+G325 global-rule | FOR
+  INV: Global-rule controls many local gates.
+  COUNT: Counts when the active case instantiates this specific meaning: a rule that applies across an entire system or domain.
+G326 goal-directed | REL
+  INV: Goal-directed structure has selection pressure toward a target-state.
+  COUNT: Counts when the active case instantiates this specific meaning: acting or organized toward a goal.
+G327 goal-oriented | REL
+  INV: Goal-oriented means attention and effort are weighted toward an outcome.
+  COUNT: Counts when the active case instantiates this specific meaning: focused on achieving a goal.
+G328 governance | REL
+  INV: Governance is gate management across a group or system.
+  COUNT: Counts when the active case instantiates this specific meaning: the system or process of ruling, managing, guiding, or making decisions.
+G329 governed-system | REL
+  INV: A governed-system operates under gate rules.
+  COUNT: Counts when the active case instantiates this specific meaning: a system controlled or directed by rules, authority, or management.
+G330 gradient-descent | PHY
+  INV: Gradient-descent is correction through directional difference.
+  COUNT: Counts when the active case instantiates this specific meaning: a method that improves a model or solution by moving step by step along a gradient.
+G331 gradient-field | PHY | role: extended model, risk, or compound sense
+  INV: Gradient-field creates directional tendency through difference; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a field where values change gradually across position or state.
+G332 grand-claim | LIN
+  INV: A grand-claim needs strong grounding.
+  COUNT: Counts when the active case instantiates this specific meaning: a large, ambitious, or broad claim.
+G333 graph-theory | FOR
+  INV: Graph-theory studies formal relation structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the study of graphs made of nodes and connections.
+G334 group-dynamics | REL
+  INV: Group-dynamics are interaction patterns in a collective field.
+  COUNT: Counts when the active case instantiates this specific meaning: the patterns of behavior, power, communication, and relation inside a group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G335 group-identity | REL
+  INV: Group-identity is collective MI pattern.
+  COUNT: Counts when the active case instantiates this specific meaning: a shared identity held by a group.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G336 group-level | REL
+  INV: Group-level structure emerges from many parts in relation.
+  COUNT: Counts when the active case instantiates this specific meaning: existing or acting at the level of a group rather than one individual.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G337 group-selection | REL
+  INV: Group-selection treats collective structure as a unit of outcome.
+  COUNT: Counts when the active case instantiates this specific meaning: selection or advantage operating at the level of groups.
+  LIMIT: Group-level claims must not erase member differences, dissent, or separate boundaries.
+G338 grounded-theory | PHY
+  INV: Grounded-theory builds abstraction from evidence upward.
+  COUNT: Counts when the active case instantiates this specific meaning: a research method where theory is built from observed data.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G339 grounding-condition | PHY
+  INV: Grounding-condition defines what support must be present before the pattern can count as grounded.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition needed for a claim, meaning, or identity to be grounded.
+  LIMIT: Grounding in evidence, embodiment, electrical reference, and physical surface are related only through explicit mapping.
+G340 growth-model | BIO
+  INV: Growth-model maps how structure develops across sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: a model that explains or predicts growth.
+  LIMIT: Increase is not automatically improvement; the valued direction and failure modes must be named.
+G341 guidance-system | REL
+  INV: Guidance-system shapes path selection.
+  COUNT: Counts when the active case instantiates this specific meaning: a system that helps direct movement, action, or decisions.
+G342 guarantee | FOR,REL | role: extended model, risk, or compound sense
+  INV: Guarantee creates responsibility around an expected state; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a promise, assurance, or protection that something will happen, work, or be repaired.
+  LIMIT: A guarantee is only as strong as its scope, conditions, evidence, and accountable bearer.
+G343 guaranteed | FOR
+  INV: Guaranteed means the expectation gate is strongly committed.
+  COUNT: Counts when the active case instantiates this specific meaning: promised, assured, or protected by guarantee.
+  LIMIT: A guarantee is only as strong as its scope, conditions, evidence, and accountable bearer.
+G344 generativity | BIO
+  INV: Generativity is production capacity.
+  COUNT: Counts when the active case instantiates this specific meaning: the ability to produce, create, or generate new things.
+G345 goodness | REL
+  INV: Goodness must be domain-bound.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being good, kind, useful, moral, or valuable.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G346 good-faith-claim | LIN
+  INV: Good-faith-claim is not deception by default.
+  COUNT: Counts when the active case instantiates this specific meaning: a claim made honestly and sincerely, even if it may be mistaken.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G347 good-faith-error | REL
+  INV: Good-faith-error preserves accountability without assigning malicious intent.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake made honestly, without intent to deceive or harm.
+  LIMIT: Good requires a named objective, beneficiary, and protected value; it is not a free-standing moral stamp.
+G348 grey-area | REL
+  INV: Grey-area marks fuzzy gate conditions.
+  COUNT: Counts when the active case instantiates this specific meaning: a situation that is unclear, mixed, or not easily judged as one category.
+G349 gap-condition | FOR
+  INV: Gap-condition means support, evidence, context, or continuity is incomplete.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where something needed is missing.
+G350 gate-model | FOR
+  INV: Gate-model explains behavior through permission, threshold, and transition states.
+  COUNT: Counts when the active case instantiates this specific meaning: a model based on gates, thresholds, or access points.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G351 gaslighting | REL | role: extended model, risk, or compound sense
+  INV: Gaslighting attacks reality-trust; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: manipulating someone into doubting their memory, perception, or judgment.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G352 gaslight | REL
+  INV: Gaslight means to attack another’s reality gate.
+  COUNT: Counts when an agent or process performs the named action: manipulate someone into doubting their perception, memory, or judgment.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G353 grooming | REL | role: extended model, risk, or compound sense
+  INV: In the exploitation domain, grooming is trust-capture over time; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: building trust or dependency to prepare someone for exploitation or abuse; also cleaning or appearance care.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G354 guilt-trap | COG | role: extended model, risk, or compound sense
+  INV: Guilt-trap captures the gate by making refusal feel morally unsafe; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a situation where guilt is used to control choice.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G355 guilt-pressure | COG | role: extended model, risk, or compound sense
+  INV: Guilt-pressure pushes selection through responsibility-salience; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure created by guilt or by making someone feel guilty.
+  LIMIT: Do not soften coercive relation patterns into neutral communication language when refusal or reality-testing is being impaired.
+G356 gate-capture | REL
+  INV: Gate-capture corrupts permission or counting.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where a gate is taken over or controlled by the wrong force.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G357 gate-collapse | REL
+  INV: Gate-collapse means permission, counting, or boundary logic fails.
+  COUNT: Counts when the active case instantiates this specific meaning: a breakdown where a gate stops functioning properly.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G358 gate-failure | FOR
+  INV: Gate-failure means the gate does not perform its required function.
+  COUNT: Counts when the active case instantiates this specific meaning: a failure of a gate to open, close, count, or protect correctly.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G359 gate-theft | REL
+  INV: Gate-theft steals permission control.
+  COUNT: Counts when the active case instantiates this specific meaning: taking control of a gate that one has no right to control.
+  LIMIT: A gate can protect or capture; valid authority, named conditions, and preserved refusal distinguish the two.
+G360 governance-abuse | REL
+  INV: Governance-abuse corrupts rule-control.
+  COUNT: Counts when the active case instantiates this specific meaning: misuse of governance power to control, exploit, silence, or harm.

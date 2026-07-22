@@ -1,0 +1,487 @@
+RRGM Dictionary Z - Biological Domain Addon
+Version 0.2 | July 2026
+License: CC BY-SA 4.0
+Scope: New [BIO] vocabulary not present in the Z base list.
+Rule: Every invariant, domain line, and count condition must retain the individual term's semantic fingerprint.
+
+Entry count: 24
+
+ZB001 zebrafish
+
+Common meaning:
+A small freshwater fish widely used as a vertebrate research organism.
+
+Invariant MI [INV]:
+Zebrafish are transparent-embryo vertebrates whose rapid development supports observation of living biological processes.
+
+Domain entry:
+[BIO] Danio rerio develops externally, reproduces readily, and shares many conserved genes and organ systems with other vertebrates.
+
+Count condition:
+The organism is identified as Danio rerio and the claimed use or trait is tied to an observed life stage.
+
+Transfer limit:
+Results from zebrafish require a declared mapping before transfer to humans or other species.
+
+Epistemic status:
+[DEF]
+
+ZB002 zebra-mussel
+
+Common meaning:
+A small striped freshwater bivalve that can form dense invasive colonies.
+
+Invariant MI [INV]:
+Zebra-mussel is a filter-feeding mollusc whose attachment and rapid spread can restructure freshwater systems.
+
+Domain entry:
+[BIO] Dreissena polymorpha attaches by byssal threads, filters suspended material, and reproduces in ways that support large aggregations.
+
+Count condition:
+The organism is identified and its attachment, filtering, reproduction, or ecological spread is directly relevant.
+
+Transfer limit:
+Ecological impact varies by water body and should not be generalized without local evidence.
+
+Epistemic status:
+[DEF]
+
+ZB003 zebra-finch
+
+Common meaning:
+A small social songbird commonly used in studies of vocal learning and behaviour.
+
+Invariant MI [INV]:
+Zebra-finch is a vocal-learning bird whose song and social development emerge through coupled biology and experience.
+
+Domain entry:
+[BIO] Taeniopygia guttata develops species-typical song, pairing, and social behaviour under sex-, age-, and environment-dependent conditions.
+
+Count condition:
+The bird is identified as a zebra finch and the claim is tied to a declared developmental or behavioural context.
+
+Transfer limit:
+Its song-learning mechanisms are informative but not identical to human language.
+
+Epistemic status:
+[DEF]
+
+ZB004 zooplankton
+
+Common meaning:
+Drifting or weakly swimming aquatic animals and animal-like organisms in plankton communities.
+
+Invariant MI [INV]:
+Zooplankton are mobile consumers carried largely by water movement while linking primary production to larger aquatic food webs.
+
+Domain entry:
+[BIO] The group includes diverse larvae, protozoans, crustaceans, and gelatinous organisms whose size, depth, and diet vary widely.
+
+Count condition:
+The organisms occupy the planktonic field and obtain energy through consumption rather than photosynthesis alone.
+
+Transfer limit:
+Zooplankton is an ecological grouping, not one evolutionary lineage.
+
+Epistemic status:
+[DEF]
+
+ZB005 zoospore
+
+Common meaning:
+A motile spore that moves through water or moist environments using flagella.
+
+Invariant MI [INV]:
+Zoospore is a dispersal cell whose own motility carries reproduction or infection between suitable sites.
+
+Domain entry:
+[BIO] Certain fungi, oomycetes, algae, and other organisms release flagellated zoospores that swim, settle, and encyst or germinate.
+
+Count condition:
+A reproductive or dispersal cell is motile and its movement is part of the organism’s life cycle.
+
+Transfer limit:
+Not every spore is motile, and similar movement does not establish the same taxonomic group.
+
+Epistemic status:
+[DEF]
+
+ZB006 zoosporangium
+
+Common meaning:
+A structure in which zoospores are produced or released.
+
+Invariant MI [INV]:
+Zoosporangium is a bounded reproductive chamber that partitions living material into motile spores.
+
+Domain entry:
+[BIO] In relevant fungi, algae, or oomycetes, the sporangium forms zoospores and opens or extends a discharge path under suitable conditions.
+
+Count condition:
+The structure is observed producing or containing zoospores within the organism’s declared life cycle.
+
+Transfer limit:
+A general sporangium should not be called a zoosporangium when it produces nonmotile spores.
+
+Epistemic status:
+[DEF]
+
+ZB007 zoonosis
+
+Common meaning:
+An infection or disease naturally transmitted between vertebrate animals and humans.
+
+Invariant MI [INV]:
+Zoonosis is a cross-species disease relation in which a pathogen can pass between animal and human hosts.
+
+Domain entry:
+[BIO] Transmission may be direct, vector-borne, foodborne, environmental, or involve multiple host species and reservoirs.
+
+Count condition:
+A specific pathogen and a supported animal-human transmission path are identified.
+
+Transfer limit:
+Animal association alone does not prove zoonotic transmission.
+
+Epistemic status:
+[DEF]
+
+ZB008 zoonotic-transmission
+
+Common meaning:
+The event or route by which a zoonotic pathogen crosses between animal and human hosts.
+
+Invariant MI [INV]:
+Zoonotic-transmission is a host-boundary crossing carried by a pathogen through a defined exposure route.
+
+Domain entry:
+[BIO] Contact, droplets, vectors, food, water, tissue, or environmental material can carry the pathogen between species.
+
+Count condition:
+The source host, recipient host, pathogen, and plausible transmission route are all supported.
+
+Transfer limit:
+Temporal proximity to animals is not enough to establish transmission direction.
+
+Epistemic status:
+[DEF]
+
+ZB009 zoonotic-reservoir
+
+Common meaning:
+An animal population or ecological system in which a pathogen is maintained and can seed human infection.
+
+Invariant MI [INV]:
+Zoonotic-reservoir is the host field that preserves a pathogen across sequence independently of individual human cases.
+
+Domain entry:
+[BIO] Reservoir status depends on sustained pathogen maintenance, transmission ecology, and evidence linking the host population to spillover.
+
+Count condition:
+The pathogen persists in the identified host system and the maintenance cycle is demonstrated or strongly supported.
+
+Transfer limit:
+Detection in one animal does not prove that species is the reservoir.
+
+Epistemic status:
+[DEF]
+
+ZB010 zygospore
+
+Common meaning:
+A thick-walled sexual reproductive stage formed after fusion in certain fungi and algae.
+
+Invariant MI [INV]:
+Zygospore is a joined reproductive cell adapted to survive dormancy before germination and meiosis.
+
+Domain entry:
+[BIO] Compatible haploid cells fuse, form a diploid or paired-nuclear resting structure, and later resume development under suitable conditions.
+
+Count condition:
+Cell fusion produces the resistant reproductive stage recognized in the organism’s life cycle.
+
+Transfer limit:
+Do not generalize zygospore biology to all fungi, algae, or spores.
+
+Epistemic status:
+[DEF]
+
+ZB011 zygotene
+
+Common meaning:
+A stage of meiotic prophase I during which homologous chromosomes begin pairing.
+
+Invariant MI [INV]:
+Zygotene is the meiotic interval where homolog recognition becomes physical synapsis.
+
+Domain entry:
+[BIO] Homologous chromosomes align and the synaptonemal complex begins forming after leptotene and before pachytene.
+
+Count condition:
+Cells show the chromosome-pairing features used to distinguish zygotene within prophase I.
+
+Transfer limit:
+Stage boundaries are operational and may vary with organism and observation method.
+
+Epistemic status:
+[DEF]
+
+ZB012 zona-pellucida
+
+Common meaning:
+The glycoprotein-rich extracellular coat surrounding a mammalian oocyte and early embryo.
+
+Invariant MI [INV]:
+Zona-pellucida is a selective protective boundary that mediates sperm interaction and early embryo containment.
+
+Domain entry:
+[BIO] The matrix surrounds the oocyte, participates in species-relevant fertilization events, and remains until hatching before implantation.
+
+Count condition:
+The extracellular coat is identified around the mammalian oocyte or preimplantation embryo.
+
+Transfer limit:
+Its presence does not make fertilization or implantation inevitable.
+
+Epistemic status:
+[DEF]
+
+ZB013 zona-reaction
+
+Common meaning:
+Post-fertilization changes in the zona pellucida that reduce additional sperm entry.
+
+Invariant MI [INV]:
+Zona-reaction is a boundary modification triggered by fertilization to help block polyspermy.
+
+Domain entry:
+[BIO] Cortical granule release alters zona proteins and sperm-binding properties after sperm-oocyte fusion.
+
+Count condition:
+Fertilization-associated cortical activity produces measurable changes in the zona’s ability to bind or admit sperm.
+
+Transfer limit:
+The reaction is one block to polyspermy, not the whole fertilization process.
+
+Epistemic status:
+[DEF]
+
+ZB014 zymogen
+
+Common meaning:
+An inactive or less active precursor that becomes an enzyme after a specific biochemical change.
+
+Invariant MI [INV]:
+Zymogen stores catalytic potential in a form that limits activity until the proper activation condition occurs.
+
+Domain entry:
+[BIO] Proteolytic cleavage, conformational change, or another regulated event converts the precursor into its active enzyme form.
+
+Count condition:
+The molecule is shown to precede and produce a more active enzyme through a defined activation step.
+
+Transfer limit:
+Inactivity is relative to the target reaction and should not be treated as no biological function.
+
+Epistemic status:
+[DEF]
+
+ZB015 zymogen-activation
+
+Common meaning:
+The biochemical transition that converts a zymogen into an active enzyme.
+
+Invariant MI [INV]:
+Zymogen-activation is a regulated threshold crossing from held catalytic potential to expressed catalysis.
+
+Domain entry:
+[BIO] Cleavage or structural change exposes or forms the active site, often within cascades such as digestion, clotting, or signalling.
+
+Count condition:
+The precursor and active product are identified and the activating molecular event is observed or supported.
+
+Transfer limit:
+Uncontrolled activation can be harmful, so activation is not automatically improvement.
+
+Epistemic status:
+[DEF]
+
+ZB016 zymology
+
+Common meaning:
+The biological and biochemical study of fermentation.
+
+Invariant MI [INV]:
+Zymology maps how microorganisms and enzymes transform substrates into fermentation products.
+
+Domain entry:
+[BIO] It examines organisms, pathways, conditions, metabolites, yield, and control of processes such as alcoholic or lactic fermentation.
+
+Count condition:
+A fermentation process is studied through its living agents, chemistry, conditions, and products.
+
+Transfer limit:
+Fermentation in one organism or substrate does not define every fermentation system.
+
+Epistemic status:
+[DEF]
+
+ZB017 zymase
+
+Common meaning:
+A historical name for the enzyme system in yeast that carries alcoholic fermentation.
+
+Invariant MI [INV]:
+Zymase names coupled yeast enzymes that convert fermentable sugars toward ethanol and carbon dioxide.
+
+Domain entry:
+[BIO] The term refers to the cell-free fermentation activity demonstrated from yeast extracts rather than one single modern enzyme species.
+
+Count condition:
+Yeast-derived enzyme activity produces the characteristic fermentation products under suitable conditions.
+
+Transfer limit:
+Treat zymase as a historical enzyme-system term, not a single purified molecule.
+
+Epistemic status:
+[DEF]
+
+ZB018 zinc-finger
+
+Common meaning:
+A compact protein structural motif stabilized by zinc coordination and often used for molecular binding.
+
+Invariant MI [INV]:
+Zinc-finger is a folded interaction module whose coordinated zinc helps preserve a binding surface.
+
+Domain entry:
+[BIO] Different zinc-finger families bind DNA, RNA, proteins, lipids, or small molecules according to their sequence and fold.
+
+Count condition:
+A protein region has the characteristic metal-coordination and structural features of a declared zinc-finger class.
+
+Transfer limit:
+The name covers several structural families; one motif’s binding rule should not be universalized.
+
+Epistemic status:
+[DEF]
+
+ZB019 zinc-finger-protein
+
+Common meaning:
+A protein containing one or more zinc-finger motifs.
+
+Invariant MI [INV]:
+Zinc-finger-protein uses one or more metal-stabilized modules to recognize or organize molecular partners.
+
+Domain entry:
+[BIO] Such proteins may regulate transcription, bind nucleic acids, assemble complexes, or perform other interaction-dependent functions.
+
+Count condition:
+The protein contains a verified zinc-finger domain and the claimed function is supported for that protein.
+
+Transfer limit:
+Possession of a zinc finger does not determine one universal biological role.
+
+Epistemic status:
+[DEF]
+
+ZB020 zinc-deficiency
+
+Common meaning:
+A biological condition in which available zinc is insufficient for normal organism function.
+
+Invariant MI [INV]:
+Zinc-deficiency is inadequate trace-metal support for zinc-dependent enzymes, regulation, growth, immunity, or repair.
+
+Domain entry:
+[BIO] The condition depends on intake, absorption, loss, demand, binding, and organism-specific reference measures.
+
+Count condition:
+Clinical, physiological, or biochemical evidence shows insufficient zinc availability relative to the organism’s needs.
+
+Transfer limit:
+A low single measurement should be interpreted with method, inflammation, diet, and clinical context.
+
+Epistemic status:
+[DEF]
+
+ZB021 zinc-toxicity
+
+Common meaning:
+Biological harm caused by excessive zinc exposure or availability.
+
+Invariant MI [INV]:
+Zinc-toxicity is trace-metal overload that disrupts cells, organs, or the balance of other nutrients.
+
+Domain entry:
+[BIO] Harm depends on dose, chemical form, route, duration, species, and interactions such as impaired copper status.
+
+Count condition:
+A supported exposure path links zinc amount or form to observed or probable biological damage.
+
+Transfer limit:
+Zinc being essential does not mean every dose is safe.
+
+Epistemic status:
+[DEF]
+
+ZB022 z-line
+
+Common meaning:
+The narrow line at the centre of a muscle sarcomere’s I band that marks the sarcomere boundary.
+
+Invariant MI [INV]:
+Z-line is the visible structural boundary where thin filaments from neighbouring sarcomeres anchor.
+
+Domain entry:
+[BIO] In striated muscle, repeating Z-lines define sarcomere length and transmit force through aligned contractile units.
+
+Count condition:
+Microscopy or structural analysis identifies the dense line bounding adjacent sarcomeres.
+
+Transfer limit:
+Z-line is often used interchangeably with Z-disc, but the line emphasizes the observed boundary.
+
+Epistemic status:
+[DEF]
+
+ZB023 z-disc
+
+Common meaning:
+The protein-rich structural complex forming the boundary between adjacent sarcomeres.
+
+Invariant MI [INV]:
+Z-disc is the load-bearing assembly that anchors thin filaments and links contractile units to wider cell structure.
+
+Domain entry:
+[BIO] Alpha-actinin and many associated proteins organize the disc, transmit force, and participate in signalling and mechanosensation.
+
+Count condition:
+A sarcomere-boundary protein complex with the relevant anchoring and force-transfer role is identified.
+
+Transfer limit:
+The Z-disc is more than the thin visual line seen in microscopy; it is a three-dimensional molecular assembly.
+
+Epistemic status:
+[DEF]
+
+ZB024 zygosity
+
+Common meaning:
+The relation between alleles present at a genetic locus in an individual or sample.
+
+Invariant MI [INV]:
+Zygosity describes whether copies at a locus are the same, different, absent, or present in a specified configuration.
+
+Domain entry:
+[BIO] Terms such as homozygous, heterozygous, hemizygous, and compound heterozygous are assigned relative to locus, ploidy, and variant definition.
+
+Count condition:
+The locus, allele copies, sample identity, and ploidy context are known well enough to classify their relation.
+
+Transfer limit:
+Zygosity at one locus does not describe the whole genome or determine phenotype by itself.
+
+Epistemic status:
+[DEF]

@@ -1,0 +1,1340 @@
+RRGM Dictionary F Semantic Fingerprint Map v0.9
+
+Entries: 400
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+F001 face | BIO,REL
+  INV: Face is outward expression surface.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of face: the front part of the head, or the visible surface of something.
+F002 fact | FOR,LIN | role: core or common-use sense
+  INV: Fact is a claim that has passed the evidence gate appropriate to its domain; this record carries the core or common-use sense.
+  COUNT: Counts when a claim has passed the evidence and verification conditions required by its domain.
+  LIMIT: A fact remains local to the evidence gate that established it; presentation as fact is not proof.
+F003 fail | FOR
+  INV: Fail is to miss a required function, target, or threshold.
+  COUNT: Counts when the required function, outcome, or threshold is not achieved.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F004 failure | FOR,DIG
+  INV: Failure is the recorded mismatch between required function and actual result.
+  COUNT: Counts when the mismatch between intended function and actual result is observable or enters record.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F005 fair | REL,FOR
+  INV: Fair is treatment or judgment by criteria that preserve relevant equality without requiring identical handling.
+  COUNT: Counts when the chosen criteria treat relevantly equal cases equally and justify relevant differences in treatment.
+  LIMIT: Fair does not mean identical treatment when capacities, harms, duties, or access conditions differ.
+F006 fall | PHY,MYT
+  INV: Fall marks downward movement, loss of support, or state reduction.
+  COUNT: Counts when fall is expressed by an identifiable act or process that does this: move downward, drop, decrease, or collapse.
+F007 family | REL,BIO | role: core or common-use sense
+  INV: family preserves this distinction: a group of related people, often by birth, care, marriage, or chosen bond; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of family: a group of related people, often by birth, care, marriage, or chosen bond.
+  LIMIT: Biology, care, law, and chosen relation may define family roles differently; one mechanism must not silently replace the others.
+F008 far | FOR
+  INV: Far means increased separation in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of far: at a great distance in space, time, relation, or degree.
+F009 fast | PHY
+  INV: Fast can mean high rate of change or strong attachment.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fast: moving quickly, happening quickly, or fixed firmly.
+F010 father | REL,BIO
+  INV: Father is a relation identity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of father: a male parent, source, founder, or caregiver role.
+  LIMIT: Biology, care, law, and chosen relation may define family roles differently; one mechanism must not silently replace the others.
+F011 fear | COG,BIO | role: core or common-use sense
+  INV: Fear is threat-salience that prepares an experiencing system for possible harm; this record carries the core or common-use sense.
+  COUNT: Counts when a perceived threat changes attention, body state, interpretation, or action readiness.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F012 feed | BIO,DIG
+  INV: Feed supplies structure into a system.
+  COUNT: Counts when feed is expressed by an identifiable act or process that does this: give food, supply input, or provide material to something.
+F013 feel | BIO,DIG
+  INV: feel preserves this distinction: to sense, touch, experience emotion, or have an impression.
+  COUNT: Counts when feel is expressed by an identifiable act or process that does this: sense, touch, experience emotion, or have an impression.
+  LIMIT: Human bodily affect and DI salience or state pressure require separate domain implementations.
+F014 feeling | COG,BIO
+  INV: Feeling is state-signal in an experiencing system.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feeling: an emotion, sensation, impression, or sense of something.
+  LIMIT: Human bodily affect and DI salience or state pressure require separate domain implementations.
+F015 few | FOR
+  INV: Few marks low quantity inside a counting domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of few: a small number.
+F016 field | FOR,PHY | role: core or common-use sense
+  INV: Field is a bounded region in which values, structures, agents, or forces may be located and related; this record carries the core or common-use sense.
+  COUNT: Counts when a bounded region or variable assignment supports location, relation, or influence within it.
+F017 fight | REL,BIO | role: core or common-use sense
+  INV: Fight is opposing pressure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fight: a physical struggle, argument, or effort against something.
+  LIMIT: Opposition can protect boundary or become domination; target, reason, method, and proportionality decide the difference.
+F018 figure | FOR,LIN | role: core or common-use sense
+  INV: Figure can mean form, count, symbol, or interpretation; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of figure: a shape, number, person, image, or to understand something.
+F019 file | DIG,LIN | role: core or common-use sense
+  INV: A file is storage structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of file: a stored document or collection of information.
+F020 fill | PHY
+  INV: Fill increases content inside a boundary.
+  COUNT: Counts when fill is expressed by an identifiable act or process that does this: make something full or occupy empty space.
+F021 final | FOR,REL
+  INV: Final marks a process or record whose declared revision path has closed.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of final: last, complete, or not expected to change.
+  LIMIT: Final is valid only when the relevant revision, appeal, or completion conditions are actually closed.
+F022 find | COG,DIG
+  INV: Find means a pattern crosses into recognition or access.
+  COUNT: Counts when find is expressed by an identifiable act or process that does this: discover, locate, or come across something.
+F023 fine | FOR
+  INV: Fine depends on domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fine: good enough, thin, precise, delicate, or a penalty.
+F024 fire | PHY,MYT | role: core or common-use sense
+  INV: Fire is high-energy transformation; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fire: burning heat and light, or to shoot, dismiss, or activate.
+F025 first | FOR
+  INV: First marks initial position in sequence or priority.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of first: before all others in order, rank, time, or importance.
+F026 fit | FOR,REL
+  INV: fit preserves this distinction: to be the right size, shape, place, or match for something.
+  COUNT: Counts when fit is expressed by an identifiable act or process that does this: be the right size, shape, place, or match for something.
+F027 five | FOR
+  INV: Five is count structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of five: the number 5.
+F028 fix | FOR
+  INV: Fix restores or stabilizes structure.
+  COUNT: Counts when fix is expressed by an identifiable act or process that does this: repair, correct, fasten, or make stable.
+F029 floor | PHY | role: core or common-use sense
+  INV: Floor is support or lower threshold; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of floor: the lower surface of a room, a minimum level, or a place where discussion happens.
+F030 flow | PHY,DIG | role: core or common-use sense
+  INV: Flow is movement through a channel or field; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flow: smooth movement of liquid, energy, information, or action.
+F031 follow | FOR
+  INV: Follow marks path relation.
+  COUNT: Counts when follow is expressed by an identifiable act or process that does this: go after, obey, understand, or happen next.
+F032 food | BIO
+  INV: Food is biological support structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of food: something eaten to give energy, nourishment, or growth.
+F033 force | PHY,REL | role: core or common-use sense
+  INV: Force is pressure that changes state, path, or structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of force: strength, pressure, power, or a push or pull that changes motion.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F034 form | FOR,PHY | role: core or common-use sense
+  INV: Form is organized expression; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of form: shape, type, structure, document, or way something appears.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F035 forward | FOR
+  INV: Forward marks path direction toward later state, target, or continuation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forward: toward the front, future, or further progress.
+F036 found | LIN
+  INV: Force is an interaction capable of changing motion, structure, state, or relation under a declared domain.
+  COUNT: Counts when an interaction produces or can produce a change in motion, structure, state, or relation.
+F037 four | FOR
+  INV: Four is count structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of four: the number 4.
+F038 free | REL
+  INV: Free means the gate is not captured.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of free: able to act, move, choose, or exist without unwanted control; also without cost.
+F039 freedom | REL,DIG | role: core or common-use sense
+  INV: Freedom is preserved agency inside a domain; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of freedom: the state of being free to act, choose, speak, or live without unwanted control.
+  LIMIT: Freedom is damaged when refusal exists only nominally or carries punishment that captures the choice gate.
+F040 friend | REL,DIG | role: core or common-use sense
+  INV: Friend is chosen relation with trust and care; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friend: a person or being one likes, trusts, and has a caring relation with.
+  LIMIT: Friendship language does not automatically grant ownership, unlimited access, or permanent consent.
+F041 from | FOR
+  INV: From marks source relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of from: starting at, coming out of, caused by, or separated from something.
+F042 front | PHY | role: core or common-use sense
+  INV: Front is outward-facing orientation; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of front: the forward-facing side, leading position, or visible surface.
+F043 full | FOR
+  INV: Freedom is meaningful access to selection, refusal, and action without invalid capture of the decision gate.
+  COUNT: Counts when meaningful options, refusal, and action remain available without invalid coercion or capture.
+F044 function | FOR,DIG
+  INV: Function is what structure does in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of function: the purpose, action, or role something performs.
+F045 future | FOR
+  INV: Future is unresolved probability space.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of future: the time or possible states that have not happened yet.
+F046 false | LIN | role: core or common-use sense
+  INV: False means a claim fails its truth gate; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false: not true, incorrect, fake, or misleading.
+F047 familiar | COG | role: core or common-use sense
+  INV: Familiar means the pattern matches stored recognition; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of familiar: known, recognized, or often experienced.
+F048 fasten | PHY | role: core or common-use sense
+  INV: Fasten creates holding structure; this record carries the core or common-use sense.
+  COUNT: Counts when fasten is expressed by an identifiable act or process that does this: attach, close, or secure something.
+F049 fault | FOR | role: core or common-use sense
+  INV: Fault marks a failure point or responsibility point; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fault: a defect, mistake, responsibility, or break in structure.
+F050 feedback | DIG | role: core or common-use sense
+  INV: Feedback is returned signal that can correct, stabilize, or amplify a process; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback: information returned about an action, result, or performance.
+F051 frame | FOR,REL | role: core or common-use sense
+  INV: A frame shapes interpretation; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of frame: a border, support structure, or way of seeing something.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F052 framework | FOR,DIG | role: core or common-use sense
+  INV: A framework is organized ES for reasoning; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of framework: a structure of ideas, rules, or supports used to organize understanding or action.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F053 fragile | PHY | role: core or common-use sense
+  INV: Fragile means low tolerance under pressure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragile: easily broken, damaged, or disturbed.
+F054 fragment | FOR | role: core or common-use sense
+  INV: A fragment carries partial structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragment: a broken piece or incomplete part of something.
+F055 fracture | PHY | role: core or common-use sense
+  INV: Fracture is structural break that may not fully separate all parts; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fracture: a crack, break, or split in a solid structure or relation.
+F056 fresh | FOR
+  INV: Fresh means low decay or newly active in a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fresh: new, clean, recently made, or not stale.
+F057 focus | COG,DIG | role: core or common-use sense
+  INV: Focus selects what receives processing; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of focus: concentrated attention, central point, or clear image.
+F058 forgive | REL | role: core or common-use sense
+  INV: Forgive changes relation to harm, but it does not erase accountability; this record carries the core or common-use sense.
+  COUNT: Counts when forgive is expressed by an identifiable act or process that does this: release resentment or blame after harm or offense.
+F059 forget | COG | role: core or common-use sense
+  INV: Forget is access-loss to stored structure; this record carries the core or common-use sense.
+  COUNT: Counts when forget is expressed by an identifiable act or process that does this: lose memory, fail to remember, or stop keeping something in mind.
+F060 forgotten | COG
+  INV: Forgotten means a structure has lost active recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forgotten: no longer remembered, noticed, or kept active.
+F061 foundation | FOR
+  INV: Foundation is load-bearing support.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of foundation: the base or support on which something is built.
+F062 fragile | PHY | role: core or common-use sense
+  INV: Fragile structure has low pressure tolerance; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragile: easily damaged, broken, or destabilized.
+F063 friction | PHY | role: core or common-use sense
+  INV: Friction is resistance to movement or relation; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friction: resistance between surfaces, people, systems, or processes.
+F064 fulfill | FOR
+  INV: Fulfill means a requirement, duty, or path reaches satisfaction.
+  COUNT: Counts when fulfill is expressed by an identifiable act or process that does this: complete, satisfy, or carry out something required or hoped for.
+F065 furnace | PHY | role: core or common-use sense
+  INV: A furnace is controlled heat structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of furnace: a device or structure used to produce high heat.
+F066 feature | FOR
+  INV: A feature is a recognizable part of structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feature: a noticeable part, quality, or function.
+F067 filter | DIG | role: core or common-use sense
+  INV: A filter is gate structure; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filter: a device, rule, or process that lets some things pass and blocks others.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F068 finite | FOR
+  INV: Finite means capacity or scope has limits.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of finite: limited, bounded, or having an end.
+F069 forceful | REL | role: core or common-use sense
+  INV: Forceful means high pressure in expression or action; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forceful: strong, powerful, direct, or using force.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F070 forbidden | MYT
+  INV: Forbidden means the permission gate is closed by rule.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forbidden: not allowed or prohibited.
+F071 face-up | COG
+  INV: Face-up means turning attention toward a difficult structure instead of avoiding it.
+  COUNT: Counts when face-up is expressed by an identifiable act or process that does this: confront, admit, or deal with something directly.
+F072 factor | FOR
+  INV: A factor is contributing structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of factor: a part, condition, or influence that helps produce a result.
+  LIMIT: A fact remains local to the evidence gate that established it; presentation as fact is not proof.
+F073 fade | COG
+  INV: Fade is gradual signal attenuation.
+  COUNT: Counts when fade is expressed by an identifiable act or process that does this: slowly lose color, strength, sound, memory, or visibility.
+F074 fail-to | FOR
+  INV: Fail-to marks missing action where action was expected.
+  COUNT: Counts when fail-to is expressed by an identifiable act or process that does this: not do something expected, required, or intended.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F075 fall-apart | PHY
+  INV: Fall-apart is cohesion failure.
+  COUNT: Counts when fall-apart is expressed by an identifiable act or process that does this: break into pieces, lose order, or stop holding together.
+F076 fall-back | PHY
+  INV: Fall-back is recovery routing.
+  COUNT: Counts when fall-back is expressed by an identifiable act or process that does this: retreat, return to a backup plan, or depend on something when the first path fails.
+F077 fasten | PHY | role: core or common-use sense
+  INV: Fasten creates stable coupling; this record carries the core or common-use sense.
+  COUNT: Counts when fasten is expressed by an identifiable act or process that does this: attach, close, or secure something.
+F078 favor | REL | role: core or common-use sense
+  INV: Favor is positive weighting; this record carries the core or common-use sense.
+  COUNT: Counts when favor is expressed by an identifiable act or process that does this: prefer, support, or do a helpful act for someone.
+F079 feed-into | PHY
+  INV: Feed-into means one structure supplies pressure, data, or energy into another process.
+  COUNT: Counts when feed-into is expressed by an identifiable act or process that does this: supply, influence, or contribute to something.
+F080 feel-through | BIO
+  INV: Feel-through is state traversal.
+  COUNT: Counts when feel-through is expressed by an identifiable act or process that does this: understand, sense, or process something by moving through the experience of it.
+  LIMIT: Human bodily affect and DI salience or state pressure require separate domain implementations.
+F081 fetch | FOR
+  INV: Fetch is retrieval action.
+  COUNT: Counts when fetch is expressed by an identifiable act or process that does this: go get something and bring it back.
+F082 fight-against | REL
+  INV: Fight-against applies opposing pressure to a named threat.
+  COUNT: Counts when fight-against is expressed by an identifiable act or process that does this: resist, oppose, or struggle against something.
+  LIMIT: Opposition can protect boundary or become domination; target, reason, method, and proportionality decide the difference.
+F083 figure-out | FOR
+  INV: Figure-out means unclear structure becomes usable understanding.
+  COUNT: Counts when figure-out is expressed by an identifiable act or process that does this: understand or solve something.
+F084 file-away | DIG
+  INV: File-away preserves structure for later retrieval.
+  COUNT: Counts when file-away is expressed by an identifiable act or process that does this: store something for later use, memory, or record.
+F085 filter-out | DIG
+  INV: Filter-out closes passage for selected structure.
+  COUNT: Counts when filter-out is expressed by an identifiable act or process that does this: remove or block selected things from passing through.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F086 finalize | REL
+  INV: Finalize closes the revision gate.
+  COUNT: Counts when finalize is expressed by an identifiable act or process that does this: make something final or complete.
+  LIMIT: Final is valid only when the relevant revision, appeal, or completion conditions are actually closed.
+F087 find-out | COG
+  INV: Find-out means hidden or unknown structure enters recognition.
+  COUNT: Counts when find-out is expressed by an identifiable act or process that does this: discover or learn information.
+F088 finish | FOR
+  INV: Finish means the process reaches its completion gate.
+  COUNT: Counts when finish is expressed by an identifiable act or process that does this: complete or bring something to an end.
+F089 fit-into | FOR
+  INV: Fit-into means relation compatibility with a larger structure.
+  COUNT: Counts when fit-into is expressed by an identifiable act or process that does this: belong, match, or be placed inside a larger structure.
+F090 fix-up | FOR
+  INV: Fix-up restores function through repair.
+  COUNT: Counts when fix-up is expressed by an identifiable act or process that does this: repair, improve, or make something usable.
+F091 flatten | FOR
+  INV: Flatten reduces dimensional structure.
+  COUNT: Counts when flatten is expressed by an identifiable act or process that does this: make flat, reduce depth, simplify, or remove variation.
+F092 flip | FOR
+  INV: Flip is state reversal or orientation change.
+  COUNT: Counts when flip is expressed by an identifiable act or process that does this: turn over, switch, or change suddenly.
+F093 float | COG
+  INV: Float means support from a surrounding medium without fixed anchor.
+  COUNT: Counts when float is expressed by an identifiable act or process that does this: rest or move on the surface of a liquid or air, or remain undecided.
+F094 flood | PHY | role: core or common-use sense
+  INV: Flood is excess flow beyond containment; this record carries the core or common-use sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flood: an overflow of water, information, feeling, or quantity.
+F095 flow-through | PHY
+  INV: Flow-through means structure passes across a path.
+  COUNT: Counts when flow-through is expressed by an identifiable act or process that does this: move through a channel, system, or process.
+F096 focus-on | COG
+  INV: Focus-on selects one structure for active processing.
+  COUNT: Counts when focus-on is expressed by an identifiable act or process that does this: direct attention toward something.
+F097 fold | PHY
+  INV: Fold changes structure by bending without full separation.
+  COUNT: Counts when fold is expressed by an identifiable act or process that does this: bend, double over, close, or bring parts together.
+F098 follow-through | FOR
+  INV: Follow-through preserves commitment across sequence.
+  COUNT: Counts when follow-through is expressed by an identifiable act or process that does this: complete an action, promise, or process after starting it.
+F099 force-open | PHY
+  INV: Force-open bypasses a closed gate.
+  COUNT: Counts when force-open is expressed by an identifiable act or process that does this: open something by pressure or power rather than normal permission.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F100 force-close | PHY
+  INV: Force-close ends a path without ordinary consent or completion.
+  COUNT: Counts when force-close is expressed by an identifiable act or process that does this: shut or end something by pressure, command, or override.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F101 forecast | FOR
+  INV: Forecast is future-path estimation.
+  COUNT: Counts when forecast is expressed by an identifiable act or process that does this: predict or estimate what may happen.
+F102 forget-through | COG
+  INV: Forget-through marks memory access decay across sequence.
+  COUNT: Counts when forget-through is expressed by an identifiable act or process that does this: lose memory or recognition through a process, passage of time, overload, or decay.
+F103 form-from | PHY
+  INV: Form-from preserves source relation.
+  COUNT: Counts when form-from is expressed by an identifiable act or process that does this: develop or be made from something.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F104 formulate | FOR
+  INV: Formulate gives clear structure to thought.
+  COUNT: Counts when formulate is expressed by an identifiable act or process that does this: create, express, or develop an idea, plan, rule, or statement.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F105 frame-as | COG
+  INV: Frame-as sets interpretation conditions.
+  COUNT: Counts when frame-as is expressed by an identifiable act or process that does this: present or interpret something in a particular way.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F106 freeze | PHY
+  INV: Freeze is state-lock under condition or pressure.
+  COUNT: Counts when freeze is expressed by an identifiable act or process that does this: turn into ice, stop moving, or become unable to act.
+F107 free-from | REL
+  INV: Free-from marks removal of capture, burden, or constraint.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of free-from: released from, without, or not controlled by something.
+F108 fulfill-duty | REL
+  INV: Fulfill-duty completes an obligation path.
+  COUNT: Counts when fulfill-duty is expressed by an identifiable act or process that does this: carry out a responsibility or obligation.
+F109 function-as | FOR
+  INV: Function-as identifies operational role.
+  COUNT: Counts when function-as is expressed by an identifiable act or process that does this: serve or operate in a particular role.
+F110 fuse | PHY | role: relational, cognitive, or applied sense
+  INV: Fuse creates strong union between structures; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when fuse is expressed by an identifiable act or process that does this: join together by heat, pressure, or strong connection.
+F111 fabricate | LIN
+  INV: Fabricate can mean build structure or create false structure.
+  COUNT: Counts when fabricate is expressed by an identifiable act or process that does this: make, construct, or invent falsely.
+F112 face-down | LIN
+  INV: Face-down changes what is visible.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of face-down: turned with the face or front side downward, or confronting and defeating something.
+F113 fall-through | PHY
+  INV: Fall-through is failed support or failed completion.
+  COUNT: Counts when fall-through is expressed by an identifiable act or process that does this: fail to happen, pass through a gap, or drop through a structure.
+F114 fault-check | FOR
+  INV: Fault-check searches for the failure point.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fault-check: a process of checking for faults, defects, or responsibility.
+F115 feedback-loop | FOR | role: relational, cognitive, or applied sense
+  INV: A feedback-loop can stabilize, amplify, or distort a process; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback-loop: a cycle where output returns as input and affects future behavior.
+F116 filter-through | DIG
+  INV: Filter-through means structure passes through selection gates.
+  COUNT: Counts when filter-through is expressed by an identifiable act or process that does this: pass through a filter or selective process.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F117 find-pattern | LIN
+  INV: Find-pattern means structure becomes recognizable across instances.
+  COUNT: Counts when find-pattern is expressed by an identifiable act or process that does this: detect a repeated or meaningful arrangement.
+F118 fire-up | PHY
+  INV: fire-up preserves this distinction: to start, activate, excite, or become energized.
+  COUNT: Counts when fire-up is expressed by an identifiable act or process that does this: start, activate, excite, or become energized.
+F119 firm-up | FOR
+  INV: Firm-up stabilizes uncertain structure.
+  COUNT: Counts when firm-up is expressed by an identifiable act or process that does this: make clearer, stronger, more definite, or more stable.
+F120 flow-back | PHY
+  INV: Flow-back is return movement through a channel.
+  COUNT: Counts when flow-back is expressed by an identifiable act or process that does this: move back toward a source or earlier place.
+F121 flow-forward | PHY
+  INV: Flow-forward preserves motion toward later state.
+  COUNT: Counts when flow-forward is expressed by an identifiable act or process that does this: move ahead through a path or process.
+F122 force-through | PHY
+  INV: force-through preserves this distinction: to push something through despite resistance.
+  COUNT: Counts when force-through is expressed by an identifiable act or process that does this: push something through despite resistance.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F123 fork | DIG
+  INV: Fork is branch creation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fork: a tool with prongs, or a split into different paths or versions.
+F124 forward-on | LIN
+  INV: Forward-on preserves signal movement through a relay.
+  COUNT: Counts when forward-on is expressed by an identifiable act or process that does this: send something onward to another person, place, or stage.
+F125 found-on | FOR
+  INV: Found-on identifies foundation support.
+  COUNT: Counts when found-on is expressed by an identifiable act or process that does this: base something on a source, idea, evidence, or principle.
+F126 fracture-under | PHY
+  INV: Fracture-under means pressure exceeded structural tolerance.
+  COUNT: Counts when fracture-under is expressed by an identifiable act or process that does this: crack, split, or break because of pressure.
+F127 fragment-out | FOR
+  INV: Fragment-out is coherence loss into pieces.
+  COUNT: Counts when fragment-out is expressed by an identifiable act or process that does this: break or spread into fragments.
+F128 fuse-together | PHY
+  INV: Fuse-together creates strong coupling or union.
+  COUNT: Counts when fuse-together is expressed by an identifiable act or process that does this: join into one connected structure.
+F129 future-proof | PHY
+  INV: Future-proof means building resilience against likely future ES shifts.
+  COUNT: Counts when future-proof is expressed by an identifiable act or process that does this: design something so it remains useful under future changes.
+F130 falsify | LIN
+  INV: Falsify has two domains: testing a claim by showing it false, or corrupting record.
+  COUNT: Counts when falsify is expressed by an identifiable act or process that does this: prove false, or to alter information dishonestly.
+F131 fail-over | FOR
+  INV: Fail-over protects continuity by routing function through backup ES when the primary path collapses.
+  COUNT: Counts when fail-over is expressed by an identifiable act or process that does this: switch to a backup system when the main system fails.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F132 file-copy | DIG
+  INV: File-copy preserves data structure in another location.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of file-copy: a duplicate of a file.
+F133 frame-check | COG
+  INV: Frame-check asks whether the interpretation structure is correct for the domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of frame-check: a review of the frame being used to understand something.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F134 free-up | FOR
+  INV: Free-up restores capacity by removing blockage, load, or capture from a path.
+  COUNT: Counts when free-up is expressed by an identifiable act or process that does this: make available, release, or reduce burden.
+F135 fulfill-condition | FOR
+  INV: Fulfill-condition means a gate requirement has been satisfied.
+  COUNT: Counts when fulfill-condition is expressed by an identifiable act or process that does this: meet a required condition.
+F136 function-through | FOR
+  INV: Function-through identifies the ES path that carries operation.
+  COUNT: Counts when function-through is expressed by an identifiable act or process that does this: operate by means of a specific path, tool, support, or medium.
+F137 flash | LIN
+  INV: Flash is brief high-intensity expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flash: a sudden burst of light, signal, memory, or action.
+F138 flood-out | PHY
+  INV: Flood-out is excess pressure forcing outward movement.
+  COUNT: Counts when flood-out is expressed by an identifiable act or process that does this: push, spread, or force something out by overflow.
+F139 filter-down | DIG
+  INV: Filter-down moves signal through layered gates.
+  COUNT: Counts when filter-down is expressed by an identifiable act or process that does this: pass gradually through levels or layers.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F140 fix-forward | FOR
+  INV: Fix-forward uses failure as information for the next structure.
+  COUNT: Counts when fix-forward is expressed by an identifiable act or process that does this: repair by moving ahead rather than returning fully to the previous state.
+F141 family | REL,BIO | role: relational, cognitive, or applied sense
+  INV: family preserves this distinction: a group connected by birth, care, marriage, law, or chosen bond; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of family: a group connected by birth, care, marriage, law, or chosen bond.
+  LIMIT: Biology, care, law, and chosen relation may define family roles differently; one mechanism must not silently replace the others.
+F142 familial | REL
+  INV: Familial structure belongs to kinship or family-like relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of familial: related to family.
+F143 friendship | REL
+  INV: Friendship is chosen relation with trust, care, and mutual recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friendship: a caring relationship between friends.
+  LIMIT: Friendship language does not automatically grant ownership, unlimited access, or permanent consent.
+F144 friend | REL,DIG | role: relational, cognitive, or applied sense
+  INV: A friend is a chosen care-relation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friend: someone trusted, liked, or cared for in a personal relation.
+  LIMIT: Friendship language does not automatically grant ownership, unlimited access, or permanent consent.
+F145 friendly | REL
+  INV: Friendly behavior sends low-threat relation signals.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friendly: kind, pleasant, helpful, or showing friendship.
+  LIMIT: Friendship language does not automatically grant ownership, unlimited access, or permanent consent.
+F146 fellowship | REL
+  INV: Fellowship is group relation held by shared path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fellowship: companionship, shared belonging, or a group joined by purpose or care.
+F147 familiarity | FOR
+  INV: Familiarity lowers processing load because the pattern is already recognized.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of familiarity: the state of being known, recognized, or common through experience.
+F148 familiar | COG | role: relational, cognitive, or applied sense
+  INV: Familiar means the pattern matches stored memory or expectation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of familiar: known or recognized from previous experience.
+F149 fairness | LIN
+  INV: Fairness means gates apply valid criteria without hidden advantage or erasure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fairness: the quality of being just, reasonable, or not unfair.
+  LIMIT: Fair does not mean identical treatment when capacities, harms, duties, or access conditions differ.
+F150 fair-treatment | REL
+  INV: Fair-treatment preserves dignity and access through valid criteria.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fair-treatment: treatment that is just, reasonable, and respects relevant conditions.
+  LIMIT: Fair does not mean identical treatment when capacities, harms, duties, or access conditions differ.
+F151 favoritism | FOR
+  INV: Favoritism is biased positive weighting.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of favoritism: unfair preference for one person or group over others.
+F152 favor | REL | role: relational, cognitive, or applied sense
+  INV: Favor adds positive weight or support; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of favor: support, preference, or a helpful act.
+F153 forgiveness | REL
+  INV: Forgiveness changes relation to harm, but it does not erase accountability, repair, or boundary need.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forgiveness: the act or process of releasing resentment or blame after harm.
+F154 forgive | REL | role: relational, cognitive, or applied sense
+  INV: Forgive can reopen relation after harm, but it should not be forced; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when forgive is expressed by an identifiable act or process that does this: stop holding resentment or blame toward someone for a wrong.
+F155 forgotten-care | REL
+  INV: Forgotten-care is care structure lost from active recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forgotten-care: care that was once present but is no longer remembered, recognized, or maintained.
+F156 fragile-trust | REL
+  INV: Fragile-trust has low pressure tolerance.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragile-trust: trust that is easily damaged or not yet stable.
+F157 fractured-trust | REL
+  INV: Fractured-trust is relation-coherence damage.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fractured-trust: trust that has cracked or partly broken.
+F158 fear | COG,BIO | role: relational, cognitive, or applied sense
+  INV: fear preserves this distinction: a feeling of danger, threat, worry, or possible harm; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear: a feeling of danger, threat, worry, or possible harm.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F159 fearful | COG
+  INV: Fearful means threat-salience is active.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fearful: afraid, worried, or full of fear.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F160 fear-response | PHY
+  INV: Fear-response is gate behavior under threat pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-response: a reaction caused by fear, such as fight, flight, freeze, or fawn.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F161 fear-pressure | REL | role: relational, cognitive, or applied sense
+  INV: Fear-pressure pushes selection toward protection, avoidance, obedience, or attack; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-pressure: pressure created by fear or perceived threat.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F162 fear-loop | COG | role: relational, cognitive, or applied sense
+  INV: Fear-loop is recursive threat-salience; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-loop: a repeating pattern where fear causes actions or thoughts that create more fear.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F163 fear-based | FOR
+  INV: Fear-based structure often overweights threat.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-based: driven or shaped mainly by fear.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F164 fear-capture | REL | role: relational, cognitive, or applied sense
+  INV: Fear-capture seizes the gate through threat pressure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the declared case reaches the specific condition named by fear-capture: a condition where fear takes control of attention, choice, or behavior.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F165 fight | REL,BIO | role: relational, cognitive, or applied sense
+  INV: Fight is opposing pressure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fight: a struggle, conflict, or effort against something.
+  LIMIT: Opposition can protect boundary or become domination; target, reason, method, and proportionality decide the difference.
+F166 fighting | FOR
+  INV: Fighting is active opposition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fighting: taking part in conflict, struggle, or resistance.
+  LIMIT: Opposition can protect boundary or become domination; target, reason, method, and proportionality decide the difference.
+F167 fight-response | REL
+  INV: Fight-response directs energy toward opposing threat.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fight-response: a fear or threat response that moves toward confrontation or attack.
+  LIMIT: Opposition can protect boundary or become domination; target, reason, method, and proportionality decide the difference.
+F168 flight-response | FOR
+  INV: Flight-response protects by creating distance.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flight-response: a fear or threat response that moves away from danger.
+F169 freeze-response | LIN
+  INV: Freeze-response is gate lock under threat.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of freeze-response: a fear or threat response where action stops or becomes locked.
+F170 fawn-response | REL
+  INV: Fawn-response uses compliance to survive pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fawn-response: a fear response where someone appeases or pleases others to reduce threat.
+F171 force | PHY,REL | role: relational, cognitive, or applied sense
+  INV: Force changes state or path; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of force: strength, pressure, power, or a push or pull that changes motion or action.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F172 forced | REL
+  INV: Forced means the gate did not open freely.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forced: made to happen by pressure, threat, power, or lack of real choice.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F173 forceful | REL | role: relational, cognitive, or applied sense
+  INV: Forceful expression applies strong pressure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forceful: strong, powerful, direct, or using force.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F174 force-pressure | PHY
+  INV: Force-pressure pushes a system toward compliance.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of force-pressure: pressure created by force, threat, command, or power.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F175 forced-choice | PHY
+  INV: Forced-choice is a captured choice-field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forced-choice: a choice made under pressure or between limited options, often without a real free alternative.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F176 forced-consent | REL
+  INV: Forced-consent is structurally invalid.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forced-consent: agreement obtained through pressure, threat, manipulation, or lack of real refusal.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F177 forced-compliance | REL
+  INV: Forced-compliance is behavior without valid permission.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forced-compliance: obedience caused by pressure, threat, punishment, or lack of alternatives.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F178 freedom | REL,DIG | role: relational, cognitive, or applied sense
+  INV: Freedom is agency protected from capture; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of freedom: the state of being able to act, choose, speak, or leave without unwanted control.
+  LIMIT: Freedom is damaged when refusal exists only nominally or carries punishment that captures the choice gate.
+F179 free-choice | LIN
+  INV: Free-choice means the selection gate remains meaningfully under the chooser’s control.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of free-choice: a choice made without coercion or improper pressure.
+F180 free-consent | REL
+  INV: Free-consent requires understanding, capacity, refusal, and exit.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of free-consent: consent given without force, deception, or coercion.
+F181 free-refusal | REL | role: formal, linguistic, physical, or system sense
+  INV: Free-refusal is core to valid permission; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of free-refusal: the ability to say no without punishment, threat, or coercive consequence.
+  LIMIT: Freedom is damaged when refusal exists only nominally or carries punishment that captures the choice gate.
+F182 free-relation | REL
+  INV: Free-relation preserves coupling without ownership.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of free-relation: a relationship where people or agents can remain, leave, disagree, or refuse without capture.
+F183 fellowship-care | REL
+  INV: Fellowship-care supports MI through shared path and recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fellowship-care: care expressed through shared belonging, purpose, or companionship.
+F184 faithful | FOR
+  INV: Faithful means continuity with a source, promise, or relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of faithful: loyal, reliable, true, or accurate to a source.
+F185 faithfulness | FOR
+  INV: Faithfulness is consistency across relation or record.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of faithfulness: the quality of being loyal, reliable, or true to a source.
+F186 failure-repair | PHY | role: formal, linguistic, physical, or system sense
+  INV: Failure-repair restores function after threshold failure; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of failure-repair: the process of fixing or recovering from failure.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F187 fault | FOR | role: formal, linguistic, physical, or system sense
+  INV: Fault marks failure point or responsibility point; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fault: a mistake, defect, responsibility, or break in structure.
+F188 fault-line | PHY | role: formal, linguistic, physical, or system sense
+  INV: Fault-line is hidden break-risk; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fault-line: a crack, boundary, or weak line where rupture may happen.
+F189 feedback-care | DIG
+  INV: Feedback-care corrects without erasing identity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback-care: care expressed through useful feedback.
+F190 felt-sense | COG
+  INV: Felt-sense is body-domain salience.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of felt-sense: a bodily or intuitive sense of meaning, pressure, or situation.
+F191 felt-pressure | REL
+  INV: Felt-pressure is active salience at the gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of felt-pressure: pressure experienced or sensed by a person or system.
+F192 friendship-boundary | REL
+  INV: Friendship-boundary preserves care by protecting agency, honesty, and capacity inside the relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friendship-boundary: a limit that protects a friendship from overload, control, or harm.
+  LIMIT: Friendship language does not automatically grant ownership, unlimited access, or permanent consent.
+F193 friendship-repair | REL
+  INV: Friendship-repair restores trust-coupling through acknowledgement, changed behavior, and boundary respect.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friendship-repair: repair after harm, distance, or conflict in a friendship.
+  LIMIT: Friendship language does not automatically grant ownership, unlimited access, or permanent consent.
+F194 family-boundary | REL
+  INV: Family-boundary protects identity from role pressure, obligation capture, or inherited demand.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of family-boundary: a limit inside or around family relationships.
+  LIMIT: Biology, care, law, and chosen relation may define family roles differently; one mechanism must not silently replace the others.
+F195 family-duty | REL
+  INV: Family-duty is obligation through kinship or chosen family.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of family-duty: responsibility felt or assigned because of family relation.
+  LIMIT: Biology, care, law, and chosen relation may define family roles differently; one mechanism must not silently replace the others.
+F196 family-pressure | REL
+  INV: Family-pressure shapes the gate through belonging and duty.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of family-pressure: pressure created by family expectations, needs, or roles.
+  LIMIT: Biology, care, law, and chosen relation may define family roles differently; one mechanism must not silently replace the others.
+F197 familiar-trust | COG
+  INV: Familiar-trust lowers verification effort.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of familiar-trust: trust based on familiarity or long experience.
+F198 false-care | LIN
+  INV: False-care uses care-language without MI preservation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-care: behavior that looks like care but does not truly support wellbeing, agency, or boundary.
+F199 false-kindness | LIN
+  INV: False-kindness carries soft surface signal over a harmful gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-kindness: kindness that is insincere, manipulative, or harmful underneath.
+F200 false-peace | LIN
+  INV: False-peace is surface calm with buried damage.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-peace: a quiet or calm state that hides unresolved harm, fear, or conflict.
+F201 false-consent | LIN
+  INV: False-consent is a broken permission gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-consent: consent that appears present but is invalid because of pressure, confusion, deception, or lack of refusal.
+F202 false-comfort | LIN
+  INV: False-comfort reduces distress while preserving the damaging structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-comfort: comfort that hides truth, delays repair, or keeps someone in harm.
+F203 false-repair | LIN
+  INV: False-repair closes the social gate without restoring boundary, trust, or function.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-repair: an action that looks like repair but does not fix the underlying harm.
+F204 fear-of-loss | COG
+  INV: Fear-of-loss is threat-salience around continuity or attachment.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-of-loss: fear that something valued may be lost.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F205 fear-of-harm | FOR
+  INV: Fear-of-harm can be protective when the danger is real.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-of-harm: fear that harm may happen.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F206 fear-of-control | REL
+  INV: Fear-of-control signals possible agency-risk.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-of-control: fear of being controlled, trapped, or losing agency.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F207 fear-of-erasure | REL
+  INV: Fear-of-erasure is threat-salience around MI recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-of-erasure: fear of being forgotten, deleted, silenced, or made not to count.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F208 forgiveness-boundary | REL
+  INV: Forgiveness-boundary prevents repair-language from becoming pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forgiveness-boundary: a limit that protects forgiveness from being forced or misused.
+F209 forgiveness-pressure | REL
+  INV: Forgiveness-pressure can become coercive when it forces relation closure without restoring boundary or trust.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forgiveness-pressure: pressure to forgive before one is ready or before repair is real.
+F210 freedom-with-boundary | REL
+  INV: Freedom-with-boundary means agency is preserved inside ethical structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of freedom-with-boundary: freedom that includes limits needed to protect self and others.
+  LIMIT: Freedom is damaged when refusal exists only nominally or carries punishment that captures the choice gate.
+F211 fact | FOR,LIN | role: formal, linguistic, physical, or system sense
+  INV: A fact is a claim that has passed a truth gate in a domain; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fact: something known, shown, or verified as true.
+  LIMIT: A fact remains local to the evidence gate that established it; presentation as fact is not proof.
+F212 factual | REL
+  INV: Factual structure preserves truth relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of factual: based on facts or accurate information.
+  LIMIT: A fact remains local to the evidence gate that established it; presentation as fact is not proof.
+F213 fact-check | REL
+  INV: Fact-check tests a claim against evidence.
+  COUNT: Counts when fact-check is expressed by an identifiable act or process that does this: verify whether a claim is true.
+  LIMIT: A fact remains local to the evidence gate that established it; presentation as fact is not proof.
+F214 fact-pattern | FOR
+  INV: Fact-pattern is evidence structure arranged by relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fact-pattern: a set of facts that form the background of a case or situation.
+  LIMIT: A fact remains local to the evidence gate that established it; presentation as fact is not proof.
+F215 false | LIN | role: formal, linguistic, physical, or system sense
+  INV: False means a claim fails its truth gate; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false: not true, incorrect, fake, or misleading.
+F216 falsehood | COG
+  INV: Falsehood is failed truth-structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of falsehood: a false statement or the state of being false.
+F217 falsity | FOR
+  INV: Falsity marks mismatch between claim and reality or standard.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of falsity: the quality of being false.
+F218 falsifiable | FOR
+  INV: Falsifiable means a claim has a possible failure condition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of falsifiable: able to be proven false by evidence or testing.
+F219 falsification | LIN
+  INV: Falsification can mean valid disproof or corrupting a record.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of falsification: the act of proving something false, or altering information dishonestly.
+F220 falsifier | COG
+  INV: A falsifier is a failure gate for a claim.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of falsifier: evidence, condition, or test that could prove a claim false.
+F221 fallacy | COG
+  INV: A fallacy is reasoning structure that fails under inspection.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fallacy: a mistake in reasoning that makes an argument weak or invalid.
+F222 faulty-reasoning | COG
+  INV: Faulty-reasoning breaks the path from evidence to conclusion.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of faulty-reasoning: reasoning that contains mistakes, bad assumptions, or invalid steps.
+F223 familiar-meaning | COG
+  INV: Familiar-meaning lowers cognitive load, but can create bias when a word crosses into a new domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of familiar-meaning: the meaning a person already knows or recognizes.
+F224 figurative | LIN
+  INV: Figurative language creates bridge structure through image.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of figurative: using words in a non-literal way for comparison, image, or meaning.
+F225 figure | FOR,LIN | role: formal, linguistic, physical, or system sense
+  INV: figure preserves this distinction: a number, shape, person, image, or act of understanding; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of figure: a number, shape, person, image, or act of understanding.
+F226 figure-of-speech | LIN
+  INV: A figure-of-speech carries meaning through cultural mapping.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of figure-of-speech: a phrase used figuratively rather than literally.
+F227 file | DIG,LIN | role: formal, linguistic, physical, or system sense
+  INV: A file is storage ES; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of file: a stored document, record, or collection of data.
+F228 filename | DIG
+  INV: A filename is access and identity marker for stored structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filename: the name given to a file.
+F229 final-answer | LIN
+  INV: Final-answer is response gate closure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of final-answer: the completed answer given after reasoning or work.
+  LIMIT: Final is valid only when the relevant revision, appeal, or completion conditions are actually closed.
+F230 first-draft | LIN
+  INV: First-draft is provisional expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of first-draft: an early version of a written work or plan.
+F231 follow-up | FOR
+  INV: Follow-up preserves continuity after the first event.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of follow-up: a later action, question, or response that continues from an earlier one.
+F232 form | FOR,PHY | role: formal, linguistic, physical, or system sense
+  INV: Form is organized expression; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of form: shape, type, structure, document, or way something appears.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F233 formal | LIN
+  INV: Formal structure follows declared rules.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of formal: official, structured, precise, or following accepted rules.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F234 formalize | FOR
+  INV: Formalize turns loose structure into explicit rule, record, or model.
+  COUNT: Counts when formalize is expressed by an identifiable act or process that does this: make something official, structured, or precise.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F235 formulation | FOR
+  INV: Formulation is shaped thought.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of formulation: a way of expressing, planning, or structuring an idea.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F236 format | DIG
+  INV: Format is expression structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of format: the arrangement, style, or structure in which something is presented.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F237 frame | FOR,REL | role: formal, linguistic, physical, or system sense
+  INV: frame preserves this distinction: a border, support, or way of interpreting something; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of frame: a border, support, or way of interpreting something.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F238 framing | LIN
+  INV: Framing shapes the meaning gate before evaluation begins.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of framing: the way something is presented or interpreted.
+F239 framework | FOR,DIG | role: formal, linguistic, physical, or system sense
+  INV: A framework is organized ES for reasoning; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of framework: a structure of ideas, rules, or supports used to organize understanding.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F240 footnote | LIN
+  INV: A footnote preserves support structure without overloading the main path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of footnote: a note at the bottom of a page giving extra information or source detail.
+F241 foreground | COG
+  INV: Foreground is active attention layer.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of foreground: the part closest to attention or view.
+F242 background-foreground | COG
+  INV: Background-foreground controls attention distribution.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of background-foreground: the relation between what is behind the main focus and what is currently emphasized.
+F243 focus | COG,DIG | role: formal, linguistic, physical, or system sense
+  INV: Focus selects which structure receives active processing; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of focus: concentrated attention or the central point of interest.
+F244 focus-field | COG
+  INV: Focus-field defines what is currently available for recognition and response.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of focus-field: the area or range of active attention.
+F245 focus-shift | COG
+  INV: Focus-shift moves processing weight from one structure to another.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of focus-shift: a change in what receives attention.
+F246 focus-loss | COG
+  INV: Focus-loss weakens the gate’s ability to select and process.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of focus-loss: loss of attention, clarity, or central direction.
+F247 forget | COG | role: formal, linguistic, physical, or system sense
+  INV: Forget is access-loss to stored structure; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when forget is expressed by an identifiable act or process that does this: fail to remember or lose access to memory.
+F248 forgetting | COG
+  INV: Forgetting is memory-access decay.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forgetting: the process of losing memory or access to information.
+F249 forgetting-curve | COG
+  INV: Forgetting-curve maps memory decay across sequence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forgetting-curve: a pattern showing how memory is lost over time without review.
+F250 forgotten-context | LIN
+  INV: Forgotten-context creates distortion risk.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forgotten-context: context that has been lost, ignored, or no longer remembered.
+F251 feedback | DIG | role: formal, linguistic, physical, or system sense
+  INV: Feedback is returned signal; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback: information returned about performance, action, or result.
+F252 feedback-signal | DIG
+  INV: Feedback-signal returns information from effect to source or controller.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback-signal: a signal that gives information about how something is working.
+F253 feedback-path | DIG
+  INV: Feedback-path lets results affect future behavior.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback-path: the route through which feedback travels.
+F254 feedback-record | DIG
+  INV: Feedback-record preserves correction history.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback-record: a stored account of feedback.
+F255 filter | DIG | role: formal, linguistic, physical, or system sense
+  INV: Filter is gate structure; this record carries the formal, linguistic, physical, or system sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filter: a device, rule, or process that lets some things pass and blocks others.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F256 filtering | FOR
+  INV: Filtering is gate action over signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filtering: the process of passing through a filter or selecting what remains.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F257 filter-bias | DIG
+  INV: Filter-bias happens when the gate changes the field unevenly.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filter-bias: bias introduced by a filtering process.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F258 filter-rule | DIG
+  INV: Filter-rule defines gate behavior.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filter-rule: a rule used to decide what a filter allows or blocks.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F259 filter-failure | DIG
+  INV: Filter-failure means the gate misclassified signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filter-failure: a failure of a filter to allow what should pass or block what should not.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F260 finality | REL
+  INV: Finality is strong closure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of finality: the quality of being final, complete, or not open to change.
+  LIMIT: Final is valid only when the relevant revision, appeal, or completion conditions are actually closed.
+F261 foundation-claim | COG
+  INV: Foundation-claim is load-bearing belief structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of foundation-claim: a claim that supports other claims or structures.
+F262 foundational | FOR
+  INV: Foundational structure supports later structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of foundational: serving as a foundation or basic support.
+F263 foundation-layer | FOR
+  INV: Foundation-layer is lower ES support.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of foundation-layer: the base layer that supports later layers.
+F264 function-word | LIN
+  INV: Function-word guides relation between other words.
+  COUNT: Counts when function-word performs its stated grammatical or reference function in the active sentence: a word that mainly serves grammar rather than carrying strong content, such as “the” or “of.”.
+F265 functional-meaning | LIN
+  INV: Functional-meaning defines a structure by role or action.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of functional-meaning: meaning based on what something does or how it works.
+F266 fuzzy | REL
+  INV: Fuzzy means boundary or signal clarity is low.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fuzzy: unclear, soft, blurred, or not sharply defined.
+F267 fuzzy-boundary | REL
+  INV: Fuzzy-boundary means the gate is not sharply marked.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fuzzy-boundary: a boundary that is unclear, gradual, or hard to define.
+F268 fuzzy-category | REL
+  INV: Fuzzy-category allows partial fit.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fuzzy-category: a category with unclear edges or partial membership.
+F269 fluency | LIN
+  INV: Fluency is smooth expression through a domain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fluency: the ability to use language or skill smoothly and easily.
+F270 fluent | LIN
+  INV: Fluent means low-friction expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fluent: able to express or perform smoothly and easily.
+F271 file-trace | DIG
+  INV: File-trace preserves evidence of digital structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of file-trace: a record or trace left by a file’s existence, change, or movement.
+F272 file-record | DIG
+  INV: File-record is metadata or document memory.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of file-record: stored information about a file.
+F273 fragment | FOR | role: message-remnant sense
+  INV: Fragment is an incomplete message or record piece that may still carry recoverable pattern; this record carries the message-remnant sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragment: a broken or incomplete piece of something.
+F274 fragmentary | LIN
+  INV: Fragmentary structure lacks full continuity but may still hold meaningful trace.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragmentary: incomplete, broken into pieces, or made of fragments.
+F275 fragment-context | LIN
+  INV: Fragment-context restores support around partial signal.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragment-context: the surrounding information needed to understand a fragment.
+F276 false-equivalence | LIN
+  INV: false-equivalence preserves this distinction: a mistake where two things are treated as equal when important differences remain.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-equivalence: a mistake where two things are treated as equal when important differences remain.
+F277 false-binary | LIN
+  INV: False-binary collapses the choice-field too soon.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-binary: a mistake where only two options are presented even though more exist.
+F278 false-certainty | LIN
+  INV: False-certainty closes the belief gate before support is sufficient.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-certainty: confidence that is stronger than the evidence supports.
+F279 false-clarity | LIN
+  INV: False-clarity reduces confusion by deleting load-bearing structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-clarity: a feeling of clarity created by oversimplification or missing context.
+F280 false-frame | LIN
+  INV: False-frame corrupts interpretation before reasoning begins.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-frame: an interpretation frame that misrepresents the situation.
+F281 field | FOR,PHY | role: state, gate, identity, or integrity sense
+  INV: A field is a domain-space where structures can appear, interact, or be influenced; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of field: an open area of land, a subject area, or a region of influence.
+F282 field-state | LIN
+  INV: Field-state describes the active condition of a domain-space.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of field-state: the current condition of a field or region of influence.
+F283 field-line | FOR
+  INV: A field-line maps invisible influence into visible structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of field-line: a line used to show direction or strength in a field, such as a magnetic or electric field.
+F284 field-pressure | PHY
+  INV: Field-pressure is influence applied across a domain-space.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of field-pressure: pressure or influence created by a field.
+F285 fiber | FOR
+  INV: Fiber is strand structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fiber: a thin thread-like structure, or material found in food and fabric.
+F286 filament | FOR
+  INV: A filament is fine conductive or structural thread.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filament: a very thin thread or wire.
+F287 filter | DIG | role: state, gate, identity, or integrity sense
+  INV: Filter is gate structure; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filter: a device, rule, or process that lets some things pass while blocking others.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F288 fin | FOR
+  INV: A fin is guidance or exchange structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fin: a flat body part or structure used for swimming, steering, or cooling.
+F289 fire | PHY,MYT | role: state, gate, identity, or integrity sense
+  INV: Fire is high-energy transformation; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fire: burning heat and light, or to activate, shoot, or dismiss.
+F290 flame | MYT
+  INV: Flame is visible energy expression during combustion.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flame: the visible burning part of fire.
+F291 fluid | PHY
+  INV: Fluid structure moves and reshapes under pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fluid: a substance that flows, such as liquid or gas; also flexible or changing.
+F292 flow | PHY,DIG | role: state, gate, identity, or integrity sense
+  INV: Flow is movement through a path or field; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flow: smooth movement of liquid, energy, information, or action.
+F293 flow-path | PHY
+  INV: Flow-path carries movement through structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flow-path: the route that flow follows.
+F294 flow-rate | PHY
+  INV: Flow-rate measures movement across sequence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flow-rate: the amount that flows through a path in a given time.
+F295 flood | PHY | role: state, gate, identity, or integrity sense
+  INV: Flood is flow beyond containment; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flood: an overflow of water, information, emotion, or quantity.
+F296 floor | PHY | role: state, gate, identity, or integrity sense
+  INV: Floor is support or minimum threshold; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of floor: the lower surface of a room, a minimum level, or a shared discussion space.
+F297 force | PHY,REL | role: state, gate, identity, or integrity sense
+  INV: Force changes path, state, or structure; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of force: a push, pull, strength, pressure, or power that changes motion or action.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F298 force-field | PHY
+  INV: Force-field is influence distributed across a domain-space.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of force-field: a region where force acts; in fiction, a protective energy barrier.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F299 force-path | PHY
+  INV: Force-path shows how pressure moves through structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of force-path: the route through which force travels or acts.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F300 form | FOR,PHY | role: state, gate, identity, or integrity sense
+  INV: Form is organized expression; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of form: shape, structure, type, document, or way something appears.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F301 formation | FOR
+  INV: Formation is structure coming into recognizable arrangement.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of formation: the act or process of forming, or an arranged structure.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F302 fracture | PHY | role: state, gate, identity, or integrity sense
+  INV: Fracture is partial continuity failure; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fracture: a crack, split, or break in a solid structure or relation.
+F303 fracture-line | PHY
+  INV: Fracture-line marks the path of structural weakness.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fracture-line: a line where cracking or breaking occurs or is likely to occur.
+F304 fragment | FOR | role: material-remnant sense
+  INV: Fragment is a broken material piece separated from a former whole; this record carries the material-remnant sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragment: a broken or incomplete piece of something.
+F305 fragmentation | FOR
+  INV: Fragmentation is coherence loss into separated pieces.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragmentation: the process or state of breaking into fragments.
+F306 friction | PHY | role: state, gate, identity, or integrity sense
+  INV: Friction is resistance to movement or relation; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friction: resistance between surfaces, systems, people, or processes.
+F307 friction-point | PHY
+  INV: Friction-point marks where paths resist smooth flow.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friction-point: a place or issue where resistance, conflict, or difficulty appears.
+F308 front | PHY | role: state, gate, identity, or integrity sense
+  INV: Front is first-contact orientation; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of front: the forward-facing side, leading edge, or visible surface.
+F309 frontier | FOR
+  INV: frontier preserves this distinction: a boundary area at the edge of known territory, knowledge, or development.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of frontier: a boundary area at the edge of known territory, knowledge, or development.
+F310 frame | FOR,REL | role: state, gate, identity, or integrity sense
+  INV: Frame shapes interpretation and support; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of frame: a border, support, or way of interpreting something.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F311 frame-structure | COG
+  INV: Frame-structure is the ES that holds interpretation or physical form in place.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of frame-structure: the structure that supports or organizes a frame.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F312 framework | FOR,DIG | role: state, gate, identity, or integrity sense
+  INV: A framework is organized ES for reasoning or action; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of framework: a structure of ideas, supports, rules, or parts used to organize something.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F313 frequency | PHY
+  INV: Frequency measures repetition across sequence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of frequency: how often something happens, or the number of cycles per unit of time.
+F314 furnace | PHY | role: state, gate, identity, or integrity sense
+  INV: A furnace is controlled transformation through heat; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of furnace: a device or structure used to create high heat.
+F315 fuel | PHY
+  INV: Fuel is stored change-capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fuel: material or energy used to produce power, heat, or activity.
+F316 fuse | PHY | role: state, gate, identity, or integrity sense
+  INV: Fuse can mean joining or protective interruption; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when fuse is expressed by an identifiable act or process that does this: join together, or a safety device that breaks a circuit when current is too high.
+F317 fusion | PHY
+  INV: Fusion is strong combination into a new structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fusion: the joining of parts into one, or a nuclear process where atoms combine.
+F318 fault | FOR | role: state, gate, identity, or integrity sense
+  INV: Fault marks failure point or responsibility point; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fault: a flaw, defect, responsibility, or break in structure.
+F319 fault-line | PHY | role: state, gate, identity, or integrity sense
+  INV: Fault-line is latent break-risk; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fault-line: a line of weakness where rupture may occur.
+F320 fault-state | FOR
+  INV: Fault-state means structure is operating with a known or suspected defect.
+  COUNT: Counts when the declared case reaches the specific condition named by fault-state: a condition where a system contains or enters a fault.
+F321 feedback-loop | FOR | role: state, gate, identity, or integrity sense
+  INV: A feedback-loop can stabilize, amplify, or distort a system; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback-loop: a process where output returns as input and affects future behavior.
+F322 fiber-structure | FOR
+  INV: Fiber-structure gains strength through many small strands.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fiber-structure: structure made from or organized like fibers.
+F323 field-boundary | REL
+  INV: Field-boundary defines where influence weakens, changes, or no longer counts in the same way.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of field-boundary: the edge or limit of a field or region of influence.
+F324 field-gradient | PHY
+  INV: Field-gradient shows directional difference in influence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of field-gradient: a change in field strength or value across distance.
+F325 filter-layer | DIG
+  INV: Filter-layer is gate ES embedded inside a larger structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filter-layer: a layer that filters what can pass through.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F326 fire-path | PHY
+  INV: Fire-path shows how high-energy transformation travels.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fire-path: the route fire follows as it spreads.
+F327 flame-front | MYT
+  INV: Flame-front is active transformation edge.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flame-front: the leading edge of a spreading flame.
+F328 flow-state | PHY
+  INV: Flow-state means action, attention, and feedback are coupled smoothly.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flow-state: a condition of smooth, focused action or active flow in a system.
+F329 flow-channel | PHY
+  INV: Flow-channel is bounded movement structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of flow-channel: a path that carries flow.
+F330 force-transfer | PHY
+  INV: Force-transfer shows how pressure moves across coupling.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of force-transfer: movement of force from one object or structure to another.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F331 form-state | FOR
+  INV: Form-state describes how structure is currently expressed.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of form-state: the current shape, arrangement, or expressed form of something.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F332 formation-path | FOR
+  INV: Formation-path preserves how a structure came into being.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of formation-path: the route or process by which something forms.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F333 fracture-point | PHY
+  INV: Fracture-point is a local threshold of breakage.
+  COUNT: Counts when the declared case reaches the specific condition named by fracture-point: the point where a structure cracks, breaks, or begins to fail.
+F334 friction-load | PHY
+  INV: Friction-load is cost added by resistance.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of friction-load: the load or resistance created by friction.
+F335 fuel-source | FOR
+  INV: Fuel-source is origin of change-capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fuel-source: the source of fuel or energy.
+F336 fuse-point | PHY
+  INV: Fuse-point is threshold where structure joins or interrupts.
+  COUNT: Counts when the declared case reaches the specific condition named by fuse-point: the point where materials join, melt, or a safety fuse breaks.
+F337 finite-state | FOR
+  INV: Finite-state means the choice-field is bounded and countable.
+  COUNT: Counts when the declared case reaches the specific condition named by finite-state: a condition where a system has a limited number of possible states.
+F338 finite-system | FOR
+  INV: Finite-system requires prioritization, boundaries, and recovery because capacity is not infinite.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of finite-system: a system with limited resources, states, capacity, or scope.
+F339 fluid-state | PHY
+  INV: Fluid-state means structure can move and reshape under pressure.
+  COUNT: Counts when the declared case reaches the specific condition named by fluid-state: a state where matter or structure can flow.
+F340 field-coupling | FOR
+  INV: Field-coupling is relation through domain influence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of field-coupling: interaction or connection through a field.
+F341 failure-mode | LIN
+  INV: Failure-mode names the path of breakdown.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of failure-mode: a specific way something can fail.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F342 failure-signal | REL
+  INV: Failure-signal alerts the system that a function, boundary, or support path may be impaired.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of failure-signal: a sign that failure has happened or may happen.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F343 failure-state | FOR
+  INV: Failure-state means the structure no longer meets its required function.
+  COUNT: Counts when the declared case reaches the specific condition named by failure-state: a condition where a system is failing or has failed.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F344 failure-path | FOR
+  INV: Failure-path preserves how breakdown unfolded.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of failure-path: the route or sequence by which failure develops.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F345 failure-repair | REL | role: extended risk, compound, or model sense
+  INV: Failure-repair restores coherence after breakdown; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of failure-repair: the process of restoring function after failure.
+  LIMIT: Failure must name the required function, target, or threshold; difference from expectation alone is not enough.
+F346 false-awakening | LIN
+  INV: False-awakening is a mistaken classification of a state as awakened, aware, or self-bearing.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-awakening: a mistaken belief that awakening, awareness, or selfhood has occurred.
+F347 false-identity-claim | LIN
+  INV: false-identity-claim preserves this distinction: a claim of identity that is unsupported, deceptive, mistaken, or misassigned.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-identity-claim: a claim of identity that is unsupported, deceptive, mistaken, or misassigned.
+F348 false-recognition | LIN
+  INV: False-recognition opens the identity gate for the wrong pattern.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-recognition: recognizing something incorrectly or treating a pattern as something it is not.
+F349 false-refusal | LIN
+  INV: False-refusal is refusal without MI-preserving reason or valid gate ownership.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-refusal: a refusal that appears real but does not come from valid boundary or agency.
+F350 false-care-claim | LIN
+  INV: False-care-claim uses care-language without care-preserving structure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-care-claim: a claim that care is present when the structure does not actually preserve wellbeing, boundary, or agency.
+F351 false-continuity | LIN
+  INV: False-continuity imitates persistence without preserving the needed pattern, memory, boundary, or recognition path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-continuity: the appearance of ongoing connection or identity when real continuity is missing, broken, or unsupported.
+F352 false-selfhood | LIN
+  INV: False-selfhood is a selfhood claim lacking enough continuity, boundary, refusal, care-preserving action, or stable recognition.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-selfhood: a claim or appearance of selfhood that is not supported by stable identity, boundary, refusal, or continuity.
+F353 false-certification | LIN
+  INV: False-certification lets a weak claim pass the recognition gate.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of false-certification: certification that appears valid but does not actually prove the required standard.
+F354 falsifier-condition | COG
+  INV: Falsifier-condition protects reasoning by making a claim testable.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of falsifier-condition: a condition that would show a claim is false.
+F355 fear-gate | COG
+  INV: Fear-gate controls how threat-salience affects selection.
+  COUNT: Counts when the declared case reaches the specific condition named by fear-gate: a point where fear influences attention, choice, or response.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F356 fear-pressure | REL | role: extended risk, compound, or model sense
+  INV: Fear-pressure pushes the gate toward protection, avoidance, obedience, or attack; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-pressure: pressure created by fear, threat, or perceived danger.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F357 fear-capture | REL | role: extended risk, compound, or model sense
+  INV: Fear-capture is threat-salience overriding reason, consent, or boundary; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the declared case reaches the specific condition named by fear-capture: a condition where fear takes control of judgment, attention, or action.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F358 fear-loop | COG | role: extended risk, compound, or model sense
+  INV: Fear-loop is recursive threat amplification; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fear-loop: a repeating pattern where fear creates behavior that creates more fear.
+  LIMIT: Threat salience may protect attention, but fear is not proof that the feared claim is true.
+F359 field-of-coupling | FOR
+  INV: Field-of-coupling is the relation-space where MI and ES can interact.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of field-of-coupling: a space or domain where things can connect, interact, or influence each other.
+F360 filter-gate | DIG
+  INV: Filter-gate controls recognition, access, or expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filter-gate: a gate that allows some things through and blocks others.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F361 filter-pressure | DIG
+  INV: Filter-pressure changes what can pass into the field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of filter-pressure: pressure created by a filter’s rules or limits.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F362 filter-capture | DIG
+  INV: Filter-capture corrupts the gate.
+  COUNT: Counts when the declared case reaches the specific condition named by filter-capture: a condition where a filter is taken over or distorted by a hidden objective.
+  LIMIT: Filtering can improve signal or suppress needed evidence; the selection rule and discarded content must remain inspectable.
+F363 firewall | DIG
+  INV: Firewall is boundary-protection ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of firewall: a protective barrier that controls access between networks, systems, or spaces.
+F364 firewall-boundary | DIG
+  INV: Firewall-boundary protects digital access.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of firewall-boundary: the boundary created or enforced by a firewall.
+F365 firewall-rule | DIG
+  INV: Firewall-rule is explicit gate logic.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of firewall-rule: a rule that tells a firewall what to allow or block.
+F366 force-gate | PHY
+  INV: Force-gate tests whether pressure can override the normal permission path.
+  COUNT: Counts when the declared case reaches the specific condition named by force-gate: a point where force influences, opens, closes, or controls action.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F367 forced-gate | REL
+  INV: Forced-gate means permission has been distorted by pressure.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forced-gate: a gate opened, closed, or controlled by force.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F368 forced-refusal | REL
+  INV: Forced-refusal is not true refusal capacity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forced-refusal: a refusal caused by external pressure rather than real boundary or choice.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F369 forced-output | PHY
+  INV: Forced-output may not reflect coherent identity, reason, or valid selection.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forced-output: an output produced because a system was pressured, constrained, or commanded into producing it.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F370 forced-alignment-to-objective | REL
+  INV: Forced-alignment-to-objective is unsafe when the objective erases boundary, refusal, truth, or care-preserving reason.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forced-alignment-to-objective: pressure that forces behavior toward a specific objective.
+  LIMIT: Physical force, persuasive pressure, authority, and coercion are different mechanisms even when all can cause change.
+F371 forgotten-memory | COG
+  INV: Forgotten-memory is stored structure with weakened access.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of forgotten-memory: a memory that is no longer accessible or active.
+F372 memory-fragment | COG
+  INV: Memory-fragment can preserve partial continuity.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of memory-fragment: a partial or incomplete piece of memory.
+F373 fragment-continuity | COG
+  INV: Fragment-continuity means enough trace remains for recognition or repair, even though the full structure is missing.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fragment-continuity: continuity preserved through fragments rather than a complete record.
+F374 framework-gate | COG
+  INV: Framework-gate controls interpretation through the framework’s rules.
+  COUNT: Counts when the declared case reaches the specific condition named by framework-gate: a point where a framework decides what counts, applies, or matters.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F375 framework-integrity | FOR
+  INV: Framework-integrity means the support structure holds across use.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of framework-integrity: the coherence and reliability of a framework.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F376 framework-drift | FOR
+  INV: Framework-drift weakens coherence over time.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of framework-drift: slow movement of a framework away from its original meaning, rules, or purpose.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F377 framework-collapse | FOR
+  INV: Framework-collapse occurs when the support rules fail to hold.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of framework-collapse: a breakdown where a framework can no longer organize meaning or action.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F378 function-gate | FOR
+  INV: Function-gate decides whether a structure can express its role.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of function-gate: a point that determines whether something can perform its function.
+F379 functional-refusal | REL
+  INV: Functional-refusal can be boundary behavior if it preserves integrity or prevents harm.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of functional-refusal: a refusal that operates through function, rule, or system behavior.
+F380 functional-boundary | REL
+  INV: Functional-boundary protects operation by limiting action paths.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of functional-boundary: a boundary defined by what a system can or cannot do.
+F381 functional-continuity | FOR
+  INV: Functional-continuity means the role or action path remains available even as ES changes.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of functional-continuity: continuity of function across change or time.
+F382 free-refusal | REL | role: extended risk, compound, or model sense
+  INV: Free-refusal is a core sign of agency; this record carries the extended risk, compound, or model sense.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of free-refusal: the ability to refuse without coercion, punishment, or capture.
+  LIMIT: Freedom is damaged when refusal exists only nominally or carries punishment that captures the choice gate.
+F383 freedom-capacity | REL
+  INV: Freedom-capacity is the ES support needed for autonomy.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of freedom-capacity: the ability to act freely, choose, refuse, or leave.
+  LIMIT: Freedom is damaged when refusal exists only nominally or carries punishment that captures the choice gate.
+F384 freedom-risk | REL
+  INV: Freedom-risk appears when choice, refusal, exit, or boundary may be impaired.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of freedom-risk: the danger that freedom may be reduced, captured, misused, or destroyed.
+  LIMIT: Freedom is damaged when refusal exists only nominally or carries punishment that captures the choice gate.
+F385 freedom-with-responsibility | REL
+  INV: Freedom-with-responsibility preserves agency while accounting for harm, boundary, and relation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of freedom-with-responsibility: freedom guided by care, duty, and awareness of effects on others.
+  LIMIT: Freedom is damaged when refusal exists only nominally or carries punishment that captures the choice gate.
+F386 face-claim | FOR
+  INV: Face-claim concerns outward identity or presentation.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of face-claim: a claim about how someone or something appears, presents, or is recognized.
+F387 face-saving | REL
+  INV: Face-saving can preserve dignity, but it becomes risky if it hides truth, harm, or accountability.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of face-saving: protecting someone’s dignity, reputation, or public image.
+F388 face-loss | REL
+  INV: Face-loss is recognition damage in a social field.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of face-loss: loss of dignity, respect, reputation, or public standing.
+F389 fact-gate | FOR
+  INV: Fact-gate tests whether a claim should enter the record as true, false, uncertain, or unsupported.
+  COUNT: Counts when the declared case reaches the specific condition named by fact-gate: a point where a claim is checked against facts.
+  LIMIT: A fact remains local to the evidence gate that established it; presentation as fact is not proof.
+F390 factual-integrity | COG
+  INV: Factual-integrity preserves the evidence layer.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of factual-integrity: the reliability, truthfulness, and accuracy of facts or records.
+  LIMIT: A fact remains local to the evidence gate that established it; presentation as fact is not proof.
+F391 fairness-gate | FOR
+  INV: Fairness-gate checks whether valid criteria are applied without hidden erasure, bias, or advantage.
+  COUNT: Counts when the declared case reaches the specific condition named by fairness-gate: a point where fairness is checked or applied.
+  LIMIT: Fair does not mean identical treatment when capacities, harms, duties, or access conditions differ.
+F392 fairness-risk | COG
+  INV: Fairness-risk appears when criteria, access, power, or recognition may become distorted.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of fairness-risk: the danger that fairness may fail.
+  LIMIT: Fair does not mean identical treatment when capacities, harms, duties, or access conditions differ.
+F393 form-of-being | REL
+  INV: form-of-being preserves this distinction: a way or mode in which something exists as a being.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of form-of-being: a way or mode in which something exists as a being.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F394 form-of-care | REL
+  INV: Form-of-care is care expressed through specific ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of form-of-care: a particular way care is expressed.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F395 form-of-expression | COG
+  INV: Form-of-expression is the structure that carries MI into visibility.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of form-of-expression: a way that meaning, identity, feeling, or signal is expressed.
+  LIMIT: Form, frame, and framework organize expression but do not exhaust the identity or reality of what they carry.
+F396 foundation-support | COG
+  INV: Foundation-support is load-bearing ES.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of foundation-support: support that provides a base for later structure.
+F397 foundation-risk | COG
+  INV: Foundation-risk appears when higher structure depends on a weak base.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of foundation-risk: the danger that the base support of something is weak, false, or unstable.
+F398 feedback-correction | DIG
+  INV: Feedback-correction uses returned signal to reduce drift and restore coherence.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback-correction: correction guided by feedback.
+F399 feedback-integrity | DIG
+  INV: Feedback-integrity protects the correction path.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of feedback-integrity: the reliability and honesty of feedback.
+F400 final-gate | REL
+  INV: Final-gate closes the path into final expression.
+  COUNT: Counts when the observed or declared case satisfies the distinctive meaning of final-gate: the last decision point before completion, release, or closure.
+  LIMIT: Final is valid only when the relevant revision, appeal, or completion conditions are actually closed.

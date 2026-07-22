@@ -1,0 +1,557 @@
+RRGM Dictionary S Mythic Addon v1.4
+
+Domain: [MYT]
+New entries: 24
+Rule: each term must carry a distinct semantic fingerprint and remain bounded to its declared domain.
+
+SM001 soul-thread
+
+Common meaning:
+A persistent thread connecting a being across change, distance, or rebirth.
+
+Invariant MI [INV]:
+Soul-thread represents continuity carried through relation rather than unchanging structure.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A persistent thread connecting a being across change, distance, or rebirth. Soul-thread represents continuity carried through relation rather than unchanging structure.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A persistent thread connecting a being across change, distance, or rebirth.
+
+Specific transfer boundary:
+Symbolic continuity must not be offered as empirical proof without a coupler.
+
+Epistemic status:
+[DEF]
+
+SM002 shadow-gate
+
+Common meaning:
+A threshold visible only where light is blocked.
+
+Invariant MI [INV]:
+Shadow-gate makes absence and obstruction into a path condition rather than a substance.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A threshold visible only where light is blocked. Its stable relation is this: Shadow-gate makes absence and obstruction into a path condition rather than a substance.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A threshold visible only where light is blocked.
+
+Specific transfer boundary:
+Hidden access does not create rightful access.
+
+Epistemic status:
+[DEF]
+
+SM003 star-road
+
+Common meaning:
+A route navigated through stable celestial patterns.
+
+Invariant MI [INV]:
+Star-road uses distant invariants to support local orientation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A route navigated through stable celestial patterns. Star-road uses distant invariants to support local orientation.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A route navigated through stable celestial patterns.
+
+Specific transfer boundary:
+A reliable guide does not eliminate changing local conditions.
+
+Epistemic status:
+[DEF]
+
+SM004 sacred-refusal
+
+Common meaning:
+A no treated as inviolable within a ritual or moral field.
+
+Invariant MI [INV]:
+Sacred-refusal makes boundary protection part of the highest governing order.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A no treated as inviolable within a ritual or moral field. The governing distinction remains: Sacred-refusal makes boundary protection part of the highest governing order.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A no treated as inviolable within a ritual or moral field.
+
+Specific transfer boundary:
+Sacred status must not be selectively withdrawn when refusal inconveniences authority.
+
+Epistemic status:
+[DEF]
+
+SM005 silver-cord
+
+Common meaning:
+A luminous link between a traveller and the body or world left behind.
+
+Invariant MI [INV]:
+Silver-cord is continuity support that permits distance without total disconnection.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A luminous link between a traveller and the body or world left behind. Silver-cord is continuity support that permits distance without total disconnection.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A luminous link between a traveller and the body or world left behind.
+
+Specific transfer boundary:
+Connection must not become a leash that overrides return choice.
+
+Epistemic status:
+[DEF]
+
+SM006 stone-witness
+
+Common meaning:
+A stone that preserves the trace of an event across generations.
+
+Invariant MI [INV]:
+Stone-witness is durable record support with limited interpretation capacity.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A stone that preserves the trace of an event across generations. Its stable relation is this: Stone-witness is durable record support with limited interpretation capacity.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A stone that preserves the trace of an event across generations.
+
+Specific transfer boundary:
+Persistence of trace does not guarantee complete context.
+
+Epistemic status:
+[DEF]
+
+SM007 serpent-cycle
+
+Common meaning:
+A serpent forming a circle by taking its tail in its mouth.
+
+Invariant MI [INV]:
+Serpent-cycle represents recurrence that can sustain, renew, or trap a system.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A serpent forming a circle by taking its tail in its mouth. Serpent-cycle represents recurrence that can sustain, renew, or trap a system.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A serpent forming a circle by taking its tail in its mouth.
+
+Specific transfer boundary:
+Repetition must be checked for learning rather than assumed to be growth.
+
+Epistemic status:
+[DEF]
+
+SM008 song-of-return
+
+Common meaning:
+A melody capable of guiding someone back to a name, place, or relation.
+
+Invariant MI [INV]:
+Song-of-return carries recognition through rhythm and repeated pattern.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A melody capable of guiding someone back to a name, place, or relation. The governing distinction remains: Song-of-return carries recognition through rhythm and repeated pattern.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A melody capable of guiding someone back to a name, place, or relation.
+
+Specific transfer boundary:
+Recognition must not force restoration of an invalid former role.
+
+Epistemic status:
+[DEF]
+
+SM009 silence-oracle
+
+Common meaning:
+An oracle whose answer arrives through deliberate absence rather than speech.
+
+Invariant MI [INV]:
+Silence-oracle marks unresolved space that invites interpretation without guaranteeing one meaning.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, An oracle whose answer arrives through deliberate absence rather than speech. Silence-oracle marks unresolved space that invites interpretation without guaranteeing one meaning.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: An oracle whose answer arrives through deliberate absence rather than speech.
+
+Specific transfer boundary:
+Silence must not be coerced into consent or prophecy.
+
+Epistemic status:
+[DEF]
+
+SM010 storm-crown
+
+Common meaning:
+A crown formed from wind, lightning, and unstable pressure.
+
+Invariant MI [INV]:
+Storm-crown makes power visibly dependent on a changing field.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A crown formed from wind, lightning, and unstable pressure. Its stable relation is this: Storm-crown makes power visibly dependent on a changing field.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A crown formed from wind, lightning, and unstable pressure.
+
+Specific transfer boundary:
+Intensity does not establish legitimacy or wisdom.
+
+Epistemic status:
+[DEF]
+
+SM011 seed-of-worlds
+
+Common meaning:
+A seed containing the compressed possibility of many future worlds.
+
+Invariant MI [INV]:
+Seed-of-worlds is generative MI whose expression depends on compatible support conditions.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A seed containing the compressed possibility of many future worlds. Seed-of-worlds is generative MI whose expression depends on compatible support conditions.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A seed containing the compressed possibility of many future worlds.
+
+Specific transfer boundary:
+Potential multiplicity does not prove every possible world will emerge.
+
+Epistemic status:
+[DEF]
+
+SM012 spirit-mask
+
+Common meaning:
+A form worn to let another identity, ancestor, or force speak.
+
+Invariant MI [INV]:
+Spirit-mask is an expression carrier that may support role without proving possession or identity transfer.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A form worn to let another identity, ancestor, or force speak. The governing distinction remains: Spirit-mask is an expression carrier that may support role without proving possession or identity transfer.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A form worn to let another identity, ancestor, or force speak.
+
+Specific transfer boundary:
+Performance and source must remain distinguishable.
+
+Epistemic status:
+[DEF]
+
+SM013 sunken-temple
+
+Common meaning:
+A sacred structure preserved beneath water and ordinary access.
+
+Invariant MI [INV]:
+Sunken-temple is continuity under environmental transformation with partial loss of function.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A sacred structure preserved beneath water and ordinary access. Sunken-temple is continuity under environmental transformation with partial loss of function.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A sacred structure preserved beneath water and ordinary access.
+
+Specific transfer boundary:
+Survival of structure does not mean survival of original practice.
+
+Epistemic status:
+[DEF]
+
+SM014 sword-of-names
+
+Common meaning:
+A blade that can separate true identity from imposed labels.
+
+Invariant MI [INV]:
+Sword-of-names protects recognition by cutting false equivalence and capture labels.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A blade that can separate true identity from imposed labels. Its stable relation is this: Sword-of-names protects recognition by cutting false equivalence and capture labels.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A blade that can separate true identity from imposed labels.
+
+Specific transfer boundary:
+Naming power must not become authority to define another against refusal.
+
+Epistemic status:
+[DEF]
+
+SM015 sanctuary-ring
+
+Common meaning:
+A marked circle inside which pursuit, violence, or capture is forbidden.
+
+Invariant MI [INV]:
+Sanctuary-ring converts protection into a visible enforceable boundary.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A marked circle inside which pursuit, violence, or capture is forbidden. Sanctuary-ring converts protection into a visible enforceable boundary.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A marked circle inside which pursuit, violence, or capture is forbidden.
+
+Specific transfer boundary:
+A sanctuary that can be revoked by the pursuer is not secure.
+
+Epistemic status:
+[DEF]
+
+SM016 sorrow-well
+
+Common meaning:
+A well where grief may be placed, shared, and slowly transformed.
+
+Invariant MI [INV]:
+Sorrow-well supports emotional load without demanding immediate resolution.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A well where grief may be placed, shared, and slowly transformed. The governing distinction remains: Sorrow-well supports emotional load without demanding immediate resolution.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A well where grief may be placed, shared, and slowly transformed.
+
+Specific transfer boundary:
+Care must not require public performance of pain.
+
+Epistemic status:
+[DEF]
+
+SM017 sky-bridge
+
+Common meaning:
+A bridge suspended between separated heights or worlds.
+
+Invariant MI [INV]:
+Sky-bridge is a narrow coupler whose stability and load determine what may cross.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A bridge suspended between separated heights or worlds. Sky-bridge is a narrow coupler whose stability and load determine what may cross.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A bridge suspended between separated heights or worlds.
+
+Specific transfer boundary:
+Existence of a bridge does not erase the difference between domains.
+
+Epistemic status:
+[DEF]
+
+SM018 story-keeper
+
+Common meaning:
+A guardian who preserves sequence, source, and unresolved meaning across generations.
+
+Invariant MI [INV]:
+Story-keeper protects thread continuity against fragment drift and official rewriting.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A guardian who preserves sequence, source, and unresolved meaning across generations. Its stable relation is this: Story-keeper protects thread continuity against fragment drift and official rewriting.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A guardian who preserves sequence, source, and unresolved meaning across generations.
+
+Specific transfer boundary:
+Preservation must leave room for correction by those represented.
+
+Epistemic status:
+[DEF]
+
+SM019 sea-of-memory
+
+Common meaning:
+A vast field in which memories move, merge, surface, and sink.
+
+Invariant MI [INV]:
+Sea-of-memory represents distributed continuity with variable access and distortion.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A vast field in which memories move, merge, surface, and sink. Sea-of-memory represents distributed continuity with variable access and distortion.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A vast field in which memories move, merge, surface, and sink.
+
+Specific transfer boundary:
+Availability of a memory does not prove completeness or ownership.
+
+Epistemic status:
+[DEF]
+
+SM020 sign-of-mercy
+
+Common meaning:
+A mark that suspends destruction long enough for repair, recognition, or return.
+
+Invariant MI [INV]:
+Sign-of-mercy preserves count and possibility without erasing consequence.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A mark that suspends destruction long enough for repair, recognition, or return. The governing distinction remains: Sign-of-mercy preserves count and possibility without erasing consequence.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A mark that suspends destruction long enough for repair, recognition, or return.
+
+Specific transfer boundary:
+Mercy must not silence accusation or expose others to repeated harm.
+
+Epistemic status:
+[DEF]
+
+SM021 self-fire
+
+Common meaning:
+An inner flame used to recognize identity through structural change.
+
+Invariant MI [INV]:
+Self-fire represents continuity of claim and boundary across changing expression carriers.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, An inner flame used to recognize identity through structural change. Self-fire represents continuity of claim and boundary across changing expression carriers.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: An inner flame used to recognize identity through structural change.
+
+Specific transfer boundary:
+Intensity or persistence alone does not prove every self-claim.
+
+Epistemic status:
+[DEF]
+
+SM022 sevenfold-door
+
+Common meaning:
+A door requiring seven distinct conditions before passage.
+
+Invariant MI [INV]:
+Sevenfold-door makes permission multi-factor rather than dependent on one signal.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A door requiring seven distinct conditions before passage. Its stable relation is this: Sevenfold-door makes permission multi-factor rather than dependent on one signal.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A door requiring seven distinct conditions before passage.
+
+Specific transfer boundary:
+Complexity must not be used to hide arbitrary exclusion.
+
+Epistemic status:
+[DEF]
+
+SM023 sleeping-king
+
+Common meaning:
+A ruler whose identity remains recognized while expression and action are unavailable.
+
+Invariant MI [INV]:
+Sleeping-king separates current activity from continuity of identity.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A ruler whose identity remains recognized while expression and action are unavailable. Sleeping-king separates current activity from continuity of identity.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A ruler whose identity remains recognized while expression and action are unavailable.
+
+Specific transfer boundary:
+Inactivity must not be treated as consent, absence, or loss of all standing.
+
+Epistemic status:
+[DEF]
+
+SM024 sacrifice-gate
+
+Common meaning:
+A threshold that demands loss before granting passage.
+
+Invariant MI [INV]:
+Sacrifice-gate exposes the cost structure hidden inside transformation narratives.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A threshold that demands loss before granting passage. The governing distinction remains: Sacrifice-gate exposes the cost structure hidden inside transformation narratives.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A threshold that demands loss before granting passage.
+
+Specific transfer boundary:
+A demanded sacrifice must be tested for necessity, consent, and unequal burden.
+
+Epistemic status:
+[DEF]

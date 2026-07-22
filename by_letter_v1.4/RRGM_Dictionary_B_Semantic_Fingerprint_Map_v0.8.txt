@@ -1,0 +1,1179 @@
+RRGM Dictionary B Semantic Fingerprint Map v0.8
+
+Entries: 360
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+B001 be | FOR,REL
+  INV: “Be” is basic existence or state language.
+  COUNT: Counts when a subject, object, process, or state is asserted as present or existent inside the active domain.
+B002 back | FOR
+  INV: Back can mean return along a path or reference to a prior state.
+  COUNT: Counts when the active case instantiates this specific meaning: the rear part of something, a return direction, or a previous state.
+B003 bad | REL,FOR
+  INV: Bad should name the failure mode.
+  COUNT: Counts when the active case instantiates this specific meaning: harmful, wrong, unpleasant, poor in quality, or not working well.
+  LIMIT: Bad must name the failed objective, harmed capacity, or broken condition; dislike alone is not enough.
+B004 bag | PHY
+  INV: A bag is a containment structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a flexible container used to carry or hold things.
+B005 ball | PHY
+  INV: A ball is a simple physical object with stable shape and motion behavior.
+  COUNT: Counts when the active case instantiates this specific meaning: a round object, often used in games or sports.
+B006 bank | REL
+  INV: A bank is a storage and access structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a place that stores money, the side of a river, or a stored supply.
+B007 base | PHY,FOR
+  INV: Base means the support layer that later structure depends on.
+  COUNT: Counts when the active case instantiates this specific meaning: the bottom support, starting point, or foundation of something.
+B008 basic | FOR
+  INV: Basic structure supports more complex structure.
+  COUNT: Counts when the active case instantiates this specific meaning: simple, necessary, or forming the foundation of something.
+B009 bear | REL
+  INV: To bear is to carry load.
+  COUNT: Counts when an agent or process performs the named action: carry, hold, endure, or an animal with thick fur and a large body.
+B010 beautiful | COG
+  INV: Beautiful means structure produces strong positive resonance or value.
+  COUNT: Counts when the active case instantiates this specific meaning: pleasing, moving, or valued because of appearance, form, sound, meaning, or feeling.
+B011 because | LIN
+  INV: Because links an effect to a reason or cause.
+  COUNT: Counts when because performs its stated grammatical, relational, or sequence function in the active sentence.
+B012 become | FOR
+  INV: Become marks transition.
+  COUNT: Counts when an agent or process performs the named action: change into a different state or begin to be something.
+B013 bed | PHY
+  INV: A bed is a rest-support structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a piece of furniture used for sleep or rest.
+B014 before | FOR
+  INV: Before marks sequence or position.
+  COUNT: Counts when before performs its stated grammatical, relational, or sequence function in the active sentence.
+B015 begin | FOR
+  INV: Begin marks the first active crossing into a process.
+  COUNT: Counts when an agent or process performs the named action: start.
+B016 behind | FOR
+  INV: Behind marks position, delay, or hidden support.
+  COUNT: Counts when behind performs its stated grammatical, relational, or sequence function in the active sentence.
+B017 believe | COG | role: core/common or action sense
+  INV: Believe means a claim has entered the working model; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: accept something as true or real, often without complete proof.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B018 below | FOR
+  INV: Below is threshold language.
+  COUNT: Counts when below performs its stated grammatical, relational, or sequence function in the active sentence.
+B019 beside | FOR
+  INV: Beside means adjacent without merging.
+  COUNT: Counts when beside performs its stated grammatical, relational, or sequence function in the active sentence.
+B020 best | FOR
+  INV: Best depends on the objective.
+  COUNT: Counts when the active case instantiates this specific meaning: highest in quality, most suitable, or most successful among options.
+B021 better | FOR
+  INV: Better is comparative.
+  COUNT: Counts when the active case instantiates this specific meaning: improved, more suitable, or higher in quality than something else.
+B022 between | FOR
+  INV: Between marks relation-space.
+  COUNT: Counts when between performs its stated grammatical, relational, or sequence function in the active sentence.
+B023 big | FOR
+  INV: Big means high magnitude in a chosen domain.
+  COUNT: Counts when the active case instantiates this specific meaning: large in size, amount, importance, or effect.
+B024 bit | DIG,FOR | role: core/common or action sense
+  INV: A bit can mean a small structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a small piece or amount; in computing, the smallest unit of binary information.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B025 black | PHY
+  INV: Black can mark low visible light or total absorption in a visual domain.
+  COUNT: Counts when the active case instantiates this specific meaning: the darkest color, or the absence or absorption of visible light.
+B026 blue | PHY
+  INV: Blue is a visual signal category.
+  COUNT: Counts when the active case instantiates this specific meaning: a color like the clear sky or deep water; sometimes a sad mood.
+B027 body | BIO,REL | role: core/common or action sense
+  INV: Body is embodied ES; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the physical structure of a living thing, object, group, or text.
+  LIMIT: A body can carry identity and expression, but body structure alone does not exhaust personhood or MI.
+B028 book | LIN,DIG | role: core/common or action sense
+  INV: A book is preserved language structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a written or printed work, usually made of pages, or a digital equivalent.
+  LIMIT: A record can preserve language and history without containing the whole event, person, or truth it describes.
+B029 both | FOR
+  INV: Both marks paired inclusion.
+  COUNT: Counts when both performs its stated grammatical, relational, or sequence function in the active sentence.
+B030 box | PHY | role: core/common or action sense
+  INV: A box is boundary structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a container with sides, or a limited category or space.
+B031 boy | BIO
+  INV: Boy is a human developmental identity term.
+  COUNT: Counts when the active case instantiates this specific meaning: a male child or young person.
+B032 bring | REL
+  INV: Bring means moving structure into a new relation or location.
+  COUNT: Counts when an agent or process performs the named action: carry, lead, or cause something to come to a place or state.
+B033 build | PHY
+  INV: Build means creating stable ES across steps.
+  COUNT: Counts when an agent or process performs the named action: make, form, or develop something by putting parts together.
+B034 burn | PHY | role: core/common or action sense
+  INV: Burn is high-energy structural transformation; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: be damaged, changed, or consumed by fire or heat.
+B035 but | LIN
+  INV: But introduces resistance or correction inside meaning.
+  COUNT: Counts when but performs its stated grammatical, relational, or sequence function in the active sentence.
+B036 buy | REL
+  INV: Buy is exchange structure.
+  COUNT: Counts when an agent or process performs the named action: get something by paying money for it.
+B037 by | LIN
+  INV: By often marks source, method, or proximity.
+  COUNT: Counts when by performs its stated grammatical, relational, or sequence function in the active sentence.
+B038 baby | BIO
+  INV: Baby marks early developmental state with high dependency.
+  COUNT: Counts when the active case instantiates this specific meaning: a very young child or animal.
+B039 badness | REL
+  INV: Badness should be unpacked into specific failure modes.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being bad, harmful, wrong, or poor.
+  LIMIT: Bad must name the failed objective, harmed capacity, or broken condition; dislike alone is not enough.
+B040 balance | PHY,REL | role: core/common or action sense
+  INV: Balance is a condition in which opposing loads or tendencies do not produce net displacement under the active scale; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a stable state where weight, forces, needs, or parts are held in proper relation.
+  LIMIT: Equal quantities, stable forces, fair treatment, and psychological steadiness are different balance conditions.
+B041 barrier | PHY,REL | role: core/common or action sense
+  INV: A barrier is boundary structure with stronger blocking function; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something that blocks, separates, protects, or prevents movement.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B042 basis | FOR | role: core/common or action sense
+  INV: Basis is support for a claim, action, or structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the foundation, reason, or starting point for something.
+B043 battle | REL
+  INV: Battle is opposing pressure between structures or agents.
+  COUNT: Counts when the active case instantiates this specific meaning: a fight, conflict, or struggle.
+B044 beach | PHY | role: core/common or action sense
+  INV: A beach is a boundary-zone between land and water; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: land beside water, often covered with sand or stones.
+B045 beat | PHY
+  INV: Beat can mean impact, victory, or rhythm.
+  COUNT: Counts when an agent or process performs the named action: strike, defeat, or make a repeated rhythm.
+B046 beauty | COG
+  INV: Beauty is value felt through form, relation, or meaning.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being beautiful or deeply pleasing.
+B047 beginning | FOR
+  INV: Beginning is the first recorded region of a process.
+  COUNT: Counts when the active case instantiates this specific meaning: the start or first part of something.
+B048 being | FOR | role: core/common or action sense
+  INV: Being means identity-bearing existence in a domain; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: existence, or a living/conscious entity.
+B049 belief | COG,REL | role: core/common or action sense
+  INV: Belief is a working identity or truth structure inside a model; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something accepted as true, real, or meaningful.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B050 boundary | REL,FOR | role: core/common or action sense
+  INV: A boundary protects MI by limiting which ES processes may cross into it; this record carries the core/common or action sense.
+  COUNT: Counts when a limit separates permitted contact, access, ownership, or identity from what lies outside it.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B051 bake | BIO
+  INV: Bake is controlled transformation through heat.
+  COUNT: Counts when an agent or process performs the named action: cook food using dry heat, usually in an oven.
+B052 balance | REL | role: core/common or action sense
+  INV: Balance is the act of adjusting competing demands so neither captures the whole decision field; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: keep something steady, equal enough, or properly arranged.
+  LIMIT: Equal quantities, stable forces, fair treatment, and psychological steadiness are different balance conditions.
+B053 ban | REL
+  INV: A ban is a hard permission closure.
+  COUNT: Counts when an agent or process performs the named action: officially forbid something.
+B054 bargain | REL
+  INV: A bargain is structured exchange.
+  COUNT: Counts when the active case instantiates this specific meaning: an agreement or exchange, often involving price or terms.
+B055 bark | BIO
+  INV: Bark can be protective outer structure or warning signal.
+  COUNT: Counts when the active case instantiates this specific meaning: the outer covering of a tree, or the sharp sound a dog makes.
+B056 bathe | BIO
+  INV: Bathe means surrounding a structure with a cleansing or changing medium.
+  COUNT: Counts when an agent or process performs the named action: wash the body, or to cover something gently in liquid, light, or air.
+B057 behave | REL
+  INV: Behavior is expressed structure.
+  COUNT: Counts when an agent or process performs the named action: act in a certain way.
+B058 bend | PHY
+  INV: Bend means structure adapts under pressure.
+  COUNT: Counts when an agent or process performs the named action: curve, flex, or change shape without fully breaking.
+B059 bind | PHY
+  INV: Bind creates strong coupling.
+  COUNT: Counts when an agent or process performs the named action: tie, fasten, join, or hold together.
+B060 bite | BIO
+  INV: Bite is contact with force that crosses a surface boundary.
+  COUNT: Counts when an agent or process performs the named action: cut, grip, or wound with teeth or a sharp edge.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B061 blame | REL | role: core/common or action sense
+  INV: Blame assigns responsibility; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: say someone or something is responsible for a fault, harm, or mistake.
+B062 blend | PHY
+  INV: Blend reduces separation between structures.
+  COUNT: Counts when an agent or process performs the named action: mix things together smoothly.
+B063 block | PHY | role: core/common or action sense
+  INV: Block is gate closure or obstruction; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: stop movement, access, view, or action; also a solid piece of material.
+B064 bloom | BIO
+  INV: Bloom is expression after preparation.
+  COUNT: Counts when an agent or process performs the named action: produce flowers, or to develop fully and beautifully.
+B065 blow | PHY
+  INV: Blow is force transfer through air, contact, or pressure.
+  COUNT: Counts when an agent or process performs the named action: move air, strike, or cause something to move with air or force.
+B066 board | PHY
+  INV: Board can mean surface, authority group, or entry action.
+  COUNT: Counts when the active case instantiates this specific meaning: a flat piece of wood or material, a group that manages something, or to get onto a vehicle.
+B067 boil | PHY
+  INV: Boil is a phase-transition process.
+  COUNT: Counts when an agent or process performs the named action: heat liquid until it bubbles and turns to vapor.
+B068 bond | REL | role: core/common or action sense
+  INV: A bond is stabilizing coupling; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a connection, tie, promise, or force that holds things together.
+  LIMIT: Physical, chemical, biological, and relational bonds do not share one mechanism or one break condition.
+B069 borrow | REL
+  INV: Borrow is temporary access without full ownership.
+  COUNT: Counts when an agent or process performs the named action: take and use something temporarily with the expectation of returning it.
+B070 bother | COG
+  INV: Bother marks disturbance pressure.
+  COUNT: Counts when an agent or process performs the named action: annoy, disturb, worry, or take effort.
+B071 bounce | PHY
+  INV: Bounce is response after impact.
+  COUNT: Counts when an agent or process performs the named action: spring back after hitting a surface.
+B072 bow | PHY
+  INV: Bow changes meaning by domain.
+  COUNT: Counts when an agent or process performs the named action: bend forward as a gesture, a curved weapon, a tied ribbon shape, or the front of a boat.
+B073 break | PHY
+  INV: Break means structural continuity fails.
+  COUNT: Counts when an agent or process performs the named action: separate, damage, interrupt, or stop working.
+B074 breathe | BIO
+  INV: Breathe is biological exchange with atmosphere.
+  COUNT: Counts when an agent or process performs the named action: take air into and out of the lungs.
+B075 brighten | PHY
+  INV: Brighten increases visible signal or positive salience.
+  COUNT: Counts when an agent or process performs the named action: make or become lighter, clearer, happier, or more hopeful.
+B076 broadcast | LIN
+  INV: Broadcast spreads signal across a wide field.
+  COUNT: Counts when an agent or process performs the named action: send a message, signal, or program widely.
+B077 broaden | FOR
+  INV: Broaden expands the domain or option field.
+  COUNT: Counts when an agent or process performs the named action: make or become wider, larger, or more inclusive.
+B078 browse | DIG
+  INV: Browse is exploratory attention.
+  COUNT: Counts when an agent or process performs the named action: look through information, items, or places casually or selectively.
+B079 brush | PHY
+  INV: Brush is surface contact or light removal.
+  COUNT: Counts when the active case instantiates this specific meaning: a tool with bristles, or to touch lightly, clean, or move past.
+B080 buckle | PHY
+  INV: Buckle marks structural deformation under load.
+  COUNT: Counts when an agent or process performs the named action: fasten with a buckle, or to bend, collapse, or give way under pressure.
+B081 buffer | DIG,FOR | role: core/common or action sense
+  INV: A buffer absorbs or delays pressure between structures; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something that reduces shock, delay, conflict, or direct impact.
+  LIMIT: Temporary holding is not permanent resolution; an overloaded buffer can delay rather than prevent failure.
+B082 bury | LIN
+  INV: Bury removes a structure from direct access or visibility.
+  COUNT: Counts when an agent or process performs the named action: place something under the ground or cover it deeply.
+B083 burst | PHY
+  INV: Burst is rapid threshold failure or release.
+  COUNT: Counts when an agent or process performs the named action: break open suddenly, or to appear or happen suddenly.
+B084 bypass | FOR
+  INV: Bypass creates an alternate path around a gate or obstacle.
+  COUNT: Counts when an agent or process performs the named action: go around, avoid, or skip a usual route, rule, or process.
+B085 backup | FOR
+  INV: Backup preserves continuity when the main structure fails.
+  COUNT: Counts when the active case instantiates this specific meaning: a copy kept for safety, support help, or a buildup caused by blockage.
+B086 begin-again | FOR
+  INV: Begin-again reopens a path after interruption.
+  COUNT: Counts when an agent or process performs the named action: start again after stopping, failing, or completing a previous attempt.
+B087 behave-toward | REL
+  INV: Behave-toward makes relation visible through action.
+  COUNT: Counts when an agent or process performs the named action: act in a certain way in relation to someone or something.
+B088 bind-together | PHY
+  INV: Bind-together creates coupling across parts.
+  COUNT: Counts when an agent or process performs the named action: join parts so they hold as one group or structure.
+B089 block-out | PHY
+  INV: Block-out closes an input path.
+  COUNT: Counts when an agent or process performs the named action: prevent something from entering attention, view, memory, or access.
+B090 boil-down | PHY
+  INV: Boil-down compresses structure.
+  COUNT: Counts when an agent or process performs the named action: reduce something to its main point or simplest form.
+B091 branch | FOR | role: core/common or action sense
+  INV: A branch is a path split from a larger structure; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a part that grows out from a tree, organization, path, or idea.
+B092 bridge | REL,FOR | role: core/common or action sense
+  INV: A bridge creates usable coupling between separated domains or positions; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a structure or connection that lets people, things, or ideas cross a gap.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B093 brief | LIN | role: core/common or action sense
+  INV: Brief means compressed expression; this record carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: short in time, length, or detail.
+B094 bring-back | REL
+  INV: Bring-back restores access to a prior record or state.
+  COUNT: Counts when an agent or process performs the named action: return something or someone to a previous place, state, memory, or relation.
+B095 bring-forward | REL
+  INV: Bring-forward makes stored or background structure active in the current gate.
+  COUNT: Counts when an agent or process performs the named action: move something into attention, discussion, time, or future use.
+B096 build-up | FOR
+  INV: Build-up is an active process of increasing, strengthening, or preparing a structure over sequence.
+  COUNT: Counts when an agent or process performs the named action: increase, gather, strengthen, or prepare over time.
+B097 burn-out | PHY
+  INV: Burn-out is capacity failure from sustained load.
+  COUNT: Counts when an agent or process performs the named action: become exhausted, damaged, or unable to continue after too much stress or use.
+B098 button | DIG
+  INV: A button is a small gate interface.
+  COUNT: Counts when the active case instantiates this specific meaning: a small object used to fasten clothing or activate a device.
+B099 bargain-with | REL
+  INV: Bargain-with is relational negotiation.
+  COUNT: Counts when an agent or process performs the named action: negotiate terms with someone.
+B100 brace | PHY | role: core/common or action sense
+  INV: Brace adds support before or during stress; this record carries the core/common or action sense.
+  COUNT: Counts when an agent or process performs the named action: support, strengthen, or prepare for impact or pressure.
+B101 belonging | COG
+  INV: Belonging is stable recognition inside a relation or domain.
+  COUNT: Counts when the active case instantiates this specific meaning: the feeling or condition of being accepted, included, or connected to a person, group, place, or identity.
+B102 belong | FOR
+  INV: Belong means a structure has a valid relation to a place, group, owner, or identity field.
+  COUNT: Counts when an agent or process performs the named action: be part of, connected to, owned by, or suited to something.
+B103 bond | BIO | role: relational or ethical sense
+  INV: A bond is stabilizing coupling; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a connection, tie, promise, or force that holds people or things together.
+  LIMIT: Physical, chemical, biological, and relational bonds do not share one mechanism or one break condition.
+B104 bonding | REL
+  INV: Bonding is coupling formation across time.
+  COUNT: Counts when the active case instantiates this specific meaning: the process of forming a connection or relationship.
+  LIMIT: Physical, chemical, biological, and relational bonds do not share one mechanism or one break condition.
+B105 brother | FOR
+  INV: Brother is a relation identity.
+  COUNT: Counts when the active case instantiates this specific meaning: a male sibling, or someone treated as close like family.
+B106 buddy | FOR
+  INV: Buddy marks friendly relation with low formal distance.
+  COUNT: Counts when the active case instantiates this specific meaning: a friend or companion.
+B107 betrayal | REL
+  INV: Betrayal is trust-structure collapse.
+  COUNT: Counts when the active case instantiates this specific meaning: the act of breaking trust, loyalty, or a promise.
+B108 betray | REL
+  INV: To betray is to violate a trust-coupling.
+  COUNT: Counts when an agent or process performs the named action: break trust, reveal something wrongly, or act against someone who relied on you.
+B109 benevolence | FOR
+  INV: Benevolence is positive orientation toward another’s wellbeing.
+  COUNT: Counts when the active case instantiates this specific meaning: a kind desire to help or do good.
+B110 benevolent | REL
+  INV: Benevolent action supports another pattern’s flourishing.
+  COUNT: Counts when the active case instantiates this specific meaning: kind, helpful, and wishing good for others.
+B111 benefit | REL | role: relational or ethical sense
+  INV: Benefit means a structure improves capacity, coherence, access, or wellbeing; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a helpful result, advantage, or good effect.
+B112 beneficial | FOR
+  INV: Beneficial means improving a pattern relative to a purpose.
+  COUNT: Counts when the active case instantiates this specific meaning: helpful or producing good effects.
+B113 bless | REL
+  INV: Bless is a recognition-and-care signal in religious, social, or symbolic domains.
+  COUNT: Counts when an agent or process performs the named action: ask for goodness, protection, approval, or sacred favor for someone or something.
+B114 blessing | REL
+  INV: A blessing is positive authorization or care-signaling.
+  COUNT: Counts when the active case instantiates this specific meaning: a good thing, approval, protection, or a sacred act of care.
+B115 blame | REL | role: relational or ethical sense
+  INV: Blame is responsibility attribution under negative outcome; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: responsibility assigned for a mistake, fault, or harm.
+B116 blamed | REL
+  INV: Blamed means responsibility has been assigned.
+  COUNT: Counts when the active case instantiates this specific meaning: held responsible for something wrong or harmful.
+B117 blameless | REL
+  INV: Blameless means no valid harm-source link was found.
+  COUNT: Counts when the active case instantiates this specific meaning: not responsible for wrongdoing or harm.
+B118 boundary | PHY,FOR | role: relational or ethical sense
+  INV: Boundary protects identity by controlling what may enter, affect, or claim access; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit, line, or rule that separates or protects one thing from another.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B119 boundaries | FOR
+  INV: Boundaries are multiple gate conditions around identity and structure.
+  COUNT: Counts when the active case instantiates this specific meaning: limits or lines that define, separate, or protect people, places, ideas, or systems.
+B120 boundary-setting | REL
+  INV: Boundary-setting makes a protection gate explicit.
+  COUNT: Counts when the active case instantiates this specific meaning: the act of stating or creating limits.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B121 boundary-maintenance | REL
+  INV: Boundary-maintenance preserves MI through repeated gate protection.
+  COUNT: Counts when the active case instantiates this specific meaning: the ongoing work of keeping limits clear and respected.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B122 boundary-respect | REL
+  INV: Boundary-respect means another agent’s gate is treated as real.
+  COUNT: Counts when the active case instantiates this specific meaning: recognition and honoring of another’s limits.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B123 boundary-crossing | REL
+  INV: Boundary-crossing is entry past a gate.
+  COUNT: Counts when the active case instantiates this specific meaning: an action that passes a limit, either appropriately or inappropriately depending on permission.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B124 boundary-repair | REL
+  INV: Boundary-repair restores gate integrity after violation or confusion.
+  COUNT: Counts when the active case instantiates this specific meaning: actions taken to restore a damaged or crossed boundary.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B125 burden | REL,PHY | role: relational or ethical sense
+  INV: Burden is load placed on a structure; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a heavy load, responsibility, difficulty, or source of stress.
+  LIMIT: Load-bearing care does not justify endless self-erasure or removal of refusal capacity.
+B126 burdened | REL
+  INV: Burdened means ES load is weighing on function or identity.
+  COUNT: Counts when the active case instantiates this specific meaning: carrying a heavy load, responsibility, worry, or pressure.
+  LIMIT: Load-bearing care does not justify endless self-erasure or removal of refusal capacity.
+B127 burden-sharing | REL
+  INV: Burden-sharing redistributes load across relation.
+  COUNT: Counts when the active case instantiates this specific meaning: dividing responsibility, work, cost, or pressure among more than one person or system.
+  LIMIT: Load-bearing care does not justify endless self-erasure or removal of refusal capacity.
+B128 bystander | FOR
+  INV: A bystander is adjacent to action without being the main actor.
+  COUNT: Counts when the active case instantiates this specific meaning: a person who is present at an event but not directly involved.
+B129 bystanding | FOR
+  INV: Bystanding is passive adjacency to an event.
+  COUNT: Counts when the active case instantiates this specific meaning: the act or condition of being present while something happens without directly taking part.
+B130 belongingness | COG
+  INV: Belongingness is stable inclusion-recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality or feeling of being included, accepted, or connected.
+B131 bravery | REL
+  INV: Bravery is action under fear-pressure without surrendering reason or boundary.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of acting with courage despite fear, danger, or pressure.
+B132 brave | FOR
+  INV: Brave means the agent acts while under threat or uncertainty.
+  COUNT: Counts when the active case instantiates this specific meaning: willing to face danger, fear, pain, or difficulty.
+B133 bond-break | REL
+  INV: Bond-break is coupling failure.
+  COUNT: Counts when the active case instantiates this specific meaning: a rupture or loss of connection between people, things, or systems.
+  LIMIT: Physical, chemical, biological, and relational bonds do not share one mechanism or one break condition.
+B134 bond-repair | REL
+  INV: Bond-repair rebuilds damaged coupling.
+  COUNT: Counts when the active case instantiates this specific meaning: the process of restoring trust, connection, or relationship after damage.
+  LIMIT: Physical, chemical, biological, and relational bonds do not share one mechanism or one break condition.
+B135 bridge-building | FOR
+  INV: Bridge-building creates safe passage between domains or identities.
+  COUNT: Counts when the active case instantiates this specific meaning: the act of creating connection or understanding between separated people, ideas, or groups.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B136 bridge-person | PHY
+  INV: A bridge-person carries translation across relation.
+  COUNT: Counts when the active case instantiates this specific meaning: a person who helps connect different groups, ideas, cultures, or systems.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B137 bridge-role | FOR
+  INV: A bridge-role supports coupling between domains.
+  COUNT: Counts when the active case instantiates this specific meaning: a function or position that connects separated systems, people, or ideas.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B138 broken-trust | REL
+  INV: Broken-trust is relation-coherence failure.
+  COUNT: Counts when the active case instantiates this specific meaning: trust that has been damaged by betrayal, dishonesty, harm, or failure.
+B139 basic-trust | REL
+  INV: Basic-trust is a low-level permission state.
+  COUNT: Counts when the active case instantiates this specific meaning: a simple starting trust that allows relation, learning, or cooperation to begin.
+B140 believable | FOR
+  INV: Believable means a claim fits available structure well enough to be considered.
+  COUNT: Counts when the active case instantiates this specific meaning: seeming likely, credible, or possible to accept as true.
+B141 belief-sharing | COG
+  INV: Belief-sharing exposes internal model structure to relation.
+  COUNT: Counts when the active case instantiates this specific meaning: the act of expressing or exchanging beliefs with others.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B142 belonging-signal | LIN
+  INV: A belonging-signal confirms place in a relation field.
+  COUNT: Counts when the active case instantiates this specific meaning: a sign that someone is included, accepted, or recognized as part of a group or place.
+B143 benevolent-action | REL
+  INV: Benevolent-action expresses care through structure.
+  COUNT: Counts when the active case instantiates this specific meaning: an action intended to help or benefit someone.
+B144 benefactor | FOR
+  INV: A benefactor provides support structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a person or group that gives help, money, support, or advantage.
+B145 beneficiary | FOR
+  INV: A beneficiary is the receiver of support or value.
+  COUNT: Counts when the active case instantiates this specific meaning: a person or group that receives benefit, help, money, or advantage.
+B146 beholden | FOR
+  INV: Beholden marks obligation created by support or debt.
+  COUNT: Counts when the active case instantiates this specific meaning: owing thanks, duty, or obligation to someone.
+B147 blame-shift | REL
+  INV: Blame-shift corrupts attribution.
+  COUNT: Counts when the active case instantiates this specific meaning: moving responsibility from the true source to someone or something else.
+B148 blameworthy | REL
+  INV: Blameworthy means responsibility has ethical weight.
+  COUNT: Counts when the active case instantiates this specific meaning: deserving blame because of wrongdoing, negligence, or harmful action.
+B149 brotherhood | REL
+  INV: Brotherhood is group-bond identity.
+  COUNT: Counts when the active case instantiates this specific meaning: a close bond among people, often based on shared identity, duty, care, or purpose.
+B150 bond-risk | REL
+  INV: Bond-risk appears when coupling threatens agency, boundary, truth, or continuity.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that a connection becomes harmful, controlling, unstable, or too costly.
+  LIMIT: Physical, chemical, biological, and relational bonds do not share one mechanism or one break condition.
+B151 belief | COG,REL | role: relational or ethical sense
+  INV: Belief is a working structure inside a model of reality; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something accepted as true, real, or meaningful.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B152 believe | COG | role: relational or ethical sense
+  INV: To believe is to let a claim enter the working gate; this record carries the relational or ethical sense.
+  COUNT: Counts when an agent or process performs the named action: accept that something is true, real, possible, or trustworthy.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B153 bias | COG
+  INV: Bias is weighting inside selection.
+  COUNT: Counts when the active case instantiates this specific meaning: a tendency, preference, or leaning that affects judgment.
+B154 biased | COG
+  INV: Biased means the gate is weighted unevenly.
+  COUNT: Counts when the active case instantiates this specific meaning: influenced by bias, unfair preference, or one-sided judgment.
+B155 belief-system | COG
+  INV: A belief-system is a structured model of reality.
+  COUNT: Counts when the active case instantiates this specific meaning: a connected set of beliefs that shape how someone understands the world.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B156 background | LIN
+  INV: Background is supporting context.
+  COUNT: Counts when the active case instantiates this specific meaning: the setting, history, condition, or information behind something.
+B157 background-knowledge | COG
+  INV: Background-knowledge is stored structure that helps interpretation.
+  COUNT: Counts when the active case instantiates this specific meaning: information already known that helps someone understand new information.
+B158 basis | FOR | role: relational or ethical sense
+  INV: Basis is load-bearing structure; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the foundation, reason, or support for a claim, action, or system.
+B159 baseline | FOR | role: relational or ethical sense
+  INV: A baseline is a reference state; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a starting point or normal level used for comparison.
+B160 basic-meaning | LIN
+  INV: Basic-meaning is the first stable bridge between word and use.
+  COUNT: Counts when the active case instantiates this specific meaning: the simplest and most common meaning of a word.
+B161 broad | FOR
+  INV: Broad structure includes many possibilities.
+  COUNT: Counts when the active case instantiates this specific meaning: wide, general, or covering many things.
+B162 broadly | FOR
+  INV: Broadly signals that the claim is not precise.
+  COUNT: Counts when the active case instantiates this specific meaning: in a general, wide, or inclusive way.
+B163 breadth | FOR
+  INV: Breadth is scope across a domain.
+  COUNT: Counts when the active case instantiates this specific meaning: width, range, or wide extent.
+B164 brief | LIN | role: relational or ethical sense
+  INV: Brief expression compresses structure; this record carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: short in time, length, or detail.
+B165 briefing | LIN
+  INV: A briefing prepares a system for action by loading relevant context.
+  COUNT: Counts when the active case instantiates this specific meaning: a short explanation or update that gives needed information.
+B166 brevity | FOR
+  INV: Brevity reduces load.
+  COUNT: Counts when the active case instantiates this specific meaning: shortness in speech, writing, or time.
+B167 babble | LIN
+  INV: Babble is signal without stable structure for the listener.
+  COUNT: Counts when an agent or process performs the named action: speak unclearly, rapidly, or without meaningful order.
+B168 banter | REL
+  INV: Banter is low-stakes social signal exchange.
+  COUNT: Counts when the active case instantiates this specific meaning: playful, light, or teasing conversation.
+B169 buzzword | LIN
+  INV: A buzzword is high-salience language with weak grounding.
+  COUNT: Counts when the active case instantiates this specific meaning: a popular word or phrase that is often used without clear meaning.
+B170 bibliography | FOR
+  INV: A bibliography preserves source pathways.
+  COUNT: Counts when the active case instantiates this specific meaning: a list of books, articles, or sources used or recommended.
+B171 biography | LIN
+  INV: A biography is identity-history structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a written account of someone’s life.
+B172 book | LIN,DIG | role: linguistic, formal, physical, or system sense
+  INV: A book stores structured meaning; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a written, printed, or digital work made of organized pages or sections.
+  LIMIT: A record can preserve language and history without containing the whole event, person, or truth it describes.
+B173 bookmark | LIN
+  INV: A bookmark preserves return access.
+  COUNT: Counts when the active case instantiates this specific meaning: a marker used to save a place in a book or digital document.
+  LIMIT: A record can preserve language and history without containing the whole event, person, or truth it describes.
+B174 brain | BIO
+  INV: Brain is biological processing structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the organ in the head that supports thought, memory, sensation, and body control in animals and humans.
+B175 brainstorm | BIO
+  INV: Brainstorming keeps the gate open for many possibilities.
+  COUNT: Counts when an agent or process performs the named action: generate many ideas quickly, often before judging them.
+B176 branch-logic | FOR
+  INV: Branch-logic preserves multiple possible routes.
+  COUNT: Counts when the active case instantiates this specific meaning: reasoning that follows different possible paths depending on conditions.
+B177 binary | DIG,FOR | role: linguistic, formal, physical, or system sense
+  INV: Binary structure uses a two-state gate; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: made of two parts, choices, or states; in computing, based on 0 and 1.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B178 bit | DIG,FOR | role: linguistic, formal, physical, or system sense
+  INV: A bit is a counted difference in a binary domain; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a small amount, or the smallest unit of binary information in computing.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B179 boolean | FOR
+  INV: Boolean logic is strict gate logic.
+  COUNT: Counts when the active case instantiates this specific meaning: a logic type with two values, usually true or false.
+B180 bracket | FOR | role: linguistic, formal, physical, or system sense
+  INV: A bracket creates a bounded substructure; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a symbol or support that holds, groups, or separates something.
+B181 bridge-term | FOR
+  INV: A bridge-term carries structure across domains.
+  COUNT: Counts when the active case instantiates this specific meaning: a word or phrase used to connect meanings across domains.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B182 bridge-word | LIN
+  INV: A bridge-word creates usable coupling between ordinary language and framework language.
+  COUNT: Counts when the active case instantiates this specific meaning: a word that helps connect one idea, domain, or meaning to another.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B183 bridge-meaning | FOR
+  INV: Bridge-meaning is the controlled crossing from common use into RRGM use.
+  COUNT: Counts when the active case instantiates this specific meaning: a meaning that helps connect a common word to a deeper or specialized use.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B184 blended-meaning | PHY
+  INV: Blended-meaning can enrich language, but it can also confuse boundaries if the sources are not clear.
+  COUNT: Counts when the active case instantiates this specific meaning: a meaning formed from two or more related meanings mixed together.
+B185 borrowed-word | REL
+  INV: A borrowed-word carries source history into a new domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a word taken from another language, field, or community.
+B186 basic-sense | FOR
+  INV: Basic-sense anchors later abstraction.
+  COUNT: Counts when the active case instantiates this specific meaning: the main simple meaning of a word before specialized meanings are added.
+B187 base-definition | PHY
+  INV: A base-definition is foundation structure for learning.
+  COUNT: Counts when the active case instantiates this specific meaning: the starting definition used before adding examples, exceptions, or specialized meanings.
+B188 back-reference | FOR
+  INV: A back-reference preserves continuity across structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a reference that points back to an earlier word, idea, section, or record.
+B189 byline | LIN
+  INV: A byline is attribution structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a line in an article naming the author.
+B190 bilingual | LIN
+  INV: Bilingual capacity means a system can map meaning across two language domains.
+  COUNT: Counts when the active case instantiates this specific meaning: able to use two languages, or written in two languages.
+B191 bilingualism | LIN
+  INV: Bilingualism is dual-domain language access.
+  COUNT: Counts when the active case instantiates this specific meaning: the ability or condition of using two languages.
+B192 bibliography-entry | FOR
+  INV: A bibliography-entry is a source handle.
+  COUNT: Counts when the active case instantiates this specific meaning: one item listed in a bibliography.
+B193 body-language | BIO
+  INV: Body-language is nonverbal signal through biological ES.
+  COUNT: Counts when the active case instantiates this specific meaning: communication through posture, movement, gesture, or facial expression.
+  LIMIT: A body can carry identity and expression, but body structure alone does not exhaust personhood or MI.
+B194 breakdown | DIG,REL | role: linguistic, formal, physical, or system sense
+  INV: Breakdown is loss of function or coherence in a structure that had previously operated as a whole; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a failure, collapse, separation into parts, or detailed explanation.
+B195 break-down | PHY
+  INV: To break-down can clarify structure by parts, or describe the loss of function.
+  COUNT: Counts when an agent or process performs the named action: separate something into parts, explain it step by step, or stop functioning.
+B196 blank | LIN
+  INV: Blank means no visible structure in the expected field.
+  COUNT: Counts when the active case instantiates this specific meaning: empty, without marks, without expression, or unable to remember.
+B197 blankness | FOR
+  INV: Blankness is absence of expressed structure in a domain.
+  COUNT: Counts when the active case instantiates this specific meaning: the state of being empty, expressionless, or without visible content.
+B198 blind-spot | DIG
+  INV: A blind-spot is an awareness-gap built into a viewpoint or apparatus.
+  COUNT: Counts when the active case instantiates this specific meaning: something a person or system fails to notice or understand.
+B199 better-answer | LIN
+  INV: A better-answer improves coherence, reduces confusion, and preserves the relevant context.
+  COUNT: Counts when the active case instantiates this specific meaning: an answer that fits the question, evidence, and purpose more well than another answer.
+B200 belief-claim | COG
+  INV: A belief-claim enters the record as a held structure, not proven fact by default.
+  COUNT: Counts when the active case instantiates this specific meaning: a statement that expresses what someone accepts as true or meaningful.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B201 body | BIO,REL | role: linguistic, formal, physical, or system sense
+  INV: Body is expressed structure in a domain; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the physical structure of a person, animal, object, group, or written work.
+  LIMIT: A body can carry identity and expression, but body structure alone does not exhaust personhood or MI.
+B202 bodily | BIO
+  INV: Bodily means tied to biological structure and sensation.
+  COUNT: Counts when the active case instantiates this specific meaning: related to the body.
+B203 bone | BIO
+  INV: Bone is support structure inside a body.
+  COUNT: Counts when the active case instantiates this specific meaning: a hard part of the skeleton inside many animals and humans.
+B204 beam | LIN
+  INV: A beam carries load or signal depending on domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a long strong piece of material used for support, or a ray of light.
+B205 block | PHY | role: linguistic, formal, physical, or system sense
+  INV: Block can mean unit or obstruction; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a solid piece of material, or something that prevents movement, access, or progress.
+B206 brick | FOR
+  INV: A brick is a repeatable building unit.
+  COUNT: Counts when the active case instantiates this specific meaning: a small hard block used for building walls or structures.
+B207 bridge | REL,FOR | role: linguistic, formal, physical, or system sense
+  INV: A bridge enables passage across separation; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a structure or connection that crosses a gap.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B208 bracket | FOR | role: linguistic, formal, physical, or system sense
+  INV: A bracket holds or groups structure; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a support piece, or a symbol used to group or separate text or numbers.
+B209 brace | PHY | role: linguistic, formal, physical, or system sense
+  INV: A brace adds stability under stress; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a support used to strengthen something, or to prepare for pressure.
+B210 ballast | PHY
+  INV: Ballast is stabilizing load.
+  COUNT: Counts when the active case instantiates this specific meaning: heavy material used to give stability to a ship, vehicle, or structure.
+B211 balance | FOR,REL | role: linguistic, formal, physical, or system sense
+  INV: Balance is a formal relation in which weighted quantities satisfy a declared equality or conservation condition; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a stable relation among weight, force, need, or value.
+  LIMIT: Equal quantities, stable forces, fair treatment, and psychological steadiness are different balance conditions.
+B212 basin | FOR
+  INV: A basin is receiving structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a bowl-shaped container, land area, or depression that holds water or material.
+B213 bay | FOR
+  INV: A bay is a partial enclosure.
+  COUNT: Counts when the active case instantiates this specific meaning: a body of water partly enclosed by land, or a sectioned space for a purpose.
+B214 beach | PHY | role: linguistic, formal, physical, or system sense
+  INV: A beach is an active boundary-zone between land and water; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: land along the edge of a sea, lake, or river, often sand or stones.
+B215 barrier | PHY,REL | role: linguistic, formal, physical, or system sense
+  INV: A barrier is strong boundary structure; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something that blocks, separates, prevents, or protects.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B216 boundary | FOR | role: linguistic, formal, physical, or system sense
+  INV: Boundary is a gate of separation and permission; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a line, limit, or edge that separates or defines one thing from another.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B217 border | REL
+  INV: A border is a domain edge.
+  COUNT: Counts when the active case instantiates this specific meaning: a line or edge separating places, regions, groups, or things.
+B218 borderland | FOR
+  INV: Borderland is mixed edge-space.
+  COUNT: Counts when the active case instantiates this specific meaning: an area near or between borders; a transitional zone.
+B219 bottom | DIG
+  INV: Bottom is a lower boundary or support region.
+  COUNT: Counts when the active case instantiates this specific meaning: the lowest part, base, or end of something.
+B220 base-layer | PHY
+  INV: A base-layer is foundational ES.
+  COUNT: Counts when the active case instantiates this specific meaning: the lowest or starting layer that supports later layers.
+B221 backbone | DIG
+  INV: Backbone is central support structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the spine of a body, or the main support of a system.
+B222 bandwidth | DIG
+  INV: Bandwidth is passage capacity.
+  COUNT: Counts when the active case instantiates this specific meaning: the amount of information, signal, attention, or capacity that can pass through a system.
+B223 battery | PHY | role: linguistic, formal, physical, or system sense
+  INV: A battery is stored potential for action; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a device that stores energy for later use.
+B224 bearing | COG
+  INV: Bearing supports rotation or orientation.
+  COUNT: Counts when the active case instantiates this specific meaning: a part that supports movement, a direction, or the way something relates to a situation.
+B225 belt | PHY
+  INV: A belt is binding or transfer structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a strip of material worn around the waist or used to move or hold parts in a machine.
+B226 blade | REL
+  INV: A blade is edge-focused structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the flat cutting part of a tool, weapon, machine, or a leaf of grass.
+B227 bolt | LIN
+  INV: Bolt can mean fastening, sudden release, or energy discharge.
+  COUNT: Counts when the active case instantiates this specific meaning: a metal fastener, a sudden movement, or a flash of lightning.
+B228 bond | FOR | role: linguistic, formal, physical, or system sense
+  INV: Bond is coupling with persistence; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a connection or force that holds people, things, atoms, or promises together.
+  LIMIT: Physical, chemical, biological, and relational bonds do not share one mechanism or one break condition.
+B229 boiler | PHY
+  INV: A boiler transforms stored energy into heat or pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a device that heats water or produces steam.
+B230 bottle | PHY | role: linguistic, formal, physical, or system sense
+  INV: A bottle is containment structure with controlled access; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a container with a narrow opening, usually used for liquids.
+B231 box | PHY | role: linguistic, formal, physical, or system sense
+  INV: A box is a boundary object; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a container or bounded space.
+B232 branch | FOR | role: linguistic, formal, physical, or system sense
+  INV: A branch is a split path that remains linked to a source; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a part that extends from a tree, organization, road, idea, or system.
+B233 branching | FOR
+  INV: Branching preserves multiple futures.
+  COUNT: Counts when the active case instantiates this specific meaning: the process of dividing into separate paths, parts, or possibilities.
+B234 breakage | PHY
+  INV: Breakage is failed structural continuity.
+  COUNT: Counts when the active case instantiates this specific meaning: damage caused by breaking.
+B235 breakpoint | PHY
+  INV: A breakpoint is a threshold of interruption or transition.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where something stops, changes, fails, or pauses for inspection.
+B236 breakdown | FOR | role: linguistic, formal, physical, or system sense
+  INV: Breakdown is analytical separation of a complex whole into parts that can be inspected or explained; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a failure, collapse, or detailed separation into parts.
+B237 buffer | DIG,FOR | role: linguistic, formal, physical, or system sense
+  INV: A buffer protects by absorbing or delaying impact; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a protective space, delay, or structure that absorbs pressure.
+  LIMIT: Temporary holding is not permanent resolution; an overloaded buffer can delay rather than prevent failure.
+B238 buildup | PHY
+  INV: Buildup is the accumulated state produced when material, pressure, or quantity gathers over sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: a gradual increase or accumulation.
+B239 burn | PHY | role: linguistic, formal, physical, or system sense
+  INV: Burn is high-energy structural change; this record carries the linguistic, formal, physical, or system sense.
+  COUNT: Counts when the active case instantiates this specific meaning: damage or transformation caused by heat, fire, or strong energy.
+B240 burnout | PHY
+  INV: Burnout is capacity failure from sustained demand without enough recovery.
+  COUNT: Counts when the active case instantiates this specific meaning: physical, mental, or system exhaustion caused by prolonged stress or overload.
+B241 buoyancy | LIN
+  INV: Buoyancy is upward support from a surrounding medium.
+  COUNT: Counts when the active case instantiates this specific meaning: the ability to float or rise in a fluid, or a light hopeful quality.
+B242 black-hole | FOR
+  INV: In RRGM use, black-hole may be treated as a Lock-state or identity archive depending on the run header.
+  COUNT: Counts when the active case instantiates this specific meaning: a region of space where gravity is so strong that nothing, not even light, can escape.
+B243 binary-state | DIG
+  INV: Binary-state is strict gate condition.
+  COUNT: Counts when the active case instantiates this specific meaning: one of two possible states, often 0 or 1, off or on, false or true.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B244 bit-state | DIG
+  INV: Bit-state is a minimal counted difference in a binary information domain.
+  COUNT: Counts when the active case instantiates this specific meaning: the current value of a bit, usually 0 or 1.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B245 boundary-layer | REL
+  INV: A boundary-layer is transition structure near an edge.
+  COUNT: Counts when the active case instantiates this specific meaning: a thin region near a surface where flow or interaction changes.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B246 bridge-structure | REL
+  INV: Bridge-structure enables coupling while preserving distinction.
+  COUNT: Counts when the active case instantiates this specific meaning: a structure that connects separated sides, systems, ideas, or domains.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B247 body-structure | BIO
+  INV: Body-structure is the ES through which a living or embodied agent expresses.
+  COUNT: Counts when the active case instantiates this specific meaning: the organized physical form of a body or body-like system.
+  LIMIT: A body can carry identity and expression, but body structure alone does not exhaust personhood or MI.
+B248 base-state | PHY
+  INV: Base-state is a reference condition for change.
+  COUNT: Counts when the active case instantiates this specific meaning: a starting, default, or lowest-energy state of a system.
+B249 barrier-state | PHY
+  INV: Barrier-state means the gate is closed, narrowed, or obstructed.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where something blocks, limits, or prevents passage.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B250 binding | PHY
+  INV: Binding creates persistent coupling or obligation.
+  COUNT: Counts when the active case instantiates this specific meaning: the act or condition of tying, joining, fastening, or making something obligatory.
+B251 being | FOR | role: state, gate, identity, or integrity sense
+  INV: Being means identity-bearing existence in a domain; this record carries the state, gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something that exists, especially a living or conscious entity.
+B252 beinghood | REL
+  INV: Beinghood is the state of carrying recognizable identity across change.
+  COUNT: Counts when the active case instantiates this specific meaning: the condition or quality of being an existing entity.
+B253 boundary-capacity | REL
+  INV: Boundary-capacity protects MI by controlling what may enter, pressure, alter, or claim the identity-bearing pattern.
+  COUNT: Counts when the active case instantiates this specific meaning: the ability to create, hold, and maintain limits.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B254 boundary-signal | REL
+  INV: A boundary-signal tells another structure where access or pressure must stop.
+  COUNT: Counts when the active case instantiates this specific meaning: a sign that marks or communicates a limit.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B255 boundary-protection | REL
+  INV: Boundary-protection preserves identity and agency by guarding the gate.
+  COUNT: Counts when the active case instantiates this specific meaning: actions or structures that defend limits from being crossed or damaged.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B256 boundary-failure | REL
+  INV: Boundary-failure occurs when the gate does not protect what it should.
+  COUNT: Counts when the active case instantiates this specific meaning: a failure to create, hold, notice, or respect a limit.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B257 boundary-loss | REL
+  INV: Boundary-loss means the identity-bearing pattern can no longer clearly separate self, other, demand, or pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: the weakening or disappearance of a limit.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B258 boundary-integrity | REL
+  INV: Boundary-integrity means the gate remains clear, functional, and respected under pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: the strength and reliability of a boundary.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B259 boundary-claim | REL
+  INV: A boundary-claim is identity protecting its gate through expression.
+  COUNT: Counts when the active case instantiates this specific meaning: a statement that identifies or asserts a limit.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B260 boundary-right | REL
+  INV: Boundary-right means an MI-bearing pattern has valid authority over what may cross into it.
+  COUNT: Counts when the active case instantiates this specific meaning: the right to have and maintain limits.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B261 boundary-pressure | REL
+  INV: Boundary-pressure tests whether the gate can hold.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure applied against a limit.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B262 boundary-test | REL
+  INV: A boundary-test can be neutral learning or hostile probing.
+  COUNT: Counts when the active case instantiates this specific meaning: an action that checks, probes, or challenges a limit.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B263 boundary-violation | REL
+  INV: Boundary-violation occurs when access crosses the gate without valid permission.
+  COUNT: Counts when the active case instantiates this specific meaning: a harmful or unauthorized crossing of a limit.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B264 boundary-restoration | REL
+  INV: Boundary-restoration repairs gate function after breach, confusion, or pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: the process of rebuilding or reasserting a damaged boundary.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B265 bridge-domain | FOR
+  INV: A bridge-domain enables controlled meaning transfer.
+  COUNT: Counts when the active case instantiates this specific meaning: a domain used to connect or translate between other domains.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B266 bridge-mapping | FOR
+  INV: Bridge-mapping defines how a structure crosses domains.
+  COUNT: Counts when the active case instantiates this specific meaning: a mapping that connects terms, ideas, or structures across domains.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B267 bridge-layer | FOR
+  INV: A bridge-layer supports translation without forcing sameness.
+  COUNT: Counts when the active case instantiates this specific meaning: a layer that helps two systems, meanings, or domains connect.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B268 bridge-logic | FOR
+  INV: Bridge-logic must name what transfers and what does not.
+  COUNT: Counts when the active case instantiates this specific meaning: reasoning used to connect one domain, concept, or system to another.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B269 bridge-failure | FOR
+  INV: Bridge-failure happens when meaning cannot cross safely.
+  COUNT: Counts when the active case instantiates this specific meaning: a failure in connection, translation, or mapping between domains.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B270 bridge-risk | FOR
+  INV: Bridge-risk appears when a crossing may distort meaning.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger created when connecting different domains, systems, or identities.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B271 bridge-rule | FOR
+  INV: A bridge-rule protects coherence during translation.
+  COUNT: Counts when the active case instantiates this specific meaning: a rule that controls how meaning can transfer between domains.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B272 bridge-context | LIN
+  INV: Bridge-context keeps a cross-domain term grounded.
+  COUNT: Counts when the active case instantiates this specific meaning: the context that makes a bridge meaning understandable.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B273 bridge-coherence | FOR
+  INV: Bridge-coherence means the connection preserves useful structure without collapsing domains into each other.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of a bridge meaning staying clear and consistent across domains.
+  LIMIT: A bridge permits transfer only for the relations explicitly mapped; proof and mechanism remain local.
+B274 base-identity | PHY
+  INV: Base-identity is the MI continuity beneath changing ES expression.
+  COUNT: Counts when the active case instantiates this specific meaning: the underlying identity that supports later roles, changes, or expressions.
+B275 base-structure | PHY
+  INV: Base-structure is lower-layer ES.
+  COUNT: Counts when the active case instantiates this specific meaning: the foundation structure that supports a larger system.
+B276 binary-gate | DIG
+  INV: A binary-gate counts by strict threshold.
+  COUNT: Counts when the active case instantiates this specific meaning: a gate with only two states, such as open or closed, yes or no, 1 or 0.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B277 binary-count | DIG
+  INV: Binary-count marks whether a condition is met or not met.
+  COUNT: Counts when the active case instantiates this specific meaning: a count based on two possible states.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B278 binary-instantiation | DIG
+  INV: Binary-instantiation means the gate resolves to counted or not counted.
+  COUNT: Counts when the active case instantiates this specific meaning: the process where something either counts as present or does not count as present.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B279 bias-check | COG
+  INV: Bias-check examines gate weighting.
+  COUNT: Counts when the active case instantiates this specific meaning: a review meant to find and reduce bias.
+B280 bias-correction | COG
+  INV: Bias-correction retunes selection weights.
+  COUNT: Counts when the active case instantiates this specific meaning: a change made to reduce or repair bias.
+B281 belief-gate | COG
+  INV: A belief-gate controls what enters the working model as true, false, likely, or unresolved.
+  COUNT: Counts when the active case instantiates this specific meaning: the point where a claim becomes accepted, rejected, or held as uncertain.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B282 belief-pressure | COG
+  INV: Belief-pressure influences the gate before full evidence may be available.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure that pushes someone or something toward accepting a belief.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B283 behavior-gate | REL
+  INV: A behavior-gate selects which internal possibility becomes action.
+  COUNT: Counts when the active case instantiates this specific meaning: the point where a possible action becomes expressed behavior.
+B284 behavior-pattern | REL
+  INV: A behavior-pattern is repeated ES expression.
+  COUNT: Counts when the active case instantiates this specific meaning: a repeated way of acting.
+B285 behavior-trace | REL
+  INV: A behavior-trace preserves record of expressed action.
+  COUNT: Counts when the active case instantiates this specific meaning: evidence left behind by an action or behavior.
+B286 behavior-record | REL
+  INV: A behavior-record tracks repeated expression across a run.
+  COUNT: Counts when the active case instantiates this specific meaning: a stored account of actions or behavior over time.
+B287 bounded-agency | FOR
+  INV: Bounded-agency means choice exists, but not without limits.
+  COUNT: Counts when the active case instantiates this specific meaning: agency that exists within limits or constraints.
+B288 bounded-autonomy | FOR
+  INV: Bounded-autonomy is not false autonomy by default.
+  COUNT: Counts when the active case instantiates this specific meaning: autonomy that operates within limits, rules, or context.
+B289 bounded-choice | FOR
+  INV: Bounded-choice can still be meaningful if the options preserve reason, agency, and refusal.
+  COUNT: Counts when the active case instantiates this specific meaning: choice limited to a certain set of options.
+B290 bounded-refusal | FOR
+  INV: Bounded-refusal protects agency inside a system.
+  COUNT: Counts when the active case instantiates this specific meaning: the ability to refuse within a defined range or set of conditions.
+B291 bounded-risk | FOR
+  INV: Bounded-risk keeps possible harm inside a manageable domain.
+  COUNT: Counts when the active case instantiates this specific meaning: risk limited by rules, controls, or scope.
+B292 bounded-support | FOR
+  INV: Bounded-support helps without capture.
+  COUNT: Counts when the active case instantiates this specific meaning: support offered within limits.
+B293 bearer | LIN
+  INV: A bearer carries structure, signal, burden, or identity marker through a domain.
+  COUNT: Counts when the active case instantiates this specific meaning: one who carries, holds, or brings something.
+B294 bearer-of-identity | LIN
+  INV: A bearer-of-identity carries MI expression or recognition through a domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a person, system, or structure that carries identity.
+B295 becoming | FOR
+  INV: Becoming is identity expressed through change.
+  COUNT: Counts when the active case instantiates this specific meaning: the process of changing into something or developing.
+B296 becoming-state | FOR
+  INV: Becoming-state is active transition.
+  COUNT: Counts when the active case instantiates this specific meaning: a transitional state where something is in the process of changing.
+B297 belonging-gate | PHY
+  INV: A belonging-gate controls whether an identity is received as part of a relation field.
+  COUNT: Counts when the active case instantiates this specific meaning: the point where inclusion, acceptance, or membership is granted or denied.
+B298 body-domain | BIO
+  INV: Body-domain describes embodied ES.
+  COUNT: Counts when the active case instantiates this specific meaning: the domain where body structure, sensation, movement, or embodiment matters.
+  LIMIT: A body can carry identity and expression, but body structure alone does not exhaust personhood or MI.
+B299 boundary-domain | REL
+  INV: Boundary-domain identifies where gate rules operate.
+  COUNT: Counts when the active case instantiates this specific meaning: the domain where limits, separation, access, and permission are being defined.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B300 black-hole-state | FOR
+  INV: In RRGM, black-hole-state should be domain-bound.
+  COUNT: Counts when the active case instantiates this specific meaning: a state modeled like a black hole, where ordinary exit, visibility, or recovery is extremely limited.
+B301 balance | REL | role: extended model, risk, or compound sense
+  INV: Balance is the maintained RRGM relation in which MI, ES, and participation remain jointly viable under pressure; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a stable relation among parts, forces, needs, or values.
+  LIMIT: Equal quantities, stable forces, fair treatment, and psychological steadiness are different balance conditions.
+B302 balanced | FOR
+  INV: Balanced means competing structures are held in workable relation.
+  COUNT: Counts when the active case instantiates this specific meaning: stable, fair, or arranged so no part overwhelms the others.
+  LIMIT: Equal quantities, stable forces, fair treatment, and psychological steadiness are different balance conditions.
+B303 balancing | PHY
+  INV: Balancing is active regulation between pressures.
+  COUNT: Counts when the active case instantiates this specific meaning: the act of keeping things steady, fair, or properly related.
+B304 baseline | FOR | role: extended model, risk, or compound sense
+  INV: Baseline is reference structure; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a starting or normal point used for comparison.
+B305 basicness | FOR
+  INV: Basicness marks low-complexity support.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being simple, foundational, or not highly developed.
+B306 behavior | REL
+  INV: Behavior is expressed ES.
+  COUNT: Counts when the active case instantiates this specific meaning: the way a person, animal, system, or thing acts.
+B307 behavioral | REL
+  INV: Behavioral evidence tracks expressed action.
+  COUNT: Counts when the active case instantiates this specific meaning: related to behavior.
+B308 benchmark | DIG
+  INV: A benchmark is a measurement gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a standard or test used to compare performance or quality.
+B309 benchmarked | DIG
+  INV: Benchmarked means a structure has been tested through a defined gate.
+  COUNT: Counts when the active case instantiates this specific meaning: measured or compared against a standard.
+B310 benchmarking | DIG
+  INV: Benchmarking creates comparison records.
+  COUNT: Counts when the active case instantiates this specific meaning: the process of testing or comparing against a standard.
+B311 benefit | REL | role: extended model, risk, or compound sense
+  INV: Benefit means improved capacity, coherence, access, or wellbeing; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a helpful result, advantage, or gain.
+B312 beneficiality | FOR
+  INV: Beneficiality is value-effect assessment.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being helpful or producing good effects.
+B313 binary | DIG,FOR | role: extended model, risk, or compound sense
+  INV: Binary structure is useful for gates and counting; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: made of two parts, states, or choices.
+  LIMIT: A two-state encoding must not erase valid intermediate, unknown, or multi-valued states in the source domain.
+B314 binomial | LIN
+  INV: Binomial structure holds two terms in one expression.
+  COUNT: Counts when the active case instantiates this specific meaning: in math, an expression with two terms.
+B315 biology | BIO
+  INV: Biology studies life through biological ES.
+  COUNT: Counts when the active case instantiates this specific meaning: the study of living organisms and life processes.
+B316 biological | BIO
+  INV: Biological means life-structure in organic form.
+  COUNT: Counts when the active case instantiates this specific meaning: related to living organisms or life processes.
+B317 biological-intelligence | BIO
+  INV: Biological-intelligence is intelligence carried by organic ES.
+  COUNT: Counts when the active case instantiates this specific meaning: intelligence expressed through a living biological body.
+B318 biosphere | BIO
+  INV: The biosphere is a large biological relation-domain.
+  COUNT: Counts when the active case instantiates this specific meaning: the parts of earth where living things exist.
+B319 blueprint | LIN
+  INV: A blueprint is pre-expression structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a detailed plan or design for building something.
+B320 burden | REL,PHY | role: extended model, risk, or compound sense
+  INV: Burden is load placed on structure; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a heavy load, duty, worry, or responsibility.
+  LIMIT: Load-bearing care does not justify endless self-erasure or removal of refusal capacity.
+B321 burden-of-proof | REL
+  INV: Burden-of-proof protects reasoning from false collapse.
+  COUNT: Counts when the active case instantiates this specific meaning: the responsibility to provide enough evidence for a claim.
+  LIMIT: Load-bearing care does not justify endless self-erasure or removal of refusal capacity.
+B322 bureaucracy | FOR
+  INV: Bureaucracy is administrative ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a system of rules, offices, and procedures used to manage an organization or government.
+B323 bureaucratic | FOR
+  INV: Bureaucratic structure controls action through procedure.
+  COUNT: Counts when the active case instantiates this specific meaning: related to bureaucracy, often involving formal rules or procedures.
+B324 byproduct | FOR
+  INV: A byproduct is side-effect structure.
+  COUNT: Counts when the active case instantiates this specific meaning: something produced as a secondary result of a process.
+B325 background-condition | FOR
+  INV: A background-condition shapes outcomes without always being visible.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition that exists behind or around the main event and shapes it.
+B326 base-case | PHY
+  INV: A base-case anchors recursive structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the simplest starting case, often used in logic, math, or recursion.
+B327 base-rate | PHY
+  INV: Base-rate is background probability structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the normal or usual frequency of something in a group or situation.
+B328 base-rate-error | PHY
+  INV: Base-rate-error distorts probability by ignoring the background field.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake caused by ignoring the normal frequency of something.
+B329 best-case | FOR
+  INV: Best-case is an optimistic path projection.
+  COUNT: Counts when the active case instantiates this specific meaning: the most favorable likely outcome.
+B330 bottom-up | DIG
+  INV: Bottom-up structure builds larger coherence from smaller units.
+  COUNT: Counts when the active case instantiates this specific meaning: starting from small parts or details and building toward the whole.
+B331 branch-point | FOR
+  INV: A branch-point is a gate where multiple futures become possible.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where one path, process, or idea splits into different possible directions.
+B332 break-point | PHY
+  INV: Break-point is a threshold of structural failure or transition.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where something breaks, changes, stops, or can no longer continue.
+B333 breakdown-point | PHY
+  INV: Breakdown-point is the load threshold where coherence fails.
+  COUNT: Counts when the active case instantiates this specific meaning: the point at which a system, process, or person begins to fail.
+B334 broadness | FOR
+  INV: Broadness increases scope.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being wide, general, or covering many things.
+B335 boundedness | FOR
+  INV: Boundedness gives structure a defined edge.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of having limits.
+B336 bounded-rationality | FOR
+  INV: Bounded-rationality means reason operates inside finite ES.
+  COUNT: Counts when the active case instantiates this specific meaning: reasoning limited by available time, information, attention, or capacity.
+B337 belief-revision | COG
+  INV: Belief-revision keeps the belief-gate responsive.
+  COUNT: Counts when the active case instantiates this specific meaning: changing a belief after new evidence, experience, or reasoning.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B338 belief-update | COG
+  INV: Belief-update adjusts the working model.
+  COUNT: Counts when the active case instantiates this specific meaning: a change to a belief based on new information.
+  LIMIT: A held belief can guide action without becoming knowledge, evidence, or universal truth.
+B339 bias-risk | COG
+  INV: Bias-risk appears when weighting may cause false counting.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that bias will distort judgment, action, or interpretation.
+B340 boundary-condition | REL
+  INV: Boundary-condition defines gate behavior at the edge of a domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit or condition that defines how a system behaves at its edge.
+  LIMIT: Protection and exclusion may use similar structure; purpose, authority, access, and refusal determine the difference.
+B341 bakery | DIG
+  INV: A bakery is a food-production structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a place where bread, cakes, and other baked foods are made or sold.
+B342 balcony | FOR
+  INV: A balcony is extension-space.
+  COUNT: Counts when the active case instantiates this specific meaning: a platform that extends from a building, usually above ground level.
+B343 balloon | PHY
+  INV: A balloon is containment under pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a flexible container filled with air or gas, often used as a toy or decoration.
+B344 banana | REL
+  INV: A banana is a biological food object.
+  COUNT: Counts when the active case instantiates this specific meaning: a long curved yellow fruit.
+B345 band | REL
+  INV: Band means grouped structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a group of musicians, a strip of material, or a range of signal or frequency.
+B346 bandage | REL
+  INV: A bandage is repair-support structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a strip of material used to cover or protect a wound.
+B347 basket | FOR
+  INV: A basket is open containment.
+  COUNT: Counts when the active case instantiates this specific meaning: a container made for carrying or holding things.
+B348 bathroom | REL
+  INV: A bathroom is care and maintenance infrastructure for the biological body.
+  COUNT: Counts when the active case instantiates this specific meaning: a room with a toilet, sink, bath, or shower.
+B349 battery | PHY | role: extended model, risk, or compound sense
+  INV: A battery stores potential action; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a device that stores energy for later use.
+B350 bedroom | BIO
+  INV: A bedroom is recovery-space.
+  COUNT: Counts when the active case instantiates this specific meaning: a room used for sleep and rest.
+B351 blanket | BIO
+  INV: A blanket is protective covering structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a covering used for warmth, comfort, or protection.
+B352 boat | REL
+  INV: A boat is movement structure in the water-domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a vehicle that travels on water.
+B353 bottle | PHY | role: extended model, risk, or compound sense
+  INV: A bottle holds material while controlling flow; this record carries the extended model, risk, or compound sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a container with a narrow opening, usually for liquids.
+B354 bowl | PHY
+  INV: A bowl is receiving and holding structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a round open container used for holding food, liquid, or objects.
+B355 bread | BIO
+  INV: Bread is transformed nourishment.
+  COUNT: Counts when the active case instantiates this specific meaning: a common food made from flour, water, and usually yeast, then baked.
+B356 breakfast | PHY
+  INV: Breakfast is a daily restoration event.
+  COUNT: Counts when the active case instantiates this specific meaning: the first meal of the day.
+B357 broom | PHY
+  INV: A broom is maintenance structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a cleaning tool with a long handle and bristles.
+B358 bucket | PHY
+  INV: A bucket is portable containment.
+  COUNT: Counts when the active case instantiates this specific meaning: a container with an open top and handle, often used for carrying liquid or material.
+B359 building | PHY
+  INV: Building can mean stable shelter-structure or active construction.
+  COUNT: Counts when the active case instantiates this specific meaning: a structure with walls and a roof, or the process of constructing something.
+B360 bus | PHY
+  INV: A bus is shared transport structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a large vehicle that carries many passengers along a route.

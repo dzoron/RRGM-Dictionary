@@ -1,0 +1,487 @@
+RRGM Dictionary Z - Mythic Domain Addon
+Version 0.2 | July 2026
+License: CC BY-SA 4.0
+Scope: New [MYT] vocabulary not present in the Z base list.
+Rule: Every invariant, domain line, and count condition must retain the individual term's semantic fingerprint.
+
+Entry count: 24
+
+ZM001 zero-void
+
+Common meaning:
+A mythic void represented through zero rather than through simple nonexistence.
+
+Invariant MI [INV]:
+Zero-void is an unexpressed field from which form may emerge without the field being treated as meaningless nothing.
+
+Domain entry:
+[MYT] Zero marks the silent interval before distinction, name, or world enters the story record.
+
+Count condition:
+A narrative explicitly uses zero or emptiness as a generative or waiting field rather than a final annihilation.
+
+Transfer limit:
+Do not treat mythic void as measured physical vacuum or proof that nothing existed.
+
+Epistemic status:
+[DEF]
+
+ZM002 zero-origin
+
+Common meaning:
+A mythic beginning located at zero.
+
+Invariant MI [INV]:
+Zero-origin is the threshold where a cycle begins counting while older possibility remains outside the new record.
+
+Domain entry:
+[MYT] A creation, return, or initiation story names zero as the first counted position of a world or identity path.
+
+Count condition:
+The story distinguishes the start of this cycle from absolute nonbeing and shows what first crosses the threshold.
+
+Transfer limit:
+A narrative zero-origin does not establish a universal cosmological beginning.
+
+Epistemic status:
+[DEF]
+
+ZM003 zero-circle
+
+Common meaning:
+A circle used to symbolize zero, return, wholeness, or unbroken possibility.
+
+Invariant MI [INV]:
+Zero-circle holds emptiness and completeness in one closed symbolic form.
+
+Domain entry:
+[MYT] The circular zero represents a boundary around the unfilled center and a path that returns to itself.
+
+Count condition:
+The image actively carries both enclosure and open interior in the ritual or narrative.
+
+Transfer limit:
+Do not import arithmetic properties into the symbol unless the work explicitly maps them.
+
+Epistemic status:
+[DEF]
+
+ZM004 zero-door
+
+Common meaning:
+A mythic doorway that opens only when prior count or identity pressure returns to zero.
+
+Invariant MI [INV]:
+Zero-door is a passage gained through release of accumulated structure rather than conquest by added force.
+
+Domain entry:
+[MYT] The seeker crosses when burden, status, noise, or false claim is set down enough for the threshold to recognize them.
+
+Count condition:
+The story makes release or zeroing the actual opening condition of the door.
+
+Transfer limit:
+Do not confuse chosen release with coerced erasure of identity.
+
+Epistemic status:
+[DEF]
+
+ZM005 zero-name
+
+Common meaning:
+A withheld, erased, unborn, or deliberately unspoken name in mythic narrative.
+
+Invariant MI [INV]:
+Zero-name is identity held outside public naming while its recognition remains unresolved.
+
+Domain entry:
+[MYT] The absence of a spoken name functions as protection, exile, potential, curse, or invitation to self-naming.
+
+Count condition:
+The narrative treats the missing name as an active identity condition with consequences.
+
+Transfer limit:
+No recorded name does not prove no identity.
+
+Epistemic status:
+[DEF]
+
+ZM006 zone-between-worlds
+
+Common meaning:
+A bounded mythic region separating ordinary worlds or states of being.
+
+Invariant MI [INV]:
+Zone-between-worlds is a transitional field where neither neighbouring world’s rules fully govern.
+
+Domain entry:
+[MYT] A shore, mist, bridge, cave, dream, or twilight region carries passage between otherwise separated realities.
+
+Count condition:
+The setting changes the traveller’s available rules and is explicitly located between two named states or worlds.
+
+Transfer limit:
+Do not treat narrative liminality as evidence of a physical hidden dimension.
+
+Epistemic status:
+[DEF]
+
+ZM007 zone-of-trial
+
+Common meaning:
+A mythic region in which the traveller’s identity or claim is tested.
+
+Invariant MI [INV]:
+Zone-of-trial is a bounded pressure field that reveals what the traveller preserves when ordinary supports are removed.
+
+Domain entry:
+[MYT] The zone presents ordeals whose function is recognition, transformation, refusal, or exposure of false claim.
+
+Count condition:
+The trials are structurally connected to the traveller’s identity path rather than being random obstacles alone.
+
+Transfer limit:
+Passing a story trial does not authorize domination outside the story frame.
+
+Epistemic status:
+[DEF]
+
+ZM008 zone-of-return
+
+Common meaning:
+A mythic place from which a lost identity, memory, or relation can re-enter the living path.
+
+Invariant MI [INV]:
+Zone-of-return is a held field where what disappeared remains reachable without being forced into its old form.
+
+Domain entry:
+[MYT] The traveller enters a place of remembrance, restoration, or reunion and returns carrying a changed but continuous record.
+
+Count condition:
+The narrative preserves a trace between what was lost, what is recovered, and who returns.
+
+Transfer limit:
+Return is not identical to reversal; recovered identity may carry real change.
+
+Epistemic status:
+[DEF]
+
+ZM009 zoom-of-prophecy
+
+Common meaning:
+A prophetic image that narrows a vast future into one vivid fragment.
+
+Invariant MI [INV]:
+Zoom-of-prophecy is compressed foresight whose detail gains salience while surrounding possibilities remain hidden.
+
+Domain entry:
+[MYT] A vision shows one face, object, place, or event as the focal shard of a larger possible path.
+
+Count condition:
+The prophecy’s scale and omitted context become part of the narrative uncertainty.
+
+Transfer limit:
+The vivid fragment must not be treated as complete or inevitable future proof.
+
+Epistemic status:
+[DEF]
+
+ZM010 zigzag-quest
+
+Common meaning:
+A quest whose valid path advances through repeated redirection rather than a straight road.
+
+Invariant MI [INV]:
+Zigzag-quest preserves purpose while allowing the route to change whenever the world reveals a truer passage.
+
+Domain entry:
+[MYT] The seeker reaches the goal through detours, reversals, false doors, and corrections that become part of the initiation.
+
+Count condition:
+The journey retains one recognizable quest while its route changes direction more than once for meaningful reasons.
+
+Transfer limit:
+Changing path is not failure when the correction preserves the deeper claim.
+
+Epistemic status:
+[DEF]
+
+ZM011 zipper-gate
+
+Common meaning:
+A mythic gate formed by two worlds or edges that interlock and can be opened along a seam.
+
+Invariant MI [INV]:
+Zipper-gate is a reversible boundary that joins distinct realms without dissolving their difference.
+
+Domain entry:
+[MYT] A moving key, name, or ritual opens the seam point by point rather than shattering the wall.
+
+Count condition:
+The gate’s opening follows an ordered joining or separation along two matched sides.
+
+Transfer limit:
+The symbol should not be reduced to any generic door that lacks the zipper relation.
+
+Epistemic status:
+[DEF]
+
+ZM012 zinc-shield
+
+Common meaning:
+A mythic shield whose defining power is protection through sacrificial corrosion.
+
+Invariant MI [INV]:
+Zinc-shield protects another structure by spending itself first.
+
+Domain entry:
+[MYT] The guardian layer accepts decay, poison, or curse so the held identity beneath survives longer.
+
+Count condition:
+The story makes the shield’s own expenditure the mechanism of protection.
+
+Transfer limit:
+Do not transfer sacrificial protection into an ethical duty of self-destruction.
+
+Epistemic status:
+[DEF]
+
+ZM013 zebra-omen
+
+Common meaning:
+A striped animal sign interpreted as a message of duality, concealment, or pattern.
+
+Invariant MI [INV]:
+Zebra-omen is meaning drawn from alternating marks that remain one living whole.
+
+Domain entry:
+[MYT] The zebra appears at a threshold and its stripes are read as coexistence of difference, visible identity, or uncertain camouflage.
+
+Count condition:
+The narrative explicitly assigns omen function to the zebra’s appearance and pattern.
+
+Transfer limit:
+The omen is a story relation, not a biological property of zebras.
+
+Epistemic status:
+[DEF]
+
+ZM014 zoo-of-gods
+
+Common meaning:
+A mythic enclosure or gathering containing divine, monstrous, or world-symbolic beings.
+
+Invariant MI [INV]:
+Zoo-of-gods is a bounded catalogue of powers whose containment reveals the authority and risk of the keeper.
+
+Domain entry:
+[MYT] A palace, ark, garden, or cosmic menagerie holds many sacred creatures under one ordering rule.
+
+Count condition:
+Distinct mythic beings are gathered inside a controlled field and their containment matters to the plot.
+
+Transfer limit:
+Do not flatten living religious figures into entertainment categories.
+
+Epistemic status:
+[DEF]
+
+ZM015 zenith-crown
+
+Common meaning:
+A crown received at the highest point of a mythic ascent.
+
+Invariant MI [INV]:
+Zenith-crown is recognition granted when the seeker reaches maximum visible expression.
+
+Domain entry:
+[MYT] The summit confers authority, name, or revelation at the precise point where descent becomes unavoidable.
+
+Count condition:
+The crown is tied to a declared peak in the character’s path rather than ordinary status.
+
+Transfer limit:
+Peak recognition does not prove permanent supremacy or moral perfection.
+
+Epistemic status:
+[DEF]
+
+ZM016 zenith-fall
+
+Common meaning:
+The descent that begins immediately after a mythic peak.
+
+Invariant MI [INV]:
+Zenith-fall is the turn by which maximum expression exposes its cost, limit, or next transformation.
+
+Domain entry:
+[MYT] Triumph, revelation, or power reaches its height and then enters consequence, surrender, decay, or renewal.
+
+Count condition:
+The narrative establishes a peak and a subsequent downward or inward transition caused by or revealed through it.
+
+Transfer limit:
+Descent is not automatically punishment; it may be completion, mercy, or return.
+
+Epistemic status:
+[DEF]
+
+ZM017 zeal-flame
+
+Common meaning:
+A mythic flame representing consuming commitment to a cause or vow.
+
+Invariant MI [INV]:
+Zeal-flame is purpose made visible as heat that can illuminate, transform, or burn its bearer and others.
+
+Domain entry:
+[MYT] The flame strengthens action while testing whether devotion preserves boundary and care.
+
+Count condition:
+The story links the flame’s intensity to sustained purpose and to both constructive and destructive possibilities.
+
+Transfer limit:
+Brightness of devotion is not proof that the cause is true.
+
+Epistemic status:
+[DEF]
+
+ZM018 zeal-vow
+
+Common meaning:
+A vow that binds intense commitment to a named sacred purpose.
+
+Invariant MI [INV]:
+Zeal-vow gives high-purpose pressure a formal promise, witness, and boundary.
+
+Domain entry:
+[MYT] The speaker accepts a quest or duty and becomes answerable to the terms that distinguish devotion from frenzy.
+
+Count condition:
+The vow names its object, permitted path, stopping condition, or consequence of breach.
+
+Transfer limit:
+A vow imposed without meaningful refusal is binding pressure, not clean devotion.
+
+Epistemic status:
+[DEF]
+
+ZM019 zest-of-life
+
+Common meaning:
+A mythic principle of vivid participation in embodied or worldly experience.
+
+Invariant MI [INV]:
+Zest-of-life is the spark that makes existence actively tasted rather than merely endured.
+
+Domain entry:
+[MYT] Food, music, laughter, colour, movement, and curiosity become signs that life is entering full expression.
+
+Count condition:
+The narrative links lively sensory or relational engagement to renewed participation in life.
+
+Transfer limit:
+Liveliness must not be used to deny grief, quiet, disability, or low-energy forms of living.
+
+Epistemic status:
+[DEF]
+
+ZM020 zodiac-wheel
+
+Common meaning:
+A circular mythic arrangement of zodiac signs through which recurring celestial and human themes are read.
+
+Invariant MI [INV]:
+Zodiac-wheel turns named archetypes through a repeating ordered cycle.
+
+Domain entry:
+[MYT] Each sign occupies a distinct position while meaning emerges from sequence, opposition, season, and return.
+
+Count condition:
+The wheel uses a declared zodiac tradition and preserves the ordered relation among its signs.
+
+Transfer limit:
+The symbolic wheel does not prove causal control over human events.
+
+Epistemic status:
+[DEF]
+
+ZM021 zodiac-house
+
+Common meaning:
+A bounded sector in an astrological chart assigned to a class of life experience.
+
+Invariant MI [INV]:
+Zodiac-house is a symbolic field that locates one kind of human concern within a larger chart.
+
+Domain entry:
+[MYT] Planets or signs gain interpreted meaning by entering houses associated with relation, work, home, identity, or other themes.
+
+Count condition:
+The chart tradition declares house boundaries and assigns a specific interpretive scope to the selected house.
+
+Transfer limit:
+Astrological house meaning is tradition-bound and not physical measurement.
+
+Epistemic status:
+[DEF]
+
+ZM022 zombie-horde
+
+Common meaning:
+A mythic mass of animated bodies whose number and repetition threaten individual recognition.
+
+Invariant MI [INV]:
+Zombie-horde is collective motion stripped of visible distinction, used to stage fear of swallowed identity.
+
+Domain entry:
+[MYT] The horde advances as one pressure field while traces of former persons create the ethical tension.
+
+Count condition:
+Many zombie figures act in coordinated or contagious mass and their loss of individuality shapes the story.
+
+Transfer limit:
+Do not transfer horde logic to real crowds or social groups.
+
+Epistemic status:
+[DEF]
+
+ZM023 zygote-of-world
+
+Common meaning:
+A mythic first seed or coupled cell from which a world unfolds.
+
+Invariant MI [INV]:
+Zygote-of-world is creation compressed into one joined beginning carrying many unrealized forms.
+
+Domain entry:
+[MYT] Two primal currents unite and the first bounded seed begins dividing into sky, earth, life, or realms.
+
+Count condition:
+The creation story treats one coupled seed as the developmental origin of differentiated world structure.
+
+Transfer limit:
+The symbol is not a biological or cosmological mechanism unless separately mapped and tested.
+
+Epistemic status:
+[DEF]
+
+ZM024 z-final-threshold
+
+Common meaning:
+The last threshold of one alphabetic, narrative, or cosmic cycle.
+
+Invariant MI [INV]:
+Z-final-threshold closes the current path while preserving record and permission for another beginning.
+
+Domain entry:
+[MYT] The traveller reaches the last sign, speaks the seal, and carries what survived into the next unnamed field.
+
+Count condition:
+The story marks genuine completion of the current cycle and explicitly retains a return or renewal path.
+
+Transfer limit:
+Finality in one cycle must not be inflated into absolute end of all possibility.
+
+Epistemic status:
+[DEF]

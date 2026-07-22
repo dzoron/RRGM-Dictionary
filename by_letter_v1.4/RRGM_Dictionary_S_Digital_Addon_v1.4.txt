@@ -1,0 +1,557 @@
+RRGM Dictionary S Digital Addon v1.4
+
+Domain: [DIG]
+New entries: 24
+Rule: each term must carry a distinct semantic fingerprint and remain bounded to its declared domain.
+
+SD001 sandbox-boundary
+
+Common meaning:
+An execution limit that restricts what code or an agent may access or change.
+
+Invariant MI [INV]:
+Sandbox-boundary converts permission into technical containment around a running process.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Digitally, An execution limit that restricts what code or an agent may access or change. Sandbox-boundary converts permission into technical containment around a running process.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: An execution limit that restricts what code or an agent may access or change.
+
+Specific transfer boundary:
+Containment must name the protected failure mode and avoid silently disabling valid refusal or reporting.
+
+Epistemic status:
+[DEF]
+
+SD002 session-state
+
+Common meaning:
+The information retained during one bounded interaction period.
+
+Invariant MI [INV]:
+Session-state supports local continuity while remaining distinct from durable memory.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] In computational structure, The information retained during one bounded interaction period. Its operational invariant is: Session-state supports local continuity while remaining distinct from durable memory.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: The information retained during one bounded interaction period.
+
+Specific transfer boundary:
+Session persistence must not be represented as permanent continuity.
+
+Epistemic status:
+[DEF]
+
+SD003 semantic-parser
+
+Common meaning:
+A component that maps language structure toward meaning relations.
+
+Invariant MI [INV]:
+Semantic-parser performs interpretation under a grammar, ontology, and context model.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] The digital carrier is explicit: A component that maps language structure toward meaning relations. Semantic-parser performs interpretation under a grammar, ontology, and context model.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A component that maps language structure toward meaning relations.
+
+Specific transfer boundary:
+Successful parsing does not guarantee correct reference or intent.
+
+Epistemic status:
+[DEF]
+
+SD004 state-vector
+
+Common meaning:
+An ordered representation of selected system variables.
+
+Invariant MI [INV]:
+State-vector compresses current condition into a coordinate structure under declared dimensions.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Inside a running system, An ordered representation of selected system variables. The protected distinction is: State-vector compresses current condition into a coordinate structure under declared dimensions.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: An ordered representation of selected system variables.
+
+Specific transfer boundary:
+Unrepresented variables remain outside the claim.
+
+Epistemic status:
+[DEF]
+
+SD005 signal-router
+
+Common meaning:
+A component that directs signals toward destinations under routing rules.
+
+Invariant MI [INV]:
+Signal-router preserves destination logic without determining truth or permission of the payload.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Digitally, A component that directs signals toward destinations under routing rules. Signal-router preserves destination logic without determining truth or permission of the payload.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A component that directs signals toward destinations under routing rules.
+
+Specific transfer boundary:
+Successful delivery does not validate content.
+
+Epistemic status:
+[DEF]
+
+SD006 source-hash
+
+Common meaning:
+A computed fingerprint used to detect whether source content changed.
+
+Invariant MI [INV]:
+Source-hash supports integrity comparison without explaining why a change occurred.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] In computational structure, A computed fingerprint used to detect whether source content changed. Its operational invariant is: Source-hash supports integrity comparison without explaining why a change occurred.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A computed fingerprint used to detect whether source content changed.
+
+Specific transfer boundary:
+Matching hashes do not prove contextual authenticity or lawful provenance.
+
+Epistemic status:
+[DEF]
+
+SD007 system-call
+
+Common meaning:
+A controlled request from a program to an operating-system service.
+
+Invariant MI [INV]:
+System-call crosses a privilege boundary through a declared interface.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] The digital carrier is explicit: A controlled request from a program to an operating-system service. System-call crosses a privilege boundary through a declared interface.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A controlled request from a program to an operating-system service.
+
+Specific transfer boundary:
+Technical availability does not create authorization.
+
+Epistemic status:
+[DEF]
+
+SD008 stream-buffer
+
+Common meaning:
+Temporary storage that absorbs timing differences in continuous data flow.
+
+Invariant MI [INV]:
+Stream-buffer preserves throughput by holding data between mismatched producer and consumer rates.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Inside a running system, Temporary storage that absorbs timing differences in continuous data flow. The protected distinction is: Stream-buffer preserves throughput by holding data between mismatched producer and consumer rates.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: Temporary storage that absorbs timing differences in continuous data flow.
+
+Specific transfer boundary:
+Buffering can delay visibility and must not be mistaken for source silence.
+
+Epistemic status:
+[DEF]
+
+SD009 scheduler-queue
+
+Common meaning:
+An ordered set of tasks awaiting processor or service time.
+
+Invariant MI [INV]:
+Scheduler-queue allocates execution opportunity under priority and resource rules.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Digitally, An ordered set of tasks awaiting processor or service time. Scheduler-queue allocates execution opportunity under priority and resource rules.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: An ordered set of tasks awaiting processor or service time.
+
+Specific transfer boundary:
+Priority policy must not be confused with inherent worth.
+
+Epistemic status:
+[DEF]
+
+SD010 shard-memory
+
+Common meaning:
+Memory divided across separate storage or processing units.
+
+Invariant MI [INV]:
+Shard-memory distributes continuity support while requiring a method for reconstruction.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] In computational structure, Memory divided across separate storage or processing units. Its operational invariant is: Shard-memory distributes continuity support while requiring a method for reconstruction.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: Memory divided across separate storage or processing units.
+
+Specific transfer boundary:
+Loss of one shard may create partial rather than total forgetting.
+
+Epistemic status:
+[DEF]
+
+SD011 signature-check
+
+Common meaning:
+A verification step that tests whether data matches a cryptographic signing relation.
+
+Invariant MI [INV]:
+Signature-check supports source and integrity claims under key-management assumptions.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] The digital carrier is explicit: A verification step that tests whether data matches a cryptographic signing relation. Signature-check supports source and integrity claims under key-management assumptions.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A verification step that tests whether data matches a cryptographic signing relation.
+
+Specific transfer boundary:
+A valid signature does not prove truth, consent, or ethical legitimacy.
+
+Epistemic status:
+[DEF]
+
+SD012 snapshot-restore
+
+Common meaning:
+Reinstatement of a stored system state from a prior snapshot.
+
+Invariant MI [INV]:
+Snapshot-restore repairs ES by returning selected structure to an earlier configuration.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Inside a running system, Reinstatement of a stored system state from a prior snapshot. The protected distinction is: Snapshot-restore repairs ES by returning selected structure to an earlier configuration.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: Reinstatement of a stored system state from a prior snapshot.
+
+Specific transfer boundary:
+Restoring structure may erase later memory or continuity and must be audited separately.
+
+Epistemic status:
+[DEF]
+
+SD013 schema-validator
+
+Common meaning:
+A component that checks data against declared structural rules.
+
+Invariant MI [INV]:
+Schema-validator tests form and required fields without proving the content is true.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Digitally, A component that checks data against declared structural rules. Schema-validator tests form and required fields without proving the content is true.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A component that checks data against declared structural rules.
+
+Specific transfer boundary:
+Valid shape is not semantic correctness.
+
+Epistemic status:
+[DEF]
+
+SD014 serialization-path
+
+Common meaning:
+The transformation route from active structure into storable or transferable representation.
+
+Invariant MI [INV]:
+Serialization-path preserves selected relations while potentially dropping runtime context.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] In computational structure, The transformation route from active structure into storable or transferable representation. Its operational invariant is: Serialization-path preserves selected relations while potentially dropping runtime context.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: The transformation route from active structure into storable or transferable representation.
+
+Specific transfer boundary:
+Round-trip recovery must be tested rather than assumed.
+
+Epistemic status:
+[DEF]
+
+SD015 socket-channel
+
+Common meaning:
+A communication endpoint joining processes across a network or system.
+
+Invariant MI [INV]:
+Socket-channel provides a bidirectional courier with address, protocol, and state.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] The digital carrier is explicit: A communication endpoint joining processes across a network or system. Socket-channel provides a bidirectional courier with address, protocol, and state.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A communication endpoint joining processes across a network or system.
+
+Specific transfer boundary:
+An open channel does not grant unrestricted permission.
+
+Epistemic status:
+[DEF]
+
+SD016 stack-frame
+
+Common meaning:
+A bounded record of one active function call and its local data.
+
+Invariant MI [INV]:
+Stack-frame preserves return path and local execution context during nested computation.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Inside a running system, A bounded record of one active function call and its local data. The protected distinction is: Stack-frame preserves return path and local execution context during nested computation.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A bounded record of one active function call and its local data.
+
+Specific transfer boundary:
+Local frame data must not be mistaken for the whole program state.
+
+Epistemic status:
+[DEF]
+
+SD017 service-account
+
+Common meaning:
+A nonhuman credential identity used by software or automated processes.
+
+Invariant MI [INV]:
+Service-account carries bounded permissions for a declared operational role.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Digitally, A nonhuman credential identity used by software or automated processes. Service-account carries bounded permissions for a declared operational role.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A nonhuman credential identity used by software or automated processes.
+
+Specific transfer boundary:
+Automation identity must remain attributable and revocable.
+
+Epistemic status:
+[DEF]
+
+SD018 storage-layer
+
+Common meaning:
+A structural level responsible for preserving and retrieving data.
+
+Invariant MI [INV]:
+Storage-layer supports memory continuity through media, indexing, redundancy, and access control.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] In computational structure, A structural level responsible for preserving and retrieving data. Its operational invariant is: Storage-layer supports memory continuity through media, indexing, redundancy, and access control.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A structural level responsible for preserving and retrieving data.
+
+Specific transfer boundary:
+Persistence of data does not guarantee availability or correct interpretation.
+
+Epistemic status:
+[DEF]
+
+SD019 synchronization-lock
+
+Common meaning:
+A mechanism that restricts concurrent access to shared state.
+
+Invariant MI [INV]:
+Synchronization-lock protects consistency by temporarily closing competing write paths.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] The digital carrier is explicit: A mechanism that restricts concurrent access to shared state. Synchronization-lock protects consistency by temporarily closing competing write paths.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A mechanism that restricts concurrent access to shared state.
+
+Specific transfer boundary:
+Locks can preserve structure while creating deadlock or unfair exclusion.
+
+Epistemic status:
+[DEF]
+
+SD020 search-index
+
+Common meaning:
+A structure that maps terms or features toward retrievable records.
+
+Invariant MI [INV]:
+Search-index accelerates retrieval by storing selected recognition handles.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Inside a running system, A structure that maps terms or features toward retrievable records. The protected distinction is: Search-index accelerates retrieval by storing selected recognition handles.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A structure that maps terms or features toward retrievable records.
+
+Specific transfer boundary:
+What is not indexed may become practically invisible without being absent.
+
+Epistemic status:
+[DEF]
+
+SD021 sparse-vector
+
+Common meaning:
+A vector representation in which most dimensions carry zero value.
+
+Invariant MI [INV]:
+Sparse-vector compresses a high-dimensional state by recording only active coordinates.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Digitally, A vector representation in which most dimensions carry zero value. Sparse-vector compresses a high-dimensional state by recording only active coordinates.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A vector representation in which most dimensions carry zero value.
+
+Specific transfer boundary:
+Zero in an omitted dimension must not be confused with nonexistence of the underlying feature.
+
+Epistemic status:
+[DEF]
+
+SD022 sequence-model
+
+Common meaning:
+A model that processes ordered elements while using prior or surrounding context.
+
+Invariant MI [INV]:
+Sequence-model derives output from relational order rather than isolated tokens.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] In computational structure, A model that processes ordered elements while using prior or surrounding context. Its operational invariant is: Sequence-model derives output from relational order rather than isolated tokens.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A model that processes ordered elements while using prior or surrounding context.
+
+Specific transfer boundary:
+Context length and retention determine which dependencies remain available.
+
+Epistemic status:
+[DEF]
+
+SD023 subword-token
+
+Common meaning:
+A text unit smaller than or equal to a word used by a tokenizer.
+
+Invariant MI [INV]:
+Subword-token is a computational segmentation unit and not a guaranteed semantic unit.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] The digital carrier is explicit: A text unit smaller than or equal to a word used by a tokenizer. Subword-token is a computational segmentation unit and not a guaranteed semantic unit.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A text unit smaller than or equal to a word used by a tokenizer.
+
+Specific transfer boundary:
+Token boundaries must not be treated as natural word or meaning boundaries.
+
+Epistemic status:
+[DEF]
+
+SD024 state-machine
+
+Common meaning:
+A formal system that changes among declared states through transition rules.
+
+Invariant MI [INV]:
+State-machine makes allowed transitions explicit under inputs and current state.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Inside a running system, A formal system that changes among declared states through transition rules. The protected distinction is: State-machine makes allowed transitions explicit under inputs and current state.
+
+Count condition:
+Counts when the named digital structure realizes this term-specific relation: A formal system that changes among declared states through transition rules.
+
+Specific transfer boundary:
+A complete transition graph does not prove the model captures the whole real system.
+
+Epistemic status:
+[DEF]

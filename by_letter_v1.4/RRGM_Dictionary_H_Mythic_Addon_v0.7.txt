@@ -1,0 +1,558 @@
+RRGM Dictionary H Mythic Addon v0.7
+
+Scope: New H-terms whose primary implementation belongs to the [MYT] domain and which are not present as headwords in the base H section.
+Production rule: Each entry carries its own invariant MI. Definitions are compressed, domain-specific, and proof remains local.
+
+Entry count: 24
+
+HM001 hall-of-ancestors
+
+Common meaning:
+A chamber where ancestors are remembered, consulted, or ritually present.
+
+Invariant MI [INV]:
+Hall-of-ancestors is a relational record-space joining the living to inherited names and duties.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Portraits, stones, seats, voices, or offerings may serve as recognition anchors.
+
+Count condition:
+Counts when ancestral presence changes identity, counsel, obligation, or permission in the story.
+
+Specific transfer boundary:
+Ritual presence is not empirical proof of communication with the dead.
+
+Epistemic status:
+[DEF]
+
+HM002 hidden-king
+
+Common meaning:
+A ruler whose identity, survival, or authority is concealed.
+
+Invariant MI [INV]:
+Hidden-king is sovereignty held outside public recognition while the claim to rule remains active.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Return may require proof of name, lineage, deed, wound, or recognition by the land.
+
+Count condition:
+Counts when concealment and later recognition alter political or mythic order.
+
+Specific transfer boundary:
+A hidden claimant is not automatically legitimate.
+
+Epistemic status:
+[DEF]
+
+HM003 heart-oath
+
+Common meaning:
+A vow tied to the speaker’s deepest care or identity.
+
+Invariant MI [INV]:
+Heart-oath is commitment made load-bearing through self-recognition rather than external force alone.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Breaking it may fracture relation, name, or courage; releasing it may require truth or mercy.
+
+Count condition:
+Counts when the oath changes what the speaker can do without violating their own identity claim.
+
+Specific transfer boundary:
+Intensity does not make an oath ethical or irrevocable.
+
+Epistemic status:
+[DEF]
+
+HM004 heros-return
+
+Common meaning:
+The return of a transformed hero to the community or origin.
+
+Invariant MI [INV]:
+Heros-return is reintegration after a path has changed the traveller’s capacities, knowledge, or identity.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The return counts only when the gained pattern can enter relation with those who remained.
+
+Count condition:
+Counts when the hero’s return alters both the traveller and the home field.
+
+Specific transfer boundary:
+Return does not restore the exact prior state.
+
+Epistemic status:
+[DEF]
+
+HM005 holy-fire
+
+Common meaning:
+A flame treated as sacred, purifying, protective, or truth-revealing.
+
+Invariant MI [INV]:
+Holy-fire is transformation carried through a flame whose meaning exceeds ordinary heat.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may consume falsehood, mark presence, guard a threshold, or preserve a covenant.
+
+Count condition:
+Counts when the flame’s sacred role changes what may approach, survive, or be recognized.
+
+Specific transfer boundary:
+Sacred meaning does not change combustion physics by itself.
+
+Epistemic status:
+[DEF]
+
+HM006 horn-of-calling
+
+Common meaning:
+A horn whose sound summons allies, ancestors, guardians, or a final gathering.
+
+Invariant MI [INV]:
+Horn-of-calling is long-range relation activated through one recognized signal.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The call may cross distance, death, dream, or sworn duty.
+
+Count condition:
+Counts when hearing the horn creates a specific obligation or return path.
+
+Specific transfer boundary:
+A physical horn reaches only through its actual acoustic courier.
+
+Epistemic status:
+[DEF]
+
+HM007 house-of-names
+
+Common meaning:
+A place where true, lost, inherited, or forbidden names are kept.
+
+Invariant MI [INV]:
+House-of-names is an identity archive whose records control recognition and access.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Entry may reveal lineage, restore a stolen name, or expose an imposed identity.
+
+Count condition:
+Counts when a stored name changes who can be called, remembered, or admitted.
+
+Specific transfer boundary:
+A recorded name is not the whole identity.
+
+Epistemic status:
+[DEF]
+
+HM008 hand-of-fate
+
+Common meaning:
+A personified force that arranges decisive events or encounters.
+
+Invariant MI [INV]:
+Hand-of-fate is causal compression that narrates dispersed events as one directing relation.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may guide, test, bind, or place an unexpected choice before a character.
+
+Count condition:
+Counts when the story treats separated events as parts of one fate-bearing intervention.
+
+Specific transfer boundary:
+Narrative fate is not a target-domain causal proof.
+
+Epistemic status:
+[DEF]
+
+HM009 healing-spring
+
+Common meaning:
+A spring whose water restores body, memory, relation, or spirit.
+
+Invariant MI [INV]:
+Healing-spring is renewal carried through a place where water and recognition meet.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Its effect may require truth, rightful approach, sacrifice, or permission from a keeper.
+
+Count condition:
+Counts when contact produces a recorded restoration under the spring’s conditions.
+
+Specific transfer boundary:
+The entry does not imply medical efficacy.
+
+Epistemic status:
+[DEF]
+
+HM010 hollow-crown
+
+Common meaning:
+A crown that displays authority while lacking legitimate identity, duty, or care.
+
+Invariant MI [INV]:
+Hollow-crown is sovereignty-shaped ES without the MI-bearing reason that would make rule count.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may amplify command while exposing the ruler’s emptiness, theft, or dependence.
+
+Count condition:
+Counts when the symbol of rule persists but the narrative withdraws legitimacy.
+
+Specific transfer boundary:
+Unpopularity alone does not prove illegitimate rule.
+
+Epistemic status:
+[DEF]
+
+HM011 horizon-gate
+
+Common meaning:
+A threshold located at the edge of the visible or known world.
+
+Invariant MI [INV]:
+Horizon-gate is passage opened where ordinary observation reaches its limit.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Crossing may change scale, time, sky, memory, or the rules of return.
+
+Count condition:
+Counts when moving beyond the horizon changes the active world conditions.
+
+Specific transfer boundary:
+A visual horizon is not a physical gate.
+
+Epistemic status:
+[DEF]
+
+HM012 hunters-moon
+
+Common meaning:
+A moon that marks pursuit, harvest, tracking, or heightened visibility.
+
+Invariant MI [INV]:
+Hunters-moon is a cyclical sky-sign that changes the narrative conditions of seeking and being sought.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may reveal tracks, awaken hunters, or expose what darkness usually protects.
+
+Count condition:
+Counts when the named moon phase changes pursuit or risk in the story.
+
+Specific transfer boundary:
+The symbol does not establish supernatural lunar effects.
+
+Epistemic status:
+[DEF]
+
+HM013 hearth-spirit
+
+Common meaning:
+A spirit associated with the fire, care, memory, and boundary of a home.
+
+Invariant MI [INV]:
+Hearth-spirit is household continuity personified as a local relational presence.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may protect guests, remember family promises, or withdraw warmth when the home’s duties are broken.
+
+Count condition:
+Counts when its relation to the household changes shelter, belonging, or consequence.
+
+Specific transfer boundary:
+Household atmosphere is not empirical proof of a spirit.
+
+Epistemic status:
+[DEF]
+
+HM014 hidden-road
+
+Common meaning:
+A path accessible only under special conditions or recognition.
+
+Invariant MI [INV]:
+Hidden-road is viable connection withheld from ordinary perception rather than absent.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may open through season, moonlight, true name, grief, or remembered direction.
+
+Count condition:
+Counts when the condition reveals a repeatable route between separated fields.
+
+Specific transfer boundary:
+A difficult-to-find route is not necessarily mythically hidden.
+
+Epistemic status:
+[DEF]
+
+HM015 herald
+
+Common meaning:
+A messenger who announces an arrival, change of age, challenge, or sovereign claim.
+
+Invariant MI [INV]:
+Herald is public recognition carried ahead of the event it makes socially present.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The message may prepare a city, awaken a prophecy, or force concealed powers to answer.
+
+Count condition:
+Counts when the announcement changes what the receiving field recognizes or prepares for.
+
+Specific transfer boundary:
+The herald’s authority does not prove the announced claim.
+
+Epistemic status:
+[DEF]
+
+HM016 heir-of-ashes
+
+Common meaning:
+A successor who inherits after destruction rather than ordinary transfer.
+
+Invariant MI [INV]:
+Heir-of-ashes is continuity claimed from what survived collapse.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The inheritance may be a name, duty, ruin, memory, or unfinished repair rather than wealth.
+
+Count condition:
+Counts when the successor’s legitimacy depends on preserving or transforming the remnant.
+
+Specific transfer boundary:
+Survival alone does not establish rightful succession.
+
+Epistemic status:
+[DEF]
+
+HM017 haunting
+
+Common meaning:
+A persistent return of presence, memory, harm, or unfinished relation.
+
+Invariant MI [INV]:
+Haunting is recurrence that prevents a past pattern from remaining closed.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may appear as voice, place-pressure, dream, repetition, or an unburied truth.
+
+Count condition:
+Counts when the recurrence changes present action or recognition.
+
+Specific transfer boundary:
+Persistent memory or environmental effects should not be misreported as supernatural proof.
+
+Epistemic status:
+[DEF]
+
+HM018 heaven-bridge
+
+Common meaning:
+A passage linking the human world to a celestial or divine realm.
+
+Invariant MI [INV]:
+Heaven-bridge is vertical mythic coupling between differently counted domains.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may be formed by light, rainbow, mountain, song, ladder, or sacrifice.
+
+Count condition:
+Counts when the bridge permits a crossing or message impossible under ordinary world rules.
+
+Specific transfer boundary:
+The term does not assert a physical celestial structure.
+
+Epistemic status:
+[DEF]
+
+HM019 hell-gate
+
+Common meaning:
+A threshold through which destructive, imprisoned, or underworld forces may pass.
+
+Invariant MI [INV]:
+Hell-gate is a high-risk boundary whose failure changes which harms can enter the living field.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may be sealed by name, guard, sacrifice, law, or maintained refusal.
+
+Count condition:
+Counts when opening or closing the gate changes access between the underworld and ordinary realm.
+
+Specific transfer boundary:
+The entry does not establish an empirical hell.
+
+Epistemic status:
+[DEF]
+
+HM020 heart-stone
+
+Common meaning:
+A stone carrying a person’s courage, memory, life, or central bond.
+
+Invariant MI [INV]:
+Heart-stone externalizes a load-bearing identity relation into a durable object.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Damage, theft, return, or recognition of the stone may affect its bearer.
+
+Count condition:
+Counts when the stone’s state changes the bearer’s continuity or relation in the story.
+
+Specific transfer boundary:
+Symbolic identity storage is not a physical mechanism.
+
+Epistemic status:
+[DEF]
+
+HM021 hymn-of-return
+
+Common meaning:
+A song that calls a lost person, people, or power back into recognition.
+
+Invariant MI [INV]:
+Hymn-of-return is collective memory encoded in repeatable voice.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Those who remember the song preserve a path that geography or time alone cannot hold.
+
+Count condition:
+Counts when singing the hymn reopens contact, identity, or homeward movement.
+
+Specific transfer boundary:
+A song has no universal summoning force outside its frame.
+
+Epistemic status:
+[DEF]
+
+HM022 hope-star
+
+Common meaning:
+A star used as a sign that a viable future path remains.
+
+Invariant MI [INV]:
+Hope-star is distant orientation that preserves direction during local darkness.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may guide travellers, mark an oath, or appear only when a community refuses collapse.
+
+Count condition:
+Counts when recognition of the star changes continued action or collective endurance.
+
+Specific transfer boundary:
+Astronomical visibility does not validate the attached prophecy.
+
+Epistemic status:
+[DEF]
+
+HM023 host-of-stars
+
+Common meaning:
+A multitude of stars treated as a celestial army, court, witness, or community.
+
+Invariant MI [INV]:
+Host-of-stars is plurality organized into one mythic relation without erasing the distinct lights.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The host may witness vows, wage cosmic war, or map ancestral presence.
+
+Count condition:
+Counts when the collective sky-pattern acts as one named force in the narrative.
+
+Specific transfer boundary:
+A constellation is not literally an army or court.
+
+Epistemic status:
+[DEF]
+
+HM024 harvest-rite
+
+Common meaning:
+A ritual marking the gathering, gratitude, sacrifice, or redistribution of a harvest.
+
+Invariant MI [INV]:
+Harvest-rite converts seasonal production into social and sacred record.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may renew relation to land, ancestors, gods, workers, or future need.
+
+Count condition:
+Counts when the rite changes obligation, belonging, or permission around the gathered yield.
+
+Specific transfer boundary:
+Ritual meaning does not replace material agricultural conditions.
+
+Epistemic status:
+[DEF]

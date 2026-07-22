@@ -1,0 +1,43 @@
+RRGM Dictionary Y De-Templating Audit v0.2
+
+Entries reviewed: 180
+Invariants reviewed: 180
+Domain implementation lines reviewed: 419
+Count conditions reviewed: 180
+Exact duplicate semantic lines: 0
+High-similarity same-field pairs at or above 0.82: 0
+Known generic-template phrase hits: 0
+Duplicate source headwords explicitly role-separated: 5
+
+Interpretation:
+- Zero exact duplicate semantic lines is required.
+- Similarity flags are review prompts, not automatic failures.
+- Duplicate source headwords are preserved only with explicit semantic roles and cross-reference.
+- Final acceptance still requires the headword swap test and neighbor distinction review.
+
+Duplicate source headwords:
+- yes-risk: Y063, Y153
+- yield-risk: Y072, Y161
+- young-state: Y025, Y132
+- youth-risk: Y077, Y172
+- youth-state: Y026, Y133
+
+Most common active-domain sets:
+- [DIG], [FOR]: 20 entries
+- [REL]: 10 entries
+- [LIN], [REL], [DIG]: 9 entries
+- [REL], [DIG]: 8 entries
+- [REL], [COG]: 8 entries
+- [LIN], [COG]: 7 entries
+- [BIO], [REL]: 7 entries
+- [REL], [BIO]: 7 entries
+- [LIN], [REL]: 6 entries
+- [LIN], [FOR]: 6 entries
+- [PHY], [REL]: 5 entries
+- [REL], [PHY]: 5 entries
+- [COG], [REL]: 5 entries
+- [REL], [DIG], [FOR]: 5 entries
+- [REL], [LIN]: 4 entries
+
+Highest similarity review prompts:
+- None above threshold.

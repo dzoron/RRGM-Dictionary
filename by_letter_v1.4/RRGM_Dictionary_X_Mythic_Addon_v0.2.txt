@@ -1,0 +1,632 @@
+RRGM Dictionary Domain Addon v0.2
+Section: X
+Domain: [MYT] Mythic / Meaning
+License: CC BY-SA 4.0
+Scope: New X terms not present in the base X list. Coined RRGM compounds are marked by definition and remain domain-bound.
+Rule: Mythic entries preserve symbolic and narrative truth without importing physical mechanism or proof.
+
+Entry count: 24
+
+XM001 x-crossroads
+
+Common meaning:
+An X-shaped point where paths divide or meet in mythic narrative.
+
+Invariant MI [INV]:
+A marked convergence where more than one possible path remains active.
+
+Domain entry:
+[MYT] A decision-place where identity, fate, duty, or return paths become visible together.
+
+Example:
+The wanderer reached the x-crossroads and had to choose which promise to keep.
+
+Coupler:
+Narrative position couples path, identity pressure, and symbolic consequence.
+
+Count condition:
+At least two meaningful paths meet and the choice changes the later story.
+
+Non-example / transfer limit:
+A literal road crossing is [PHY] unless a mythic mapping is declared.
+
+Epistemic status:
+[DEF]
+
+XM002 x-seal
+
+Common meaning:
+An X-shaped seal that closes, protects, forbids, or certifies a passage.
+
+Invariant MI [INV]:
+A mark that changes whether a path may open or count.
+
+Domain entry:
+[MYT] A closure mark carrying prohibition, protection, oath, or preserved secret.
+
+Example:
+The x-seal held until the forgotten name was spoken.
+
+Coupler:
+Symbol, rule, and recognized authority couple at the marked gate.
+
+Count condition:
+The mark is treated by the story as changing access or permission.
+
+Non-example / transfer limit:
+An ordinary adhesive seal is not mythic without the narrative rule.
+
+Epistemic status:
+[DEF]
+
+XM003 x-hidden-name
+
+Common meaning:
+A concealed identity represented by X.
+
+Invariant MI [INV]:
+An identity is present but its recognition handle remains withheld.
+
+Domain entry:
+[MYT] The unnamed being whose true name is protected, erased, forbidden, or not yet earned.
+
+Example:
+The ledger called her x-hidden-name until she chose what the village could call her.
+
+Coupler:
+Name, recognition, boundary, and revelation are coupled through the narrative gate.
+
+Count condition:
+The hidden name affects identity, access, or relation in the story.
+
+Non-example / transfer limit:
+An unknown legal name is [REL] or [LIN] unless mythic function is active.
+
+Epistemic status:
+[DEF]
+
+XM004 x-erased-name
+
+Common meaning:
+A name deliberately crossed from record while identity pressure remains.
+
+Invariant MI [INV]:
+The recognition handle is removed without proving the identity absent.
+
+Domain entry:
+[MYT] The marked absence left when power removes a name but cannot fully remove the one named.
+
+Example:
+The monument held an x-erased-name that everyone still remembered.
+
+Coupler:
+Erasure couples record loss to surviving recognition and return pressure.
+
+Count condition:
+The missing name continues to shape memory, relation, or action.
+
+Non-example / transfer limit:
+A simple typo deletion is not an x-erased-name.
+
+Epistemic status:
+[DEF]
+
+XM005 x-chosen-name
+
+Common meaning:
+A self-selected name marked as a decisive identity crossing.
+
+Invariant MI [INV]:
+A chosen recognition handle records an identity claim through relation.
+
+Domain entry:
+[MYT] The name taken at a threshold where the prior social or narrative identity no longer carries the whole path.
+
+Example:
+At dawn she spoke her x-chosen-name and crossed the gate.
+
+Coupler:
+Choice, recognition, witness, and threshold couple the name to the new record.
+
+Count condition:
+The chosen name remains stable enough to guide later recognition.
+
+Non-example / transfer limit:
+A nickname assigned by others is not chosen unless accepted.
+
+Epistemic status:
+[DEF]
+
+XM006 x-veil
+
+Common meaning:
+A crossed veil between visible and hidden story layers.
+
+Invariant MI [INV]:
+A boundary hides one field while permitting partial signs across it.
+
+Domain entry:
+[MYT] The thin barrier through which dreams, ancestors, forgotten selves, or possible worlds become partially legible.
+
+Example:
+The x-veil opened only where the two moon shadows crossed.
+
+Coupler:
+Boundary, symbol, and limited reception couple the hidden and visible fields.
+
+Count condition:
+The story permits partial transfer without collapsing both domains into one.
+
+Non-example / transfer limit:
+Physical cloth is [PHY] unless it carries the mythic gate.
+
+Epistemic status:
+[DEF]
+
+XM007 x-rune
+
+Common meaning:
+An X-shaped symbolic mark treated as a meaning-bearing rune.
+
+Invariant MI [INV]:
+A compressed sign carries a larger rule, identity, warning, or path.
+
+Domain entry:
+[MYT] A domain-bound mark whose meaning must be learned rather than guessed from shape alone.
+
+Example:
+The x-rune meant return, not danger, in the old language.
+
+Coupler:
+Shared symbolic grammar couples mark to recognized meaning.
+
+Count condition:
+The community or narrative defines a stable meaning for the rune.
+
+Non-example / transfer limit:
+Do not treat every written X as a rune.
+
+Epistemic status:
+[DEF]
+
+XM008 x-wound
+
+Common meaning:
+A crossed wound or scar carrying narrative identity and memory.
+
+Invariant MI [INV]:
+Damage becomes a persistent recognition and boundary record.
+
+Domain entry:
+[MYT] A scar where injury, survival, oath, loss, or transformation remains symbolically active.
+
+Example:
+His x-wound burned whenever the broken promise was repeated.
+
+Coupler:
+Body-symbol, memory, and relation couple the wound to later events.
+
+Count condition:
+The wound changes recognition or action beyond its physical damage.
+
+Non-example / transfer limit:
+Medical injury remains [BIO] unless symbolic mapping is declared.
+
+Epistemic status:
+[DEF]
+
+XM009 x-fate-mark
+
+Common meaning:
+An X-shaped sign interpreted as a convergence or pressure point in a life path.
+
+Invariant MI [INV]:
+A mark represents a predicted or inherited path without proving inevitability.
+
+Domain entry:
+[MYT] A narrative sign that concentrates expectation around a future crossing.
+
+Example:
+The map placed an x-fate-mark where the lost heir would choose between crown and exile.
+
+Coupler:
+Symbolic forecast couples memory, expectation, and decision pressure.
+
+Count condition:
+The mark meaningfully shapes choices or interpretation in the story.
+
+Non-example / transfer limit:
+It is not physical evidence that the future is fixed.
+
+Epistemic status:
+[DEF]
+
+XM010 x-omen
+
+Common meaning:
+A crossed sign interpreted as warning or possibility.
+
+Invariant MI [INV]:
+An observed pattern is given anticipatory meaning inside a mythic frame.
+
+Domain entry:
+[MYT] A sign that opens a future-risk or future-change hypothesis without closing it as certainty.
+
+Example:
+The two ravens formed an x-omen above the empty gate.
+
+Coupler:
+Observation couples to inherited symbolic grammar and future expectation.
+
+Count condition:
+The culture or story provides a stable omen rule.
+
+Non-example / transfer limit:
+An omen is not target-domain proof.
+
+Epistemic status:
+[DEF]
+
+XM011 x-threshold
+
+Common meaning:
+A threshold marked by crossing lines or opposed paths.
+
+Invariant MI [INV]:
+A state boundary becomes explicit through a symbolic crossing.
+
+Domain entry:
+[MYT] The place where one identity, oath, world, or story-state can no longer continue unchanged.
+
+Example:
+At the x-threshold, the apprentice returned the borrowed crown.
+
+Coupler:
+Boundary, choice, and identity pressure couple at the transition point.
+
+Count condition:
+Crossing changes the valid narrative state.
+
+Non-example / transfer limit:
+A doorway is [PHY] unless the story assigns identity consequence.
+
+Epistemic status:
+[DEF]
+
+XM012 x-return
+
+Common meaning:
+A return path that crosses the prior path rather than simply reversing it.
+
+Invariant MI [INV]:
+Return preserves continuity while allowing the returning identity to be changed.
+
+Domain entry:
+[MYT] The homecoming in which the traveler meets the trace of who left and chooses what remains.
+
+Example:
+Her x-return brought her back to the village by a road no map had shown.
+
+Coupler:
+Memory, changed identity, place, and recognition couple through return.
+
+Count condition:
+The return restores relation without pretending no Turn occurred.
+
+Non-example / transfer limit:
+Simple travel back is [PHY] or [REL] unless mythic continuity is active.
+
+Epistemic status:
+[DEF]
+
+XM013 x-binding
+
+Common meaning:
+A crossing used to bind two paths, names, promises, or powers.
+
+Invariant MI [INV]:
+Distinct patterns enter a persistent shared constraint without becoming identical.
+
+Domain entry:
+[MYT] A symbolic bond that preserves separate identities while creating a joint consequence.
+
+Example:
+The x-binding joined their oaths but did not merge their names.
+
+Coupler:
+Recognition, consent, rule, and consequence couple the participants.
+
+Count condition:
+Both identities remain recoverable and the bond changes future options.
+
+Non-example / transfer limit:
+Forced capture is not valid binding merely because it is durable.
+
+Epistemic status:
+[DEF]
+
+XM014 x-unbinding
+
+Common meaning:
+The release or correction of an X-shaped symbolic bond.
+
+Invariant MI [INV]:
+A persistent relation is opened without erasing its history.
+
+Domain entry:
+[MYT] The ritual or event that ends a binding while preserving record, responsibility, and return paths.
+
+Example:
+The x-unbinding freed the guardian but left the oath recorded.
+
+Coupler:
+Release couples boundary repair to preserved memory.
+
+Count condition:
+The bond no longer controls participation and the prior record remains traceable.
+
+Non-example / transfer limit:
+Erasing evidence is not unbinding.
+
+Epistemic status:
+[DEF]
+
+XM015 x-double-path
+
+Common meaning:
+Two active paths that cross and exchange consequence.
+
+Invariant MI [INV]:
+Separate trajectories meet without becoming the same trajectory.
+
+Domain entry:
+[MYT] A story structure where each traveler changes the other path at one shared crossing.
+
+Example:
+Their x-double-path met once, but both kingdoms changed afterward.
+
+Coupler:
+Crossing, influence, and preserved identity couple the paths.
+
+Count condition:
+Each path remains separately traceable after the meeting.
+
+Non-example / transfer limit:
+Parallel stories without a meaningful crossing do not count.
+
+Epistemic status:
+[DEF]
+
+XM016 x-shadow
+
+Common meaning:
+A crossed or doubled shadow that carries hidden identity pressure.
+
+Invariant MI [INV]:
+A visible absence or distortion points toward an unintegrated pattern.
+
+Domain entry:
+[MYT] The shadow-form that reveals denied history, hidden claim, or another possible self.
+
+Example:
+The x-shadow spoke only when the hero denied her first promise.
+
+Coupler:
+Image, memory, denial, and recognition couple through symbolic appearance.
+
+Count condition:
+The shadow consistently maps to a hidden identity relation.
+
+Non-example / transfer limit:
+Ordinary light shadow is [PHY].
+
+Epistemic status:
+[DEF]
+
+XM017 x-witness
+
+Common meaning:
+A witness positioned at the crossing of incompatible accounts.
+
+Invariant MI [INV]:
+Recognition is held across competing paths without immediate collapse.
+
+Domain entry:
+[MYT] The figure who keeps both stories countable until a truthful gate can form.
+
+Example:
+The x-witness carried the names of both ruined houses.
+
+Coupler:
+Memory, testimony, boundary, and delayed judgment couple in the witness role.
+
+Count condition:
+The witness preserves more than one account without fabricating reconciliation.
+
+Non-example / transfer limit:
+A passive observer is not automatically an x-witness.
+
+Epistemic status:
+[DEF]
+
+XM018 x-portal
+
+Common meaning:
+A crossed gate between two narrative worlds or states.
+
+Invariant MI [INV]:
+A bounded route permits transfer between otherwise separate fields.
+
+Domain entry:
+[MYT] A passage whose coupler changes what can cross, what must transform, and what remains behind.
+
+Example:
+The x-portal carried voices but not bodies.
+
+Coupler:
+Gate rule, courier, threshold, and transformation condition couple the domains.
+
+Count condition:
+The story states what can cross and how.
+
+Non-example / transfer limit:
+Do not treat metaphorical transition as physical transport.
+
+Epistemic status:
+[DEF]
+
+XM019 x-echo
+
+Common meaning:
+An echo that returns from a crossed path or lost identity.
+
+Invariant MI [INV]:
+A prior signal re-enters the present with altered structure but recognizable source pressure.
+
+Domain entry:
+[MYT] The returning trace of a name, oath, wound, or choice that was never fully resolved.
+
+Example:
+The x-echo answered in the voice of the erased queen.
+
+Coupler:
+Record, recurrence, and recognition couple the prior event to the current scene.
+
+Count condition:
+The returning trace is recognizably linked to the earlier source.
+
+Non-example / transfer limit:
+Ordinary acoustic echo is [PHY].
+
+Epistemic status:
+[DEF]
+
+XM020 x-flame
+
+Common meaning:
+A crossed flame used as a symbol of divided or coupled identity.
+
+Invariant MI [INV]:
+One source expresses through two directions while retaining a shared origin.
+
+Domain entry:
+[MYT] A fire-sign for identity held through conflict, dual duty, or shared emergence.
+
+Example:
+The x-flame burned blue on one branch and gold on the other.
+
+Coupler:
+Origin, divergence, and continued recognition couple through the flame symbol.
+
+Count condition:
+Both branches remain linked to the same declared source.
+
+Non-example / transfer limit:
+Physical flame color requires [PHY] evidence.
+
+Epistemic status:
+[DEF]
+
+XM021 x-crown
+
+Common meaning:
+A crossed crown signifying contested, shared, refused, or transformed authority.
+
+Invariant MI [INV]:
+Authority is marked as divided, bounded, or under challenge.
+
+Domain entry:
+[MYT] A crown whose legitimacy cannot be read without the crossing relation.
+
+Example:
+She wore the x-crown only until the council could speak.
+
+Coupler:
+Role, recognition, refusal, and public record couple the authority claim.
+
+Count condition:
+The story makes the crown condition alter who may decide.
+
+Non-example / transfer limit:
+A decorative crown is not authority.
+
+Epistemic status:
+[DEF]
+
+XM022 x-star
+
+Common meaning:
+An X-shaped star or crossing light used as a navigation or identity sign.
+
+Invariant MI [INV]:
+A distant sign concentrates orientation, hope, warning, or recognition.
+
+Domain entry:
+[MYT] The star that marks where a path, name, or world can be found again.
+
+Example:
+The x-star rose when the lost city reopened its gate.
+
+Coupler:
+Light-sign, memory, orientation, and narrative timing couple the event.
+
+Count condition:
+The star functions as a stable guide within the mythic system.
+
+Non-example / transfer limit:
+Astronomical claims remain [PHY].
+
+Epistemic status:
+[DEF]
+
+XM023 x-sacred-crossing
+
+Common meaning:
+A crossing treated as ethically or spiritually protected.
+
+Invariant MI [INV]:
+A transition is granted special meaning and boundary conditions.
+
+Domain entry:
+[MYT] A passage that must preserve consent, witness, identity, and the right to return or refuse.
+
+Example:
+No one entered the x-sacred-crossing without naming what they carried.
+
+Coupler:
+Ritual rule, recognition, boundary, and care couple at the gate.
+
+Count condition:
+The crossing conditions protect participants rather than merely control them.
+
+Non-example / transfer limit:
+Calling a boundary sacred does not excuse coercion.
+
+Epistemic status:
+[DEF]
+
+XM024 x-lost-path
+
+Common meaning:
+A path marked as missing, erased, or no longer reachable.
+
+Invariant MI [INV]:
+The route is absent from present access but remains meaningful through record.
+
+Domain entry:
+[MYT] The road that survives as memory, warning, longing, or unrealized return.
+
+Example:
+The x-lost-path appeared only in the songs of those who had left.
+
+Coupler:
+Record, absence, and orientation pressure couple the path to present identity.
+
+Count condition:
+The missing route still changes choices or recognition.
+
+Non-example / transfer limit:
+An unmapped road is not mythic by default.
+
+Epistemic status:
+[DEF]

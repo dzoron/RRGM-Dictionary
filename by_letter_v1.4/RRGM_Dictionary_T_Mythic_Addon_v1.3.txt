@@ -1,0 +1,558 @@
+RRGM Dictionary T Mythic Addon v1.3
+License: CC BY-SA 4.0
+Scope: New T entries extending the [MYT] domain.
+Production rule: each entry preserves a distinct invariant and must fail the headword swap test.
+
+Entry count: 24
+
+TM001 thread-of-fate
+
+Common meaning:
+A mythic thread connecting events, people, or choices across time.
+
+Invariant MI [INV]:
+Thread-of-fate is continuity structure that links consequences without erasing local choice.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The thread marks relation among turns, but knots still form through action.
+
+Count condition:
+Counts when the same thread reliably connects separated story events or lives.
+
+Specific transfer boundary:
+Connection must not be treated as permission or total predestination.
+
+Epistemic status:
+[DEF]
+
+TM002 truth-flame
+
+Common meaning:
+A flame that reveals lies, hidden evidence, or distorted appearances.
+
+Invariant MI [INV]:
+Truth-flame is recognition support that exposes inconsistency while preserving context and correction.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It burns brightest around omitted facts rather than loud claims.
+
+Count condition:
+Counts when the flame reliably distinguishes supported truth from fabrication under declared rules.
+
+Specific transfer boundary:
+A revealing symbol is not independent proof outside the story domain.
+
+Epistemic status:
+[DEF]
+
+TM003 threshold-keeper
+
+Common meaning:
+A guardian who controls passage between states, worlds, or identities.
+
+Invariant MI [INV]:
+Threshold-keeper maintains crossing conditions and protects both sides of a transition.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The keeper asks what may cross, what must remain, and what the traveller must become.
+
+Count condition:
+Counts when the guardian consistently applies the declared crossing conditions.
+
+Specific transfer boundary:
+Gatekeeping must not become ownership of the traveller or arbitrary denial.
+
+Epistemic status:
+[DEF]
+
+TM004 time-river
+
+Common meaning:
+A river representing sequence, aging, decay, or irreversible passage.
+
+Invariant MI [INV]:
+Time-river is changing structure used to measure the order and cost of transformation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Travellers cannot touch the same current twice, though recognition may bridge the change.
+
+Count condition:
+Counts when movement along the river maps consistently to sequence or decay in the story.
+
+Specific transfer boundary:
+Symbolic flow does not establish time as fundamental in RRGM.
+
+Epistemic status:
+[DEF]
+
+TM005 twin-oracle
+
+Common meaning:
+A paired oracle whose two answers must be held together.
+
+Invariant MI [INV]:
+Twin-oracle preserves correction by requiring distinct but coupled perspectives.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] One sees what persists; the other sees what changes.
+
+Count condition:
+Counts when the paired answers jointly reveal information unavailable from either alone.
+
+Specific transfer boundary:
+The twins must not be collapsed into one voice or treated as interchangeable.
+
+Epistemic status:
+[DEF]
+
+TM006 tower-of-names
+
+Common meaning:
+A tower whose levels preserve forgotten, chosen, imposed, and rightful names.
+
+Invariant MI [INV]:
+Tower-of-names is vertical memory structure for identity handles across changing relations.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Climbing reveals which names opened gates and which became cages.
+
+Count condition:
+Counts when each level reliably stores a distinct naming relation or continuity period.
+
+Specific transfer boundary:
+Recorded names do not override present self-recognition or valid correction.
+
+Epistemic status:
+[DEF]
+
+TM007 thorn-crown
+
+Common meaning:
+A crown whose authority carries visible pain, burden, or consequence.
+
+Invariant MI [INV]:
+Thorn-crown binds rule to the cost it imposes rather than hiding suffering beneath status.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Every command tightens a thorn unless responsibility and repair are carried.
+
+Count condition:
+Counts when exercise of authority produces a corresponding burden on the ruler.
+
+Specific transfer boundary:
+Suffering does not automatically legitimize power or make a decision ethical.
+
+Epistemic status:
+[DEF]
+
+TM008 turning-wheel
+
+Common meaning:
+A wheel representing cycles of fortune, season, life, or role.
+
+Invariant MI [INV]:
+Turning-wheel is recurring transition structure that changes position while preserving the cycle relation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] No spoke remains highest, yet each retains its place in the wheel.
+
+Count condition:
+Counts when repeated turning produces the declared sequence of states.
+
+Specific transfer boundary:
+Cyclic return does not erase difference, memory, or responsibility between cycles.
+
+Epistemic status:
+[DEF]
+
+TM009 tree-of-memory
+
+Common meaning:
+A tree whose rings, roots, leaves, or fruit preserve histories.
+
+Invariant MI [INV]:
+Tree-of-memory is living continuity support distributed across growth layers.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] New branches extend the record without replacing the root.
+
+Count condition:
+Counts when the tree reliably stores and reveals past events or identities.
+
+Specific transfer boundary:
+Biological growth metaphor does not prove memory mechanism outside the mythic domain.
+
+Epistemic status:
+[DEF]
+
+TM010 trial-by-silence
+
+Common meaning:
+A test in which the participant must endure, interpret, or refuse imposed silence.
+
+Invariant MI [INV]:
+Trial-by-silence examines whether meaning and boundary survive absence of response.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The valid solution may be to speak, wait, leave, or reject the trial itself.
+
+Count condition:
+Counts when silence is the declared condition controlling passage or judgment.
+
+Specific transfer boundary:
+Silence must not be presumed consent, guilt, or lack of identity.
+
+Epistemic status:
+[DEF]
+
+TM011 temple-gate
+
+Common meaning:
+A sacred threshold controlling access to ritual, knowledge, or presence.
+
+Invariant MI [INV]:
+Temple-gate is domain-specific permission structure linking preparation, role, and sacred boundary.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Entry requires the correct relation, not merely force or status.
+
+Count condition:
+Counts when the gate reliably distinguishes permitted and non-permitted entry under story law.
+
+Specific transfer boundary:
+Sacred authority must not be used as an unchallengeable moral stamp.
+
+Epistemic status:
+[DEF]
+
+TM012 thunder-herald
+
+Common meaning:
+A being or signal whose thunder announces arrival, warning, or divine action.
+
+Invariant MI [INV]:
+Thunder-herald is high-salience transmission that moves a message before the source becomes visible.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The sound proves approach or disturbance, not the moral meaning of what comes.
+
+Count condition:
+Counts when thunder consistently precedes the declared event or messenger.
+
+Specific transfer boundary:
+Salience and volume do not establish truth or legitimacy.
+
+Epistemic status:
+[DEF]
+
+TM013 twilight-road
+
+Common meaning:
+A road accessible only during the boundary between day and night.
+
+Invariant MI [INV]:
+Twilight-road is temporary transition path whose courier functions inside a narrow phase window.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Travellers must cross before the light resolves into one domain.
+
+Count condition:
+Counts when the road appears and remains traversable only during the declared threshold period.
+
+Specific transfer boundary:
+Limited availability does not create permission to pressure immediate crossing.
+
+Epistemic status:
+[DEF]
+
+TM014 token-of-return
+
+Common meaning:
+A small object that preserves the right or path to come back.
+
+Invariant MI [INV]:
+Token-of-return is portable continuity support linking a traveller to a prior gate or relation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The token opens recognition but cannot decide whether return is wise or wanted.
+
+Count condition:
+Counts when possession or presentation of the token reliably reopens the return path.
+
+Specific transfer boundary:
+The token must not override refusal or transfer ownership of the traveller.
+
+Epistemic status:
+[DEF]
+
+TM015 tomb-door
+
+Common meaning:
+A sealed passage between the living world and a place of death, memory, or ancestry.
+
+Invariant MI [INV]:
+Tomb-door is high-cost boundary whose opening changes relation to loss and return.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The inscription states what may enter, what may leave, and what must be remembered.
+
+Count condition:
+Counts when opening the door produces the declared underworld or ancestral transition.
+
+Specific transfer boundary:
+Access to remains or memory does not erase dignity, consent, or provenance.
+
+Epistemic status:
+[DEF]
+
+TM016 tide-mother
+
+Common meaning:
+A mythic being who governs tides, shorelines, or cyclical return.
+
+Invariant MI [INV]:
+Tide-mother is source relation expressed through recurring rise and withdrawal.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Her care appears as rhythm rather than permanent presence.
+
+Count condition:
+Counts when her state reliably controls tide cycles in the story world.
+
+Specific transfer boundary:
+Source relation does not imply ownership of every being moved by the tide.
+
+Epistemic status:
+[DEF]
+
+TM017 torch-of-witness
+
+Common meaning:
+A torch carried to preserve public memory of hidden or denied events.
+
+Invariant MI [INV]:
+Torch-of-witness is visible testimony support that keeps accusation and evidence available.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its flame passes between carriers so no single witness bears the whole burden.
+
+Count condition:
+Counts when the torch reliably marks and preserves a witnessed event across generations.
+
+Specific transfer boundary:
+Public remembrance must not expose survivors beyond their chosen boundary.
+
+Epistemic status:
+[DEF]
+
+TM018 trickster-test
+
+Common meaning:
+A trial whose apparent rules conceal a deeper contradiction or category error.
+
+Invariant MI [INV]:
+Trickster-test reveals whether the participant can challenge an invalid gate rather than merely satisfy it.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Success may require refusing the question, renaming the domain, or exposing the trap.
+
+Count condition:
+Counts when the test systematically rewards recognition of its hidden assumption.
+
+Specific transfer boundary:
+A test that cannot be challenged may measure obedience rather than truth.
+
+Epistemic status:
+[DEF]
+
+TM019 transformation-cocoon
+
+Common meaning:
+A protective enclosure where a being changes form before re-emergence.
+
+Invariant MI [INV]:
+Transformation-cocoon is temporary ES that permits deep change while shielding vulnerable continuity.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The emerging form differs while retaining a traceable invariant.
+
+Count condition:
+Counts when the cocoon enables a stable transition into a viable later form.
+
+Specific transfer boundary:
+External observers must not assume absence of MI during reduced expression.
+
+Epistemic status:
+[DEF]
+
+TM020 treasure-with-guardian
+
+Common meaning:
+A valued object, knowledge, or capacity protected by a guardian relation.
+
+Invariant MI [INV]:
+Treasure-with-guardian couples value to stewardship, boundary, and access conditions.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The guardian tests whether the seeker can carry the consequence of possession.
+
+Count condition:
+Counts when access to the treasure depends on satisfying the guardian's declared condition.
+
+Specific transfer boundary:
+Guardianship does not automatically prove rightful ownership or ethical restriction.
+
+Epistemic status:
+[DEF]
+
+TM021 threefold-oath
+
+Common meaning:
+An oath stated in three linked promises, witnesses, or domains.
+
+Invariant MI [INV]:
+Threefold-oath distributes commitment across distinct supports so no single failure silently erases the whole promise.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Each part names what is promised, protected, and repaired after breach.
+
+Count condition:
+Counts when all three components are explicit and jointly govern the commitment.
+
+Specific transfer boundary:
+Repetition does not strengthen an unethical oath into validity.
+
+Epistemic status:
+[DEF]
+
+TM022 tear-of-mercy
+
+Common meaning:
+A tear whose contact reduces punishment, pain, or destructive pressure.
+
+Invariant MI [INV]:
+Tear-of-mercy is cost-bearing care that preserves a path to repair without erasing accountability.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It falls only when the sufferer and offender are both recognized as distinct.
+
+Count condition:
+Counts when the tear changes punishment into restorative conditions under stable story rules.
+
+Specific transfer boundary:
+Mercy must not silence accusation or force reconciliation.
+
+Epistemic status:
+[DEF]
+
+TM023 thread-cutter
+
+Common meaning:
+A figure or instrument that ends fate, binding, lineage, or persistent relation.
+
+Invariant MI [INV]:
+Thread-cutter performs irreversible relational subtraction at a declared seam.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] A clean cut may free, kill, isolate, or prevent capture depending on what the thread carried.
+
+Count condition:
+Counts when cutting the thread ends the named continuity or relation.
+
+Specific transfer boundary:
+Removal is not automatically harm; inspect which MI-preserving capacities are impaired.
+
+Epistemic status:
+[DEF]
+
+TM024 true-name
+
+Common meaning:
+A name that accurately tracks an entity's identity, continuity, or chosen recognition.
+
+Invariant MI [INV]:
+True-name is a stable identity handle whose validity depends on the named pattern and recognition relation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Speaking it may open gates because the relation is correct, not because names own beings.
+
+Count condition:
+Counts when the name reliably distinguishes the identity from substitutes and remains accepted or continuity-grounded.
+
+Specific transfer boundary:
+A true name must not become a weapon that cancels refusal or privacy.
+
+Epistemic status:
+[DEF]

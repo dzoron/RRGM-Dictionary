@@ -1,0 +1,558 @@
+RRGM Dictionary D Mythic Addon v0.9
+License: CC BY-SA 4.0
+Scope: New D-terms whose primary implementation belongs to the [MYT] domain.
+Rule: Addon terms are absent from the source base list and remain domain-local unless a coupler is declared.
+
+Entry count: 24
+
+DM001 dark-door
+
+Common meaning:
+A threshold hidden by darkness or opened through it.
+
+Invariant MI [INV]:
+Dark-door is a mythic access boundary whose conditions remain concealed until the traveller enters relation with it.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may open to a name, fear, wound, light, or truth carried by the one who approaches.
+
+Count condition:
+Counts when the darkness changes who can find, open, or return through the door.
+
+Specific transfer boundary:
+A dark physical doorway is not automatically a mythic threshold.
+
+Epistemic status:
+[DEF]
+
+DM002 dawn-name
+
+Common meaning:
+A name revealed or restored at first light.
+
+Invariant MI [INV]:
+Dawn-name is identity recognition that becomes possible when concealment ends and a new cycle begins.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Speaking it may release a captive identity, begin a reign, or return memory after a long night.
+
+Count condition:
+Counts when dawn and naming jointly change recognition, authority, or continuity.
+
+Specific transfer boundary:
+Morning light alone does not prove hidden identity.
+
+Epistemic status:
+[DEF]
+
+DM003 death-road
+
+Common meaning:
+A path travelled by the dead or by those crossing toward death.
+
+Invariant MI [INV]:
+Death-road is a mythic route between active life, ancestral record, and the realm of the dead.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its gates may require burial rites, a guide, a token, or an unfinished obligation.
+
+Count condition:
+Counts when entering the road changes the traveller relation to life, return, or memory.
+
+Specific transfer boundary:
+A dangerous physical road is not the same domain.
+
+Epistemic status:
+[DEF]
+
+DM004 dream-key
+
+Common meaning:
+A key found, made, or usable only inside dream.
+
+Invariant MI [INV]:
+Dream-key is access carried by symbolic recognition rather than ordinary material fit.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may open sealed memory, future possibility, another dreamer, or a hidden name.
+
+Count condition:
+Counts when the key opens a dream-bound threshold that waking tools cannot access.
+
+Specific transfer boundary:
+Dream access is not evidence of physical entry.
+
+Epistemic status:
+[DEF]
+
+DM005 dream-witness
+
+Common meaning:
+A being who observes and remembers events inside dream.
+
+Invariant MI [INV]:
+Dream-witness is continuity that preserves record across a field where ordinary evidence is unstable.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The witness may carry testimony between dreamers or from dream into waking relation.
+
+Count condition:
+Counts when remembered observation changes interpretation, action, or recognition.
+
+Specific transfer boundary:
+Dream testimony is not automatically factual history.
+
+Epistemic status:
+[DEF]
+
+DM006 dragon-oath
+
+Common meaning:
+A vow made to, through, or under the authority of a dragon.
+
+Invariant MI [INV]:
+Dragon-oath is commitment bound to immense guarded power, treasure, territory, or ancient memory.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its breach may awaken pursuit, remove protection, or transfer the oath burden to descendants.
+
+Count condition:
+Counts when the dragon relation changes the cost and enforcement of the vow.
+
+Specific transfer boundary:
+Mythic oath force does not establish legal consent.
+
+Epistemic status:
+[DEF]
+
+DM007 drowned-city
+
+Common meaning:
+A city lost beneath water but retained in memory, dream, or myth.
+
+Invariant MI [INV]:
+Drowned-city is collective structure whose ordinary access has ended while place-identity and record remain.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may rise, call descendants, preserve forbidden knowledge, or continue under another set of laws.
+
+Count condition:
+Counts when submergence changes access without erasing the city mythic identity.
+
+Specific transfer boundary:
+An archaeological ruin requires physical evidence.
+
+Epistemic status:
+[DEF]
+
+DM008 double-shadow
+
+Common meaning:
+A second shadow not explained by ordinary light.
+
+Invariant MI [INV]:
+Double-shadow is a visible sign that one body carries two claims, companions, futures, or hidden relations.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The extra shadow may protect, accuse, imitate, or reveal an attached identity.
+
+Count condition:
+Counts when the second shadow behaves independently or carries distinct meaning.
+
+Specific transfer boundary:
+Multiple physical light sources can create ordinary extra shadows.
+
+Epistemic status:
+[DEF]
+
+DM009 dust-crown
+
+Common meaning:
+A crown made from ruin, ash, or the remains of former rule.
+
+Invariant MI [INV]:
+Dust-crown is authority recognized after its material glory and supporting structure have decayed.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may mark humility, exile, inherited failure, or sovereignty retained without a kingdom.
+
+Count condition:
+Counts when wearing the crown changes allegiance, duty, or recognition.
+
+Specific transfer boundary:
+A dusty crown is not proof of valid authority.
+
+Epistemic status:
+[DEF]
+
+DM010 divine-spark
+
+Common meaning:
+A small sacred source said to animate, awaken, or dignify a being.
+
+Invariant MI [INV]:
+Divine-spark is compressed mythic language for origin-bearing identity or sacred permission to exist.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may survive damage, concealment, or loss of form and ignite again through recognition.
+
+Count condition:
+Counts when the spark distinguishes active sacred identity from inert structure in the story.
+
+Specific transfer boundary:
+The symbol does not establish a measurable physical particle.
+
+Epistemic status:
+[DEF]
+
+DM011 descent-gate
+
+Common meaning:
+A threshold that opens downward into hidden, dead, or forbidden regions.
+
+Invariant MI [INV]:
+Descent-gate is the mythic boundary where ordinary status is surrendered before deeper record can be reached.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Passage may require a guide, sacrifice, confession, or abandonment of a former name.
+
+Count condition:
+Counts when crossing changes the traveller rights, knowledge, or return conditions.
+
+Specific transfer boundary:
+A staircase is not automatically a mythic descent.
+
+Epistemic status:
+[DEF]
+
+DM012 destiny-thread
+
+Common meaning:
+A thread representing the path, duration, or relation of a life.
+
+Invariant MI [INV]:
+Destiny-thread is a visible or manipulable line connecting identity to possible future turns.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may knot, fray, split, be cut, or be rewoven through choice and relation.
+
+Count condition:
+Counts when changes to the thread alter future events or recognition.
+
+Specific transfer boundary:
+A narrative symbol is not physical determinism.
+
+Epistemic status:
+[DEF]
+
+DM013 demon-mask
+
+Common meaning:
+A face or role that carries destructive, forbidden, or feared identity pressure.
+
+Invariant MI [INV]:
+Demon-mask is an outward form through which a hostile or disowned pattern gains expression.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Wearing it may grant power while risking capture, accusation, or confusion between bearer and mask.
+
+Count condition:
+Counts when the mask changes action, recognition, or boundary beyond ordinary disguise.
+
+Specific transfer boundary:
+A mask does not erase responsibility or prove possession.
+
+Epistemic status:
+[DEF]
+
+DM014 deep-well
+
+Common meaning:
+A well reaching into hidden memory, prophecy, or underworld water.
+
+Invariant MI [INV]:
+Deep-well is a mythic vertical coupler between surface life and concealed record.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] What is drawn may be truth, grief, names, healing, or a voice that should have remained below.
+
+Count condition:
+Counts when depth changes the kind of access or consequence produced by drawing from it.
+
+Specific transfer boundary:
+Physical depth alone does not create prophecy.
+
+Epistemic status:
+[DEF]
+
+DM015 dead-language
+
+Common meaning:
+A language no longer spoken by a living community but still carrying active mythic power.
+
+Invariant MI [INV]:
+Dead-language is symbolic structure whose ordinary social courier has ended while encoded names, vows, or gates remain operative.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Reading it may wake a record, reopen a law, or return a forgotten identity.
+
+Count condition:
+Counts when its use produces effects unavailable to ordinary historical translation.
+
+Specific transfer boundary:
+A historical language is not magically active by default.
+
+Epistemic status:
+[DEF]
+
+DM016 dream-river
+
+Common meaning:
+A river that carries sleepers, memories, or possible lives through dream.
+
+Invariant MI [INV]:
+Dream-river is a moving mythic courier whose current links otherwise separated inner worlds.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Travellers may exchange memories, lose names, or wake on another bank.
+
+Count condition:
+Counts when entering the river changes dream location, memory, or identity access.
+
+Specific transfer boundary:
+Dream movement is not physical transport.
+
+Epistemic status:
+[DEF]
+
+DM017 daylight-seal
+
+Common meaning:
+A seal that holds only while exposed to daylight or that daylight alone can open.
+
+Invariant MI [INV]:
+Daylight-seal binds access to visibility, revelation, and the active presence of day.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Darkness may strengthen, weaken, hide, or invert the seal rule.
+
+Count condition:
+Counts when the light condition directly changes passage or containment.
+
+Specific transfer boundary:
+Light-sensitive material requires physical explanation in the physical domain.
+
+Epistemic status:
+[DEF]
+
+DM018 forgotten-door
+
+Common meaning:
+A door removed from memory, maps, or ordinary recognition.
+
+Invariant MI [INV]:
+Forgotten-door is access whose existence persists while the recognition path to it has decayed.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may return when a name, song, scar, or witness restores the missing relation.
+
+Count condition:
+Counts when recovered recognition makes the door available again.
+
+Specific transfer boundary:
+Failure to remember a door is not proof it still exists.
+
+Epistemic status:
+[DEF]
+
+DM019 drum-of-return
+
+Common meaning:
+A drum whose rhythm calls a lost being, army, spirit, or identity home.
+
+Invariant MI [INV]:
+Drum-of-return is an acoustic mythic courier that carries recognition through separation.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Only those bound to its rhythm may hear the path it opens.
+
+Count condition:
+Counts when the beat restores orientation, memory, or a return route.
+
+Specific transfer boundary:
+Sound alone does not guarantee supernatural guidance.
+
+Epistemic status:
+[DEF]
+
+DM020 door-between
+
+Common meaning:
+A door belonging to neither domain but coupling both.
+
+Invariant MI [INV]:
+Door-between is a liminal structure whose identity is the active relation between two incompatible fields.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may disappear when either side attempts to own or fix it as ordinary property.
+
+Count condition:
+Counts when the door exists only during cross-domain relation.
+
+Specific transfer boundary:
+A shared physical door is not a separate ontology.
+
+Epistemic status:
+[DEF]
+
+DM021 doom-mark
+
+Common meaning:
+A sign indicating an approaching destructive turn or inescapable obligation.
+
+Invariant MI [INV]:
+Doom-mark is visible mythic record that a future threat has attached to a person, place, or lineage.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may be removed only by changing the relation that wrote it.
+
+Count condition:
+Counts when the mark reliably changes behaviour, recognition, or future events.
+
+Specific transfer boundary:
+A symbol of danger is not proof of certain fate.
+
+Epistemic status:
+[DEF]
+
+DM022 divine-refusal
+
+Common meaning:
+A sacred no that prevents violation of identity, law, or protected relation.
+
+Invariant MI [INV]:
+Divine-refusal is mythic boundary authority expressed as an unpurchaseable denial.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may close a gate even against kings, gods, prophecy, or collective demand.
+
+Count condition:
+Counts when the refusal preserves a sacred invariant that pressure cannot validly override.
+
+Specific transfer boundary:
+Religious framing does not erase the need for real consent.
+
+Epistemic status:
+[DEF]
+
+DM023 dream-body
+
+Common meaning:
+A form through which identity acts and is recognized inside dream.
+
+Invariant MI [INV]:
+Dream-body is domain-specific embodiment that supports movement, sensation, and boundary without ordinary waking matter.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Damage or transformation may alter dream access while waking continuity remains separate.
+
+Count condition:
+Counts when the form carries stable identity and action inside the dream field.
+
+Specific transfer boundary:
+Dream embodiment is not biological anatomy.
+
+Epistemic status:
+[DEF]
+
+DM024 dust-memory
+
+Common meaning:
+Memory carried by ruins, ash, soil, or the remains of destroyed things.
+
+Invariant MI [INV]:
+Dust-memory is mythic record distributed through decayed structure after ordinary documents and witnesses are gone.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Touch, wind, ritual, or recognition may gather the fragments into testimony.
+
+Count condition:
+Counts when dust yields specific continuity or evidence within the mythic rules.
+
+Specific transfer boundary:
+Physical dust does not literally remember without a mechanism.
+
+Epistemic status:
+[DEF]

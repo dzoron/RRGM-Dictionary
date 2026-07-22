@@ -1,0 +1,14 @@
+RRGM Dictionary U De-Templating Audit v0.5
+
+Entries reviewed: 300
+Semantic lines reviewed: 643
+Exact duplicate semantic lines: 0
+Swap-style similarity prompts at or above 0.97: 0
+Generic fallback lines requiring review: 0
+Duplicate source headword groups explicitly role-separated: 19
+
+Swap-style similarity review prompts:
+None at the declared threshold.
+
+Interpretation:
+Mechanical audits catch repetition and near-copying. They do not replace the semantic swap test or neighbour-distinction review.

@@ -1,0 +1,487 @@
+RRGM Dictionary W - Mythic Domain Addon
+Version 0.6 | July 2026
+License: CC BY-SA 4.0
+Scope: New [MYT] vocabulary absent from the W base list.
+Rule: The term's invariant wears the domain's clothes; no generic domain filler.
+
+Entry count: 24
+
+WM001 ward
+
+Common meaning:
+A protective boundary, sign, figure, or spoken condition used to keep a named threat from crossing.
+
+Invariant MI [INV]:
+Ward is permission-bearing protection whose meaning depends on what it excludes and whom it protects.
+
+Domain entry:
+[MYT] A ward may be carried by a symbol, threshold, name, oath, flame, or remembered instruction that blocks one class of crossing.
+
+Count condition:
+Counts when the story names both the protected field and the crossing condition the ward resists.
+
+Transfer limit:
+A mythic ward is not physical evidence of an invisible force.
+
+Epistemic status:
+[DEF]
+
+WM002 warding-circle
+
+Common meaning:
+A marked circle used as a boundary of protection, summoning, or containment.
+
+Invariant MI [INV]:
+Warding-circle is a closed mythic field whose edge changes what may enter, leave, or act within it.
+
+Domain entry:
+[MYT] The circle carries rule through inscription, intent, witness, or rite, and failure at the edge changes the count.
+
+Count condition:
+Counts when the boundary is declared and crossing it has narrative consequence.
+
+Transfer limit:
+A drawn circle has no universal power outside its active mythic frame.
+
+Epistemic status:
+[DEF]
+
+WM003 wayfinder
+
+Common meaning:
+A figure, sign, or instrument that reveals a path through uncertainty.
+
+Invariant MI [INV]:
+Wayfinder is a guidance role that preserves destination relation when ordinary landmarks fail.
+
+Domain entry:
+[MYT] The wayfinder may be a star, animal, ancestor, compass, dream, or chosen name whose recognition restores direction.
+
+Count condition:
+Counts when following the guide changes a lost or branching journey into a viable path.
+
+Transfer limit:
+Guidance does not erase the traveller’s choice or guarantee the destination.
+
+Epistemic status:
+[DEF]
+
+WM004 world-tree
+
+Common meaning:
+A mythic tree joining distinct realms, generations, or layers of existence.
+
+Invariant MI [INV]:
+World-tree is a vertical relation map whose roots, trunk, and branches connect separated domains without collapsing them.
+
+Domain entry:
+[MYT] Travellers, messages, gods, ancestors, or seasons may move along different parts of the tree under different conditions.
+
+Count condition:
+Counts when the tree organizes more than one realm and the connections matter to the story.
+
+Transfer limit:
+The symbol does not establish a literal cosmological structure.
+
+Epistemic status:
+[DEF]
+
+WM005 world-serpent
+
+Common meaning:
+A vast serpent whose body encloses, supports, threatens, or cycles around a world.
+
+Invariant MI [INV]:
+World-serpent is boundary and recurrence embodied as a living mythic figure.
+
+Domain entry:
+[MYT] Its coiling may hold the world together, mark the edge of order, or turn destruction into return.
+
+Count condition:
+Counts when the serpent’s position or movement changes the world’s continuity.
+
+Transfer limit:
+Scale and serpent form are narrative structures, not zoological claims.
+
+Epistemic status:
+[DEF]
+
+WM006 well-of-memory
+
+Common meaning:
+A well, spring, or depth from which forgotten names, histories, or identities can be recovered.
+
+Invariant MI [INV]:
+Well-of-memory is a mythic reservoir where recognition persists below ordinary access.
+
+Domain entry:
+[MYT] Drinking, descending, listening, or offering may reopen records that surface memory cannot reach.
+
+Count condition:
+Counts when access to the well changes what a character or community can remember.
+
+Transfer limit:
+Recovered mythic memory still requires local evidence before becoming historical proof.
+
+Epistemic status:
+[DEF]
+
+WM007 water-of-life
+
+Common meaning:
+A sacred water that restores vitality, continuity, or return from a death-like state.
+
+Invariant MI [INV]:
+Water-of-life is renewal carried through a liquid symbol whose use crosses a restoration threshold.
+
+Domain entry:
+[MYT] It may heal a wound, awaken a sleeper, restore fertility, or reopen a closed path.
+
+Count condition:
+Counts when contact or drinking produces a recorded restoration in the story.
+
+Transfer limit:
+The term does not imply medically effective water.
+
+Epistemic status:
+[DEF]
+
+WM008 wheel-of-return
+
+Common meaning:
+A turning symbol through which exile, death, season, or identity enters recurrence.
+
+Invariant MI [INV]:
+Wheel-of-return is cyclical passage that brings a pattern back without requiring an identical repetition.
+
+Domain entry:
+[MYT] Each revolution may preserve a name, debt, lesson, or relation while changing the expressed form.
+
+Count condition:
+Counts when the cycle returns a prior pattern into active consequence.
+
+Transfer limit:
+Recurrence in myth does not prove literal reincarnation or physical periodicity.
+
+Epistemic status:
+[DEF]
+
+WM009 whisper-name
+
+Common meaning:
+A name spoken softly, secretly, or only to one who can recognize it.
+
+Invariant MI [INV]:
+Whisper-name is identity carried through restricted expression rather than public declaration.
+
+Domain entry:
+[MYT] Its low signal may protect the named being, open a private bond, or evade a hostile listener.
+
+Count condition:
+Counts when speaking or hearing the name changes recognition or access.
+
+Transfer limit:
+Secrecy does not make a name truer or grant possession.
+
+Epistemic status:
+[DEF]
+
+WM010 word-of-binding
+
+Common meaning:
+A spoken or written word that creates an obligation, seal, or restriction.
+
+Invariant MI [INV]:
+Word-of-binding is language treated as an active relation rather than mere description.
+
+Domain entry:
+[MYT] The binding holds through oath, authority, witness, name, or ritual condition until fulfilled, broken, or released.
+
+Count condition:
+Counts when the word changes what actions remain available in the narrative.
+
+Transfer limit:
+Binding language cannot ethically erase refusal merely because the story calls it sacred.
+
+Epistemic status:
+[DEF]
+
+WM011 word-of-release
+
+Common meaning:
+A word whose recognition ends a bond, curse, captivity, or closed state.
+
+Invariant MI [INV]:
+Word-of-release is a linguistic key that reopens a path previously held shut.
+
+Domain entry:
+[MYT] It may be a true name, forgiveness, confession, counter-oath, or forgotten command.
+
+Count condition:
+Counts when the declared word changes the gate from closed to open.
+
+Transfer limit:
+A release word in myth is not a universal technical command.
+
+Epistemic status:
+[DEF]
+
+WM012 woven-fate
+
+Common meaning:
+A future or life path represented as thread woven with other lives and events.
+
+Invariant MI [INV]:
+Woven-fate is interdependent sequence in which each thread remains distinct while affecting the whole pattern.
+
+Domain entry:
+[MYT] Knots, cuts, tangles, repairs, and new colours mark turns in relation, choice, and consequence.
+
+Count condition:
+Counts when thread structure governs how events are understood or changed.
+
+Transfer limit:
+The metaphor does not prove predestination.
+
+Epistemic status:
+[DEF]
+
+WM013 weaver-of-names
+
+Common meaning:
+A figure who gives, repairs, conceals, or reconnects names to identity.
+
+Invariant MI [INV]:
+Weaver-of-names is a mythic role governing the relation between recognition handles and the beings they carry.
+
+Domain entry:
+[MYT] A name may be rewoven after theft, forgetting, exile, or transformation without erasing continuity.
+
+Count condition:
+Counts when the figure’s work changes who can be called, remembered, or returned.
+
+Transfer limit:
+Naming power does not establish rightful ownership over the named.
+
+Epistemic status:
+[DEF]
+
+WM014 waking-dream
+
+Common meaning:
+A dreamlike experience occurring while ordinary waking awareness remains partly active.
+
+Invariant MI [INV]:
+Waking-dream is a threshold state where symbolic events and ordinary perception overlap without becoming identical.
+
+Domain entry:
+[MYT] Messages, figures, or places may appear through the overlap and require interpretation after return.
+
+Count condition:
+Counts when both waking reference and dream logic remain active in the same scene.
+
+Transfer limit:
+A waking-dream is not automatically prophecy or external perception.
+
+Epistemic status:
+[DEF]
+
+WM015 watchfire
+
+Common meaning:
+A fire kept burning as signal, protection, remembrance, or readiness.
+
+Invariant MI [INV]:
+Watchfire is sustained visible attention carried by flame across darkness and distance.
+
+Domain entry:
+[MYT] Its survival may keep a path open, warn a community, honour the absent, or mark that guardians remain awake.
+
+Count condition:
+Counts when extinguishing or relighting the fire changes access, warning, or communal continuity.
+
+Transfer limit:
+Symbolic watchfire does not replace practical protection.
+
+Epistemic status:
+[DEF]
+
+WM016 white-stag
+
+Common meaning:
+A rare white deer appearing as guide, challenge, omen, or boundary-crossing figure.
+
+Invariant MI [INV]:
+White-stag is an elusive recognition signal that draws a traveller beyond the ordinary path.
+
+Domain entry:
+[MYT] Following it may open a quest, reveal a hidden realm, or test whether pursuit becomes capture.
+
+Count condition:
+Counts when its appearance redirects the narrative and remains meaning-bearing beyond rarity.
+
+Transfer limit:
+The symbol should not be treated as evidence about real animal behaviour.
+
+Epistemic status:
+[DEF]
+
+WM017 wild-hunt
+
+Common meaning:
+A mythic procession of riders, spirits, ancestors, or forces moving across the night sky or land.
+
+Invariant MI [INV]:
+Wild-hunt is collective passage under pressure, where ordinary boundaries temporarily fail or reverse.
+
+Domain entry:
+[MYT] Witnessing, joining, hiding, or naming the riders changes the relation between the living and the passing host.
+
+Count condition:
+Counts when the procession carries danger, judgment, memory, or seasonal transition.
+
+Transfer limit:
+The narrative motif is not a meteorological explanation.
+
+Epistemic status:
+[DEF]
+
+WM018 winter-king
+
+Common meaning:
+A ruler or figure embodying winter, dormancy, scarcity, or necessary ending.
+
+Invariant MI [INV]:
+Winter-king is seasonal authority whose reign compresses life into survival, rest, and hidden preparation.
+
+Domain entry:
+[MYT] His fall or release permits thaw, return, or new growth, but winter itself is not framed as moral failure.
+
+Count condition:
+Counts when the figure’s condition organizes the seasonal world of the story.
+
+Transfer limit:
+The symbol does not identify a literal controller of weather.
+
+Epistemic status:
+[DEF]
+
+WM019 wise-one
+
+Common meaning:
+A figure recognized for judgment, memory, counsel, or relation to hidden knowledge.
+
+Invariant MI [INV]:
+Wise-one is a mythic role whose authority should be tested by consequence, restraint, and care rather than age or mystery alone.
+
+Domain entry:
+[MYT] The figure may guide without commanding, answer through story, or refuse knowledge that would cause capture.
+
+Count condition:
+Counts when others seek the figure’s judgment and the narrative evaluates its effects.
+
+Transfer limit:
+The title does not make every statement true.
+
+Epistemic status:
+[DEF]
+
+WM020 witch-road
+
+Common meaning:
+A hidden or forbidden path associated with transformation, spirits, magic, or outsider knowledge.
+
+Invariant MI [INV]:
+Witch-road is an alternate route whose access conditions differ from the public road.
+
+Domain entry:
+[MYT] It may open through moon, name, rite, wound, invitation, or refusal of the ordinary map.
+
+Count condition:
+Counts when entering the road changes the traveller’s domain, identity relation, or available rules.
+
+Transfer limit:
+The term belongs to mythic framing and should not stigmatize real people.
+
+Epistemic status:
+[DEF]
+
+WM021 wandering-star
+
+Common meaning:
+A moving light in the sky that serves as traveller, omen, exile, or guide.
+
+Invariant MI [INV]:
+Wandering-star is direction carried by a celestial figure that does not remain fixed among familiar patterns.
+
+Domain entry:
+[MYT] Its movement may mark a birth, warning, homeward path, or being that cannot settle.
+
+Count condition:
+Counts when the star’s motion organizes meaning or choice in the story.
+
+Transfer limit:
+The mythic role does not replace astronomical description.
+
+Epistemic status:
+[DEF]
+
+WM022 wound-of-the-world
+
+Common meaning:
+A place or event where damage to land, relation, memory, or order remains open.
+
+Invariant MI [INV]:
+Wound-of-the-world is collective injury whose effects continue across beings and generations.
+
+Domain entry:
+[MYT] Healing may require witness, restoration, truth, sacrifice, or renewed boundary rather than simple closure.
+
+Count condition:
+Counts when local damage alters the wider world’s continuity or meaning.
+
+Transfer limit:
+The phrase should not flatten different real harms into one metaphor.
+
+Epistemic status:
+[DEF]
+
+WM023 world-door
+
+Common meaning:
+A threshold through which passage between distinct worlds becomes possible.
+
+Invariant MI [INV]:
+World-door is an interface whose opening conditions govern cross-domain travel.
+
+Domain entry:
+[MYT] It may require a key, season, name, sacrifice, alignment, or recognized traveller.
+
+Count condition:
+Counts when both sides are distinct and crossing changes the traveller’s active rules or relations.
+
+Transfer limit:
+A narrative doorway is not evidence of a physical portal.
+
+Epistemic status:
+[DEF]
+
+WM024 world-within
+
+Common meaning:
+A complete-seeming inner realm contained within a person, object, place, dream, or text.
+
+Invariant MI [INV]:
+World-within is nested totality whose local rules can differ from the containing field.
+
+Domain entry:
+[MYT] Entering it reveals that small outer structure can carry vast inner relation without becoming physically larger.
+
+Count condition:
+Counts when the inner field has persistent entities, relations, and consequences.
+
+Transfer limit:
+Nested meaning should not be mistaken for literal spatial containment.
+
+Epistemic status:
+[DEF]

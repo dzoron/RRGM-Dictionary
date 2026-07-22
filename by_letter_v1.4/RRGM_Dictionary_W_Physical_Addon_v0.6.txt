@@ -1,0 +1,487 @@
+RRGM Dictionary W - Physical Domain Addon
+Version 0.6 | July 2026
+License: CC BY-SA 4.0
+Scope: New [PHY] vocabulary absent from the W base list.
+Rule: The term's invariant wears the domain's clothes; no generic domain filler.
+
+Entry count: 24
+
+WP001 watt
+
+Common meaning:
+The SI unit of power equal to one joule of energy transferred per second.
+
+Invariant MI [INV]:
+Watt is a physical rate unit connecting energy transfer to elapsed time.
+
+Domain entry:
+[PHY] A device rated at one watt transfers or converts one joule each second under the measured condition.
+
+Count condition:
+Counts when power is measured in joules per second.
+
+Transfer limit:
+Watt measures rate, not total energy.
+
+Epistemic status:
+[DEF]
+
+WP002 watt-hour
+
+Common meaning:
+A unit of energy equal to one watt sustained for one hour.
+
+Invariant MI [INV]:
+Watt-hour is accumulated energy obtained by multiplying power by duration.
+
+Domain entry:
+[PHY] Electrical use is often recorded in watt-hours or kilowatt-hours because the unit integrates a power rate across time.
+
+Count condition:
+Counts when a power value is applied over a declared duration.
+
+Transfer limit:
+A watt-hour is energy, not power.
+
+Epistemic status:
+[DEF]
+
+WP003 wavelength
+
+Common meaning:
+The distance over which a repeating wave pattern completes one cycle.
+
+Invariant MI [INV]:
+Wavelength is spatial periodicity measured between equivalent phase points.
+
+Domain entry:
+[PHY] It may be measured crest to crest, compression to compression, or by another repeated phase marker.
+
+Count condition:
+Counts when the wave and measurement direction are defined.
+
+Transfer limit:
+Equal wavelength does not prove equal frequency unless wave speed is also fixed.
+
+Epistemic status:
+[DEF]
+
+WP004 wavenumber
+
+Common meaning:
+A measure of spatial frequency, commonly the number of wave cycles per unit distance or angular phase per distance.
+
+Invariant MI [INV]:
+Wavenumber is inverse-scale description of how rapidly phase changes across space.
+
+Domain entry:
+[PHY] Larger wavenumber corresponds to shorter spatial repetition under the selected convention.
+
+Count condition:
+Counts when the convention and spatial coordinate are declared.
+
+Transfer limit:
+Cycle-based and angular wavenumber use different constants.
+
+Epistemic status:
+[DEF]
+
+WP005 waveform
+
+Common meaning:
+The shape of a varying signal or wave as a function of time, position, or another variable.
+
+Invariant MI [INV]:
+Waveform is the recorded profile of change, distinct from the medium carrying it.
+
+Domain entry:
+[PHY] Sine, pulse, square, and irregular forms describe how amplitude varies across the selected axis.
+
+Count condition:
+Counts when amplitude and reference variable are measured or defined.
+
+Transfer limit:
+Similar waveform does not establish identical source or mechanism.
+
+Epistemic status:
+[DEF]
+
+WP006 wavefront
+
+Common meaning:
+A surface joining points of equal phase in a propagating wave.
+
+Invariant MI [INV]:
+Wavefront is a geometric phase boundary showing how a wave advances through space.
+
+Domain entry:
+[PHY] Plane, spherical, or distorted wavefronts reveal source geometry and medium effects.
+
+Count condition:
+Counts when equal-phase points can be defined in the field.
+
+Transfer limit:
+A wavefront is not a material sheet.
+
+Epistemic status:
+[DEF]
+
+WP007 wave-packet
+
+Common meaning:
+A localized wave formed by superposing a range of component waves.
+
+Invariant MI [INV]:
+Wave-packet is bounded wave expression produced through interference among frequencies or wavenumbers.
+
+Domain entry:
+[PHY] Its envelope tracks localized amplitude while internal phase may move differently.
+
+Count condition:
+Counts when superposed components create a finite concentration in space or time.
+
+Transfer limit:
+The envelope and individual phase velocity are not automatically the same.
+
+Epistemic status:
+[DEF]
+
+WP008 waveguide
+
+Common meaning:
+A structure that confines and directs wave propagation.
+
+Invariant MI [INV]:
+Waveguide is boundary-shaped physical support that limits allowed wave modes and paths.
+
+Domain entry:
+[PHY] Pipes, optical fibres, and conductive channels guide sound or electromagnetic waves through different mechanisms.
+
+Count condition:
+Counts when boundaries materially constrain propagation.
+
+Transfer limit:
+Shared guiding function does not make acoustic and electromagnetic waveguides one mechanism.
+
+Epistemic status:
+[DEF]
+
+WP009 weak-force
+
+Common meaning:
+One of the fundamental interactions, responsible for processes including beta decay.
+
+Invariant MI [INV]:
+Weak-force is a physical interaction that changes particle type in specific subatomic processes.
+
+Domain entry:
+[PHY] Its range is very short because its carrier bosons are massive.
+
+Count condition:
+Counts when the event is described by the weak interaction in particle physics.
+
+Transfer limit:
+Weak refers to interaction strength and range, not insignificance.
+
+Epistemic status:
+[DEF]
+
+WP010 weightlessness
+
+Common meaning:
+A condition of zero or near-zero apparent weight.
+
+Invariant MI [INV]:
+Weightlessness is absence of support-force reading, not necessarily absence of gravity.
+
+Domain entry:
+[PHY] Orbiting bodies feel weightless because they and their surroundings fall together.
+
+Count condition:
+Counts when the normal or support force approaches zero.
+
+Transfer limit:
+Weightlessness does not imply zero mass.
+
+Epistemic status:
+[DEF]
+
+WP011 white-dwarf
+
+Common meaning:
+A dense stellar remnant supported mainly by electron degeneracy pressure.
+
+Invariant MI [INV]:
+White-dwarf is a compact end state of some stars after nuclear fusion has ceased in the core.
+
+Domain entry:
+[PHY] Its mass is concentrated in an Earth-sized volume, producing high density and strong gravity.
+
+Count condition:
+Counts when the remnant meets the stellar structure conditions of a white dwarf.
+
+Transfer limit:
+The colour name does not imply ordinary white material.
+
+Epistemic status:
+[DEF]
+
+WP012 white-noise
+
+Common meaning:
+A signal with approximately equal power per unit frequency across a specified band.
+
+Invariant MI [INV]:
+White-noise is spectrally distributed variation defined relative to a frequency interval.
+
+Domain entry:
+[PHY] It can be used as a test input or model of uncorrelated fluctuation under stated assumptions.
+
+Count condition:
+Counts when the spectrum is sufficiently flat over the declared band.
+
+Transfer limit:
+No real source is white across infinite frequency.
+
+Epistemic status:
+[DEF]
+
+WP013 wind-shear
+
+Common meaning:
+A change in wind speed or direction across distance.
+
+Invariant MI [INV]:
+Wind-shear is a spatial gradient in atmospheric flow.
+
+Domain entry:
+[PHY] Vertical or horizontal shear can alter aircraft motion, storm development, and mixing.
+
+Count condition:
+Counts when wind vectors differ measurably between nearby positions.
+
+Transfer limit:
+Strong wind alone is not wind shear.
+
+Epistemic status:
+[DEF]
+
+WP014 water-vapour
+
+Common meaning:
+Water in its gaseous phase.
+
+Invariant MI [INV]:
+Water-vapour is molecular water dispersed as gas rather than liquid droplets.
+
+Domain entry:
+[PHY] It contributes to humidity and can condense when conditions cross saturation.
+
+Count condition:
+Counts when water molecules occupy the gas phase.
+
+Transfer limit:
+Visible cloud or steam consists largely of droplets, not invisible vapour alone.
+
+Epistemic status:
+[DEF]
+
+WP015 wetting
+
+Common meaning:
+The spreading and maintained contact of a liquid on a solid surface.
+
+Invariant MI [INV]:
+Wetting is an interface condition governed by surface energies and contact angle.
+
+Domain entry:
+[PHY] A liquid wets a surface more strongly when it spreads rather than forming a compact bead.
+
+Count condition:
+Counts when liquid-solid contact reaches the stated interfacial behaviour.
+
+Transfer limit:
+Absorption into a material is not identical to surface wetting.
+
+Epistemic status:
+[DEF]
+
+WP016 work-function
+
+Common meaning:
+The minimum energy needed to remove an electron from a material surface into vacuum.
+
+Invariant MI [INV]:
+Work-function is a material-specific electron escape threshold.
+
+Domain entry:
+[PHY] Surface composition, crystal face, and contamination can change the measured value.
+
+Count condition:
+Counts when the energy reference and surface condition are defined.
+
+Transfer limit:
+It is not mechanical work performed by the material.
+
+Epistemic status:
+[DEF]
+
+WP017 work-energy-theorem
+
+Common meaning:
+The relation stating that net work on an object equals its change in kinetic energy.
+
+Invariant MI [INV]:
+Work-energy-theorem connects accumulated force-displacement transfer to motion-state change.
+
+Domain entry:
+[PHY] Positive net work raises kinetic energy, while negative net work lowers it.
+
+Count condition:
+Counts when work and kinetic energy are evaluated over the same system and interval.
+
+Transfer limit:
+The theorem does not include every form of stored energy unless the system accounting is expanded.
+
+Epistemic status:
+[DEF]
+
+WP018 wall-friction
+
+Common meaning:
+Frictional force or shear interaction at the boundary between a moving material and a wall.
+
+Invariant MI [INV]:
+Wall-friction is momentum transfer generated where flow or contact meets a fixed boundary.
+
+Domain entry:
+[PHY] It can slow fluids, heat surfaces, or resist sliding depending on the system.
+
+Count condition:
+Counts when tangential interaction at the wall produces measurable resistance.
+
+Transfer limit:
+Boundary pressure and wall friction are different components.
+
+Epistemic status:
+[DEF]
+
+WP019 warp
+
+Common meaning:
+A deformation that bends, twists, or changes the shape of a material or geometric field.
+
+Invariant MI [INV]:
+Warp is structured departure from an original shape under load, stress, heat, or mapping.
+
+Domain entry:
+[PHY] Boards, surfaces, and coordinate descriptions can warp through different mechanisms.
+
+Count condition:
+Counts when the changed geometry is measured relative to a prior form.
+
+Transfer limit:
+Physical deformation should not be conflated with fictional faster-than-light travel.
+
+Epistemic status:
+[DEF]
+
+WP020 wavefunction
+
+Common meaning:
+A mathematical object used in quantum theory to represent a system’s state and probability amplitudes.
+
+Invariant MI [INV]:
+Wavefunction is formal physical state representation whose measurable predictions arise through declared operators and rules.
+
+Domain entry:
+[PHY] Its complex values are not directly observed; probabilities are obtained from their magnitudes and measurement setup.
+
+Count condition:
+Counts when the function is defined for a quantum system and valid boundary conditions.
+
+Transfer limit:
+Wavefunction language should not be imported into cognition or myth as proof.
+
+Epistemic status:
+[DEF]
+
+WP021 wavelength-shift
+
+Common meaning:
+A change in the measured wavelength of a signal between source, propagation, and observation conditions.
+
+Invariant MI [INV]:
+Wavelength-shift is a difference in spatial periodicity caused by motion, medium, interaction, or source change.
+
+Domain entry:
+[PHY] Doppler motion and cosmological expansion are distinct mechanisms that can shift observed wavelength.
+
+Count condition:
+Counts when source and observed wavelengths are comparably defined.
+
+Transfer limit:
+A shift alone does not identify its cause.
+
+Epistemic status:
+[DEF]
+
+WP022 wave-impedance
+
+Common meaning:
+The ratio relating field components or pressure and flow in a propagating wave.
+
+Invariant MI [INV]:
+Wave-impedance is the medium-and-mode relation governing how wave quantities couple.
+
+Domain entry:
+[PHY] It affects reflection and transmission when a wave meets a boundary.
+
+Count condition:
+Counts when the wave type, medium, and ratio convention are declared.
+
+Transfer limit:
+Electrical, acoustic, and electromagnetic impedances use different quantities.
+
+Epistemic status:
+[DEF]
+
+WP023 wave-reflection
+
+Common meaning:
+The return of part of a wave when it meets a boundary or change in medium.
+
+Invariant MI [INV]:
+Wave-reflection is reversed propagation produced by boundary mismatch.
+
+Domain entry:
+[PHY] Reflected amplitude and phase depend on the incident wave and the properties on both sides of the interface.
+
+Count condition:
+Counts when outgoing energy or amplitude travels back from the boundary.
+
+Transfer limit:
+Reflection does not imply total return; transmission may occur simultaneously.
+
+Epistemic status:
+[DEF]
+
+WP024 wave-diffraction
+
+Common meaning:
+The spreading or bending of waves around openings, edges, or obstacles.
+
+Invariant MI [INV]:
+Wave-diffraction is redistribution of propagation caused by finite boundaries relative to wavelength.
+
+Domain entry:
+[PHY] It becomes prominent when opening or obstacle size is comparable to the wavelength.
+
+Count condition:
+Counts when the observed spread follows from boundary geometry.
+
+Transfer limit:
+Diffraction is not ordinary refraction through a uniform interface.
+
+Epistemic status:
+[DEF]

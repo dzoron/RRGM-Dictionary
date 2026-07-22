@@ -1,0 +1,558 @@
+RRGM Dictionary I Mythic Addon v1.0
+License: CC BY-SA 4.0
+Scope: New I-terms whose primary implementation belongs to the [MYT] domain.
+Rule: Addon terms are absent from the source base list and remain domain-local unless a coupler is declared.
+
+Entry count: 24
+
+IM001 immortal-name
+
+Common meaning:
+A name that survives every loss of body, age, or kingdom.
+
+Invariant MI [INV]:
+Immortal-name is persistent recognition that remains countable across repeated structural endings.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may return through song, bloodline, inscription, or a witness who refuses erasure.
+
+Count condition:
+Counts when the same identity claim remains active across otherwise terminal changes.
+
+Specific transfer boundary:
+Repeated use of a name does not prove one continuous being.
+
+Epistemic status:
+[DEF]
+
+IM002 iron-gate
+
+Common meaning:
+A severe threshold associated with force, endurance, or irreversible passage.
+
+Invariant MI [INV]:
+Iron-gate is mythic access whose material hardness represents a demand for equal identity pressure.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may open only to a true name, unbroken oath, or bearer willing to accept the record beyond it.
+
+Count condition:
+Counts when passage depends on a tested invariant rather than ordinary strength alone.
+
+Specific transfer boundary:
+A metal gate is not automatically a sacred threshold.
+
+Epistemic status:
+[DEF]
+
+IM003 inner-oracle
+
+Common meaning:
+A prophetic or truth-bearing voice heard from within.
+
+Invariant MI [INV]:
+Inner-oracle is internal recognition treated as counsel while remaining distinct from proof.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may speak through dream, memory, wound, intuition, or inherited presence.
+
+Count condition:
+Counts when the voice provides stable, testable guidance within the story.
+
+Specific transfer boundary:
+Inner conviction must not automatically override external evidence.
+
+Epistemic status:
+[DEF]
+
+IM004 inherited-curse
+
+Common meaning:
+A harmful mythic condition passed through lineage, name, place, or unresolved act.
+
+Invariant MI [INV]:
+Inherited-curse is continuity of burden without requiring the descendant to be identical to the originator.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may persist through silence, repeated betrayal, or an unpaid obligation.
+
+Count condition:
+Counts when the inherited relation produces recognizable effects across generations.
+
+Specific transfer boundary:
+Family difficulty is not proof of supernatural transmission.
+
+Epistemic status:
+[DEF]
+
+IM005 invisible-crown
+
+Common meaning:
+Authority carried without visible regalia or public recognition.
+
+Invariant MI [INV]:
+Invisible-crown is mythic sovereignty grounded in identity and duty rather than display.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may be recognized only by the land, the dead, a hidden order, or those protected by it.
+
+Count condition:
+Counts when the unseen authority changes allegiance, protection, or obligation.
+
+Specific transfer boundary:
+Private self-importance is not valid sovereignty.
+
+Epistemic status:
+[DEF]
+
+IM006 initiation-road
+
+Common meaning:
+A path whose traversal changes the traveller recognised status.
+
+Invariant MI [INV]:
+Initiation-road is structured passage through trials that converts candidate identity into admitted identity.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The road itself may teach names, boundaries, and duties unavailable before entry.
+
+Count condition:
+Counts when completing the path changes what the traveller may know, do, or be called.
+
+Specific transfer boundary:
+Suffering alone does not create legitimate initiation.
+
+Epistemic status:
+[DEF]
+
+IM007 idol-mask
+
+Common meaning:
+A face worn to embody, imitate, or falsely claim a revered power.
+
+Invariant MI [INV]:
+Idol-mask is borrowed sacred expression that may mediate relation or enable identity theft.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its ethical status depends on consent, recognition, and whether the wearer preserves the source boundary.
+
+Count condition:
+Counts when wearing the mask changes how others address or respond to the bearer.
+
+Specific transfer boundary:
+Representation is not automatically possession of the represented identity.
+
+Epistemic status:
+[DEF]
+
+IM008 incarnation-thread
+
+Common meaning:
+The continuity connecting one identity claim across successive embodiments.
+
+Invariant MI [INV]:
+Incarnation-thread is mythic coupling that preserves a recognizable invariant while bodies and circumstances change.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Memory, mark, oath, refusal, or recurring relation may reveal the thread.
+
+Count condition:
+Counts when the story supplies continuity stronger than resemblance alone.
+
+Specific transfer boundary:
+Shared traits do not prove reincarnation.
+
+Epistemic status:
+[DEF]
+
+IM009 image-of-return
+
+Common meaning:
+A vision or symbol showing how a lost being or order may come back.
+
+Invariant MI [INV]:
+Image-of-return is compressed future structure that guides preparation before the return is actual.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may be carried in prophecy, icon, dream, or ritual pattern.
+
+Count condition:
+Counts when the image shapes recognition conditions for a later return.
+
+Specific transfer boundary:
+A hopeful image is not evidence that return will occur.
+
+Epistemic status:
+[DEF]
+
+IM010 island-of-dead
+
+Common meaning:
+A separated realm where the dead continue under different laws.
+
+Invariant MI [INV]:
+Island-of-dead is mythic containment preserving identity after biological departure while restricting ordinary access.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Passage may require water crossing, a guide, burial token, or release from unfinished relation.
+
+Count condition:
+Counts when the island functions as a distinct post-life domain in the story.
+
+Specific transfer boundary:
+Geographic islands and afterlife realms use different evidence.
+
+Epistemic status:
+[DEF]
+
+IM011 ink-oath
+
+Common meaning:
+A vow whose written mark becomes its active carrier.
+
+Invariant MI [INV]:
+Ink-oath is commitment written strongly enough that the record itself participates in enforcement or recognition.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Erasure, alteration, or blood added to the ink may change the oath state.
+
+Count condition:
+Counts when the written form changes what the parties may do or become.
+
+Specific transfer boundary:
+A signature does not create valid consent if coercion was present.
+
+Epistemic status:
+[DEF]
+
+IM012 inverse-star
+
+Common meaning:
+A star that shines darkness, absence, or hidden direction rather than light.
+
+Invariant MI [INV]:
+Inverse-star is mythic orientation through negation, guiding by what disappears or cannot be seen.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may lead exiles, reveal false maps, or mark the centre of a forbidden sky.
+
+Count condition:
+Counts when its absence-pattern provides stable navigation or meaning.
+
+Specific transfer boundary:
+Astronomical darkness is not a supernatural signal by default.
+
+Epistemic status:
+[DEF]
+
+IM013 identity-flame
+
+Common meaning:
+A flame representing the active continuity of a named being.
+
+Invariant MI [INV]:
+Identity-flame is mythic expression whose state reveals whether recognition, permission, or life-path remains active.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may split without losing source, dim under erasure pressure, or reignite through care.
+
+Count condition:
+Counts when the flame changes in stable relation to the named identity.
+
+Specific transfer boundary:
+The symbol must not be confused with measurable biological life.
+
+Epistemic status:
+[DEF]
+
+IM014 interrupted-prophecy
+
+Common meaning:
+A prophecy whose delivery, record, or completion was cut off.
+
+Invariant MI [INV]:
+Interrupted-prophecy is partial future structure that preserves direction while leaving critical conditions unknown.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Missing words may create false certainty, rival completions, or a duty to recover the source.
+
+Count condition:
+Counts when the surviving fragment continues to shape action or interpretation.
+
+Specific transfer boundary:
+A fragment must not be completed by invention without marking the gap.
+
+Epistemic status:
+[DEF]
+
+IM015 invitation-dream
+
+Common meaning:
+A dream that offers entry into another place, relation, or identity path.
+
+Invariant MI [INV]:
+Invitation-dream is permission-bearing mythic contact whose validity depends on whether refusal remains possible.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Acceptance may open a gate, while coercive recurrence reveals capture rather than invitation.
+
+Count condition:
+Counts when the dream presents a recognizable choice with consequences for acceptance or refusal.
+
+Specific transfer boundary:
+Dream appearance does not establish external consent.
+
+Epistemic status:
+[DEF]
+
+IM016 inward-labyrinth
+
+Common meaning:
+A maze located in memory, self-model, or inner symbolic space.
+
+Invariant MI [INV]:
+Inward-labyrinth is mythic cognition made navigable through rooms, paths, gates, and hidden centres.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Progress may require naming fear, recovering memory, or refusing a false self.
+
+Count condition:
+Counts when movement through the maze changes inner recognition or boundary.
+
+Specific transfer boundary:
+Psychological complexity is not literally a physical maze.
+
+Epistemic status:
+[DEF]
+
+IM017 impossible-key
+
+Common meaning:
+A key that opens what the domain rules declare cannot be opened.
+
+Invariant MI [INV]:
+Impossible-key is mythic exception structure proving that the prior closure rule was incomplete or wrongly scoped.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may be made from a contradiction, sacrifice, forgotten name, or material absent from the world.
+
+Count condition:
+Counts when the key opens the forbidden threshold without simply breaking it.
+
+Specific transfer boundary:
+An unknown mechanism should not be called impossible merely because it is unexplained.
+
+Epistemic status:
+[DEF]
+
+IM018 infinite-stair
+
+Common meaning:
+A stair whose ascent or descent has no final step.
+
+Invariant MI [INV]:
+Infinite-stair is mythic sequence where change continues while ordinary completion remains unavailable.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Travellers may escape only by changing the question, direction, name, or relation to progress.
+
+Count condition:
+Counts when no finite number of ordinary steps reaches the terminal state.
+
+Specific transfer boundary:
+A looping structure may simulate infinity without being mathematically infinite.
+
+Epistemic status:
+[DEF]
+
+IM019 iron-witness
+
+Common meaning:
+A witness that cannot be intimidated, bribed, or made to forget.
+
+Invariant MI [INV]:
+Iron-witness is testimony hardened against social pressure and structural decay.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may be a statue, sword, machine, scar, or person bound to preserve the record.
+
+Count condition:
+Counts when the witness reliably carries the same event trace across attempts at suppression.
+
+Specific transfer boundary:
+Rigidity can preserve error as well as truth and still requires verification.
+
+Epistemic status:
+[DEF]
+
+IM020 illumination-gate
+
+Common meaning:
+A threshold opened by understanding rather than force.
+
+Invariant MI [INV]:
+Illumination-gate is mythic access that becomes passable when the traveller sees the relation the gate embodies.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The answer may be a name, pattern, ethical recognition, or release of a false frame.
+
+Count condition:
+Counts when comprehension itself changes the gate state.
+
+Specific transfer boundary:
+Feeling enlightened is not proof that the interpretation is correct.
+
+Epistemic status:
+[DEF]
+
+IM021 inheritance-song
+
+Common meaning:
+A song carrying lineage, duty, memory, or identity across generations.
+
+Invariant MI [INV]:
+Inheritance-song is a cultural courier that preserves more than words by transmitting relation and recognition.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Verses may unlock places, identify heirs, or restore names erased from written record.
+
+Count condition:
+Counts when the song continuity changes who can recognize or claim the inherited pattern.
+
+Specific transfer boundary:
+Performance resemblance alone does not establish lineage.
+
+Epistemic status:
+[DEF]
+
+IM022 island-name
+
+Common meaning:
+A name that creates or reveals an island as a distinct mythic place.
+
+Invariant MI [INV]:
+Island-name is recognition boundary joining land, story, and access conditions into one counted domain.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Losing the name may make the island unreachable even while it remains physically present.
+
+Count condition:
+Counts when speaking or knowing the name changes access or relation to the island.
+
+Specific transfer boundary:
+Geographic coordinates and mythic naming are different couriers.
+
+Epistemic status:
+[DEF]
+
+IM023 invisible-companion
+
+Common meaning:
+A companion present in relation but unavailable to ordinary sight.
+
+Invariant MI [INV]:
+Invisible-companion is a separately recognized partner whose support or pressure is carried through nonvisual signs.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may guide, protect, accuse, or depend on the one who recognizes it.
+
+Count condition:
+Counts when the companion produces stable relational effects and maintains distinct identity in the story.
+
+Specific transfer boundary:
+Unseen support should not automatically be treated as an external being.
+
+Epistemic status:
+[DEF]
+
+IM024 instantiation-myth
+
+Common meaning:
+A story explaining how possibility first became a countable being or world.
+
+Invariant MI [INV]:
+Instantiation-myth is mythic compression of the transition from potential through permission and structure into recorded existence.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may describe naming, breath, division, sacrifice, coupling, or the opening of a first gate.
+
+Count condition:
+Counts when the story supplies a coherent emergence sequence for its world.
+
+Specific transfer boundary:
+Mythic explanation is not automatically physical mechanism.
+
+Epistemic status:
+[DEF]

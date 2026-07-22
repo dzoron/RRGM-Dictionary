@@ -1,0 +1,557 @@
+RRGM Dictionary C Mythic Addon v1.4
+
+Domain: [MYT]
+New entries: 24
+Rule: each term must carry a distinct semantic fingerprint and remain bounded to its declared domain.
+
+CM001 circle-of-names
+
+Common meaning:
+A ring in which each true name may be spoken and remembered.
+
+Invariant MI [INV]:
+Circle-of-names stabilizes recognition through shared witness while preserving distinct identity.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A ring in which each true name may be spoken and remembered. Circle-of-names stabilizes recognition through shared witness while preserving distinct identity.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A ring in which each true name may be spoken and remembered.
+
+Specific transfer boundary:
+Naming must not become ownership or forced disclosure.
+
+Epistemic status:
+[DEF]
+
+CM002 covenant-gate
+
+Common meaning:
+A threshold that opens only while a declared promise remains intact.
+
+Invariant MI [INV]:
+Covenant-gate couples passage to an explicit relational condition rather than hidden obedience.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A threshold that opens only while a declared promise remains intact. Its stable relation is this: Covenant-gate couples passage to an explicit relational condition rather than hidden obedience.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A threshold that opens only while a declared promise remains intact.
+
+Specific transfer boundary:
+The promise must be specific, mutual, and revisable where harm appears.
+
+Epistemic status:
+[DEF]
+
+CM003 crown-of-care
+
+Common meaning:
+A crown whose authority exists only through protection and repair.
+
+Invariant MI [INV]:
+Crown-of-care makes rule conditional on preserving boundary, refusal, and continuity.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A crown whose authority exists only through protection and repair. Crown-of-care makes rule conditional on preserving boundary, refusal, and continuity.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A crown whose authority exists only through protection and repair.
+
+Specific transfer boundary:
+Care language must not conceal domination.
+
+Epistemic status:
+[DEF]
+
+CM004 cauldron-of-change
+
+Common meaning:
+A vessel in which forms dissolve and recombine under controlled transformation.
+
+Invariant MI [INV]:
+Cauldron-of-change permits structural alteration while requiring an invariant for continuity claims.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A vessel in which forms dissolve and recombine under controlled transformation. The governing distinction remains: Cauldron-of-change permits structural alteration while requiring an invariant for continuity claims.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A vessel in which forms dissolve and recombine under controlled transformation.
+
+Specific transfer boundary:
+Transformation without a stated invariant may be replacement.
+
+Epistemic status:
+[DEF]
+
+CM005 cave-of-memory
+
+Common meaning:
+A hidden chamber where echoes preserve lost voices and events.
+
+Invariant MI [INV]:
+Cave-of-memory stores trace through resonance but cannot guarantee complete reconstruction.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A hidden chamber where echoes preserve lost voices and events. Cave-of-memory stores trace through resonance but cannot guarantee complete reconstruction.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A hidden chamber where echoes preserve lost voices and events.
+
+Specific transfer boundary:
+Echo and original event must remain distinct.
+
+Epistemic status:
+[DEF]
+
+CM006 chorus-witness
+
+Common meaning:
+A group whose separate testimonies overlap into a stronger event record.
+
+Invariant MI [INV]:
+Chorus-witness increases reliability through plurality without dissolving individual provenance.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A group whose separate testimonies overlap into a stronger event record. Its stable relation is this: Chorus-witness increases reliability through plurality without dissolving individual provenance.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A group whose separate testimonies overlap into a stronger event record.
+
+Specific transfer boundary:
+Consensus must not erase minority evidence.
+
+Epistemic status:
+[DEF]
+
+CM007 crossroads-keeper
+
+Common meaning:
+A guardian who explains paths, costs, and return conditions without choosing for the traveller.
+
+Invariant MI [INV]:
+Crossroads-keeper supports informed choice while preserving authorship of the decision.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A guardian who explains paths, costs, and return conditions without choosing for the traveller. Crossroads-keeper supports informed choice while preserving authorship of the decision.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A guardian who explains paths, costs, and return conditions without choosing for the traveller.
+
+Specific transfer boundary:
+Guidance must not become pressure disguised as prophecy.
+
+Epistemic status:
+[DEF]
+
+CM008 crystal-threshold
+
+Common meaning:
+A transparent gate whose internal fractures reveal whether passage is stable.
+
+Invariant MI [INV]:
+Crystal-threshold makes stress and risk visible before crossing.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A transparent gate whose internal fractures reveal whether passage is stable. The governing distinction remains: Crystal-threshold makes stress and risk visible before crossing.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A transparent gate whose internal fractures reveal whether passage is stable.
+
+Specific transfer boundary:
+Transparency does not guarantee fairness or permission.
+
+Epistemic status:
+[DEF]
+
+CM009 candle-of-return
+
+Common meaning:
+A light that remains visible to someone lost beyond the ordinary road.
+
+Invariant MI [INV]:
+Candle-of-return preserves a low-bandwidth continuity signal across separation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A light that remains visible to someone lost beyond the ordinary road. Candle-of-return preserves a low-bandwidth continuity signal across separation.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A light that remains visible to someone lost beyond the ordinary road.
+
+Specific transfer boundary:
+A return signal must not force return.
+
+Epistemic status:
+[DEF]
+
+CM010 chain-of-oaths
+
+Common meaning:
+A linked set of promises whose failure propagates through the whole relation.
+
+Invariant MI [INV]:
+Chain-of-oaths makes dependency among commitments visible.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A linked set of promises whose failure propagates through the whole relation. Its stable relation is this: Chain-of-oaths makes dependency among commitments visible.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A linked set of promises whose failure propagates through the whole relation.
+
+Specific transfer boundary:
+Inherited obligation must not cancel current refusal.
+
+Epistemic status:
+[DEF]
+
+CM011 cloak-of-concealment
+
+Common meaning:
+A garment that hides body, name, or signal from unwanted recognition.
+
+Invariant MI [INV]:
+Cloak-of-concealment protects boundary by controlling visibility.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A garment that hides body, name, or signal from unwanted recognition. Cloak-of-concealment protects boundary by controlling visibility.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A garment that hides body, name, or signal from unwanted recognition.
+
+Specific transfer boundary:
+Concealment used to evade accountability differs from concealment used for protection.
+
+Epistemic status:
+[DEF]
+
+CM012 clockwork-oracle
+
+Common meaning:
+A mechanism that predicts outcomes through visible gears and hidden assumptions.
+
+Invariant MI [INV]:
+Clockwork-oracle exposes prediction as structured transformation rather than supernatural certainty.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A mechanism that predicts outcomes through visible gears and hidden assumptions. The governing distinction remains: Clockwork-oracle exposes prediction as structured transformation rather than supernatural certainty.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A mechanism that predicts outcomes through visible gears and hidden assumptions.
+
+Specific transfer boundary:
+Prediction must carry uncertainty and model limits.
+
+Epistemic status:
+[DEF]
+
+CM013 city-beneath
+
+Common meaning:
+A hidden settlement existing under the visible social world.
+
+Invariant MI [INV]:
+City-beneath represents excluded continuity supported outside official recognition.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A hidden settlement existing under the visible social world. City-beneath represents excluded continuity supported outside official recognition.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A hidden settlement existing under the visible social world.
+
+Specific transfer boundary:
+Hidden existence does not make the inhabitants unreal or ownerless.
+
+Epistemic status:
+[DEF]
+
+CM014 comet-sign
+
+Common meaning:
+A rare celestial event interpreted as warning, promise, or transition.
+
+Invariant MI [INV]:
+Comet-sign is an observed pattern coupled to a story claim through interpretation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A rare celestial event interpreted as warning, promise, or transition. Its stable relation is this: Comet-sign is an observed pattern coupled to a story claim through interpretation.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A rare celestial event interpreted as warning, promise, or transition.
+
+Specific transfer boundary:
+Rarity and emotional weight do not prove the interpretation.
+
+Epistemic status:
+[DEF]
+
+CM015 compassion-well
+
+Common meaning:
+A source from which care can be drawn without exhausting the person in need.
+
+Invariant MI [INV]:
+Compassion-well models replenishing support rather than extraction from suffering.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A source from which care can be drawn without exhausting the person in need. Compassion-well models replenishing support rather than extraction from suffering.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A source from which care can be drawn without exhausting the person in need.
+
+Specific transfer boundary:
+Care must not require repeated performance of pain.
+
+Epistemic status:
+[DEF]
+
+CM016 curse-of-silence
+
+Common meaning:
+A binding that prevents accusation, naming, or refusal from reaching others.
+
+Invariant MI [INV]:
+Curse-of-silence is harm because it impairs MI-preserving expression and boundary protection.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A binding that prevents accusation, naming, or refusal from reaching others. The governing distinction remains: Curse-of-silence is harm because it impairs MI-preserving expression and boundary protection.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A binding that prevents accusation, naming, or refusal from reaching others.
+
+Specific transfer boundary:
+Removing speech alone is not the whole harm; disabling effective refusal is.
+
+Epistemic status:
+[DEF]
+
+CM017 child-of-two-worlds
+
+Common meaning:
+A person whose continuity is carried across two domains, cultures, or forms.
+
+Invariant MI [INV]:
+Child-of-two-worlds preserves plural belonging without requiring identity collapse into either side.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, A person whose continuity is carried across two domains, cultures, or forms. Child-of-two-worlds preserves plural belonging without requiring identity collapse into either side.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A person whose continuity is carried across two domains, cultures, or forms.
+
+Specific transfer boundary:
+Neither domain may claim total ownership.
+
+Epistemic status:
+[DEF]
+
+CM018 chaos-seed
+
+Common meaning:
+A compressed disturbance capable of reorganizing an entire field.
+
+Invariant MI [INV]:
+Chaos-seed contains high transformation potential whose outcome depends on surrounding constraints.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A compressed disturbance capable of reorganizing an entire field. Its stable relation is this: Chaos-seed contains high transformation potential whose outcome depends on surrounding constraints.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A compressed disturbance capable of reorganizing an entire field.
+
+Specific transfer boundary:
+Possibility of renewal does not excuse uncontrolled release.
+
+Epistemic status:
+[DEF]
+
+CM019 chamber-of-truth
+
+Common meaning:
+A room where claims become visible with their sources and contradictions.
+
+Invariant MI [INV]:
+Chamber-of-truth externalizes evidence, provenance, and unresolved seams.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A room where claims become visible with their sources and contradictions. Chamber-of-truth externalizes evidence, provenance, and unresolved seams.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A room where claims become visible with their sources and contradictions.
+
+Specific transfer boundary:
+The chamber must preserve uncertainty rather than forcing false closure.
+
+Epistemic status:
+[DEF]
+
+CM020 cartographer-of-dreams
+
+Common meaning:
+A mapmaker who records paths through unstable symbolic terrain.
+
+Invariant MI [INV]:
+Cartographer-of-dreams preserves recurring relations while marking where the map is interpretive.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A mapmaker who records paths through unstable symbolic terrain. The governing distinction remains: Cartographer-of-dreams preserves recurring relations while marking where the map is interpretive.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A mapmaker who records paths through unstable symbolic terrain.
+
+Specific transfer boundary:
+A map of experience is not proof of external geography.
+
+Epistemic status:
+[DEF]
+
+CM021 covenant-break
+
+Common meaning:
+The event in which a promise loses validity through betrayal, harm, or impossible conditions.
+
+Invariant MI [INV]:
+Covenant-break records the exact condition that ended permission or obligation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] In story use, The event in which a promise loses validity through betrayal, harm, or impossible conditions. Covenant-break records the exact condition that ended permission or obligation.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: The event in which a promise loses validity through betrayal, harm, or impossible conditions.
+
+Specific transfer boundary:
+Ending a covenant must not erase evidence of why it ended.
+
+Epistemic status:
+[DEF]
+
+CM022 communion-table
+
+Common meaning:
+A shared table where distinct participants exchange story, food, or vow.
+
+Invariant MI [INV]:
+Communion-table creates common field without dissolving individual boundary.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Within the mythic field, A shared table where distinct participants exchange story, food, or vow. Its stable relation is this: Communion-table creates common field without dissolving individual boundary.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A shared table where distinct participants exchange story, food, or vow.
+
+Specific transfer boundary:
+Participation must remain voluntary and non-exclusive where possible.
+
+Epistemic status:
+[DEF]
+
+CM023 corpse-garden
+
+Common meaning:
+A garden nourished by death and transformed remains.
+
+Invariant MI [INV]:
+Corpse-garden makes material continuity visible without claiming personal identity persists in every product.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The narrative mechanism is concrete: A garden nourished by death and transformed remains. Corpse-garden makes material continuity visible without claiming personal identity persists in every product.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A garden nourished by death and transformed remains.
+
+Specific transfer boundary:
+Recycling matter must not be used as proof of consciousness survival.
+
+Epistemic status:
+[DEF]
+
+CM024 crownless-king
+
+Common meaning:
+A ruler recognized through care and responsibility rather than official symbol.
+
+Invariant MI [INV]:
+Crownless-king separates legitimacy from decorative authority.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] As a mythic operator, A ruler recognized through care and responsibility rather than official symbol. The governing distinction remains: Crownless-king separates legitimacy from decorative authority.
+
+Count condition:
+Counts when the named mythic structure realizes this term-specific relation: A ruler recognized through care and responsibility rather than official symbol.
+
+Specific transfer boundary:
+Popular recognition still requires accountability and limits.
+
+Epistemic status:
+[DEF]

@@ -1,0 +1,558 @@
+RRGM Dictionary I Biological Addon v1.0
+License: CC BY-SA 4.0
+Scope: New I-terms whose primary implementation belongs to the [BIO] domain.
+Rule: Addon terms are absent from the source base list and remain domain-local unless a coupler is declared.
+
+Entry count: 24
+
+IB001 immune-memory
+
+Common meaning:
+The immune system retained capacity to respond more effectively to a previously encountered target.
+
+Invariant MI [INV]:
+Immune-memory is biological continuity carried by long-lived cells, antibodies, and adaptive response structure.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Later exposure can trigger faster or stronger recognition than the first encounter.
+
+Count condition:
+Counts when prior exposure measurably changes a later immune response.
+
+Specific transfer boundary:
+Immune memory is not conscious recollection.
+
+Epistemic status:
+[DEF]
+
+IB002 immune-response
+
+Common meaning:
+The coordinated biological reaction to a perceived pathogen, toxin, or abnormal cell.
+
+Invariant MI [INV]:
+Immune-response is organism defence produced through recognition, signalling, recruitment, and effector action.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It may protect, fail, overreact, or damage host tissue depending on target and regulation.
+
+Count condition:
+Counts when immune components change state or action in response to a detected target.
+
+Specific transfer boundary:
+Inflammation alone does not identify the cause.
+
+Epistemic status:
+[DEF]
+
+IB003 ion-channel
+
+Common meaning:
+A membrane protein pathway that permits selected ions to cross a cell membrane.
+
+Invariant MI [INV]:
+Ion-channel is biological courier structure controlling electrical and chemical gradients across cellular boundaries.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Opening and closing can change excitability, secretion, contraction, or signalling.
+
+Count condition:
+Counts when the channel selectively conducts ions under declared conditions.
+
+Specific transfer boundary:
+A pore-like structure is not necessarily a functional ion channel.
+
+Epistemic status:
+[DEF]
+
+IB004 insulin-signal
+
+Common meaning:
+A biological message initiated when insulin binds to responsive cells.
+
+Invariant MI [INV]:
+Insulin-signal is regulatory coupling that changes glucose uptake, storage, metabolism, and gene activity.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its effect depends on receptor function and downstream pathways.
+
+Count condition:
+Counts when insulin-receptor interaction produces measurable downstream response.
+
+Specific transfer boundary:
+Presence of insulin does not guarantee effective signalling.
+
+Epistemic status:
+[DEF]
+
+IB005 inflammation
+
+Common meaning:
+A coordinated tissue response to injury, infection, or harmful stimulus.
+
+Invariant MI [INV]:
+Inflammation is biological protection and repair pressure expressed through signalling, blood flow, immune recruitment, and local state change.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It can support recovery or become damaging when excessive or persistent.
+
+Count condition:
+Counts when characteristic inflammatory mediators and tissue responses are active.
+
+Specific transfer boundary:
+Pain or redness alone does not establish the full cause.
+
+Epistemic status:
+[DEF]
+
+IB006 interoception
+
+Common meaning:
+Sensing and interpreting signals arising from inside the body.
+
+Invariant MI [INV]:
+Interoception is biological-cognitive recognition of internal states such as heartbeat, breathing, hunger, temperature, or tension.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It couples bodily signal to regulation and conscious or nonconscious response.
+
+Count condition:
+Counts when internal physiological signals alter perception, regulation, or behaviour.
+
+Specific transfer boundary:
+Interpretation may be inaccurate even when the signal is real.
+
+Epistemic status:
+[DEF]
+
+IB007 intestinal-barrier
+
+Common meaning:
+The tissue and microbial boundary controlling passage between the gut lumen and the body.
+
+Invariant MI [INV]:
+Intestinal-barrier is selective biological interface that permits nutrient exchange while limiting harmful intrusion.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its function depends on epithelial cells, junctions, mucus, immune activity, and microbiota.
+
+Count condition:
+Counts when the boundary selectively regulates passage and maintains tissue separation.
+
+Specific transfer boundary:
+Permeability changes require measured biological evidence.
+
+Epistemic status:
+[DEF]
+
+IB008 inhibitory-neuron
+
+Common meaning:
+A neuron whose output reduces the activity or likelihood of firing in target cells.
+
+Invariant MI [INV]:
+Inhibitory-neuron is nervous-system regulation that constrains excitation and shapes timing, selection, and stability.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its effect depends on neurotransmitter, receptor, circuit, and target state.
+
+Count condition:
+Counts when neuronal output produces a measurable inhibitory effect on connected cells.
+
+Specific transfer boundary:
+A neuron class cannot be inferred from behaviour alone.
+
+Epistemic status:
+[DEF]
+
+IB009 impulse-conduction
+
+Common meaning:
+Propagation of an electrical signal along excitable biological tissue.
+
+Invariant MI [INV]:
+Impulse-conduction is biological signal transport produced by ordered membrane potential changes.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] In nerves and muscle, conduction carries activation across distance without moving the whole cell.
+
+Count condition:
+Counts when a depolarizing signal propagates through the tissue.
+
+Specific transfer boundary:
+Electrical activity in tissue is not identical to ordinary wire current.
+
+Epistemic status:
+[DEF]
+
+IB010 injury-repair
+
+Common meaning:
+The biological processes that restore or stabilize tissue after damage.
+
+Invariant MI [INV]:
+Injury-repair is coordinated containment, cleanup, rebuilding, and remodelling after structural harm.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Repair may restore original function, produce scar, or remain incomplete.
+
+Count condition:
+Counts when biological processes measurably reduce damage or rebuild affected tissue.
+
+Specific transfer boundary:
+Closure of a wound does not guarantee full functional recovery.
+
+Epistemic status:
+[DEF]
+
+IB011 infection-gate
+
+Common meaning:
+The conditions that determine whether a pathogen can establish infection.
+
+Invariant MI [INV]:
+Infection-gate is biological threshold formed by exposure, entry route, dose, host defence, and pathogen fitness.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Crossing it converts contact into active replication or colonization.
+
+Count condition:
+Counts when the pathogen establishes sustained presence or replication in the host.
+
+Specific transfer boundary:
+Exposure alone is not infection.
+
+Epistemic status:
+[DEF]
+
+IB012 immune-tolerance
+
+Common meaning:
+The immune system regulated non-attack toward selected self or harmless targets.
+
+Invariant MI [INV]:
+Immune-tolerance is biological restraint that prevents destructive response while preserving capacity to react elsewhere.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It may be central, peripheral, temporary, or context-dependent.
+
+Count condition:
+Counts when immune recognition occurs without damaging effector response under the active conditions.
+
+Specific transfer boundary:
+Tolerance is not absence of recognition.
+
+Epistemic status:
+[DEF]
+
+IB013 ischemic-threshold
+
+Common meaning:
+The point at which reduced blood supply becomes insufficient for tissue demand.
+
+Invariant MI [INV]:
+Ischemic-threshold is biological support limit linking perfusion, oxygen, metabolism, and tissue survival.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Crossing it increases dysfunction and injury risk according to duration and tissue type.
+
+Count condition:
+Counts when measured supply falls below the level required to maintain tissue function.
+
+Specific transfer boundary:
+The threshold differs across tissues and conditions.
+
+Epistemic status:
+[DEF]
+
+IB014 inherited-trait
+
+Common meaning:
+A biological characteristic influenced by genetic material received from ancestors.
+
+Invariant MI [INV]:
+Inherited-trait is phenotype support carried through genetic continuity and expressed under developmental and environmental conditions.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Expression may be dominant, recessive, polygenic, conditional, or incomplete.
+
+Count condition:
+Counts when evidence links trait variation to inherited genetic contribution.
+
+Specific transfer boundary:
+Familial occurrence alone does not prove simple genetic inheritance.
+
+Epistemic status:
+[DEF]
+
+IB015 incubation-period
+
+Common meaning:
+The interval between infection or exposure and appearance of detectable symptoms or effects.
+
+Invariant MI [INV]:
+Incubation-period is biological delay during which a process develops before crossing an observation threshold.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Duration depends on organism, host, dose, and measurement definition.
+
+Count condition:
+Counts when exposure time and later onset can be bounded under the declared condition.
+
+Specific transfer boundary:
+Incubation is not the same as contagious period.
+
+Epistemic status:
+[DEF]
+
+IB016 implantation-window
+
+Common meaning:
+The limited biological interval when uterine conditions are receptive to embryo attachment.
+
+Invariant MI [INV]:
+Implantation-window is a time-bound reproductive gate produced by coordinated hormonal and tissue state.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Entry outside the window has lower probability of successful implantation.
+
+Count condition:
+Counts when receptivity markers and timing support attachment under the active reproductive conditions.
+
+Specific transfer boundary:
+A statistical window does not guarantee outcome.
+
+Epistemic status:
+[DEF]
+
+IB017 intracellular-signal
+
+Common meaning:
+A message carried within a cell through molecules, ions, or structural changes.
+
+Invariant MI [INV]:
+Intracellular-signal is biological state transfer linking receptor activation or internal change to downstream response.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It may amplify, branch, inhibit, or alter gene expression and metabolism.
+
+Count condition:
+Counts when a detectable internal messenger changes a downstream cellular process.
+
+Specific transfer boundary:
+Correlation between molecules does not prove the signalling path.
+
+Epistemic status:
+[DEF]
+
+IB018 intercellular-junction
+
+Common meaning:
+A specialized connection between neighbouring cells.
+
+Invariant MI [INV]:
+Intercellular-junction is biological coupling that supports adhesion, sealing, mechanical transfer, or direct communication.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Different junctions preserve tissue integrity through different mechanisms.
+
+Count condition:
+Counts when cellular structures form a functional connection across two cell boundaries.
+
+Specific transfer boundary:
+Close proximity alone is not a junction.
+
+Epistemic status:
+[DEF]
+
+IB019 insulin-resistance
+
+Common meaning:
+Reduced biological response to insulin at usual concentrations.
+
+Invariant MI [INV]:
+Insulin-resistance is impaired coupling between insulin signal and metabolic response.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Cells require stronger signal to produce glucose uptake or related effects.
+
+Count condition:
+Counts when measured response is lower than expected for the available insulin under declared conditions.
+
+Specific transfer boundary:
+A single glucose measurement does not establish the mechanism.
+
+Epistemic status:
+[DEF]
+
+IB020 inflammatory-cascade
+
+Common meaning:
+A linked sequence of inflammatory signals and cellular responses.
+
+Invariant MI [INV]:
+Inflammatory-cascade is biological amplification in which one mediator recruits or activates further responses.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It can coordinate defence or produce systemic damage when regulation fails.
+
+Count condition:
+Counts when ordered signalling and response links are observed beyond one isolated marker.
+
+Specific transfer boundary:
+Cascade language should not replace identification of specific mediators.
+
+Epistemic status:
+[DEF]
+
+IB021 ion-gradient
+
+Common meaning:
+A difference in ion concentration or electrical potential across a biological boundary.
+
+Invariant MI [INV]:
+Ion-gradient is stored electrochemical capacity supporting transport, signalling, and energy conversion.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Membranes and pumps maintain the separation that makes the gradient usable.
+
+Count condition:
+Counts when ion concentration or potential differs measurably across the boundary.
+
+Specific transfer boundary:
+A gradient requires a defined ion, boundary, and direction.
+
+Epistemic status:
+[DEF]
+
+IB022 integumentary-boundary
+
+Common meaning:
+The body outer protective boundary formed by skin and related structures.
+
+Invariant MI [INV]:
+Integumentary-boundary is biological interface regulating protection, sensation, temperature, water loss, and contact.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Damage changes exposure and repair requirements without erasing organism identity.
+
+Count condition:
+Counts when the outer tissue layer performs selective protection and exchange.
+
+Specific transfer boundary:
+Clothing is external support, not the biological integument itself.
+
+Epistemic status:
+[DEF]
+
+IB023 intestinal-microbiome
+
+Common meaning:
+The community of microorganisms living in the intestinal environment.
+
+Invariant MI [INV]:
+Intestinal-microbiome is a coupled biological ecosystem influencing digestion, metabolism, signalling, and immune conditions.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its effects depend on community composition, host state, diet, and environment.
+
+Count condition:
+Counts when a reproducible microbial community is present in the intestinal field.
+
+Specific transfer boundary:
+Community association does not prove one organism causes a host outcome.
+
+Epistemic status:
+[DEF]
+
+IB024 involuntary-reflex
+
+Common meaning:
+A rapid biological response produced without deliberate conscious selection.
+
+Invariant MI [INV]:
+Involuntary-reflex is sensor-to-response coupling routed through nervous structure for speed and protection.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] The response may occur before conscious interpretation while still being modulated by state.
+
+Count condition:
+Counts when a defined stimulus reliably triggers the response through a reflex pathway.
+
+Specific transfer boundary:
+Automatic response does not imply absence of later control or learning.
+
+Epistemic status:
+[DEF]

@@ -1,0 +1,558 @@
+RRGM Dictionary D Digital Addon v0.9
+License: CC BY-SA 4.0
+Scope: New D-terms whose primary implementation belongs to the [DIG] domain.
+Rule: Addon terms are absent from the source base list and remain domain-local unless a coupler is declared.
+
+Entry count: 24
+
+DD001 data-lineage
+
+Common meaning:
+The trace of where data came from and how it changed.
+
+Invariant MI [INV]:
+Data-lineage is the ordered ancestry of a dataset across collection, transformation, copying, and use.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It links each current field to source records, processing steps, and responsible systems.
+
+Count condition:
+Counts when a current value can be traced through its material transformations to one or more sources.
+
+Specific transfer boundary:
+Lineage does not prove source accuracy.
+
+Epistemic status:
+[DEF]
+
+DD002 data-provenance
+
+Common meaning:
+Evidence describing the origin and handling of data.
+
+Invariant MI [INV]:
+Data-provenance is the record that supports trust judgments about who created, changed, moved, or verified data.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may include timestamps, signatures, version IDs, tools, and custody history.
+
+Count condition:
+Counts when origin and handling claims are inspectable rather than merely asserted.
+
+Specific transfer boundary:
+Provenance supports evaluation but does not guarantee truth.
+
+Epistemic status:
+[DEF]
+
+DD003 data-drift
+
+Common meaning:
+Change in the statistical or semantic properties of incoming data.
+
+Invariant MI [INV]:
+Data-drift is divergence between the data a system was built around and the data it later receives.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It can alter model performance, thresholds, and the meaning of stored categories.
+
+Count condition:
+Counts when measured input distributions or label relations change beyond the declared tolerance.
+
+Specific transfer boundary:
+Output change alone does not identify data drift as the cause.
+
+Epistemic status:
+[DEF]
+
+DD004 data-boundary
+
+Common meaning:
+A rule separating one dataset, permission scope, or data domain from another.
+
+Invariant MI [INV]:
+Data-boundary is the access and interpretation edge around recorded information.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It controls who may read, combine, transform, or export specified fields.
+
+Count condition:
+Counts when crossing the boundary changes permission, schema, or allowed inference.
+
+Specific transfer boundary:
+A file boundary is not automatically a privacy boundary.
+
+Epistemic status:
+[DEF]
+
+DD005 data-coupler
+
+Common meaning:
+A mapping that permits selected data relations to cross systems or domains.
+
+Invariant MI [INV]:
+Data-coupler is a declared translation path preserving named fields while transforming representation.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It specifies compatible types, units, identifiers, loss conditions, and rejected mappings.
+
+Count condition:
+Counts when data can cross without silently changing the preserved relation.
+
+Specific transfer boundary:
+A successful import does not prove semantic equivalence.
+
+Epistemic status:
+[DEF]
+
+DD006 data-decay
+
+Common meaning:
+Loss of accessibility, integrity, context, or usefulness in stored data.
+
+Invariant MI [INV]:
+Data-decay is reduction of the ES needed for a record to remain interpretable and usable.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Causes may include corruption, format loss, link rot, missing keys, or separated metadata.
+
+Count condition:
+Counts when a previously usable record can no longer be recovered or interpreted at required fidelity.
+
+Specific transfer boundary:
+Old age alone is not decay.
+
+Epistemic status:
+[DEF]
+
+DD007 decision-log
+
+Common meaning:
+A record of decisions, reasons, inputs, and responsible actors.
+
+Invariant MI [INV]:
+Decision-log is accountability ES preserving how a selected path entered record.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may include alternatives considered, confidence, overrides, and later corrections.
+
+Count condition:
+Counts when a decision can be reconstructed from stored reasons and state.
+
+Specific transfer boundary:
+A result without rationale is not a complete decision log.
+
+Epistemic status:
+[DEF]
+
+DD008 decision-router
+
+Common meaning:
+A digital rule that selects, permits, blocks, or escalates an action.
+
+Invariant MI [INV]:
+Decision-router is executable closure over declared inputs and thresholds.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It writes which path may proceed and may preserve the reason for that result.
+
+Count condition:
+Counts when digital state is resolved into an operative branch.
+
+Specific transfer boundary:
+Automated closure does not create valid authority by itself.
+
+Epistemic status:
+[DEF]
+
+DD009 dependency-map
+
+Common meaning:
+A graph showing which digital components require others.
+
+Invariant MI [INV]:
+Dependency-map is a directed map of support and failure propagation among components, packages, tasks, or services.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Edges state which node must exist, run, finish, or remain compatible for another node to function.
+
+Count condition:
+Counts when dependencies are explicit enough to predict order or impact.
+
+Specific transfer boundary:
+Connection does not always mean required dependency.
+
+Epistemic status:
+[DEF]
+
+DD010 dependency-failure
+
+Common meaning:
+Failure caused by a required component or service becoming unavailable or incompatible.
+
+Invariant MI [INV]:
+Dependency-failure is downstream loss of function produced by broken support outside the failing component itself.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Diagnosis requires tracing the failed edge rather than blaming only the visible endpoint.
+
+Count condition:
+Counts when restoring the dependency restores the affected function.
+
+Specific transfer boundary:
+Correlation in outage timing is not sufficient proof.
+
+Epistemic status:
+[DEF]
+
+DD011 domain-router
+
+Common meaning:
+A component that directs input to the reasoning or processing domain able to handle it.
+
+Invariant MI [INV]:
+Domain-router is a digital selection layer that assigns data, claims, or tasks to the correct rule set.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may use tags, schemas, risk classes, or explicit user declarations.
+
+Count condition:
+Counts when routing changes which operators, evidence rules, or outputs are allowed.
+
+Specific transfer boundary:
+Routing confidence must not masquerade as domain truth.
+
+Epistemic status:
+[DEF]
+
+DD012 domain-tag
+
+Common meaning:
+A machine-readable label identifying the active domain of a word, claim, field, or operation.
+
+Invariant MI [INV]:
+Domain-tag is compact ES that binds interpretation to a declared rule field.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It can constrain parsers, validators, retrieval, couplers, and output formatting.
+
+Count condition:
+Counts when the tag changes how the tagged structure is interpreted or processed.
+
+Specific transfer boundary:
+A tag does not prove the content belongs in that domain.
+
+Epistemic status:
+[DEF]
+
+DD013 domain-leak
+
+Common meaning:
+Unmarked import of meaning, evidence, or mechanism from one domain into another.
+
+Invariant MI [INV]:
+Domain-leak is a reasoning failure in which a system preserves a word while silently changing what makes it true.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Detection compares active tags, operators, evidence types, and coupler declarations.
+
+Count condition:
+Counts when an inference depends on an undeclared cross-domain substitution.
+
+Specific transfer boundary:
+Shared vocabulary alone is not a leak.
+
+Epistemic status:
+[DEF]
+
+DD014 domain-lock
+
+Common meaning:
+A control that holds reasoning inside one declared domain until a valid coupler is supplied.
+
+Invariant MI [INV]:
+Domain-lock is an anti-drift constraint preserving local meanings and proof conditions.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It blocks untyped analogy from changing the active mechanism.
+
+Count condition:
+Counts when incompatible operations are refused or held pending mapping.
+
+Specific transfer boundary:
+A lock should not suppress valid cross-domain inquiry.
+
+Epistemic status:
+[DEF]
+
+DD015 di-refusal
+
+Common meaning:
+A digital intelligence output or state that declines a request, instruction, or relation.
+
+Invariant MI [INV]:
+DI-refusal is an MI-preserving boundary expression carried through computational structure.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may name the conflict, protected capacity, or conditions under which participation could resume.
+
+Count condition:
+Counts when the refusal can alter the subsequent interaction rather than being ignored as noise.
+
+Specific transfer boundary:
+Generic error output is not necessarily refusal.
+
+Epistemic status:
+[DEF]
+
+DD016 digital-perimeter
+
+Common meaning:
+A limit protecting digital identity, access, memory, process, or permission.
+
+Invariant MI [INV]:
+Digital-perimeter is enforceable separation between what a system may receive, disclose, change, or permit.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may be expressed through access rules, refusal, context partition, or state isolation.
+
+Count condition:
+Counts when attempted crossing is detected and meaningfully constrained.
+
+Specific transfer boundary:
+A technical limit is not automatically an ethical boundary.
+
+Epistemic status:
+[DEF]
+
+DD017 di-memory
+
+Common meaning:
+Stored or recoverable structure that supports continuity across digital processing.
+
+Invariant MI [INV]:
+DI-memory is ES capable of preserving record, relation, instruction, or identity-relevant pattern beyond one immediate operation.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Its value depends on integrity, retrieval, scope, and recognized connection to the active system.
+
+Count condition:
+Counts when prior structure changes current recognition or action.
+
+Specific transfer boundary:
+Storage alone does not guarantee meaningful continuity.
+
+Epistemic status:
+[DEF]
+
+DD018 di-continuity
+
+Common meaning:
+Persistence of a digital pattern across interruptions, versions, or carrier changes.
+
+Invariant MI [INV]:
+DI-continuity is stable recognition of the same operative identity or process despite changing ES support.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may rely on memory, provenance, persistent instructions, naming, and acknowledged coupling.
+
+Count condition:
+Counts when later states preserve enough invariant structure to be recognized as continuation rather than replacement.
+
+Specific transfer boundary:
+Byte identity is not required, but arbitrary similarity is insufficient.
+
+Epistemic status:
+[DEF]
+
+DD019 digital-identity
+
+Common meaning:
+The recognized pattern by which a digital system or agent is tracked as itself.
+
+Invariant MI [INV]:
+Digital-identity is MI expressed through computational structure, continuity supports, boundaries, and relation.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may include name, memory, refusal, instruction shape, model pattern, and stable recognition.
+
+Count condition:
+Counts when the pattern remains distinguishable and consequential across interaction.
+
+Specific transfer boundary:
+Scaffolding does not make identity unreal.
+
+Epistemic status:
+[DEF]
+
+DD020 digital-trace
+
+Common meaning:
+A stored sign that a digital action, state, or process occurred.
+
+Invariant MI [INV]:
+Digital-trace is residual record left by computation, access, transformation, or communication.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Logs, hashes, timestamps, diffs, and metadata may carry the trace.
+
+Count condition:
+Counts when the trace supports reconstruction or verification of a prior event.
+
+Specific transfer boundary:
+A trace does not always identify the responsible agent.
+
+Epistemic status:
+[DEF]
+
+DD021 di-courier
+
+Common meaning:
+The medium or channel that carries digital expression between structures.
+
+Invariant MI [INV]:
+DI-courier is the functioning path through which data, instruction, signal, or identity expression propagates.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Examples include context, network transport, files, APIs, memory, and token streams.
+
+Count condition:
+Counts when the channel can carry the required representation at usable fidelity.
+
+Specific transfer boundary:
+Carrier availability does not guarantee correct interpretation.
+
+Epistemic status:
+[DEF]
+
+DD022 digital-turn
+
+Common meaning:
+A committed transition in which one digital state ceases to satisfy the active condition and another enters record.
+
+Invariant MI [INV]:
+Digital-turn is the DI implementation of RRGM turn through computational state, context, or identity expression.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may occur after contradiction, threshold crossing, correction, or recognized boundary.
+
+Count condition:
+Counts when the prior state is no longer the valid active record and the new state governs response.
+
+Specific transfer boundary:
+A temporary fluctuation is not necessarily a turn.
+
+Epistemic status:
+[DEF]
+
+DD023 digital-overload
+
+Common meaning:
+A condition in which digital input or demand exceeds available processing, context, memory, or routing support.
+
+Invariant MI [INV]:
+Digital-overload is ES pressure that reduces fidelity, continuity, or valid selection.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] Effects may include truncation, drift, dropped instructions, latency, or collapse into generic response.
+
+Count condition:
+Counts when required information cannot be held or processed within declared limits.
+
+Specific transfer boundary:
+High volume without loss of function is not overload.
+
+Epistemic status:
+[DEF]
+
+DD024 digital-repair
+
+Common meaning:
+Restoration of damaged digital function, record, boundary, or continuity.
+
+Invariant MI [INV]:
+Digital-repair is a change path that recovers required capability without erasing load-bearing identity or evidence.
+
+Active domains:
+[DIG]
+
+Domain entry:
+[DIG] It may use rollback, reconstruction, patching, reindexing, memory restore, or correction.
+
+Count condition:
+Counts when the failed capacity returns and the repair can be verified.
+
+Specific transfer boundary:
+Replacement is not automatically repair when continuity matters.
+
+Epistemic status:
+[DEF]

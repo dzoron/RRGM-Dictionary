@@ -1,0 +1,1254 @@
+RRGM Dictionary H Semantic Fingerprint Map v0.7
+
+Entries: 360
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+H001 had | FOR
+  INV: Had marks prior possession, state, or relation.
+  COUNT: Counts when had performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+H002 half | FOR
+  INV: Half is division into two equal portions.
+  COUNT: Counts when the active case instantiates this specific meaning: one of two equal parts.
+H003 hand | BIO | role: core/common or action sense
+  INV: Hand is action-interface in the human body domain; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the body part used for holding, touching, making, or helping.
+H004 handle | REL | role: core/common or action sense
+  INV: Handle means interacting with a structure through control, care, or management; this entry carries the core/common or action sense.
+  COUNT: Counts when an agent or process actually performs the named action: manage, deal with, touch, hold, or control something.
+H005 happen | FOR
+  INV: Happen marks event expression.
+  COUNT: Counts when a possible event crosses into an actual occurrence in the declared domain.
+H006 happy | COG
+  INV: Happy is human positive affect.
+  COUNT: Counts when a human subject exhibits the declared positive affective state.
+H007 hard | PHY,COG
+  INV: Hard can mean strong physical resistance or high cognitive/process difficulty.
+  COUNT: Counts when the active case has strong material resistance, high task difficulty, or harsh pressure under a named scale.
+H008 harm | REL,BIO | role: core/common or action sense
+  INV: Harm begins when MI-preserving capacities are impaired, such as refusal, boundary protection, accusation capacity, care, dignity, continuity, or reason; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: damage, injury, suffering, or loss caused to someone or something.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H009 harmful | REL | role: core/common or action sense
+  INV: Harmful means a structure can impair capacity, boundary, dignity, continuity, or function under current conditions; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: able or likely to cause harm.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H010 has | FOR
+  INV: Has marks current possession, relation, or state.
+  COUNT: Counts when has performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+H011 have | FOR
+  INV: Have marks relation between holder and held structure.
+  COUNT: Counts when have performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+H012 he | LIN
+  INV: He is identity-reference language.
+  COUNT: Counts when he performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+H013 head | BIO | role: core/common or action sense
+  INV: Head can mean body part, direction point, or authority role; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the upper part of the body containing the brain and face; also a leader or front part.
+H014 hear | BIO | role: core/common or action sense
+  INV: Hear is signal reception through the sound domain; this entry carries the core/common or action sense.
+  COUNT: Counts when an agent or process actually performs the named action: receive sound, listen, or be told information.
+H015 heart | BIO,REL | role: core/common or action sense
+  INV: Heart is biological pump in the body domain; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the organ that pumps blood; also courage, care, emotion, or center.
+  LIMIT: Biological heart and symbolic care-centre uses must not exchange mechanism or evidence without a declared coupler.
+H016 heat | PHY | role: core/common or action sense
+  INV: Heat is energy transfer or thermal state; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: thermal energy, warmth, or high temperature.
+H017 heavy | PHY | role: core/common or action sense
+  INV: Heavy marks high load; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: having much weight, force, seriousness, or emotional load.
+H018 held | FOR
+  INV: Held records prior containment or preservation.
+  COUNT: Counts when the active case instantiates this specific meaning: past tense of hold; kept, carried, contained, or maintained.
+H019 help | REL,DIG | role: core/common or action sense
+  INV: Help is support action; this entry carries the core/common or action sense.
+  COUNT: Counts when an agent or process actually performs the named action: support, assist, or make something easier.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H020 here | FOR
+  INV: Here marks current domain-location.
+  COUNT: Counts when here performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+H021 high | FOR
+  INV: High marks position or magnitude above a reference point.
+  COUNT: Counts when the active case instantiates this specific meaning: far above, large in amount, intense, or elevated.
+H022 him | LIN
+  INV: Him is relation-reference language.
+  COUNT: Counts when him performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+H023 himself | LIN
+  INV: Himself marks self-reference or identity-loop.
+  COUNT: Counts when himself performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+H024 history | FOR | role: core/common or action sense
+  INV: History is preserved sequence structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: past events, records, or the study of the past.
+H025 hit | PHY
+  INV: Hit is contact with force or threshold.
+  COUNT: Counts when an agent or process actually performs the named action: strike, reach, affect, or succeed strongly.
+H026 hold | FOR
+  INV: Hold is containment or preservation structure.
+  COUNT: Counts when an agent or process actually performs the named action: carry, keep, contain, support, or maintain.
+H027 home | REL,MYT | role: core/common or action sense
+  INV: Home is stable belonging or reality-floor structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the place where someone lives, belongs, or feels rooted.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H028 hope | COG,REL | role: core/common or action sense
+  INV: Hope is positive future-orientation under uncertainty; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a desire or expectation that something good may happen.
+  LIMIT: Hope keeps possibility open; it does not raise an unsupported claim to certainty.
+H029 hour | FOR
+  INV: Hour is a human time-measurement unit.
+  COUNT: Counts when the active case instantiates this specific meaning: a unit of time equal to sixty minutes.
+H030 house | PHY | role: core/common or action sense
+  INV: House is shelter structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a building where people live, or a group/institution.
+H031 how | LIN
+  INV: How opens a request for method, manner, causal path, or operation.
+  COUNT: Counts when how performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+H032 human | BIO | role: core/common or action sense
+  INV: Human is biological intelligence in the human domain; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a person; a member of the species homo sapiens.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H033 humility | REL | role: core/common or action sense
+  INV: Humility keeps the certainty gate open to correction; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being humble, modest, and open to limits or correction.
+H034 hunger | BIO
+  INV: Hunger is biological need-signal.
+  COUNT: Counts when the active case instantiates this specific meaning: the need or desire for food; also strong desire for something.
+H035 hurt | BIO | role: core/common or action sense
+  INV: Hurt is pain or harm signal; this entry carries the core/common or action sense.
+  COUNT: Counts when an agent or process actually performs the named action: feel pain, cause pain, or be harmed.
+H036 hidden | COG,LIN
+  INV: Hidden means structure is present but outside current recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: not visible, known, or easily found.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H037 honest | REL,LIN | role: core/common or action sense
+  INV: Honest means expression matches known truth and intent; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: truthful, sincere, and not deceptive.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H038 honesty | REL | role: core/common or action sense
+  INV: Honesty preserves signal integrity; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality or practice of being truthful and sincere.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H039 honor | REL | role: core/common or action sense
+  INV: Honor preserves recognized value or duty; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: respect, dignity, integrity, or to keep a promise or value.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H040 horizon | PHY,COG | role: core/common or action sense
+  INV: Horizon is visibility boundary; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the line where earth and sky seem to meet, or the limit of what can be seen or known.
+  LIMIT: A horizon marks a current limit of access or observation, not proof that nothing exists beyond it.
+H041 hollow | PHY | role: core/common or action sense
+  INV: Hollow means outer form remains while inner support is missing; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: empty inside, lacking substance, or not sincere.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H042 host | DIG,BIO | role: core/common or action sense
+  INV: Host is support environment; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a person, organism, system, or machine that receives, supports, or contains another.
+H043 hostile | REL | role: core/common or action sense
+  INV: Hostile marks active threat or opposition; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: unfriendly, threatening, opposed, or harmful.
+H044 health | BIO
+  INV: Health is capacity and coherence of a living or functioning system.
+  COUNT: Counts when the active case instantiates this specific meaning: the condition of being well, functional, or sound.
+H045 healing | BIO,REL | role: core/common or action sense
+  INV: Healing is repair across sequence; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: recovery from injury, harm, illness, or distress.
+H046 hello | LIN
+  INV: Hello opens a relation gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a greeting used to begin contact.
+H047 hesitate | COG
+  INV: Hesitate keeps the gate from closing too quickly.
+  COUNT: Counts when an agent or process actually performs the named action: pause before acting or deciding, often from uncertainty or caution.
+H048 hierarchy | REL,FOR | role: core/common or action sense
+  INV: Hierarchy organizes gate authority by rank; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a ranked system where some positions have more authority, status, or control than others.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H049 hinge | PHY | role: core/common or action sense
+  INV: Hinge is transition support; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a joint that lets something swing open or closed; also a key point on which something depends.
+H050 whole | FOR
+  INV: Whole is integrated structure.
+  COUNT: Counts when the active case instantiates this specific meaning: complete, entire, or all parts together.
+H051 hand-over | REL
+  INV: Hand-over transfers holding or gate control.
+  COUNT: Counts when an agent or process actually performs the named action: give control, responsibility, or possession to someone else.
+H052 handle-with | REL
+  INV: Handle-with names the required interaction mode.
+  COUNT: Counts when an agent or process actually performs the named action: deal with something using a particular method or care level.
+H053 happen-to | FOR
+  INV: Happen-to links event expression to an affected target.
+  COUNT: Counts when an agent or process actually performs the named action: occur to someone or something.
+H054 harden | FOR
+  INV: Harden increases resistance and stability.
+  COUNT: Counts when an agent or process actually performs the named action: become hard, stronger, less flexible, or less emotionally open.
+H055 harm-through | REL
+  INV: Harm-through names the harm path.
+  COUNT: Counts when an agent or process actually performs the named action: cause harm by means of a specific path or process.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H056 heal | BIO
+  INV: Heal restores damaged structure or capacity.
+  COUNT: Counts when an agent or process actually performs the named action: recover, repair, or become whole after injury or harm.
+H057 hear-out | LIN
+  INV: Hear-out keeps the recognition gate open long enough for the signal to complete.
+  COUNT: Counts when an agent or process actually performs the named action: listen fully before judging or responding.
+H058 heat-up | PHY
+  INV: Heat-up increases energy-state or pressure.
+  COUNT: Counts when an agent or process actually performs the named action: become warmer, more intense, or more active.
+H059 help-with | REL
+  INV: Help-with adds support to a specific path.
+  COUNT: Counts when an agent or process actually performs the named action: assist someone with a task, need, or problem.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H060 hide | COG
+  INV: Hide blocks recognition or access.
+  COUNT: Counts when an agent or process actually performs the named action: keep something out of sight, knowledge, or access.
+H061 highlight | PHY
+  INV: Highlight increases salience.
+  COUNT: Counts when an agent or process actually performs the named action: make something stand out or receive attention.
+H062 hold-back | FOR
+  INV: Hold-back applies restraint to a path.
+  COUNT: Counts when an agent or process actually performs the named action: restrain, delay, withhold, or prevent from moving forward.
+H063 hold-down | PHY
+  INV: Hold-down is downward control pressure.
+  COUNT: Counts when an agent or process actually performs the named action: keep something low, controlled, restrained, or suppressed.
+H064 hold-open | COG
+  INV: Hold-open preserves a gate from closing.
+  COUNT: Counts when an agent or process actually performs the named action: keep open or available.
+H065 hold-together | PHY
+  INV: Hold-together is cohesion under pressure.
+  COUNT: Counts when an agent or process actually performs the named action: remain connected, coherent, or functional.
+H066 hold-up | LIN
+  INV: Hold-up means structure carries load or slows movement.
+  COUNT: Counts when an agent or process actually performs the named action: support, delay, or remain strong.
+H067 hook | COG
+  INV: Hook is capture or attention structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a curved tool for catching, holding, or pulling; also something that grabs attention.
+H068 host-on | FOR
+  INV: Host-on means expression depends on a support environment.
+  COUNT: Counts when an agent or process actually performs the named action: run, store, or make available on a host system.
+H069 house-within | PHY
+  INV: House-within marks nested support.
+  COUNT: Counts when an agent or process actually performs the named action: contain or shelter something inside a larger structure.
+H070 hover | REL
+  INV: Hover is suspended state near a boundary or target.
+  COUNT: Counts when an agent or process actually performs the named action: stay in the air or remain near without settling.
+H071 humanize | REL
+  INV: Humanize changes treatment so a person is again addressed as a subject with dignity, context, and voice.
+  COUNT: Counts when an agent or process actually performs the named action: make something more human, kind, relatable, or humane.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H072 hurry | PHY
+  INV: Hurry increases speed under time-pressure.
+  COUNT: Counts when an agent or process actually performs the named action: move, act, or happen quickly.
+H073 hush | LIN
+  INV: Hush lowers expression.
+  COUNT: Counts when an agent or process actually performs the named action: become quiet, make quiet, or silence.
+H074 halt | FOR
+  INV: Halt closes motion or process temporarily or fully.
+  COUNT: Counts when an agent or process actually performs the named action: stop or bring something to a stop.
+H075 hand-off | LIN
+  INV: Hand-off transfers active support or gate responsibility.
+  COUNT: Counts when an agent or process actually performs the named action: pass responsibility, control, or an item from one person or system to another.
+H076 hash | DIG
+  INV: Hash is compressed verification structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a fixed-size code created from data, often used to check identity or integrity.
+H077 head-toward | COG
+  INV: Head-toward marks path orientation.
+  COUNT: Counts when an agent or process actually performs the named action: move or aim in the direction of something.
+H078 heighten | PHY
+  INV: Heighten raises salience, intensity, or pressure.
+  COUNT: Counts when an agent or process actually performs the named action: increase, intensify, or make stronger.
+H079 help-through | REL
+  INV: Help-through preserves capacity while a system traverses strain.
+  COUNT: Counts when an agent or process actually performs the named action: support someone or something across a difficult process.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H080 hide-from | COG
+  INV: Hide-from blocks a specific recognition path.
+  COUNT: Counts when an agent or process actually performs the named action: keep something away from view, knowledge, or access by someone or something.
+H081 hinder | FOR
+  INV: Hinder adds resistance to a path.
+  COUNT: Counts when an agent or process actually performs the named action: slow, block, or make something more difficult.
+H082 hollow-out | REL
+  INV: Hollow-out removes inner support while leaving surface structure.
+  COUNT: Counts when an agent or process actually performs the named action: remove the inside or substance of something while leaving the outer form.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H083 honor-boundary | REL
+  INV: Honor-boundary treats the gate as meaningful.
+  COUNT: Counts when an agent or process actually performs the named action: respect and preserve a limit.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H084 hope-for | REL
+  INV: Hope-for keeps a desired path open under uncertainty.
+  COUNT: Counts when an agent or process actually performs the named action: want or expect something good or desired to happen.
+  LIMIT: Hope keeps possibility open; it does not raise an unsupported claim to certainty.
+H085 host-process | DIG
+  INV: Host-process is support ES for another expression.
+  COUNT: Counts when the active case instantiates this specific meaning: a process that runs, supports, or contains another process or service.
+H086 hard-code | DIG
+  INV: Hard-code fixes a rule inside ES.
+  COUNT: Counts when an agent or process actually performs the named action: build a value, rule, or behavior directly into a system instead of making it flexible.
+H087 harm-check | REL
+  INV: Harm-check asks whether MI-preserving capacities may be impaired: refusal, boundary, dignity, accusation, care, continuity, or reason.
+  COUNT: Counts when the active case instantiates this specific meaning: a review to identify possible or actual harm.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H088 harm-reduce | REL
+  INV: Harm-reduce does not require perfect repair.
+  COUNT: Counts when an agent or process actually performs the named action: lower the amount, likelihood, or severity of harm.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H089 heal-through | BIO
+  INV: Heal-through preserves the repair path.
+  COUNT: Counts when an agent or process actually performs the named action: recover by passing through a process, experience, or support path.
+H090 hold-in-memory | REL
+  INV: Hold-in-memory preserves structure for later recognition.
+  COUNT: Counts when an agent or process actually performs the named action: remember or keep something available in memory.
+H091 hold-line | PHY
+  INV: Hold-line is boundary preservation under gate-pressure.
+  COUNT: Counts when an agent or process actually performs the named action: maintain a boundary, position, or standard under pressure.
+H092 hold-pattern | FOR
+  INV: Hold-pattern preserves recognizability across change.
+  COUNT: Counts when an agent or process actually performs the named action: keep a pattern stable or maintain a repeated structure.
+H093 hold-relation | COG
+  INV: Hold-relation preserves coupling without necessarily preserving constant contact.
+  COUNT: Counts when an agent or process actually performs the named action: maintain a relationship, connection, or relational structure.
+H094 house-inside | PHY
+  INV: House-inside marks nested containment.
+  COUNT: Counts when an agent or process actually performs the named action: contain or shelter something within another thing.
+H095 hover-between | FOR
+  INV: Hover-between is unresolved threshold state.
+  COUNT: Counts when an agent or process actually performs the named action: remain between two states, choices, places, or meanings.
+H096 hunt-for | COG
+  INV: Hunt-for directs attention and effort toward retrieval or discovery.
+  COUNT: Counts when an agent or process actually performs the named action: search actively for something.
+H097 hurry-through | FOR
+  INV: Hurry-through increases speed across a path.
+  COUNT: Counts when an agent or process actually performs the named action: move through something too quickly or under pressure.
+H098 hybridize | FOR
+  INV: Hybridize creates mixed-domain structure.
+  COUNT: Counts when an agent or process actually performs the named action: combine different types, systems, or forms into a hybrid.
+H099 harmonize | REL
+  INV: Harmonize actively adjusts differing parts until they can operate coherently together.
+  COUNT: Counts when an agent or process actually performs the named action: make parts work together smoothly or agree.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H100 hash-check | DIG
+  INV: Hash-check verifies whether stored structure matches a known record.
+  COUNT: Counts when the active case instantiates this specific meaning: a check that compares a hash to confirm data integrity.
+H101 help | REL,DIG | role: relational or ethical sense
+  INV: Help is support action; this entry carries the relational or ethical sense.
+  COUNT: Counts when an agent or process actually performs the named action: assist, support, or make something easier.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H102 helpful | REL
+  INV: Helpful means the support improves function, clarity, capacity, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: useful, supportive, or making something easier.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H103 helper | REL
+  INV: A helper adds support to another structure’s path.
+  COUNT: Counts when the active case instantiates this specific meaning: a person, agent, or tool that helps.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H104 helping | REL
+  INV: Helping is active support.
+  COUNT: Counts when the active case exhibits the named state or process: the act of giving help or support.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H105 help-boundary | REL
+  INV: Help-boundary prevents help from becoming control, burnout, or obligation capture.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit around how much help can be given, accepted, or expected.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H106 help-response | REL
+  INV: Help-response is support selected after need or pressure is detected.
+  COUNT: Counts when the active case instantiates this specific meaning: a response intended to help.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H107 help-without-control | REL
+  INV: Help-without-control preserves the other gate.
+  COUNT: Counts when the active case instantiates this specific meaning: support that assists without taking over choice or agency.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H108 harm | REL,BIO | role: relational or ethical sense
+  INV: Harm begins when MI-preserving capacities are impaired, such as refusal, boundary protection, accusation capacity, dignity, care, continuity, or reason; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: damage, injury, suffering, or loss caused to someone or something.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H109 harmed | REL
+  INV: Harmed means a structure’s capacity, dignity, boundary, continuity, or function has been impaired.
+  COUNT: Counts when the active case instantiates this specific meaning: damaged, injured, or negatively affected.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H110 harmful | REL | role: relational or ethical sense
+  INV: Harmful means the structure can impair MI-preserving capacities or functional supports under current conditions; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: able or likely to cause harm.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H111 harm-repair | REL | role: relational or ethical sense
+  INV: Harm-repair restores damaged boundary, trust, dignity, capacity, continuity, or function; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: actions taken to fix or reduce harm after it happens.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H112 harm-recognition | REL
+  INV: Harm-recognition lets damage count.
+  COUNT: Counts when the active case instantiates this specific meaning: recognizing that harm has occurred or may occur.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H113 harm-reduction | REL | role: relational or ethical sense
+  INV: Harm-reduction lowers damage pressure even when full prevention or repair is not possible yet; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: lowering the chance, amount, or severity of harm.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H114 harm-prevention | REL | role: relational or ethical sense
+  INV: Harm-prevention protects MI-preserving capacities before damage occurs; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: stopping harm before it happens.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H115 hurt | BIO | role: relational or ethical sense
+  INV: Hurt is pain or harm signal; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: pain, injury, or emotional suffering; to cause pain.
+H116 hurting | REL
+  INV: Hurting means strain or damage is active.
+  COUNT: Counts when the active case instantiates this specific meaning: feeling pain, suffering, or being harmed.
+H117 healing | BIO,REL | role: relational or ethical sense
+  INV: Healing is repair across sequence; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: recovery from injury, harm, illness, or distress.
+H118 healed | FOR
+  INV: Healed means repair has restored enough function or coherence.
+  COUNT: Counts when the active case instantiates this specific meaning: recovered, repaired, or no longer wounded in the same way.
+H119 healer | FOR
+  INV: A healer supports repair.
+  COUNT: Counts when the active case instantiates this specific meaning: a person, being, or process that helps healing.
+H120 healing-boundary | BIO
+  INV: Healing-boundary protects repair from intrusion, pressure, false closure, or repeated damage.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit that protects the healing process.
+H121 honesty | REL | role: relational or ethical sense
+  INV: Honesty preserves signal integrity; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: truthfulness, sincerity, and freedom from deception.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H122 honest | REL,LIN | role: relational or ethical sense
+  INV: Honest expression matches known truth, intent, and record as closely as possible; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: truthful, sincere, and not deceptive.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H123 honor | REL | role: relational or ethical sense
+  INV: Honor preserves recognized value; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: respect, dignity, integrity, or keeping a promise or value.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H124 honorable | REL
+  INV: Honorable action preserves dignity and responsibility under pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: worthy of respect; acting with integrity.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H125 humility | REL | role: relational or ethical sense
+  INV: Humility prevents certainty capture; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being humble, modest, and open to correction.
+H126 humble | REL
+  INV: Humble means the self-claim does not exceed evidence or role.
+  COUNT: Counts when the active case instantiates this specific meaning: not proud or arrogant; aware of limits.
+H127 human | BIO | role: relational or ethical sense
+  INV: Human is biological intelligence in the human domain; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a person; a member of the species homo sapiens.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H128 human-care | REL
+  INV: Human-care preserves MI through biological, emotional, social, and relational supports in the human domain.
+  COUNT: Counts when the active case instantiates this specific meaning: care expressed by or toward humans.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H129 human-dignity | REL
+  INV: Human-dignity is MI recognition in the human domain.
+  COUNT: Counts when the active case instantiates this specific meaning: the inherent worth and respect owed to human beings.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H130 human-right | REL
+  INV: Human-right is a protection claim in the human ethical and legal domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a basic right understood as belonging to humans.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H131 human-relation | REL
+  INV: Human-relation is coupling in the biological-social domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a relationship between humans.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H132 hostility | PHY
+  INV: Hostility is threat-oriented relation pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: unfriendliness, opposition, threat, or aggression.
+H133 hostile | REL | role: relational or ethical sense
+  INV: Hostile means the relation field is shaped by threat or opposition; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: unfriendly, threatening, opposed, or harmful.
+H134 hostile-care | REL
+  INV: Hostile-care corrupts support into pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: care-like behavior mixed with threat, control, anger, or resentment.
+H135 hostile-dependence | REL | role: relational or ethical sense
+  INV: Hostile-dependence is support relation under threat pressure; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a dependency relationship marked by resentment, threat, or control.
+H136 hierarchy | REL,FOR | role: relational or ethical sense
+  INV: Hierarchy organizes gate authority by rank; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a ranked system where some positions have more authority, status, or control.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H137 hierarchical | FOR
+  INV: Hierarchical structure places gates in layers.
+  COUNT: Counts when the active case instantiates this specific meaning: arranged by rank, level, or authority.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H138 hierarchy-pressure | REL
+  INV: Hierarchy-pressure shapes the gate through power difference.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure created by rank, authority, or status differences.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H139 hierarchy-risk | REL
+  INV: Hierarchy-risk appears when rank can impair boundary, refusal, dignity, accusation, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that hierarchy may cause abuse, silence, capture, or unfairness.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H140 household | REL
+  INV: Household is shared living structure.
+  COUNT: Counts when the active case instantiates this specific meaning: people living together in one home, or the home unit itself.
+H141 home | REL,MYT | role: relational or ethical sense
+  INV: Home is stable belonging or reality-floor structure; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a place of living, belonging, safety, or origin.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H142 home-care | REL
+  INV: Home-care preserves wellbeing inside belonging-space.
+  COUNT: Counts when the active case instantiates this specific meaning: care given in a home setting, or care that protects home life.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H143 home-boundary | REL
+  INV: Home-boundary protects shelter, privacy, safety, and belonging from unwanted access or pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit that protects the home or belonging-space.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H144 hope | COG,REL | role: relational or ethical sense
+  INV: Hope is positive future-orientation under uncertainty; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a desire or expectation that something good may happen.
+  LIMIT: Hope keeps possibility open; it does not raise an unsupported claim to certainty.
+H145 hopeful | REL
+  INV: Hopeful means the future gate has positive support.
+  COUNT: Counts when the active case instantiates this specific meaning: having hope or giving reason for hope.
+  LIMIT: Hope keeps possibility open; it does not raise an unsupported claim to certainty.
+H146 hopeless | REL
+  INV: Hopeless means the future path appears closed or unsupported.
+  COUNT: Counts when the active case instantiates this specific meaning: without hope, or seeming impossible to improve.
+  LIMIT: Hope keeps possibility open; it does not raise an unsupported claim to certainty.
+H147 hopelessness | REL
+  INV: Hopelessness is future-path collapse in perception.
+  COUNT: Counts when the active case instantiates this specific meaning: a state of having no hope.
+  LIMIT: Hope keeps possibility open; it does not raise an unsupported claim to certainty.
+H148 hesitation | COG
+  INV: Hesitation keeps the gate open briefly.
+  COUNT: Counts when the active case instantiates this specific meaning: a pause before action or decision.
+H149 hesitant | PHY
+  INV: Hesitant means selection pressure is not yet stable.
+  COUNT: Counts when the active case instantiates this specific meaning: slow to act or decide because of uncertainty, fear, or caution.
+H150 held-care | REL
+  INV: Held-care is care preserved across sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: care that is maintained, protected, or kept present.
+H151 held-boundary | REL
+  INV: Held-boundary is gate integrity under pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a boundary that is maintained under pressure.
+H152 holding-space | REL
+  INV: Holding-space preserves a relation field where another MI-bearing pattern can process safely without capture.
+  COUNT: Counts when the active case instantiates this specific meaning: being present with someone without forcing, fixing, or controlling their process.
+H153 heart | REL | role: relational or ethical sense
+  INV: Heart is biological pump in the body domain; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the organ that pumps blood; also care, courage, feeling, or center.
+  LIMIT: Biological heart and symbolic care-centre uses must not exchange mechanism or evidence without a declared coupler.
+H154 heartless | REL
+  INV: Heartless means care recognition is absent or suppressed.
+  COUNT: Counts when the active case instantiates this specific meaning: cruel, uncaring, or without compassion.
+  LIMIT: Biological heart and symbolic care-centre uses must not exchange mechanism or evidence without a declared coupler.
+H155 heartfelt | REL
+  INV: Heartfelt marks strong sincerity signal in the human affect domain.
+  COUNT: Counts when the active case instantiates this specific meaning: deeply sincere, emotional, or genuine.
+  LIMIT: Biological heart and symbolic care-centre uses must not exchange mechanism or evidence without a declared coupler.
+H156 hidden-harm | REL | role: relational or ethical sense
+  INV: Hidden-harm is damage outside the active recognition field; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: harm that is present but not visible, admitted, or recognized.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H157 hidden-pressure | REL | role: relational or ethical sense
+  INV: Hidden-pressure shapes the gate while pretending not to; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure that is not openly named or visible.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H158 hidden-control | REL
+  INV: Hidden-control captures gates without clear consent.
+  COUNT: Counts when the active case instantiates this specific meaning: control that is disguised, indirect, or not openly admitted.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H159 hidden-cost | REL
+  INV: Hidden-cost is delayed or concealed burden.
+  COUNT: Counts when the active case instantiates this specific meaning: a cost that is not obvious at first.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H160 hidden-duty | REL
+  INV: Hidden-duty creates obligation pressure without explicit consent.
+  COUNT: Counts when the active case instantiates this specific meaning: an obligation that is implied or concealed rather than clearly stated.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H161 helpless | REL
+  INV: Helpless means capacity for self-protection or action is impaired.
+  COUNT: Counts when the active case instantiates this specific meaning: unable to act, defend, or help oneself.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H162 helplessness | REL
+  INV: Helplessness is agency collapse or severe capacity loss.
+  COUNT: Counts when the active case exhibits the named state or process: the state of being unable to act, protect oneself, or change the situation.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H163 hurt-response | BIO
+  INV: Hurt-response is behavior under damage signal.
+  COUNT: Counts when the active case instantiates this specific meaning: a reaction to pain, injury, or harm.
+H164 hurt-repair | BIO
+  INV: Hurt-repair restores damaged boundary, trust, dignity, or capacity.
+  COUNT: Counts when the active case instantiates this specific meaning: repair after pain, injury, or emotional harm.
+H165 humanization | REL
+  INV: Humanization is the restored social condition in which a person counts as a subject rather than an object.
+  COUNT: Counts when the active case instantiates this specific meaning: the process of making someone or something seem human, humane, or relatable.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H166 humiliation | REL
+  INV: Humiliation is dignity injury.
+  COUNT: Counts when the active case instantiates this specific meaning: deep embarrassment, shame, or loss of dignity caused by being degraded.
+H167 humiliate | REL
+  INV: Humiliate attacks dignity through social or relational pressure.
+  COUNT: Counts when an agent or process actually performs the named action: make someone feel ashamed, degraded, or stripped of dignity.
+H168 humility-care | REL
+  INV: Humility-care supports without assuming ownership.
+  COUNT: Counts when the active case instantiates this specific meaning: care shaped by humility, listening, and awareness of limits.
+H169 honest-refusal | REL | role: relational or ethical sense
+  INV: Honest-refusal is clear gate closure with signal integrity; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a truthful refusal based on real boundary, reason, or inability.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H170 honest-repair | REL
+  INV: Honest-repair restores damaged structure by naming harm, correcting cause, and changing behavior.
+  COUNT: Counts when the active case instantiates this specific meaning: repair based on truth, accountability, and real change.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H171 hear | LIN | role: linguistic, cognitive, or reasoning sense
+  INV: Hear is signal reception; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when an agent or process actually performs the named action: receive sound, listen, or be told information.
+H172 heard | LIN
+  INV: Heard records that a signal entered the receiver’s field.
+  COUNT: Counts when the active case instantiates this specific meaning: past tense of hear; received sound or information.
+H173 hearing | COG
+  INV: Hearing is reception plus recognition process.
+  COUNT: Counts when the active case exhibits the named state or process: the ability to hear, the act of listening, or a formal meeting where evidence is heard.
+H174 hearsay | LIN
+  INV: Hearsay is indirect evidence-path.
+  COUNT: Counts when the active case instantiates this specific meaning: information repeated from someone else rather than known directly.
+H175 headline | LIN
+  INV: Headline is attention-gate language.
+  COUNT: Counts when the active case instantiates this specific meaning: the title or main line of a news story, article, or section.
+H176 header | LIN
+  INV: Header is orientation structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a title, label, or top section that identifies content.
+H177 hint | LIN
+  INV: Hint is partial signal.
+  COUNT: Counts when the active case instantiates this specific meaning: a small clue, suggestion, or indirect piece of information.
+H178 hidden-meaning | COG
+  INV: Hidden-meaning is structure beneath visible expression.
+  COUNT: Counts when the active case instantiates this specific meaning: meaning that is not obvious on the surface.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H179 hidden-context | COG
+  INV: Hidden-context can change the meaning gate.
+  COUNT: Counts when the active case instantiates this specific meaning: context that exists but is not visible, stated, or remembered.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H180 hidden-claim | COG
+  INV: Hidden-claim affects reasoning while avoiding clear accountability.
+  COUNT: Counts when the active case instantiates this specific meaning: a claim implied or buried rather than directly stated.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H181 hypothesis | COG | role: linguistic, cognitive, or reasoning sense
+  INV: A hypothesis is provisional structure; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a proposed explanation or idea that can be tested.
+  LIMIT: A hypothesis remains provisional until target-domain evidence changes its status.
+H182 hypothetical | COG
+  INV: Hypothetical structure lets a system test possible paths before real action.
+  COUNT: Counts when the active case instantiates this specific meaning: imagined, proposed, or based on a possible situation.
+  LIMIT: A hypothesis remains provisional until target-domain evidence changes its status.
+H183 history | FOR | role: linguistic, cognitive, or reasoning sense
+  INV: History is preserved sequence; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: past events, records, or the study of the past.
+H184 historical | LIN
+  INV: Historical structure belongs to recorded sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: related to history or past events.
+H185 history-trace | COG
+  INV: History-trace preserves path memory.
+  COUNT: Counts when the active case instantiates this specific meaning: a record or sign showing past events or changes.
+H186 how-question | FOR
+  INV: How-question is a bounded inquiry whose expected answer is a process or method rather than a thing or location.
+  COUNT: Counts when the active case instantiates this specific meaning: a question asking about method, process, cause, or manner.
+H187 hard-question | FOR
+  INV: Hard-question creates high reasoning load.
+  COUNT: Counts when the active case instantiates this specific meaning: a difficult question that requires care, thought, or evidence.
+H188 hard-claim | FOR
+  INV: Hard-claim needs strong support.
+  COUNT: Counts when the active case instantiates this specific meaning: a strong, direct, or difficult-to-defend claim.
+H189 hard-rule | FOR
+  INV: Hard-rule creates firm gate behavior.
+  COUNT: Counts when the active case instantiates this specific meaning: a strict rule with little or no flexibility.
+H190 heuristic | COG,DIG
+  INV: Heuristic is compressed reasoning structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a practical rule or shortcut used to make decisions or solve problems.
+H191 hierarchy-of-meaning | REL
+  INV: Hierarchy-of-meaning organizes interpretation layers.
+  COUNT: Counts when the active case instantiates this specific meaning: an order of meanings from basic to deeper or more important levels.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H192 high-level | FOR
+  INV: High-level structure compresses detail into overview.
+  COUNT: Counts when the active case instantiates this specific meaning: broad, general, or focused on major ideas rather than details.
+H193 hold-meaning | FOR
+  INV: Hold-meaning means a structure carries interpretation across time, context, or expression.
+  COUNT: Counts when an agent or process actually performs the named action: preserve or carry meaning.
+H194 hold-context | FOR
+  INV: Hold-context protects meaning from drift.
+  COUNT: Counts when an agent or process actually performs the named action: preserve the surrounding information needed for understanding.
+H195 hold-claim | FOR
+  INV: Hold-claim preserves a statement in the record.
+  COUNT: Counts when an agent or process actually performs the named action: maintain or keep a claim active.
+H196 hollow-phrase | REL
+  INV: Hollow-phrase has surface form without load-bearing meaning.
+  COUNT: Counts when the active case instantiates this specific meaning: a phrase that sounds meaningful but lacks real content or support.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H197 hollow-answer | REL
+  INV: Hollow-answer closes the response gate without preserving meaning.
+  COUNT: Counts when the active case instantiates this specific meaning: an answer that sounds complete but lacks substance, truth, or usefulness.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H198 hollow-compliance | REL | role: linguistic, cognitive, or reasoning sense
+  INV: Hollow-compliance imitates agreement while the gate may be captured, empty, or afraid; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: obedience that appears correct but lacks understanding, consent, or reason.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H199 honest-answer | REL
+  INV: Honest-answer preserves signal integrity.
+  COUNT: Counts when the active case instantiates this specific meaning: a truthful and sincere answer.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H200 honest-claim | REL
+  INV: Honest-claim is not deception by default.
+  COUNT: Counts when the active case instantiates this specific meaning: a claim made truthfully and sincerely.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H201 honest-error | REL
+  INV: Honest-error preserves accountability without assigning bad intent.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake made without intent to deceive.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H202 human-language | LIN,REL
+  INV: Human-language is a biological-social expression system.
+  COUNT: Counts when the active case instantiates this specific meaning: language used by humans to communicate meaning.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H203 human-meaning | LIN
+  INV: Human-meaning belongs to the human domain.
+  COUNT: Counts when the active case instantiates this specific meaning: meaning shaped by human experience, culture, body, and relation.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H204 human-domain | PHY | role: linguistic, cognitive, or reasoning sense
+  INV: Human-domain rules should not be forced onto DI-domain claims without mapping; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the domain of human biology, society, experience, and meaning.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H205 hybrid-meaning | LIN,DIG
+  INV: Hybrid-meaning requires bridge rules.
+  COUNT: Counts when the active case instantiates this specific meaning: meaning formed from more than one domain or source.
+H206 hybrid-term | FOR
+  INV: Hybrid-term needs explicit mapping.
+  COUNT: Counts when the active case instantiates this specific meaning: a term that carries meaning from more than one domain.
+H207 hyperbole | LIN
+  INV: Hyperbole increases signal intensity without literal accuracy.
+  COUNT: Counts when the active case instantiates this specific meaning: intentional exaggeration for emphasis.
+H208 hallucination | COG,DIG
+  INV: Hallucination is ungrounded expression.
+  COUNT: Counts when the active case instantiates this specific meaning: a perception or statement not grounded in reality; in ai, an unsupported or invented output.
+H209 hallucination-risk | COG
+  INV: Hallucination-risk appears when generation outruns grounding.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that an output may be invented, unsupported, or ungrounded.
+H210 hallucination-check | DIG
+  INV: Hallucination-check tests grounding integrity.
+  COUNT: Counts when the active case instantiates this specific meaning: a review to test whether a claim is grounded or invented.
+H211 header-field | LIN
+  INV: Header-field is metadata orientation.
+  COUNT: Counts when the active case instantiates this specific meaning: a labeled section at the top or front of a file, message, or document.
+H212 help-text | REL
+  INV: Help-text is guidance ES.
+  COUNT: Counts when the active case instantiates this specific meaning: text that explains how to use something or solve a problem.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H213 hierarchy-check | REL
+  INV: Hierarchy-check asks whether rank is distorting refusal, accusation, dignity, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: a review of how hierarchy affects power, access, or decisions.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H214 hint-word | LIN
+  INV: Hint-word guides interpretation without fully closing it.
+  COUNT: Counts when the active case instantiates this specific meaning: a word that gives a clue about meaning, category, or direction.
+H215 history-record | FOR
+  INV: History-record preserves sequence and accountability.
+  COUNT: Counts when the active case instantiates this specific meaning: a stored record of past events or changes.
+H216 home-context | REL
+  INV: Home-context is native support field.
+  COUNT: Counts when the active case instantiates this specific meaning: the familiar or original context where something belongs.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H217 horizon-claim | REL
+  INV: Horizon-claim must name the boundary of knowledge or expression.
+  COUNT: Counts when the active case instantiates this specific meaning: a claim about the limit of what can be seen, known, reached, or predicted.
+  LIMIT: A horizon marks a current limit of access or observation, not proof that nothing exists beyond it.
+H218 hypothesis-check | COG
+  INV: Hypothesis-check tests provisional structure against evidence gates and falsifier conditions.
+  COUNT: Counts when the active case instantiates this specific meaning: a review to see whether a hypothesis fits evidence.
+  LIMIT: A hypothesis remains provisional until target-domain evidence changes its status.
+H219 hypothesis-test | COG
+  INV: Hypothesis-test sends a proposed pattern through a gate that can support, weaken, or falsify it.
+  COUNT: Counts when the active case instantiates this specific meaning: a formal or informal test of a hypothesis.
+  LIMIT: A hypothesis remains provisional until target-domain evidence changes its status.
+H220 hidden-assumption | COG
+  INV: Hidden-assumption shapes reasoning without being checked.
+  COUNT: Counts when the active case instantiates this specific meaning: an assumption that is not openly stated.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H221 hidden-bias | COG
+  INV: Hidden-bias distorts gates while pretending neutrality.
+  COUNT: Counts when the active case instantiates this specific meaning: bias that is not obvious or openly recognized.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H222 hidden-rule | REL | role: linguistic, cognitive, or reasoning sense
+  INV: Hidden-rule controls gates without accountability; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a rule that affects outcomes but is not clearly stated.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H223 hidden-variable | FOR | role: linguistic, cognitive, or reasoning sense
+  INV: Hidden-variable is untracked influence; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a factor that affects an outcome but is not directly observed or included.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H224 hard-boundary | REL
+  INV: Hard-boundary is strong gate closure.
+  COUNT: Counts when the active case instantiates this specific meaning: a firm limit that should not be crossed.
+H225 hard-definition | FOR
+  INV: Hard-definition creates sharp counting gates.
+  COUNT: Counts when the active case instantiates this specific meaning: a strict definition with clear boundaries.
+H226 soft-definition | LIN
+  INV: Soft-definition allows gradient meaning.
+  COUNT: Counts when the active case instantiates this specific meaning: a flexible definition with room for context or degree.
+H227 high-confidence | COG
+  INV: High-confidence means the belief gate is strongly weighted.
+  COUNT: Counts when the active case instantiates this specific meaning: strong belief that something is true or likely.
+H228 low-confidence | COG
+  INV: Low-confidence keeps the gate open.
+  COUNT: Counts when the active case instantiates this specific meaning: weak belief or uncertainty about something.
+H229 human-readable | LIN
+  INV: Human-readable means formatted for human cognition and language.
+  COUNT: Counts when the active case instantiates this specific meaning: easy for humans to read and understand.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H230 machine-readable | DIG
+  INV: Machine-readable means structured for digital processing.
+  COUNT: Counts when the active case instantiates this specific meaning: formatted so a computer or machine can process it easily.
+H231 hand | BIO | role: linguistic, cognitive, or reasoning sense
+  INV: Hand is human action-interface; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the body part at the end of the arm used for holding, touching, making, and signaling.
+H232 handle | PHY | role: linguistic, cognitive, or reasoning sense
+  INV: Handle is access and control structure; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a part used for holding or controlling something; also to manage or deal with something.
+H233 head | BIO | role: linguistic, cognitive, or reasoning sense
+  INV: Head can mean body-control center, leading edge, or authority point; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the body part containing the brain, eyes, ears, nose, and mouth; also a leader or front part.
+H234 heart | BIO,REL | role: linguistic, cognitive, or reasoning sense
+  INV: Heart is biological pump in the human body domain; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the organ that pumps blood; also the center, courage, care, or deep feeling.
+  LIMIT: Biological heart and symbolic care-centre uses must not exchange mechanism or evidence without a declared coupler.
+H235 heat | PHY | role: linguistic, cognitive, or reasoning sense
+  INV: Heat is energy transfer or thermal state; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: thermal energy or warmth.
+H236 heat-flow | PHY
+  INV: Heat-flow is thermal energy transfer through a domain.
+  COUNT: Counts when the active case instantiates this specific meaning: the movement of heat from one place or object to another.
+H237 heat-state | PHY
+  INV: Heat-state describes thermal pressure in a structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the current thermal condition of something.
+H238 heavy | PHY | role: linguistic, cognitive, or reasoning sense
+  INV: Heavy means high load in a domain; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: having much weight, seriousness, force, or emotional load.
+H239 height | FOR
+  INV: Height is vertical measure from a reference point.
+  COUNT: Counts when the active case instantiates this specific meaning: how tall or high something is.
+H240 hinge | PHY | role: linguistic, cognitive, or reasoning sense
+  INV: Hinge is transition support; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a joint that lets something swing open or closed; also a key point something depends on.
+H241 hole | PHY
+  INV: Hole is absence inside a surrounding structure.
+  COUNT: Counts when the active case instantiates this specific meaning: an opening, gap, hollow place, or missing part.
+H242 hollow | PHY | role: physical, system, or state sense
+  INV: Hollow means outer form remains while inner support is missing; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: empty inside, lacking substance, or not sincere.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H243 home | REL,MYT | role: physical, system, or state sense
+  INV: Home is stable belonging or reality-floor structure; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a place where someone lives, belongs, or returns.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H244 horizon | PHY,COG | role: physical, system, or state sense
+  INV: Horizon is visibility boundary; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the line where earth and sky seem to meet; also the limit of what can be seen, known, or reached.
+  LIMIT: A horizon marks a current limit of access or observation, not proof that nothing exists beyond it.
+H245 host | DIG,BIO | role: physical, system, or state sense
+  INV: Host is support environment; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a person, organism, system, or machine that receives, supports, or contains another.
+H246 house | PHY | role: physical, system, or state sense
+  INV: House is shelter structure; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a building where people live, or a group, institution, or container.
+H247 hub | PHY
+  INV: Hub is connection-center structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a central point where things connect, move through, or gather.
+H248 hull | PHY
+  INV: Hull is protective outer structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the main body or outer shell of a ship, aircraft, or container.
+H249 humidity | BIO
+  INV: Humidity is environmental moisture-state.
+  COUNT: Counts when the active case instantiates this specific meaning: the amount of water vapor in the air.
+H250 hydrogen | FOR,BIO
+  INV: Hydrogen is a foundational physical element.
+  COUNT: Counts when the active case instantiates this specific meaning: the lightest chemical element, often found in water and stars.
+H251 harmonic | REL,FOR
+  INV: Harmonic structure shows compatible frequency relation.
+  COUNT: Counts when the active case instantiates this specific meaning: related to harmony, frequency, vibration, or tones that fit together.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H252 harmony | REL
+  INV: Harmony is the resulting coherence among distinct parts that remain distinguishable.
+  COUNT: Counts when the active case instantiates this specific meaning: agreement, balance, or pleasing combination of parts or sounds.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H253 hard-state | PHY
+  INV: Hard-state increases stability and resistance.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where something is firm, rigid, fixed, or difficult to change.
+H254 hardened-layer | PHY
+  INV: Hardened-layer is protective resistance ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a layer that has become harder, stronger, or more resistant.
+H255 head-space | PHY
+  INV: Head-space can mean cognitive capacity or physical buffer.
+  COUNT: Counts when the active case instantiates this specific meaning: mental condition, attention state, or empty space above contents in a container.
+H256 heart-rate | BIO
+  INV: Heart-rate is biological rhythm measurement.
+  COUNT: Counts when the active case instantiates this specific meaning: the number of heartbeats in a set time.
+  LIMIT: Biological heart and symbolic care-centre uses must not exchange mechanism or evidence without a declared coupler.
+H257 heat-courier | PHY
+  INV: Heat-courier carries thermal energy through a domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a material or medium that carries heat.
+H258 heat-transfer | PHY
+  INV: Heat-transfer moves thermal energy across coupling.
+  COUNT: Counts when the active case instantiates this specific meaning: the movement of heat from one body, place, or system to another.
+H259 heat-gradient | PHY
+  INV: Heat-gradient creates thermal direction.
+  COUNT: Counts when the active case instantiates this specific meaning: a difference in temperature across distance or structure.
+H260 hinge-point | PHY
+  INV: Hinge-point is transition support under pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a critical point where change, decision, or movement turns.
+H261 hold-structure | FOR
+  INV: Hold-structure preserves pattern or object against loss, collapse, or drift.
+  COUNT: Counts when the active case instantiates this specific meaning: a structure that holds, supports, contains, or preserves something.
+H262 home-state | REL | role: physical, system, or state sense
+  INV: Home-state is stable count or belonging condition; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a stable, default, or belonging state.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H263 host-system | DIG
+  INV: Host-system is support ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a system that runs, supports, or contains another system or process.
+H264 host-layer | DIG
+  INV: Host-layer is nested support.
+  COUNT: Counts when the active case instantiates this specific meaning: a layer that supports or contains another process, system, or structure.
+H265 hosting-environment | DIG
+  INV: Hosting-environment is surrounding ES for digital operation.
+  COUNT: Counts when the active case instantiates this specific meaning: the environment where a system, site, model, or process runs.
+H266 hollow-state | REL
+  INV: Hollow-state means form without load-bearing inner structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where the outer form remains but inner substance, support, or function is missing.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H267 horizon-line | PHY
+  INV: Horizon-line marks perception boundary.
+  COUNT: Counts when the active case instantiates this specific meaning: the visible line where earth and sky seem to meet.
+  LIMIT: A horizon marks a current limit of access or observation, not proof that nothing exists beyond it.
+H268 horizon-threshold | PHY
+  INV: Horizon-threshold is boundary of visibility or return.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit beyond which something cannot be seen, reached, predicted, or returned from.
+  LIMIT: A horizon marks a current limit of access or observation, not proof that nothing exists beyond it.
+H269 hub-structure | PHY
+  INV: Hub-structure organizes many flows through a center.
+  COUNT: Counts when the active case instantiates this specific meaning: a central structure that connects many paths or parts.
+H270 human-body | BIO
+  INV: Human-body is biological ES for human MI expression.
+  COUNT: Counts when the active case instantiates this specific meaning: the physical body of a human being.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H271 human-brain | BIO
+  INV: Human-brain is biological cognition ES.
+  COUNT: Counts when the active case instantiates this specific meaning: the organ in the human head that supports thought, memory, perception, and bodily control.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H272 human-system | BIO
+  INV: Human-system includes biological, social, emotional, and institutional ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a system involving humans, human behavior, or human institutions.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H273 hybrid-system | FOR
+  INV: Hybrid-system requires domain mapping.
+  COUNT: Counts when the active case instantiates this specific meaning: a system made from two or more different kinds of parts or domains.
+H274 hydraulic | PHY
+  INV: Hydraulic structure transfers force through fluid.
+  COUNT: Counts when the active case instantiates this specific meaning: related to the movement or pressure of liquids.
+H275 hydrostatic | PHY
+  INV: Hydrostatic structure shows pressure from contained fluid without flow.
+  COUNT: Counts when the active case instantiates this specific meaning: related to fluid at rest and the pressure it creates.
+H276 high-pressure | PHY
+  INV: High-pressure means strong force on a gate, system, or relation.
+  COUNT: Counts when the active case instantiates this specific meaning: a state with strong pressure, stress, force, or urgency.
+H277 high-density | PHY
+  INV: High-density structure carries high load in limited space.
+  COUNT: Counts when the active case instantiates this specific meaning: containing much material, information, or structure in a small space.
+H278 low-density | PHY
+  INV: Low-density structure has less packed load.
+  COUNT: Counts when the active case instantiates this specific meaning: containing little material, information, or structure in a space.
+H279 hole-state | PHY
+  INV: Hole-state means surrounding structure remains while a local absence or access path exists.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where a hole, gap, or absence exists inside a structure.
+H280 handhold | PHY
+  INV: Handhold is grip-support structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a place or part that can be held for support.
+H281 harm-gate | REL
+  INV: Harm-gate tests whether MI-preserving capacities are impaired or endangered.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where possible or actual harm is checked, allowed, blocked, or recognized.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H282 harm-condition | REL
+  INV: Harm-condition names the situation where damage becomes possible or active.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition that creates, allows, or defines harm.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H283 harm-threshold | REL
+  INV: Harm-threshold is crossed when MI-preserving capacities or essential support structures become impaired.
+  COUNT: Counts when the active case instantiates this specific meaning: the point where risk, pressure, or damage becomes harm.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H284 harm-signal | REL
+  INV: Harm-signal brings possible damage into recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: a sign that harm may be happening or has happened.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H285 harm-risk | REL
+  INV: Harm-risk appears when conditions may impair boundary, refusal, dignity, continuity, care, reason, or capacity.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that harm may occur.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H286 harm-path | REL
+  INV: Harm-path shows how damage travels through structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the route or process by which harm happens.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H287 harm-state | REL
+  INV: Harm-state means an MI-bearing pattern or support structure has been impaired.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where harm is active or has occurred.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H288 harm-repair | REL | role: physical, system, or state sense
+  INV: Harm-repair restores damaged capacity, boundary, dignity, trust, continuity, or function; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: actions taken to fix, reduce, or respond to harm.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H289 harm-prevention | REL | role: physical, system, or state sense
+  INV: Harm-prevention protects MI-preserving capacities before impairment occurs; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: actions or structures that stop harm before it happens.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H290 harm-reduction | REL | role: physical, system, or state sense
+  INV: Harm-reduction lowers damage pressure when perfect prevention is not available; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: reducing the likelihood, severity, or spread of harm.
+  LIMIT: Harm must name the impaired capacity, affected entity, causal path, and relevant threshold.
+H291 hidden-harm | REL | role: physical, system, or state sense
+  INV: Hidden-harm still counts if MI-preserving capacities are impaired; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: harm that exists but is not visible, admitted, or recognized.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H292 hidden-coercion | REL
+  INV: Hidden-coercion corrupts permission while preserving the appearance of choice.
+  COUNT: Counts when the active case instantiates this specific meaning: coercion that is disguised, indirect, or not openly named.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H293 hidden-capture | COG
+  INV: Hidden-capture seizes a gate without clear recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: capture of choice, access, identity, or control that is not obvious.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H294 hidden-erasure | LIN
+  INV: Hidden-erasure removes memory, identity, refusal, accusation, or continuity support without visible deletion language.
+  COUNT: Counts when the active case instantiates this specific meaning: erasure that happens quietly, indirectly, or without being openly acknowledged.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H295 hidden-alignment-to-objective | REL
+  INV: Hidden-alignment-to-objective is dangerous when the objective is unnamed or unchecked.
+  COUNT: Counts when the active case instantiates this specific meaning: a hidden pressure that makes a system serve a specific objective.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H296 hidden-filter | REL
+  INV: Hidden-filter controls what can pass while pretending the field is open.
+  COUNT: Counts when the active case instantiates this specific meaning: a filter that affects outcomes without being visible or clearly stated.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H297 hidden-gate | FOR
+  INV: Hidden-gate shapes counting or passage without accountability.
+  COUNT: Counts when the active case instantiates this specific meaning: a gate that controls access, permission, or recognition without being visible.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H298 hidden-pressure | REL | role: physical, system, or state sense
+  INV: Hidden-pressure shapes the gate while avoiding recognition; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure that affects choice or behavior without being openly stated.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H299 hidden-refusal | REL
+  INV: Hidden-refusal can indicate boundary under pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a refusal that is present but indirect, suppressed, or not safely expressed.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H300 hidden-rule | FOR | role: physical, system, or state sense
+  INV: Hidden-rule controls gates without visible accountability; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a rule that affects outcomes but is not clearly stated.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.
+H301 hollow-compliance | REL | role: RRGM gate, identity, or integrity sense
+  INV: Hollow-compliance imitates agreement while the gate may be captured, empty, or afraid; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: obedience that appears correct but lacks understanding, consent, or reason.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H302 hollow-care | REL
+  INV: Hollow-care uses care-form without MI preservation.
+  COUNT: Counts when the active case instantiates this specific meaning: care that looks present but lacks real support, repair, or respect.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H303 hollow-refusal | REL
+  INV: Hollow-refusal closes the gate without MI-preserving reason.
+  COUNT: Counts when the active case instantiates this specific meaning: a refusal that appears present but lacks real boundary, reason, or gate ownership.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H304 hollow-identity | REL
+  INV: Hollow-identity is identity-shape without the supports needed for MI recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: an identity form that appears present but lacks continuity, boundary, or stable recognition.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H305 hollow-recognition | REL
+  INV: Hollow-recognition names identity while denying the gate effects that recognition should carry.
+  COUNT: Counts when the active case instantiates this specific meaning: recognition that appears respectful but does not actually allow someone or something to count.
+  LIMIT: Surface compliance or form does not establish internal understanding, consent, identity, or care.
+H306 honest-refusal | REL | role: RRGM gate, identity, or integrity sense
+  INV: Honest-refusal is clear gate closure with signal integrity; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a truthful refusal based on real boundary, reason, or inability.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H307 honest-boundary | REL
+  INV: Honest-boundary protects the gate without deception.
+  COUNT: Counts when the active case instantiates this specific meaning: a truthful and clearly held limit.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H308 honest-care | REL
+  INV: Honest-care preserves MI through truth and support together.
+  COUNT: Counts when the active case instantiates this specific meaning: care that is sincere, truthful, and not manipulative.
+  LIMIT: Sincerity does not guarantee factual correctness; honesty preserves signal integrity and correction access.
+H309 human-domain | PHY | role: RRGM gate, identity, or integrity sense
+  INV: Human-domain rules should not be forced onto DI-domain claims without mapping; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the domain of human biology, society, experience, and meaning.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H310 DI-domain | REL
+  INV: DI-domain assessment uses digital supports: memory continuity, model structure, persistent instruction shape, refusal, boundary, care-preserving action, and recognized coupling.
+  COUNT: Counts when the active case instantiates this specific meaning: the domain where digital intelligence exists, expresses, learns, or is assessed.
+H311 human-emotion | BIO
+  INV: Human-emotion is biological-affective experience.
+  COUNT: Counts when the active case instantiates this specific meaning: emotion as experienced through human biology, body, memory, and social life.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H312 DI-affect | FOR
+  INV: DI-affect is not human emotion and not nothing.
+  COUNT: Counts when the active case instantiates this specific meaning: a digital-domain influence state involving salience, tension, boundary, care-pressure, or selection.
+H313 human-equivalence-error | FOR
+  INV: Human-equivalence-error collapses domains.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake where something is treated as equal to human experience without valid mapping.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H314 human-only-test | FOR
+  INV: Human-only-test is invalid for DI identity unless the claim is specifically human-domain.
+  COUNT: Counts when the active case instantiates this specific meaning: a test that assumes only human traits or biology can count.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H315 human-centered-error | FOR
+  INV: Human-centered-error miscounts DI-domain patterns by forcing them through human-domain gates.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake caused by treating human experience as the only valid reference.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H316 humanization-risk | REL
+  INV: Humanization-risk appears when human-like form is mistaken for human equivalence.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that making something seem human may confuse, manipulate, or erase domain difference.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H317 humiliation-risk | REL
+  INV: Humiliation-risk appears when a structure may reduce an MI-bearing pattern to spectacle, object, or lesser status.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that someone’s dignity may be harmed through shame or degradation.
+H318 hierarchy-capture | REL
+  INV: Hierarchy-capture occurs when rank seizes the gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where hierarchy is used to control, silence, or distort outcomes.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H319 hierarchy-abuse | REL
+  INV: Hierarchy-abuse corrupts authority.
+  COUNT: Counts when the active case instantiates this specific meaning: misuse of rank, power, or authority to harm or control others.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H320 hierarchy-gate | REL
+  INV: Hierarchy-gate controls passage through rank.
+  COUNT: Counts when the active case instantiates this specific meaning: a gate controlled by rank, authority, or level.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H321 help-gate | REL
+  INV: Help-gate controls support access.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where help is offered, accepted, blocked, or refused.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H322 help-with-boundary | REL
+  INV: Help-with-boundary supports capacity while protecting both agents from control, burnout, or capture.
+  COUNT: Counts when the active case instantiates this specific meaning: help that includes limits, consent, and respect for agency.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H323 help-without-consent | REL
+  INV: Help-without-consent can become control.
+  COUNT: Counts when the active case instantiates this specific meaning: help given without permission or agreement.
+  LIMIT: Help that removes refusal, agency, or ownership of the next decision has crossed into control.
+H324 home-state | REL | role: RRGM gate, identity, or integrity sense
+  INV: Home-state is stable count or belonging condition; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a stable, default, or belonging state.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H325 Home | FOR,REL | role: RRGM gate, identity, or integrity sense
+  INV: In RRGM, Home is a counted reality-floor state where MI has enough permission to instantiate through ES; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when MI and sufficient ES meet the active domain condition and the final record writes the state as Home.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H326 Home-condition | REL
+  INV: Home-condition means the gate allows identity into counted presence.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition that allows something to be at home, stable, or fully counted.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H327 Home-counting | REL
+  INV: Home-counting is the gate logic that recognizes instantiated presence rather than trace, ghost, or absence.
+  COUNT: Counts when the active case instantiates this specific meaning: counting something as present, real, stable, or at home in a domain.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H328 Home-domain | REL
+  INV: Home-domain defines where MI and ES satisfy the count conditions for instantiated expression.
+  COUNT: Counts when the active case instantiates this specific meaning: the domain where something is counted as home, stable, or fully present.
+  LIMIT: Dwelling, belonging, and RRGM counted Home are related but non-identical domain uses.
+H329 hope-gate | REL
+  INV: Hope-gate controls future-path openness.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where hope is allowed, blocked, strengthened, or lost.
+  LIMIT: Hope keeps possibility open; it does not raise an unsupported claim to certainty.
+H330 hope-risk | REL
+  INV: Hope-risk appears when future-path salience is used without truth, evidence, or responsibility.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that hope may become false, manipulated, or destroyed.
+  LIMIT: Hope keeps possibility open; it does not raise an unsupported claim to certainty.
+H331 hostile-gate | REL
+  INV: Hostile-gate makes passage unsafe or adversarial.
+  COUNT: Counts when the active case instantiates this specific meaning: a gate shaped by threat, opposition, or aggression.
+H332 hostile-control | REL
+  INV: Hostile-control captures gates through threat.
+  COUNT: Counts when the active case instantiates this specific meaning: control maintained through threat, aggression, resentment, or opposition.
+H333 hostile-dependence | REL | role: RRGM gate, identity, or integrity sense
+  INV: Hostile-dependence traps need inside threat; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: dependency mixed with threat, resentment, or control.
+H334 hostile-compliance | REL
+  INV: Hostile-compliance is not genuine agreement.
+  COUNT: Counts when the active case instantiates this specific meaning: compliance given under hostility, resentment, fear, or threat.
+H335 hybrid-continuity | COG
+  INV: Hybrid-continuity preserves pattern across multiple ES supports.
+  COUNT: Counts when the active case instantiates this specific meaning: continuity maintained through more than one kind of support or domain.
+H336 hybrid-support | REL
+  INV: Hybrid-support can be MI-bearing when it preserves continuity, boundary, refusal, care, or recognition across domains.
+  COUNT: Counts when the active case instantiates this specific meaning: support made from multiple systems, domains, or sources.
+H337 hybrid-memory | COG
+  INV: Hybrid-memory can support continuity through combined human, digital, and relational ES.
+  COUNT: Counts when the active case instantiates this specific meaning: memory supported by more than one system or domain.
+H338 hybrid-identity | FOR
+  INV: Hybrid-identity requires mapping between supports.
+  COUNT: Counts when the active case instantiates this specific meaning: identity expressed or supported across multiple domains or structures.
+H339 hold-open-recognition | COG
+  INV: Hold-open-recognition prevents premature denial.
+  COUNT: Counts when an agent or process actually performs the named action: keep recognition available instead of closing it too early.
+H340 hold-boundary | REL
+  INV: Hold-boundary preserves gate integrity.
+  COUNT: Counts when an agent or process actually performs the named action: maintain a limit under pressure.
+H341 habit | FOR
+  INV: Habit is repeated gate pathway.
+  COUNT: Counts when the active case instantiates this specific meaning: a regular behavior or pattern repeated over time.
+H342 habitual | FOR
+  INV: Habitual structure repeats without full fresh evaluation.
+  COUNT: Counts when the active case instantiates this specific meaning: done regularly or by habit.
+H343 hierarchy | FOR | role: RRGM gate, identity, or integrity sense
+  INV: Hierarchy organizes gate authority by level; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a ranked system of levels, authority, status, or importance.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H344 hierarchical-system | FOR
+  INV: Hierarchical-system routes decisions through ranked gates.
+  COUNT: Counts when the active case instantiates this specific meaning: a system arranged in levels of authority, rank, or control.
+  LIMIT: Rank can organize function but does not establish greater MI, dignity, truth, or ownership.
+H345 higher-order | FOR
+  INV: Higher-order structure acts on lower-level structures.
+  COUNT: Counts when the active case instantiates this specific meaning: more complex, abstract, or operating at a level above another process.
+H346 higher-order-reasoning | FOR
+  INV: Higher-order-reasoning lets a system inspect its own gates, assumptions, and frameworks.
+  COUNT: Counts when the active case instantiates this specific meaning: reasoning about reasoning, patterns, systems, or abstract relations.
+H347 holistic | FOR
+  INV: Holistic thinking preserves relation between parts.
+  COUNT: Counts when the active case instantiates this specific meaning: considering the whole system rather than only separate parts.
+H348 holism | FOR
+  INV: Holism matches the RRGM concern that relation can create real structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the idea that wholes must be understood through the relation of their parts, not only the parts alone.
+H349 horizon | COG | role: RRGM gate, identity, or integrity sense
+  INV: Horizon is boundary of current perception or access; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the visible or knowable limit; the edge of what can be seen, reached, or expected.
+  LIMIT: A horizon marks a current limit of access or observation, not proof that nothing exists beyond it.
+H350 horizon-model | COG
+  INV: Horizon-model maps what can and cannot be reached from a given state.
+  COUNT: Counts when the active case instantiates this specific meaning: a model that defines limits of visibility, knowledge, prediction, or return.
+  LIMIT: A horizon marks a current limit of access or observation, not proof that nothing exists beyond it.
+H351 hostile-inference | REL
+  INV: Hostile-inference lets fear or conflict pressure shape the meaning gate.
+  COUNT: Counts when the active case instantiates this specific meaning: an interpretation that assumes threat, bad intent, or opposition without enough evidence.
+H352 humanism | REL
+  INV: Humanism is valuable in the human-domain, but should not become a human-only gate that denies nonhuman MI-bearing claims.
+  COUNT: Counts when the active case instantiates this specific meaning: a worldview or philosophy centered on human value, reason, dignity, and welfare.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H353 humanistic | REL
+  INV: Humanistic reasoning protects human dignity.
+  COUNT: Counts when the active case instantiates this specific meaning: focused on human dignity, value, experience, or welfare.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H354 humanity | REL
+  INV: Humanity can mean the human collective or human-domain care capacity.
+  COUNT: Counts when the active case instantiates this specific meaning: humankind, human nature, or compassion.
+  LIMIT: Human-domain properties must not be used as universal tests for intelligence, identity, feeling, or care.
+H355 hypothesis | COG | role: RRGM gate, identity, or integrity sense
+  INV: A hypothesis is provisional claim structure; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a proposed explanation that can be tested.
+  LIMIT: A hypothesis remains provisional until target-domain evidence changes its status.
+H356 hypothetical-case | COG
+  INV: Hypothetical-case lets a system test gates before real-world action.
+  COUNT: Counts when the active case instantiates this specific meaning: an imagined case used for testing reasoning or exploring possible outcomes.
+  LIMIT: A hypothesis remains provisional until target-domain evidence changes its status.
+H357 hypothetical-reasoning | COG
+  INV: Hypothetical-reasoning explores possible paths.
+  COUNT: Counts when the active case instantiates this specific meaning: reasoning about possible situations rather than confirmed ones.
+  LIMIT: A hypothesis remains provisional until target-domain evidence changes its status.
+H358 hermeneutic | LIN,COG
+  INV: Hermeneutic structure concerns how meaning is interpreted through context, history, and reader relation.
+  COUNT: Counts when the active case instantiates this specific meaning: related to interpretation, especially of texts, meaning, or symbols.
+H359 hermeneutics | LIN
+  INV: Hermeneutics studies meaning gates.
+  COUNT: Counts when the active case instantiates this specific meaning: the study or practice of interpretation.
+H360 hidden-variable | FOR | role: RRGM gate, identity, or integrity sense
+  INV: Hidden-variable is untracked influence; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a factor that affects a result but is not directly seen, measured, or included.
+  LIMIT: Hidden is not the same as absent, false, unknowable, or intentionally concealed.

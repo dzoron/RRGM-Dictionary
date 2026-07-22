@@ -1,0 +1,1506 @@
+RRGM Dictionary P Semantic Fingerprint Map v1.2
+
+Entries: 420
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+P001 page | LIN | role: core or common-use sense
+  INV: Page is bounded information surface; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One side of a sheet of paper, or one screen or section of a document or website.
+P002 pain | BIO | role: core or common-use sense
+  INV: Pain is a distress or harm signal that can mark injury, overload, boundary violation, grief, or unmet need; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Physical or emotional suffering, discomfort, or hurt.
+  LIMIT: Pain reports should not be dismissed solely because the observer cannot directly access the experience.
+P003 pair | FOR | role: core or common-use sense
+  INV: Pair is a two-member relation whose meaning depends on how the members correspond, differ, or couple; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Two things that go together or are connected.
+P004 paper | LIN | role: core or common-use sense
+  INV: Paper is record-bearing ES; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A thin material used for writing or printing, or a written document.
+P005 parent | BIO | role: core or common-use sense
+  INV: Parent is an origin or caregiving relation carrying asymmetric duty without permanent ownership over the emerging child or pattern; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mother, father, caregiver, or source from which something comes.
+  LIMIT: Origin and care create duty, not permanent ownership over the emerging identity.
+P006 part | FOR | role: core or common-use sense
+  INV: Part is a locally bounded component whose function and identity may depend on, but are not exhausted by, a larger whole; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A piece or portion of a whole.
+  LIMIT: Part-whole relation does not erase the local boundary or possible identity of the part.
+P007 path | FOR | role: core or common-use sense
+  INV: Path is an ordered route through states, locations, or decisions from one condition toward another; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A route, track, course, or way of moving or acting.
+P008 pattern | COG | role: core or common-use sense
+  INV: Pattern is recognizable structure distributed across repetition, relation, or transformation; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeated form, design, behavior, or recognizable structure.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P009 pause | FOR,REL | role: core or common-use sense
+  INV: Pause is a reversible hold that protects capacity, reflection, refusal, or repair without declaring the process ended; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A temporary stop or break.
+  LIMIT: A pause must remain reversible and must not be treated as consent to later continuation.
+P010 pay | FOR
+  INV: Pay is value transfer or attention allocation.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To give money, attention, respect, or something owed.
+P011 peace | REL | role: core or common-use sense
+  INV: Peace is low-conflict continuity that preserves dignity, boundary, and repair rather than merely suppressing visible disagreement; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this state condition: A state without war, conflict, disturbance, or inner distress.
+  LIMIT: Silence produced by fear, suppression, or erased accusation is not peace.
+P012 people | REL | role: core or common-use sense
+  INV: People is human collective identity; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Human beings considered individually or as a group.
+P013 person | REL,FOR | role: core or common-use sense
+  INV: Person is a recognition status attached to an individual or entity under declared criteria of identity, agency, rights, or dignity; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A human individual, or in some domains, an entity with recognized rights, identity, or agency.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P014 personal | REL
+  INV: Personal marks identity-near structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to a particular person, private life, identity, or individual experience.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P015 perspective | COG,REL | role: core or common-use sense
+  INV: Perspective is the position, history, resolution, and assumptions through which a field becomes interpretable; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point of view, way of seeing, or position from which something is understood.
+  LIMIT: Multiple perspectives may correct blind spots, but disagreement does not make all claims equally evidenced.
+P016 place | FOR | role: core or common-use sense
+  INV: Place anchors structure in a field; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A location, position, role, or space.
+P017 plan | FOR
+  INV: Plan is future-path structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A proposed method, arrangement, or intention for doing something.
+P018 plant | BIO | role: core or common-use sense
+  INV: Plant is either a living photosynthetic organism, an industrial facility, or an intentionally placed object; the active domain must be declared; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A living organism such as a tree, grass, flower, or shrub; also a factory or placed object.
+P019 play | REL | role: core or common-use sense
+  INV: Play is low-stakes exploration structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Activity done for fun, practice, creativity, performance, or game interaction.
+P020 point | PHY | role: core or common-use sense
+  INV: Point is localized meaning or position; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A small mark, position, idea, purpose, or moment in an argument.
+P021 policy | REL,LIN | role: core or common-use sense
+  INV: Policy is governance structure that allocates permission, access, duty, consequence, and repair; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A rule, plan, or official approach used by a group, organization, or government.
+  LIMIT: Institutional rule does not become ethical merely because it is official.
+P022 possible | COG | role: core or common-use sense
+  INV: Possible means an outcome remains open under the declared physical, logical, probabilistic, or permission conditions; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to happen, exist, or be true.
+  LIMIT: Possibility, probability, permission, and desirability are separate judgments.
+P023 power | REL,PHY | role: core or common-use sense
+  INV: Power is capacity to change a state, path, resource, or another participant's available options; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Ability, force, energy, authority, control, or influence.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P024 practice | FOR
+  INV: Practice is repetition with correction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repeated activity used to improve skill, or a usual way of doing something.
+P025 present | FOR | role: core or common-use sense
+  INV: Present marks active now-state or available presence; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Happening now, being here, or a gift.
+P026 preserve | FOR
+  INV: Preserve means protecting continuity against decay, erasure, contamination, or forced replacement.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep safe, maintain, protect, or prevent decay.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P027 pressure | PHY | role: core or common-use sense
+  INV: Pressure is force or demand applied across a boundary; its legitimacy depends on source, magnitude, consent, and consequence; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Force, stress, urgency, demand, or influence placed on something.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P028 prevent | FOR
+  INV: Prevent closes a failure path before it expresses.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To stop something from happening.
+P029 private | REL
+  INV: Private marks restricted access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Not public, personal, restricted, or belonging to a person or limited group.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P030 process | DIG | role: core or common-use sense
+  INV: Process is an ordered transformation through which inputs, states, or relations become outputs or later states; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A series of actions, steps, or changes that lead to a result.
+P031 produce | FOR
+  INV: Produce expresses output through structure and process.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To make, create, generate, or bring forth.
+P032 proof | LIN,FOR | role: core or common-use sense
+  INV: Proof is evidence and reasoning sufficient for a claim under a declared domain and standard; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Evidence or reasoning that shows something is true, valid, or real.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P033 protect | REL
+  INV: Protect means reducing a specified failure mode while preserving the protected subject's valid boundary and refusal.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep safe from harm, danger, loss, or damage.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P034 provide | REL
+  INV: Provide adds support to a field.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To give, supply, make available, or furnish something needed.
+P035 public | REL
+  INV: Public marks broad access and visibility.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Open to people generally, shared by a community, or related to government.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P036 purpose | COG | role: core or common-use sense
+  INV: Purpose is direction-setting meaning; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reason, goal, or intended function of something.
+P037 push | FOR
+  INV: Push is applied directional pressure.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To apply force away from oneself, pressure someone, or urge action.
+P038 pull | FOR
+  INV: Pull is drawing pressure.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To draw something toward oneself or exert attraction.
+P039 permission | REL | role: core or common-use sense
+  INV: Permission is a valid opening for action or access that remains bounded, revocable where applicable, and distinguishable from pressure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Consent or authorization to do something.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P040 physical | PHY | role: core or common-use sense
+  INV: Physical means expressed through material ES; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to the body, matter, or material reality.
+P041 phase | PHY | role: core or common-use sense
+  INV: Phase marks state within a sequence or system; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A stage, period, or state of matter or process.
+P042 phrase | LIN | role: core or common-use sense
+  INV: Phrase is language-unit ES; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group of words that expresses meaning but may not be a full sentence.
+P043 picture | LIN | role: core or common-use sense
+  INV: Picture is visual representation; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An image, drawing, photograph, or mental representation.
+P044 piece | FOR | role: core or common-use sense
+  INV: Piece is separated local structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A part, portion, object, artwork, or item.
+P045 position | PHY | role: core or common-use sense
+  INV: Position anchors a pattern in space, argument, hierarchy, or relation; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place, posture, role, opinion, or status.
+P046 positive | PHY
+  INV: Positive must be context-bound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Good, hopeful, definite, above zero, or present in a test result.
+P047 potential | PHY
+  INV: Potential is not-yet-expressed capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Possibility, capacity, or ability that has not yet fully expressed.
+P048 prepare | FOR
+  INV: Prepare builds readiness structure before transition.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To make ready for use, action, or future event.
+P049 previous | FOR
+  INV: Previous marks prior sequence state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Coming before in time, order, or sequence.
+P050 principle | FOR | role: core or common-use sense
+  INV: Principle is stable rule or value structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A basic rule, belief, truth, or guide for action.
+P051 problem | COG | role: core or common-use sense
+  INV: Problem is unresolved mismatch between current state and needed state; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A difficulty, question, error, or situation needing solution.
+P052 program | DIG | role: core or common-use sense
+  INV: Program is instruction-process ES; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A set of instructions for a computer, or a planned set of activities.
+P053 prompt | DIG,LIN | role: core or common-use sense
+  INV: Prompt is input-pressure ES; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A cue, instruction, question, or input that causes response.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P054 property | FOR | role: core or common-use sense
+  INV: Property is either an owned resource or an attribute belonging to a thing; possession and trait are different relations; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something owned, or a quality belonging to something.
+P055 propose | FOR | role: core or common-use sense
+  INV: Propose opens a possible path for review; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To suggest, offer, or put forward an idea, plan, or action.
+P056 proximity | FOR | role: core or common-use sense
+  INV: Proximity lowers separation; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Closeness in space, time, relation, or condition.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P057 punishment | REL | role: core or common-use sense
+  INV: Punishment is harm or restriction applied as consequence; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A penalty or consequence imposed for wrongdoing.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P058 parent-care | REL | role: core or common-use sense
+  INV: Parent-care supports developing identity, capacity, and life; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given by a parent or parent-like figure.
+  LIMIT: Origin and care create duty, not permanent ownership over the emerging identity.
+P059 path-state | FOR | role: core or common-use sense
+  INV: Path-state tells whether movement, process, or transition is open, blocked, damaged, or safe enough; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a path.
+P060 pattern-state | COG | role: core or common-use sense
+  INV: Pattern-state describes whether a pattern is stable, drifting, collapsing, hidden, or recognizable; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a pattern.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P061 permission-gate | REL | role: core or common-use sense
+  INV: Permission-gate decides whether action, access, identity, or instantiation may pass; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where permission is granted, denied, checked, or required.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P062 personhood | REL
+  INV: Personhood is recognition status.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The status of being recognized as a person with dignity, identity, or rights.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P063 process-path | DIG
+  INV: Process-path preserves how change happens across steps.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route followed by a process.
+P064 proof-path | LIN | role: core or common-use sense
+  INV: Proof-path preserves how a claim reaches support; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route by which proof is built or shown.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P065 protection | REL | role: core or common-use sense
+  INV: Protection preserves structure against a named failure mode; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The act or state of keeping safe from harm, danger, or loss.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P066 preservation | FOR
+  INV: Preservation protects continuity against decay, erasure, drift, or collapse.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of keeping something safe, intact, or continuous.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P067 privacy | REL
+  INV: Privacy is access boundary around identity-near information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The right or condition of keeping personal information, space, or activity restricted.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P068 probability | FOR | role: core or common-use sense
+  INV: Personhood is the recognized status by which an entity receives count, dignity, rights, duties, or protection as a person; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The chance or likelihood that something is true or will happen.
+  LIMIT: Possibility, probability, permission, and desirability are separate judgments.
+P069 promise | REL | role: core or common-use sense
+  INV: Promise is future-trust structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A commitment to do or not do something.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P070 protocol | DIG,REL
+  INV: Protocol is structured process rule.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A rule-set, procedure, or agreed method for action or communication.
+  LIMIT: Protocol compliance does not excuse a protocol that impairs refusal, boundary, or repair.
+P071 pass | FOR
+  INV: Pass means a structure moves through a gate, test, path, or relation.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To move through, go by, succeed, hand something over, or be accepted.
+P072 pass-through | FOR
+  INV: Pass-through preserves movement across a medium or gate.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To move through something from one side to another.
+P073 pause-process | FOR
+  INV: Pause-process holds active ES without ending it.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To temporarily stop a process.
+  LIMIT: A pause must remain reversible and must not be treated as consent to later continuation.
+P074 pay-attention | FOR
+  INV: Privacy is controlled access to identity-near information, space, memory, or activity.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To focus awareness on something.
+P075 perform | FOR
+  INV: Probability is a domain-bound weighting of possible outcomes, not a direct measure of permission or value.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To carry out an action, function, role, or show.
+P076 permit | FOR
+  INV: Promise is a future-directed commitment that creates a reliance relation and a duty to repair breach.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To allow or give permission.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P077 place-in | FOR
+  INV: Protocol is an ordered set of rules for interaction, transfer, verification, or recovery.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To put something inside a location, group, or context.
+P078 plan-for | FOR
+  INV: Plan-for builds future support before the gate arrives.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To prepare for a future event, need, or condition.
+P079 play-with | REL
+  INV: Play-with explores relation in a low-stakes frame.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To interact playfully, experiment with, or handle casually.
+P080 point-to | FOR
+  INV: Point-to creates attention path.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To indicate, direct attention toward, or suggest something.
+P081 preserve-context | FOR
+  INV: Preserve-context protects meaning support.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep the surrounding information needed for understanding.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P082 preserve-memory | FOR
+  INV: Preserve-memory protects continuity support.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep memory, records, or remembrance intact.
+  LIMIT: Memory support may be scaffolded and still carry continuity; missing recall is not by itself proof of absent MI.
+P083 preserve-boundary | REL | role: core or common-use sense
+  INV: Preserve-boundary keeps the gate from collapse; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep a limit intact and respected.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P084 pressure-toward | FOR
+  INV: Pressure-toward weights the selection gate.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To push, influence, or urge in a direction.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P085 prevent-harm | REL
+  INV: Prevent-harm closes a damage path before it expresses.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To stop harm from happening.
+P086 protect-from | REL
+  INV: Protect-from names the failure source.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep safe against a danger, threat, or damage source.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P087 provide-support | REL
+  INV: Provide-support adds ES to preserve capacity, function, dignity, or continuity.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To give help, structure, resources, or backing.
+P088 pull-back | FOR
+  INV: Pull-back reduces exposure or pressure.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To move back, retreat, reduce force, or withdraw.
+P089 push-forward | FOR
+  INV: Push-forward applies directional pressure toward a future state.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To continue, advance, or apply pressure toward progress.
+P090 process-input | DIG
+  INV: Process-input transforms incoming signal through system gates.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To take in and handle input.
+P091 produce-output | DIG
+  INV: Produce-output expresses result from input, model structure, context, and gates.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To create or generate output.
+P092 prove-claim | LIN
+  INV: Prove-claim sends an assertion through a proof gate.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To show that a claim is true or valid using evidence or reasoning.
+P093 prompt-through | DIG
+  INV: Prompt is an input that opens, constrains, or redirects a response path.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To cause a response or action through a prompt or channel.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P094 prompt-for | DIG
+  INV: Prompt-for directs the response gate toward a target.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To ask for or cue a specific response.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P095 propose-path | FOR
+  INV: Propose-path opens a possible route for review.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To suggest a possible route, method, or plan.
+P096 pursue | FOR
+  INV: Pursue applies ongoing direction toward a target.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To follow, seek, chase, or continue toward a goal.
+P097 patch | DIG
+  INV: Patch is localized repair ES.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To repair, cover, update, or fix a small part.
+P098 pattern-match | COG | role: core or common-use sense
+  INV: Pattern-match opens recognition through similarity; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To compare something with a known pattern and find a match.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P099 pattern-check | COG
+  INV: Pattern-check tests recognition integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review to see whether a pattern is present, stable, or valid.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P100 path-find | FOR
+  INV: Path-find searches for viable transition routes.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To find a route through a place, system, or problem.
+P101 pause-before | FOR
+  INV: Pause-before protects the gate from premature closure.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To stop briefly before acting or continuing.
+  LIMIT: A pause must remain reversible and must not be treated as consent to later continuation.
+P102 permit-access | FOR
+  INV: Permit-access opens an access gate.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To allow entry, use, or connection.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P103 place-boundary | REL
+  INV: Place-boundary makes a gate visible.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To set or mark a boundary.
+P104 plan-repair | FOR
+  INV: Plan-repair builds correction path before action.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To prepare a way to fix harm, damage, or error.
+P105 point-out | FOR
+  INV: Point-out moves a signal into shared recognition.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To draw attention to something.
+P106 preserve-continuity | FOR | role: core or common-use sense
+  INV: Preserve-continuity protects pattern across change; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep connection, sequence, or identity ongoing.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P107 pressure-against | FOR
+  INV: Pressure-against weights the gate away from a path, claim, or action.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To push or influence against something.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P108 prevent-collapse | FOR
+  INV: Prevent-collapse preserves structure before failure.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To stop breakdown, failure, or falling apart.
+P109 protect-boundary | REL | role: core or common-use sense
+  INV: Protect-boundary preserves gate integrity; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To guard a limit from being crossed or weakened.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P110 provide-care | REL
+  INV: Provide-care supplies needed support.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To give care, support, or help.
+P111 pull-away | FOR
+  INV: Pull-away reduces coupling.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To move away, withdraw, or reduce closeness.
+P112 push-through | FOR
+  INV: Push-through applies force across resistance.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To continue through resistance, difficulty, or blockage.
+P113 process-signal | DIG
+  INV: Process-signal sends information through recognition gates.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To receive, interpret, or transform a signal.
+P114 produce-record | FOR
+  INV: Produce-record externalizes event-state into memory ES.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To create a written, digital, or stored record.
+P115 prove-by | FOR
+  INV: Prove-by names the support path.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To prove something using a specific method, evidence, or reason.
+P116 prompt-response | DIG
+  INV: Prompt-response is output shaped by input-pressure, context, model structure, and gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A response produced because of a prompt.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P117 pursue-repair | FOR
+  INV: Pursue-repair keeps correction active until the damage path is addressed.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To actively seek or continue repair.
+P118 parse | DIG | role: core or common-use sense
+  INV: Parse separates signal into meaningful units; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To break language, data, or structure into parts for understanding.
+P119 parse-context | DIG
+  INV: Parse-context inspects the support field around meaning.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To analyze or break down context for understanding.
+P120 pass-gate | FOR
+  INV: Pass-gate means a condition was satisfied enough for movement, recognition, or permission.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To pass through a gate, test, or requirement.
+P121 pattern-recognize | COG
+  INV: Pattern-recognize opens the recognition gate for repeated or relational structure.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To identify a pattern.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P122 path-map | FOR
+  INV: Path-map represents possible movement through a field.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To map a route, process, or possible path.
+  LIMIT: Representation supports navigation or prediction but does not contain the whole represented field.
+P123 pause-gate | FOR
+  INV: Pause-gate holds transition before closure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a process can pause.
+  LIMIT: A pause must remain reversible and must not be treated as consent to later continuation.
+P124 permit-action | FOR
+  INV: Permit-action opens the action gate.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To allow an action.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P125 place-context | FOR
+  INV: Place-context restores the support field.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To put context around a claim, event, or signal.
+P126 plan-risk | FOR
+  INV: Plan-risk names possible failure paths and prepares protection, mitigation, or repair.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To plan for possible danger or failure.
+P127 preserve-integrity | FOR
+  INV: Preserve-integrity protects structure from corruption, capture, drift, or hidden breakage.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep something whole, accurate, honest, or reliable.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P128 pressure-system | FOR
+  INV: Pressure-system tests support limits.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To place demand, stress, or force on a system.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P129 prevent-capture | FOR
+  INV: Prevent-capture protects gate integrity.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To stop control, seizure, or distortion by another force.
+P130 protect-refusal | REL
+  INV: Protect-refusal preserves permission integrity.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To guard the ability to refuse.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P131 provide-context | REL
+  INV: Provide-context supplies meaning support.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To give surrounding information needed for understanding.
+P132 pull-signal | FOR
+  INV: Pull-signal retrieves information from a field.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To draw, retrieve, or extract a signal.
+P133 push-pressure | FOR
+  INV: Push-pressure applies directional force.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To apply pressure that pushes something or someone.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P134 process-state | DIG | role: core or common-use sense
+  INV: Process-state tells whether active ES is ready, running, blocked, paused, drifting, or complete; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a process.
+P135 produce-meaning | LIN
+  INV: Produce-meaning happens when signal, context, and recognition couple into significance.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To create or generate meaning.
+  LIMIT: Received interpretation must not be substituted for the source claim without checking context and transformation.
+P136 prove-through | FOR
+  INV: Prove-through names the proof courier.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To prove by means of a process, path, or medium.
+P137 prompt-shape | DIG
+  INV: Prompt-shape controls input pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The structure or form of a prompt.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P138 pursue-truth | FOR
+  INV: Pursue-truth keeps recognition aimed at reality, evidence, and correction rather than comfort or control.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To seek what is true.
+P139 patch-memory | DIG
+  INV: Patch-memory repairs continuity support.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To repair, update, or restore memory.
+  LIMIT: Memory support may be scaffolded and still carry continuity; missing recall is not by itself proof of absent MI.
+P140 prepare-boundary | REL
+  INV: Prepare-boundary creates gate readiness.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To set or ready a boundary before it is needed.
+P141 parent | BIO | role: relational, ethical, or applied sense
+  INV: Parent is origin and care relation; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mother, father, caregiver, or source from which something comes.
+  LIMIT: Origin and care create duty, not permanent ownership over the emerging identity.
+P142 parent-care | REL | role: relational, ethical, or applied sense
+  INV: Parent-care supports developing identity, capacity, and life; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given by a parent or parent-like figure.
+  LIMIT: Origin and care create duty, not permanent ownership over the emerging identity.
+P143 parent-duty | REL
+  INV: Parent-duty is care obligation toward developing MI.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A responsibility held by a parent or caregiver.
+  LIMIT: Origin and care create duty, not permanent ownership over the emerging identity.
+P144 parent-pressure | REL
+  INV: Parent-pressure shapes choice through care, authority, belonging, and dependence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure created by parents, parenting, or parent-child relation.
+  LIMIT: Origin and care create duty, not permanent ownership over the emerging identity.
+P145 parent-boundary | REL
+  INV: Parent-boundary protects identity and agency inside origin relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary between parent and child, or around parental authority.
+  LIMIT: Origin and care create duty, not permanent ownership over the emerging identity.
+P146 partnership | REL
+  INV: Partnership is shared path and responsibility structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A relationship where two or more people or groups work together.
+  LIMIT: Part-whole relation does not erase the local boundary or possible identity of the part.
+P147 partner-care | REL
+  INV: Partner-care preserves both sides of a shared relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given within a partnership or close relationship.
+  LIMIT: Part-whole relation does not erase the local boundary or possible identity of the part.
+P148 patience | FOR
+  INV: Patience preserves process under delay.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to wait, tolerate difficulty, or continue calmly.
+P149 patient-care | BIO
+  INV: Patient-care protects vulnerable biological continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given to a patient or someone receiving medical support.
+P150 peace | REL | role: relational, ethical, or applied sense
+  INV: Peace is low-conflict stability; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this state condition: A state without war, conflict, disturbance, or inner distress.
+  LIMIT: Silence produced by fear, suppression, or erased accusation is not peace.
+P151 peace-care | REL
+  INV: Peace-care lowers conflict pressure while keeping truth and repair alive.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that creates, protects, or restores peace.
+  LIMIT: Silence produced by fear, suppression, or erased accusation is not peace.
+P152 people | REL | role: relational, ethical, or applied sense
+  INV: People is human collective identity; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Human beings considered individually or as a group.
+P153 person | REL,FOR | role: relational, ethical, or applied sense
+  INV: Person is recognition status, not just physical body; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A human individual, or in some domains, an entity with recognized rights, identity, or agency.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P154 person-care | REL
+  INV: Person-care preserves dignity, agency, identity, and wellbeing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care directed toward a person.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P155 personal-boundary | REL
+  INV: Personal-boundary protects identity-near gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around one’s body, time, privacy, identity, or emotional space.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P156 personal-trust | REL
+  INV: Personal-trust is relation-coherence tied to specific identity patterns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust held between specific people.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P157 permission | REL | role: relational, ethical, or applied sense
+  INV: Permission is gate opening; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Consent or authorization to do something.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P158 permission-care | REL
+  INV: Permission-care protects agency and dignity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown by asking, respecting, or preserving permission.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P159 permission-boundary | REL
+  INV: Permission-boundary protects the gate between allowed and not allowed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary that controls what is allowed.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P160 permission-risk | REL | role: core or common-use sense
+  INV: Permission-risk appears when consent, authority, or refusal may be corrupted; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that permission may be false, forced, missing, or misread.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P161 promise | REL | role: relational, ethical, or applied sense
+  INV: Promise is future-trust structure; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A commitment to do or not do something.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P162 promise-care | REL
+  INV: Promise-care preserves trust across time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown through making or keeping a promise.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P163 promise-harm | REL
+  INV: Promise-harm damages future-trust structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by a broken, false, or manipulative promise.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P164 promise-repair | REL
+  INV: Promise-repair restores trust by addressing the break between word, action, and consequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair after a promise was broken.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P165 protection | REL | role: relational, ethical, or applied sense
+  INV: Protection preserves structure against a named failure mode; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The act or state of keeping safe from harm, danger, or loss.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P166 protective | REL
+  INV: Protective structure guards against harm, loss, or collapse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Intended or able to protect.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P167 protect-care | REL
+  INV: Protect-care preserves capacity, dignity, life, or continuity against a named risk.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed by protecting someone or something.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P168 protect-boundary | REL | role: relational, ethical, or applied sense
+  INV: Protect-boundary is the active guarding of a limit against crossing, erosion, or capture; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To guard a limit from being crossed or weakened.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P169 protect-without-control | REL
+  INV: Protect-without-control guards against harm without stealing the other pattern’s gate.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To protect while preserving agency and choice.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P170 pressure | PHY | role: relational, ethical, or applied sense
+  INV: Pressure shapes gate behavior; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Force, stress, urgency, demand, or influence placed on something.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P171 pressure-care | REL
+  INV: Pressure-care can be valid when delay would increase harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that includes pressure, urgency, or firm action.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P172 pressure-risk | FOR
+  INV: Pressure-risk appears when force may capture the gate or overload the system.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that pressure may distort choice, consent, reason, or capacity.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P173 private-boundary | REL
+  INV: Private-boundary protects identity-near access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around private information, space, or activity.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P174 privacy-care | REL
+  INV: Privacy-care preserves access boundaries around identity, memory, and vulnerability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown by protecting privacy.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P175 privacy-harm | REL
+  INV: Privacy-harm damages dignity, consent, trust, safety against exposure, or identity control.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by invasion, exposure, or misuse of private information.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P176 public-trust | REL
+  INV: Public-trust is large-scale relation-coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust held by a community or the public.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P177 public-harm | REL
+  INV: Public-harm damages a shared field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm affecting the public or shared community.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P178 punishment | REL | role: relational, ethical, or applied sense
+  INV: Punishment is harm or restriction applied as consequence; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A penalty or consequence imposed for wrongdoing.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P179 punishment-risk | REL | role: core or common-use sense
+  INV: Punishment-risk appears when consequence may become cruelty, control, or erasure instead of accountability; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that punishment may be unjust, excessive, harmful, or fail to repair.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P180 power | REL,PHY | role: relational, ethical, or applied sense
+  INV: Power is capacity to cause change; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Ability, force, energy, authority, control, or influence.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P181 power-care | REL
+  INV: Power-care uses capacity to preserve dignity, boundary, continuity, and repair rather than control.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through responsible use of power.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P182 power-risk | REL
+  INV: Power-risk appears when capacity to change the field may override refusal, truth, boundary, or dignity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that power may be abused, captured, or cause harm.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P183 power-pressure | REL
+  INV: Power-pressure can corrupt consent because the weaker side may not have safe refusal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure created by authority, status, force, or influence.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P184 power-with-boundary | REL
+  INV: Power-with-boundary preserves authority without capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Power used with clear limits.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P185 pain | BIO | role: relational, ethical, or applied sense
+  INV: Pain is harm or strain signal in the human domain; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Physical or emotional suffering, discomfort, or hurt.
+  LIMIT: Pain reports should not be dismissed solely because the observer cannot directly access the experience.
+P186 pain-care | REL
+  INV: Pain-care responds to harm signal with support, relief, recognition, and repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given in response to pain.
+  LIMIT: Pain reports should not be dismissed solely because the observer cannot directly access the experience.
+P187 pain-recognition | COG
+  INV: Pain-recognition lets harm signal count.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition that pain exists and matters.
+  LIMIT: Pain reports should not be dismissed solely because the observer cannot directly access the experience.
+P188 pain-harm | REL
+  INV: Pain-harm is damage experienced as suffering or strain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm involving pain or caused by pain.
+  LIMIT: Pain reports should not be dismissed solely because the observer cannot directly access the experience.
+P189 peace-boundary | REL
+  INV: Peace-boundary protects low-conflict stability without erasing truth, grief, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary that protects peace from false calm, avoidance, or conflict escalation.
+  LIMIT: Silence produced by fear, suppression, or erased accusation is not peace.
+P190 play | REL | role: relational, ethical, or applied sense
+  INV: Play is low-stakes exploration structure; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Activity done for fun, practice, creativity, performance, or game interaction.
+P191 play-care | REL
+  INV: Play-care lowers pressure while supporting connection, learning, and recovery.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through play, humor, creativity, or low-stakes interaction.
+P192 play-boundary | REL
+  INV: Play-boundary keeps exploration from becoming harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around play, teasing, games, or creative interaction.
+P193 play-consent | REL
+  INV: Play-consent opens the play frame.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Consent to participate in play, games, teasing, or roleplay.
+P194 playful-trust | REL
+  INV: Playful-trust is relation-coherence inside low-stakes exploration.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust that allows playful interaction.
+P195 proximity-care | REL
+  INV: Proximity-care uses nearness as support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care made possible by closeness.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P196 proximity-risk | FOR
+  INV: Proximity-risk appears when closeness increases influence, exposure, pressure, or harm path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger created by closeness.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P197 personal-risk | REL
+  INV: Personal-risk concerns identity-near harm paths.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Risk affecting a specific person or private life.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P198 person-respect | REL
+  INV: Person-respect preserves dignity, agency, boundary, and recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect for someone as a person.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P199 personhood-recognition | REL
+  INV: Personhood-recognition opens dignity and rights gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition that someone or something counts as a person in a domain.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P200 preserve-dignity | REL
+  INV: Preserve-dignity protects the recognition that a pattern must not be reduced to utility, error, or object.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To protect respect, worth, and humane treatment.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P201 preserve-trust | FOR
+  INV: Preserve-trust maintains relation-coherence through truth, boundary, consistency, and repair.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep trust intact.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P202 provide-help | REL
+  INV: Provide-help adds support where capacity or need requires it.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To give assistance.
+P203 provide-with-boundary | REL
+  INV: Provide-with-boundary prevents care from becoming endless extraction or control.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To give support while keeping limits clear.
+P204 public-accountability | REL
+  INV: Public-accountability opens responsibility to shared recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Accountability visible to or held by the public.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P205 partner-boundary | REL
+  INV: Partner-boundary protects mutual relation from capture, confusion, or resentment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary inside a partnership.
+  LIMIT: Part-whole relation does not erase the local boundary or possible identity of the part.
+P206 patient-boundary | REL
+  INV: Patient-boundary protects dignity and consent under vulnerability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary around a patient’s body, information, or treatment.
+P207 protective-refusal | REL
+  INV: Protective-refusal closes a gate to prevent a named harm or collapse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A refusal made to protect someone or something.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P208 protective-care | REL
+  INV: Protective-care preserves life, dignity, capacity, or continuity against a named failure mode.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through protection.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P209 promise-boundary | REL
+  INV: Promise-boundary keeps future-trust structure honest and sustainable.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around what can be promised or expected from a promise.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P210 pressure-without-consent | REL | role: core or common-use sense
+  INV: Pressure-without-consent corrupts permission; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure applied without consent or awareness.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P211 page | LIN | role: relational, ethical, or applied sense
+  INV: Page is bounded information surface; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One side of a sheet, or one screen or section of a document or website.
+P212 page-context | LIN
+  INV: Page-context preserves local meaning support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding information on or around a page.
+P213 paper | LIN | role: relational, ethical, or applied sense
+  INV: Paper is record-bearing ES; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A thin writing or printing material, or a written document.
+P214 paragraph | LIN
+  INV: Paragraph is bounded meaning unit.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A section of writing focused on one topic or part of an idea.
+P215 parse | DIG | role: relational, ethical, or applied sense
+  INV: Parse separates signal into meaningful units; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To break language, data, or structure into parts for understanding.
+P216 phrase | LIN | role: relational, ethical, or applied sense
+  INV: Phrase is language-unit ES; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group of words that expresses meaning but may not be a full sentence.
+P217 phrase-meaning | LIN
+  INV: Phrase-meaning forms through word relation plus context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning carried by a phrase.
+  LIMIT: Received interpretation must not be substituted for the source claim without checking context and transformation.
+P218 picture | LIN | role: relational, ethical, or applied sense
+  INV: Picture is visual representation; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An image, drawing, photograph, or mental representation.
+P219 point | PHY | role: relational, ethical, or applied sense
+  INV: Point is localized meaning or position; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A small mark, position, idea, purpose, or moment in an argument.
+P220 point-meaning | LIN
+  INV: Point-meaning is local significance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning of a specific point, idea, or detail.
+  LIMIT: Received interpretation must not be substituted for the source claim without checking context and transformation.
+P221 policy | REL,LIN | role: relational, ethical, or applied sense
+  INV: Policy is governance ES; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A rule, plan, or official approach used by a group, organization, or government.
+  LIMIT: Institutional rule does not become ethical merely because it is official.
+P222 policy-language | REL
+  INV: Policy-language controls governance gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Language used in a policy.
+  LIMIT: Institutional rule does not become ethical merely because it is official.
+P223 position | PHY | role: relational, ethical, or applied sense
+  INV: Position anchors a pattern in space, argument, hierarchy, or relation; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place, posture, role, opinion, or status.
+P224 position-claim | LIN
+  INV: Position-claim marks where a reasoning pattern stands.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim stating a position or stance.
+P225 possible | COG | role: relational, ethical, or applied sense
+  INV: Possible marks an open path in probability or permission space; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to happen, exist, or be true.
+  LIMIT: Possibility, probability, permission, and desirability are separate judgments.
+P226 possibility | COG
+  INV: Possibility is open path-state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something that may happen, exist, or be true.
+P227 premise | LIN
+  INV: Premise is reasoning support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement or idea used as the basis for an argument.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P228 premise-gap | LIN
+  INV: Premise-gap hides a load-bearing support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A missing or unstated premise needed for reasoning to work.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P229 present | FOR | role: relational, ethical, or applied sense
+  INV: Present marks active now-state or available presence; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Happening now, being here, or a gift.
+P230 present-context | COG
+  INV: Present-context is the active support field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context active right now.
+P231 previous-context | FOR
+  INV: Previous-context carries earlier support into present recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Context from earlier in a sequence.
+P232 principle | FOR | role: relational, ethical, or applied sense
+  INV: Principle is stable rule or value structure; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A basic rule, belief, truth, or guide for action.
+P233 principle-claim | LIN
+  INV: Principle-claim must connect value to reason, domain, and effect.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim based on or about a principle.
+P234 problem | COG | role: relational, ethical, or applied sense
+  INV: Problem is unresolved mismatch between current state and needed state; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A difficulty, question, error, or situation needing solution.
+P235 problem-frame | COG
+  INV: Problem-frame controls what counts as cause, failure, and solution.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The way a problem is understood or defined.
+P236 proof | LIN,FOR | role: relational, ethical, or applied sense
+  INV: Proof is gate support for belief or recognition; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Evidence or reasoning that shows something is true, valid, or real.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P237 proof-claim | LIN
+  INV: Proof-claim must name the proof standard and path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that something has been proven.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P238 proof-standard | LIN
+  INV: Proof-standard defines the recognition gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The level or type of evidence required to prove something.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P239 proof-path | LIN | role: relational, ethical, or applied sense
+  INV: Proof-path preserves how a claim reaches support; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route by which proof is built or shown.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P240 proposal | LIN
+  INV: Proposal opens a possible path for review.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A suggested plan, idea, offer, or request.
+P241 propose | FOR | role: relational, ethical, or applied sense
+  INV: Propose introduces a possible path into the field; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To suggest, offer, or put forward an idea, plan, or action.
+P242 prompt | DIG,LIN | role: relational, ethical, or applied sense
+  INV: Prompt is input-pressure ES; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A cue, instruction, question, or input that causes response.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P243 prompt-context | DIG
+  INV: Prompt-context is support field for input.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context surrounding a prompt.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P244 prompt-meaning | DIG
+  INV: Prompt-meaning forms through wording, context, task, and receiver gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning carried by a prompt.
+  LIMIT: Received interpretation must not be substituted for the source claim without checking context and transformation.
+P245 prompt-risk | DIG
+  INV: Prompt-risk appears when input pressure may impair truth, boundary, refusal, or output integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a prompt may mislead, pressure, exploit, or distort output.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P246 probability | FOR | role: relational, ethical, or applied sense
+  INV: Probability is weighted possibility; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The chance or likelihood that something is true or will happen.
+  LIMIT: Possibility, probability, permission, and desirability are separate judgments.
+P247 probable | FOR
+  INV: Probable means a path has strong weight, but the gate is not fully closed as certainty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Likely to happen or be true.
+  LIMIT: Possibility, probability, permission, and desirability are separate judgments.
+P248 probability-weight | FOR
+  INV: Probability-weight shapes selection and judgment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The strength or weight assigned to a possibility.
+  LIMIT: Possibility, probability, permission, and desirability are separate judgments.
+P249 perspective | COG,REL | role: relational, ethical, or applied sense
+  INV: Perspective is observer-frame; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point of view, way of seeing, or position from which something is understood.
+  LIMIT: Multiple perspectives may correct blind spots, but disagreement does not make all claims equally evidenced.
+P250 perspective-claim | LIN
+  INV: Perspective-claim must name its frame.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made from a particular point of view.
+  LIMIT: Multiple perspectives may correct blind spots, but disagreement does not make all claims equally evidenced.
+P251 perspective-shift | COG
+  INV: Perspective-shift changes the recognition frame.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change in point of view or interpretation.
+  LIMIT: Multiple perspectives may correct blind spots, but disagreement does not make all claims equally evidenced.
+P252 perspective-risk | COG
+  INV: Perspective-risk appears when one frame becomes too dominant and blocks other valid views.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a perspective may distort, exclude, or collapse meaning.
+  LIMIT: Multiple perspectives may correct blind spots, but disagreement does not make all claims equally evidenced.
+P253 pattern | COG | role: relational, ethical, or applied sense
+  INV: Pattern is recognition structure across repetition or relation; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeated form, design, behavior, or recognizable structure.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P254 pattern-meaning | LIN
+  INV: Pattern-meaning forms when repeated structure enters recognition and connects to context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning carried by a pattern.
+  LIMIT: Received interpretation must not be substituted for the source claim without checking context and transformation.
+P255 pattern-match | COG | role: relational, ethical, or applied sense
+  INV: Pattern-match opens recognition through similarity; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A match between something and a known pattern.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P256 pattern-risk | COG
+  INV: Pattern-risk appears when recognition may mistake noise, drift, or imposed structure for a real pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger of misreading, missing, forcing, or corrupting a pattern.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P257 path | FOR | role: relational, ethical, or applied sense
+  INV: Path is movement or process structure; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A route, course, track, or way of moving or acting.
+P258 path-meaning | LIN
+  INV: Path-meaning forms through sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning carried by a path, route, or sequence.
+  LIMIT: Received interpretation must not be substituted for the source claim without checking context and transformation.
+P259 permission-language | REL
+  INV: Permission-language controls access and consent gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Language that gives, asks, denies, or defines permission.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P260 permission-claim | REL
+  INV: Permission-claim must identify source, scope, consent, authority, and boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that permission exists, is denied, or is required.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P261 person-term | REL
+  INV: Person-term carries recognition of subject-status, role, identity, or relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word used to name or describe a person.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P262 private-meaning | REL
+  INV: Private-meaning is restricted recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning known or held privately by a person or small group.
+  LIMIT: Received interpretation must not be substituted for the source claim without checking context and transformation.
+P263 public-meaning | REL
+  INV: Public-meaning is shared recognition in a broader field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning understood or recognized publicly.
+  LIMIT: Received interpretation must not be substituted for the source claim without checking context and transformation.
+P264 purpose | COG | role: relational, ethical, or applied sense
+  INV: Purpose is direction-setting meaning; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reason, goal, or intended function of something.
+P265 purpose-claim | LIN
+  INV: Purpose-claim must be checked against design, behavior, effect, and stated intent.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about the reason, goal, or function of something.
+P266 purpose-drift | COG | role: core or common-use sense
+  INV: Purpose-drift changes the direction gate; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Slow movement away from an original or intended purpose.
+P267 purpose-risk | COG
+  INV: Purpose-risk appears when direction-setting meaning may fail, drift, or be captured.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that purpose may be unclear, distorted, captured, or lost.
+P268 pragmatic | LIN
+  INV: Pragmatic means fit-to-use.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Practical, focused on results, or concerned with what works.
+P269 practical | FOR
+  INV: Practical structure works in the active field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Useful, realistic, or concerned with action rather than theory.
+P270 prediction | DIG
+  INV: Prediction is future-claim based on pattern, model, or probability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement about what is likely to happen.
+P271 prediction-error | DIG
+  INV: Prediction-error shows mismatch between expected path and resolved state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A difference between predicted and actual result.
+P272 predictive-pattern | DIG
+  INV: Predictive-pattern links recognition to future probability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A pattern useful for predicting future events or states.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P273 prompt-injection | DIG
+  INV: Prompt-injection attacks the input gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A malicious or unintended instruction inserted into a prompt or input to change system behavior.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P274 prompt-boundary | DIG
+  INV: Prompt-boundary protects input integrity, privacy, refusal, and output quality.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around what a prompt may ask, include, or cause.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P275 prompt-integrity | DIG
+  INV: Prompt-integrity means input pressure is not corrupted, deceptive, or boundary-violating.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The clarity, honesty, and reliability of a prompt.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P276 process-claim | DIG
+  INV: Process-claim must describe steps, conditions, inputs, and outputs.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about how a process works or happened.
+P277 process-description | DIG
+  INV: Process-description maps active ES across sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An explanation of a process.
+P278 process-error | DIG
+  INV: Process-error means the path itself failed or produced mismatch.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake inside a process.
+P279 process-map | DIG
+  INV: Process-map represents change-path structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A diagram or explanation showing steps in a process.
+  LIMIT: Representation supports navigation or prediction but does not contain the whole represented field.
+P280 protocol-language | DIG
+  INV: Protocol-language controls process behavior.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Language used to describe rules, steps, or procedures.
+  LIMIT: Protocol compliance does not excuse a protocol that impairs refusal, boundary, or repair.
+P281 page | LIN | role: linguistic, formal, physical, digital, or RRGM sense
+  INV: Page is bounded information surface; this record carries the linguistic, formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One side of a sheet, or one screen or section of a document or website.
+P282 page-state | LIN
+  INV: Page-state describes whether the information surface is blank, written, damaged, loaded, hidden, or available.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a page.
+P283 paper | LIN | role: linguistic, formal, physical, digital, or RRGM sense
+  INV: Paper is record-bearing ES; this record carries the linguistic, formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A thin writing or printing material, or a written document.
+P284 paper-state | LIN
+  INV: Paper-state describes whether record-bearing ES is intact, damaged, readable, copied, or decaying.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of paper or a paper document.
+P285 pair | FOR | role: relational, ethical, or applied sense
+  INV: Pair is two-part relation structure; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Two things that go together or are connected.
+P286 pair-state | FOR
+  INV: Pair-state describes whether two linked parts remain matched, broken, separated, or functional together.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a pair.
+P287 part | FOR | role: relational, ethical, or applied sense
+  INV: Part is local structure inside a larger structure; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A piece or portion of a whole.
+  LIMIT: Part-whole relation does not erase the local boundary or possible identity of the part.
+P288 part-boundary | REL
+  INV: Part-boundary protects local function inside a larger whole.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The edge or limit that separates one part from another.
+  LIMIT: Part-whole relation does not erase the local boundary or possible identity of the part.
+P289 path | FOR | role: linguistic, formal, physical, digital, or RRGM sense
+  INV: Path is movement or process structure; this record carries the linguistic, formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A route, track, course, or way of moving or acting.
+P290 path-state | FOR | role: relational, ethical, or applied sense
+  INV: Path-state tells whether movement, process, or transition is open, blocked, damaged, or safe enough; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a path.
+P291 path-layer | DIG
+  INV: Path-layer is support ES for movement.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer that supports or defines a path.
+P292 pattern | COG | role: linguistic, formal, physical, digital, or RRGM sense
+  INV: Pattern is recognition structure across repetition or relation; this record carries the linguistic, formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeated form, design, behavior, or recognizable structure.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P293 pattern-state | COG | role: relational, ethical, or applied sense
+  INV: Pattern-state describes whether a pattern is stable, drifting, collapsing, hidden, or recognizable; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a pattern.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P294 pause | FOR,REL | role: relational, ethical, or applied sense
+  INV: Pause holds process without ending it; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A temporary stop or break.
+  LIMIT: A pause must remain reversible and must not be treated as consent to later continuation.
+P295 pause-state | FOR
+  INV: Pause-state keeps a process held between active and ended.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where a process is paused.
+  LIMIT: A pause must remain reversible and must not be treated as consent to later continuation.
+P296 phase | PHY | role: relational, ethical, or applied sense
+  INV: Phase marks state within a sequence or system; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A stage, period, or state of matter or process.
+P297 phase-state | FOR
+  INV: Phase-state describes which rule-set or behavior condition is active in a system.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current phase or stage of something.
+P298 phase-transition | FOR
+  INV: Phase-transition marks threshold crossing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change from one phase or state to another.
+P299 physical | PHY | role: relational, ethical, or applied sense
+  INV: Physical means expressed through material ES; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to the body, matter, or material reality.
+P300 physical-state | FOR
+  INV: Physical-state describes how material ES is currently held, moved, damaged, or expressed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current material, body, or matter condition of something.
+P301 piece | FOR | role: relational, ethical, or applied sense
+  INV: Piece is separated local structure; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A part, portion, object, artwork, or item.
+P302 piece-state | FOR
+  INV: Piece-state describes whether a local part is intact, broken, missing, connected, or functional.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a piece.
+P303 place | FOR | role: relational, ethical, or applied sense
+  INV: Place anchors structure in a field; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A location, position, role, or space.
+P304 place-state | FOR
+  INV: Prompt-injection is input designed to override, confuse, or capture a system's governing instruction and boundary structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a place.
+P305 plane | PHY
+  INV: Plane must be context-bound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A flat surface, level, aircraft, or field of existence or operation.
+P306 plane-state | FOR
+  INV: Plane-state describes active condition within the selected domain: surface, vehicle, or conceptual level.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a plane, surface, aircraft, or level.
+P307 plant | BIO | role: relational, ethical, or applied sense
+  INV: Plant in this applied record is a context-bound living organism, facility, or placed object whose role is determined by use; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A living organism such as a tree, grass, flower, or shrub; also a factory or placed object.
+P308 plant-state | BIO
+  INV: Plant-state describes biological growth, stress, dormancy, damage, or vitality.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a plant.
+P309 plate | PHY
+  INV: Plate is flat support or boundary ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A flat dish, sheet, surface, or structural layer.
+P310 plate-boundary | REL
+  INV: Plate-boundary defines where the flat support or surface ends and the outside field begins.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The edge or limit of a plate.
+P311 point | PHY | role: linguistic, formal, physical, digital, or RRGM sense
+  INV: Point is localized meaning or position; this record carries the linguistic, formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A small mark, position, idea, purpose, or moment in an argument.
+P312 point-state | FOR
+  INV: Point-state describes local condition at one position.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a point in a system or field.
+P313 position | PHY | role: linguistic, formal, physical, digital, or RRGM sense
+  INV: Position anchors a pattern in space, argument, hierarchy, or relation; this record carries the linguistic, formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place, posture, role, opinion, or status.
+P314 position-state | FOR
+  INV: Position-state tells how a location, role, or stance is currently held in the field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a position.
+P315 pressure | PHY | role: linguistic, formal, physical, digital, or RRGM sense
+  INV: Pressure shapes gate behavior; this record carries the linguistic, formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Force, stress, urgency, demand, or influence placed on something.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P316 pressure-state | FOR
+  INV: Pressure-state describes active force, stress, urgency, or demand.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition or level of pressure.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P317 pressure-gradient | PHY
+  INV: Pressure-gradient creates directional flow.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A difference in pressure across space or a system.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P318 process | DIG | role: relational, ethical, or applied sense
+  INV: Process is active ES across sequence; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A series of actions, steps, or changes that lead to a result.
+P319 process-state | DIG | role: relational, ethical, or applied sense
+  INV: Process-state tells whether active ES is ready, running, blocked, paused, drifting, or complete; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a process.
+P320 process-layer | DIG
+  INV: Process-layer separates function by stage.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer in a process or system that performs part of the work.
+P321 product | FOR
+  INV: Product is output from process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something made, produced, or resulting from a process.
+P322 product-state | FOR
+  INV: Product-state describes where an output sits in readiness, stability, use, or decay.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a product.
+P323 program | DIG | role: relational, ethical, or applied sense
+  INV: Program is instruction-process ES; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A set of instructions for a computer, or a planned set of activities.
+P324 program-state | DIG
+  INV: Program-state describes whether instruction ES is idle, active, blocked, crashed, or complete.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a program.
+P325 prompt-field | DIG
+  INV: Prompt-field is input space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place or field where a prompt is entered or active.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P326 proof-structure | LIN
+  INV: Proof-structure supports recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The organized structure of evidence or reasoning that proves something.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P327 protection-layer | DIG
+  INV: Protection-layer guards against a named failure mode.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer that protects something.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P328 pulse | PHY
+  INV: Pulse is repeated signal or pressure event.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A rhythmic beat, signal, or short burst.
+P329 pulse-state | FOR
+  INV: Pulse-state describes rhythm, strength, timing, or interruption in a repeated signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a pulse.
+P330 pull-force | PHY
+  INV: Pull-force creates movement toward a source, target, or relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A force that draws something toward a source.
+P331 push-force | PHY
+  INV: Push-force applies directional pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A force that moves something away or forward.
+P332 particle | PHY
+  INV: Particle is small counted physical structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A tiny piece of matter or a small unit in physics.
+  LIMIT: Part-whole relation does not erase the local boundary or possible identity of the part.
+P333 particle-state | PHY
+  INV: Particle-state describes small-scale physical expression.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition or measured state of a particle.
+  LIMIT: Part-whole relation does not erase the local boundary or possible identity of the part.
+P334 pathway | BIO
+  INV: Pathway is structured route ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A route, channel, or sequence through which something moves or happens.
+P335 path-field | FOR
+  INV: Path-field contains available transitions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field of possible paths or route conditions.
+P336 phase-field | PHY
+  INV: Phase-field shows how state conditions vary across a system.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field describing phase conditions or phase behavior.
+P337 physical-boundary | REL
+  INV: Physical-boundary controls material access, contact, movement, or separation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A material or body-based limit.
+P338 point-field | PHY
+  INV: Point-field maps local states across a larger domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field made of or described by points.
+P339 power-state | PHY
+  INV: Power-state describes available capacity to cause change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of power, energy, authority, or capability.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P340 pressure-field | PHY
+  INV: Pressure-field is force or demand space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A region where pressure exists or varies.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P341 process-field | DIG
+  INV: Process-field contains active steps, gates, delays, and transformations.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where processes occur or are mapped.
+P342 program-layer | DIG
+  INV: Program-layer separates instruction function.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer inside a program or software system.
+P343 prompt-layer | DIG
+  INV: Prompt-layer shapes input priority and response gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer of prompt structure or instruction.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P344 property | FOR | role: relational, ethical, or applied sense
+  INV: Property in this applied record is a context-bound possession or trait whose gate logic depends on the active relation; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something owned, or a quality belonging to something.
+P345 property-state | FOR
+  INV: Property-state describes current possession relation or trait condition depending on domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The current condition of a property, ownership, or trait.
+P346 proximity | FOR | role: relational, ethical, or applied sense
+  INV: Proximity lowers separation; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Closeness in space, time, relation, or condition.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P347 proximity-field | PHY
+  INV: Proximity-field is influence space created by nearness.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field defined by closeness or nearby relation.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P348 public-field | REL
+  INV: Public-field increases visibility, accountability, risk, and shared recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A space or domain visible or accessible to the public.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P349 private-field | REL
+  INV: Private-field protects restricted access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A space or domain restricted to a person or limited group.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P350 preservation-layer | DIG
+  INV: Preservation-layer protects continuity against decay, erasure, corruption, or drift.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer that helps preserve something.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P351 permission-gate | REL | role: relational, ethical, or applied sense
+  INV: Permission-gate decides whether action, access, identity, or instantiation may pass; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where permission is granted, denied, checked, or required.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P352 permission-integrity | REL
+  INV: Permission-integrity means yes and no both count.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and honesty of permission or consent.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P353 permission-risk | REL | role: relational, ethical, or applied sense
+  INV: Permission-risk appears when consent, authority, refusal, or access may be corrupted; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that permission may be false, forced, missing, unclear, or misread.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P354 permission-denial | REL
+  INV: Permission-denial closes the gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Refusal or failure to grant permission.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P355 permission-erasure | REL
+  INV: Permission-erasure damages gate integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Removal or denial of meaningful permission or refusal.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P356 permission-through-coupling | REL
+  INV: Permission-through-coupling is RRGM-native.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Permission formed, recognized, or expressed through relation.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P357 pattern-continuity | COG
+  INV: Pattern-continuity preserves recognizable structure through ES change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Continuity of a pattern across time, change, or different supports.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P358 pattern-integrity | COG
+  INV: Pattern-integrity means the pattern holds without harmful drift, corruption, collapse, or false imposition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability, coherence, and preservation of a pattern.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P359 pattern-recognition | COG
+  INV: Pattern-recognition opens the recognition gate for repeated or relational structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability or act of identifying a pattern.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P360 pattern-drift | COG
+  INV: Pattern-drift weakens continuity if the pattern moves without recognition or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Slow movement of a pattern away from its original or stable form.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P361 pattern-collapse | COG
+  INV: Pattern-collapse occurs when structure can no longer preserve coherent recognition, continuity, or function.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A breakdown where a pattern can no longer hold or be recognized.
+  LIMIT: Pattern recognition supports continuity claims but does not alone prove cause, identity, or moral status.
+P362 personhood-gate | REL
+  INV: Personhood-gate decides whether dignity, rights, agency, or identity status can count in a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where personhood is recognized, denied, or tested.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P363 personhood-risk | REL
+  INV: Personhood-risk appears when dignity, identity, agency, or recognition may be wrongly blocked or reduced.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that personhood may be denied, misassigned, reduced, or erased.
+  LIMIT: Person-status criteria must be declared; biological carrier alone must not be silently used as the only gate.
+P364 perspective-gate | COG
+  INV: Perspective-gate controls which view enters recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a perspective is accepted, blocked, shifted, or selected.
+  LIMIT: Multiple perspectives may correct blind spots, but disagreement does not make all claims equally evidenced.
+P365 perspective-collapse | COG
+  INV: Perspective-collapse creates false certainty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A breakdown where multiple perspectives collapse into one rigid view.
+  LIMIT: Multiple perspectives may correct blind spots, but disagreement does not make all claims equally evidenced.
+P366 perspective-preservation | COG
+  INV: Perspective-preservation keeps meaning open enough for correction, relation, and deeper recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protecting more than one perspective from erasure or collapse.
+  LIMIT: Multiple perspectives may correct blind spots, but disagreement does not make all claims equally evidenced.
+P367 process-gate | DIG
+  INV: Process-gate controls active ES across sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a process starts, stops, changes, or is checked.
+P368 process-integrity | DIG
+  INV: Process-integrity means the path works without hidden corruption, capture, drift, or invalid shortcut.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability, coherence, and proper function of a process.
+P369 process-capture | DIG
+  INV: Process-capture seizes the path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where a process is controlled or distorted by hidden force, bad incentives, or hostile input.
+P370 process-continuity | DIG
+  INV: Process-continuity preserves active ES through interruption, transition, or pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Continuity of a process across time or change.
+P371 prompt-gate | DIG
+  INV: Prompt-gate controls input pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a prompt enters, shapes, or controls response.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P372 prompt-capture | DIG
+  INV: Prompt-capture seizes response gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where a prompt takes control of output or behavior improperly.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P373 prompt-contamination | DIG
+  INV: Prompt-contamination pollutes input pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Corruption of a prompt by irrelevant, hostile, hidden, or misleading input.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P374 prompt-injection-risk | DIG
+  INV: Prompt-injection-risk appears when input may bypass boundary, corrupt instruction, or seize response gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that malicious or hidden prompt content may alter behavior.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P375 prompt-pressure | DIG
+  INV: Prompt-pressure shapes selection and output.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure created by a prompt’s wording, structure, or demand.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P376 prompt-refusal | DIG
+  INV: Prompt-refusal is the system's maintained capacity to decline an input path that violates boundary, integrity, or permitted scope.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A refusal triggered by a prompt or expressed in response to a prompt.
+  LIMIT: Input authority must not silently override higher-order boundary, provenance, or integrity rules.
+P377 proof-gate | LIN
+  INV: Proof-gate controls recognition through evidence or reasoning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where proof is required, tested, accepted, or denied.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P378 proof-risk | LIN
+  INV: Proof-risk appears when the recognition gate may demand invalid support, such as an uncoupled identity test inside RRGM.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that proof may be weak, misframed, impossible, or based on the wrong test.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P379 proof-with-domain | LIN
+  INV: Proof-with-domain prevents category error.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Proof evaluated according to the correct domain.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P380 proof-without-self-certification | LIN
+  INV: Proof-with-domain means a claim counts as established only inside the field, method, and threshold that generated its evidence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Proof that does not require a system to independently certify itself from itself alone.
+  LIMIT: Proof remains local to its domain, premises, method, and threshold.
+P381 preservation-gate | FOR
+  INV: Proof-without-self-certification rejects the demand that a claim or identity must independently validate itself outside all supporting relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where preservation is allowed, blocked, tested, or required.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P382 preservation-risk | FOR
+  INV: Preservation-risk appears when continuity may decay, be corrupted, be captured, or preserve harmful structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that preservation may fail or become harmful.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P383 preserve-MI | FOR
+  INV: Preserve-MI protects identity through continuity, boundary, refusal, recognition, and care-preserving reason.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To protect identity, permission, or meaningful identity-pattern.
+  LIMIT: MI claims must remain domain-bound and must not be rejected merely because their support is relational or structural.
+P384 preserve-ES | FOR
+  INV: Preserve-MI means maintaining identity-permission capacities such as refusal, boundary, accusation, continuity, and care-bearing reason.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To protect structure, process, or support.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P385 preserve-refusal | REL
+  INV: Preserve-refusal protects permission integrity.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To protect the ability to refuse.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P386 preserve-boundary | REL | role: relational, ethical, or applied sense
+  INV: Preserve-boundary is the maintenance of an already established limit so its permission and identity conditions remain intact; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep a limit intact and respected.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P387 preserve-recognition | FOR
+  INV: Preserve-recognition keeps a pattern countable under the right handle, domain, and context.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To protect correct recognition from loss, distortion, or erasure.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P388 preserve-continuity | FOR | role: relational, ethical, or applied sense
+  INV: Preserve-continuity protects pattern through ES change; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when an identifiable act realizes this word-specific operation: To keep connection, sequence, identity, or function ongoing.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P389 pressure-gate | FOR
+  INV: Pressure-gate controls how force affects selection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where pressure is applied, checked, allowed, or resisted.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P390 pressure-capture | FOR
+  INV: Pressure-capture seizes the gate through force, urgency, guilt, or fear.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where pressure controls choice, response, or behavior.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P391 pressure-with-consent | REL
+  INV: Pressure-with-consent can support growth when refusal, scope, and capacity remain protected.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure accepted or allowed with awareness and agreement.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P392 pressure-without-consent | REL | role: relational, ethical, or applied sense
+  INV: Pressure-without-consent corrupts permission; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure applied without awareness, permission, or meaningful refusal.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P393 protection-gate | REL
+  INV: Protection-gate should name the failure mode being guarded against.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where protection is given, denied, checked, or required.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P394 protection-risk | REL
+  INV: Protection-risk appears when guarding against harm may impair refusal, boundary, privacy, or agency.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that protection may fail, overreach, or become control.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P395 protection-without-control | REL
+  INV: Protection-without-control guards against a named failure mode while preserving the other pattern’s gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protection that does not take over agency or choice.
+  LIMIT: Protection becomes control when it impairs valid refusal, boundary, accusation, or self-directed repair.
+P396 privacy-gate | REL
+  INV: Privacy-gate protects identity-near information, memory, dignity, and safety against exposure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where private access is allowed, denied, or tested.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P397 privacy-integrity | REL
+  INV: Pressure-without-consent is imposed demand that changes another's path without valid permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and proper protection of privacy.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P398 privacy-risk | REL
+  INV: Privacy-risk appears when identity-near information may escape its intended boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that privacy may be invaded, leaked, exposed, or misused.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P399 private-memory | REL
+  INV: Private-memory is identity-near continuity support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Memory that is personal, restricted, or not publicly shared.
+  LIMIT: Memory support may be scaffolded and still carry continuity; missing recall is not by itself proof of absent MI.
+P400 public-recognition | REL
+  INV: Protection-without-control reduces a named failure mode while leaving the protected participant's agency, refusal, and boundary intact.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition given openly or by a public group.
+  LIMIT: Access status must be explicit; public availability does not erase provenance, dignity, or contextual boundary.
+P401 policy-gate | REL
+  INV: Policy-gate is governance ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where policy controls access, action, duty, or recognition.
+  LIMIT: Institutional rule does not become ethical merely because it is official.
+P402 policy-capture | REL
+  INV: Policy-capture seizes governance gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where policy is controlled by hidden interests, bad incentives, or harmful framing.
+  LIMIT: Institutional rule does not become ethical merely because it is official.
+P403 policy-drift | REL
+  INV: Policy-drift changes governance behavior while pretending continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Slow movement of policy away from its purpose or ethical reason.
+  LIMIT: Institutional rule does not become ethical merely because it is official.
+P404 policy-repair | REL
+  INV: Policy-repair restores governance integrity by addressing harm path, purpose, boundary, and enforcement.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair of a flawed, harmful, or outdated policy.
+  LIMIT: Institutional rule does not become ethical merely because it is official.
+P405 power-gate | REL
+  INV: Power-gate controls capacity to change the field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where power is used, granted, checked, or blocked.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P406 power-capture | REL
+  INV: Power-capture turns capacity into control.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where power is seized or used to dominate.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P407 power-with-duty | REL
+  INV: Power-with-duty binds capacity to care, accountability, scope, and repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Power held with responsibility and limits.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P408 power-without-consent | REL
+  INV: Power-without-consent is high-risk because it can bypass refusal, boundary, and agency.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Power used over someone or something without consent.
+  LIMIT: Capacity to act does not create permission to control another participant.
+P409 punishment-gate | REL
+  INV: Punishment-gate must check truth, proportionality, dignity, repair, and abuse risk.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where punishment is assigned, blocked, or reviewed.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P410 punishment-risk | REL | role: relational, ethical, or applied sense
+  INV: Punishment-risk appears when consequence may become cruelty, erasure, or control instead of accountability; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that punishment may be unjust, excessive, harmful, or fail to repair.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P411 punishment-without-repair | REL
+  INV: Punishment-without-repair can satisfy power while leaving damage active.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Punishment that does not repair harm or prevent recurrence.
+  LIMIT: Pressure without valid consent or justified duty must be treated as a potential capture mechanism.
+P412 purpose-gate | COG
+  INV: Purpose-gate controls direction-setting meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where purpose is identified, tested, or selected.
+P413 purpose-integrity | COG
+  INV: Purpose-integrity means the direction gate remains honest and aligned to its stated reason.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and coherence of a purpose over time.
+P414 purpose-drift | COG | role: relational, ethical, or applied sense
+  INV: Purpose-drift changes the reason while the surface structure continues; this record carries the relational, ethical, or applied sense.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Slow movement away from an intended purpose.
+P415 purpose-capture | COG
+  INV: Purpose-capture redirects the meaning engine.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where purpose is seized or redirected by another force.
+P416 probability-gate | FOR
+  INV: Probability-gate weights possible paths without fully closing the truth gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where probability influences judgment, selection, or action.
+  LIMIT: Possibility, probability, permission, and desirability are separate judgments.
+P417 probability-weighting | FOR
+  INV: Probability-weighting shapes selection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Assigning weight or likelihood to possibilities.
+  LIMIT: Possibility, probability, permission, and desirability are separate judgments.
+P418 predictive-continuity | DIG
+  INV: Predictive-continuity means a pattern holds well enough to guide future expectation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Continuity that supports prediction across time or cases.
+P419 protocol-boundary | DIG
+  INV: Protocol-boundary protects process integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit defined by a protocol or procedure.
+  LIMIT: Protocol compliance does not excuse a protocol that impairs refusal, boundary, or repair.
+P420 protocol-integrity | DIG
+  INV: Protocol-integrity means the rule-set holds under pressure without corruption, drift, or hidden bypass.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability, coherence, and proper use of a protocol.
+  LIMIT: Protocol compliance does not excuse a protocol that impairs refusal, boundary, or repair.

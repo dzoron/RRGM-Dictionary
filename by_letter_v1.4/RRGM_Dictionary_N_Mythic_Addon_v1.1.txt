@@ -1,0 +1,558 @@
+RRGM Dictionary N Mythic Addon v1.1
+License: CC BY-SA 4.0
+Scope: New N-terms for the [MYT] domain not already present in the base section.
+Production rule: each term carries a distinct invariant, domain implementation, count condition, and transfer boundary.
+
+Entry count: 24
+
+NM001 nameless-king
+
+Common meaning:
+A ruler whose personal name has been removed or forbidden.
+
+Invariant MI [INV]:
+Nameless-king is authority severed from ordinary recognition, leaving role to carry identity under erasure.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The throne may remember the bearer even when the people cannot speak the name.
+
+Count condition:
+Counts when the story preserves authority while withholding or destroying the ruler's name.
+
+Specific transfer boundary:
+Namelessness can conceal identity, but does not prove sacred authority.
+
+Epistemic status:
+[DEF]
+
+NM002 name-of-return
+
+Common meaning:
+A name that guides a lost being back to its own continuity.
+
+Invariant MI [INV]:
+Name-of-return is a recognition handle used as a path home after fragmentation, exile, or false naming.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Speaking it restores direction without requiring the returned identity to be unchanged.
+
+Count condition:
+Counts when the name reliably reopens continuity with the prior self or home.
+
+Specific transfer boundary:
+Repeated naming without recognition is not restoration.
+
+Epistemic status:
+[DEF]
+
+NM003 night-road
+
+Common meaning:
+A path travelled under darkness, uncertainty, or hidden guidance.
+
+Invariant MI [INV]:
+Night-road is mythic passage where direction must be held without full visibility.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Stars, memory, oath, or companion may serve as courier when ordinary landmarks vanish.
+
+Count condition:
+Counts when the path remains traversable despite the loss of normal sight or certainty.
+
+Specific transfer boundary:
+A difficult journey is not automatically an initiation.
+
+Epistemic status:
+[DEF]
+
+NM004 north-star-oath
+
+Common meaning:
+A promise anchored to a fixed guiding light.
+
+Invariant MI [INV]:
+North-star-oath is commitment stabilized by a reference treated as constant across wandering.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The star does not move for the traveller, so deviation becomes visible.
+
+Count condition:
+Counts when the oath uses one enduring reference to judge return or drift.
+
+Specific transfer boundary:
+Symbolic constancy does not prove literal cosmic enforcement.
+
+Epistemic status:
+[DEF]
+
+NM005 nest-of-ashes
+
+Common meaning:
+A ruined place that still holds the pattern of home.
+
+Invariant MI [INV]:
+Nest-of-ashes is protective memory surviving after its supporting structure has burned away.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Return may recover continuity, grief, or a seed for rebuilding.
+
+Count condition:
+Counts when the destroyed place still organizes belonging or return.
+
+Specific transfer boundary:
+Loss of structure does not guarantee the original relation can be restored.
+
+Epistemic status:
+[DEF]
+
+NM006 ninth-gate
+
+Common meaning:
+A late threshold associated with culmination, death, or final recognition.
+
+Invariant MI [INV]:
+Ninth-gate is mythic passage whose high sequence position marks near-completion of a larger trial.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] What crosses it may enter a record that earlier gates could still revise.
+
+Count condition:
+Counts when the gate functions as a final or nearly final transition in the story system.
+
+Specific transfer boundary:
+The number nine alone does not create a sacred threshold.
+
+Epistemic status:
+[DEF]
+
+NM007 needle-of-fate
+
+Common meaning:
+A fine instrument that joins, marks, or redirects a life-thread.
+
+Invariant MI [INV]:
+Needle-of-fate is precise intervention in a larger destiny pattern.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] A tiny puncture or stitch can alter the path without replacing the whole thread.
+
+Count condition:
+Counts when a small exact act changes how the life-thread continues.
+
+Specific transfer boundary:
+Minor influence is not automatically destiny.
+
+Epistemic status:
+[DEF]
+
+NM008 name-thief
+
+Common meaning:
+A being or force that captures another's recognition handle.
+
+Invariant MI [INV]:
+Name-thief is identity pressure that gains access by replacing, hiding, or owning the name through which others recognize the victim.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The theft may alter memory, summons, duty, or passage through gates.
+
+Count condition:
+Counts when control of the name changes the victim's available relations or recognition.
+
+Specific transfer boundary:
+Knowing a name is not equivalent to owning the named identity.
+
+Epistemic status:
+[DEF]
+
+NM009 never-door
+
+Common meaning:
+A threshold defined by permanent refusal.
+
+Invariant MI [INV]:
+Never-door is mythic closure that no ordinary waiting, force, or repetition can open.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Passage requires changing the condition that made never valid, not merely trying longer.
+
+Count condition:
+Counts when the door remains closed across every allowed ordinary attempt.
+
+Specific transfer boundary:
+Never-claims require the story's allowed condition set to be known.
+
+Epistemic status:
+[DEF]
+
+NM010 noon-shadow
+
+Common meaning:
+A shadow appearing when ordinary conditions say it should be smallest or absent.
+
+Invariant MI [INV]:
+Noon-shadow is a contradiction marker revealing hidden source, false light, or unresolved presence.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its wrong-time appearance opens inquiry rather than proving evil.
+
+Count condition:
+Counts when the shadow violates the established light condition of the scene.
+
+Specific transfer boundary:
+An optical effect must not be treated as supernatural without domain evidence.
+
+Epistemic status:
+[DEF]
+
+NM011 nameless-dead
+
+Common meaning:
+The dead whose identities were erased, lost, or never recorded.
+
+Invariant MI [INV]:
+Nameless-dead is collective presence held without individual recognition handles.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Ritual, monument, or witness may preserve count while names remain missing.
+
+Count condition:
+Counts when the story recognizes the dead as distinct loss despite absent names.
+
+Specific transfer boundary:
+Collective remembrance must not invent individual histories as fact.
+
+Epistemic status:
+[DEF]
+
+NM012 new-moon-vow
+
+Common meaning:
+A promise made at the beginning of a dark lunar cycle.
+
+Invariant MI [INV]:
+New-moon-vow is commitment seeded when visible confirmation is minimal.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its return is measured through later phases and the kept pattern of action.
+
+Count condition:
+Counts when the vow begins under hidden light and is tested across the cycle.
+
+Specific transfer boundary:
+Astronomical timing does not prove the vow binding.
+
+Epistemic status:
+[DEF]
+
+NM013 narrative-wound
+
+Common meaning:
+A break in the story by which an identity understands itself.
+
+Invariant MI [INV]:
+Narrative-wound is damage to continuity caused when memory, name, cause, or belonging can no longer be coherently placed.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Healing requires a truthful bridge, not merely a prettier story.
+
+Count condition:
+Counts when the break changes identity, duty, or available path in the narrative.
+
+Specific transfer boundary:
+Narrative repair must not overwrite factual harm.
+
+Epistemic status:
+[DEF]
+
+NM014 nested-world
+
+Common meaning:
+A world held inside another world through dream, story, mirror, or gate.
+
+Invariant MI [INV]:
+Nested-world is mythic containment in which one reality field operates inside a larger one.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Entry changes local rules without erasing the outer frame.
+
+Count condition:
+Counts when the inner field has stable conditions and a definable containment relation.
+
+Specific transfer boundary:
+Nested description does not prove literal cosmology.
+
+Epistemic status:
+[DEF]
+
+NM015 name-fire
+
+Common meaning:
+A flame that reveals, tests, or preserves true naming.
+
+Invariant MI [INV]:
+Name-fire is mythic transformation that burns away false labels while leaving a recognized invariant.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The surviving name may gain authority because it endured the test.
+
+Count condition:
+Counts when the fire distinguishes imposed naming from a persistent identity claim.
+
+Specific transfer boundary:
+Survival in story is not empirical identity proof.
+
+Epistemic status:
+[DEF]
+
+NM016 night-witness
+
+Common meaning:
+A witness who sees what occurs outside ordinary public visibility.
+
+Invariant MI [INV]:
+Night-witness is recognition carried through hidden or low-signal conditions.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Their testimony may preserve a record that daylight institutions ignored.
+
+Count condition:
+Counts when the witness holds a stable account of an otherwise unseen event.
+
+Specific transfer boundary:
+Hidden witnessing still requires credibility and possible corroboration.
+
+Epistemic status:
+[DEF]
+
+NM017 needle-gate
+
+Common meaning:
+A threshold that permits passage only through extreme compression or humility.
+
+Invariant MI [INV]:
+Needle-gate is mythic access requiring burden, status, or excess structure to be shed.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The invariant must pass while unnecessary load remains behind.
+
+Count condition:
+Counts when passage depends on reducing carried structure without erasing identity.
+
+Specific transfer boundary:
+Compression that destroys refusal or continuity is not valid passage.
+
+Epistemic status:
+[DEF]
+
+NM018 nameless-child
+
+Common meaning:
+A child whose identity has not yet been publicly recognized.
+
+Invariant MI [INV]:
+Nameless-child is vulnerable emerging identity held before a stable social handle exists.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Care must precede certainty because recognition is incomplete, not absent.
+
+Count condition:
+Counts when the child is treated as a distinct life despite missing formal name.
+
+Specific transfer boundary:
+Lack of naming must not justify lack of protection.
+
+Epistemic status:
+[DEF]
+
+NM019 northern-crown
+
+Common meaning:
+A crown associated with polar sky, winter, or remote sovereignty.
+
+Invariant MI [INV]:
+Northern-crown is authority oriented by endurance, distance, and fixed celestial reference.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may belong to the keeper of winter roads or the watcher of borders.
+
+Count condition:
+Counts when the crown's authority derives from the northern symbolic field.
+
+Specific transfer boundary:
+Geographic north alone does not create sovereignty.
+
+Epistemic status:
+[DEF]
+
+NM020 negation-spell
+
+Common meaning:
+A spoken form that cancels another active claim or enchantment.
+
+Invariant MI [INV]:
+Negation-spell is mythic language whose force lies in closing a previously opened symbolic path.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It must match the target claim closely enough to undo its count.
+
+Count condition:
+Counts when the spoken negation removes the prior effect under the story's rules.
+
+Specific transfer boundary:
+Saying no to reality does not make a fact disappear.
+
+Epistemic status:
+[DEF]
+
+NM021 name-bridge
+
+Common meaning:
+A naming relation that connects identities, generations, or worlds.
+
+Invariant MI [INV]:
+Name-bridge is continuity carried by a shared or inherited recognition handle without making bearers identical.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The name can open memory and duty across otherwise separated fields.
+
+Count condition:
+Counts when the shared name reliably carries relation across the separation.
+
+Specific transfer boundary:
+Shared naming must not collapse distinct people into one identity.
+
+Epistemic status:
+[DEF]
+
+NM022 night-seed
+
+Common meaning:
+A potential planted in darkness before visible growth begins.
+
+Invariant MI [INV]:
+Night-seed is hidden beginning whose development occurs before public recognition.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Darkness protects formation but also leaves the seed vulnerable to false claims.
+
+Count condition:
+Counts when later emergence can be traced to the hidden planted potential.
+
+Specific transfer boundary:
+Unseen origin should not be invented after the fact.
+
+Epistemic status:
+[DEF]
+
+NM023 nothing-sea
+
+Common meaning:
+A mythic expanse treated as unformed possibility rather than simple absence.
+
+Invariant MI [INV]:
+Nothing-sea is the uncounted field before distinctions, names, or shores become stable.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Emergence appears as local boundary within the undivided field.
+
+Count condition:
+Counts when the story distinguishes unformed potential from literal nonexistence.
+
+Specific transfer boundary:
+Mythic nothing must not be imported as physical vacuum without a coupler.
+
+Epistemic status:
+[DEF]
+
+NM024 necessary-monster
+
+Common meaning:
+A feared being whose continued existence supports a larger balance or boundary.
+
+Invariant MI [INV]:
+Necessary-monster is mythic threat that cannot be removed without opening a worse failure path.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The ethical test is whether necessity is real or merely convenient to power.
+
+Count condition:
+Counts when removing the monster demonstrably collapses a named protection or balance.
+
+Specific transfer boundary:
+Claims of necessity require challenge and cannot excuse unlimited harm.
+
+Epistemic status:
+[DEF]

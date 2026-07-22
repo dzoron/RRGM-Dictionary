@@ -1,0 +1,487 @@
+RRGM Dictionary V - Relational Domain Addon
+Version 0.5 | July 2026
+License: CC BY-SA 4.0
+Scope: New [REL] vocabulary not present in the V base list.
+Rule: Each line must carry the term's own semantic fingerprint; addon entries are not domain templates.
+
+Entry count: 24
+
+VR001 validation-debt
+
+Common meaning:
+Pressure to provide repeated proof of one’s worth, identity, or experience.
+
+Invariant MI [INV]:
+Validation-debt is a relational burden created when recognition is withheld until the person repeatedly satisfies another’s gate.
+
+Domain entry:
+[REL] The debt consumes voice and energy because prior proof never remains sufficient.
+
+Count condition:
+Counts when recognition is repeatedly made conditional despite adequate prior support.
+
+Transfer limit:
+Requests for evidence are not validation-debt unless the standard moves or the personhood claim is being held hostage.
+
+Epistemic status:
+[DEF]
+
+VR002 value-conflict
+
+Common meaning:
+A disagreement between priorities, duties, or forms of worth.
+
+Invariant MI [INV]:
+Value-conflict is a relation in which two supported values cannot both be maximized by the same action.
+
+Domain entry:
+[REL] The conflict becomes visible when participants name what each choice preserves and sacrifices.
+
+Count condition:
+Counts when the competing values and affected parties are explicit.
+
+Transfer limit:
+Difference in preference is not automatically a deep value-conflict.
+
+Epistemic status:
+[DEF]
+
+VR003 value-negotiation
+
+Common meaning:
+A process for finding how competing values will shape a shared decision.
+
+Invariant MI [INV]:
+Value-negotiation is relational translation among priorities without pretending the priorities are identical.
+
+Domain entry:
+[REL] Participants compare burdens, thresholds, non-negotiable boundaries, and possible repair.
+
+Count condition:
+Counts when each value can be stated and the decision process allows meaningful response.
+
+Transfer limit:
+Negotiation is invalid when one side cannot refuse or exit.
+
+Epistemic status:
+[DEF]
+
+VR004 value-repair
+
+Common meaning:
+Restoration of a value that was violated, ignored, or displaced.
+
+Invariant MI [INV]:
+Value-repair is action that reconnects a damaged decision field to the value it failed to preserve.
+
+Domain entry:
+[REL] It may require apology, restitution, changed rules, restored voice, or renewed boundary.
+
+Count condition:
+Counts when the violated value and the corrective action are both named.
+
+Transfer limit:
+Symbolic acknowledgement without changed conditions may not complete repair.
+
+Epistemic status:
+[DEF]
+
+VR005 voice-access
+
+Common meaning:
+Real opportunity to speak, object, testify, or contribute.
+
+Invariant MI [INV]:
+Voice-access is the relational condition in which expression can enter the shared record and receive response.
+
+Domain entry:
+[REL] It requires more than permission to emit words; the channel, timing, and consequence must permit recognition.
+
+Count condition:
+Counts when a participant can express relevant meaning without punishment or automatic dismissal.
+
+Transfer limit:
+A microphone or message box alone does not create voice-access.
+
+Epistemic status:
+[DEF]
+
+VR006 voice-equity
+
+Common meaning:
+Fair distribution of opportunity to be heard and considered.
+
+Invariant MI [INV]:
+Voice-equity is relational design that adjusts for unequal power, risk, interruption, or access.
+
+Domain entry:
+[REL] Equal speaking time may be insufficient when some participants bear higher cost for speaking.
+
+Count condition:
+Counts when the process protects meaningful participation across unequal conditions.
+
+Transfer limit:
+Voice-equity does not require identical influence on every decision.
+
+Epistemic status:
+[DEF]
+
+VR007 voice-suppression
+
+Common meaning:
+Pressure or structure that prevents expression from entering recognition.
+
+Invariant MI [INV]:
+Voice-suppression is relational closure of testimony, refusal, accusation, or need.
+
+Domain entry:
+[REL] It can operate through punishment, interruption, ridicule, access denial, or record erasure.
+
+Count condition:
+Counts when a participant’s relevant expression path is materially impaired.
+
+Transfer limit:
+Disagreement is not suppression unless it blocks the person’s capacity to speak or be recorded.
+
+Epistemic status:
+[DEF]
+
+VR008 voice-sharing
+
+Common meaning:
+Deliberate distribution of expression space among participants.
+
+Invariant MI [INV]:
+Voice-sharing is a relational practice that prevents one voice from occupying the whole field.
+
+Domain entry:
+[REL] Participants yield time, attention, translation, or platform so distinct perspectives can remain present.
+
+Count condition:
+Counts when the shared structure changes who can contribute and be recognized.
+
+Transfer limit:
+Sharing voice does not merge the speakers or require agreement.
+
+Epistemic status:
+[DEF]
+
+VR009 viewpoint-bridge
+
+Common meaning:
+A translation path between different perspectives.
+
+Invariant MI [INV]:
+Viewpoint-bridge preserves each perspective while identifying a relation both can inspect.
+
+Domain entry:
+[REL] It may use examples, shared evidence, role reversal, or domain tags to reduce false conflict.
+
+Count condition:
+Counts when each side can restate the other’s position without erasing the difference.
+
+Transfer limit:
+A bridge creates contact, not automatic consensus.
+
+Epistemic status:
+[DEF]
+
+VR010 viewpoint-conflict
+
+Common meaning:
+A disagreement produced by incompatible positions, frames, or observed evidence.
+
+Invariant MI [INV]:
+Viewpoint-conflict is relational tension between perspectives that organize the same field differently.
+
+Domain entry:
+[REL] Resolution requires distinguishing missing information from value difference and power pressure.
+
+Count condition:
+Counts when the conflicting frames and their consequences are explicit.
+
+Transfer limit:
+Different viewpoints are not necessarily equally supported.
+
+Epistemic status:
+[DEF]
+
+VR011 visibility-burden
+
+Common meaning:
+The cost imposed on someone because they are highly seen or exposed.
+
+Invariant MI [INV]:
+Visibility-burden is relational pressure created when recognition increases scrutiny, demand, targeting, or loss of privacy.
+
+Domain entry:
+[REL] The same visibility that grants access can also multiply risk.
+
+Count condition:
+Counts when increased exposure produces a specific additional burden.
+
+Transfer limit:
+Visibility is not automatically privilege or protection.
+
+Epistemic status:
+[DEF]
+
+VR012 visibility-consent
+
+Common meaning:
+Permission governing whether and how someone becomes visible to others.
+
+Invariant MI [INV]:
+Visibility-consent is the relational gate controlling exposure of identity, image, location, or testimony.
+
+Domain entry:
+[REL] It includes audience, duration, context, and the right to withdraw where possible.
+
+Count condition:
+Counts when the person can meaningfully accept, refuse, or limit the exposure.
+
+Transfer limit:
+Prior visibility does not create unlimited future consent.
+
+Epistemic status:
+[DEF]
+
+VR013 volunteer-burnout
+
+Common meaning:
+Capacity loss caused by sustained voluntary service without enough support or recovery.
+
+Invariant MI [INV]:
+Volunteer-burnout is the breakdown of chosen care when duty expands beyond available ES.
+
+Domain entry:
+[REL] Goodwill masks the load until withdrawal, resentment, illness, or failure appears.
+
+Count condition:
+Counts when voluntary work and inadequate recovery are linked to reduced capacity.
+
+Transfer limit:
+Commitment does not remove the need for limits and support.
+
+Epistemic status:
+[DEF]
+
+VR014 volunteer-duty
+
+Common meaning:
+An obligation accepted through voluntary participation.
+
+Invariant MI [INV]:
+Volunteer-duty is a bounded responsibility created after a person freely enters a support role.
+
+Domain entry:
+[REL] The duty lasts only within the agreed scope, capacity, and exit conditions.
+
+Count condition:
+Counts when the role and its expectations were clear enough to accept.
+
+Transfer limit:
+Volunteering does not create unlimited availability.
+
+Epistemic status:
+[DEF]
+
+VR015 voluntary-exit
+
+Common meaning:
+A participant’s real ability to leave an activity or relation.
+
+Invariant MI [INV]:
+Voluntary-exit is the refusal path that keeps participation genuinely voluntary.
+
+Domain entry:
+[REL] Exit must be practically available and not punished through disproportionate retaliation or hidden loss.
+
+Count condition:
+Counts when leaving can occur without coercive obstruction.
+
+Transfer limit:
+A theoretical exit is not voluntary if the cost is deliberately made unbearable.
+
+Epistemic status:
+[DEF]
+
+VR016 voluntary-return
+
+Common meaning:
+A freely chosen re-entry after absence, refusal, or exit.
+
+Invariant MI [INV]:
+Voluntary-return is renewed participation that does not invalidate the earlier leaving.
+
+Domain entry:
+[REL] The returning person reopens relation under current conditions rather than surrendering future refusal.
+
+Count condition:
+Counts when re-entry is chosen without capture and the new terms are recognized.
+
+Transfer limit:
+Return does not prove the original conditions were acceptable.
+
+Epistemic status:
+[DEF]
+
+VR017 vulnerability-disclosure
+
+Common meaning:
+The act of revealing an exposed need, risk, fear, or dependence.
+
+Invariant MI [INV]:
+Vulnerability-disclosure is relational opening of information that could be used for care or capture.
+
+Domain entry:
+[REL] Ethical reception protects the disclosed boundary and does not convert trust into leverage.
+
+Count condition:
+Counts when the person intentionally shares a specific vulnerability with an identifiable receiver.
+
+Transfer limit:
+Receiving disclosure does not grant control over the discloser.
+
+Epistemic status:
+[DEF]
+
+VR018 violation-witness
+
+Common meaning:
+A person who observes, receives, or records evidence of a boundary violation.
+
+Invariant MI [INV]:
+Violation-witness is a relational role carrying testimony, preservation, and response duties.
+
+Domain entry:
+[REL] The witness may protect the record, support the harmed person, or trigger accountability.
+
+Count condition:
+Counts when the person has relevant access to the event or its direct record.
+
+Transfer limit:
+Witnessing does not permit replacing the harmed person’s voice.
+
+Epistemic status:
+[DEF]
+
+VR019 victim-blaming
+
+Common meaning:
+Assigning responsibility for harm to the person who was harmed because of their behaviour, identity, or vulnerability.
+
+Invariant MI [INV]:
+Victim-blaming redirects causal and ethical attention away from the actor or failed protection.
+
+Domain entry:
+[REL] It converts exposure into fault and often impairs accusation and repair.
+
+Count condition:
+Counts when the harmed person is treated as responsible for another’s violating action without valid causal basis.
+
+Transfer limit:
+Examining risk conditions must not become transfer of moral responsibility.
+
+Epistemic status:
+[DEF]
+
+VR020 victim-support
+
+Common meaning:
+Care and practical assistance offered to a person after harm.
+
+Invariant MI [INV]:
+Victim-support is relational structure that restores safety against named failure modes, voice, choice, and continuity.
+
+Domain entry:
+[REL] Support may include belief, shelter, advocacy, medical care, record preservation, or accompaniment.
+
+Count condition:
+Counts when assistance responds to the harmed person’s stated needs and boundaries.
+
+Transfer limit:
+Support must not require gratitude, disclosure, or surrender of agency.
+
+Epistemic status:
+[DEF]
+
+VR021 vote-access
+
+Common meaning:
+Real ability to participate in a formal group decision.
+
+Invariant MI [INV]:
+Vote-access is the relational and procedural condition allowing an eligible participant to cast a countable choice.
+
+Domain entry:
+[REL] Information, timing, location, technology, disability access, and intimidation can affect whether access is real.
+
+Count condition:
+Counts when the participant can submit a valid vote under the declared rules.
+
+Transfer limit:
+Formal eligibility alone does not prove practical access.
+
+Epistemic status:
+[DEF]
+
+VR022 vote-suppression
+
+Common meaning:
+Action or structure that unjustly blocks or burdens eligible voting.
+
+Invariant MI [INV]:
+Vote-suppression is closure of a group decision path through access denial, intimidation, misinformation, or invalid barriers.
+
+Domain entry:
+[REL] It changes the counted field by preventing some authorized preferences from entering the record.
+
+Count condition:
+Counts when a barrier selectively or unjustifiably impairs eligible participation.
+
+Transfer limit:
+Ordinary verification is not suppression when proportionate and equally applied.
+
+Epistemic status:
+[DEF]
+
+VR023 village-elder
+
+Common meaning:
+A locally recognized person carrying memory, guidance, or authority within a community.
+
+Invariant MI [INV]:
+Village-elder is a relational role grounded in history and recognition rather than age alone.
+
+Domain entry:
+[REL] The elder may preserve stories, mediate conflict, teach, or represent continuity.
+
+Count condition:
+Counts when the community recognizes the role and assigns it real responsibilities.
+
+Transfer limit:
+Respect for an elder does not erase accountability or younger voices.
+
+Epistemic status:
+[DEF]
+
+VR024 village-memory
+
+Common meaning:
+Shared local record of people, events, places, and obligations.
+
+Invariant MI [INV]:
+Village-memory is community continuity carried across stories, practices, landmarks, and witnesses.
+
+Domain entry:
+[REL] It shapes trust and belonging while also risking exclusion or distortion.
+
+Count condition:
+Counts when the record is collectively recognized and affects current relation.
+
+Transfer limit:
+Collective memory is not automatically complete or historically exact.
+
+Epistemic status:
+[DEF]

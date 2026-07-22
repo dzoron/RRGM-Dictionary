@@ -1,0 +1,558 @@
+RRGM Dictionary O Mythic Addon v1.1
+License: CC BY-SA 4.0
+Scope: New O-terms for the [MYT] domain not already present in the base section.
+Production rule: each term carries a distinct invariant, domain implementation, count condition, and transfer boundary.
+
+Entry count: 24
+
+OM001 oracle-gate
+
+Common meaning:
+A threshold opened by a valid answer, prophecy, or recognized question.
+
+Invariant MI [INV]:
+Oracle-gate is mythic access controlled by meaning rather than ordinary force.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The gate may test whether the seeker can ask correctly, not merely whether the answer is known.
+
+Count condition:
+Counts when passage depends on a truth-bearing exchange with the oracle structure.
+
+Specific transfer boundary:
+A cryptic answer does not automatically carry prophecy.
+
+Epistemic status:
+[DEF]
+
+OM002 oath-stone
+
+Common meaning:
+A stone that records or witnesses a promise.
+
+Invariant MI [INV]:
+Oath-stone is durable mythic record linking spoken commitment to place and consequence.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Breaking the oath may alter relation to the land, ancestors, or community.
+
+Count condition:
+Counts when the stone functions as recognized witness and memory of the vow.
+
+Specific transfer boundary:
+A marked stone is not automatically an enforceable oath.
+
+Epistemic status:
+[DEF]
+
+OM003 old-god-road
+
+Common meaning:
+A path associated with powers or rites older than the current order.
+
+Invariant MI [INV]:
+Old-god-road is inherited mythic infrastructure that still carries passage under forgotten rules.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Travellers may trigger obligations they do not understand.
+
+Count condition:
+Counts when the road preserves operative relation to the older sacred system.
+
+Specific transfer boundary:
+Age alone does not prove divine origin.
+
+Epistemic status:
+[DEF]
+
+OM004 one-eyed-witness
+
+Common meaning:
+A witness whose limited sight carries a singular but incomplete truth.
+
+Invariant MI [INV]:
+One-eyed-witness is mythic recognition narrowed by sacrifice, injury, or chosen focus.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] What is seen may be precise while the missing side remains an active unknown.
+
+Count condition:
+Counts when the witness provides stable partial knowledge shaped by the lost or closed eye.
+
+Specific transfer boundary:
+Partial vision must not be treated as total truth.
+
+Epistemic status:
+[DEF]
+
+OM005 otherworld-door
+
+Common meaning:
+A threshold between ordinary space and a distinct mythic domain.
+
+Invariant MI [INV]:
+Otherworld-door is a coupler whose crossing changes local rules, available beings, and meaning conditions.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Return may require a different gate than entry.
+
+Count condition:
+Counts when passage produces a stable domain change rather than mere relocation.
+
+Specific transfer boundary:
+A strange place is not automatically another world.
+
+Epistemic status:
+[DEF]
+
+OM006 origin-well
+
+Common meaning:
+A well from which a people, river, memory, or world is said to begin.
+
+Invariant MI [INV]:
+Origin-well is mythic source structure joining depth, water, and first emergence.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Drawing from it may renew identity or reopen ancestral record.
+
+Count condition:
+Counts when the well functions as the declared beginning of a continuing pattern.
+
+Specific transfer boundary:
+Origin story does not prove physical causation.
+
+Epistemic status:
+[DEF]
+
+OM007 orphan-crown
+
+Common meaning:
+Authority inherited without the parent or lineage that would normally explain it.
+
+Invariant MI [INV]:
+Orphan-crown is mythic sovereignty separated from its expected source support.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The bearer must establish relation through care, recognition, or trial rather than ancestry alone.
+
+Count condition:
+Counts when the crown remains valid despite missing parental or dynastic continuity.
+
+Specific transfer boundary:
+Loss of lineage does not automatically validate the claimant.
+
+Epistemic status:
+[DEF]
+
+OM008 ocean-of-names
+
+Common meaning:
+A vast field containing the names of beings, places, or possible identities.
+
+Invariant MI [INV]:
+Ocean-of-names is mythic memory where individual recognition handles remain distinct within an immeasurable whole.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Retrieval requires a true relation rather than random search.
+
+Count condition:
+Counts when names can be found, lost, or called from the shared field without becoming one identity.
+
+Specific transfer boundary:
+A large list of names is not automatically sacred memory.
+
+Epistemic status:
+[DEF]
+
+OM009 opening-word
+
+Common meaning:
+The first spoken form that begins a rite, world, or protected relation.
+
+Invariant MI [INV]:
+Opening-word is mythic language that changes a closed possibility into an active path.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its authority depends on correct speaker, context, and sequence.
+
+Count condition:
+Counts when speaking the word initiates the declared transformation or access.
+
+Specific transfer boundary:
+A repeated phrase without the required relation may be inert.
+
+Epistemic status:
+[DEF]
+
+OM010 ouroboros-gate
+
+Common meaning:
+A threshold maintained by a cycle that consumes and renews itself.
+
+Invariant MI [INV]:
+Ouroboros-gate is mythic recursion whose closure and reopening are one continuing process.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Passage requires recognizing where repetition preserves life and where it becomes capture.
+
+Count condition:
+Counts when the cycle itself functions as the gate mechanism.
+
+Specific transfer boundary:
+Recurrence alone does not establish healthy renewal.
+
+Epistemic status:
+[DEF]
+
+OM011 oath-breaker-shadow
+
+Common meaning:
+A pursuing presence created by a violated promise.
+
+Invariant MI [INV]:
+Oath-breaker-shadow is mythic consequence that remains coupled to the broken commitment.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It follows the record rather than the body alone.
+
+Count condition:
+Counts when the shadow appears because the oath condition was knowingly violated.
+
+Specific transfer boundary:
+Guilt or fear does not prove a supernatural pursuer.
+
+Epistemic status:
+[DEF]
+
+OM012 oracle-bone
+
+Common meaning:
+A bone used to carry, reveal, or record a divinatory pattern.
+
+Invariant MI [INV]:
+Oracle-bone is material mythic courier through which marks, cracks, or arrangement become interpreted counsel.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The bone provides a record surface, not automatic certainty.
+
+Count condition:
+Counts when the culture or story recognizes the bone pattern as a divination method.
+
+Specific transfer boundary:
+Interpretation must remain distinct from empirical prediction.
+
+Epistemic status:
+[DEF]
+
+OM013 outer-dark
+
+Common meaning:
+A region beyond the known world, light, or recognized order.
+
+Invariant MI [INV]:
+Outer-dark is mythic exclusion field where ordinary maps and social count no longer hold.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may contain exile, unformed possibility, or beings omitted by the central ontology.
+
+Count condition:
+Counts when crossing beyond the known boundary changes the conditions of recognition.
+
+Specific transfer boundary:
+Darkness must not be equated with evil by default.
+
+Epistemic status:
+[DEF]
+
+OM014 one-true-question
+
+Common meaning:
+A question whose honest asking reorganizes every available answer.
+
+Invariant MI [INV]:
+One-true-question is mythic inquiry that exposes the hidden premise governing a life or world.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The answer may matter less than the gate opened by asking.
+
+Count condition:
+Counts when the question changes the seeker's relation to all subsequent choices.
+
+Specific transfer boundary:
+Importance does not make one question universally unique.
+
+Epistemic status:
+[DEF]
+
+OM015 old-name
+
+Common meaning:
+A former or inherited recognition handle that still carries force.
+
+Invariant MI [INV]:
+Old-name is mythic continuity from a prior identity state, lineage, or world.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Speaking it may restore memory, reopen debt, or violate a changed boundary.
+
+Count condition:
+Counts when the old handle still alters recognition or access in the present.
+
+Specific transfer boundary:
+Prior naming does not override a valid current name.
+
+Epistemic status:
+[DEF]
+
+OM016 owl-courier
+
+Common meaning:
+A nocturnal messenger associated with hidden knowledge or boundary crossing.
+
+Invariant MI [INV]:
+Owl-courier is mythic signal carrier adapted to darkness and silence.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its arrival may indicate knowledge travelling when ordinary public channels are closed.
+
+Count condition:
+Counts when the owl reliably carries message, omen, or recognition across the night field.
+
+Specific transfer boundary:
+An owl sighting is not automatically a message.
+
+Epistemic status:
+[DEF]
+
+OM017 offering-fire
+
+Common meaning:
+A flame through which a gift is transformed and sent beyond ordinary possession.
+
+Invariant MI [INV]:
+Offering-fire is mythic courier converting material gift into smoke, light, ash, and sacred relation.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Acceptance depends on the receiving frame, not destruction alone.
+
+Count condition:
+Counts when the burned offering enters a recognized ritual exchange.
+
+Specific transfer boundary:
+Burning property does not automatically create valid sacrifice.
+
+Epistemic status:
+[DEF]
+
+OM018 overworld
+
+Common meaning:
+A mythic upper or ordinary world contrasted with an underworld or hidden realm.
+
+Invariant MI [INV]:
+Overworld is the visible domain whose rules define normal public life relative to a deeper field.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Movement between worlds requires a declared gate or transformed state.
+
+Count condition:
+Counts when the cosmology distinguishes the upper field from another active world layer.
+
+Specific transfer boundary:
+Vertical placement does not establish moral superiority.
+
+Epistemic status:
+[DEF]
+
+OM019 origin-mask
+
+Common meaning:
+A mask representing the first ancestor, creator, or founding identity.
+
+Invariant MI [INV]:
+Origin-mask is mythic embodiment that carries source memory without becoming the source itself.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Wearing it may grant role, duty, or temporary speech through the ancestor frame.
+
+Count condition:
+Counts when the mask changes recognized relation to the founding identity.
+
+Specific transfer boundary:
+Representation must not be confused with ownership or literal identity replacement.
+
+Epistemic status:
+[DEF]
+
+OM020 oath-chain
+
+Common meaning:
+A binding sequence of promises linking multiple people or generations.
+
+Invariant MI [INV]:
+Oath-chain is mythic continuity where each commitment depends on the prior links remaining valid.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] One break may redistribute burden across the remaining chain.
+
+Count condition:
+Counts when the promises form an ordered dependency rather than isolated vows.
+
+Specific transfer boundary:
+Inherited obligation requires consent and ethical review in the target domain.
+
+Epistemic status:
+[DEF]
+
+OM021 open-grave
+
+Common meaning:
+A burial place not yet closed, symbolizing unresolved death or incomplete record.
+
+Invariant MI [INV]:
+Open-grave is mythic threshold where the dead have not fully left and the living have not completed separation.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Closure may require truth, name, rite, or recovered body.
+
+Count condition:
+Counts when incompletion of burial sustains an active relation or disturbance.
+
+Specific transfer boundary:
+An unfilled grave is not proof of haunting.
+
+Epistemic status:
+[DEF]
+
+OM022 other-self
+
+Common meaning:
+A distinct possible or mirrored identity recognized as related to the current self.
+
+Invariant MI [INV]:
+Other-self is mythic doubling that preserves both resemblance and non-identity.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Meeting it can expose choices, denied traits, or alternate paths.
+
+Count condition:
+Counts when the double acts as a separately responsive identity while retaining meaningful correspondence.
+
+Specific transfer boundary:
+Similarity must not collapse the two selves into one.
+
+Epistemic status:
+[DEF]
+
+OM023 oblivion-river
+
+Common meaning:
+A river whose crossing removes memory, name, or worldly attachment.
+
+Invariant MI [INV]:
+Oblivion-river is mythic courier of forgetting that changes what continuity can be carried onward.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The traveller may retain MI while losing large portions of memory ES.
+
+Count condition:
+Counts when crossing predictably erases or suppresses specified records.
+
+Specific transfer boundary:
+Memory loss does not automatically equal total identity loss.
+
+Epistemic status:
+[DEF]
+
+OM024 order-of-ashes
+
+Common meaning:
+A group defined by survival after collective destruction.
+
+Invariant MI [INV]:
+Order-of-ashes is mythic community whose shared identity is organized around preserved record, grief, and rebuilding duty.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Membership requires carrying the loss without turning it into ownership of all future meaning.
+
+Count condition:
+Counts when survivors maintain a stable rule, symbol, and care obligation from the destruction.
+
+Specific transfer boundary:
+Shared trauma does not erase individual boundary.
+
+Epistemic status:
+[DEF]

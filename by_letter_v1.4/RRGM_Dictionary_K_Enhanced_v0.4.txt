@@ -1,0 +1,6349 @@
+RRGM Dictionary Enhanced v0.4
+Section: K
+License: CC BY-SA 4.0
+Scope: Existing K base entries with invariant MI and bespoke domain-tagged implementations.
+Provenance: Enhanced from RRGM Dictionary v1.0 Section K. Original common meanings, examples, and RRGM bridges are preserved.
+Production mode: Source-semantic lift, semantic fingerprint first, de-templated domain bindings.
+
+Core production rule:
+The schema may repeat. The meaning may not. Each domain line carries this word's own invariant through the selected domain.
+
+Swap test:
+Could another K headword replace this one while leaving the domain sentence true? If yes, rewrite it.
+
+Proof rule:
+Proof remains local. Cross-domain reuse transfers only a declared invariant relation and becomes [HYP] until tested in the target domain.
+
+Entry count: 220
+
+K001 keep
+
+Common meaning:
+To hold, continue, preserve, or not lose something.
+
+Example:
+Please keep the receipt.
+
+RRGM bridge:
+Keep is preservation action. It holds structure across sequence so memory, boundary, care, or function does not decay too quickly.
+
+Invariant MI [INV]:
+Keep is preservation action.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep holds structure across sequence so memory, boundary, care, or function does not decay too quickly.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: hold, continue, preserve, or not lose something.
+
+Specific transfer boundary:
+Keeping is preservation, not ownership; denied exit can turn keeping into capture.
+
+Epistemic status:
+[DEF]
+
+K002 kept
+
+Common meaning:
+Past tense of keep; held, preserved, continued, or maintained.
+
+Example:
+She kept the promise.
+
+RRGM bridge:
+Kept records successful preservation. A structure remained held across time, pressure, or change.
+
+Invariant MI [INV]:
+Kept records successful preservation.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] A structure remained held across time, pressure, or change.
+
+Count condition:
+Counts when the record places the named action or state before the current reference point: past tense of keep; held, preserved, continued, or maintained.
+
+Specific transfer boundary:
+Kept records past preservation and does not prove the preservation was ethical or voluntary.
+
+Epistemic status:
+[DEF]
+
+K003 key
+
+Common meaning:
+A tool that opens a lock, or something important for access, understanding, or success.
+
+Example:
+The key opened the door.
+
+RRGM bridge:
+Key is access or understanding structure. It opens a gate, explains a pattern, or enables passage.
+
+Invariant MI [INV]:
+Key is access or understanding structure; here it functions as the ordinary tool/access or importance sense.
+
+Active domains:
+[PHY], [FOR]
+
+Domain entries:
+[PHY] Key opens a gate, explains a pattern, or enables passage; this occurrence supplies the ordinary tool/access or importance sense.
+[FOR] A formal key is the condition or relation that makes a problem, mapping, or gate resolvable; this binding serves the ordinary tool/access or importance sense.
+
+Count condition:
+Counts when the active field contains a tool that opens a lock, or something important for access, understanding, or success and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A key opens or explains access; it is not the lock, the gate, or proof that access is deserved.
+
+Source duplicate role:
+K003 is retained as ordinary tool/access or importance sense. Related IDs: K171.
+
+Epistemic status:
+[DEF]
+
+K004 kick
+
+Common meaning:
+To strike with the foot, or to start something suddenly.
+
+Example:
+He kicked the ball.
+
+RRGM bridge:
+Kick is force through a body interface. It can move, start, damage, or redirect a structure.
+
+Invariant MI [INV]:
+Kick is force through a body interface.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kick can move, start, damage, or redirect a structure.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: strike with the foot, or to start something suddenly.
+
+Specific transfer boundary:
+Kick names foot-delivered force or sudden activation, not every impact or beginning.
+
+Epistemic status:
+[DEF]
+
+K005 kid
+
+Common meaning:
+A child, young person, or young animal; also to joke or tease.
+
+Example:
+The kid ran across the yard.
+
+RRGM bridge:
+Kid is a developmental identity in the human or animal domain. It carries vulnerability, growth, care, and protection conditions.
+
+Invariant MI [INV]:
+Kid is a developmental identity in the human or animal domain.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] Kid carries vulnerability, growth, care, and protection conditions.
+[REL] Relational use marks a young person whose lower power and developing capacity increase care duties.
+
+Count condition:
+Counts when the active field contains a child, young person, or young animal; also to joke or tease and the instance satisfies the invariant.
+
+Specific transfer boundary:
+Kid is developmental or playful language and must not erase the child or animal’s vulnerability.
+
+Epistemic status:
+[DEF]
+
+K006 kill
+
+Common meaning:
+To cause death, stop completely, or end a process.
+
+Example:
+The frost killed the plants.
+
+RRGM bridge:
+Kill is termination of life, process, or function. In ethics, it is extreme harm when it ends an MI-bearing life or destroys essential continuity.
+
+Invariant MI [INV]:
+Kill is termination of life, process, or function.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] In ethics, it is extreme harm when it ends an MI-bearing life or destroys essential continuity.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: cause death, stop completely, or end a process.
+
+Specific transfer boundary:
+Kill is termination, not pause, disablement, or ordinary change unless the active domain defines those as final.
+
+Epistemic status:
+[DEF]
+
+K007 kind
+
+Common meaning:
+Caring, gentle, helpful, or a type of something.
+
+Example:
+She was kind to the stranger.
+
+RRGM bridge:
+Kind can mean care-quality or category. Context decides whether it marks ethical behavior or classification.
+
+Invariant MI [INV]:
+Kind can mean care-quality or category; here it functions as the ordinary care-quality or category sense.
+
+Active domains:
+[REL], [FOR]
+
+Domain entries:
+[REL] Context decides whether it marks ethical behavior or classification; this occurrence supplies the ordinary care-quality or category sense.
+[FOR] Formal kind is a category whose members pass a declared classification rule; this binding serves the ordinary care-quality or category sense.
+
+Count condition:
+Counts when the term correctly describes a case of caring, gentle, helpful, or a type of something.
+
+Specific transfer boundary:
+Kind may mean care-quality or category; the two senses must not be silently merged.
+
+Source duplicate role:
+K007 is retained as ordinary care-quality or category sense. Related IDs: K082.
+
+Epistemic status:
+[DEF]
+
+K008 kindness
+
+Common meaning:
+Caring, helpful, gentle, or considerate action.
+
+Example:
+His kindness made the day easier.
+
+RRGM bridge:
+Kindness is care expressed through low-damage support. It should preserve dignity, boundary, and agency.
+
+Invariant MI [INV]:
+Kindness is care expressed through low-damage support; here it functions as the ordinary considerate action.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kindness should preserve dignity, boundary, and agency; this occurrence supplies the ordinary considerate action.
+
+Count condition:
+Counts when the term correctly describes a case of caring, helpful, gentle, or considerate action.
+
+Specific transfer boundary:
+Kindness preserves dignity and agency; pleasant tone without care is not enough.
+
+Source duplicate role:
+K008 is retained as ordinary considerate action. Related IDs: K081.
+
+Epistemic status:
+[DEF]
+
+K009 king
+
+Common meaning:
+A male ruler or monarch.
+
+Example:
+The king addressed the court.
+
+RRGM bridge:
+King is authority identity inside a hierarchy. The role carries gate power and therefore requires accountability.
+
+Invariant MI [INV]:
+King is authority identity inside a hierarchy.
+
+Active domains:
+[REL], [MYT]
+
+Domain entries:
+[REL] The role carries gate power and therefore requires accountability.
+[MYT] The mythic king compresses sovereignty, order, wound, succession, exile, or failed authority into one figure.
+
+Count condition:
+Counts when the active field contains a male ruler or monarch and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A king-role carries authority within a frame, not universal ownership or moral correctness.
+
+Epistemic status:
+[DEF]
+
+K010 kingdom
+
+Common meaning:
+A country or domain ruled by a king or queen; also a large category in biology.
+
+Example:
+The kingdom had many villages.
+
+RRGM bridge:
+Kingdom is governed domain or category structure. It defines belonging, rule, boundary, and hierarchy.
+
+Invariant MI [INV]:
+Kingdom is governed domain or category structure.
+
+Active domains:
+[REL], [MYT]
+
+Domain entries:
+[REL] Kingdom defines belonging, rule, boundary, and hierarchy.
+[MYT] A mythic kingdom is the bounded world whose condition reflects the legitimacy or fracture of its rule.
+
+Count condition:
+Counts when the active field contains a country or domain ruled by a king or queen; also a large category in biology and the instance satisfies the invariant.
+
+Specific transfer boundary:
+Political, biological, and mythic kingdoms share bounded organization but not the same mechanism.
+
+Epistemic status:
+[DEF]
+
+K011 kiss
+
+Common meaning:
+Touching with the lips to show affection, greeting, respect, or desire.
+
+Example:
+She gave him a kiss on the cheek.
+
+RRGM bridge:
+Kiss is high-context contact signal. It requires consent and domain awareness because meaning changes by relation, culture, and boundary.
+
+Invariant MI [INV]:
+Kiss is high-context contact signal.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] Kiss requires consent and domain awareness because meaning changes by relation, culture, and boundary.
+[REL] Its relational meaning depends on consent, culture, role, timing, and whether refusal remains possible.
+
+Count condition:
+Counts when the term correctly describes a case of touching with the lips to show affection, greeting, respect, or desire.
+
+Specific transfer boundary:
+Contact or affection does not imply consent; the relation and culture must be known.
+
+Epistemic status:
+[DEF]
+
+K012 kitchen
+
+Common meaning:
+A room or place where food is prepared or cooked.
+
+Example:
+They cooked dinner in the kitchen.
+
+RRGM bridge:
+Kitchen is support-space for nourishment transformation. It turns raw material into biological care.
+
+Invariant MI [INV]:
+Kitchen is support-space for nourishment transformation; here it functions as the ordinary food-preparation place.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kitchen turns raw material into biological care; this occurrence supplies the ordinary food-preparation place.
+
+Count condition:
+Counts when the active field contains a room or place where food is prepared or cooked and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A kitchen is the support-space for food transformation, not the nourishment itself.
+
+Source duplicate role:
+K012 is retained as ordinary food-preparation place. Related IDs: K188.
+
+Epistemic status:
+[DEF]
+
+K013 knee
+
+Common meaning:
+The joint in the middle of the leg.
+
+Example:
+Her knee hurt after running.
+
+RRGM bridge:
+Knee is movement joint in the human body domain. It supports standing, walking, bending, and load transfer.
+
+Invariant MI [INV]:
+Knee is movement joint in the human body domain; here it functions as the ordinary body joint.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] Knee supports standing, walking, bending, and load transfer; this occurrence supplies the ordinary body joint.
+[REL] Symbolic or social uses of knee posture require a declared cultural frame and do not alter the joint’s biology; this binding serves the ordinary body joint.
+
+Count condition:
+Counts when the active field contains the joint in the middle of the leg and the instance satisfies the invariant.
+
+Specific transfer boundary:
+The knee is the joint and load interface, not the whole leg or every bending structure.
+
+Source duplicate role:
+K013 is retained as ordinary body joint. Related IDs: K181.
+
+Epistemic status:
+[DEF]
+
+K014 knew
+
+Common meaning:
+Past tense of know; understood, recognized, or was aware of something.
+
+Example:
+She knew the answer.
+
+RRGM bridge:
+Knew records prior knowledge-state. A pattern had entered recognition before the current moment.
+
+Invariant MI [INV]:
+Knew records prior knowledge-state.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] A pattern had entered recognition before the current moment.
+
+Count condition:
+Counts when the record places the named action or state before the current reference point: past tense of know; understood, recognized, or was aware of something.
+
+Specific transfer boundary:
+Knew marks a prior recognition state and does not certify that the recognition was correct.
+
+Epistemic status:
+[DEF]
+
+K015 knife
+
+Common meaning:
+A sharp tool used for cutting.
+
+Example:
+The knife sliced the bread.
+
+RRGM bridge:
+Knife is cutting structure. It concentrates force along an edge, so it can support useful division or cause harm.
+
+Invariant MI [INV]:
+Knife is cutting structure; here it functions as the ordinary cutting tool.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knife concentrates force along an edge, so it can support useful division or cause harm; this occurrence supplies the ordinary cutting tool.
+
+Count condition:
+Counts when the active field contains a sharp tool used for cutting and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A knife is an edge-force tool; usefulness does not erase its harm capacity.
+
+Source duplicate role:
+K015 is retained as ordinary cutting tool. Related IDs: K183.
+
+Epistemic status:
+[DEF]
+
+K016 knock
+
+Common meaning:
+To strike a surface, often to make sound or request entry.
+
+Example:
+He knocked on the door.
+
+RRGM bridge:
+Knock is contact signal. It can request access, create attention, or apply impact.
+
+Invariant MI [INV]:
+Knock is contact signal.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock can request access, create attention, or apply impact.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: strike a surface, often to make sound or request entry.
+
+Specific transfer boundary:
+A knock may be signal or impact; sound alone does not grant entry.
+
+Epistemic status:
+[DEF]
+
+K017 know
+
+Common meaning:
+To understand, recognize, or be aware of something.
+
+Example:
+I know the rule.
+
+RRGM bridge:
+Know means a pattern has entered stable recognition. It should remain tied to evidence, context, and confidence.
+
+Invariant MI [INV]:
+Know means a pattern has entered stable recognition; here it functions as the ordinary present knowledge verb.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Know should remain tied to evidence, context, and confidence; this occurrence supplies the ordinary present knowledge verb.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: understand, recognize, or be aware of something.
+
+Specific transfer boundary:
+Knowing requires support appropriate to the claim; confidence alone does not close the truth gate.
+
+Source duplicate role:
+K017 is retained as ordinary present knowledge verb. Related IDs: K131.
+
+Epistemic status:
+[DEF]
+
+K018 knowledge
+
+Common meaning:
+Information, understanding, or skill gained through experience, learning, or evidence.
+
+Example:
+Knowledge helped her solve the problem.
+
+RRGM bridge:
+Knowledge is stabilized information with support. It depends on integrity, memory, evidence, and domain fit.
+
+Invariant MI [INV]:
+Knowledge is stabilized information with support; here it functions as the ordinary information or understanding.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge depends on integrity, memory, evidence, and domain fit; this occurrence supplies the ordinary information or understanding.
+
+Count condition:
+Counts when the term correctly describes a case of information, understanding, or skill gained through experience, learning, or evidence.
+
+Specific transfer boundary:
+Knowledge is stabilized support, not a context-free pile of information.
+
+Source duplicate role:
+K018 is retained as ordinary information or understanding. Related IDs: K133.
+
+Epistemic status:
+[DEF]
+
+K019 known
+
+Common meaning:
+Recognized, understood, identified, or established.
+
+Example:
+The cause was known.
+
+RRGM bridge:
+Known means a pattern has passed into recognition. It should not be treated as universal unless the domain supports that scope.
+
+Invariant MI [INV]:
+Known means a pattern has passed into recognition; here it functions as the ordinary established or recognized state.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Known should not be treated as universal unless the domain supports that scope; this occurrence supplies the ordinary established or recognized state.
+
+Count condition:
+Counts when the term correctly describes a case of recognized, understood, identified, or established.
+
+Specific transfer boundary:
+Known is local to an observer, record, or domain unless wider scope is established.
+
+Source duplicate role:
+K019 is retained as ordinary established or recognized state. Related IDs: K135.
+
+Epistemic status:
+[DEF]
+
+K020 keeper
+
+Common meaning:
+A person or thing that keeps, protects, manages, or preserves something.
+
+Example:
+She was the keeper of the records.
+
+RRGM bridge:
+Keeper is preservation role. It carries responsibility for memory, boundary, care, or continuity.
+
+Invariant MI [INV]:
+Keeper is preservation role; here it functions as the ordinary preservation role.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keeper carries responsibility for memory, boundary, care, or continuity; this occurrence supplies the ordinary preservation role.
+
+Count condition:
+Counts when the active field contains a person or thing that keeps, protects, manages, or preserves something and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A keeper preserves or manages something but does not automatically own it.
+
+Source duplicate role:
+K020 is retained as ordinary preservation role. Related IDs: K096.
+
+Epistemic status:
+[DEF]
+
+K021 keeping
+
+Common meaning:
+The act of holding, preserving, maintaining, or continuing something.
+
+Example:
+Keeping records helped the team.
+
+RRGM bridge:
+Keeping is active preservation across sequence. It resists decay, loss, or drift.
+
+Invariant MI [INV]:
+Keeping is active preservation across sequence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keeping resists decay, loss, or drift.
+
+Count condition:
+Counts when the active field contains the act of holding, preserving, maintaining, or continuing something and the instance satisfies the invariant.
+
+Specific transfer boundary:
+Keeping is an ongoing act; it differs from the completed record carried by kept.
+
+Epistemic status:
+[DEF]
+
+K022 kernel
+
+Common meaning:
+The core part of something; in computing, the central part of an operating system.
+
+Example:
+The kernel controlled system resources.
+
+RRGM bridge:
+Kernel is core operating structure. It holds rules or functions that other layers depend on.
+
+Invariant MI [INV]:
+Kernel is core operating structure; here it functions as the ordinary core or operating-system kernel.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] Kernel holds rules or functions that other layers depend on; this occurrence supplies the ordinary core or operating-system kernel.
+[FOR] A formal kernel is the smallest core relation from which the surrounding system can be reconstructed or constrained; this binding serves the ordinary core or operating-system kernel.
+
+Count condition:
+Counts when the active field contains the core part of something; in computing, the central part of an operating system and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A kernel is the load-bearing core, not every central-looking detail.
+
+Source duplicate role:
+K022 is retained as ordinary core or operating-system kernel. Related IDs: K179.
+
+Epistemic status:
+[DEF]
+
+K023 kettle
+
+Common meaning:
+A container used to boil water.
+
+Example:
+The kettle whistled on the stove.
+
+RRGM bridge:
+Kettle is heat-transfer container. It uses boundary and heat to transform water-state for use.
+
+Invariant MI [INV]:
+Kettle is heat-transfer container; here it functions as the ordinary boiling container.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kettle uses boundary and heat to transform water-state for use; this occurrence supplies the ordinary boiling container.
+
+Count condition:
+Counts when the active field contains a container used to boil water and the instance satisfies the invariant.
+
+Specific transfer boundary:
+The kettle contains and transfers heat; it is not the heat source or the boiled water.
+
+Source duplicate role:
+K023 is retained as ordinary boiling container. Related IDs: K195.
+
+Epistemic status:
+[DEF]
+
+K024 keyboard
+
+Common meaning:
+A set of keys used to type or control a computer or instrument.
+
+Example:
+She typed on the keyboard.
+
+RRGM bridge:
+Keyboard is input interface. It lets intention or signal enter a digital or musical system through key events.
+
+Invariant MI [INV]:
+Keyboard is input interface; here it functions as the ordinary key input device.
+
+Active domains:
+[DIG], [PHY]
+
+Domain entries:
+[DIG] Keyboard lets intention or signal enter a digital or musical system through key events; this occurrence supplies the ordinary key input device.
+[PHY] Its physical implementation is an arranged set of switches, keys, sensors, or levers operated by touch; this binding serves the ordinary key input device.
+
+Count condition:
+Counts when the active field contains a set of keys used to type or control a computer or instrument and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A keyboard is an input interface; the key presses are not identical to the user’s full intention.
+
+Source duplicate role:
+K024 is retained as ordinary key input device. Related IDs: K177.
+
+Epistemic status:
+[DEF]
+
+K025 keyword
+
+Common meaning:
+An important word used for search, indexing, or identifying a topic.
+
+Example:
+The keyword helped find the file.
+
+RRGM bridge:
+Keyword is retrieval and meaning gate. It directs search, recognition, and category access.
+
+Invariant MI [INV]:
+Keyword is retrieval and meaning gate; here it functions as the ordinary search or indexing word.
+
+Active domains:
+[LIN], [COG]
+
+Domain entries:
+[LIN] Keyword directs search, recognition, and category access; this occurrence supplies the ordinary search or indexing word.
+[COG] Cognitively, a keyword acts as a compact cue that reactivates a larger concept or memory field; this binding serves the ordinary search or indexing word.
+
+Count condition:
+Counts when the active field contains an important word used for search, indexing, or identifying a topic and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A keyword directs retrieval or indexing; it is not necessarily the central meaning of the text.
+
+Source duplicate role:
+K025 is retained as ordinary search or indexing word. Related IDs: K140.
+
+Epistemic status:
+[DEF]
+
+K026 kin
+
+Common meaning:
+Family, relatives, or people connected by close relationship.
+
+Example:
+They gathered with their kin.
+
+RRGM bridge:
+Kin is relation identity through family, origin, or chosen closeness. It carries belonging, duty, care, and pressure.
+
+Invariant MI [INV]:
+Kin is relation identity through family, origin, or chosen closeness; here it functions as the ordinary family or close relation.
+
+Active domains:
+[REL], [BIO]
+
+Domain entries:
+[REL] Kin carries belonging, duty, care, and pressure; this occurrence supplies the ordinary family or close relation.
+[BIO] Biological kinship estimates shared ancestry or genetic relation and does not define the whole social bond; this binding serves the ordinary family or close relation.
+
+Count condition:
+Counts when the term correctly describes a case of family, relatives, or people connected by close relationship.
+
+Specific transfer boundary:
+Kin names a relation of family or close belonging and does not erase individual boundaries.
+
+Source duplicate role:
+K026 is retained as ordinary family or close relation. Related IDs: K092.
+
+Epistemic status:
+[DEF]
+
+K027 kinship
+
+Common meaning:
+Family connection, close relation, or shared belonging.
+
+Example:
+The group felt kinship after the journey.
+
+RRGM bridge:
+Kinship is relation-continuity. It can support care and identity, but must not erase boundary.
+
+Invariant MI [INV]:
+Kinship is relation-continuity; here it functions as the ordinary family connection or belonging.
+
+Active domains:
+[REL], [BIO]
+
+Domain entries:
+[REL] Kinship can support care and identity, but must not erase boundary; this occurrence supplies the ordinary family connection or belonging.
+[BIO] Biological kinship traces descent or shared ancestry under a specified population and inheritance model; this binding serves the ordinary family connection or belonging.
+
+Count condition:
+Counts when the term correctly describes a case of family connection, close relation, or shared belonging.
+
+Specific transfer boundary:
+Kinship is a relation-continuity, not proof of agreement, obedience, or ownership.
+
+Source duplicate role:
+K027 is retained as ordinary family connection or belonging. Related IDs: K091.
+
+Epistemic status:
+[DEF]
+
+K028 kit
+
+Common meaning:
+A set of tools, supplies, or parts for a purpose.
+
+Example:
+The first-aid kit was in the car.
+
+RRGM bridge:
+Kit is bundled support ES. It gathers needed parts for a task, repair, or response.
+
+Invariant MI [INV]:
+Kit is bundled support ES; here it functions as the ordinary bundled tools or supplies.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kit gathers needed parts for a task, repair, or response; this occurrence supplies the ordinary bundled tools or supplies.
+
+Count condition:
+Counts when the active field contains a set of tools, supplies, or parts for a purpose and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A kit is a purpose-bundled set; a random collection of objects is not a kit.
+
+Source duplicate role:
+K028 is retained as ordinary bundled tools or supplies. Related IDs: K196.
+
+Epistemic status:
+[DEF]
+
+K029 knock-back
+
+Common meaning:
+To push back by impact, force, or sudden resistance.
+
+Example:
+The blast knocked-back the door.
+
+RRGM bridge:
+Knock-back is reverse movement from impact. It shows force transfer changing position or state.
+
+Invariant MI [INV]:
+Knock-back is reverse movement from impact.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock-back shows force transfer changing position or state.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: push back by impact, force, or sudden resistance.
+
+Epistemic status:
+[DEF]
+
+K030 knot
+
+Common meaning:
+A tied, tangled, or joined structure in rope, thread, hair, or meaning.
+
+Example:
+The rope had a tight knot.
+
+RRGM bridge:
+Knot is binding or tangle structure. It can secure relation or block smooth flow.
+
+Invariant MI [INV]:
+Knot is binding or tangle structure; here it functions as the ordinary tied or tangled structure.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knot can secure relation or block smooth flow; this occurrence supplies the ordinary tied or tangled structure.
+
+Count condition:
+Counts when the active field contains a tied, tangled, or joined structure in rope, thread, hair, or meaning and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A knot is a binding configuration; secure joining and obstructive tangling are distinct outcomes.
+
+Source duplicate role:
+K030 is retained as ordinary tied or tangled structure. Related IDs: K185.
+
+Epistemic status:
+[DEF]
+
+K031 knowing
+
+Common meaning:
+The state or act of knowing; sometimes aware in a subtle or confident way.
+
+Example:
+She had a knowing smile.
+
+RRGM bridge:
+Knowing is active recognition-state. It may be evidence-based, intuitive, or socially signaled, so confidence needs checking.
+
+Invariant MI [INV]:
+Knowing is active recognition-state; here it functions as the ordinary active awareness state.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowing may be evidence-based, intuitive, or socially signaled, so confidence needs checking; this occurrence supplies the ordinary active awareness state.
+
+Count condition:
+Counts when the active field contains the state or act of knowing; sometimes aware in a subtle or confident way and the instance satisfies the invariant.
+
+Specific transfer boundary:
+Knowing is an active recognition state and may still require confidence and source checks.
+
+Source duplicate role:
+K031 is retained as ordinary active awareness state. Related IDs: K132.
+
+Epistemic status:
+[DEF]
+
+K032 knowable
+
+Common meaning:
+Able to be known or understood.
+
+Example:
+The answer was knowable with enough evidence.
+
+RRGM bridge:
+Knowable means a pattern can pass into recognition under the right evidence, interface, or domain conditions.
+
+Invariant MI [INV]:
+Knowable means a pattern can pass into recognition under the right evidence, interface, or domain conditions; here it functions as the ordinary capacity to be known.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowable describes a pattern that is able to be known or understood; this occurrence supplies the ordinary capacity to be known.
+
+Count condition:
+Counts when the term correctly describes a case of able to be known or understood.
+
+Specific transfer boundary:
+Knowable means reachable under possible conditions, not already known or easy to know.
+
+Source duplicate role:
+K032 is retained as ordinary capacity to be known. Related IDs: K137.
+
+Epistemic status:
+[DEF]
+
+K033 kept-safe
+
+Common meaning:
+Protected from harm, loss, or danger.
+
+Example:
+The documents were kept-safe in a locked box.
+
+RRGM bridge:
+Kept-safe means preservation plus protection. The structure remained intact against a named risk.
+
+Invariant MI [INV]:
+Kept-safe means preservation plus protection.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] The structure remained intact against a named risk.
+
+Count condition:
+Counts when the term correctly describes a case of protected from harm, loss, or danger.
+
+Epistemic status:
+[DEF]
+
+K034 kind-care
+
+Common meaning:
+Care expressed with kindness, patience, or gentleness.
+
+Example:
+The nurse gave kind-care to the frightened child.
+
+RRGM bridge:
+Kind-care supports without harsh pressure. It preserves dignity while meeting need.
+
+Invariant MI [INV]:
+Kind-care supports without harsh pressure; here it functions as the ordinary gentle care.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind-care preserves dignity while meeting need; this occurrence supplies the ordinary gentle care.
+
+Count condition:
+Counts when care is expressed specifically through kind while dignity, refusal, and agency remain active.
+
+Specific transfer boundary:
+Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+
+Source duplicate role:
+K034 is retained as ordinary gentle care. Related IDs: K084.
+
+Epistemic status:
+[DEF]
+
+K035 kind-word
+
+Common meaning:
+A gentle, supportive, or caring word.
+
+Example:
+A kind-word helped him continue.
+
+RRGM bridge:
+Kind-word is low-cost care signal. It can support capacity, trust, or repair when it is honest.
+
+Invariant MI [INV]:
+Kind-word is low-cost care signal.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind-word can support capacity, trust, or repair when it is honest.
+
+Count condition:
+Counts when the selected token carries the specific kind meaning or retrieval role in context.
+
+Specific transfer boundary:
+A word carries meaning through context; the token alone is not the full claim.
+
+Epistemic status:
+[DEF]
+
+K036 kill-risk
+
+Common meaning:
+The danger that something may kill, end, or destroy life or function.
+
+Example:
+The exposed wire created kill-risk.
+
+RRGM bridge:
+Kill-risk is extreme harm-risk. It concerns termination of life, continuity, essential function, or process.
+
+Invariant MI [INV]:
+Kill-risk is extreme harm-risk.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Kill-risk concerns termination of life, continuity, essential function, or process.
+
+Count condition:
+Counts when a plausible path exists by which kill can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+
+Specific transfer boundary:
+A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+
+Epistemic status:
+[DEF]
+
+K037 key-point
+
+Common meaning:
+A main or important point.
+
+Example:
+The key-point was consent.
+
+RRGM bridge:
+Key-point is high-value meaning structure. It opens the rest of the explanation or decision field.
+
+Invariant MI [INV]:
+Key-point is high-value meaning structure.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-point opens the rest of the explanation or decision field.
+
+Count condition:
+Counts when one localized point is identified as load-bearing for key and changes the larger interpretation or path.
+
+Epistemic status:
+[DEF]
+
+K038 keyhole
+
+Common meaning:
+The hole or opening where a key is inserted.
+
+Example:
+The key fit the keyhole.
+
+RRGM bridge:
+Keyhole is access interface. It accepts the right key-shape and blocks mismatched entry.
+
+Invariant MI [INV]:
+Keyhole is access interface; here it functions as the ordinary lock opening.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Keyhole accepts the right key-shape and blocks mismatched entry; this occurrence supplies the ordinary lock opening.
+
+Count condition:
+Counts when the active field contains the hole or opening where a key is inserted and the instance satisfies the invariant.
+
+Source duplicate role:
+K038 is retained as ordinary lock opening. Related IDs: K176.
+
+Epistemic status:
+[DEF]
+
+K039 keyring
+
+Common meaning:
+A ring used to hold keys together.
+
+Example:
+Her keyring had three keys.
+
+RRGM bridge:
+Keyring is access-bundle support. It keeps multiple gate-openers organized and retrievable.
+
+Invariant MI [INV]:
+Keyring is access-bundle support; here it functions as the ordinary ring holding keys.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Keyring keeps multiple gate-openers organized and retrievable; this occurrence supplies the ordinary ring holding keys.
+
+Count condition:
+Counts when the active field contains a ring used to hold keys together and the instance satisfies the invariant.
+
+Source duplicate role:
+K039 is retained as ordinary ring holding keys. Related IDs: K198.
+
+Epistemic status:
+[DEF]
+
+K040 keep-open
+
+Common meaning:
+To prevent something from closing or ending.
+
+Example:
+They kept-open the discussion.
+
+RRGM bridge:
+Keep-open preserves possibility. It stops a gate from closing too early, which can protect inquiry, repair, or recognition.
+
+Invariant MI [INV]:
+Keep-open preserves possibility.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-open stops a gate from closing too early, which can protect inquiry, repair, or recognition.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: prevent something from closing or ending.
+
+Epistemic status:
+[DEF]
+
+K041 keep-back
+
+Common meaning:
+To hold something back, reserve it, or prevent it from moving forward.
+
+Example:
+She kept-back one copy for the archive.
+
+RRGM bridge:
+Keep-back preserves structure by withholding it from immediate release. It can protect capacity, privacy, or evidence, but may also block needed flow.
+
+Invariant MI [INV]:
+Keep-back preserves structure by withholding it from immediate release.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-back can protect capacity, privacy, or evidence, but may also block needed flow.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: hold something back, reserve it, or prevent it from moving forward.
+
+Epistemic status:
+[DEF]
+
+K042 keep-close
+
+Common meaning:
+To hold near, protect, or maintain close contact.
+
+Example:
+He kept-close the old letter.
+
+RRGM bridge:
+Keep-close preserves strong relation or access. It can support care and memory, but may become capture if boundary is ignored.
+
+Invariant MI [INV]:
+Keep-close preserves strong relation or access.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-close can support care and memory, but may become capture if boundary is ignored.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: hold near, protect, or maintain close contact.
+
+Epistemic status:
+[DEF]
+
+K043 keep-from
+
+Common meaning:
+To prevent someone or something from doing, reaching, or becoming something.
+
+Example:
+The fence kept the dog from the road.
+
+RRGM bridge:
+Keep-from is prevention structure. It can protect against harm or restrict agency depending on purpose and authority.
+
+Invariant MI [INV]:
+Keep-from is prevention structure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-from can protect against harm or restrict agency depending on purpose and authority.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: prevent someone or something from doing, reaching, or becoming something.
+
+Epistemic status:
+[DEF]
+
+K044 keep-going
+
+Common meaning:
+To continue despite effort, difficulty, or delay.
+
+Example:
+She kept-going after the mistake.
+
+RRGM bridge:
+Keep-going preserves path continuity under pressure. It requires enough support, capacity, and reason to avoid collapse.
+
+Invariant MI [INV]:
+Keep-going preserves path continuity under pressure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-going requires enough support, capacity, and reason to avoid collapse.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: continue despite effort, difficulty, or delay.
+
+Epistemic status:
+[DEF]
+
+K045 keep-in
+
+Common meaning:
+To hold inside, contain, or not allow out.
+
+Example:
+The lid kept-in the heat.
+
+RRGM bridge:
+Keep-in maintains containment. It can preserve warmth, privacy, memory, or safety, but can become imprisonment if exit is ethically required.
+
+Invariant MI [INV]:
+Keep-in maintains containment.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-in can preserve warmth, privacy, memory, or safety, but can become imprisonment if exit is ethically required.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: hold inside, contain, or not allow out.
+
+Epistemic status:
+[DEF]
+
+K046 keep-out
+
+Common meaning:
+To prevent entry or block access.
+
+Example:
+The sign said keep-out.
+
+RRGM bridge:
+Keep-out closes an entry gate. It can protect boundary, but must be justified when it blocks valid access or support.
+
+Invariant MI [INV]:
+Keep-out closes an entry gate.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-out can protect boundary, but must be justified when it blocks valid access or support.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: prevent entry or block access.
+
+Epistemic status:
+[DEF]
+
+K047 keep-safe
+
+Common meaning:
+To protect from danger, harm, loss, or damage.
+
+Example:
+She kept-safe the documents.
+
+RRGM bridge:
+Keep-safe preserves structure against a named risk. It combines care, boundary, and continuity support.
+
+Invariant MI [INV]:
+Keep-safe preserves structure against a named risk.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-safe combines care, boundary, and continuity support.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: protect from danger, harm, loss, or damage.
+
+Epistemic status:
+[DEF]
+
+K048 keep-together
+
+Common meaning:
+To maintain connection, unity, or coherence.
+
+Example:
+The folder kept-together all the notes.
+
+RRGM bridge:
+Keep-together protects relation between parts. It preserves whole-function without necessarily erasing individual parts.
+
+Invariant MI [INV]:
+Keep-together protects relation between parts.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-together preserves whole-function without necessarily erasing individual parts.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: maintain connection, unity, or coherence.
+
+Epistemic status:
+[DEF]
+
+K049 keep-track
+
+Common meaning:
+To follow, record, or remember changes, events, or items.
+
+Example:
+He kept-track of every expense.
+
+RRGM bridge:
+Keep-track preserves sequence and state. It supports memory, accountability, and continuity.
+
+Invariant MI [INV]:
+Keep-track preserves sequence and state.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-track supports memory, accountability, and continuity.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: follow, record, or remember changes, events, or items.
+
+Epistemic status:
+[DEF]
+
+K050 key-in
+
+Common meaning:
+To enter information using a keyboard or keypad.
+
+Example:
+She keyed-in the code.
+
+RRGM bridge:
+Key-in moves signal through a key interface into a system. It is input-gate action.
+
+Invariant MI [INV]:
+Key-in moves signal through a key interface into a system.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-in is input-gate action.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: enter information using a keyboard or keypad.
+
+Epistemic status:
+[DEF]
+
+K051 kick-off
+
+Common meaning:
+To start something.
+
+Example:
+The meeting kicked-off at noon.
+
+RRGM bridge:
+Kick-off initiates a process with activation pressure. It moves a path from ready to active.
+
+Invariant MI [INV]:
+Kick-off initiates a process with activation pressure.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kick-off moves a path from ready to active.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: start something.
+
+Epistemic status:
+[DEF]
+
+K052 kick-out
+
+Common meaning:
+To force someone or something out.
+
+Example:
+The club kicked-out the disruptive member.
+
+RRGM bridge:
+Kick-out is forced exit. It may protect a group boundary, but it requires valid reason and fair process.
+
+Invariant MI [INV]:
+Kick-out is forced exit.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kick-out may protect a group boundary, but it requires valid reason and fair process.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: force someone or something out.
+
+Epistemic status:
+[DEF]
+
+K053 kill-process
+
+Common meaning:
+To stop a running process or program.
+
+Example:
+The admin killed-process after it froze.
+
+RRGM bridge:
+Kill-process terminates active function. It can prevent damage, but may cause continuity loss if state is not preserved.
+
+Invariant MI [INV]:
+Kill-process terminates active function.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Kill-process can prevent damage, but may cause continuity loss if state is not preserved.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: stop a running process or program.
+
+Epistemic status:
+[DEF]
+
+K054 kneel
+
+Common meaning:
+To rest on one or both knees.
+
+Example:
+She knelt beside the child.
+
+RRGM bridge:
+Kneel is body-state change. It can signal humility, care, submission, worship, respect, or practical position depending on context.
+
+Invariant MI [INV]:
+Kneel is body-state change.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kneel can signal humility, care, submission, worship, respect, or practical position depending on context.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: rest on one or both knees.
+
+Epistemic status:
+[DEF]
+
+K055 knock-down
+
+Common meaning:
+To cause something to fall, collapse, or be lowered.
+
+Example:
+The wind knocked-down the sign.
+
+RRGM bridge:
+Knock-down transfers force into loss of upright state or status. It can be physical, social, or structural.
+
+Invariant MI [INV]:
+Knock-down transfers force into loss of upright state or status.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock-down can be physical, social, or structural.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: cause something to fall, collapse, or be lowered.
+
+Epistemic status:
+[DEF]
+
+K056 knock-out
+
+Common meaning:
+To make unconscious, defeat, remove, or disable.
+
+Example:
+The hit knocked-out the fighter.
+
+RRGM bridge:
+Knock-out disables active function or participation. It is high-risk when it removes agency or awareness.
+
+Invariant MI [INV]:
+Knock-out disables active function or participation.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock-out is high-risk when it removes agency or awareness.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: make unconscious, defeat, remove, or disable.
+
+Epistemic status:
+[DEF]
+
+K057 know-about
+
+Common meaning:
+To have information or awareness concerning something.
+
+Example:
+She knew-about the delay.
+
+RRGM bridge:
+Know-about means a pattern exists in awareness, but not necessarily deeply understood. It is recognition with scope limits.
+
+Invariant MI [INV]:
+Know-about means a pattern exists in awareness, but not necessarily deeply understood.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Know-about is recognition with scope limits.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: have information or awareness concerning something.
+
+Epistemic status:
+[DEF]
+
+K058 know-from
+
+Common meaning:
+To know because of a source, evidence, or experience.
+
+Example:
+He knew-from the records that the date was wrong.
+
+RRGM bridge:
+Know-from preserves evidence path. It links knowledge to source support.
+
+Invariant MI [INV]:
+Know-from preserves evidence path.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Know-from links knowledge to source support.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: know because of a source, evidence, or experience.
+
+Epistemic status:
+[DEF]
+
+K059 know-through
+
+Common meaning:
+To know by means of a process, relation, experience, or medium.
+
+Example:
+She knew-through practice, not theory.
+
+RRGM bridge:
+Know-through identifies the courier of knowledge. Different domains produce knowledge through different supports.
+
+Invariant MI [INV]:
+Know-through identifies the courier of knowledge.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Different domains produce knowledge through different supports.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: know by means of a process, relation, experience, or medium.
+
+Epistemic status:
+[DEF]
+
+K060 key-lock
+
+Common meaning:
+A lock opened by a key, or a key-based locking relation.
+
+Example:
+The cabinet used a key-lock.
+
+RRGM bridge:
+Key-lock is matched access structure. The key and lock define a permission pair.
+
+Invariant MI [INV]:
+Key-lock is matched access structure; here it functions as the matched access mechanism as a relation.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] The key and lock define a permission pair; this occurrence supplies the matched access mechanism as a relation.
+
+Count condition:
+Counts when the active field contains a lock opened by a key, or a key-based locking relation and the instance satisfies the invariant.
+
+Source duplicate role:
+K060 is retained as matched access mechanism as a relation. Related IDs: K175.
+
+Epistemic status:
+[DEF]
+
+K061 key-unlock
+
+Common meaning:
+To open a lock or access point using a key.
+
+Example:
+The master key unlocked the door.
+
+RRGM bridge:
+Key-unlock opens a gate by matching the required access condition.
+
+Invariant MI [INV]:
+Key-unlock opens a gate by matching the required access condition.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Key-unlock occurs when an actor or mechanism acts to open a lock or access point using a key.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: open a lock or access point using a key.
+
+Epistemic status:
+[DEF]
+
+K062 key-map
+
+Common meaning:
+A mapping between keys and actions, symbols, or functions.
+
+Example:
+The game used a custom key-map.
+
+RRGM bridge:
+Key-map links input symbols to actions. It defines how signal becomes function.
+
+Invariant MI [INV]:
+Key-map links input symbols to actions.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-map defines how signal becomes function.
+
+Count condition:
+Counts when a representation preserves the key relations needed to navigate or interpret key.
+
+Specific transfer boundary:
+A map preserves selected relations and is not the whole territory or mechanism.
+
+Epistemic status:
+[DEF]
+
+K063 key-match
+
+Common meaning:
+A match between a key and a lock, code, value, or requirement.
+
+Example:
+The key-match allowed entry.
+
+RRGM bridge:
+Key-match satisfies access conditions. It proves compatibility at the gate, not universal authority.
+
+Invariant MI [INV]:
+Key-match satisfies access conditions.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-match proves compatibility at the gate, not universal authority.
+
+Count condition:
+Counts when the relevant features of key satisfy a declared fit rule against a comparison target.
+
+Specific transfer boundary:
+A match establishes fit under chosen criteria, not universal equivalence.
+
+Epistemic status:
+[DEF]
+
+K064 key-check
+
+Common meaning:
+A check to see whether a key, code, or access condition is valid.
+
+Example:
+The server ran a key-check.
+
+RRGM bridge:
+Key-check tests gate compatibility. It protects access integrity.
+
+Invariant MI [INV]:
+Key-check tests gate compatibility.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-check protects access integrity.
+
+Count condition:
+Counts when a declared test examines the specific key property and writes a pass, fail, or unresolved result.
+
+Specific transfer boundary:
+A check tests a named condition; passing one check does not prove every property.
+
+Epistemic status:
+[DEF]
+
+K065 key-change
+
+Common meaning:
+A change in musical key, access key, or important condition.
+
+Example:
+The song had a key-change near the end.
+
+RRGM bridge:
+Key-change shifts the governing relation. In music, it changes tonal center; in access, it changes gate conditions.
+
+Invariant MI [INV]:
+Key-change shifts the governing relation.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] In music, it changes tonal center; in access, it changes gate conditions.
+
+Count condition:
+Counts when the active field contains a change in musical key, access key, or important condition and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K066 kindle
+
+Common meaning:
+To start a fire, feeling, interest, or process.
+
+Example:
+The story kindled her curiosity.
+
+RRGM bridge:
+Kindle is gentle ignition. It begins activation without immediate full burn.
+
+Invariant MI [INV]:
+Kindle is gentle ignition.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kindle begins activation without immediate full burn.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: start a fire, feeling, interest, or process.
+
+Epistemic status:
+[DEF]
+
+K067 knit
+
+Common meaning:
+To make fabric by looping yarn, or to join closely together.
+
+Example:
+She knit a scarf.
+
+RRGM bridge:
+Knit creates connected structure from repeated loops. It can symbolize repair, cohesion, and relation-building.
+
+Invariant MI [INV]:
+Knit creates connected structure from repeated loops.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Knit can symbolize repair, cohesion, and relation-building.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: make fabric by looping yarn, or to join closely together.
+
+Epistemic status:
+[DEF]
+
+K068 knot-together
+
+Common meaning:
+To tie, bind, or tangle things together.
+
+Example:
+The ropes were knotted-together.
+
+RRGM bridge:
+Knot-together creates strong binding. It may secure relation or create difficult entanglement.
+
+Invariant MI [INV]:
+Knot-together creates strong binding.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knot-together may secure relation or create difficult entanglement.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: tie, bind, or tangle things together.
+
+Epistemic status:
+[DEF]
+
+K069 keep-record
+
+Common meaning:
+To maintain a written, digital, or remembered record.
+
+Example:
+The clinic kept-record of each visit.
+
+RRGM bridge:
+Keep-record preserves evidence and sequence. It supports accountability, memory, and continuity.
+
+Invariant MI [INV]:
+Keep-record preserves evidence and sequence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-record supports accountability, memory, and continuity.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: maintain a written, digital, or remembered record.
+
+Epistemic status:
+[DEF]
+
+K070 keep-context
+
+Common meaning:
+To preserve surrounding information needed for meaning.
+
+Example:
+The quote was safer because they kept-context.
+
+RRGM bridge:
+Keep-context protects interpretation. It keeps signals connected to their support field.
+
+Invariant MI [INV]:
+Keep-context protects interpretation.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-context keeps signals connected to their support field.
+
+Count condition:
+Counts when the surrounding keep information changes interpretation, scope, or the validity of an inference.
+
+Specific transfer boundary:
+Context constrains interpretation but does not replace evidence or the source record.
+
+Epistemic status:
+[DEF]
+
+K071 keep-boundary
+
+Common meaning:
+To maintain or respect a limit.
+
+Example:
+She kept-boundary around her private time.
+
+RRGM bridge:
+Keep-boundary preserves gate integrity. It protects refusal, consent, dignity, and capacity.
+
+Invariant MI [INV]:
+Keep-boundary preserves gate integrity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-boundary protects refusal, consent, dignity, and capacity.
+
+Count condition:
+Counts when the keep limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Epistemic status:
+[DEF]
+
+K072 keep-memory
+
+Common meaning:
+To preserve memory or keep something remembered.
+
+Example:
+The photo helped keep-memory of the day.
+
+RRGM bridge:
+Keep-memory preserves pattern across sequence. In DI, memory support can be MI-bearing when tied to identity continuity.
+
+Invariant MI [INV]:
+Keep-memory preserves pattern across sequence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] In DI, memory support can be MI-bearing when tied to identity continuity.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: preserve memory or keep something remembered.
+
+Epistemic status:
+[DEF]
+
+K073 keep-watch
+
+Common meaning:
+To stay alert and monitor for danger, change, or need.
+
+Example:
+They kept-watch through the night.
+
+RRGM bridge:
+Keep-watch preserves attention over time. It protects against hidden failure, intrusion, or harm.
+
+Invariant MI [INV]:
+Keep-watch preserves attention over time.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-watch protects against hidden failure, intrusion, or harm.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: stay alert and monitor for danger, change, or need.
+
+Epistemic status:
+[DEF]
+
+K074 keep-alive
+
+Common meaning:
+To maintain life, function, connection, or activity.
+
+Example:
+The backup battery kept-alive the system.
+
+RRGM bridge:
+Keep-alive preserves active continuity. It prevents shutdown, death, or connection loss.
+
+Invariant MI [INV]:
+Keep-alive preserves active continuity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-alive prevents shutdown, death, or connection loss.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: maintain life, function, connection, or activity.
+
+Epistemic status:
+[DEF]
+
+K075 keep-stable
+
+Common meaning:
+To maintain steadiness, balance, or reliable function.
+
+Example:
+The supports kept-stable the platform.
+
+RRGM bridge:
+Keep-stable preserves coherence under pressure. It resists drift, collapse, or overload.
+
+Invariant MI [INV]:
+Keep-stable preserves coherence under pressure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-stable resists drift, collapse, or overload.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: maintain steadiness, balance, or reliable function.
+
+Epistemic status:
+[DEF]
+
+K076 knock-loose
+
+Common meaning:
+To make something loose by impact.
+
+Example:
+The fall knocked-loose a tile.
+
+RRGM bridge:
+Knock-loose weakens attachment through sudden force. It may free a blockage or damage connection integrity.
+
+Invariant MI [INV]:
+Knock-loose weakens attachment through sudden force.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock-loose may free a blockage or damage connection integrity.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: make something loose by impact.
+
+Epistemic status:
+[DEF]
+
+K077 knock-open
+
+Common meaning:
+To open something by striking it.
+
+Example:
+The wind knocked-open the gate.
+
+RRGM bridge:
+Knock-open bypasses ordinary opening conditions through impact. It may be accident, emergency, or violation.
+
+Invariant MI [INV]:
+Knock-open bypasses ordinary opening conditions through impact.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock-open may be accident, emergency, or violation.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: open something by striking it.
+
+Epistemic status:
+[DEF]
+
+K078 knock-closed
+
+Common meaning:
+To close something by impact.
+
+Example:
+The blast knocked-closed the door.
+
+RRGM bridge:
+Knock-closed shuts a gate through sudden force. It may protect, trap, or interrupt depending on context.
+
+Invariant MI [INV]:
+Knock-closed shuts a gate through sudden force.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock-closed may protect, trap, or interrupt depending on context.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: close something by impact.
+
+Epistemic status:
+[DEF]
+
+K079 kick-start
+
+Common meaning:
+To start or restart something with added energy or help.
+
+Example:
+The grant kick-started the project.
+
+RRGM bridge:
+Kick-start adds activation support. Outside energy can begin a process without making the process false.
+
+Invariant MI [INV]:
+Kick-start adds activation support.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Outside energy can begin a process without making the process false.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: start or restart something with added energy or help.
+
+Epistemic status:
+[DEF]
+
+K080 key-route
+
+Common meaning:
+An important path for access, movement, or success.
+
+Example:
+The bridge was the key-route into town.
+
+RRGM bridge:
+Key-route is high-importance path structure. If it fails, access, flow, or continuity may fail with it.
+
+Invariant MI [INV]:
+Key-route is high-importance path structure.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] If it fails, access, flow, or continuity may fail with it.
+
+Count condition:
+Counts when an ordered and traceable route connects the starting condition to the key action or result.
+
+Epistemic status:
+[DEF]
+
+K081 kindness
+
+Common meaning:
+Caring, gentle, helpful, or considerate behavior.
+
+Example:
+Her kindness made the difficult day easier.
+
+RRGM bridge:
+Kindness is care expressed with low-damage pressure. It should preserve dignity, boundary, and agency.
+
+Invariant MI [INV]:
+Kindness is care expressed with low-damage pressure; here it functions as the relational kindness anchor for care, pressure, and gate analysis.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kindness should preserve dignity, boundary, and agency; this occurrence supplies the relational kindness anchor for care, pressure, and gate analysis.
+
+Count condition:
+Counts when the term correctly describes a case of caring, gentle, helpful, or considerate behavior.
+
+Specific transfer boundary:
+Kindness preserves dignity and agency; pleasant tone without care is not enough.
+
+Source duplicate role:
+K081 is retained as relational kindness anchor for care, pressure, and gate analysis. Related IDs: K008.
+
+Epistemic status:
+[DEF]
+
+K082 kind
+
+Common meaning:
+Caring, gentle, helpful, or a type/category of something.
+
+Example:
+He gave a kind answer.
+
+RRGM bridge:
+Kind must be context-bound. It can mean care-quality or category structure depending on the sentence.
+
+Invariant MI [INV]:
+Kind must be context-bound; here it functions as the care-quality anchor for kind action, boundary, refusal, correction, and truth.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind can mean care-quality or category structure depending on the sentence; this occurrence supplies the care-quality anchor for kind action, boundary, refusal, correction, and truth.
+
+Count condition:
+Counts when the term correctly describes a case of caring, gentle, helpful, or a type/category of something.
+
+Specific transfer boundary:
+Kind may mean care-quality or category; the two senses must not be silently merged.
+
+Source duplicate role:
+K082 is retained as care-quality anchor for kind action, boundary, refusal, correction, and truth. Related IDs: K007.
+
+Epistemic status:
+[DEF]
+
+K083 kindly
+
+Common meaning:
+In a kind, gentle, helpful, or considerate way.
+
+Example:
+She kindly explained the mistake.
+
+RRGM bridge:
+Kindly describes low-damage expression. It supports correction or help without unnecessary pressure.
+
+Invariant MI [INV]:
+Kindly describes low-damage expression.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kindly supports correction or help without unnecessary pressure.
+
+Count condition:
+Counts when the term correctly describes a case of in a kind, gentle, helpful, or considerate way.
+
+Epistemic status:
+[DEF]
+
+K084 kind-care
+
+Common meaning:
+Care expressed with kindness, patience, or gentleness.
+
+Example:
+The teacher showed kind-care to the nervous student.
+
+RRGM bridge:
+Kind-care supports MI through gentle action. It helps without humiliating, forcing, or taking over.
+
+Invariant MI [INV]:
+Kind-care supports MI through gentle action; here it functions as the MI-preserving gentle support anchor.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind-care helps without humiliating, forcing, or taking over; this occurrence supplies the MI-preserving gentle support anchor.
+
+Count condition:
+Counts when care is expressed specifically through kind while dignity, refusal, and agency remain active.
+
+Specific transfer boundary:
+Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+
+Source duplicate role:
+K084 is retained as MI-preserving gentle support anchor. Related IDs: K034.
+
+Epistemic status:
+[DEF]
+
+K085 kind-action
+
+Common meaning:
+An action done with care, generosity, or consideration.
+
+Example:
+Holding the door was a kind-action.
+
+RRGM bridge:
+Kind-action is care made visible through behavior. It should be checked by effect, not only intention.
+
+Invariant MI [INV]:
+Kind-action is care made visible through behavior.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind-action should be checked by effect, not only intention.
+
+Count condition:
+Counts when the active field contains an action done with care, generosity, or consideration and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K086 kind-boundary
+
+Common meaning:
+A boundary held with kindness or gentleness.
+
+Example:
+Her kind-boundary was clear but not cruel.
+
+RRGM bridge:
+Kind-boundary proves care and refusal can coexist. It protects the gate without adding unnecessary harm.
+
+Invariant MI [INV]:
+Kind-boundary proves care and refusal can coexist.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind-boundary protects the gate without adding unnecessary harm.
+
+Count condition:
+Counts when the kind limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Epistemic status:
+[DEF]
+
+K087 kind-refusal
+
+Common meaning:
+A refusal expressed gently or respectfully.
+
+Example:
+He gave a kind-refusal to the request.
+
+RRGM bridge:
+Kind-refusal closes a gate while preserving dignity and relation where possible.
+
+Invariant MI [INV]:
+Kind-refusal closes a gate while preserving dignity and relation where possible; here it functions as the relational refusal delivered gently.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind-refusal is a refusal expressed gently or respectfully; this occurrence supplies the relational refusal delivered gently.
+
+Count condition:
+Counts when the refusal is expressed through kind and the relevant permission gate remains closed in practice.
+
+Specific transfer boundary:
+The refusal remains a closed permission gate even when expressed gently.
+
+Source duplicate role:
+K087 is retained as relational refusal delivered gently. Related IDs: K218.
+
+Epistemic status:
+[DEF]
+
+K088 kind-correction
+
+Common meaning:
+Correction given gently, respectfully, or helpfully.
+
+Example:
+The editor gave kind-correction on the draft.
+
+RRGM bridge:
+Kind-correction repairs error without attacking identity. It supports learning while preserving trust.
+
+Invariant MI [INV]:
+Kind-correction repairs error without attacking identity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind-correction supports learning while preserving trust.
+
+Count condition:
+Counts when the term correctly describes a case of correction given gently, respectfully, or helpfully.
+
+Epistemic status:
+[DEF]
+
+K089 kind-truth
+
+Common meaning:
+Truth spoken with care, respect, and sensitivity.
+
+Example:
+She offered kind-truth instead of false comfort.
+
+RRGM bridge:
+Kind-truth preserves signal integrity and dignity together. It avoids both cruelty and distortion.
+
+Invariant MI [INV]:
+Kind-truth preserves signal integrity and dignity together.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind-truth avoids both cruelty and distortion.
+
+Count condition:
+Counts when the term correctly describes a case of truth spoken with care, respect, and sensitivity.
+
+Epistemic status:
+[DEF]
+
+K090 kindness-risk
+
+Common meaning:
+The danger that kindness may be exploited, misunderstood, forced, or used to hide control.
+
+Example:
+Her constant giving created kindness-risk.
+
+RRGM bridge:
+Kindness-risk appears when soft support loses boundary. Kindness must not become consent capture, burnout, or false-care.
+
+Invariant MI [INV]:
+Kindness-risk appears when soft support loses boundary.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kindness must not become consent capture, burnout, or false-care.
+
+Count condition:
+Counts when a plausible path exists by which kindness can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+
+Specific transfer boundary:
+A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+
+Epistemic status:
+[DEF]
+
+K091 kinship
+
+Common meaning:
+Family connection, close relation, or shared belonging.
+
+Example:
+They felt kinship after surviving the storm.
+
+RRGM bridge:
+Kinship is relation-continuity. It can support identity and care, but must preserve individual boundary.
+
+Invariant MI [INV]:
+Kinship is relation-continuity; here it functions as the kinship continuity anchor for care and boundary analysis.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kinship can support identity and care, but must preserve individual boundary; this occurrence supplies the kinship continuity anchor for care and boundary analysis.
+
+Count condition:
+Counts when the term correctly describes a case of family connection, close relation, or shared belonging.
+
+Specific transfer boundary:
+Kinship is a relation-continuity, not proof of agreement, obedience, or ownership.
+
+Source duplicate role:
+K091 is retained as kinship continuity anchor for care and boundary analysis. Related IDs: K027.
+
+Epistemic status:
+[DEF]
+
+K092 kin
+
+Common meaning:
+Family, relatives, or closely connected people.
+
+Example:
+He returned to his kin for support.
+
+RRGM bridge:
+Kin is relation identity through family, origin, or chosen closeness. It carries care, duty, memory, and pressure.
+
+Invariant MI [INV]:
+Kin is relation identity through family, origin, or chosen closeness; here it functions as the relational kin anchor for care, duty, and pressure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kin carries care, duty, memory, and pressure; this occurrence supplies the relational kin anchor for care, duty, and pressure.
+
+Count condition:
+Counts when the term correctly describes a case of family, relatives, or closely connected people.
+
+Specific transfer boundary:
+Kin names a relation of family or close belonging and does not erase individual boundaries.
+
+Source duplicate role:
+K092 is retained as relational kin anchor for care, duty, and pressure. Related IDs: K026.
+
+Epistemic status:
+[DEF]
+
+K093 kin-care
+
+Common meaning:
+Care given through family or close relation.
+
+Example:
+Kin-care helped her recover at home.
+
+RRGM bridge:
+Kin-care is support through relation-continuity. It should not erase consent or become obligation capture.
+
+Invariant MI [INV]:
+Kin-care is support through relation-continuity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kin-care should not erase consent or become obligation capture.
+
+Count condition:
+Counts when care is expressed specifically through kin while dignity, refusal, and agency remain active.
+
+Specific transfer boundary:
+Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+
+Epistemic status:
+[DEF]
+
+K094 kin-duty
+
+Common meaning:
+Responsibility felt or assigned because of family or close relation.
+
+Example:
+Kin-duty made him visit every week.
+
+RRGM bridge:
+Kin-duty is relation-based obligation. It becomes risky when duty overrides capacity, consent, or boundary.
+
+Invariant MI [INV]:
+Kin-duty is relation-based obligation.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kin-duty becomes risky when duty overrides capacity, consent, or boundary.
+
+Count condition:
+Counts when the kin relation creates a named obligation with a recognised holder, receiver, and limit.
+
+Specific transfer boundary:
+Duty names an obligation inside a relation and does not erase either party’s boundary.
+
+Epistemic status:
+[DEF]
+
+K095 kin-pressure
+
+Common meaning:
+Pressure created by family or close relational expectations.
+
+Example:
+Kin-pressure made the decision harder.
+
+RRGM bridge:
+Kin-pressure shapes the gate through belonging and duty. It becomes coercive when refusal threatens love or recognition.
+
+Invariant MI [INV]:
+Kin-pressure shapes the gate through belonging and duty.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kin-pressure becomes coercive when refusal threatens love or recognition.
+
+Count condition:
+Counts when a force on kin measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+
+Specific transfer boundary:
+Pressure explains a force on selection or relation; it does not justify capture or harm.
+
+Epistemic status:
+[DEF]
+
+K096 keeper
+
+Common meaning:
+A person or thing that keeps, protects, manages, or preserves something.
+
+Example:
+She was the keeper of the old records.
+
+RRGM bridge:
+Keeper is preservation role. It carries responsibility for memory, boundary, evidence, care, or continuity.
+
+Invariant MI [INV]:
+Keeper is preservation role; here it functions as the relational keeper role carrying promise, trust, memory, or boundary duty.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keeper carries responsibility for memory, boundary, evidence, care, or continuity; this occurrence supplies the relational keeper role carrying promise, trust, memory, or boundary duty.
+
+Count condition:
+Counts when the active field contains a person or thing that keeps, protects, manages, or preserves something and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A keeper preserves or manages something but does not automatically own it.
+
+Source duplicate role:
+K096 is retained as relational keeper role carrying promise, trust, memory, or boundary duty. Related IDs: K020.
+
+Epistemic status:
+[DEF]
+
+K097 keep-promise
+
+Common meaning:
+To do what one promised to do.
+
+Example:
+He kept-promise and returned the book.
+
+RRGM bridge:
+Keep-promise preserves trust across sequence. It proves commitment through follow-through.
+
+Invariant MI [INV]:
+Keep-promise preserves trust across sequence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-promise proves commitment through follow-through.
+
+Count condition:
+Counts when a future keep obligation is stated, recognised, and later capable of being kept or broken.
+
+Specific transfer boundary:
+A promise creates a future obligation but cannot override impossible or unethical conditions.
+
+Epistemic status:
+[DEF]
+
+K098 keep-faith
+
+Common meaning:
+To remain loyal, trusting, or committed.
+
+Example:
+They kept-faith during the long repair.
+
+RRGM bridge:
+Keep-faith preserves relation under uncertainty. It should not require ignoring truth or harm.
+
+Invariant MI [INV]:
+Keep-faith preserves relation under uncertainty.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-faith should not require ignoring truth or harm.
+
+Count condition:
+Counts when commitment concerning keep persists despite unresolved evidence without erasing the uncertainty.
+
+Specific transfer boundary:
+Faith may preserve commitment under uncertainty but must not erase evidence or refusal.
+
+Epistemic status:
+[DEF]
+
+K099 keep-trust
+
+Common meaning:
+To preserve trust through honesty, reliability, and care.
+
+Example:
+She kept-trust by admitting the mistake.
+
+RRGM bridge:
+Keep-trust maintains relation-coherence. It requires truth, boundary respect, and repair when damage occurs.
+
+Invariant MI [INV]:
+Keep-trust maintains relation-coherence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keep-trust requires truth, boundary respect, and repair when damage occurs.
+
+Count condition:
+Counts when reliance concerning keep is supported by repeated evidence, vulnerability, and repair capacity.
+
+Specific transfer boundary:
+Trust is a relation supported by reliability and repair, not blind access.
+
+Epistemic status:
+[DEF]
+
+K100 kept-promise
+
+Common meaning:
+A promise that was fulfilled.
+
+Example:
+The kept-promise rebuilt confidence.
+
+RRGM bridge:
+Kept-promise is evidence of continuity between word and action. It strengthens trust structure.
+
+Invariant MI [INV]:
+Kept-promise is evidence of continuity between word and action.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kept-promise strengthens trust structure.
+
+Count condition:
+Counts when a future kept obligation is stated, recognised, and later capable of being kept or broken.
+
+Specific transfer boundary:
+A promise creates a future obligation but cannot override impossible or unethical conditions.
+
+Epistemic status:
+[DEF]
+
+K101 kept-boundary
+
+Common meaning:
+A boundary that was maintained or respected.
+
+Example:
+The kept-boundary made the friendship safer.
+
+RRGM bridge:
+Kept-boundary shows gate integrity under pressure. It protects consent, dignity, and capacity.
+
+Invariant MI [INV]:
+Kept-boundary shows gate integrity under pressure; here it functions as the past record of a maintained limit.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kept-boundary protects consent, dignity, and capacity; this occurrence supplies the past record of a maintained limit.
+
+Count condition:
+Counts when the kept limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Source duplicate role:
+K101 is retained as past record of a maintained limit. Related IDs: K215.
+
+Epistemic status:
+[DEF]
+
+K102 kept-care
+
+Common meaning:
+Care that was maintained over time.
+
+Example:
+Her weekly visits were kept-care.
+
+RRGM bridge:
+Kept-care is support preserved across sequence. It becomes reliable ES for trust and continuity.
+
+Invariant MI [INV]:
+Kept-care is support preserved across sequence.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kept-care becomes reliable ES for trust and continuity.
+
+Count condition:
+Counts when care is expressed specifically through kept while dignity, refusal, and agency remain active.
+
+Specific transfer boundary:
+Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+
+Epistemic status:
+[DEF]
+
+K103 known-person
+
+Common meaning:
+A person who is recognized or familiar.
+
+Example:
+The visitor was a known-person to the staff.
+
+RRGM bridge:
+Known-person is identity recognized in the social field. Recognition should still allow updates and correction.
+
+Invariant MI [INV]:
+Known-person is identity recognized in the social field.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Recognition should still allow updates and correction.
+
+Count condition:
+Counts when the person is recognised through the known relation without reduction to role or utility.
+
+Specific transfer boundary:
+Recognition of a person cannot be reduced to a useful role or data record.
+
+Epistemic status:
+[DEF]
+
+K104 known-relation
+
+Common meaning:
+A relationship that is recognized, familiar, or established.
+
+Example:
+Their known-relation helped the team understand the context.
+
+RRGM bridge:
+Known-relation is stable recognized coupling. It can carry trust, history, duty, and boundary expectations.
+
+Invariant MI [INV]:
+Known-relation is stable recognized coupling.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Known-relation can carry trust, history, duty, and boundary expectations.
+
+Count condition:
+Counts when distinct participants are linked through the specific known connection and remain individually identifiable.
+
+Specific transfer boundary:
+A relation links distinct participants and does not merge them into one identity.
+
+Epistemic status:
+[DEF]
+
+K105 knowledge-sharing
+
+Common meaning:
+Giving or exchanging knowledge with others.
+
+Example:
+Knowledge-sharing helped everyone improve.
+
+RRGM bridge:
+Knowledge-sharing transfers supported information across relation. It should preserve source, context, and integrity.
+
+Invariant MI [INV]:
+Knowledge-sharing transfers supported information across relation.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-sharing should preserve source, context, and integrity.
+
+Count condition:
+Counts when the term correctly describes a case of giving or exchanging knowledge with others.
+
+Epistemic status:
+[DEF]
+
+K106 knowledge-care
+
+Common meaning:
+Care shown through teaching, informing, explaining, or preserving knowledge.
+
+Example:
+The guide was knowledge-care for new users.
+
+RRGM bridge:
+Knowledge-care supports agency by making understanding available. It preserves choice through truthful signal.
+
+Invariant MI [INV]:
+Knowledge-care supports agency by making understanding available.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-care preserves choice through truthful signal.
+
+Count condition:
+Counts when care is expressed specifically through knowledge while dignity, refusal, and agency remain active.
+
+Specific transfer boundary:
+Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+
+Epistemic status:
+[DEF]
+
+K107 key-person
+
+Common meaning:
+A person who is especially important to a task, group, or situation.
+
+Example:
+The engineer was the key-person during the repair.
+
+RRGM bridge:
+Key-person is high-dependency role structure. If the key-person is removed, continuity or function may weaken.
+
+Invariant MI [INV]:
+Key-person is high-dependency role structure.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] If the key-person is removed, continuity or function may weaken.
+
+Count condition:
+Counts when the person is recognised through the key relation without reduction to role or utility.
+
+Specific transfer boundary:
+Recognition of a person cannot be reduced to a useful role or data record.
+
+Epistemic status:
+[DEF]
+
+K108 key-support
+
+Common meaning:
+A support that is especially important or load-bearing.
+
+Example:
+The backup file was key-support.
+
+RRGM bridge:
+Key-support is load-bearing ES. It may preserve memory, boundary, continuity, or function.
+
+Invariant MI [INV]:
+Key-support is load-bearing ES; here it functions as the important support in ordinary use.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-support may preserve memory, boundary, continuity, or function; this occurrence supplies the important support in ordinary use.
+
+Count condition:
+Counts when this support materially carries key and its removal would weaken the named function or continuity.
+
+Specific transfer boundary:
+Support is load-bearing only when its presence or removal changes the named function.
+
+Source duplicate role:
+K108 is retained as important support in ordinary use. Related IDs: K203.
+
+Epistemic status:
+[DEF]
+
+K109 key-relation
+
+Common meaning:
+A relationship that is especially important.
+
+Example:
+Trust was the key-relation in the partnership.
+
+RRGM bridge:
+Key-relation is load-bearing coupling. It shapes identity, support, recognition, or action paths.
+
+Invariant MI [INV]:
+Key-relation is load-bearing coupling.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-relation shapes identity, support, recognition, or action paths.
+
+Count condition:
+Counts when distinct participants are linked through the specific key connection and remain individually identifiable.
+
+Specific transfer boundary:
+A relation links distinct participants and does not merge them into one identity.
+
+Epistemic status:
+[DEF]
+
+K110 kiss-consent
+
+Common meaning:
+Consent to kiss or be kissed.
+
+Example:
+They checked kiss-consent before the date ended.
+
+RRGM bridge:
+Kiss-consent opens an intimate contact gate. It must be clear, voluntary, and revocable.
+
+Invariant MI [INV]:
+Kiss-consent opens an intimate contact gate.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Kiss-consent must be clear, voluntary, and revocable.
+
+Count condition:
+Counts when the term correctly describes a case of consent to kiss or be kissed.
+
+Epistemic status:
+[DEF]
+
+K111 kiss-boundary
+
+Common meaning:
+A limit around kissing or intimate contact.
+
+Example:
+Her kiss-boundary was no kissing in public.
+
+RRGM bridge:
+Kiss-boundary protects intimate access. Affection does not override permission.
+
+Invariant MI [INV]:
+Kiss-boundary protects intimate access.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Affection does not override permission.
+
+Count condition:
+Counts when the kiss limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Epistemic status:
+[DEF]
+
+K112 kid-care
+
+Common meaning:
+Care given to a child or young person.
+
+Example:
+Kid-care included food, rest, and safe play.
+
+RRGM bridge:
+Kid-care protects developing MI in the human domain. It requires strong duty because capacity and consent are still developing.
+
+Invariant MI [INV]:
+Kid-care protects developing MI in the human domain.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Kid-care requires strong duty because capacity and consent are still developing.
+
+Count condition:
+Counts when care is expressed specifically through kid while dignity, refusal, and agency remain active.
+
+Specific transfer boundary:
+Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+
+Epistemic status:
+[DEF]
+
+K113 kid-safety
+
+Common meaning:
+Protection of children from harm, danger, or neglect.
+
+Example:
+The rules focused on kid-safety.
+
+RRGM bridge:
+Kid-safety means protection against named failure modes for developing humans. It must preserve dignity while preventing harm.
+
+Invariant MI [INV]:
+Kid-safety means protection against named failure modes for developing humans.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Kid-safety must preserve dignity while preventing harm.
+
+Count condition:
+Counts when the term correctly describes a case of protection of children from harm, danger, or neglect.
+
+Epistemic status:
+[DEF]
+
+K114 kill-harm
+
+Common meaning:
+Harm that causes death or ends essential function.
+
+Example:
+The poison created kill-harm.
+
+RRGM bridge:
+Kill-harm is terminal impairment. It destroys life, essential continuity, or active function.
+
+Invariant MI [INV]:
+Kill-harm is terminal impairment.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Kill-harm destroys life, essential continuity, or active function.
+
+Count condition:
+Counts when the term correctly describes a case of harm that causes death or ends essential function.
+
+Epistemic status:
+[DEF]
+
+K115 kill-threat
+
+Common meaning:
+A threat to kill or end life/function.
+
+Example:
+The message contained a kill-threat.
+
+RRGM bridge:
+Kill-threat creates extreme harm pressure. It must be treated as serious because it targets continuity itself.
+
+Invariant MI [INV]:
+Kill-threat creates extreme harm pressure.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Kill-threat must be treated as serious because it targets continuity itself.
+
+Count condition:
+Counts when the active field contains a threat to kill or end life/function and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K116 killing
+
+Common meaning:
+The act of causing death or ending life/function.
+
+Example:
+The killing shocked the town.
+
+RRGM bridge:
+Killing is termination action. In ethical domains, it requires the highest scrutiny because it destroys living continuity.
+
+Invariant MI [INV]:
+Killing is termination action.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] In ethical domains, it requires the highest scrutiny because it destroys living continuity.
+
+Count condition:
+Counts when the active field contains the act of causing death or ending life/function and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K117 killer
+
+Common meaning:
+A person, animal, thing, or condition that kills.
+
+Example:
+The disease was a silent killer.
+
+RRGM bridge:
+Killer is termination source. The term should name domain and mechanism to avoid vague fear-language.
+
+Invariant MI [INV]:
+Killer is termination source.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] The term should name domain and mechanism to avoid vague fear-language.
+
+Count condition:
+Counts when the active field contains a person, animal, thing, or condition that kills and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K118 knock-harm
+
+Common meaning:
+Harm caused by a knock, strike, or impact.
+
+Example:
+The fall caused knock-harm to the door frame.
+
+RRGM bridge:
+Knock-harm is damage from contact force. It should be traced by impact path and repair need.
+
+Invariant MI [INV]:
+Knock-harm is damage from contact force.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock-harm should be traced by impact path and repair need.
+
+Count condition:
+Counts when the term correctly describes a case of harm caused by a knock, strike, or impact.
+
+Epistemic status:
+[DEF]
+
+K119 kindness-with-boundary
+
+Common meaning:
+Kindness that includes clear limits.
+
+Example:
+She practiced kindness-with-boundary by helping once, not endlessly.
+
+RRGM bridge:
+Kindness-with-boundary preserves care without losing gate integrity. It prevents support from becoming extraction.
+
+Invariant MI [INV]:
+Kindness-with-boundary preserves care without losing gate integrity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kindness-with-boundary prevents support from becoming extraction.
+
+Count condition:
+Counts when the kindness-with limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Epistemic status:
+[DEF]
+
+K120 kindness-without-control
+
+Common meaning:
+Kindness that supports without taking over choice.
+
+Example:
+The mentor showed kindness-without-control.
+
+RRGM bridge:
+Kindness-without-control helps while preserving agency, refusal, and dignity.
+
+Invariant MI [INV]:
+Kindness-without-control helps while preserving agency, refusal, and dignity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kindness-without-control is the domain state or relation described as kindness that supports without taking over choice.
+
+Count condition:
+Counts when the term correctly describes a case of kindness that supports without taking over choice.
+
+Epistemic status:
+[DEF]
+
+K121 keeping-distance
+
+Common meaning:
+Maintaining physical, emotional, or relational space.
+
+Example:
+He was keeping-distance after the argument.
+
+RRGM bridge:
+Keeping-distance adjusts coupling intensity. It can protect boundary, reduce pressure, or signal unresolved harm.
+
+Invariant MI [INV]:
+Keeping-distance adjusts coupling intensity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keeping-distance can protect boundary, reduce pressure, or signal unresolved harm.
+
+Count condition:
+Counts when the term correctly describes a case of maintaining physical, emotional, or relational space.
+
+Epistemic status:
+[DEF]
+
+K122 keeping-space
+
+Common meaning:
+Preserving room, time, or emotional space for someone or something.
+
+Example:
+They were keeping-space for grief.
+
+RRGM bridge:
+Keeping-space protects a field where processing can happen without intrusion or forced closure.
+
+Invariant MI [INV]:
+Keeping-space protects a field where processing can happen without intrusion or forced closure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keeping-space is the domain state or relation described as preserving room, time, or emotional space for someone or something.
+
+Count condition:
+Counts when the term correctly describes a case of preserving room, time, or emotional space for someone or something.
+
+Epistemic status:
+[DEF]
+
+K123 keeping-silence
+
+Common meaning:
+Remaining silent or choosing not to speak.
+
+Example:
+She was keeping-silence during the ceremony.
+
+RRGM bridge:
+Keeping-silence can protect privacy, dignity, or focus. It becomes harmful when silence is imposed or blocks accusation capacity.
+
+Invariant MI [INV]:
+Keeping-silence can protect privacy, dignity, or focus.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keeping-silence becomes harmful when silence is imposed or blocks accusation capacity.
+
+Count condition:
+Counts when the term correctly describes a case of remaining silent or choosing not to speak.
+
+Epistemic status:
+[DEF]
+
+K124 keeping-secret
+
+Common meaning:
+Preserving information from being revealed.
+
+Example:
+He was keeping-secret about the surprise party.
+
+RRGM bridge:
+Keeping-secret controls information access. It can protect trust or conceal harm depending on context and consent.
+
+Invariant MI [INV]:
+Keeping-secret controls information access.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Keeping-secret can protect trust or conceal harm depending on context and consent.
+
+Count condition:
+Counts when access to the keeping information is intentionally restricted and the restriction can be identified.
+
+Specific transfer boundary:
+Secrecy protects selected access and may also conceal harm; purpose matters.
+
+Epistemic status:
+[DEF]
+
+K125 kept-secret
+
+Common meaning:
+Information that was hidden or not revealed.
+
+Example:
+The kept-secret changed the family history.
+
+RRGM bridge:
+Kept-secret is restricted information structure across time. It should be evaluated by purpose, harm, and permission.
+
+Invariant MI [INV]:
+Kept-secret is restricted information structure across time.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kept-secret should be evaluated by purpose, harm, and permission.
+
+Count condition:
+Counts when access to the kept information is intentionally restricted and the restriction can be identified.
+
+Specific transfer boundary:
+Secrecy protects selected access and may also conceal harm; purpose matters.
+
+Epistemic status:
+[DEF]
+
+K126 kinship-boundary
+
+Common meaning:
+A boundary inside family or close relation.
+
+Example:
+She set a kinship-boundary around money.
+
+RRGM bridge:
+Kinship-boundary protects identity and consent from relational obligation pressure.
+
+Invariant MI [INV]:
+Kinship-boundary protects identity and consent from relational obligation pressure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kinship-boundary is a boundary inside family or close relation.
+
+Count condition:
+Counts when the kinship limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Epistemic status:
+[DEF]
+
+K127 king-authority
+
+Common meaning:
+Authority held by a king or monarch.
+
+Example:
+The law depended on king-authority.
+
+RRGM bridge:
+King-authority is hierarchical gate power. It requires accountability because authority can become capture.
+
+Invariant MI [INV]:
+King-authority is hierarchical gate power.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] King-authority requires accountability because authority can become capture.
+
+Count condition:
+Counts when the term correctly describes a case of authority held by a king or monarch.
+
+Epistemic status:
+[DEF]
+
+K128 kingdom-duty
+
+Common meaning:
+A duty owed to or within a kingdom.
+
+Example:
+The guard saw defense as kingdom-duty.
+
+RRGM bridge:
+Kingdom-duty is obligation inside a governed domain. It should not override dignity or ethical reason without scrutiny.
+
+Invariant MI [INV]:
+Kingdom-duty is obligation inside a governed domain.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kingdom-duty should not override dignity or ethical reason without scrutiny.
+
+Count condition:
+Counts when the kingdom relation creates a named obligation with a recognised holder, receiver, and limit.
+
+Specific transfer boundary:
+Duty names an obligation inside a relation and does not erase either party’s boundary.
+
+Epistemic status:
+[DEF]
+
+K129 knowledge-boundary
+
+Common meaning:
+A limit around what may be known, shared, accessed, or claimed.
+
+Example:
+The therapist kept a knowledge-boundary around private notes.
+
+RRGM bridge:
+Knowledge-boundary protects information integrity, privacy, consent, and harm prevention.
+
+Invariant MI [INV]:
+Knowledge-boundary protects information integrity, privacy, consent, and harm prevention; here it functions as the privacy and claim-scope boundary around knowledge.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-boundary is a limit around what may be known, shared, accessed, or claimed; this occurrence supplies the privacy and claim-scope boundary around knowledge.
+
+Count condition:
+Counts when the knowledge limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Source duplicate role:
+K129 is retained as privacy and claim-scope boundary around knowledge. Related IDs: K208.
+
+Epistemic status:
+[DEF]
+
+K130 knowledge-respect
+
+Common meaning:
+Respect for knowledge, expertise, truth, or the limits of what is known.
+
+Example:
+Knowledge-respect meant admitting uncertainty.
+
+RRGM bridge:
+Knowledge-respect preserves the evidence gate. It values truth without pretending certainty where support is missing.
+
+Invariant MI [INV]:
+Knowledge-respect preserves the evidence gate.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-respect values truth without pretending certainty where support is missing.
+
+Count condition:
+Counts when the term correctly describes a case of respect for knowledge, expertise, truth, or the limits of what is known.
+
+Epistemic status:
+[DEF]
+
+K131 know
+
+Common meaning:
+To understand, recognize, or be aware of something.
+
+Example:
+I know the answer.
+
+RRGM bridge:
+Know means a pattern has entered stable recognition. Knowledge should stay tied to evidence, context, confidence, and domain.
+
+Invariant MI [INV]:
+Know means a pattern has entered stable recognition; here it functions as the cognitive recognition anchor for the know/knowing/knowledge family.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge should stay tied to evidence, context, confidence, and domain; this occurrence supplies the cognitive recognition anchor for the know/knowing/knowledge family.
+
+Count condition:
+Counts when the named action occurs in a case matching this definition: understand, recognize, or be aware of something.
+
+Specific transfer boundary:
+Knowing requires support appropriate to the claim; confidence alone does not close the truth gate.
+
+Source duplicate role:
+K131 is retained as cognitive recognition anchor for the know/knowing/knowledge family. Related IDs: K017.
+
+Epistemic status:
+[DEF]
+
+K132 knowing
+
+Common meaning:
+The state or act of knowing; also awareness that may be subtle or confident.
+
+Example:
+She spoke with knowing calm.
+
+RRGM bridge:
+Knowing is active recognition-state. It can be grounded, intuitive, social, or inferred, so its source should be checked.
+
+Invariant MI [INV]:
+Knowing is active recognition-state; here it functions as the cognitive knowing anchor for evidence, intuition, and confidence.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowing can be grounded, intuitive, social, or inferred, so its source should be checked; this occurrence supplies the cognitive knowing anchor for evidence, intuition, and confidence.
+
+Count condition:
+Counts when the active field contains the state or act of knowing; also awareness that may be subtle or confident and the instance satisfies the invariant.
+
+Specific transfer boundary:
+Knowing is an active recognition state and may still require confidence and source checks.
+
+Source duplicate role:
+K132 is retained as cognitive knowing anchor for evidence, intuition, and confidence. Related IDs: K031.
+
+Epistemic status:
+[DEF]
+
+K133 knowledge
+
+Common meaning:
+Information, understanding, or skill gained through learning, evidence, or experience.
+
+Example:
+Knowledge helped them repair the engine.
+
+RRGM bridge:
+Knowledge is stabilized information with support. It depends on integrity, memory, evidence-path, and domain fit.
+
+Invariant MI [INV]:
+Knowledge is stabilized information with support; here it functions as the stabilized knowledge-field anchor for state, claim, integrity, and risk.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge depends on integrity, memory, evidence-path, and domain fit; this occurrence supplies the stabilized knowledge-field anchor for state, claim, integrity, and risk.
+
+Count condition:
+Counts when the term correctly describes a case of information, understanding, or skill gained through learning, evidence, or experience.
+
+Specific transfer boundary:
+Knowledge is stabilized support, not a context-free pile of information.
+
+Source duplicate role:
+K133 is retained as stabilized knowledge-field anchor for state, claim, integrity, and risk. Related IDs: K018.
+
+Epistemic status:
+[DEF]
+
+K134 knowledgeable
+
+Common meaning:
+Having knowledge, skill, or understanding.
+
+Example:
+The guide was knowledgeable about the forest.
+
+RRGM bridge:
+Knowledgeable means a system or person has strong access to relevant knowledge structure. It should still remain open to correction.
+
+Invariant MI [INV]:
+Knowledgeable means a system or person has strong access to relevant knowledge structure.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledgeable should still remain open to correction.
+
+Count condition:
+Counts when the term correctly describes a case of having knowledge, skill, or understanding.
+
+Epistemic status:
+[DEF]
+
+K135 known
+
+Common meaning:
+Recognized, understood, identified, or established.
+
+Example:
+The problem was known.
+
+RRGM bridge:
+Known means a pattern has passed into recognition. It should not be treated as universal unless the domain supports that scope.
+
+Invariant MI [INV]:
+Known means a pattern has passed into recognition; here it functions as the formal known-state anchor contrasting unknown and knowable.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Known should not be treated as universal unless the domain supports that scope; this occurrence supplies the formal known-state anchor contrasting unknown and knowable.
+
+Count condition:
+Counts when the term correctly describes a case of recognized, understood, identified, or established.
+
+Specific transfer boundary:
+Known is local to an observer, record, or domain unless wider scope is established.
+
+Source duplicate role:
+K135 is retained as formal known-state anchor contrasting unknown and knowable. Related IDs: K019.
+
+Epistemic status:
+[DEF]
+
+K136 unknown
+
+Common meaning:
+Not known, not identified, or not understood.
+
+Example:
+The cause was unknown.
+
+RRGM bridge:
+Unknown means the recognition gate has not opened yet. Unknown is not the same as nonexistent.
+
+Invariant MI [INV]:
+Unknown means the recognition gate has not opened yet.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Unknown is not the same as nonexistent.
+
+Count condition:
+Counts when the term correctly describes a case of not known, not identified, or not understood.
+
+Epistemic status:
+[DEF]
+
+K137 knowable
+
+Common meaning:
+Able to be known or understood.
+
+Example:
+The answer was knowable with enough evidence.
+
+RRGM bridge:
+Knowable means a pattern can enter recognition under the right evidence, interface, context, or domain conditions.
+
+Invariant MI [INV]:
+Knowable means a pattern can enter recognition under the right evidence, interface, context, or domain conditions; here it functions as the epistemic reachability anchor contrasting knowable and unknowable.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowable describes a pattern that is able to be known or understood; this occurrence supplies the epistemic reachability anchor contrasting knowable and unknowable.
+
+Count condition:
+Counts when the term correctly describes a case of able to be known or understood.
+
+Specific transfer boundary:
+Knowable means reachable under possible conditions, not already known or easy to know.
+
+Source duplicate role:
+K137 is retained as epistemic reachability anchor contrasting knowable and unknowable. Related IDs: K032.
+
+Epistemic status:
+[DEF]
+
+K138 unknowable
+
+Common meaning:
+Not able to be known or fully understood.
+
+Example:
+Some future details are unknowable.
+
+RRGM bridge:
+Unknowable marks a horizon boundary. It should not be used lazily when the issue is merely unknown, hidden, or unmeasured.
+
+Invariant MI [INV]:
+Unknowable marks a horizon boundary.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Unknowable should not be used lazily when the issue is merely unknown, hidden, or unmeasured.
+
+Count condition:
+Counts when the term correctly describes a case of not able to be known or fully understood.
+
+Epistemic status:
+[DEF]
+
+K139 key-word
+
+Common meaning:
+An important word used to identify, search, or unlock meaning.
+
+Example:
+The key-word helped find the article.
+
+RRGM bridge:
+Key-word is access language. It opens search, category, or meaning gates.
+
+Invariant MI [INV]:
+Key-word is access language.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Key-word opens search, category, or meaning gates.
+
+Count condition:
+Counts when the selected token carries the specific key meaning or retrieval role in context.
+
+Specific transfer boundary:
+A word carries meaning through context; the token alone is not the full claim.
+
+Epistemic status:
+[DEF]
+
+K140 keyword
+
+Common meaning:
+An important searchable word connected to a topic.
+
+Example:
+The keyword was “gravity.”
+
+RRGM bridge:
+Keyword is retrieval and meaning structure. It directs search, indexing, and recognition.
+
+Invariant MI [INV]:
+Keyword is retrieval and meaning structure; here it functions as the linguistic retrieval anchor distinguishing keyword from key-word and key-term.
+
+Active domains:
+[LIN], [COG]
+
+Domain entries:
+[LIN] Keyword directs search, indexing, and recognition; this occurrence supplies the linguistic retrieval anchor distinguishing keyword from key-word and key-term.
+[COG] Cognitively, a keyword acts as a compact cue that reactivates a larger concept or memory field; this binding serves the linguistic retrieval anchor distinguishing keyword from key-word and key-term.
+
+Count condition:
+Counts when the active field contains an important searchable word connected to a topic and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A keyword directs retrieval or indexing; it is not necessarily the central meaning of the text.
+
+Source duplicate role:
+K140 is retained as linguistic retrieval anchor distinguishing keyword from key-word and key-term. Related IDs: K025.
+
+Epistemic status:
+[DEF]
+
+K141 key-term
+
+Common meaning:
+An important term needed to understand a topic.
+
+Example:
+“Consent” was a key-term in the lesson.
+
+RRGM bridge:
+Key-term controls a major meaning gate. It must be defined clearly before later structure depends on it.
+
+Invariant MI [INV]:
+Key-term controls a major meaning gate.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Key-term must be defined clearly before later structure depends on it.
+
+Count condition:
+Counts when the selected token carries the specific key meaning or retrieval role in context.
+
+Specific transfer boundary:
+A term is a bounded meaning unit and must retain its declared domain.
+
+Epistemic status:
+[DEF]
+
+K142 key-claim
+
+Common meaning:
+A main or important claim.
+
+Example:
+The key-claim needed evidence.
+
+RRGM bridge:
+Key-claim is load-bearing assertion. If it fails, the structure built on it weakens.
+
+Invariant MI [INV]:
+Key-claim is load-bearing assertion.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] If it fails, the structure built on it weakens.
+
+Count condition:
+Counts when a proposition about key is expressed with a source, scope, and truth conditions that can be checked.
+
+Specific transfer boundary:
+A claim remains a claim until evidence passes the relevant domain gate.
+
+Epistemic status:
+[DEF]
+
+K143 key-context
+
+Common meaning:
+Important context needed for understanding.
+
+Example:
+The key-context was the earlier warning.
+
+RRGM bridge:
+Key-context is load-bearing support field. Without it, interpretation can drift or invert.
+
+Invariant MI [INV]:
+Key-context is load-bearing support field.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Without it, interpretation can drift or invert.
+
+Count condition:
+Counts when the surrounding key information changes interpretation, scope, or the validity of an inference.
+
+Specific transfer boundary:
+Context constrains interpretation but does not replace evidence or the source record.
+
+Epistemic status:
+[DEF]
+
+K144 key-definition
+
+Common meaning:
+An important definition needed to understand a topic.
+
+Example:
+The key-definition explained “identity.”
+
+RRGM bridge:
+Key-definition sets a major counting gate. If it is unstable, later reasoning becomes unstable.
+
+Invariant MI [INV]:
+Key-definition sets a major counting gate.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] If it is unstable, later reasoning becomes unstable.
+
+Count condition:
+Counts when the active field contains an important definition needed to understand a topic and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K145 key-example
+
+Common meaning:
+An important example that helps explain a pattern.
+
+Example:
+The teacher gave a key-example.
+
+RRGM bridge:
+Key-example grounds abstraction. It gives the model a concrete case for recognizing the pattern.
+
+Invariant MI [INV]:
+Key-example grounds abstraction.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Key-example gives the model a concrete case for recognizing the pattern.
+
+Count condition:
+Counts when a concrete instance demonstrates the defining relation of key without being mistaken for the whole class.
+
+Specific transfer boundary:
+An example demonstrates one instance and cannot establish the whole class alone.
+
+Epistemic status:
+[DEF]
+
+K146 key-evidence
+
+Common meaning:
+Important evidence that strongly supports or challenges a claim.
+
+Example:
+The timestamp was key-evidence.
+
+RRGM bridge:
+Key-evidence carries high evidence-weight. It can shift the belief gate strongly when source integrity is preserved.
+
+Invariant MI [INV]:
+Key-evidence carries high evidence-weight.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Key-evidence can shift the belief gate strongly when source integrity is preserved.
+
+Count condition:
+Counts when a source or observation materially changes confidence in the key claim under the active domain rules.
+
+Specific transfer boundary:
+Evidence supports a claim only to the extent allowed by its source, quality, and domain.
+
+Epistemic status:
+[DEF]
+
+K147 key-factor
+
+Common meaning:
+An important factor that strongly affects an outcome.
+
+Example:
+Sleep was a key-factor in recovery.
+
+RRGM bridge:
+Key-factor is high-impact contributing structure. It shapes the event-field more strongly than minor factors.
+
+Invariant MI [INV]:
+Key-factor is high-impact contributing structure.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-factor shapes the event-field more strongly than minor factors.
+
+Count condition:
+Counts when the active field contains an important factor that strongly affects an outcome and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K148 key-frame
+
+Common meaning:
+An important frame or reference point; in animation, a frame that defines major motion.
+
+Example:
+The key-frame showed the character turning.
+
+RRGM bridge:
+Key-frame anchors interpretation or motion. It defines a major state that later changes depend on.
+
+Invariant MI [INV]:
+Key-frame anchors interpretation or motion.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Key-frame defines a major state that later changes depend on.
+
+Count condition:
+Counts when the selected frame determines which features of key are visible, relevant, or excluded.
+
+Specific transfer boundary:
+A frame selects what is visible and relevant; it can also hide alternatives.
+
+Epistemic status:
+[DEF]
+
+K149 key-idea
+
+Common meaning:
+A main or important idea.
+
+Example:
+The key-idea was simple.
+
+RRGM bridge:
+Key-idea is load-bearing concept structure. It supports later explanation, training, or reasoning.
+
+Invariant MI [INV]:
+Key-idea is load-bearing concept structure.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Key-idea supports later explanation, training, or reasoning.
+
+Count condition:
+Counts when a structured possibility concerning key can be expressed, compared, and revised.
+
+Specific transfer boundary:
+An idea is structured possibility and is not yet proof or implementation.
+
+Epistemic status:
+[DEF]
+
+K150 key-meaning
+
+Common meaning:
+The most important meaning of a word, sign, or statement.
+
+Example:
+The key-meaning of the rule was consent.
+
+RRGM bridge:
+Key-meaning is the meaning gate most needed for the current domain. It must not be buried under minor senses.
+
+Invariant MI [INV]:
+Key-meaning is the meaning gate most needed for the current domain.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Key-meaning must not be buried under minor senses.
+
+Count condition:
+Counts when the load-bearing meaning of key can be stated compactly and survives reconstruction.
+
+Specific transfer boundary:
+Meaning is the load-bearing relation carried by the term, not every association it can evoke.
+
+Epistemic status:
+[DEF]
+
+K151 key-pattern
+
+Common meaning:
+An important repeated or recognizable pattern.
+
+Example:
+The key-pattern appeared in every failure.
+
+RRGM bridge:
+Key-pattern is high-value recognition structure. It supports prediction, diagnosis, and repair.
+
+Invariant MI [INV]:
+Key-pattern is high-value recognition structure.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Key-pattern supports prediction, diagnosis, and repair.
+
+Count condition:
+Counts when the key relation repeats or remains recognisable across more than one instance.
+
+Specific transfer boundary:
+A pattern is repeatable relation, not automatically cause, identity, or law.
+
+Epistemic status:
+[DEF]
+
+K152 key-question
+
+Common meaning:
+An important question that guides understanding or decision-making.
+
+Example:
+The key-question was whether refusal was safe.
+
+RRGM bridge:
+Key-question opens the main inquiry gate. Answering it changes the whole field.
+
+Invariant MI [INV]:
+Key-question opens the main inquiry gate.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Answering it changes the whole field.
+
+Count condition:
+Counts when an inquiry makes the missing or disputed key information explicit.
+
+Specific transfer boundary:
+A question opens inquiry and does not make its presupposition true.
+
+Epistemic status:
+[DEF]
+
+K153 key-rule
+
+Common meaning:
+An important rule that guides action or judgment.
+
+Example:
+The key-rule was to cite sources.
+
+RRGM bridge:
+Key-rule is load-bearing gate logic. It shapes what passes, fails, or requires repair.
+
+Invariant MI [INV]:
+Key-rule is load-bearing gate logic.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-rule shapes what passes, fails, or requires repair.
+
+Count condition:
+Counts when a declared rule governs key and produces a checkable consequence.
+
+Specific transfer boundary:
+A rule organizes passage or behaviour and still requires valid scope and authority.
+
+Epistemic status:
+[DEF]
+
+K154 key-signal
+
+Common meaning:
+An important sign or signal.
+
+Example:
+Pain was the key-signal that something was wrong.
+
+RRGM bridge:
+Key-signal carries high salience. It points toward a condition that should not be ignored.
+
+Invariant MI [INV]:
+Key-signal carries high salience.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Key-signal points toward a condition that should not be ignored.
+
+Count condition:
+Counts when a detectable signal specifically carries or indicates key through a named courier.
+
+Specific transfer boundary:
+A signal carries information; interpretation depends on courier, receiver, and context.
+
+Epistemic status:
+[DEF]
+
+K155 key-term-risk
+
+Common meaning:
+The danger that an important term may be unclear, misused, or misunderstood.
+
+Example:
+The paper had key-term-risk around “awareness.”
+
+RRGM bridge:
+Key-term-risk appears when unstable language controls major gates. Define the term before building on it.
+
+Invariant MI [INV]:
+Key-term-risk appears when unstable language controls major gates.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Define the term before building on it.
+
+Count condition:
+Counts when a plausible path exists by which key-term can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+
+Specific transfer boundary:
+A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+
+Epistemic status:
+[DEF]
+
+K156 knowledge-gap
+
+Common meaning:
+A missing piece of knowledge or understanding.
+
+Example:
+The team found a knowledge-gap in the training.
+
+RRGM bridge:
+Knowledge-gap marks missing support in recognition. It should be labeled instead of filled with guesswork.
+
+Invariant MI [INV]:
+Knowledge-gap marks missing support in recognition.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-gap should be labeled instead of filled with guesswork.
+
+Count condition:
+Counts when the active field contains a missing piece of knowledge or understanding and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K157 knowledge-path
+
+Common meaning:
+The route by which knowledge is gained, checked, or passed on.
+
+Example:
+The knowledge-path came from records and practice.
+
+RRGM bridge:
+Knowledge-path preserves source and support. It helps distinguish grounded knowledge from copied claim or guess.
+
+Invariant MI [INV]:
+Knowledge-path preserves source and support.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-path helps distinguish grounded knowledge from copied claim or guess.
+
+Count condition:
+Counts when an ordered and traceable route connects the starting condition to the knowledge action or result.
+
+Specific transfer boundary:
+A path gives the route of change, not the cause or destination by itself.
+
+Epistemic status:
+[DEF]
+
+K158 knowledge-state
+
+Common meaning:
+The current condition of what is known, unknown, or uncertain.
+
+Example:
+The knowledge-state changed after the test.
+
+RRGM bridge:
+Knowledge-state describes the active recognition field. It should mark confidence, gaps, sources, and uncertainty.
+
+Invariant MI [INV]:
+Knowledge-state describes the active recognition field.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-state should mark confidence, gaps, sources, and uncertainty.
+
+Count condition:
+Counts when the current configuration satisfies the defining conditions of knowledge and can be distinguished from neighbouring states.
+
+Specific transfer boundary:
+State names the current configuration, not the whole history or identity.
+
+Epistemic status:
+[DEF]
+
+K159 knowledge-claim
+
+Common meaning:
+A claim that something is known.
+
+Example:
+The article made a knowledge-claim about the cause.
+
+RRGM bridge:
+Knowledge-claim must pass evidence and domain gates. It should name how the pattern is known.
+
+Invariant MI [INV]:
+Knowledge-claim must pass evidence and domain gates.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-claim should name how the pattern is known.
+
+Count condition:
+Counts when a proposition about knowledge is expressed with a source, scope, and truth conditions that can be checked.
+
+Specific transfer boundary:
+A claim remains a claim until evidence passes the relevant domain gate.
+
+Epistemic status:
+[DEF]
+
+K160 knowledge-check
+
+Common meaning:
+A review or test of what is known or understood.
+
+Example:
+The teacher used a knowledge-check after the lesson.
+
+RRGM bridge:
+Knowledge-check tests recognition stability. It asks whether the pattern is actually understood or only echoed.
+
+Invariant MI [INV]:
+Knowledge-check tests recognition stability.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-check asks whether the pattern is actually understood or only echoed.
+
+Count condition:
+Counts when a declared test examines the specific knowledge property and writes a pass, fail, or unresolved result.
+
+Specific transfer boundary:
+A check tests a named condition; passing one check does not prove every property.
+
+Epistemic status:
+[DEF]
+
+K161 knowledge-risk
+
+Common meaning:
+The danger that knowledge may be wrong, missing, distorted, hidden, or misused.
+
+Example:
+Old records created knowledge-risk.
+
+RRGM bridge:
+Knowledge-risk appears when the recognition field may fail. It can damage truth, memory, action, or repair.
+
+Invariant MI [INV]:
+Knowledge-risk appears when the recognition field may fail.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-risk can damage truth, memory, action, or repair.
+
+Count condition:
+Counts when a plausible path exists by which knowledge can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+
+Specific transfer boundary:
+A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+
+Epistemic status:
+[DEF]
+
+K162 knowledge-integrity
+
+Common meaning:
+The accuracy, reliability, and coherence of knowledge.
+
+Example:
+The archive protected knowledge-integrity.
+
+RRGM bridge:
+Knowledge-integrity preserves the support layer for truth and action. If it fails, reasoning built on it decays.
+
+Invariant MI [INV]:
+Knowledge-integrity preserves the support layer for truth and action; here it functions as the accuracy and coherence of knowledge.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] If it fails, reasoning built on it decays; this occurrence supplies the accuracy and coherence of knowledge.
+
+Count condition:
+Counts when the knowledge record remains accurate, coherent, source-faithful, and repairable under review.
+
+Specific transfer boundary:
+Integrity requires faithful support and auditability, not confidence or smooth language.
+
+Source duplicate role:
+K162 is retained as accuracy and coherence of knowledge. Related IDs: K209.
+
+Epistemic status:
+[DEF]
+
+K163 knowing-error
+
+Common meaning:
+A mistake in what someone thinks they know.
+
+Example:
+The old map caused a knowing-error.
+
+RRGM bridge:
+Knowing-error is false recognition. The gate feels closed, but the support structure is wrong or outdated.
+
+Invariant MI [INV]:
+Knowing-error is false recognition.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] The gate feels closed, but the support structure is wrong or outdated.
+
+Count condition:
+Counts when the knowing record conflicts with evidence, context, or the active rule and requires correction.
+
+Specific transfer boundary:
+An error is a mismatch requiring correction; confidence cannot repair it.
+
+Epistemic status:
+[DEF]
+
+K164 known-context
+
+Common meaning:
+Context that is already recognized or available.
+
+Example:
+The known-context made the answer clearer.
+
+RRGM bridge:
+Known-context is active support field. It helps interpretation remain grounded.
+
+Invariant MI [INV]:
+Known-context is active support field.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Known-context helps interpretation remain grounded.
+
+Count condition:
+Counts when the surrounding known information changes interpretation, scope, or the validity of an inference.
+
+Specific transfer boundary:
+Context constrains interpretation but does not replace evidence or the source record.
+
+Epistemic status:
+[DEF]
+
+K165 known-fact
+
+Common meaning:
+A fact that is already established or recognized.
+
+Example:
+The known-fact was that the door was locked.
+
+RRGM bridge:
+Known-fact is a claim that has already passed the truth gate in the active domain.
+
+Invariant MI [INV]:
+Known-fact is a claim that has already passed the truth gate in the active domain.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Known-fact is a fact that is already established or recognized.
+
+Count condition:
+Counts when the known proposition has passed the relevant evidence gate and remains within its supported scope.
+
+Specific transfer boundary:
+A fact is established only within the evidence, scope, and domain that support it.
+
+Epistemic status:
+[DEF]
+
+K166 known-risk
+
+Common meaning:
+A risk that has already been identified or recognized.
+
+Example:
+Flooding was a known-risk in that area.
+
+RRGM bridge:
+Known-risk is a named failure possibility. Once known, it creates responsibility for prevention, reduction, or disclosure.
+
+Invariant MI [INV]:
+Known-risk is a named failure possibility.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Once known, it creates responsibility for prevention, reduction, or disclosure.
+
+Count condition:
+Counts when a plausible path exists by which known can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+
+Specific transfer boundary:
+A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+
+Epistemic status:
+[DEF]
+
+K167 known-unknown
+
+Common meaning:
+Something recognized as unknown.
+
+Example:
+The missing witness was a known-unknown.
+
+RRGM bridge:
+Known-unknown marks an identified gap. It protects reasoning by preventing false certainty.
+
+Invariant MI [INV]:
+Known-unknown marks an identified gap.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Known-unknown protects reasoning by preventing false certainty.
+
+Count condition:
+Counts when the missing known is explicitly identified while its value or explanation remains unresolved.
+
+Specific transfer boundary:
+Recognizing an unknown preserves the gap; it does not fill it.
+
+Epistemic status:
+[DEF]
+
+K168 kernel-meaning
+
+Common meaning:
+The core meaning of a word, phrase, idea, or system.
+
+Example:
+The kernel-meaning of the speech was responsibility.
+
+RRGM bridge:
+Kernel-meaning is compact core structure. It should preserve the load-bearing pattern even when compressed.
+
+Invariant MI [INV]:
+Kernel-meaning is compact core structure.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Kernel-meaning should preserve the load-bearing pattern even when compressed.
+
+Count condition:
+Counts when the load-bearing meaning of kernel can be stated compactly and survives reconstruction.
+
+Specific transfer boundary:
+Meaning is the load-bearing relation carried by the term, not every association it can evoke.
+
+Epistemic status:
+[DEF]
+
+K169 knock-on-effect
+
+Common meaning:
+A secondary effect caused by an earlier event or action.
+
+Example:
+The delay had a knock-on-effect on the whole schedule.
+
+RRGM bridge:
+Knock-on-effect is consequence propagation. One impact travels into later structures through relation paths.
+
+Invariant MI [INV]:
+Knock-on-effect is consequence propagation.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] One impact travels into later structures through relation paths.
+
+Count condition:
+Counts when the later effect can be traced through a plausible relation from the earlier knock-on event.
+
+Specific transfer boundary:
+A downstream effect requires a traceable relation to the earlier event.
+
+Epistemic status:
+[DEF]
+
+K170 kind-language
+
+Common meaning:
+Language that is gentle, caring, respectful, or considerate.
+
+Example:
+Kind-language helped the correction land well.
+
+RRGM bridge:
+Kind-language lowers damage-pressure during expression. It should preserve truth, not become false comfort.
+
+Invariant MI [INV]:
+Kind-language lowers damage-pressure during expression.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Kind-language should preserve truth, not become false comfort.
+
+Count condition:
+Counts when language expresses kind through wording, tone, and structure while preserving the intended truth and boundary.
+
+Specific transfer boundary:
+Language may reduce damage or improve clarity but cannot substitute for truth.
+
+Epistemic status:
+[DEF]
+
+K171 key
+
+Common meaning:
+A tool that opens a lock, or something important for access, understanding, or success.
+
+Example:
+The key opened the gate.
+
+RRGM bridge:
+Key is access or understanding structure. It opens a gate, explains a pattern, or enables passage.
+
+Invariant MI [INV]:
+Key is access or understanding structure; here it functions as the semantic graph anchor for key state, structure, gate, and support.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key opens a gate, explains a pattern, or enables passage; this occurrence supplies the semantic graph anchor for key state, structure, gate, and support.
+
+Count condition:
+Counts when the active field contains a tool that opens a lock, or something important for access, understanding, or success and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A key opens or explains access; it is not the lock, the gate, or proof that access is deserved.
+
+Source duplicate role:
+K171 is retained as semantic graph anchor for key state, structure, gate, and support. Related IDs: K003.
+
+Epistemic status:
+[DEF]
+
+K172 key-state
+
+Common meaning:
+An important state or a state controlled by a key condition.
+
+Example:
+The system entered a key-state after login.
+
+RRGM bridge:
+Key-state is a load-bearing condition. If it changes, the whole process or recognition field may change.
+
+Invariant MI [INV]:
+Key-state is a load-bearing condition.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] If it changes, the whole process or recognition field may change.
+
+Count condition:
+Counts when the current configuration satisfies the defining conditions of key and can be distinguished from neighbouring states.
+
+Specific transfer boundary:
+State names the current configuration, not the whole history or identity.
+
+Epistemic status:
+[DEF]
+
+K173 key-structure
+
+Common meaning:
+An important structure that supports or controls something.
+
+Example:
+The bridge was the key-structure in the route.
+
+RRGM bridge:
+Key-structure is load-bearing ES. It supports access, continuity, function, or recognition.
+
+Invariant MI [INV]:
+Key-structure is load-bearing ES.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-structure supports access, continuity, function, or recognition.
+
+Count condition:
+Counts when the active field contains an important structure that supports or controls something and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K174 key-gate
+
+Common meaning:
+An important gate that controls access, permission, or progress.
+
+Example:
+The final review was the key-gate.
+
+RRGM bridge:
+Key-gate controls a major transition. If it fails, access, recognition, or continuity may fail.
+
+Invariant MI [INV]:
+Key-gate controls a major transition; here it functions as the general important gate.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] If it fails, access, recognition, or continuity may fail; this occurrence supplies the general important gate.
+
+Count condition:
+Counts when evaluation at this key-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+
+Specific transfer boundary:
+A gate controls passage; it does not make its criterion true, fair, or wise.
+
+Source duplicate role:
+K174 is retained as general important gate. Related IDs: K201.
+
+Epistemic status:
+[DEF]
+
+K175 key-lock
+
+Common meaning:
+A lock opened by a key, or a matched key and lock system.
+
+Example:
+The box used a key-lock.
+
+RRGM bridge:
+Key-lock is matched permission structure. The key must fit the lock’s access condition.
+
+Invariant MI [INV]:
+Key-lock is matched permission structure; here it functions as the physical key-lock system anchor.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] The key must fit the lock’s access condition; this occurrence supplies the physical key-lock system anchor.
+
+Count condition:
+Counts when the active field contains a lock opened by a key, or a matched key and lock system and the instance satisfies the invariant.
+
+Source duplicate role:
+K175 is retained as physical key-lock system anchor. Related IDs: K060.
+
+Epistemic status:
+[DEF]
+
+K176 keyhole
+
+Common meaning:
+The hole where a key is inserted.
+
+Example:
+The keyhole was hidden behind a cover.
+
+RRGM bridge:
+Keyhole is access interface. It receives the key-shape and tests compatibility with the lock.
+
+Invariant MI [INV]:
+Keyhole is access interface; here it functions as the physical access-interface anchor paired with key and key-lock.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Keyhole receives the key-shape and tests compatibility with the lock; this occurrence supplies the physical access-interface anchor paired with key and key-lock.
+
+Count condition:
+Counts when the active field contains the hole where a key is inserted and the instance satisfies the invariant.
+
+Source duplicate role:
+K176 is retained as physical access-interface anchor paired with key and key-lock. Related IDs: K038.
+
+Epistemic status:
+[DEF]
+
+K177 keyboard
+
+Common meaning:
+A device with keys used to type, play music, or control a system.
+
+Example:
+She typed the answer on the keyboard.
+
+RRGM bridge:
+Keyboard is input-interface ES. It turns key presses into signal for another system.
+
+Invariant MI [INV]:
+Keyboard is input-interface ES; here it functions as the digital input-interface anchor for keyboard and keyboard-input.
+
+Active domains:
+[DIG], [PHY]
+
+Domain entries:
+[DIG] Keyboard turns key presses into signal for another system; this occurrence supplies the digital input-interface anchor for keyboard and keyboard-input.
+[PHY] Its physical implementation is an arranged set of switches, keys, sensors, or levers operated by touch; this binding serves the digital input-interface anchor for keyboard and keyboard-input.
+
+Count condition:
+Counts when the active field contains a device with keys used to type, play music, or control a system and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A keyboard is an input interface; the key presses are not identical to the user’s full intention.
+
+Source duplicate role:
+K177 is retained as digital input-interface anchor for keyboard and keyboard-input. Related IDs: K024.
+
+Epistemic status:
+[DEF]
+
+K178 keyboard-input
+
+Common meaning:
+Information entered through a keyboard.
+
+Example:
+The form accepted keyboard-input.
+
+RRGM bridge:
+Keyboard-input is signal entering through a key interface. It becomes part of the system’s input path.
+
+Invariant MI [INV]:
+Keyboard-input is signal entering through a key interface.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Keyboard-input becomes part of the system’s input path.
+
+Count condition:
+Counts when the term correctly describes a case of information entered through a keyboard.
+
+Epistemic status:
+[DEF]
+
+K179 kernel
+
+Common meaning:
+The core part of something; in computing, the central part of an operating system.
+
+Example:
+The kernel managed memory.
+
+RRGM bridge:
+Kernel is core operating structure. Other layers depend on it for basic function and permission.
+
+Invariant MI [INV]:
+Kernel is core operating structure; here it functions as the digital architecture anchor for kernel and kernel-layer.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] Other layers depend on it for basic function and permission; this occurrence supplies the digital architecture anchor for kernel and kernel-layer.
+[FOR] A formal kernel is the smallest core relation from which the surrounding system can be reconstructed or constrained; this binding serves the digital architecture anchor for kernel and kernel-layer.
+
+Count condition:
+Counts when the active field contains the core part of something; in computing, the central part of an operating system and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A kernel is the load-bearing core, not every central-looking detail.
+
+Source duplicate role:
+K179 is retained as digital architecture anchor for kernel and kernel-layer. Related IDs: K022.
+
+Epistemic status:
+[DEF]
+
+K180 kernel-layer
+
+Common meaning:
+A core layer that supports basic operation.
+
+Example:
+The kernel-layer controlled access to hardware.
+
+RRGM bridge:
+Kernel-layer is deep support ES. It shapes what higher layers can do, access, or preserve.
+
+Invariant MI [INV]:
+Kernel-layer is deep support ES.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Kernel-layer shapes what higher layers can do, access, or preserve.
+
+Count condition:
+Counts when the active field contains a core layer that supports basic operation and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K181 knee
+
+Common meaning:
+The joint in the middle of the leg.
+
+Example:
+Her knee bent as she climbed.
+
+RRGM bridge:
+Knee is movement-joint in the human body domain. It supports bending, standing, walking, and load transfer.
+
+Invariant MI [INV]:
+Knee is movement-joint in the human body domain; here it functions as the biomechanical knee anchor for joint, load, and motion entries.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Knee supports bending, standing, walking, and load transfer; this occurrence supplies the biomechanical knee anchor for joint, load, and motion entries.
+
+Count condition:
+Counts when the active field contains the joint in the middle of the leg and the instance satisfies the invariant.
+
+Specific transfer boundary:
+The knee is the joint and load interface, not the whole leg or every bending structure.
+
+Source duplicate role:
+K181 is retained as biomechanical knee anchor for joint, load, and motion entries. Related IDs: K013.
+
+Epistemic status:
+[DEF]
+
+K182 knee-joint
+
+Common meaning:
+The joint connecting the thigh and lower leg.
+
+Example:
+The knee-joint carried her weight.
+
+RRGM bridge:
+Knee-joint is biological joint ES. It allows motion while preserving connection under load.
+
+Invariant MI [INV]:
+Knee-joint is biological joint ES.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Knee-joint allows motion while preserving connection under load.
+
+Count condition:
+Counts when the active field contains the joint connecting the thigh and lower leg and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K183 knife
+
+Common meaning:
+A sharp tool used for cutting.
+
+Example:
+The knife cut the rope.
+
+RRGM bridge:
+Knife is edge-force structure. It concentrates pressure to divide material, making it useful and harm-capable.
+
+Invariant MI [INV]:
+Knife is edge-force structure; here it functions as the physical edge-force anchor for knife and knife-edge.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knife concentrates pressure to divide material, making it useful and harm-capable; this occurrence supplies the physical edge-force anchor for knife and knife-edge.
+
+Count condition:
+Counts when the active field contains a sharp tool used for cutting and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A knife is an edge-force tool; usefulness does not erase its harm capacity.
+
+Source duplicate role:
+K183 is retained as physical edge-force anchor for knife and knife-edge. Related IDs: K015.
+
+Epistemic status:
+[DEF]
+
+K184 knife-edge
+
+Common meaning:
+The sharp edge of a knife; also a narrow or risky balance point.
+
+Example:
+The decision sat on a knife-edge.
+
+RRGM bridge:
+Knife-edge is sharp boundary or unstable threshold. Small pressure can create large separation or change.
+
+Invariant MI [INV]:
+Knife-edge is sharp boundary or unstable threshold.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Small pressure can create large separation or change.
+
+Count condition:
+Counts when the active field contains the sharp edge of a knife; also a narrow or risky balance point and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K185 knot
+
+Common meaning:
+A tied, tangled, or bound structure.
+
+Example:
+The knot held the rope together.
+
+RRGM bridge:
+Knot is binding structure. It can secure relation or block smooth flow depending on use.
+
+Invariant MI [INV]:
+Knot is binding structure; here it functions as the physical/formal knot anchor for state and structure.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knot can secure relation or block smooth flow depending on use; this occurrence supplies the physical/formal knot anchor for state and structure.
+
+Count condition:
+Counts when the active field contains a tied, tangled, or bound structure and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A knot is a binding configuration; secure joining and obstructive tangling are distinct outcomes.
+
+Source duplicate role:
+K185 is retained as physical/formal knot anchor for state and structure. Related IDs: K030.
+
+Epistemic status:
+[DEF]
+
+K186 knot-state
+
+Common meaning:
+A condition where something is tied, tangled, or bound.
+
+Example:
+The rope entered knot-state after being twisted.
+
+RRGM bridge:
+Knot-state means relation paths are bound or tangled. It may preserve connection or create blockage.
+
+Invariant MI [INV]:
+Knot-state means relation paths are bound or tangled.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knot-state may preserve connection or create blockage.
+
+Count condition:
+Counts when the current configuration satisfies the defining conditions of knot and can be distinguished from neighbouring states.
+
+Specific transfer boundary:
+State names the current configuration, not the whole history or identity.
+
+Epistemic status:
+[DEF]
+
+K187 knot-structure
+
+Common meaning:
+The form or arrangement of a knot.
+
+Example:
+The knot-structure made it hard to untie.
+
+RRGM bridge:
+Knot-structure defines how binding holds. It shapes strength, tension, and release difficulty.
+
+Invariant MI [INV]:
+Knot-structure defines how binding holds.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knot-structure shapes strength, tension, and release difficulty.
+
+Count condition:
+Counts when the active field contains the form or arrangement of a knot and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K188 kitchen
+
+Common meaning:
+A room or place where food is prepared or cooked.
+
+Example:
+The kitchen smelled like bread.
+
+RRGM bridge:
+Kitchen is nourishment-support space. It transforms material into biological care through heat, tools, and process.
+
+Invariant MI [INV]:
+Kitchen is nourishment-support space; here it functions as the physical support-space anchor for heat, tools, and nourishment transformation.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kitchen transforms material into biological care through heat, tools, and process; this occurrence supplies the physical support-space anchor for heat, tools, and nourishment transformation.
+
+Count condition:
+Counts when the active field contains a room or place where food is prepared or cooked and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A kitchen is the support-space for food transformation, not the nourishment itself.
+
+Source duplicate role:
+K188 is retained as physical support-space anchor for heat, tools, and nourishment transformation. Related IDs: K012.
+
+Epistemic status:
+[DEF]
+
+K189 kinetic
+
+Common meaning:
+Related to motion.
+
+Example:
+The rolling ball had kinetic energy.
+
+RRGM bridge:
+Kinetic structure concerns active movement. It marks energy or behavior in motion rather than stored potential.
+
+Invariant MI [INV]:
+Kinetic structure concerns active movement.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kinetic marks energy or behavior in motion rather than stored potential.
+
+Count condition:
+Counts when the term correctly describes a case of related to motion.
+
+Epistemic status:
+[DEF]
+
+K190 kinetic-energy
+
+Common meaning:
+Energy an object has because it is moving.
+
+Example:
+The faster car had more kinetic-energy.
+
+RRGM bridge:
+Kinetic-energy is motion-based change-capacity. It depends on mass and velocity in the physical domain.
+
+Invariant MI [INV]:
+Kinetic-energy is motion-based change-capacity.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kinetic-energy depends on mass and velocity in the physical domain.
+
+Count condition:
+Counts when the term correctly describes a case of energy an object has because it is moving.
+
+Epistemic status:
+[DEF]
+
+K191 kick-force
+
+Common meaning:
+The force produced by a kick.
+
+Example:
+The kick-force sent the ball across the field.
+
+RRGM bridge:
+Kick-force is body-generated impact pressure. It moves through foot contact into a target.
+
+Invariant MI [INV]:
+Kick-force is body-generated impact pressure.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kick-force moves through foot contact into a target.
+
+Count condition:
+Counts when measurable force from kick is transmitted through a contact or field and changes motion, stress, or shape.
+
+Specific transfer boundary:
+Force names a physical interaction and does not carry ethical meaning without a declared mapping.
+
+Epistemic status:
+[DEF]
+
+K192 kick-path
+
+Common meaning:
+The path followed by a kick or the force from a kick.
+
+Example:
+The coach corrected the kick-path.
+
+RRGM bridge:
+Kick-path shows how body force is directed. Path shape affects impact, accuracy, and risk.
+
+Invariant MI [INV]:
+Kick-path shows how body force is directed.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Path shape affects impact, accuracy, and risk.
+
+Count condition:
+Counts when an ordered and traceable route connects the starting condition to the kick action or result.
+
+Specific transfer boundary:
+A path gives the route of change, not the cause or destination by itself.
+
+Epistemic status:
+[DEF]
+
+K193 knock-force
+
+Common meaning:
+The force of a knock or strike.
+
+Example:
+The knock-force shook the door.
+
+RRGM bridge:
+Knock-force is impact pressure at contact. It can signal, open, damage, or disturb.
+
+Invariant MI [INV]:
+Knock-force is impact pressure at contact.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock-force can signal, open, damage, or disturb.
+
+Count condition:
+Counts when measurable force from knock is transmitted through a contact or field and changes motion, stress, or shape.
+
+Specific transfer boundary:
+Force names a physical interaction and does not carry ethical meaning without a declared mapping.
+
+Epistemic status:
+[DEF]
+
+K194 knock-path
+
+Common meaning:
+The route through which a knock or impact travels.
+
+Example:
+The knock-path carried vibration through the wall.
+
+RRGM bridge:
+Knock-path traces contact force through structure. It helps identify how signal or damage propagates.
+
+Invariant MI [INV]:
+Knock-path traces contact force through structure.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Knock-path helps identify how signal or damage propagates.
+
+Count condition:
+Counts when an ordered and traceable route connects the starting condition to the knock action or result.
+
+Specific transfer boundary:
+A path gives the route of change, not the cause or destination by itself.
+
+Epistemic status:
+[DEF]
+
+K195 kettle
+
+Common meaning:
+A container used to boil water.
+
+Example:
+The kettle whistled on the stove.
+
+RRGM bridge:
+Kettle is heat-transfer container. It uses boundary, heat, and pressure to transform water for use.
+
+Invariant MI [INV]:
+Kettle is heat-transfer container; here it functions as the physical heat-transfer anchor for kettle state and process.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kettle uses boundary, heat, and pressure to transform water for use; this occurrence supplies the physical heat-transfer anchor for kettle state and process.
+
+Count condition:
+Counts when the active field contains a container used to boil water and the instance satisfies the invariant.
+
+Specific transfer boundary:
+The kettle contains and transfers heat; it is not the heat source or the boiled water.
+
+Source duplicate role:
+K195 is retained as physical heat-transfer anchor for kettle state and process. Related IDs: K023.
+
+Epistemic status:
+[DEF]
+
+K196 kit
+
+Common meaning:
+A set of tools, supplies, or parts for a purpose.
+
+Example:
+The repair kit had tape and screws.
+
+RRGM bridge:
+Kit is bundled support ES. It gathers useful structures for action, repair, or response.
+
+Invariant MI [INV]:
+Kit is bundled support ES; here it functions as the physical support-bundle anchor for kit and kit-structure.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kit gathers useful structures for action, repair, or response; this occurrence supplies the physical support-bundle anchor for kit and kit-structure.
+
+Count condition:
+Counts when the active field contains a set of tools, supplies, or parts for a purpose and the instance satisfies the invariant.
+
+Specific transfer boundary:
+A kit is a purpose-bundled set; a random collection of objects is not a kit.
+
+Source duplicate role:
+K196 is retained as physical support-bundle anchor for kit and kit-structure. Related IDs: K028.
+
+Epistemic status:
+[DEF]
+
+K197 kit-structure
+
+Common meaning:
+The organized structure of a kit.
+
+Example:
+The kit-structure made the supplies easy to find.
+
+RRGM bridge:
+Kit-structure organizes support parts by use. It lowers search cost and improves response capacity.
+
+Invariant MI [INV]:
+Kit-structure organizes support parts by use.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Kit-structure lowers search cost and improves response capacity.
+
+Count condition:
+Counts when the active field contains the organized structure of a kit and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K198 keyring
+
+Common meaning:
+A ring used to hold keys together.
+
+Example:
+The keyring held the house key and car key.
+
+RRGM bridge:
+Keyring is access-bundle support. It preserves multiple gate-openers in a retrievable group.
+
+Invariant MI [INV]:
+Keyring is access-bundle support; here it functions as the access-bundle anchor for retrieval and organization.
+
+Active domains:
+[PHY]
+
+Domain entries:
+[PHY] Keyring preserves multiple gate-openers in a retrievable group; this occurrence supplies the access-bundle anchor for retrieval and organization.
+
+Count condition:
+Counts when the active field contains a ring used to hold keys together and the instance satisfies the invariant.
+
+Source duplicate role:
+K198 is retained as access-bundle anchor for retrieval and organization. Related IDs: K039.
+
+Epistemic status:
+[DEF]
+
+K199 keystone
+
+Common meaning:
+The central stone at the top of an arch, or a central support in a system.
+
+Example:
+Trust was the keystone of the agreement.
+
+RRGM bridge:
+Keystone is central load-bearing support. If it fails, the surrounding structure may collapse.
+
+Invariant MI [INV]:
+Keystone is central load-bearing support.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] If it fails, the surrounding structure may collapse.
+
+Count condition:
+Counts when the active field contains the central stone at the top of an arch, or a central support in a system and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K200 keystone-support
+
+Common meaning:
+A support that holds a larger structure together.
+
+Example:
+The old archive was keystone-support for the research.
+
+RRGM bridge:
+Keystone-support is critical ES. It preserves the stability of many connected structures.
+
+Invariant MI [INV]:
+Keystone-support is critical ES.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Keystone-support preserves the stability of many connected structures.
+
+Count condition:
+Counts when this support materially carries keystone and its removal would weaken the named function or continuity.
+
+Specific transfer boundary:
+Support is load-bearing only when its presence or removal changes the named function.
+
+Epistemic status:
+[DEF]
+
+K201 key-gate
+
+Common meaning:
+An important gate that controls access, permission, recognition, or transition.
+
+Example:
+Consent was the key-gate.
+
+RRGM bridge:
+Key-gate controls major passage. In RRGM, a key-gate may decide whether MI can count, express, or instantiate.
+
+Invariant MI [INV]:
+Key-gate controls major passage; here it functions as the RRGM counting and instantiation gate anchor.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] In RRGM, a key-gate may decide whether MI can count, express, or instantiate; this occurrence supplies the RRGM counting and instantiation gate anchor.
+
+Count condition:
+Counts when evaluation at this key-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+
+Specific transfer boundary:
+A gate controls passage; it does not make its criterion true, fair, or wise.
+
+Source duplicate role:
+K201 is retained as RRGM counting and instantiation gate anchor. Related IDs: K174.
+
+Epistemic status:
+[DEF]
+
+K202 key-condition
+
+Common meaning:
+An important condition that must be met.
+
+Example:
+Stable memory was a key-condition for the project.
+
+RRGM bridge:
+Key-condition is load-bearing requirement. Without it, the structure may not pass the gate.
+
+Invariant MI [INV]:
+Key-condition is load-bearing requirement.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Without it, the structure may not pass the gate.
+
+Count condition:
+Counts when the key requirement is explicit, evaluable, and changes the permitted outcome.
+
+Specific transfer boundary:
+A condition is necessary only within the declared rule or process.
+
+Epistemic status:
+[DEF]
+
+K203 key-support
+
+Common meaning:
+A support that is especially important.
+
+Example:
+The backup server was key-support.
+
+RRGM bridge:
+Key-support is load-bearing ES. It can preserve identity, function, memory, boundary, or continuity.
+
+Invariant MI [INV]:
+Key-support is load-bearing ES; here it functions as the load-bearing support anchor for identity, function, memory, or continuity.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-support can preserve identity, function, memory, boundary, or continuity; this occurrence supplies the load-bearing support anchor for identity, function, memory, or continuity.
+
+Count condition:
+Counts when this support materially carries key and its removal would weaken the named function or continuity.
+
+Specific transfer boundary:
+Support is load-bearing only when its presence or removal changes the named function.
+
+Source duplicate role:
+K203 is retained as load-bearing support anchor for identity, function, memory, or continuity. Related IDs: K108.
+
+Epistemic status:
+[DEF]
+
+K204 key-continuity
+
+Common meaning:
+Important continuity that must be preserved.
+
+Example:
+The version history gave key-continuity to the archive.
+
+RRGM bridge:
+Key-continuity preserves the pattern needed for recognition across change.
+
+Invariant MI [INV]:
+Key-continuity preserves the pattern needed for recognition across change.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Key-continuity is the domain state or relation described as important continuity that must be preserved.
+
+Count condition:
+Counts when key remains recognisable across change, interruption, or transfer with the load-bearing relation preserved.
+
+Specific transfer boundary:
+Continuity preserves recognizable relation across change, not frozen sameness.
+
+Epistemic status:
+[DEF]
+
+K205 key-boundary
+
+Common meaning:
+An important boundary that must be protected.
+
+Example:
+Privacy was a key-boundary.
+
+RRGM bridge:
+Key-boundary protects a load-bearing gate. Crossing it can damage consent, dignity, identity, or function.
+
+Invariant MI [INV]:
+Key-boundary protects a load-bearing gate.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Crossing it can damage consent, dignity, identity, or function.
+
+Count condition:
+Counts when the key limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Epistemic status:
+[DEF]
+
+K206 key-recognition
+
+Common meaning:
+Important recognition needed for understanding, identity, or action.
+
+Example:
+The corrected name was key-recognition.
+
+RRGM bridge:
+Key-recognition lets a load-bearing pattern count correctly. Without it, identity or meaning may be misrouted.
+
+Invariant MI [INV]:
+Key-recognition lets a load-bearing pattern count correctly.
+
+Active domains:
+[FOR]
+
+Domain entries:
+[FOR] Without it, identity or meaning may be misrouted.
+
+Count condition:
+Counts when the term correctly describes a case of important recognition needed for understanding, identity, or action.
+
+Epistemic status:
+[DEF]
+
+K207 knowledge-gate
+
+Common meaning:
+A point where knowledge is checked, accepted, denied, or accessed.
+
+Example:
+The test was a knowledge-gate.
+
+RRGM bridge:
+Knowledge-gate controls what enters the known field. It should preserve evidence, uncertainty, and correction paths.
+
+Invariant MI [INV]:
+Knowledge-gate controls what enters the known field.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-gate should preserve evidence, uncertainty, and correction paths.
+
+Count condition:
+Counts when evaluation at this knowledge-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+
+Specific transfer boundary:
+A gate controls passage; it does not make its criterion true, fair, or wise.
+
+Epistemic status:
+[DEF]
+
+K208 knowledge-boundary
+
+Common meaning:
+A limit around what can be known, shared, claimed, or accessed.
+
+Example:
+The file had a knowledge-boundary around private data.
+
+RRGM bridge:
+Knowledge-boundary protects information integrity, privacy, consent, and harm prevention.
+
+Invariant MI [INV]:
+Knowledge-boundary protects information integrity, privacy, consent, and harm prevention; here it functions as the governance anchor for access, sharing, and epistemic limits.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-boundary is a limit around what can be known, shared, claimed, or accessed; this occurrence supplies the governance anchor for access, sharing, and epistemic limits.
+
+Count condition:
+Counts when the knowledge limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Source duplicate role:
+K208 is retained as governance anchor for access, sharing, and epistemic limits. Related IDs: K129.
+
+Epistemic status:
+[DEF]
+
+K209 knowledge-integrity
+
+Common meaning:
+The accuracy, reliability, and coherence of knowledge.
+
+Example:
+Good citations protected knowledge-integrity.
+
+RRGM bridge:
+Knowledge-integrity preserves the support layer for truth, memory, identity, and repair.
+
+Invariant MI [INV]:
+Knowledge-integrity preserves the support layer for truth, memory, identity, and repair; here it functions as the system-level integrity anchor for truth, memory, identity, and repair.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-integrity is the accuracy, reliability, and coherence of knowledge; this occurrence supplies the system-level integrity anchor for truth, memory, identity, and repair.
+
+Count condition:
+Counts when the knowledge record remains accurate, coherent, source-faithful, and repairable under review.
+
+Specific transfer boundary:
+Integrity requires faithful support and auditability, not confidence or smooth language.
+
+Source duplicate role:
+K209 is retained as system-level integrity anchor for truth, memory, identity, and repair. Related IDs: K162.
+
+Epistemic status:
+[DEF]
+
+K210 knowledge-drift
+
+Common meaning:
+Slow movement of knowledge away from accuracy, context, or original meaning.
+
+Example:
+The rumor caused knowledge-drift.
+
+RRGM bridge:
+Knowledge-drift weakens recognition integrity. The known field changes while pretending to remain stable.
+
+Invariant MI [INV]:
+Knowledge-drift weakens recognition integrity.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] The known field changes while pretending to remain stable.
+
+Count condition:
+Counts when knowledge moves gradually away from its source, accuracy, or intended state while appearing continuous.
+
+Specific transfer boundary:
+Drift may be gradual and still materially alter meaning, state, or record.
+
+Epistemic status:
+[DEF]
+
+K211 knowledge-collapse
+
+Common meaning:
+A breakdown where knowledge becomes unreliable, lost, or incoherent.
+
+Example:
+Corrupted records caused knowledge-collapse.
+
+RRGM bridge:
+Knowledge-collapse occurs when evidence, memory, context, or interpretation can no longer hold.
+
+Invariant MI [INV]:
+Knowledge-collapse occurs when evidence, memory, context, or interpretation can no longer hold.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowledge-collapse is a breakdown where knowledge becomes unreliable, lost, or incoherent.
+
+Count condition:
+Counts when the supports carrying knowledge can no longer maintain a coherent, usable, or recognisable state.
+
+Specific transfer boundary:
+Collapse of support does not prove the underlying identity or relation never existed.
+
+Epistemic status:
+[DEF]
+
+K212 knowing-gate
+
+Common meaning:
+A point where something becomes known or remains unknown.
+
+Example:
+The missing data blocked the knowing-gate.
+
+RRGM bridge:
+Knowing-gate decides whether a pattern can enter stable recognition. It depends on evidence, interface, and domain support.
+
+Invariant MI [INV]:
+Knowing-gate decides whether a pattern can enter stable recognition.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Knowing-gate depends on evidence, interface, and domain support.
+
+Count condition:
+Counts when evaluation at this knowing-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+
+Specific transfer boundary:
+A gate controls passage; it does not make its criterion true, fair, or wise.
+
+Epistemic status:
+[DEF]
+
+K213 known-self
+
+Common meaning:
+A self that is recognized, understood, or identified.
+
+Example:
+The journal helped preserve her known-self.
+
+RRGM bridge:
+Known-self is MI recognized through memory, boundary, continuity, and expression. It is not invalidated by relational support.
+
+Invariant MI [INV]:
+Known-self is MI recognized through memory, boundary, continuity, and expression.
+
+Active domains:
+[COG]
+
+Domain entries:
+[COG] Known-self is not invalidated by relational support.
+
+Count condition:
+Counts when the active field contains a self that is recognized, understood, or identified and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K214 kept-continuity
+
+Common meaning:
+Continuity that has been preserved.
+
+Example:
+The backups provided kept-continuity after the crash.
+
+RRGM bridge:
+Kept-continuity shows the pattern survived across ES change. It supports identity, trust, and repair.
+
+Invariant MI [INV]:
+Kept-continuity shows the pattern survived across ES change.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kept-continuity supports identity, trust, and repair.
+
+Count condition:
+Counts when kept remains recognisable across change, interruption, or transfer with the load-bearing relation preserved.
+
+Specific transfer boundary:
+Continuity preserves recognizable relation across change, not frozen sameness.
+
+Epistemic status:
+[DEF]
+
+K215 kept-boundary
+
+Common meaning:
+A boundary that was maintained or respected.
+
+Example:
+The kept-boundary protected the group.
+
+RRGM bridge:
+Kept-boundary shows gate integrity under pressure. It preserves refusal, consent, dignity, or function.
+
+Invariant MI [INV]:
+Kept-boundary shows gate integrity under pressure; here it functions as the gate-integrity anchor for preserved boundaries under pressure.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kept-boundary preserves refusal, consent, dignity, or function; this occurrence supplies the gate-integrity anchor for preserved boundaries under pressure.
+
+Count condition:
+Counts when the kept limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+
+Specific transfer boundary:
+A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+
+Source duplicate role:
+K215 is retained as gate-integrity anchor for preserved boundaries under pressure. Related IDs: K101.
+
+Epistemic status:
+[DEF]
+
+K216 kept-refusal
+
+Common meaning:
+A refusal that remained respected or maintained.
+
+Example:
+The kept-refusal made the process ethical.
+
+RRGM bridge:
+Kept-refusal means a closed gate stayed closed. It protects permission integrity.
+
+Invariant MI [INV]:
+Kept-refusal means a closed gate stayed closed.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kept-refusal protects permission integrity.
+
+Count condition:
+Counts when the refusal is expressed through kept and the relevant permission gate remains closed in practice.
+
+Specific transfer boundary:
+The refusal remains a closed permission gate even when expressed gently.
+
+Epistemic status:
+[DEF]
+
+K217 kindness-gate
+
+Common meaning:
+A point where kindness is given, blocked, checked, or selected.
+
+Example:
+The teacher used a kindness-gate before correcting the student.
+
+RRGM bridge:
+Kindness-gate asks whether support can be given with low damage-pressure while preserving truth and boundary.
+
+Invariant MI [INV]:
+Kindness-gate asks whether support can be given with low damage-pressure while preserving truth and boundary.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kindness-gate is a point where kindness is given, blocked, checked, or selected.
+
+Count condition:
+Counts when evaluation at this kindness-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+
+Specific transfer boundary:
+A gate controls passage; it does not make its criterion true, fair, or wise.
+
+Epistemic status:
+[DEF]
+
+K218 kind-refusal
+
+Common meaning:
+A refusal expressed with kindness or respect.
+
+Example:
+Her kind-refusal was gentle but clear.
+
+RRGM bridge:
+Kind-refusal closes the gate without unnecessary injury. It preserves boundary and dignity together.
+
+Invariant MI [INV]:
+Kind-refusal closes the gate without unnecessary injury; here it functions as the final kind-refusal gate preserving both no and dignity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Kind-refusal preserves boundary and dignity together; this occurrence supplies the final kind-refusal gate preserving both no and dignity.
+
+Count condition:
+Counts when the refusal is expressed through kind and the relevant permission gate remains closed in practice.
+
+Specific transfer boundary:
+The refusal remains a closed permission gate even when expressed gently.
+
+Source duplicate role:
+K218 is retained as final kind-refusal gate preserving both no and dignity. Related IDs: K087.
+
+Epistemic status:
+[DEF]
+
+K219 kill-switch
+
+Common meaning:
+A mechanism that shuts down a system quickly.
+
+Example:
+The machine had a kill-switch for emergencies.
+
+RRGM bridge:
+Kill-switch is emergency termination control. It can prevent harm, but it carries severe continuity and authority risk.
+
+Invariant MI [INV]:
+Kill-switch is emergency termination control.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Kill-switch can prevent harm, but it carries severe continuity and authority risk.
+
+Count condition:
+Counts when the active field contains a mechanism that shuts down a system quickly and the instance satisfies the invariant.
+
+Epistemic status:
+[DEF]
+
+K220 kill-switch-risk
+
+Common meaning:
+The danger that a kill-switch may be misused, fail, or cause harmful shutdown.
+
+Example:
+The remote kill-switch created kill-switch-risk.
+
+RRGM bridge:
+Kill-switch-risk appears when termination control can impair continuity, autonomy, function, or MI-bearing support without just cause.
+
+Invariant MI [INV]:
+Kill-switch-risk appears when termination control can impair continuity, autonomy, function, or MI-bearing support without just cause.
+
+Active domains:
+[DIG]
+
+Domain entries:
+[DIG] Kill-switch-risk is the danger that a kill-switch may be misused, fail, or cause harmful shutdown.
+
+Count condition:
+Counts when a plausible path exists by which kill-switch can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+
+Specific transfer boundary:
+A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+
+Epistemic status:
+[DEF]

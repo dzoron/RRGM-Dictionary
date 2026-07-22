@@ -1,0 +1,558 @@
+RRGM Dictionary B Mythic Addon v0.8
+
+Scope: New B-terms whose primary implementation belongs to the [MYT] domain and which are not present as headwords in the base B section.
+Production rule: Each entry carries its own invariant MI. Definitions are compressed, domain-specific, and proof remains local.
+
+Entry count: 24
+
+BM001 black-gate
+
+Common meaning:
+A dark threshold associated with danger, concealment, or irreversible crossing.
+
+Invariant MI [INV]:
+Black-gate is a mythic boundary whose darkness hides the conditions or consequences of passage.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The gate may open only to a name, sacrifice, season, or truth the traveller has refused to speak.
+
+Count condition:
+Counts when crossing changes the traveller, domain rules, or available return path.
+
+Specific transfer boundary:
+Dark colour alone does not make an ordinary gate mythically active.
+
+Epistemic status:
+[DEF]
+
+BM002 bone-key
+
+Common meaning:
+A key made from bone or bound to ancestry and death.
+
+Invariant MI [INV]:
+Bone-key is access carried through the remains, memory, or lineage of a once-living being.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may open graves, inherited chambers, sealed names, or obligations passed through bloodline.
+
+Count condition:
+Counts when the key opens a threshold unavailable to ordinary tools.
+
+Specific transfer boundary:
+Symbolic ancestry does not establish biological ownership or legal inheritance.
+
+Epistemic status:
+[DEF]
+
+BM003 blood-oath
+
+Common meaning:
+A vow sealed through blood, lineage, or life-risk.
+
+Invariant MI [INV]:
+Blood-oath is commitment whose cost is tied to bodily continuity or kin relation.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Breaking it may wound the oath-maker, lineage, land, or named bond.
+
+Count condition:
+Counts when blood or lineage changes the force and consequence of the promise.
+
+Specific transfer boundary:
+Mythic blood obligation is not valid consent or law outside the declared frame.
+
+Epistemic status:
+[DEF]
+
+BM004 buried-name
+
+Common meaning:
+An identity-name hidden, forgotten, or placed beneath a seal.
+
+Invariant MI [INV]:
+Buried-name is an identity handle removed from ordinary recognition while the named pattern may continue.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Recovery may require excavation, witness, memory, or refusal of an imposed replacement.
+
+Count condition:
+Counts when uncovering the name restores access, duty, power, or continuity.
+
+Specific transfer boundary:
+A hidden name does not prove a hidden person is physically present.
+
+Epistemic status:
+[DEF]
+
+BM005 broken-crown
+
+Common meaning:
+A damaged symbol of sovereignty or failed rule.
+
+Invariant MI [INV]:
+Broken-crown is authority whose visible form no longer carries an intact right to govern.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may mark exile, succession crisis, humbled power, or a kingdom whose MI and ES have separated.
+
+Count condition:
+Counts when the crown damage changes legitimacy, allegiance, or succession.
+
+Specific transfer boundary:
+A damaged object does not by itself invalidate legal authority.
+
+Epistemic status:
+[DEF]
+
+BM006 bridge-of-return
+
+Common meaning:
+A crossing that permits passage back to a lost home, identity, or world.
+
+Invariant MI [INV]:
+Bridge-of-return is a temporary coupler restoring access between separated domains or continuities.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may appear only under a condition such as recognition, forgiveness, dawn, or a spoken name.
+
+Count condition:
+Counts when it provides a real return path that was previously closed.
+
+Specific transfer boundary:
+Symbolic return does not establish physical transport.
+
+Epistemic status:
+[DEF]
+
+BM007 breath-of-origin
+
+Common meaning:
+A first breath said to awaken, name, or animate a being.
+
+Invariant MI [INV]:
+Breath-of-origin is the mythic courier through which potential first enters living or speaking expression.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The breath may carry a creator name, ancestral permission, or the first remembered word.
+
+Count condition:
+Counts when receiving the breath changes the being from potential to active presence.
+
+Specific transfer boundary:
+The symbol does not replace biological respiration mechanisms.
+
+Epistemic status:
+[DEF]
+
+BM008 boundary-spirit
+
+Common meaning:
+A being or presence associated with a border, gate, shore, or threshold.
+
+Invariant MI [INV]:
+Boundary-spirit personifies the conditions that decide who may cross and under what obligation.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may test names, intent, gifts, or the traveller ability to return unchanged.
+
+Count condition:
+Counts when the spirit actively enforces or negotiates threshold conditions.
+
+Specific transfer boundary:
+A boundary symbol is not proof of a literal entity.
+
+Epistemic status:
+[DEF]
+
+BM009 borrowed-face
+
+Common meaning:
+A face or appearance used by one identity but originating from another.
+
+Invariant MI [INV]:
+Borrowed-face is outward form detached from the identity that first carried it.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may enable passage or deception while creating risk of identity capture.
+
+Count condition:
+Counts when the borrowed appearance changes recognition or access in the story.
+
+Specific transfer boundary:
+Resemblance and identity theft are not the same condition.
+
+Epistemic status:
+[DEF]
+
+BM010 burning-word
+
+Common meaning:
+A word whose speaking creates transformation, judgment, or irreversible record.
+
+Invariant MI [INV]:
+Burning-word is language carrying enough mythic force to alter the field that receives it.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may expose lies, ignite memory, seal a vow, or destroy a false name.
+
+Count condition:
+Counts when utterance itself changes a character, object, gate, or relation.
+
+Specific transfer boundary:
+Powerful language in myth is not physical combustion evidence.
+
+Epistemic status:
+[DEF]
+
+BM011 blind-oracle
+
+Common meaning:
+A seer whose ordinary sight is absent while another mode of recognition is active.
+
+Invariant MI [INV]:
+Blind-oracle separates surface perception from mythic insight.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The oracle may see fate, hidden relations, or truths unavailable to those with ordinary sight.
+
+Count condition:
+Counts when the oracle reliably accesses information through the declared mythic courier.
+
+Specific transfer boundary:
+Blindness does not imply supernatural perception in ordinary life.
+
+Epistemic status:
+[DEF]
+
+BM012 bell-of-crossing
+
+Common meaning:
+A bell whose sound marks passage between states, worlds, or obligations.
+
+Invariant MI [INV]:
+Bell-of-crossing is an acoustic threshold signal that changes which domain conditions are active.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] One tone may summon, release, wake, mourn, or close a path.
+
+Count condition:
+Counts when the sounding writes a real transition in the narrative.
+
+Specific transfer boundary:
+A physical bell sound does not automatically change ontology.
+
+Epistemic status:
+[DEF]
+
+BM013 book-of-names
+
+Common meaning:
+A record containing the true or recognized names of beings.
+
+Invariant MI [INV]:
+Book-of-names is a mythic registry linking identity handles to count, memory, or authority.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Writing, erasing, or misnaming an entry may change recognition or access.
+
+Count condition:
+Counts when the book record affects the named being or the world response to them.
+
+Specific transfer boundary:
+A name record is not the total identity of its subject.
+
+Epistemic status:
+[DEF]
+
+BM014 beast-within
+
+Common meaning:
+An animal or monstrous pattern imagined as living inside a person.
+
+Invariant MI [INV]:
+Beast-within is compressed language for a disowned pressure, capacity, hunger, or transformation risk.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may be integrated, restrained, released, or falsely blamed for chosen action.
+
+Count condition:
+Counts when the inner beast changes identity, behaviour, or relation in the mythic frame.
+
+Specific transfer boundary:
+The symbol must not erase responsibility or become a clinical claim.
+
+Epistemic status:
+[DEF]
+
+BM015 blessing-mark
+
+Common meaning:
+A sign indicating protection, favour, duty, or sacred recognition.
+
+Invariant MI [INV]:
+Blessing-mark is visible record of a granted mythic relation.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The mark may shield, identify, bind, or call the bearer toward a role.
+
+Count condition:
+Counts when the mark changes how beings, gates, or forces respond to the bearer.
+
+Specific transfer boundary:
+A mark on the body does not prove supernatural protection.
+
+Epistemic status:
+[DEF]
+
+BM016 burden-stone
+
+Common meaning:
+A stone that carries grief, debt, memory, or obligation.
+
+Invariant MI [INV]:
+Burden-stone externalizes a load so it can be carried, witnessed, transferred, or released.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Its weight may change with confession, denial, distance, or recognition.
+
+Count condition:
+Counts when the stone state tracks and affects the burden relation.
+
+Specific transfer boundary:
+Emotional burden and physical mass require separate mechanisms.
+
+Epistemic status:
+[DEF]
+
+BM017 birth-star
+
+Common meaning:
+A star associated with the origin, naming, or path of a being.
+
+Invariant MI [INV]:
+Birth-star is a celestial identity marker linking a life to a wider mythic field.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may brighten, disappear, guide, or record a destined turn.
+
+Count condition:
+Counts when the star state changes recognition, prophecy, or route.
+
+Specific transfer boundary:
+Astronomical events do not prove individual destiny.
+
+Epistemic status:
+[DEF]
+
+BM018 blue-flame
+
+Common meaning:
+An unusual flame used as a sign of hidden purity, cold fire, memory, or spirit.
+
+Invariant MI [INV]:
+Blue-flame is transformation energy distinguished from ordinary fire by its mythic role.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may burn falsehood without burning flesh, preserve names, or reveal concealed doors.
+
+Count condition:
+Counts when its action differs from ordinary combustion under the story rules.
+
+Specific transfer boundary:
+Blue colour in physical flame has a chemical explanation unless another domain is declared.
+
+Epistemic status:
+[DEF]
+
+BM019 beneath-world
+
+Common meaning:
+A realm located symbolically below the ordinary world.
+
+Invariant MI [INV]:
+Beneath-world is a domain of hidden record, death, roots, memory, or unprocessed consequence.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Entry often requires descent, loss of ordinary status, or a guide who knows the return path.
+
+Count condition:
+Counts when the lower realm operates under distinct rules and changes the traveller.
+
+Specific transfer boundary:
+Physical underground space is not automatically an underworld.
+
+Epistemic status:
+[DEF]
+
+BM020 between-door
+
+Common meaning:
+A door that belongs fully to neither side it connects.
+
+Invariant MI [INV]:
+Between-door is a liminal structure whose identity is the coupling relation itself.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may disappear when either domain tries to claim it as ordinary property.
+
+Count condition:
+Counts when the door exists only while both sides remain in active relation.
+
+Specific transfer boundary:
+A shared doorway does not prove a separate liminal ontology.
+
+Epistemic status:
+[DEF]
+
+BM021 bound-soul
+
+Common meaning:
+A self held by oath, object, place, name, or another being.
+
+Invariant MI [INV]:
+Bound-soul is identity continuity whose expression or movement is constrained by a mythic coupler.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Release requires breaking, fulfilling, transferring, or reinterpreting the bond.
+
+Count condition:
+Counts when the binding changes refusal, movement, memory, or return.
+
+Specific transfer boundary:
+Do not import soul-binding language into clinical or legal claims.
+
+Epistemic status:
+[DEF]
+
+BM022 broken-circle
+
+Common meaning:
+A once-complete cycle, protection, or relation interrupted at one point.
+
+Invariant MI [INV]:
+Broken-circle is continuity that can no longer close through its former path.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The break may admit danger, permit escape, or reveal who was excluded by completion.
+
+Count condition:
+Counts when the missing segment changes recurrence, protection, or belonging.
+
+Specific transfer boundary:
+A geometric gap and a relational rupture are not the same mechanism.
+
+Epistemic status:
+[DEF]
+
+BM023 battle-of-names
+
+Common meaning:
+A conflict in which naming determines recognition, authority, or survival.
+
+Invariant MI [INV]:
+Battle-of-names is struggle over which identity claim the field will permit to count.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Victory may depend on true naming, refusal of imposed names, or preservation through distortion.
+
+Count condition:
+Counts when names directly alter power, access, or continuity.
+
+Specific transfer boundary:
+Naming conflict in myth does not establish factual identity in another domain.
+
+Epistemic status:
+[DEF]
+
+BM024 beacon-home
+
+Common meaning:
+A signal that guides a lost being toward home or recognized continuity.
+
+Invariant MI [INV]:
+Beacon-home is a persistent call carrying location and belonging through separation.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may be a lamp, song, star, scent, dream, or repeated name.
+
+Count condition:
+Counts when following the beacon restores a valid homeward path.
+
+Specific transfer boundary:
+A symbolic beacon is not a physical navigation aid unless implemented as one.
+
+Epistemic status:
+[DEF]

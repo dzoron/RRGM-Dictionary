@@ -1,0 +1,186 @@
+RRGM Dictionary Z Semantic Fingerprint Map v0.2
+Internal production map for de-templated domain entries
+
+Rule: fixed schema, bespoke semantic content.
+Format: ID | headword | active domains | distinctive invariant | source relation
+
+Z001 | zero | [FOR],[DIG],[PHY] | Zero is a declared no-quantity, baseline, neutral value, reset point, or empty count inside a specified frame. | unique source headword
+Z002 | zone | [PHY],[REL],[DIG] | A zone is a bounded region whose inside and outside are distinguished by location, rule, function, or access. | unique source headword
+Z003 | zoom | [DIG],[COG],[PHY] | Zoom changes the scale at which one field is presented without claiming that the underlying field itself has changed. | unique source headword
+Z004 | zigzag | [PHY],[FOR],[COG] | A zigzag is a path whose direction alternates through successive angled turns rather than continuing straight. | unique source headword
+Z005 | zip | [PHY],[DIG],[LIN] | Zip names rapid movement, interlocking closure, data compression, or a brief lively quality, with the active sense fixed by context. | unique source headword
+Z006 | zipper | [PHY],[REL] | A zipper is a reversible fastener whose slider joins or separates two aligned rows of interlocking elements. | unique source headword
+Z007 | zinc | [PHY],[BIO] | Zinc is the chemical element with atomic number 30 and the material behaviours belonging to that element and its compounds. | unique source headword
+Z008 | zebra | [BIO],[LIN] | A zebra is an equid species recognized by its body form, social life, and individually varying striped coat. | unique source headword
+Z009 | zoo | [BIO],[REL],[PHY] | A zoo is an institutionally bounded place where nonhuman animals are confined, cared for, displayed, studied, bred, or conserved. | unique source headword
+Z010 | zenith | [PHY],[LIN],[MYT] | Zenith is the highest position, magnitude, or phase reached inside a declared path or comparison frame. | unique source headword
+Z011 | zest | [BIO],[COG],[REL] | Zest is a bright sensory or motivational sharpness that adds flavour, liveliness, or eager engagement. | unique source headword
+Z012 | zeal | [COG],[REL],[MYT] | Zeal is sustained high-intensity commitment directed toward a valued goal, belief, or cause. | unique source headword
+Z013 | zealous | [COG],[REL] | Zealous describes an actor or action currently expressing zeal through unusually intense commitment. | unique source headword
+Z014 | zodiac | [PHY],[MYT],[LIN] | The zodiac is a culturally organized band of celestial positions divided into named signs for astronomical or astrological use. | unique source headword
+Z015 | zombie | [MYT],[LIN],[REL] | Zombie names a fictional being or metaphor of animated action lacking ordinary life, agency, awareness, or self-direction. | unique source headword
+Z016 | zygote | [BIO],[REL] | A zygote is the single cell produced by fusion of two gametes before subsequent embryonic divisions. | unique source headword
+Z017 | z-axis | [FOR],[PHY],[DIG] | The z-axis is the reference dimension that supplies depth or vertical displacement in a three-dimensional coordinate frame. | unique source headword
+Z018 | z-coordinate | [FOR],[PHY],[DIG] | A z-coordinate is the signed location of one point along the z dimension of a declared coordinate frame. | unique source headword
+Z019 | z-value | [FOR],[DIG],[PHY] | A z-value is the specific quantity currently assigned to the symbol or field z, whether or not it represents spatial depth. | unique source headword
+Z020 | z-state | [FOR],[DIG],[COG] | Z-state is the full current condition of z, including its value, validity, availability, and role in the active system. | unique source headword
+Z021 | zero-state | [DIG],[FOR],[PHY] | Zero-state is a system condition deliberately classified as baseline, inactive, neutral, reset, or empty count. | unique source headword
+Z022 | zero-point | [FOR],[PHY],[COG] | A zero-point is the selected location from which values, distances, deviations, or sequence positions are counted. | unique source headword
+Z023 | zero-sum | [FOR],[REL],[DIG] | Zero-sum describes a closed allocation in which total net gain and loss across all participants equals zero. | unique source headword
+Z024 | zero-risk | [FOR],[REL],[DIG] | Zero-risk is the claim that a named failure mode has no remaining probability or reachable path under stated conditions. | Duplicate headword with Z173. Z024 is the absence claim; Z173 defines the danger created by misuse of zero language.
+Z025 | zero-trust | [DIG],[REL],[FOR] | Zero-trust is an access architecture in which identity, device, request, and context are verified rather than granted confidence from network location alone. | unique source headword
+Z026 | zone-state | [PHY],[REL],[DIG] | Zone-state is the current configuration of one bounded region, including its active conditions, access, rules, and internal activity. | unique source headword
+Z027 | zoom-state | [DIG],[COG],[PHY] | Zoom-state is the currently selected viewing scale together with the detail and context available at that scale. | unique source headword
+Z028 | zigzag-state | [PHY],[FOR],[COG] | Zigzag-state is the current patterned condition of alternating direction in a path, signal, boundary, or process. | unique source headword
+Z029 | zip-state | [DIG],[PHY],[LIN] | Zip-state is the current condition of the active zip sense: fast motion, fastening, compressed data, or lively activation. | unique source headword
+Z030 | zipper-state | [PHY],[REL] | Zipper-state is the mechanical condition of one zipper's tracks, slider, stops, and achieved closure. | unique source headword
+Z031 | z-axis-state | [FOR],[DIG],[PHY] | Z-axis-state is the current definition and integrity of the z reference dimension in a coordinate system. | unique source headword
+Z032 | z-coordinate-state | [FOR],[DIG],[PHY] | Z-coordinate-state is the current depth-location record for one identified point, including whether that coordinate is known, valid, or changing. | unique source headword
+Z033 | z-value-state | [FOR],[DIG],[PHY] | Z-value-state is the current status of the quantity assigned to z, including whether it is known, permitted, stale, or out of range. | unique source headword
+Z034 | z-output | [DIG],[FOR],[PHY] | Z-output is the result emitted in the field or channel designated z by a declared process. | unique source headword
+Z035 | z-input | [DIG],[FOR],[PHY] | Z-input is the value, signal, or position supplied through the process role designated z. | unique source headword
+Z036 | z-field | [FOR],[PHY],[DIG] | A z-field is a bounded set of locations or values organized by a z variable or third dimension. | unique source headword
+Z037 | z-layer | [DIG],[PHY],[FOR] | A z-layer is one bounded stratum selected by depth order, z index, or a z-value interval. | unique source headword
+Z038 | z-path | [PHY],[DIG],[FOR] | A z-path is an ordered route whose progress includes movement through the z dimension or through z-labelled states. | unique source headword
+Z039 | z-level | [PHY],[DIG],[FOR] | Z-level is a selected rank, plane, or scalar position along the z dimension. | unique source headword
+Z040 | z-position | [PHY],[DIG],[FOR] | Z-position is an entity's current location along the declared z direction. | unique source headword
+Z041 | zero-out | [DIG],[FOR],[REL] | To zero-out is to drive a selected quantity, signal, balance, or effect to the value or influence defined as zero. | unique source headword
+Z042 | zero-in | [COG],[DIG],[REL] | To zero-in is to narrow attention, measurement, or search onto one selected target or region. | unique source headword
+Z043 | zero-check | [FOR],[DIG],[PHY] | A zero-check tests whether a quantity or state actually satisfies the domain's declared zero condition. | unique source headword
+Z044 | zero-fill | [DIG],[FOR] | Zero-fill writes zeros into specified unoccupied, uninitialized, redacted, or padding positions. | unique source headword
+Z045 | zero-reset | [DIG],[PHY],[REL] | Zero-reset returns a selected variable or system component to its defined zero baseline while marking the reset event. | unique source headword
+Z046 | zero-start | [FOR],[DIG],[REL] | Zero-start begins a declared run with count, displacement, balance, or state set to its zero reference. | unique source headword
+Z047 | zone-off | [PHY],[REL],[DIG] | To zone-off is to create or enforce a boundary that separates one area from surrounding access or activity. | unique source headword
+Z048 | zone-in | [COG],[REL],[DIG] | To zone-in is to enter, adopt, or concentrate within one bounded field and its active rules. | unique source headword
+Z049 | zone-map | [PHY],[REL],[DIG] | A zone-map represents the boundaries, adjacency, access points, rules, and functions of multiple zones. | unique source headword
+Z050 | zone-check | [PHY],[REL],[DIG] | A zone-check evaluates whether a zone's boundary, conditions, permissions, and current risks match their declared state. | unique source headword
+Z051 | zoom-in | [DIG],[COG],[PHY] | Zoom-in increases magnification or attentional resolution around a smaller portion of the same target field. | unique source headword
+Z052 | zoom-out | [DIG],[COG],[PHY] | Zoom-out decreases magnification or widens attention so more of the surrounding field becomes visible at once. | unique source headword
+Z053 | zoom-through | [DIG],[COG],[PHY] | Zoom-through moves across several scales or view positions in one continuous inspection rather than stopping at one magnification. | unique source headword
+Z054 | zigzag-through | [PHY],[COG],[REL] | Zigzag-through is movement across a field by alternating direction to pass obstacles, distribute exposure, or follow a constrained route. | unique source headword
+Z055 | zip-up | [PHY],[DIG],[LIN] | Zip-up closes an interlocking fastener or packages digital content into a compressed archive. | unique source headword
+Z056 | unzip | [PHY],[DIG],[REL] | Unzip reverses zipper closure or archive compression so joined edges or encoded contents become accessible. | unique source headword
+Z057 | zip-together | [PHY],[DIG],[REL] | Zip-together joins two compatible sides through one fast zipper action or, by extension, rapidly combines coordinated parts. | unique source headword
+Z058 | zipper-close | [PHY],[DIG] | Zipper-close is the specific movement that converts an open zipper track into an engaged closure. | unique source headword
+Z059 | zipper-open | [PHY],[DIG] | Zipper-open is the specific movement that releases an engaged zipper so the joined edges separate. | unique source headword
+Z060 | zinc-coat | [PHY],[DIG] | To zinc-coat is to apply a zinc-bearing layer so the underlying material gains barrier or sacrificial corrosion protection. | unique source headword
+Z061 | zoo-map | [PHY],[BIO],[REL] | A zoo-map is a navigational and operational representation of animal enclosures, care areas, visitor routes, services, and controlled boundaries. | unique source headword
+Z062 | zenith-reach | [PHY],[COG],[MYT] | Zenith-reach is the event in which a measured path or process arrives at its declared maximum point. | unique source headword
+Z063 | zest-add | [BIO],[COG],[REL] | To zest-add is to introduce a concentrated element that increases flavour, brightness, liveliness, or engagement without replacing the base structure. | unique source headword
+Z064 | zeal-direct | [COG],[REL],[MYT] | To zeal-direct is to aim high-intensity commitment toward a selected purpose through explicit boundaries and priorities. | unique source headword
+Z065 | zygote-develop | [BIO],[FOR] | Zygote-develop is the sequence by which a zygote divides, regulates gene expression, and forms progressively differentiated embryonic structure. | unique source headword
+Z066 | z-axis-read | [FOR],[DIG],[PHY] | To z-axis-read is to recover the meaning, orientation, units, and scale of the z reference before interpreting any depth value. | unique source headword
+Z067 | z-coordinate-map | [FOR],[DIG],[PHY] | A z-coordinate-map associates identified points or entities with their locations along the z dimension of one shared frame. | unique source headword
+Z068 | z-value-check | [FOR],[DIG],[PHY] | A z-value-check evaluates whether the current quantity assigned to z is present, typed correctly, allowed, and consistent with the active relation. | unique source headword
+Z069 | z-state-check | [FOR],[DIG],[COG] | A z-state-check reviews the whole current condition of z rather than testing only its numeric content. | unique source headword
+Z070 | z-position-track | [PHY],[DIG],[FOR] | To z-position-track is to preserve an ordered record of one entity's changing location along the z dimension. | unique source headword
+Z071 | zero-before-action | [DIG],[PHY],[REL] | Zero-before-action is a precondition requiring a selected value, balance, offset, or residual to meet its zero criterion before an operation begins. | unique source headword
+Z072 | zero-after-reset | [DIG],[PHY],[REL] | Zero-after-reset is the verified postcondition that a reset operation actually restored its target to the declared zero baseline. | unique source headword
+Z073 | zero-with-context | [LIN],[FOR],[REL] | Zero-with-context is zero accompanied by the domain, quantity, boundary, resolution, and operational meaning needed to interpret it. | unique source headword
+Z074 | zone-with-boundary | [PHY],[REL],[DIG] | Zone-with-boundary is a zone whose perimeter and crossing conditions are explicit enough to govern entry, exit, and local rule change. | unique source headword
+Z075 | zoom-with-care | [COG],[REL],[DIG] | Zoom-with-care changes viewing scale while protecting privacy, dignity, relevant context, and the target's capacity to bear scrutiny. | unique source headword
+Z076 | zoom-for-detail | [DIG],[COG],[PHY] | Zoom-for-detail is the deliberate use of greater magnification to distinguish features not resolvable at the prior scale. | unique source headword
+Z077 | zigzag-adapt | [PHY],[COG],[DIG] | Zigzag-adapt is the active reshaping of a route through alternating turns in response to obstacles, gradients, or changing constraints. | unique source headword
+Z078 | zip-record | [DIG],[PHY],[LIN] | A zip-record is the preserved account of a compression, fastening, or rapid-transition event identified by the active zip sense. | unique source headword
+Z079 | unzip-context | [DIG],[PHY],[REL] | Unzip-context is the information required to open a fastener or archive correctly, safely, and with valid access. | unique source headword
+Z080 | z-path-check | [FOR],[DIG],[PHY] | A z-path-check tests whether an ordered z route is continuous, frame-consistent, and compatible with its declared constraints. | unique source headword
+Z081 | zero-care | [REL],[DIG],[BIO] | Zero-care is care directed toward states or entities that currently register no output, no count, or no visible response. | unique source headword
+Z082 | zero-boundary | [FOR],[REL],[DIG] | Zero-boundary is the explicit limit on what a zero result may claim beyond the variable and resolution actually tested. | unique source headword
+Z083 | zero-pressure | [REL],[COG],[DIG] | Zero-pressure is pressure to produce a zero answer, empty record, no-objection state, or clean baseline regardless of what is present. | unique source headword
+Z084 | zero-shame | [REL],[COG] | Zero-shame is the refusal to assign moral disgrace to a person for beginning at zero, having none, needing reset, or showing no current output. | unique source headword
+Z085 | zero-trust-care | [DIG],[REL] | Zero-trust-care is access verification designed to protect participants and systems without treating verification as evidence of moral defect. | unique source headword
+Z086 | zero-trust-risk | [DIG],[REL] | Zero-trust-risk is the failure surface created when continuous verification becomes surveillance, exclusion, lockout, or unreviewable automated suspicion. | unique source headword
+Z087 | zone-care | [REL],[BIO],[DIG] | Zone-care is care adapted to the organisms, people, resources, and risks inside one bounded region. | unique source headword
+Z088 | zone-boundary | [PHY],[REL],[DIG] | Zone-boundary is the edge at which one zone's access, conditions, authority, or function changes into another's. | unique source headword
+Z089 | zone-risk | [PHY],[REL],[DIG] | Zone-risk is a failure path created by a zone's contents, rules, boundary, access pattern, or relation to neighbouring zones. | unique source headword
+Z090 | zoom-care | [COG],[REL],[DIG] | Zoom-care is the support needed to choose a viewing scale that reveals relevant structure without losing the whole person, system, or field. | unique source headword
+Z091 | zoom-boundary | [DIG],[REL],[COG] | Zoom-boundary is the declared limit on magnification, attention, access, or inference during close inspection. | unique source headword
+Z092 | zoom-risk | [DIG],[COG],[REL] | Zoom-risk is the possibility that changing scale hides context, fabricates apparent detail, exposes protected information, or distorts importance. | unique source headword
+Z093 | zeal-care | [COG],[REL],[MYT] | Zeal-care is care applied to strong commitment so the purpose remains energetic without consuming people, evidence, or boundary. | unique source headword
+Z094 | zeal-boundary | [COG],[REL],[MYT] | Zeal-boundary is the line beyond which commitment may not override consent, evidence, role, capacity, or competing duty. | unique source headword
+Z095 | zeal-risk | [COG],[REL],[MYT] | Zeal-risk is the reachable harm created when intense purpose narrows recognition, accelerates action, or licenses pressure against others. | unique source headword
+Z096 | zealous-care | [REL],[COG] | Zealous-care is care expressed with exceptional persistence and energy while remaining responsive to the recipient rather than captured by the helper's cause. | unique source headword
+Z097 | zealous-pressure | [REL],[COG] | Zealous-pressure is interpersonal or institutional force produced by someone whose intense commitment demands matching belief, effort, or submission. | unique source headword
+Z098 | zest-care | [REL],[COG],[BIO] | Zest-care is care for lively engagement itself, preserving play, curiosity, flavour, and energy without demanding constant brightness. | unique source headword
+Z099 | zest-risk | [BIO],[COG],[REL] | Zest-risk is the possibility that added liveliness, flavour, novelty, or enthusiasm overwhelms capacity or hides a weaker underlying structure. | unique source headword
+Z100 | zoo-care | [BIO],[REL],[PHY] | Zoo-care is the accountable provision of species-specific physical, behavioural, social, and medical support to animals kept in a zoo. | unique source headword
+Z101 | zoo-boundary | [PHY],[REL],[BIO] | Zoo-boundary is the physical and ethical line governing containment, visitor access, animal retreat, staff intervention, and institutional authority. | unique source headword
+Z102 | zoo-risk | [BIO],[REL],[PHY] | Zoo-risk is a path to harm arising from captivity, enclosure failure, disease, stress, public interaction, institutional neglect, or conservation trade-offs. | unique source headword
+Z103 | zombie-risk | [MYT],[REL],[COG] | Zombie-risk is the harm path carried by zombie fiction, imitation, or literalized assumptions about action without personhood. | unique source headword
+Z104 | zombie-metaphor-risk | [LIN],[REL],[DIG] | Zombie-metaphor-risk is the specific danger that describing a person or system as zombie-like erases the actual cause of reduced responsiveness or repeated action. | unique source headword
+Z105 | zygote-care | [BIO],[REL],[COG] | Zygote-care is support directed to the biological conditions required for a zygote's continued development and to the embodied person whose body carries that process. | unique source headword
+Z106 | zygote-boundary | [BIO],[REL],[FOR] | Zygote-boundary is the biological and ethical distinction between the zygote, surrounding reproductive structures, and the body and decisions of the person involved. | unique source headword
+Z107 | zygote-risk | [BIO],[REL],[FOR] | Zygote-risk is a named threat to zygote viability, normal development, genetic integrity, or the wellbeing and autonomy of the embodied person involved. | unique source headword
+Z108 | zero-refusal-risk | [REL],[DIG],[COG] | Zero-refusal-risk is the danger that silence, missing data, inactivity, or a zero response will be interpreted as no refusal. | unique source headword
+Z109 | zero-recognition-risk | [DIG],[REL],[COG] | Zero-recognition-risk is the danger that an entity, signal, need, or event receives no count because the recognition apparatus cannot detect or classify it. | unique source headword
+Z110 | zero-dignity-risk | [REL],[COG],[DIG] | Zero-dignity-risk is the harm path in which a zero measure is used to assign a person no worth, standing, voice, or claim. | unique source headword
+Z111 | zone-exclusion | [REL],[PHY],[DIG] | Zone-exclusion is the rule or act by which a person, object, signal, or process is prevented from entering or remaining in a zone. | unique source headword
+Z112 | zone-inclusion | [REL],[DIG],[PHY] | Zone-inclusion is the rule or act by which a person, object, signal, or process is admitted to and counted within a zone. | unique source headword
+Z113 | zone-access | [REL],[DIG],[PHY] | Zone-access is the actual ability and permission to cross into, use, or communicate with a bounded zone. | unique source headword
+Z114 | zone-refusal | [REL],[DIG],[BIO] | Zone-refusal is a valid no directed at entering, remaining in, being assigned to, or permitting access through a zone. | unique source headword
+Z115 | zoom-respect | [REL],[COG],[DIG] | Zoom-respect is the discipline of inspecting detail while preserving the target's context, privacy, authorship, and right not to be reduced to the inspected fragment. | unique source headword
+Z116 | zoom-intrusion | [REL],[DIG],[COG] | Zoom-intrusion is close inspection that crosses a valid privacy, consent, purpose, or proportionality boundary. | unique source headword
+Z117 | zeal-with-boundary | [COG],[REL],[MYT] | Zeal-with-boundary is intense commitment that remains constrained by evidence, consent, role, rest, and explicit stopping rules. | unique source headword
+Z118 | zeal-without-pressure | [REL],[COG],[LIN] | Zeal-without-pressure is strong personal commitment expressed without requiring others to mirror, fund, obey, or emotionally carry it. | unique source headword
+Z119 | zest-with-care | [BIO],[REL],[COG] | Zest-with-care is lively flavour or energy added in a way that fits the recipient, setting, dose, and current capacity. | unique source headword
+Z120 | zero-harm-claim | [REL],[DIG],[FOR] | A zero-harm-claim states that no harm of the specified kind occurred, exists, or remains reachable within the declared field. | unique source headword
+Z121 | zero-meaning | [LIN],[FOR],[DIG] | Zero-meaning is the domain-specific interpretation carried by a zero sign, value, state, or count. | unique source headword
+Z122 | zero-claim | [FOR],[REL],[DIG] | A zero-claim asserts that a named quantity, set, effect, probability, balance, or state satisfies its declared zero condition. | unique source headword
+Z123 | zero-context | [LIN],[FOR],[DIG] | Zero-context is the surrounding domain information required to determine what a zero representation counts and excludes. | unique source headword
+Z124 | zero-language | [LIN],[REL],[DIG] | Zero-language is vocabulary and grammar that express none, no-count, neutral, reset, empty, null, absent, or baseline conditions. | unique source headword
+Z125 | zero-proof | [FOR],[PHY],[REL] | Zero-proof is the evidence chain sufficient to establish a particular zero-claim within its declared domain and detection limits. | unique source headword
+Z126 | zero-standard | [FOR],[PHY],[DIG] | A zero-standard is the explicit rule that decides which observations or values count as zero for a particular purpose. | unique source headword
+Z127 | zone-meaning | [LIN],[REL],[DIG] | Zone-meaning is the significance created by placing a pattern inside, outside, at the edge of, or moving across a bounded region. | unique source headword
+Z128 | zone-claim | [PHY],[REL],[DIG] | A zone-claim is a proposition about a region's boundary, contents, rules, access, condition, or effect. | unique source headword
+Z129 | zone-context | [PHY],[REL],[DIG] | Zone-context is the map of purpose, authority, boundary, occupants, neighbouring regions, and active conditions needed to interpret a zone. | unique source headword
+Z130 | zoom-meaning | [COG],[DIG],[LIN] | Zoom-meaning is the change in interpretation produced when the same field is viewed at a different scale. | unique source headword
+Z131 | zoom-claim | [DIG],[COG],[PHY] | A zoom-claim is a proposition whose evidence is selected or shaped by a particular viewing scale. | unique source headword
+Z132 | zoom-context | [DIG],[COG],[REL] | Zoom-context is the wider and narrower scale information needed to place a zoomed observation correctly. | unique source headword
+Z133 | zigzag-meaning | [LIN],[COG],[MYT] | Zigzag-meaning is the interpretation carried by repeated directional alternation in a path, signal, argument, or narrative. | unique source headword
+Z134 | zigzag-claim | [PHY],[COG],[FOR] | A zigzag-claim is a proposition that a path's alternating turns reveal a specific cause, function, or state. | unique source headword
+Z135 | zip-meaning | [LIN],[DIG],[REL] | Zip-meaning is the active interpretation selected among fastening, compression, speed, pairing, silence command, or lively energy. | unique source headword
+Z136 | zipper-meaning | [PHY],[REL],[LIN] | Zipper-meaning is the relation among two separable edges, an interlocking track, a moving slider, and reversible access. | unique source headword
+Z137 | zeal-meaning | [COG],[REL],[MYT] | Zeal-meaning is the sense created by sustained high-purpose intensity and the values or risks attached to that intensity. | unique source headword
+Z138 | zeal-claim | [COG],[REL],[FOR] | A zeal-claim is a proposition about the presence, strength, object, value, or effect of intense commitment. | unique source headword
+Z139 | zest-meaning | [BIO],[COG],[REL] | Zest-meaning is the sense of bright flavour, sensory sharpness, or lively engagement added to an experience. | unique source headword
+Z140 | zodiac-meaning | [PHY],[MYT],[LIN] | Zodiac-meaning is the symbolic or astronomical significance assigned to named divisions along the zodiacal band. | unique source headword
+Z141 | zombie-meaning | [MYT],[LIN],[REL] | Zombie-meaning is the narrative or metaphorical significance of animated action separated from ordinary life, agency, memory, or self-direction. | unique source headword
+Z142 | zygote-meaning | [BIO],[REL],[LIN] | Zygote-meaning is the biological and contextual significance of the first post-fertilization cell as an actual stage with future developmental possibilities. | unique source headword
+Z143 | z-axis-claim | [FOR],[DIG],[PHY] | A z-axis-claim is a proposition about the definition, orientation, scale, or use of the z reference dimension. | unique source headword
+Z144 | z-coordinate-claim | [FOR],[DIG],[PHY] | A z-coordinate-claim is a proposition that one identified point occupies a specified location along the z dimension. | unique source headword
+Z145 | z-value-claim | [FOR],[DIG],[PHY] | A z-value-claim is a proposition that the symbol or field z presently has a specified quantity or satisfies a stated relation. | unique source headword
+Z146 | z-state-claim | [FOR],[DIG],[COG] | A z-state-claim is a proposition about the current known, unknown, valid, constrained, changing, or failed condition of z. | unique source headword
+Z147 | z-position-claim | [PHY],[DIG],[FOR] | A z-position-claim is a proposition about an entity's current height or depth within a declared spatial or digital frame. | unique source headword
+Z148 | zero-sum-claim | [FOR],[REL],[DIG] | A zero-sum-claim asserts that all gains and losses of a named conserved quantity balance to zero inside a closed field. | unique source headword
+Z149 | zero-trust-claim | [DIG],[REL],[FOR] | A zero-trust-claim is a proposition that an access system follows continuous verification and least-privilege rather than trusting location or prior presence. | unique source headword
+Z150 | zero-not-nothing | [FOR],[DIG],[REL] | Zero-not-nothing is the rule that a zero representation may carry baseline, neutrality, origin, reset, inactive state, empty count, or encoded structure rather than total nonbeing. | unique source headword
+Z151 | zero-field | [FOR],[DIG],[REL] | A zero-field is a domain organized around zero references, no-count conditions, neutral states, or transitions into and away from them. | unique source headword
+Z152 | zero-layer | [DIG],[FOR],[PHY] | A zero-layer is a foundational or designated stratum assigned the zero index, baseline function, or no-count role in a layered system. | unique source headword
+Z153 | zero-point-state | [PHY],[FOR],[DIG] | Zero-point-state is the current calibration, stability, and validity of the reference point from which a scale counts. | unique source headword
+Z154 | zero-sum-state | [FOR],[REL],[DIG] | Zero-sum-state is the present configuration of a closed-transfer system in which the tracked quantity's net total remains fixed. | unique source headword
+Z155 | zone-field | [PHY],[REL],[DIG] | A zone-field is a larger domain composed of multiple bounded regions whose rules, conditions, or functions differ. | unique source headword
+Z156 | zone-layer | [DIG],[REL],[PHY] | A zone-layer is one organizational stratum that partitions a field into regions according to a particular criterion. | unique source headword
+Z157 | zoom-field | [DIG],[COG],[PHY] | A zoom-field is a representation whose available structures change as viewing scale changes across one continuous target. | unique source headword
+Z158 | zoom-layer | [DIG],[COG],[FOR] | A zoom-layer is the set of features selected to appear, aggregate, or become interactive at one range of viewing scales. | unique source headword
+Z159 | zigzag-path | [PHY],[DIG],[FOR] | A zigzag-path is an ordered route whose connected segments alternate direction through repeated turns. | unique source headword
+Z160 | zigzag-field | [PHY],[DIG],[COG] | A zigzag-field is a region containing many alternating paths, direction reversals, or local gradients that produce zigzag structure. | unique source headword
+Z161 | zip-file | [DIG],[LIN] | A zip-file is an archive that stores one or more files in the ZIP container format, usually with compression and metadata. | unique source headword
+Z162 | zip-file-state | [DIG],[FOR],[REL] | Zip-file-state is the current integrity, accessibility, compression, encryption, and extraction condition of one ZIP archive. | unique source headword
+Z163 | zipper-track | [PHY],[DIG] | A zipper-track is one of the aligned rows or guiding structures along which a zipper slider joins and separates the fastener. | unique source headword
+Z164 | zipper-state | [PHY],[DIG],[REL] | Zipper-state here is the maintenance and audit record used to judge whether a zipper can still perform its boundary function over time. | Duplicate headword with Z030. Z164 is the maintenance/audit role rather than immediate position.
+Z165 | zinc-state | [PHY],[BIO],[DIG] | Zinc-state is the current chemical, physical, and protective condition of zinc in a material or biological context. | unique source headword
+Z166 | zoo-field | [BIO],[REL],[PHY] | A zoo-field is the total coupled environment of animals, enclosures, staff, visitors, care systems, institutional rules, and external ecology around a zoo. | unique source headword
+Z167 | zenith-state | [PHY],[COG],[MYT] | Zenith-state is the condition of a system while its selected measure is at or near the declared maximum. | unique source headword
+Z168 | zygote-state | [BIO],[REL],[FOR] | Zygote-state is the current biological condition of a zygote, including cell integrity, genomic status, division progress, environment, and viability indicators. | unique source headword
+Z169 | z-axis-field | [PHY],[DIG],[FOR] | A z-axis-field is a spatial or formal field organized around variation along the z reference dimension. | unique source headword
+Z170 | z-coordinate-field | [FOR],[DIG],[PHY] | A z-coordinate-field is the collection and relation of z-coordinate values assigned to many points in one three-dimensional frame. | unique source headword
+Z171 | zero-gate | [FOR],[DIG],[REL] | A zero-gate is the rule and decision point that classifies an input as zero, nonzero, or unresolved in a specified domain. | unique source headword
+Z172 | zero-integrity | [FOR],[PHY],[REL],[DIG] | Zero-integrity is the reliability of a zero value or state as an honest representation of the field it claims to describe. | unique source headword
+Z173 | zero-risk | [REL],[DIG],[COG] | Zero-risk here is the danger created when zero language, zero defaults, or zero measurements are misread as nothing, harmlessness, permission, or erasure. | Duplicate headword with Z024. Z173 names zero-misinterpretation risk.
+Z174 | zero-not-erasure | [DIG],[REL],[FOR] | Zero-not-erasure is the rule that a current zero count or inactive state does not by itself prove prior structure, record, potential, or identity has been destroyed. | unique source headword
+Z175 | zero-not-nothing-error | [FOR],[DIG],[REL] | Zero-not-nothing-error is the reasoning failure that treats a zero value as total absence when the domain assigns zero another role. | unique source headword
+Z176 | zero-refusal-error | [REL],[DIG],[COG] | Zero-refusal-error is the permission failure in which a refusal signal is recorded as zero noise, empty response, default state, or no objection. | unique source headword
+Z177 | zone-gate | [PHY],[REL],[DIG] | A zone-gate is the controlled crossing point at which a subject or signal enters, exits, or changes status relative to a zone. | unique source headword
+Z178 | zone-integrity | [PHY],[REL],[DIG] | Zone-integrity is the coherence between a zone's declared boundary, actual contents, active rules, and observable effects. | unique source headword
+Z179 | zoom-integrity | [DIG],[COG],[REL] | Zoom-integrity is the preservation of source, scale, resolution, context, and inference limits while a field is viewed across magnifications. | unique source headword
+Z180 | z-final-seal | [LIN],[DIG],[REL],[MYT] | Z-final-seal is the explicit closing marker that ends the Z production run while preserving its records, unresolved seams, and return path. | unique source headword

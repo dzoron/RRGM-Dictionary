@@ -1,0 +1,487 @@
+RRGM Dictionary K - Biological Domain Addon
+Version 0.4 | July 2026
+License: CC BY-SA 4.0
+Scope: New [BIO] vocabulary not present in the K base list.
+Rule: Every invariant, domain line, and count condition must retain the individual term's semantic fingerprint.
+
+Entry count: 24
+
+KI001 kelp
+
+Common meaning:
+A large brown alga forming marine growths or forests.
+
+Invariant MI [INV]:
+Kelp is a multicellular brown alga whose holdfast, stipe, and blades support rapid growth in coastal water.
+
+Domain entry:
+[BIO] Kelp converts light and dissolved nutrients into tissue while creating habitat and altering local water movement.
+
+Count condition:
+Counts when the organism is identified as kelp and the claimed trait fits its species, life stage, and marine conditions.
+
+Transfer limit:
+Kelp is algae, not a vascular land plant.
+
+Epistemic status:
+[DEF]
+
+KI002 kelp-forest
+
+Common meaning:
+A dense marine ecosystem structured by large kelp.
+
+Invariant MI [INV]:
+Kelp-forest is a coastal biological field in which kelp provides three-dimensional habitat, food, shelter, and flow structure.
+
+Domain entry:
+[BIO] Fish, invertebrates, microbes, predators, grazers, and drifting material couple through the kelp canopy and seafloor.
+
+Count condition:
+Counts when persistent kelp stands materially organize the local ecological community.
+
+Transfer limit:
+A few detached blades do not constitute a kelp forest.
+
+Epistemic status:
+[DEF]
+
+KI003 keratin
+
+Common meaning:
+A family of fibrous structural proteins in epithelial tissues.
+
+Invariant MI [INV]:
+Keratin is a durable protein structure supporting hair, nails, skin, feathers, horns, and related tissues.
+
+Domain entry:
+[BIO] Keratin filaments resist mechanical stress and differ by tissue, species, and developmental program.
+
+Count condition:
+Counts when the protein is identified in the relevant tissue or molecular record.
+
+Transfer limit:
+Keratinized tissues are not biologically identical merely because they share keratin.
+
+Epistemic status:
+[DEF]
+
+KI004 keratinocyte
+
+Common meaning:
+A major cell type of the epidermis that produces keratin.
+
+Invariant MI [INV]:
+Keratinocyte is an epithelial cell whose differentiation helps build and renew the skin barrier.
+
+Domain entry:
+[BIO] Keratinocytes divide in deeper epidermal layers, move outward, change structure, and contribute to the protective surface.
+
+Count condition:
+Counts when the cell is identified by epidermal position, morphology, markers, or lineage.
+
+Transfer limit:
+A mature surface corneocyte is a later state, not every keratinocyte state.
+
+Epistemic status:
+[DEF]
+
+KI005 keratin-layer
+
+Common meaning:
+A protective tissue layer rich in keratinized cells or material.
+
+Invariant MI [INV]:
+Keratin-layer is biological boundary ES formed by keratin-rich structures against friction, water loss, or exposure.
+
+Domain entry:
+[BIO] Its thickness, turnover, and permeability depend on body location, species, and environmental load.
+
+Count condition:
+Counts when keratinized material forms a continuous protective interface with measurable barrier function.
+
+Transfer limit:
+Thicker keratin is not automatically healthier or better.
+
+Epistemic status:
+[DEF]
+
+KI006 kidney
+
+Common meaning:
+A paired organ that regulates blood chemistry and produces urine.
+
+Invariant MI [INV]:
+Kidney is a biological regulation organ coupling filtration, reabsorption, secretion, endocrine signalling, and fluid balance.
+
+Domain entry:
+[BIO] Nephrons process plasma-derived filtrate while kidney tissues help regulate electrolytes, acid-base state, pressure, and waste removal.
+
+Count condition:
+Counts when the organ or tissue is identified and the claimed function is tied to renal structure.
+
+Transfer limit:
+Kidney function cannot be reduced to passive filtering alone.
+
+Epistemic status:
+[DEF]
+
+KI007 kidney-cortex
+
+Common meaning:
+The outer region of a kidney containing many renal corpuscles and tubules.
+
+Invariant MI [INV]:
+Kidney-cortex is the renal region where filtration units and major portions of tubular processing are densely located.
+
+Domain entry:
+[BIO] Blood flow, glomeruli, and cortical tubules couple to begin and modify urine formation.
+
+Count condition:
+Counts when the tissue is anatomically located in the renal cortex and distinguished from medulla or capsule.
+
+Transfer limit:
+Cortex location does not mean every renal process occurs only there.
+
+Epistemic status:
+[DEF]
+
+KI008 kidney-medulla
+
+Common meaning:
+The inner kidney region containing loops of Henle and collecting structures.
+
+Invariant MI [INV]:
+Kidney-medulla is the renal region whose arranged tubules and osmotic gradients support urine concentration.
+
+Domain entry:
+[BIO] Countercurrent structure, blood supply, and collecting ducts shape water and solute recovery through the medulla.
+
+Count condition:
+Counts when the tissue lies within the renal medullary pyramids or related inner region.
+
+Transfer limit:
+The medulla does not independently determine whole-body hydration.
+
+Epistemic status:
+[DEF]
+
+KI009 kidney-filter
+
+Common meaning:
+The filtration barrier that begins separation of fluid from blood in the renal corpuscle.
+
+Invariant MI [INV]:
+Kidney-filter is a selective biological interface formed by capillary, basement membrane, and podocyte structures.
+
+Domain entry:
+[BIO] Water and small solutes cross more readily than cells and many large proteins under normal barrier conditions.
+
+Count condition:
+Counts when the glomerular filtration barrier and its selective passage are the active structure.
+
+Transfer limit:
+Filtration is only the first stage of renal processing, not final urine composition.
+
+Epistemic status:
+[DEF]
+
+KI010 kinase
+
+Common meaning:
+An enzyme that transfers a phosphate group to a target molecule.
+
+Invariant MI [INV]:
+Kinase is a catalytic protein whose substrate recognition and phosphate transfer change target activity, location, or interaction.
+
+Domain entry:
+[BIO] Kinases couple chemical energy and signalling by modifying specific proteins or other molecules.
+
+Count condition:
+Counts when an enzyme catalyses phosphorylation of a declared substrate under supported conditions.
+
+Transfer limit:
+The name kinase does not imply one substrate, pathway, or biological effect.
+
+Epistemic status:
+[DEF]
+
+KI011 kinase-signal
+
+Common meaning:
+A biological signal carried through regulated kinase activity.
+
+Invariant MI [INV]:
+Kinase-signal is state change propagated by ordered phosphorylation and dephosphorylation events.
+
+Domain entry:
+[BIO] Receptors, scaffolds, substrates, phosphatases, and feedback determine where the signal travels and how long it persists.
+
+Count condition:
+Counts when kinase activity causally changes downstream molecular state in a measured pathway.
+
+Transfer limit:
+Phosphorylation correlation alone does not establish the full signalling route.
+
+Epistemic status:
+[DEF]
+
+KI012 karyotype
+
+Common meaning:
+The chromosome complement of a cell or organism arranged for description.
+
+Invariant MI [INV]:
+Karyotype is a chromosome-level record of number, size, shape, and major structural pattern.
+
+Domain entry:
+[BIO] It is produced from dividing cells or genomic methods and interpreted relative to species, cell type, and mosaic state.
+
+Count condition:
+Counts when chromosomes are identified and organized under a declared karyotyping method.
+
+Transfer limit:
+A karyotype does not reveal every gene sequence or functional trait.
+
+Epistemic status:
+[DEF]
+
+KI013 karyotype-variation
+
+Common meaning:
+Difference in chromosome number or large-scale structure among cells or organisms.
+
+Invariant MI [INV]:
+Karyotype-variation is chromosome-level divergence that may be inherited, developmental, mosaic, or disease-associated.
+
+Domain entry:
+[BIO] Gains, losses, rearrangements, and population differences alter the visible chromosome record.
+
+Count condition:
+Counts when the variation is demonstrated relative to a declared reference karyotype.
+
+Transfer limit:
+Visible variation does not determine its clinical or evolutionary meaning by itself.
+
+Epistemic status:
+[DEF]
+
+KI014 kinetochore
+
+Common meaning:
+A protein complex assembled at a chromosome centromere during cell division.
+
+Invariant MI [INV]:
+Kinetochore is the chromosome interface that binds spindle microtubules and coordinates segregation.
+
+Domain entry:
+[BIO] Attachment, tension sensing, checkpoint signalling, and force transfer allow duplicated chromosomes to separate accurately.
+
+Count condition:
+Counts when the centromere-associated complex and its spindle interaction are identified.
+
+Transfer limit:
+The kinetochore is not the centromere DNA itself.
+
+Epistemic status:
+[DEF]
+
+KI015 kinetochore-fiber
+
+Common meaning:
+A spindle microtubule bundle attached to a kinetochore.
+
+Invariant MI [INV]:
+Kinetochore-fiber is the force-carrying connection between chromosome kinetochore and spindle pole region.
+
+Domain entry:
+[BIO] Changes in microtubule length and attachment transmit motion and tension during chromosome segregation.
+
+Count condition:
+Counts when microtubules are shown to connect a kinetochore to the spindle apparatus.
+
+Transfer limit:
+Not every spindle microtubule is a kinetochore fiber.
+
+Epistemic status:
+[DEF]
+
+KI016 killer-T-cell
+
+Common meaning:
+A cytotoxic T lymphocyte able to kill recognized target cells.
+
+Invariant MI [INV]:
+Killer-T-cell is an adaptive immune cell that couples antigen recognition to controlled destruction of a target cell.
+
+Domain entry:
+[BIO] T-cell receptor recognition, co-signals, adhesion, and cytotoxic granules or death pathways determine the response.
+
+Count condition:
+Counts when a cytotoxic T-cell recognizes a target through supported antigen-specific mechanisms and triggers target-cell death.
+
+Transfer limit:
+Immune killing is recognition-dependent and should not be described as indiscriminate aggression.
+
+Epistemic status:
+[DEF]
+
+KI017 ketone-body
+
+Common meaning:
+A small fuel molecule produced mainly by the liver during increased fat use.
+
+Invariant MI [INV]:
+Ketone-body is a circulating metabolic courier made from fatty-acid-derived acetyl units under low carbohydrate availability or other conditions.
+
+Domain entry:
+[BIO] Acetoacetate and beta-hydroxybutyrate can supply energy to tissues, while acetone is largely a by-product.
+
+Count condition:
+Counts when the molecule is identified as a ketone body and its production or use is measured in context.
+
+Transfer limit:
+Physiological ketosis and dangerous ketoacidosis are not the same state.
+
+Epistemic status:
+[DEF]
+
+KI018 ketosis
+
+Common meaning:
+A metabolic state with increased production and use of ketone bodies.
+
+Invariant MI [INV]:
+Ketosis is a fuel-state transition in which fat-derived ketone availability rises relative to ordinary carbohydrate-dominant conditions.
+
+Domain entry:
+[BIO] Hormones, liver metabolism, diet, fasting, disease, and energy demand shape the degree and consequence of ketosis.
+
+Count condition:
+Counts when ketone production or concentration exceeds a declared physiological baseline.
+
+Transfer limit:
+Ketosis alone does not specify cause, benefit, or clinical safety.
+
+Epistemic status:
+[DEF]
+
+KI019 Krebs-cycle
+
+Common meaning:
+A central metabolic cycle that oxidizes acetyl groups and transfers energy to carriers.
+
+Invariant MI [INV]:
+Krebs-cycle is a repeating biochemical pathway coupling carbon oxidation to reduced electron carriers and precursor production.
+
+Domain entry:
+[BIO] Enzymes in the mitochondrial matrix or analogous prokaryotic space regenerate the cycle acceptor while releasing carbon dioxide.
+
+Count condition:
+Counts when the linked reactions and regeneration of the cycle intermediate are active in the organism or preparation.
+
+Transfer limit:
+The cycle is one part of metabolism and does not by itself equal total cellular respiration.
+
+Epistemic status:
+[DEF]
+
+KI020 krill
+
+Common meaning:
+Small shrimp-like crustaceans forming major links in marine food webs.
+
+Invariant MI [INV]:
+Krill are planktonic crustaceans whose schooling, grazing, and biomass transfer energy from small producers to larger animals.
+
+Domain entry:
+[BIO] Species differ in habitat, life cycle, migration, ice relation, and ecological role.
+
+Count condition:
+Counts when the organism is identified as krill and ecological claims fit the species and region.
+
+Transfer limit:
+Krill are not one globally uniform biological population.
+
+Epistemic status:
+[DEF]
+
+KI021 kiwi-bird
+
+Common meaning:
+A flightless nocturnal bird native to New Zealand.
+
+Invariant MI [INV]:
+Kiwi-bird is a ground-dwelling bird with reduced wings, strong legs, hair-like feathers, and sensory adaptations for nocturnal foraging.
+
+Domain entry:
+[BIO] Species differ in range, size, call, nesting, and conservation condition while sharing the kiwi lineage.
+
+Count condition:
+Counts when the organism is identified as a kiwi species and the trait is tied to that species or population.
+
+Transfer limit:
+The bird should not be confused with kiwi fruit or with every flightless bird.
+
+Epistemic status:
+[DEF]
+
+KI022 koala
+
+Common meaning:
+An arboreal Australian marsupial specialized for a eucalyptus-based diet.
+
+Invariant MI [INV]:
+Koala is a folivorous marsupial whose digestion, sleep pattern, climbing body, and pouch development fit a narrow ecological niche.
+
+Domain entry:
+[BIO] Individuals depend on suitable tree species, habitat continuity, water balance, and population health.
+
+Count condition:
+Counts when the animal is identified as Phascolarctos cinereus and the claim is population- and habitat-aware.
+
+Transfer limit:
+Koalas are marsupials, not bears.
+
+Epistemic status:
+[DEF]
+
+KI023 kudzu
+
+Common meaning:
+A vigorous climbing vine in the genus Pueraria.
+
+Invariant MI [INV]:
+Kudzu is a fast-growing legume whose vines and roots can dominate disturbed habitats under favourable conditions.
+
+Domain entry:
+[BIO] Clonal spread, climbing growth, nitrogen relation, climate, and land disturbance shape its ecological impact.
+
+Count condition:
+Counts when the plant is identified as kudzu and the growth claim fits the local species and conditions.
+
+Transfer limit:
+Rapid growth in one region does not define its behaviour in every habitat.
+
+Epistemic status:
+[DEF]
+
+KI024 knotweed
+
+Common meaning:
+A common name for several plants, including invasive Fallopia species.
+
+Invariant MI [INV]:
+Knotweed is a plant label that requires species-level identification before biological or management claims can count.
+
+Domain entry:
+[BIO] Rhizome persistence, stem growth, reproduction, and habitat impact differ among knotweed taxa.
+
+Count condition:
+Counts when the plant is identified beyond the common name and the claimed trait fits that taxon.
+
+Transfer limit:
+The common name alone should not collapse distinct species into one biology.
+
+Epistemic status:
+[DEF]

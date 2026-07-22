@@ -1,0 +1,487 @@
+RRGM Dictionary J - Biological Domain Addon
+Version 0.4 | July 2026
+License: CC BY-SA 4.0
+Scope: New [BIO] vocabulary not present in the J base list.
+Rule: Every invariant, domain line, and count condition must retain the individual term's semantic fingerprint.
+
+Entry count: 24
+
+JI001 jaguar
+
+Common meaning:
+A large spotted cat native to the Americas.
+
+Invariant MI [INV]:
+Jaguar is a powerful ambush predator whose body, bite, habitat use, and prey relations distinguish it from other big cats.
+
+Domain entry:
+[BIO] Jaguars use cover, water, territory, and strong cranial mechanics across varied forest and wetland habitats.
+
+Count condition:
+Counts when the animal is identified as Panthera onca and the claim fits its population and ecology.
+
+Transfer limit:
+A spotted coat alone does not establish jaguar identity.
+
+Epistemic status:
+[DEF]
+
+JI002 jackrabbit
+
+Common meaning:
+A long-eared hare native to North America.
+
+Invariant MI [INV]:
+Jackrabbit is a hare adapted for exposed habitats through speed, large ears, long limbs, and precocial young.
+
+Domain entry:
+[BIO] Species differ in range, colour, thermal regulation, diet, and reproductive timing.
+
+Count condition:
+Counts when the animal is identified as a Lepus species commonly called jackrabbit.
+
+Transfer limit:
+Jackrabbits are hares, not true rabbits.
+
+Epistemic status:
+[DEF]
+
+JI003 jellyfish
+
+Common meaning:
+A free-swimming gelatinous cnidarian medusa.
+
+Invariant MI [INV]:
+Jellyfish is a radially organized aquatic animal whose bell motion, tentacles, and stinging cells support movement and feeding.
+
+Domain entry:
+[BIO] Species vary widely in size, life cycle, venom, habitat, and whether a medusa stage is present.
+
+Count condition:
+Counts when the organism is identified within the relevant cnidarian group and life stage.
+
+Transfer limit:
+Jellyfish is a broad common name, not one uniform species.
+
+Epistemic status:
+[DEF]
+
+JI004 jellyfish-polyp
+
+Common meaning:
+The attached benthic stage in many jellyfish life cycles.
+
+Invariant MI [INV]:
+Jellyfish-polyp is a small sessile cnidarian stage that feeds, grows, and may reproduce asexually before producing medusae.
+
+Domain entry:
+[BIO] Attachment surface, temperature, food, and species-specific development shape its persistence and release cycles.
+
+Count condition:
+Counts when the organism is in the attached polyp state of a jellyfish life history.
+
+Transfer limit:
+A polyp and medusa are different expressions of one life cycle, not separate species by default.
+
+Epistemic status:
+[DEF]
+
+JI005 jellyfish-medusa
+
+Common meaning:
+The mobile bell-shaped reproductive stage of many jellyfish.
+
+Invariant MI [INV]:
+Jellyfish-medusa is the free-swimming cnidarian form specialized for dispersal, feeding, and sexual reproduction.
+
+Domain entry:
+[BIO] Bell contraction moves water while tentacles and oral structures capture and process prey.
+
+Count condition:
+Counts when the organism expresses the medusa body plan in a species that has that stage.
+
+Transfer limit:
+Not every cnidarian produces a conspicuous medusa.
+
+Epistemic status:
+[DEF]
+
+JI006 jejunum
+
+Common meaning:
+The middle region of the small intestine between duodenum and ileum.
+
+Invariant MI [INV]:
+Jejunum is a digestive and absorptive intestinal segment with folded mucosa and abundant villi.
+
+Domain entry:
+[BIO] Motility, enzymes, transporters, blood vessels, lymphatics, and microbial exposure shape nutrient and fluid uptake.
+
+Count condition:
+Counts when the tissue is anatomically located and identified as jejunum.
+
+Transfer limit:
+Jejunum function overlaps other intestinal regions and is not an isolated digestion chamber.
+
+Epistemic status:
+[DEF]
+
+JI007 joint-cartilage
+
+Common meaning:
+Smooth cartilage covering articulating bone surfaces in many joints.
+
+Invariant MI [INV]:
+Joint-cartilage is low-friction load-distributing tissue that protects underlying bone during movement.
+
+Domain entry:
+[BIO] Matrix composition, water, chondrocytes, loading, age, and injury shape its resilience and repair limits.
+
+Count condition:
+Counts when hyaline articular cartilage is identified on a joint surface.
+
+Transfer limit:
+Cartilage damage cannot be inferred from pain alone.
+
+Epistemic status:
+[DEF]
+
+JI008 joint-capsule
+
+Common meaning:
+A connective-tissue envelope surrounding a synovial joint.
+
+Invariant MI [INV]:
+Joint-capsule is a boundary structure that contains the joint space while permitting constrained motion.
+
+Domain entry:
+[BIO] Fibrous tissue and synovial lining couple stability, fluid production, sensory feedback, and inflammation response.
+
+Count condition:
+Counts when the enclosing capsule is anatomically continuous around the relevant joint.
+
+Transfer limit:
+The capsule is not the same structure as a ligament or tendon.
+
+Epistemic status:
+[DEF]
+
+JI009 joint-fluid
+
+Common meaning:
+Synovial fluid within a synovial joint.
+
+Invariant MI [INV]:
+Joint-fluid is a lubricating and nutrient-carrying liquid supporting low-friction cartilage motion.
+
+Domain entry:
+[BIO] Its volume, viscosity, cells, proteins, and debris change with load, injury, infection, or inflammation.
+
+Count condition:
+Counts when fluid is identified within the synovial joint space.
+
+Transfer limit:
+More fluid does not automatically mean better lubrication or joint health.
+
+Epistemic status:
+[DEF]
+
+JI010 joint-ligament
+
+Common meaning:
+A ligament stabilizing or guiding a joint.
+
+Invariant MI [INV]:
+Joint-ligament is dense connective tissue that limits, directs, or senses relative bone motion.
+
+Domain entry:
+[BIO] Fibre orientation and attachment turn tensile load into joint stability across a specific movement range.
+
+Count condition:
+Counts when the tissue connects bones across a joint and its stabilizing role is demonstrated.
+
+Transfer limit:
+A ligament is not a muscle and does not actively contract to move the joint.
+
+Epistemic status:
+[DEF]
+
+JI011 joint-inflammation
+
+Common meaning:
+Inflammatory activity affecting a joint and surrounding tissues.
+
+Invariant MI [INV]:
+Joint-inflammation is an immune and tissue response that changes pain, heat, swelling, fluid, and movement.
+
+Domain entry:
+[BIO] Cause may include injury, infection, autoimmunity, crystals, wear, or other processes that require separate identification.
+
+Count condition:
+Counts when inflammatory signs or measurements are localized to the joint field.
+
+Transfer limit:
+Joint pain alone does not establish inflammation or its cause.
+
+Epistemic status:
+[DEF]
+
+JI012 jugular-vein
+
+Common meaning:
+A major vein carrying blood from head and neck toward the heart.
+
+Invariant MI [INV]:
+Jugular-vein is a low-pressure vascular return path whose size and flow reflect position, breathing, pressure, and circulation.
+
+Domain entry:
+[BIO] Internal and external jugular veins drain different territories and have different clinical uses.
+
+Count condition:
+Counts when the vessel is anatomically identified and the claim specifies which jugular vein.
+
+Transfer limit:
+Visible neck pulsation should not be interpreted without distinguishing venous from arterial signals.
+
+Epistemic status:
+[DEF]
+
+JI013 juxtaglomerular-cell
+
+Common meaning:
+A specialized kidney cell involved in renin release.
+
+Invariant MI [INV]:
+Juxtaglomerular-cell is a modified vascular smooth-muscle cell coupling renal perfusion and signalling to renin secretion.
+
+Domain entry:
+[BIO] Pressure, sympathetic input, and signals from nearby nephron structures alter its endocrine response.
+
+Count condition:
+Counts when the cell is identified near the glomerular afferent arteriole with supported renin-related function.
+
+Transfer limit:
+The cell participates in regulation but does not alone control blood pressure.
+
+Epistemic status:
+[DEF]
+
+JI014 juvenile-stage
+
+Common meaning:
+An organismal stage after early development but before full adult maturity.
+
+Invariant MI [INV]:
+Juvenile-stage is a developmental interval with species-specific growth, dependence, learning, and reproductive limits.
+
+Domain entry:
+[BIO] Body form, behaviour, habitat, and vulnerability may differ sharply from both larval and adult states.
+
+Count condition:
+Counts when age or developmental markers place the organism in the declared juvenile interval.
+
+Transfer limit:
+Juvenile is not a universal fixed age across species.
+
+Epistemic status:
+[DEF]
+
+JI015 juvenile-hormone
+
+Common meaning:
+An insect hormone regulating development and reproduction.
+
+Invariant MI [INV]:
+Juvenile-hormone is an endocrine signal whose level and timing help determine whether insect molts preserve juvenile features or progress toward adult form.
+
+Domain entry:
+[BIO] Its effects depend on species, tissue, developmental stage, and interaction with other hormones.
+
+Count condition:
+Counts when the hormone or its signalling activity is demonstrated in the insect system.
+
+Transfer limit:
+The name does not mean it is present only in juveniles or has one effect.
+
+Epistemic status:
+[DEF]
+
+JI016 jumping-gene
+
+Common meaning:
+A mobile genetic element able to change position or copy within a genome.
+
+Invariant MI [INV]:
+Jumping-gene is DNA whose mobility changes genomic location, copy number, regulation, or structure.
+
+Domain entry:
+[BIO] Transposases, reverse transcription, repair, and host suppression determine movement and consequence.
+
+Count condition:
+Counts when a transposable element and its movement or insertion record are identified.
+
+Transfer limit:
+Mobility does not mean random movement at every moment or inevitable harm.
+
+Epistemic status:
+[DEF]
+
+JI017 jaw-muscle
+
+Common meaning:
+A muscle producing or controlling jaw movement.
+
+Invariant MI [INV]:
+Jaw-muscle is contractile tissue that converts neural activation into biting, chewing, swallowing support, or jaw positioning.
+
+Domain entry:
+[BIO] Different muscles generate elevation, depression, protrusion, retraction, and side movement.
+
+Count condition:
+Counts when the muscle, attachment, activation, and jaw effect are anatomically supported.
+
+Transfer limit:
+Jaw force cannot be inferred from muscle size alone.
+
+Epistemic status:
+[DEF]
+
+JI018 jaw-joint
+
+Common meaning:
+The articulating connection that permits jaw movement.
+
+Invariant MI [INV]:
+Jaw-joint is a load-bearing biological interface coupling skull and jaw under constrained motion.
+
+Domain entry:
+[BIO] In humans, the temporomandibular joint combines rotation, translation, disc mechanics, and muscular control.
+
+Count condition:
+Counts when the joint surfaces and their motion are identified in the relevant species.
+
+Transfer limit:
+Jaw joints differ substantially across animal lineages.
+
+Epistemic status:
+[DEF]
+
+JI019 jasmine
+
+Common meaning:
+A group of flowering plants in the genus Jasminum.
+
+Invariant MI [INV]:
+Jasmine is a woody or climbing flowering plant whose species differ in scent, form, pollination, and cultivation.
+
+Domain entry:
+[BIO] Flowers, leaves, stems, roots, climate, and reproductive cycle determine the living plant’s expression.
+
+Count condition:
+Counts when the plant is identified as a Jasminum species and the claim fits that species.
+
+Transfer limit:
+Fragrant products called jasmine may contain extracts, blends, or unrelated plants.
+
+Epistemic status:
+[DEF]
+
+JI020 juniper
+
+Common meaning:
+A coniferous plant in the genus Juniperus.
+
+Invariant MI [INV]:
+Juniper is a woody gymnosperm whose scale- or needle-like leaves and fleshy seed cones support diverse dry, cold, or rocky habitats.
+
+Domain entry:
+[BIO] Species differ in growth form, chemistry, sex expression, range, and ecological role.
+
+Count condition:
+Counts when the plant is identified as Juniperus and the trait is species-aware.
+
+Transfer limit:
+The berry-like cone is not a true botanical berry.
+
+Epistemic status:
+[DEF]
+
+JI021 juniper-cone
+
+Common meaning:
+The fleshy seed cone commonly called a juniper berry.
+
+Invariant MI [INV]:
+Juniper-cone is a reproductive structure formed from fused cone scales around seeds.
+
+Domain entry:
+[BIO] Colour, maturation time, chemistry, and seed number vary among juniper species.
+
+Count condition:
+Counts when the structure is attached to or derived from a verified Juniperus plant.
+
+Transfer limit:
+Culinary use does not make every juniper cone safe or equivalent.
+
+Epistemic status:
+[DEF]
+
+JI022 J-chain
+
+Common meaning:
+A small polypeptide that helps assemble certain antibody forms.
+
+Invariant MI [INV]:
+J-chain is an immune protein that supports polymeric IgA and IgM assembly and transport-related interactions.
+
+Domain entry:
+[BIO] Its expression couples antibody-producing cells to multimer formation and mucosal transport mechanisms.
+
+Count condition:
+Counts when the polypeptide and its association with the relevant immunoglobulin complex are demonstrated.
+
+Transfer limit:
+J-chain is not the antibody antigen-binding region.
+
+Epistemic status:
+[DEF]
+
+JI023 Johnston-organ
+
+Common meaning:
+A sensory organ in the second antennal segment of insects.
+
+Invariant MI [INV]:
+Johnston-organ is a mechanosensory structure detecting movement of one antennal segment relative to another.
+
+Domain entry:
+[BIO] Specialized sensory units can contribute to hearing, airflow, gravity, flight, or movement detection depending on the insect.
+
+Count condition:
+Counts when the organ is anatomically identified and the claimed sensory role is species-supported.
+
+Transfer limit:
+Its function should not be assumed identical across all insects.
+
+Epistemic status:
+[DEF]
+
+JI024 Japanese-knotweed
+
+Common meaning:
+A perennial plant widely known for vigorous rhizome spread outside parts of its native range.
+
+Invariant MI [INV]:
+Japanese-knotweed is Reynoutria japonica, a clonal plant whose rhizomes and shoots can persist through disturbance.
+
+Domain entry:
+[BIO] Growth, reproduction, ecological effect, and control response depend on climate, habitat, and management history.
+
+Count condition:
+Counts when the plant is identified as R. japonica rather than another knotweed.
+
+Transfer limit:
+The common name should not be used as a label for every large knotweed.
+
+Epistemic status:
+[DEF]

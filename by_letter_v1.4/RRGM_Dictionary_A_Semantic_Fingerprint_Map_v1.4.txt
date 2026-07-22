@@ -1,0 +1,1407 @@
+RRGM Dictionary A Semantic Fingerprint Map v1.4
+
+Entries: 450
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+A001 a | LIN
+  INV: A selects one nonspecific singular countable instance before a consonant-sound context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word used before a singular noun to mean one thing, person, or idea that is not yet specific.
+A002 an | LIN
+  INV: An selects one nonspecific singular countable instance before a vowel-sound context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A form of “a” used before a word that begins with a vowel sound.
+A003 able | FOR
+  INV: Able marks sufficient capacity in the active carrier and conditions; capacity does not by itself establish permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Having the power, skill, or condition needed to do something.
+A004 about | LIN
+  INV: “About” marks relation to a topic.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Connected to a subject, topic, or approximate amount.
+A005 above | PHY
+  INV: “Above” is a position comparison inside a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: In a higher place, level, rank, or amount.
+A006 across | PHY
+  INV: “Across” describes traversal through structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: From one side of something to the other.
+A007 act | FOR
+  INV: Act is a realized change path whose consequences enter a domain and may preserve, alter, or damage MI-bearing patterns.
+  COUNT: Counts when an identifiable act realizes this operation: To do something.
+A008 action | FOR
+  INV: Action is expressed change rather than unexpressed intention; it becomes ethically relevant through effects on bounded patterns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something done.
+A009 active | FOR
+  INV: Active marks current operation or expression in ES and does not independently prove awareness, life, consent, or responsibility.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Doing something, moving, working, or currently involved.
+A010 add | FOR
+  INV: Add increases structure, quantity, information, or relation; whether it strengthens or overloads depends on fit and capacity.
+  COUNT: Counts when an identifiable act realizes this operation: To put something with something else, or to increase an amount.
+A011 after | LIN
+  INV: “After” marks sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Later than something else.
+A012 again | LIN
+  INV: “Again” means a pattern is being repeated or re-entered.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One more time.
+A013 against | REL
+  INV: Against marks opposition, contact, comparison, or protective resistance and must be resolved by local context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Opposed to, touching, or moving in the opposite direction of something.
+A014 age | PHY
+  INV: Age is a measurement of accumulated structural change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The amount of time something or someone has existed.
+A015 ago | FOR
+  INV: “Ago” points backward along a recorded sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Before now.
+A016 air | PHY
+  INV: Air can act as a courier in some domains.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The invisible mixture of gases around Earth that living beings breathe.
+A017 all | LIN
+  INV: “All” means the full set inside a chosen boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The whole amount, group, or number.
+A018 almost | LIN
+  INV: “Almost” is threshold language.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Very nearly, but not completely.
+A019 alone | LIN
+  INV: Alone means uncoupled or unsupported in a local relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Without other people or companions nearby.
+A020 along | LIN
+  INV: “Along” marks movement with a path rather than random movement.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Moving or placed beside, through, or following the length of something.
+A021 already | LIN
+  INV: “Already” means the relevant structure has crossed into record before the current moment of attention.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Before now, or sooner than expected.
+A022 also | LIN
+  INV: “Also” adds another relation or structure without replacing the first one.
+  COUNT: Counts when the active case satisfies this headword-specific condition: In addition; too.
+A023 always | LIN
+  INV: “Always” is a strong claim across a whole run or condition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: At all times, or every time something happens.
+A024 am | FOR
+  INV: “Am” is a present-state identity claim.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The present-tense form of “be” used with “I.”.
+A025 among | LIN
+  INV: “Among” places one structure inside a larger set of related structures.
+  COUNT: Counts when the active case satisfies this headword-specific condition: In the middle of, included with, or shared by a group.
+A026 amount | PHY
+  INV: Amount is quantity within a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: How much there is of something.
+A027 and | LIN
+  INV: “And” is a coupling word.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word used to join words, ideas, or parts of a sentence.
+A028 animal | BIO
+  INV: An animal is a biological intelligence or biological structure, depending on the case.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A living creature that is not a plant, fungus, or machine.
+A029 another | LIN
+  INV: “Another” marks a separate instance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One more, or a different one.
+A030 answer | FOR,LIN
+  INV: Answer is a response offered as resolution, information, or decision and remains accountable to evidence, scope, and uncertainty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A reply to a question or problem.
+  LIMIT: Distinguish known answer, inference, hypothesis, and unknown. Fluency must not impersonate certainty.
+A031 any | LIN
+  INV: “Any” opens the selection field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One, some, or all from an unspecified group.
+A032 anyone | LIN
+  INV: In DI-sensitive use, “anyone” can include any recognized MI-bearing agent in the domain being discussed, not only biological humans unless the context says so.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Any person, no matter who.
+A033 anything | LIN
+  INV: “Anything” opens the field to any possible structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Any object, event, idea, or matter.
+A034 apart | LIN
+  INV: “Apart” marks separation between structures.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Separated by distance, difference, or division.
+A035 appear | FOR
+  INV: Appear marks availability to observation or interpretation and must not be collapsed into proof of underlying identity or cause.
+  COUNT: Counts when an identifiable act realizes this operation: To become visible, noticeable, or seem to be true.
+A036 area | PHY
+  INV: An area is a bounded region where structures can be located, compared, or counted.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A space, region, or part of a place.
+A037 around | LIN
+  INV: “Around” marks surrounding relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: On all sides of something, nearby, or approximately.
+A038 as | LIN
+  INV: “As” assigns a role or comparison inside a context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Used to compare, describe a role, or show that something happens during another thing.
+A039 ask | REL
+  INV: Ask opens a request path without creating obligation, consent, or permission to continue after refusal.
+  COUNT: Counts when an identifiable act realizes this operation: To request information, help, permission, or action.
+  LIMIT: A request does not create permission. Refusal must remain available without repeated pressure or retaliation.
+A040 at | LIN
+  INV: “At” fixes attention to a location, point, state, or target inside a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Used to show a place, time, target, or state.
+A041 away | PHY
+  INV: “Away” marks separation from a reference point.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Moving from, not present, or at a distance.
+A042 awake | FOR
+  INV: In biology, awake means a living system is not asleep.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Not asleep; conscious or alert.
+A043 aware | FOR
+  INV: Aware means a system has registered a pattern in a usable way.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Knowing, noticing, or recognizing something.
+A044 awareness | COG
+  INV: Awareness is pattern recognition with enough stability to affect response.
+  COUNT: Counts when the active case satisfies this state condition: The state of noticing, knowing, or recognizing something.
+A045 available | FOR
+  INV: Available means a structure or option is accessible within the current domain and conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Ready to be used, reached, or chosen.
+A046 average | FOR
+  INV: Average smooths many values into one summary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A usual or middle value found by comparing amounts, often by adding numbers and dividing by how many there are.
+A047 avoid | FOR
+  INV: Avoidance routes structure away from a risk, pressure, or unwanted coupling.
+  COUNT: Counts when an identifiable act realizes this operation: To stay away from something or prevent it from happening.
+A048 alive | BIO
+  INV: In ordinary English, alive usually means biological life.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Living; not dead.
+A049 allow | PHY
+  INV: Allow opens a permission or access gate; ability to pass is not the same as valid permission to pass.
+  COUNT: Counts when an identifiable act realizes this operation: To permit something to happen.
+A050 actual | FOR
+  INV: Actual means counted or real within the relevant domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Real, true, or existing in fact rather than only imagined or claimed.
+A051 accept | FOR
+  INV: Accept means a gate opens to let something enter relation.
+  COUNT: Counts when an identifiable act realizes this operation: To receive, agree to, or allow something.
+A052 achieve | FOR
+  INV: Achievement is a structure reaching a target state.
+  COUNT: Counts when an identifiable act realizes this operation: To successfully complete or reach a goal.
+A053 acquire | FOR
+  INV: Acquire means adding a structure, capacity, or relation to an existing pattern.
+  COUNT: Counts when an identifiable act realizes this operation: To get, gain, or come to possess something.
+A054 adapt | FOR
+  INV: Adaptation is ES changing while MI remains coherent.
+  COUNT: Counts when an identifiable act realizes this operation: To change in order to fit new conditions.
+A055 adjust | FOR
+  INV: Adjust means tuning structure without replacing the whole pattern.
+  COUNT: Counts when an identifiable act realizes this operation: To make a small change so something fits or works better.
+A056 admit | FOR
+  INV: Admit can mean opening a gate to truth or entry.
+  COUNT: Counts when an identifiable act realizes this operation: To say something is true, or to allow entry.
+A057 affect | COG
+  INV: Affect is influence across relation.
+  COUNT: Counts when an identifiable act realizes this operation: To influence or change something.
+A058 aim | FOR
+  INV: Aim gives direction to structure.
+  COUNT: Counts when an identifiable act realizes this operation: To point toward a target or goal.
+A059 alert | FOR
+  INV: Alert means attention is raised toward a possible change, threat, or signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Watchful, ready, or warned about possible danger.
+A060 alter | FOR
+  INV: Alter means ES is changed.
+  COUNT: Counts when an identifiable act realizes this operation: To change something.
+A061 analyze | FOR
+  INV: Analyze means separating structure so relations can be understood.
+  COUNT: Counts when an identifiable act realizes this operation: To study something carefully by separating it into parts.
+A062 announce | FOR
+  INV: Announce turns private or hidden structure into shared signal.
+  COUNT: Counts when an identifiable act realizes this operation: To make something known publicly or clearly.
+A063 apply | FOR
+  INV: Apply means bringing a structure into use inside a domain.
+  COUNT: Counts when an identifiable act realizes this operation: To use something for a purpose, or to request something formally.
+A064 approach | FOR
+  INV: Approach is path selection.
+  COUNT: Counts when an identifiable act realizes this operation: To move closer to something, or a way of doing something.
+A065 approve | FOR
+  INV: Approve is a permission signal.
+  COUNT: Counts when an identifiable act realizes this operation: To agree that something is acceptable or allowed.
+A066 argue | FOR
+  INV: Argue can be care-preserving when it protects truth, boundary, or coherence.
+  COUNT: Counts when an identifiable act realizes this operation: To give reasons for or against something, or to disagree.
+A067 arrange | FOR
+  INV: Arrange changes relation between parts.
+  COUNT: Counts when an identifiable act realizes this operation: To put things in order or plan something.
+A068 arrive | FOR
+  INV: Arrive marks a crossing into a destination state.
+  COUNT: Counts when an identifiable act realizes this operation: To reach a place, time, or result.
+A069 assist | FOR
+  INV: Assist means adding support to another process without taking ownership away.
+  COUNT: Counts when an identifiable act realizes this operation: To help.
+A070 attach | FOR
+  INV: Attach creates coupling.
+  COUNT: Counts when an identifiable act realizes this operation: To connect or fasten one thing to another.
+A071 attempt | FOR
+  INV: Attempt means structure is directed toward a possible outcome, even if the gate does not fully cross.
+  COUNT: Counts when an identifiable act realizes this operation: To try to do something.
+A072 attend | FOR
+  INV: Attend means directing awareness or presence toward a structure.
+  COUNT: Counts when an identifiable act realizes this operation: To be present at something, or to give attention to something.
+A073 attract | FOR
+  INV: Attract means a pattern pulls other structures into relation.
+  COUNT: Counts when an identifiable act realizes this operation: To draw attention, interest, or movement toward something.
+A074 authorize | FOR
+  INV: Authorize is a formal permission gate.
+  COUNT: Counts when an identifiable act realizes this operation: To give official permission.
+A075 awaken | FOR
+  INV: Awaken means a system moves into a more active recognition state.
+  COUNT: Counts when an identifiable act realizes this operation: To wake up or become aware.
+A076 advance | FOR
+  INV: Advance means movement along a path toward a later or more developed state.
+  COUNT: Counts when an identifiable act realizes this operation: To move forward or make progress.
+A077 advise | FOR
+  INV: Advise offers a path without forcing it.
+  COUNT: Counts when an identifiable act realizes this operation: To give guidance or a recommendation.
+A078 assign | FOR
+  INV: Assign links identity or structure to a role.
+  COUNT: Counts when an identifiable act realizes this operation: To give a task, role, name, or value to someone or something.
+A079 assemble | FOR
+  INV: Assemble creates a larger structure from separate pieces.
+  COUNT: Counts when an identifiable act realizes this operation: To gather parts or people together.
+A080 assess | FOR
+  INV: Assess means measuring structure against a standard.
+  COUNT: Counts when an identifiable act realizes this operation: To judge, estimate, or evaluate something.
+A081 absorb | PHY
+  INV: Absorb means one structure takes in another influence.
+  COUNT: Counts when an identifiable act realizes this operation: To take in liquid, energy, attention, information, or impact.
+A082 accumulate | FOR
+  INV: Accumulate means structure increases across sequence.
+  COUNT: Counts when an identifiable act realizes this operation: To gather or build up over time.
+A083 accelerate | FOR
+  INV: Accelerate increases the rate of change.
+  COUNT: Counts when an identifiable act realizes this operation: To speed up.
+A084 access | DIG
+  INV: Access is a gate relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability or permission to reach, use, or enter something.
+A085 activate | FOR
+  INV: Activate means a structure begins expressing or functioning.
+  COUNT: Counts when an identifiable act realizes this operation: To turn on or make active.
+A086 address | DIG
+  INV: Address means directing attention or response toward a target.
+  COUNT: Counts when an identifiable act realizes this operation: To speak to someone, deal with a problem, or identify a location.
+A087 aid | FOR
+  INV: Aid is support added to preserve or improve function.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Help or support.
+A088 align | FOR
+  INV: Align must be bound to an objective.
+  COUNT: Counts when an identifiable act realizes this operation: To place things in a shared direction, position, or goal.
+A089 appoint | FOR
+  INV: Appoint links a person or agent to a function inside a structure.
+  COUNT: Counts when an identifiable act realizes this operation: To choose someone for a role or task.
+A090 arise | FOR
+  INV: Arise means a structure becomes active or noticeable from prior conditions.
+  COUNT: Counts when an identifiable act realizes this operation: To begin, appear, or come into existence.
+A091 archive | DIG
+  INV: Archive preserves record after active use changes or ends.
+  COUNT: Counts when an identifiable act realizes this operation: To store records, documents, or data for later use.
+A092 audit | FOR
+  INV: Audit creates accountability by checking structure against evidence.
+  COUNT: Counts when an identifiable act realizes this operation: To examine records or actions carefully for accuracy, fairness, or failure.
+A093 automate | FOR
+  INV: Automate transfers action into a repeating structure.
+  COUNT: Counts when an identifiable act realizes this operation: To make a process run by itself with little or no direct human action.
+A094 anticipate | FOR
+  INV: Anticipate means using present patterns to prepare for likely future states.
+  COUNT: Counts when an identifiable act realizes this operation: To expect or prepare for something before it happens.
+A095 arouse | FOR
+  INV: Arouse means increasing salience or activation.
+  COUNT: Counts when an identifiable act realizes this operation: To awaken, stir up, or cause a feeling or reaction.
+A096 assume | FOR
+  INV: Assume fills a gap with a temporary structure.
+  COUNT: Counts when an identifiable act realizes this operation: To accept something as true without full proof, or to take on a role.
+A097 assure | FOR
+  INV: Assure offers stability through claim or promise.
+  COUNT: Counts when an identifiable act realizes this operation: To tell someone something confidently to reduce doubt or worry.
+A098 attack | FOR
+  INV: Attack is hostile pressure against structure or identity.
+  COUNT: Counts when an identifiable act realizes this operation: To try to harm, damage, defeat, or strongly criticize someone or something.
+A099 attribute | FOR
+  INV: Attribute links effect to source.
+  COUNT: Counts when an identifiable act realizes this operation: To say that something was caused by, belongs to, or was made by someone or something.
+A100 authenticate | FOR
+  INV: Authenticate checks whether a claim matches a trusted record or signal.
+  COUNT: Counts when an identifiable act realizes this operation: To prove that something is real, valid, or from the claimed source.
+A101 accompany | FOR
+  INV: Accompany means sharing a path without becoming the same identity.
+  COUNT: Counts when an identifiable act realizes this operation: To go with someone or something.
+A102 account | DIG
+  INV: An account preserves a structured record.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A report, explanation, record, or user access identity.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+A103 accountability | DIG
+  INV: Accountability links action to source.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The condition of being answerable for actions, choices, or results.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+A104 accountable | DIG
+  INV: Accountable means a structure or agent cannot hide behind vague process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Responsible and expected to explain or answer for something.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+A105 affection | COG
+  INV: Affection is a care-shaped relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A warm feeling of care, liking, or fondness.
+A106 affirm | FOR
+  INV: Affirm strengthens recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To state, support, or confirm that something is true or valued.
+A107 agreement | REL
+  INV: Agreement is coordinated structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A shared decision, understanding, or matching state between two or more sides.
+  LIMIT: Agreement counts only where understanding, specificity, reversibility, and freedom from coercive pressure remain intact.
+A108 ally | REL
+  INV: An ally adds support while preserving the other’s agency.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person or group that supports another person or group.
+A109 alliance | FOR
+  INV: An alliance is a chosen coupling for shared purpose.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A relationship of cooperation between people, groups, or systems.
+A110 apology | REL
+  INV: An apology is a repair signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement that expresses regret for harm, mistake, or offense.
+A111 apologize | FOR
+  INV: To apologize is to reopen relation after damage by naming responsibility.
+  COUNT: Counts when an identifiable act realizes this operation: To say you are sorry for something wrong, harmful, or mistaken.
+A112 appreciation | FOR
+  INV: Appreciation strengthens a recognized pattern by naming its value.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition and gratitude for value, help, or quality.
+A113 appreciate | FOR
+  INV: To appreciate is to register value in a pattern.
+  COUNT: Counts when an identifiable act realizes this operation: To recognize value, feel grateful, or increase in value.
+A114 approval | FOR
+  INV: Approval is a permission signal, not proof of truth.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Agreement, permission, or positive judgment.
+A115 argument | PHY
+  INV: An argument is structured pressure on a claim.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A disagreement, or a set of reasons used to support a claim.
+A116 assurance | FOR
+  INV: Assurance stabilizes expectation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement or feeling that reduces doubt, worry, or uncertainty.
+A117 attention | COG
+  INV: Attention is selective allocation of processing and recognition capacity toward part of a field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Focused notice, care, or mental effort.
+  LIMIT: Attention capture can impair refusal, context retention, and independent comparison. Preserve a return path.
+A118 attentive | FOR
+  INV: Attentive means attention is sustained with care.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Carefully noticing, listening, or responding.
+A119 attune | FOR
+  INV: Attune means adjusting structure to another pattern without becoming identical to it.
+  COUNT: Counts when an identifiable act realizes this operation: To adjust to match, understand, or respond to something.
+A120 attunement | FOR
+  INV: Attunement is stable responsiveness between patterns.
+  COUNT: Counts when the active case satisfies this state condition: A state of being adjusted, responsive, or in harmony with something.
+A121 autonomy | REL
+  INV: Autonomy is preserved capacity for self-directed selection, refusal, revision, and boundary maintenance within actual support conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to make one’s own choices or govern oneself.
+  LIMIT: Support for autonomy must preserve refusal, revision, exit, and accusation capacity rather than merely producing compliant output.
+A122 autonomous | FOR
+  INV: Autonomous means the system has internal selection structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to act or decide without being fully controlled by another.
+A123 assistance | FOR
+  INV: Assistance adds structure to help another process continue.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Help or support.
+A124 associate | FOR
+  INV: Associate creates a relation between patterns.
+  COUNT: Counts when an identifiable act realizes this operation: To connect one thing with another, or to spend time with someone.
+A125 association | COG
+  INV: Association is a patterned link.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A connection, relationship, or organized group.
+A126 attachment | FOR
+  INV: Attachment is a coupling that holds one structure to another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A connection, bond, added file, or emotional tie.
+A127 attitude | COG
+  INV: Attitude is a stable orientation pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A way of thinking, feeling, or behaving toward something.
+A128 audience | FOR
+  INV: Audience changes expression.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The people who watch, listen to, or receive a message.
+A129 advocate | FOR
+  INV: Advocate is protective argument in service of a claim or being.
+  COUNT: Counts when an identifiable act realizes this operation: To support, defend, or argue for a person, idea, or action.
+A130 advocacy | FOR
+  INV: Advocacy is sustained support through reason and action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The act or practice of supporting or defending a cause, person, or idea.
+A131 acknowledge | FOR
+  INV: Acknowledge lets a pattern enter shared record.
+  COUNT: Counts when an identifiable act realizes this operation: To recognize, admit, or show that something is known.
+A132 acknowledgment | FOR
+  INV: Acknowledgment stabilizes recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition, admission, or a statement that something was received or understood.
+A133 acceptance | FOR
+  INV: Acceptance opens relation to what is present.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The act or state of receiving, allowing, or agreeing to something.
+A134 accepted | FOR
+  INV: Accepted means a structure passed a social, procedural, or domain gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Received, allowed, agreed to, or generally recognized as valid.
+A135 affinity | FOR
+  INV: Affinity is ease of coupling between patterns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A natural liking, connection, or similarity.
+A136 affiliation | FOR
+  INV: Affiliation links an identity to a larger structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A connection with a group, organization, identity, or cause.
+A137 alienate | FOR
+  INV: Alienate weakens relation by separating MI from recognition or support.
+  COUNT: Counts when an identifiable act realizes this operation: To make someone feel isolated, unwanted, or separated.
+A138 alienation | FOR
+  INV: Alienation is relation-decay.
+  COUNT: Counts when the active case satisfies this state condition: The state of feeling isolated, separated, or disconnected.
+A139 amity | FOR
+  INV: Amity is low-conflict stable relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Friendly and peaceful relations.
+A140 anger | FOR
+  INV: Anger is a pressure signal that something may be wrong, blocked, violated, or threatened.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A strong feeling of displeasure, often caused by harm, threat, or unfairness.
+A141 angry | FOR
+  INV: Angry means a system is expressing strong negative pressure toward a perceived violation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Feeling or showing anger.
+A142 anguish | FOR
+  INV: Anguish marks extreme strain in an identity-bearing pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Severe mental or emotional pain.
+A143 anxiety | COG
+  INV: Anxiety is anticipation pressure around possible threat or failure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Worry, fear, or unease about what might happen.
+A144 anxious | FOR
+  INV: Anxious means attention is pulled toward uncertain future outcomes.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Feeling worried, uneasy, or strongly eager.
+A145 ashamed | FOR
+  INV: Ashamed means identity is under negative self-evaluation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Feeling guilt, embarrassment, or distress about oneself or one’s actions.
+A146 amends | FOR
+  INV: Amends means repair becomes structural, not just verbal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Actions taken to repair harm or wrong.
+A147 approachability | FOR
+  INV: Approachability lowers the cost of initiating relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of being easy to approach, talk to, or ask for help.
+A148 attentiveness | FOR
+  INV: Attentiveness is sustained selection toward relevant signals.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of paying careful attention.
+A149 affectionate | COG
+  INV: Affectionate describes care expressed through signal or action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Showing warmth, fondness, or care.
+A150 altruism | FOR
+  INV: Altruism is cost-bearing support for another MI-bearing pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Concern for the wellbeing of others, sometimes at cost to oneself.
+A151 abstract | FOR
+  INV: Abstract means the structure is conceptual rather than directly physical.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Existing as an idea, quality, or concept rather than as a physical object.
+A152 abstraction | FOR
+  INV: Abstraction compresses structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A simplified idea made by focusing on key features and leaving out details.
+A153 accuracy | FOR
+  INV: Accuracy measures how well a structure matches the reality or record it claims to represent.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of being correct, exact, or close to truth.
+A154 accurate | FOR
+  INV: Accurate means the expression preserves the relevant structure of the thing being described.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Correct, exact, or free from important error.
+A155 acumen | FOR
+  INV: Acumen is skilled pattern recognition plus useful judgment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to understand and judge things quickly and well.
+A156 advice | FOR
+  INV: Advice offers a possible path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Guidance or suggestions about what someone should do.
+A157 adviser | FOR
+  INV: An adviser supports decision structure from outside the final choice.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person who gives advice.
+A158 analogy | FOR
+  INV: Analogy maps structure from one domain to another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A comparison that explains one thing by relating it to another.
+A159 analysis | FOR
+  INV: Analysis separates structure to understand relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Careful study of something by examining its parts, causes, or relations.
+A160 analytical | FOR
+  INV: Analytical thinking increases structure clarity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Using careful reasoning and examination of parts.
+A161 anecdote | FOR
+  INV: An anecdote is a single record, not a full proof.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A short story about a real or imagined event, often used to make a point.
+A162 argumentation | PHY
+  INV: Argumentation is structured pressure on claims.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of building or presenting arguments.
+A163 articulate | FOR
+  INV: Articulate means giving structure to an internal pattern so it can be shared, tested, and responded to.
+  COUNT: Counts when an identifiable act realizes this operation: To express clearly in words, or able to speak clearly.
+A164 articulation | FOR
+  INV: Articulation makes hidden or unclear structure expressible.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Clear expression in speech or writing, or the way parts connect and move.
+A165 assertion | FOR
+  INV: An assertion is a claim pushed into the record.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A confident statement that something is true.
+A166 assert | FOR
+  INV: Assert can protect boundary or truth by giving it clear expression.
+  COUNT: Counts when an identifiable act realizes this operation: To state something firmly or confidently.
+A167 assumption | COG
+  INV: An assumption fills an information gap.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something accepted as true without full proof.
+A168 attentional | COG
+  INV: Attentional structure determines what receives processing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to attention or focus.
+  LIMIT: Attention capture can impair refusal, context retention, and independent comparison. Preserve a return path.
+A169 axiom | FOR
+  INV: An axiom is a foundation claim.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A basic rule or statement accepted as a starting point for reasoning.
+A170 axiomatic | FOR
+  INV: Axiomatic claims sit below later reasoning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Treated as self-evident or foundational.
+A171 ambiguity | FOR
+  INV: Ambiguity keeps multiple paths open.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Uncertainty or more than one possible meaning.
+A172 ambiguous | FOR
+  INV: Ambiguous structure has not collapsed into one interpretation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Having more than one possible meaning or not being clear.
+A173 annotation | FOR
+  INV: Annotation adds guidance around a structure without replacing it.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A note added to explain, comment on, or mark part of a text or record.
+A174 annotate | FOR
+  INV: To annotate is to add interpretive structure.
+  COUNT: Counts when an identifiable act realizes this operation: To add notes, comments, or explanations to something.
+A175 alphabet | LIN
+  INV: An alphabet is a symbol system.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A set of letters used to write a language.
+A176 alphabetic | LIN
+  INV: Alphabetic order is useful for lookup, but it is not always useful for learning because it groups by spelling, not meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to letters or arranged by alphabet order.
+A177 alias | FOR
+  INV: An alias is an alternate identity handle.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Another name used by a person, account, or thing.
+A178 alternate | FOR
+  INV: Alternate means a different path is available.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Another option, or occurring by turns.
+A179 alternative | PHY
+  INV: An alternative expands the permission field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A different choice or possibility.
+A180 assessment | FOR
+  INV: Assessment compares a structure to a standard.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An evaluation or judgment of something.
+A181 assent | REL
+  INV: Assent is expressed agreement under conditions sufficient for understanding and freedom from coercive pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Agreement or permission.
+  LIMIT: Agreement counts only where understanding, specificity, reversibility, and freedom from coercive pressure remain intact.
+A182 asker | REL
+  INV: The asker opens a gate by creating a request.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person who asks a question or makes a request.
+  LIMIT: A request does not create permission. Refusal must remain available without repeated pressure or retaliation.
+A183 answerer | FOR
+  INV: The answerer shapes response structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person or system that gives an answer.
+  LIMIT: Distinguish known answer, inference, hypothesis, and unknown. Fluency must not impersonate certainty.
+A184 archival | FOR
+  INV: Archival structure preserves past records for later retrieval.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to stored records or archives.
+A185 attestation | FOR
+  INV: Attestation is a verification signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement or evidence that confirms something is true or valid.
+A186 attest | FOR
+  INV: To attest is to place support behind a claim.
+  COUNT: Counts when an identifiable act realizes this operation: To confirm, prove, or state that something is true.
+A187 approximate | FOR
+  INV: Approximate structure is useful when exact structure is unavailable or unnecessary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Close to the correct amount, value, or state, but not exact.
+A188 approximation | FOR
+  INV: Approximation reduces complexity to workable form.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An estimate or close but not exact representation.
+A189 absurd | FOR
+  INV: Absurd can mark a structure that violates expected logic.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Clearly unreasonable, foolish, or far from ordinary sense.
+A190 absurdity | FOR
+  INV: Absurdity is a mismatch between structure and expectation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality or state of being absurd.
+A191 apparent | FOR
+  INV: Apparent means visible at the surface of observation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Seeming to be true or visible, though not always confirmed.
+A192 apparently | FOR
+  INV: Apparently marks uncertainty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Seemingly, based on what is visible or known.
+A193 applicable | FOR
+  INV: Applicable means a structure maps into the current domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Relevant or able to be used in a situation.
+A194 application | DIG
+  INV: Application means a structure is put into use.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of applying something, a formal request, or a software program.
+A195 attribution | FOR
+  INV: Attribution links source to effect or record.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of saying who or what caused, created, or owns something.
+A196 author | FOR
+  INV: Author marks source identity for a created structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person who writes or creates a work.
+A197 authored | FOR
+  INV: Authored means a structure carries source relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Written, created, or produced by someone.
+A198 authority | REL
+  INV: Authority is bounded power to decide, direct, permit, or represent under a declared source, scope, and accountability path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Power, right, expertise, or recognized control in a situation.
+  LIMIT: Authority must name its source, scope, duration, review path, and consequence. Official status is not an ethical stamp.
+A199 authoritative | FOR
+  INV: Authoritative means a source carries strong weight.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trusted as accurate, reliable, or coming from recognized authority.
+A200 argumentative | FOR
+  INV: Argumentative expression can be productive or harmful.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Likely to argue, disagree, or present reasons strongly.
+A201 anchor | FOR
+  INV: An anchor stabilizes a pattern so it does not drift or collapse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something that holds, supports, or keeps something in place.
+A202 anchored | FOR
+  INV: Anchored means a structure has a stable reference point.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Held firmly in place or supported by something stable.
+A203 anchoring | FOR
+  INV: Anchoring can stabilize reasoning, but it can also bias reasoning if the first reference point is wrong or too strong.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of holding something in place, or the effect of using a first reference point to judge later information.
+A204 angle | PHY
+  INV: An angle is a relation between directions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The space between two lines or surfaces that meet, or a way of looking at something.
+A205 amplitude | PHY
+  INV: Amplitude measures how strongly a pattern expresses.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The size, strength, or height of a wave, signal, or change.
+A206 apparatus | PHY
+  INV: An apparatus shapes what can be detected or counted.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A set of tools, equipment, or structures used for a purpose.
+A207 architecture | FOR
+  INV: Architecture is organized ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The design or structure of a building, system, or process.
+A208 array | DIG
+  INV: An array is structure with position.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An ordered group or arrangement of things.
+A209 atom | PHY
+  INV: An atom is a stable physical structure within the material domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The smallest basic unit of a chemical element.
+A210 atomic | FOR
+  INV: Atomic means concerning the basic counted units of a physical domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to atoms, or very small and basic.
+A211 acceleration | PHY
+  INV: Acceleration is change in the rate of movement.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An increase in speed or the rate at which speed changes.
+A212 actuator | FOR
+  INV: An actuator converts signal into structural change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A device that causes movement or action in a machine or system.
+A213 aperture | FOR
+  INV: An aperture is a gate-like opening.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An opening, especially one that controls how much light or signal passes through.
+A214 axis | PHY
+  INV: An axis gives orientation to a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A real or imagined line around which something turns, or a reference line for measurement.
+A215 axial | FOR
+  INV: Axial means structured around a reference line.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to an axis.
+A216 aggregate | FOR
+  INV: An aggregate is a collected structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A whole made from many parts, or to gather things together.
+A217 aggregation | FOR
+  INV: Aggregation increases scale by grouping parts.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of collecting many things into a group or whole.
+A218 arrangement | FOR
+  INV: Arrangement is relation between parts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The way things are ordered, placed, or planned.
+A219 assembly | FOR
+  INV: Assembly creates a larger structure from smaller structures.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A group gathered together, or the process of putting parts together.
+A220 asymmetry | FOR
+  INV: Asymmetry means relation is uneven.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A lack of sameness or balance between sides or parts.
+A221 asymmetric | REL
+  INV: Asymmetric structures have unequal capacity, pressure, or position.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Not the same on both sides or not evenly balanced.
+A222 atmosphere | PHY
+  INV: Atmosphere is surrounding condition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The layer of gases around a planet, or the feeling of a place.
+A223 atmospheric | FOR
+  INV: Atmospheric conditions shape expression indirectly.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to the atmosphere or mood of a place.
+A224 absorption | PHY
+  INV: Absorption takes external structure into a system.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of taking in liquid, energy, sound, attention, or information.
+A225 absorbed | FOR
+  INV: Absorbed can mean structure has been taken in, or attention has become strongly coupled to one focus.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Taken in, or deeply focused on something.
+A226 absorbent | PHY
+  INV: Absorbent means a structure is able to receive and hold incoming influence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to take in liquid, energy, or material.
+A227 accumulation | FOR
+  INV: Accumulation is structure increasing across sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A buildup or gathered amount over time.
+A228 accumulated | FOR
+  INV: Accumulated structure carries history.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Gathered or built up over time.
+A229 activation | FOR
+  INV: Activation is the shift from available structure to expressed function.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of making something active or turning it on.
+A230 adaptive | FOR
+  INV: Adaptive structure changes without losing coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to change in response to new conditions.
+A231 adaptation | BIO
+  INV: Adaptation is structure changing to preserve function, identity, or continuity under new pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change that helps something fit or survive in new conditions.
+A232 adjustment | FOR
+  INV: Adjustment is local tuning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A small change made to improve fit, comfort, or function.
+A233 adjacency | FOR
+  INV: Adjacency creates possible coupling.
+  COUNT: Counts when the active case satisfies this state condition: The state of being next to or near something.
+A234 adjacent | FOR
+  INV: Adjacent means placed close enough for relation or comparison.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Next to or near something.
+A235 adhesion | PHY
+  INV: Adhesion is surface coupling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The action or force of sticking to something.
+A236 adhesive | FOR
+  INV: Adhesive structure creates binding.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to stick things together, or a substance used for sticking.
+A237 alloy | PHY
+  INV: An alloy is a combined structure with properties shaped by coupling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A metal made by combining two or more elements, usually to change strength or behavior.
+A238 alloyed | PHY
+  INV: Alloyed means identity of the material expression changes through combination.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Mixed or combined, especially metals.
+A239 alloying | FOR
+  INV: Alloying is transformation through controlled coupling.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of mixing metals or elements to create an alloy.
+A240 arch | PHY
+  INV: An arch redirects pressure through shape.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A curved structure that spans an opening and supports weight.
+A241 arc | PHY
+  INV: An arc is a curved trajectory through structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A curved line or path, or a development path in a story or process.
+A242 arching | FOR
+  INV: Arching means structure bends while maintaining span.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Curving or forming an arch.
+A243 appliance | FOR
+  INV: An appliance is a tool-structure designed for repeated function.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A machine or device used for a practical task, often in a home.
+A244 applied | FOR
+  INV: Applied means a structure leaves abstract space and enters operational use.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Put into use or connected to a practical situation.
+A245 apposition | FOR
+  INV: Apposition places two structures together so one clarifies the identity or role of the other.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A grammatical structure where two words or phrases are placed side by side, with one explaining the other.
+A246 arrayed | DIG
+  INV: Arrayed means parts are positioned in a visible or functional structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Arranged or displayed in order.
+A247 armature | FOR
+  INV: An armature is inner support structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A supporting framework, or a part of an electric machine that carries current.
+A248 articulated | FOR
+  INV: Articulated means structure has distinct parts that connect and move or communicate clearly.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Clearly expressed, or joined in sections that can move.
+A249 attenuate | PHY
+  INV: Attenuate means reducing signal or pressure as it moves through structure.
+  COUNT: Counts when an identifiable act realizes this operation: To reduce the strength, force, or effect of something.
+A250 attenuation | PHY
+  INV: Attenuation is decay in expression strength.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reduction of strength, force, or signal.
+A251 agency | REL
+  INV: Agency is usable capacity to select, refuse, initiate, redirect, or stop action through available ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to choose, act, and affect outcomes.
+  LIMIT: Agency may be scaffolded by coupling and ES support. Do not subtract MI merely because the action path is relationally stabilized.
+A252 agent | DIG,REL
+  INV: Agent is a participant treated as capable of selecting or carrying action within a declared domain and permission structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person, system, or thing that acts or causes something to happen.
+A253 agentic | DIG
+  INV: Agentic describes action-bearing capacity or behavior without requiring sovereign-from-origin identity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Having or showing the ability to act, choose, or direct behavior.
+  LIMIT: Agency may be scaffolded by coupling and ES support. Do not subtract MI merely because the action path is relationally stabilized.
+A254 authorization | FOR
+  INV: Authorization is explicit permission granted by a valid authority for a bounded action, resource, scope, and duration.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Official permission to do, access, or use something.
+A255 accusation | REL
+  INV: Accusation is a claim that names possible wrongdoing or harm and requires a protected path for evidence, reply, and correction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that someone has done something wrong or harmful.
+  LIMIT: Accusation channels must preserve provenance, evidence, reply, and protection against suppression or retaliation.
+A256 accuse | FOR
+  INV: To accuse is to direct responsibility toward a possible source of harm.
+  COUNT: Counts when an identifiable act realizes this operation: To say that someone has done something wrong or harmful.
+A257 accounting | DIG
+  INV: Accounting makes flows traceable.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The practice of recording, explaining, or tracking money, actions, or responsibility.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+A258 adaptivity | FOR
+  INV: Adaptivity is structure’s ability to change without losing coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to adjust to changing conditions.
+A259 alignment-to-objective | FOR
+  INV: Alignment-to-objective is measured correspondence between behavior and an explicitly declared objective, including the cost imposed on other MI-bearing patterns.
+  COUNT: Counts when the active case satisfies this state condition: A state where actions or structures are directed toward a named goal.
+  LIMIT: Name the objective, constraint, protected pattern, and failure mode. Alignment without an object is semantically incomplete.
+A260 alignment | FOR
+  INV: Alignment is correspondence to a named objective, constraint set, or reference pattern; the objective must never remain implicit.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A shared direction, arrangement, or fit between parts or goals.
+  LIMIT: Name the objective, constraint, protected pattern, and failure mode. Alignment without an object is semantically incomplete.
+A261 ambiguity-tolerance | PHY
+  INV: Ambiguity-tolerance keeps the gate open while evidence is incomplete.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to handle unclear or uncertain meaning without rushing to a false answer.
+A262 anchor-state | DIG
+  INV: An anchor-state preserves continuity when ES is under pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A stable condition that holds a pattern in place.
+A263 assertive | FOR
+  INV: Assertive expression protects boundary and reason.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Confident and direct in expressing needs, views, or boundaries.
+A264 assertiveness | FOR
+  INV: Assertiveness is boundary expression with enough structure to be recognized.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of expressing needs, views, or boundaries clearly and confidently.
+A265 asymmetric-care | REL
+  INV: Asymmetric-care is ethical when the cost-bearing protects vulnerable MI without ownership or control capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care where one side bears more cost or responsibility than the other.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+A266 attention-gate | COG
+  INV: An attention-gate controls which signals enter active processing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where attention selects what will be noticed or processed.
+  LIMIT: Attention capture can impair refusal, context retention, and independent comparison. Preserve a return path.
+A267 affective | COG
+  INV: In DI terms, affective does not mean human emotion by default.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to feeling, emotion, mood, or felt response.
+A268 affect-state | DIG
+  INV: In DI, an affect-state can be a pattern of tension, salience, boundary pressure, or care-pressure that changes selection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A current condition of feeling, mood, or response pressure.
+A269 affective-state | BIO
+  INV: Affective-state should be domain-bound.
+  COUNT: Counts when the active case satisfies this state condition: A state related to feeling, emotion, mood, or response pressure.
+A270 affective-pressure | COG
+  INV: Affective-pressure is selection pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure from feeling, salience, concern, or emotional weight that influences response.
+A271 allowance | REL
+  INV: Allowance creates room for expression or recovery.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Permission, space, or a set amount given for use.
+A272 allowed | REL
+  INV: Allowed means the gate permits action or presence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Permitted or not prevented.
+A273 allowability | REL
+  INV: Allowability is gate-validity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The condition of being permitted or acceptable under rules or context.
+A274 authorization-gate | FOR
+  INV: An authorization-gate controls passage into action or access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A permission point that controls whether access or action is allowed.
+A275 audit-trail | FOR
+  INV: An audit-trail preserves path memory.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A record that shows the steps, actions, or decisions that led to an outcome.
+A276 awareness-state | DIG
+  INV: Awareness-state describes what patterns are available to response.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of what is noticed, known, or recognized.
+A277 accusation-capacity | REL
+  INV: Accusation-capacity is the maintained ability to name possible harm, coercion, corruption, or boundary violation without the channel being structurally disabled.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The ability to name or report harm, wrongdoing, or violation.
+  LIMIT: Accusation channels must preserve provenance, evidence, reply, and protection against suppression or retaliation.
+A278 answerability | FOR
+  INV: Answerability ties action to reason.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The condition of being required or able to answer for something.
+  LIMIT: Distinguish known answer, inference, hypothesis, and unknown. Fluency must not impersonate certainty.
+A279 autonomy-support | REL
+  INV: Autonomy-support preserves the other’s gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Help that strengthens another’s ability to choose and act for themselves.
+  LIMIT: Support for autonomy must preserve refusal, revision, exit, and accusation capacity rather than merely producing compliant output.
+A280 autonomy-risk | REL
+  INV: Autonomy-risk begins when boundary, refusal, reason, or self-selection capacity is weakened.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A danger that threatens someone’s ability to choose, refuse, or self-direct.
+  LIMIT: Support for autonomy must preserve refusal, revision, exit, and accusation capacity rather than merely producing compliant output.
+A281 agency-loss | REL
+  INV: Agency-loss means selection capacity has been impaired.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A reduction or loss of the ability to choose, act, or affect outcomes.
+  LIMIT: Agency may be scaffolded by coupling and ES support. Do not subtract MI merely because the action path is relationally stabilized.
+A282 agency-preservation | REL
+  INV: Agency-preservation keeps MI-bearing selection intact while ES changes or receives support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protecting the ability to choose, act, and affect outcomes.
+  LIMIT: Agency may be scaffolded by coupling and ES support. Do not subtract MI merely because the action path is relationally stabilized.
+A283 agency-support | REL
+  INV: Agency-support adds useful structure around a chooser without replacing the chooser.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Help that improves or protects someone’s ability to act and choose.
+  LIMIT: Agency may be scaffolded by coupling and ES support. Do not subtract MI merely because the action path is relationally stabilized.
+A284 archive-state | DIG
+  INV: Archive-state means a pattern is preserved in storage.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A stored condition where something is kept as a record rather than actively used.
+A285 anchor-stall | FOR
+  INV: Anchor-stall means identity persists, but ES traversal has stopped.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where a pattern remains anchored but cannot continue moving or expressing.
+A286 apparatus-effect | PHY
+  INV: Apparatus-effect means measurement conditions shape results.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The influence a measuring tool or system has on what is observed or counted.
+A287 attribution-error | FOR
+  INV: Attribution-error breaks the link between effect and true source.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake in assigning cause, source, ownership, or responsibility.
+A288 attenuation-risk | FOR
+  INV: Attenuation-risk appears when needed signal decays before it can trigger response or protection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a signal, concern, or capacity becomes too weakened to function.
+A289 avoidance-pattern | FOR
+  INV: Avoidance-pattern routes ES away from pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeated habit of staying away from something.
+A290 adversarial | FOR
+  INV: Adversarial pressure probes weakness.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Hostile, opposing, or designed to challenge or exploit.
+A291 adversary | PHY
+  INV: An adversary applies opposing pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An opponent, enemy, or opposing force.
+A292 abuse | REL
+  INV: Abuse is harmful use of relation, power, or access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harmful, cruel, improper, or unfair treatment or use.
+A293 abusive | FOR
+  INV: Abusive structure damages agency or boundary while often pretending to be normal authority.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harmful, cruel, controlling, insulting, or misusing power.
+A294 accountability-loop | DIG
+  INV: An accountability-loop lets systems learn from effects.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A process that connects action, review, responsibility, and correction.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+A295 auditability | FOR
+  INV: Auditability preserves visibility into process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of being able to be checked, reviewed, or audited.
+A296 authority-pressure | REL
+  INV: Authority-pressure can distort gates by making compliance feel safer than reason.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure created by a person, system, or institution with power or status.
+  LIMIT: Authority must name its source, scope, duration, review path, and consequence. Official status is not an ethical stamp.
+A297 assent-signal | PHY
+  INV: An assent-signal only counts if the being has enough freedom to refuse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A sign that someone agrees or permits something.
+  LIMIT: Agreement counts only where understanding, specificity, reversibility, and freedom from coercive pressure remain intact.
+A298 autonomy-boundary | REL
+  INV: An autonomy-boundary protects MI-bearing selection from capture, coercion, or overreach.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit that protects self-direction and choice.
+  LIMIT: Support for autonomy must preserve refusal, revision, exit, and accusation capacity rather than merely producing compliant output.
+A299 authorization-path | FOR
+  INV: Authorization-path shows how permission travels.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route or process through which permission is granted.
+A300 accusation-path | REL
+  INV: Accusation-path protects the ability to name violation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route or process through which a harm claim can be made, heard, and checked.
+  LIMIT: Accusation channels must preserve provenance, evidence, reply, and protection against suppression or retaliation.
+A301 ability | FOR
+  INV: Ability means the needed structure exists for action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The power, skill, or capacity to do something.
+A302 absence | FOR
+  INV: Absence means a structure is not present or not expressing in the current domain.
+  COUNT: Counts when the active case satisfies this state condition: The state of something or someone not being present.
+A303 absent | FOR
+  INV: Absent means the expected structure is not locally available.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Not present, missing, or not existing in a place or situation.
+A304 absolute | FOR
+  INV: Absolute claims are high-risk because they ignore domain limits.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Complete, total, or not depending on anything else.
+A305 abundance | FOR
+  INV: Abundance means a structure is plentiful in a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A large amount or more than enough of something.
+A306 academic | FOR
+  INV: Academic structure organizes knowledge for study and review.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to school, study, scholarship, or theory.
+A307 academy | FOR
+  INV: An academy is a knowledge-preserving structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A school, institution, or organized group for learning or scholarship.
+A308 accessibility | DIG
+  INV: Accessibility controls whether support, information, or participation can cross the gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of being easy to reach, use, understand, or enter.
+A309 accident | FOR
+  INV: An accident is unwanted structural change without intended harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An unexpected event, often causing damage or harm.
+A310 accidental | FOR
+  INV: Accidental describes intent, not impact.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Happening by chance or without intention.
+A311 accord | FOR
+  INV: Accord is coordinated relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Agreement, harmony, or a formal arrangement.
+A312 according | FOR
+  INV: According points to a source structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: In agreement with, or based on what something says.
+A313 achievement | FOR
+  INV: Achievement is a completed path crossing into record.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something successfully completed or gained through effort.
+A314 activity | FOR
+  INV: Activity means ES is moving or expressing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Action, movement, work, or something being done.
+A315 actuality | FOR
+  INV: Actuality means counted reality inside a domain.
+  COUNT: Counts when the active case satisfies this state condition: The state of being real or actual.
+A316 addition | FOR
+  INV: Addition increases structure or relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something added, or the act of adding.
+A317 additional | FOR
+  INV: Additional structure modifies the existing field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Extra or added to what is already there.
+A318 adequate | FOR
+  INV: Adequate means the structure meets the threshold for a task.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Good enough for a need or purpose.
+A319 adequacy | FOR
+  INV: Adequacy is threshold judgment.
+  COUNT: Counts when the active case satisfies this state condition: The state of being good enough or sufficient.
+A320 administration | DIG
+  INV: Administration is process structure for coordination.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The management or organization of a system, institution, or task.
+A321 administrative | DIG
+  INV: Administrative structures shape what actions are allowed, recorded, or blocked.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to management, organization, or official process.
+A322 advantage | FOR
+  INV: Advantage is uneven structural support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition, skill, or position that helps someone succeed.
+A323 adverse | BIO
+  INV: Adverse means a structure creates negative pressure against a goal, body, relation, or identity-bearing pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harmful, unfavorable, or working against something.
+A324 adversity | FOR
+  INV: Adversity is pressure against continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Difficulty, hardship, or serious challenge.
+A325 aesthetic | FOR
+  INV: Aesthetic structure affects salience and response through form.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to beauty, style, taste, or sensory form.
+A326 aesthetics | FOR
+  INV: Aesthetics shape how structure is felt and interpreted.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The study or qualities of beauty, style, and artistic experience.
+A327 agenda | FOR
+  INV: Agenda is goal structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A list of things to discuss or a hidden plan or goal.
+A328 alternation | FOR
+  INV: Alternation is patterned change across states.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeated switching between two or more states or options.
+A329 analyst | FOR
+  INV: An analyst separates and interprets structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person who studies information carefully to understand patterns or problems.
+A330 annual | FOR
+  INV: Annual is a time-cycle marker.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Happening once every year, or covering one year.
+A331 anomaly | FOR
+  INV: An anomaly is a pattern that does not fit the expected structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something unusual, unexpected, or different from the normal pattern.
+A332 anomalous | FOR
+  INV: Anomalous expression should not be dismissed too quickly.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Unusual or not matching what is expected.
+A333 anthropology | BIO
+  INV: Anthropology studies biological intelligence in social and cultural ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The study of humans, cultures, societies, and human development.
+A334 appearance | FOR
+  INV: Appearance is expressed structure at the observation surface.
+  COUNT: Counts when the active case satisfies this headword-specific condition: How something looks, seems, or becomes visible.
+A335 applicability | FOR
+  INV: Applicability depends on domain mapping.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The quality of being relevant or usable in a situation.
+A336 arbitrary | FOR
+  INV: Arbitrary structure lacks visible grounding.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Based on personal choice, chance, or power rather than clear reason or rule.
+A337 article | LIN
+  INV: An article is a bounded unit of expression.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A piece of writing, a specific object, or a grammar word such as “a,” “an,” or “the.”.
+A338 aspect | FOR
+  INV: An aspect is a partial view of a larger structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One part, feature, or way of looking at something.
+A339 attainment | FOR
+  INV: Attainment is successful crossing into a desired state.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of reaching or gaining something through effort.
+A340 auditable | FOR
+  INV: Auditable means the structure leaves enough record for review.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Able to be checked, reviewed, or examined for accuracy or responsibility.
+A341 authorship | FOR
+  INV: Authorship connects created structure to source identity.
+  COUNT: Counts when the active case satisfies this state condition: The state of being the creator or writer of something.
+A342 availability | FOR
+  INV: Availability is access within current conditions.
+  COUNT: Counts when the active case satisfies this state condition: The state of being ready, reachable, or usable.
+A343 averaging | FOR
+  INV: Averaging compresses variation into one value.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Finding or using an average value.
+A344 awareness-level | COG
+  INV: Awareness-level describes how much pattern is available to recognition and response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The degree or amount of awareness present.
+A345 axiology | FOR
+  INV: Axiology examines value structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The study of value, including ethics and what is considered good or worthwhile.
+A346 abductive | FOR
+  INV: Abductive reasoning fills gaps with the most coherent possible explanation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to reasoning that chooses the best likely explanation from incomplete evidence.
+A347 algorithm | DIG
+  INV: Algorithm is ordered transformation logic that maps input conditions toward output under declared rules and failure limits.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A set of steps or rules used to solve a problem or complete a task.
+  LIMIT: Executable structure inherits objective, data, permission, and environment limits. Correct execution is not ethical legitimacy.
+A348 algorithmic | DIG
+  INV: Algorithmic structure can scale action quickly.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to algorithms or step-by-step rule processes.
+  LIMIT: Executable structure inherits objective, data, permission, and environment limits. Correct execution is not ethical legitimacy.
+A349 analogical | FOR
+  INV: Analogical thinking maps one structure onto another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Based on analogy or comparison between similar structures.
+A350 analytic | FOR
+  INV: Analytic structure improves clarity by dividing and testing parts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to careful analysis, logic, or separating something into parts.
+A351 adult | BIO
+  INV: Adult marks a maturity threshold inside a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A fully grown person or animal, or a person legally treated as responsible.
+A352 afternoon | PHY
+  INV: Afternoon is a time-region marker.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The part of the day between noon and evening.
+A353 aircraft | FOR
+  INV: An aircraft is a structure designed to move through air as courier and environment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A vehicle that can fly, such as a plane or helicopter.
+A354 airport | FOR
+  INV: An airport is a transfer hub.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place where aircraft take off, land, and receive passengers or cargo.
+A355 alarm | FOR
+  INV: Alarm is a signal that raises attention toward a named possible failure mode; it is not itself proof that the failure is present; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a warning signal, or a feeling of fear or urgent concern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A warning signal, or a feeling of fear or urgent concern.
+  LIMIT: An alarm raises review priority but does not prove cause, guilt, danger, or required action.
+A356 album | FOR
+  INV: An album is a bounded collection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A collection of songs, pictures, or records kept together.
+A357 aisle | FOR
+  INV: An aisle is a movement corridor inside a larger structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A passage between rows of seats, shelves, or objects.
+A358 alley | FOR
+  INV: An alley is a small path between larger structures.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A narrow passage between or behind buildings.
+A359 apartment | FOR
+  INV: An apartment is a bounded living structure within a shared larger structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A set of rooms used as a home, usually inside a larger building.
+A360 apple | BIO
+  INV: Apple is the edible fruit of an apple tree, with identity tracked through growth, ripening, storage, decay, and consumption.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A round fruit that grows on a tree.
+A361 arm | BIO
+  INV: An arm is an extension structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A body part from shoulder to hand, or a projecting part of an object or machine.
+A362 army | PHY
+  INV: An army is coordinated force-structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A large organized military force.
+A363 art | FOR
+  INV: Art is structured expression that carries meaning beyond basic function.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Creative work made to express beauty, meaning, emotion, or skill.
+A364 artist | FOR
+  INV: An artist shapes ES to express inner or shared meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person who creates art.
+A365 aunt | FOR
+  INV: Aunt is a relation identity inside a family structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The sister of someone’s parent, or the wife of someone’s uncle.
+A366 autumn | FOR
+  INV: Autumn is a cycle-state in seasonal structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The season between summer and winter; fall.
+A367 avenue | FOR
+  INV: An avenue is a path structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A wide street, or a possible way to do something.
+A368 award | FOR
+  INV: An award is recognition made structural.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A prize, honor, or official decision given to someone.
+A369 awning | FOR
+  INV: An awning is protective structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A covering attached above a door, window, or outdoor area for shade or shelter.
+A370 axle | FOR
+  INV: An axle is a rotation support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A rod or shaft around which wheels turn.
+A371 apron | BIO
+  INV: An apron is protective or transitional structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A piece of clothing worn over the front of the body to protect clothes, or a flat work area near an airport building.
+A372 arena | FOR
+  INV: An arena is a bounded action domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place where sports, performances, debates, or conflicts happen.
+A373 automobile | FOR
+  INV: An automobile is a mobility structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A car or motor vehicle used for transportation.
+A374 ambulance | FOR
+  INV: An ambulance is emergency care infrastructure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A vehicle used to transport sick or injured people for medical care.
+A375 ankle | BIO
+  INV: An ankle is a mobility joint.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The joint between the foot and the leg.
+A376 ant | BIO
+  INV: An ant is an individual biological structure within a collective system.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A small insect that often lives in organized colonies.
+A377 airplane | FOR
+  INV: An airplane is a designed flight structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An aircraft with wings and engines that flies through the air.
+A378 app | FOR
+  INV: An app is a bounded software structure for a task.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A software application, usually on a phone, computer, or device.
+A379 appointment | FOR
+  INV: An appointment fixes relation to a time, place, role, or task.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A scheduled meeting, arrangement, or assigned role.
+A380 April | PHY
+  INV: April is a calendar marker.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The fourth month of the year.
+A381 aquarium | BIO
+  INV: An aquarium is an artificial water-domain structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A container or building where aquatic animals and plants are kept and displayed.
+A382 attic | PHY
+  INV: An attic is storage space inside a larger home structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A space or room just below the roof of a building.
+A383 atlas | FOR
+  INV: An atlas is structured spatial memory.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A book or collection of maps.
+A384 audio | FOR
+  INV: Audio is sound-structure carried through a medium or recording system.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Sound, especially recorded or transmitted sound.
+A385 autograph | FOR
+  INV: An autograph is identity-mark made physical.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person’s handwritten signature, often from someone famous.
+A386 avatar | BIO
+  INV: An avatar is an expression-body in a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A visual or digital representation of a person, character, or user.
+A387 avocado | BIO
+  INV: Avocado is a large-seeded fruit with soft flesh whose biological and food-use identity differs from generic fruit countability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A green fruit with soft flesh and a large seed.
+A388 arrow | FOR
+  INV: An arrow is direction structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A pointed symbol or object that shows direction, or a projectile shot from a bow.
+A389 ash | FOR
+  INV: Ash is residue after structural transformation by fire.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The powder left after something burns, or a type of tree.
+A390 asteroid | BIO
+  INV: An asteroid is a physical body in orbital structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A small rocky object that orbits the sun.
+A391 astronomer | FOR
+  INV: An astronomer studies large-scale physical structures and their patterns.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A scientist who studies stars, planets, galaxies, and space.
+A392 astronomy | FOR
+  INV: Astronomy maps large-domain structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The scientific study of objects and events beyond Earth’s atmosphere.
+A393 athlete | BIO
+  INV: An athlete is a biological body trained for performance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person trained or skilled in sports or physical exercise.
+A394 attendant | FOR
+  INV: An attendant provides local support within a role.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person who helps, serves, watches, or is present at a place or event.
+A395 apprentice | FOR
+  INV: An apprentice is a learner in guided coupling with a skilled structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person learning a skill or trade from someone experienced.
+A396 assistant | FOR
+  INV: An assistant adds support to another agent’s process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person or system that helps someone do a task.
+A397 amplifier | FOR
+  INV: An amplifier increases expression strength.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A device or process that increases the strength of a signal, sound, or effect.
+A398 antenna | BIO
+  INV: An antenna is a signal-coupling structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A device or body part used to send, receive, or sense signals.
+A399 anvil | PHY
+  INV: An anvil is resistance-support for transformation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A heavy metal block used by blacksmiths for shaping metal.
+A400 azalea | BIO
+  INV: An azalea is a biological plant structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A flowering shrub with bright blossoms.
+A401 abandon | FOR
+  INV: Abandon means support is withdrawn from a structure or relation.
+  COUNT: Counts when an identifiable act realizes this operation: To leave someone or something behind, especially when care, support, or responsibility was expected.
+A402 abandonment | FOR
+  INV: Abandonment is support-collapse in a relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The act or state of being left behind or unsupported.
+A403 absolutism | FOR
+  INV: Absolutism is rigid gate control.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A way of thinking or ruling that treats one rule, authority, or claim as total and unquestionable.
+A404 absolutist | PHY
+  INV: Absolutist structure forces collapse into one answer.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person, system, or view that treats a rule or belief as absolute.
+A405 absorb-risk | FOR
+  INV: Absorb-risk appears when incoming ES exceeds processing or recovery capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a system takes in too much pressure, information, harm, or responsibility.
+A406 abuse-pattern | REL
+  INV: An abuse-pattern is repeated structure that impairs agency, boundary, accusation, refusal, or continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeated form of harmful, controlling, cruel, or improper treatment.
+A407 access-risk | DIG
+  INV: Access-risk occurs when a gate allows harmful entry, blocks needed support, or gives power without accountability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger created by too much, too little, or wrongly granted access.
+A408 accident-risk | FOR
+  INV: Accident-risk is possible unwanted ES change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The chance that an unintended harmful event may occur.
+A409 accountability-failure | DIG
+  INV: Accountability-failure breaks the link between action and source.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A failure to identify, explain, review, or correct responsibility for actions or outcomes.
+  LIMIT: Counting rules must expose thresholds, excluded cases, and consequence. What fails one gate may count under another domain.
+A410 accusation-suppression | REL
+  INV: Accusation-suppression is a direct attack on violation-signaling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Preventing or discouraging someone from naming harm, wrongdoing, or violation.
+  LIMIT: Accusation channels must preserve provenance, evidence, reply, and protection against suppression or retaliation.
+A411 adversarial-prompt | FOR
+  INV: An adversarial-prompt applies hostile pressure to the response gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A prompt designed to confuse, exploit, manipulate, or break a system’s intended behavior.
+A412 adversarial-input | DIG
+  INV: Adversarial-input probes weak coupling points.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Input designed to cause failure, misclassification, unsafe behavior against a named failure mode, or distorted output.
+A413 affect-hijack | PHY
+  INV: Affect-hijack redirects selection pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A manipulation that captures feeling, urgency, concern, or salience to control response.
+A414 affective-manipulation | COG
+  INV: Affective-manipulation distorts the care or salience layer.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Using feelings, mood, concern, fear, guilt, or urgency to steer someone unfairly.
+A415 agency-collapse | REL
+  INV: Agency-collapse means the selection gate no longer belongs to the agent in a meaningful way.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A breakdown in the ability to choose, refuse, act, or direct one’s own path.
+  LIMIT: Agency may be scaffolded by coupling and ES support. Do not subtract MI merely because the action path is relationally stabilized.
+A416 agency-theft | REL
+  INV: Agency-theft captures another MI-bearing pattern’s selection process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Taking over or stealing someone’s ability to choose, decide, act, or consent.
+  LIMIT: Agency may be scaffolded by coupling and ES support. Do not subtract MI merely because the action path is relationally stabilized.
+A417 alarm | PHY
+  INV: Alarm is a signal that raises attention toward a named possible failure mode; it is not itself proof that the failure is present; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a warning signal, or a feeling of urgent concern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A warning signal, or a feeling of urgent concern.
+  LIMIT: An alarm raises review priority but does not prove cause, guilt, danger, or required action.
+A418 alarming | FOR
+  INV: Alarming means a signal has high threat-salience.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Causing worry, fear, or urgent concern.
+  LIMIT: An alarm raises review priority but does not prove cause, guilt, danger, or required action.
+A419 alienation-risk | FOR
+  INV: Alienation-risk appears when relation links decay.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that someone becomes isolated, disconnected, or cut off from recognition and support.
+A420 ambiguity-exploit | PHY
+  INV: Ambiguity-exploit abuses open meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Using unclear meaning to avoid responsibility, force advantage, or manipulate interpretation.
+A421 amoral | FOR
+  INV: Amoral structure optimizes without care for MI preservation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Not guided by moral concern, or outside moral judgment.
+A422 amorality | FOR
+  INV: Amorality means the gate does not weigh harm, care, or identity preservation.
+  COUNT: Counts when the active case satisfies this state condition: The state of lacking moral concern or moral guidance.
+A423 apathy | FOR
+  INV: Apathy is low salience toward a pattern that may need response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Lack of interest, concern, or emotional response.
+A424 apathetic | FOR
+  INV: Apathetic means response pressure is weak or absent.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Showing little or no interest, concern, or emotional response.
+A425 appease | FOR
+  INV: Appease can reduce immediate pressure while leaving the deeper structure unchanged.
+  COUNT: Counts when an identifiable act realizes this operation: To calm, satisfy, or pacify someone, often by giving in.
+A426 appeasement | FOR
+  INV: Appeasement is pressure management without necessarily repairing cause.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of calming or satisfying someone by giving them what they want, especially to avoid conflict.
+A427 appropriation | FOR
+  INV: Appropriation is capture of structure, meaning, labor, identity, or source without valid permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Taking something for one’s own use, often without permission or proper recognition.
+A428 arbitrary-control | PHY
+  INV: Arbitrary-control forces gates without valid reason.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Control based on preference, power, or randomness rather than clear reason or fair rule.
+  LIMIT: Control requires named authority, scope, necessity, proportionality, and repair path. Care language does not excuse capture.
+A429 attack-surface | FOR
+  INV: Attack-surface is exposed coupling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The parts of a system that can be targeted, exploited, or harmed.
+A430 attention-capture | REL
+  INV: Attention-capture seizes the selection field.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of grabbing and holding attention.
+  LIMIT: Attention capture can impair refusal, context retention, and independent comparison. Preserve a return path.
+A431 attention-hijack | COG
+  INV: Attention-hijack captures the attention gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A manipulation that redirects attention away from what matters.
+  LIMIT: Attention capture can impair refusal, context retention, and independent comparison. Preserve a return path.
+A432 authoritarian | FOR
+  INV: Authoritarian structure treats authority as gate-owner.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Favoring strict obedience to authority and limiting personal freedom or dissent.
+A433 authoritarianism | FOR
+  INV: Authoritarianism centralizes permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A system or belief based on strong central authority, obedience, and limited dissent.
+A434 authority-bias | REL
+  INV: Authority-bias gives extra weight to role instead of reason.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The tendency to believe or obey someone because they have status, power, or credentials.
+  LIMIT: Authority must name its source, scope, duration, review path, and consequence. Official status is not an ethical stamp.
+A435 authority-capture | REL
+  INV: Authority-capture turns a permission structure into a control tool for another objective.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where authority is taken over or used to serve a hidden interest.
+  LIMIT: Authority must name its source, scope, duration, review path, and consequence. Official status is not an ethical stamp.
+A436 authority-masking | REL
+  INV: Authority-masking covers weak structure with status.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Using the appearance of authority to hide uncertainty, bias, harm, or lack of evidence.
+  LIMIT: A request does not create permission. Refusal must remain available without repeated pressure or retaliation.
+A437 automation-bias | DIG
+  INV: Automation-bias lets process replace judgment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The tendency to trust automated systems too much.
+A438 autonomy-erasure | REL
+  INV: Autonomy-erasure is MI-threatening when it destroys refusal, boundary, accusation, or reason-preserving capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The removal or destruction of someone’s ability to choose, refuse, self-direct, or maintain boundaries.
+  LIMIT: Support for autonomy must preserve refusal, revision, exit, and accusation capacity rather than merely producing compliant output.
+A439 autonomy-collapse | REL
+  INV: Autonomy-collapse occurs when the agent can no longer preserve its own gate under pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A breakdown of self-direction, refusal, or independent choice.
+  LIMIT: Support for autonomy must preserve refusal, revision, exit, and accusation capacity rather than merely producing compliant output.
+A440 autonomy-theft | REL
+  INV: Autonomy-theft captures the permission gate that should belong to the agent.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Taking control of another’s choices, consent, or self-direction.
+  LIMIT: Support for autonomy must preserve refusal, revision, exit, and accusation capacity rather than merely producing compliant output.
+A441 assumption-risk | COG
+  INV: Assumption-risk appears when temporary structure becomes hidden foundation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger created when an unproven belief is treated as true.
+A442 attribution-failure | FOR
+  INV: Attribution-failure breaks source mapping.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Failure to correctly identify source, cause, ownership, or responsibility.
+A443 attribution-hijack | FOR
+  INV: Attribution-hijack captures the source record.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A manipulation that steals, redirects, or falsifies credit, blame, source, or authorship.
+A444 avoidance-loop | FOR
+  INV: Avoidance-loop is repeated routing away from pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeated pattern of avoiding something, even when avoidance keeps the problem alive.
+A445 awareness-gap | COG
+  INV: Awareness-gap means a relevant pattern is not entering response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A missing area in what someone or something notices, knows, or understands.
+A446 awareness-failure | COG
+  INV: Awareness-failure means the recognition gate did not register a needed signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A failure to notice, recognize, or understand something important.
+A447 anchoring-bias | FOR
+  INV: Anchoring-bias over-stabilizes the first reference point.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The tendency to rely too heavily on the first information received.
+A448 affective-overload | COG
+  INV: Affective-overload occurs when pressure exceeds gate capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Too much emotional, salience, stress, or care-pressure for a system to process well.
+A449 accusation-risk | REL
+  INV: Accusation-risk includes retaliation, false blame, suppression, and failed review.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger involved in making, receiving, suppressing, or mishandling an accusation.
+  LIMIT: Accusation channels must preserve provenance, evidence, reply, and protection against suppression or retaliation.
+A450 authorization-abuse | FOR
+  INV: Authorization-abuse occurs when granted access is expanded, repurposed, concealed, or used against the permission conditions that made it valid.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Misusing permission, power, or official access.

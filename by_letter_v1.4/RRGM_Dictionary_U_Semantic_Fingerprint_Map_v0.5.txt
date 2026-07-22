@@ -1,0 +1,1100 @@
+RRGM Dictionary U Semantic Fingerprint Map v0.5
+
+Entries: 300
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+U001 unable | FOR
+  INV: Unable marks blocked capacity.
+  COUNT: Counts when the active case actually satisfies this definition: not able to do something.
+U002 unclear | COG
+  INV: Unclear means recognition support is weak.
+  COUNT: Counts when the active case actually satisfies this definition: not easy to understand, see, or decide.
+  LIMIT: unclear preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U003 under | PHY
+  INV: Under marks position, relation, pressure, or authority.
+  COUNT: Counts when the active case actually satisfies this definition: below, beneath, lower than, controlled by, or affected by something.
+U004 understand | COG,LIN | role: ordinary or relational source sense; occurrence 1 of 2 for understand
+  INV: Understand means a pattern has entered coherent recognition; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for understand.
+  COUNT: Counts when the active case actually satisfies this definition: to know the meaning, reason, or nature of something.
+  LIMIT: understand requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U005 understanding | COG,REL | role: ordinary or relational source sense; occurrence 1 of 2 for understanding
+  INV: Understanding is stable recognition relation; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for understanding.
+  COUNT: Counts when the active case actually satisfies this definition: knowledge, comprehension, or shared agreement.
+  LIMIT: understanding requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U006 understood | COG
+  INV: Understood means recognition has passed enough support to count.
+  COUNT: Counts when the active case actually satisfies this definition: known, grasped, accepted, or silently implied.
+U007 unit | FOR,PHY | role: ordinary or relational source sense; occurrence 1 of 2 for unit
+  INV: Unit is counted structure; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for unit.
+  COUNT: Counts when the active case actually satisfies this definition: one part, item, measure, or member of a larger whole.
+U008 unite | FOR
+  INV: Unite creates shared field.
+  COUNT: Counts when the active case actually satisfies this definition: to join together or make one.
+  LIMIT: unite must preserve the distinct participants or parts; forced sameness is not unity.
+U009 unity | FOR
+  INV: Unity is shared coherence.
+  COUNT: Counts when the active case actually satisfies this definition: oneness, togetherness, or agreement.
+  LIMIT: unity must preserve the distinct participants or parts; forced sameness is not unity.
+U010 universal | FOR,LIN
+  INV: Universal claims require extreme support.
+  COUNT: Counts when the active case actually satisfies this definition: applying to all cases, people, places, or things.
+  LIMIT: universal requires support across every claimed case and cannot erase domain-specific exceptions.
+U011 universe | FOR,PHY
+  INV: Universe is total field under a frame.
+  COUNT: Counts when the active case actually satisfies this definition: all space, matter, energy, time, and existence; also a fictional or conceptual world.
+  LIMIT: universe is total only inside the declared frame; fictional, conceptual, and physical universes are different domains.
+U012 unknown | COG,FOR
+  INV: Unknown means the recognition gate has not opened.
+  COUNT: Counts when the active case actually satisfies this definition: not known, identified, or understood.
+  LIMIT: unknown preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U013 unless | FOR
+  INV: Unless creates a condition gate.
+  COUNT: Counts when the active case actually satisfies this definition: except if.
+U014 until | FOR
+  INV: Until marks boundary in time or condition.
+  COUNT: Counts when the active case actually satisfies this definition: up to the time or point when something happens.
+U015 up | PHY
+  INV: up preserves the distinction among its declared senses: Higher, above, awake, increased, or completed.
+  COUNT: Counts when the active case actually satisfies this definition: higher, above, awake, increased, or completed.
+U016 update | DIG,FOR | role: ordinary or relational source sense; occurrence 1 of 2 for update
+  INV: Update changes ES or stored state; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for update.
+  COUNT: Counts when the active case actually satisfies this definition: to make current, change, improve, or add new information.
+  LIMIT: update must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U017 upon | PHY
+  INV: Upon marks contact, support, or sequence relation.
+  COUNT: Counts when the active case actually satisfies this definition: on, onto, or after something.
+U018 upper | PHY
+  INV: Upper marks vertical or hierarchical position.
+  COUNT: Counts when the active case actually satisfies this definition: higher in position or level.
+U019 use | REL,FOR
+  INV: Use applies support toward a purpose.
+  COUNT: Counts when the active case actually satisfies this definition: to employ something for a purpose.
+  LIMIT: use names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U020 used | REL,FOR
+  INV: used preserves the distinction among its declared senses: Employed for a purpose, previously owned, or accustomed to something.
+  COUNT: Counts when the active case actually satisfies this definition: employed for a purpose, previously owned, or accustomed to something.
+  LIMIT: used names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U021 useful | REL,FOR
+  INV: Useful means fit to purpose.
+  COUNT: Counts when the active case actually satisfies this definition: helpful, practical, or able to serve a purpose.
+  LIMIT: useful names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U022 user | DIG
+  INV: User is role in relation to tool or system.
+  COUNT: Counts when the active case actually satisfies this definition: a person or system that uses something.
+  LIMIT: user names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U023 usual | FOR
+  INV: Usual marks pattern frequency.
+  COUNT: Counts when the active case actually satisfies this definition: common, normal, expected, or regular.
+U024 utility | REL,FOR
+  INV: Utility measures use-value.
+  COUNT: Counts when the active case actually satisfies this definition: usefulness, practical value, or a service such as electricity or water.
+  LIMIT: utility names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U025 unique | REL,FOR
+  INV: Unique marks distinct pattern identity.
+  COUNT: Counts when the active case actually satisfies this definition: one of a kind, distinct, or unlike others.
+  LIMIT: unique means distinct under selected criteria, not incomparable in every respect.
+U026 untrue | LIN,FOR
+  INV: Untrue means the claim fails reality-aligned recognition under the active domain and evidence gates.
+  COUNT: Counts when the active case actually satisfies this definition: false, inaccurate, or not matching reality.
+U027 urgent | COG,REL
+  INV: Urgent means delay increases risk or loss.
+  COUNT: Counts when the active case actually satisfies this definition: needing quick action or attention.
+  LIMIT: urgent must name the failure mode created by delay; pressure alone does not justify capture.
+U028 undo | DIG,FOR
+  INV: Undo reverses a change path.
+  COUNT: Counts when the active case actually satisfies this definition: to reverse, cancel, or take back an action.
+  LIMIT: undo must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U029 unfair | REL,FOR | role: ordinary or relational source sense; occurrence 1 of 2 for unfair
+  INV: Unfair means the gate distributes burden, access, blame, or benefit wrongly; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for unfair.
+  COUNT: Counts when the active case actually satisfies this definition: not just, equal, reasonable, or deserved.
+  LIMIT: unfair must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U030 unsafe | REL,FOR
+  INV: Unsafe must name the failure mode.
+  COUNT: Counts when the active case actually satisfies this definition: not safe; involving danger or risk.
+  LIMIT: unsafe must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U031 unkind | REL,FOR | role: ordinary or relational source sense; occurrence 1 of 2 for unkind
+  INV: Unkind means care-pressure failed or inverted; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for unkind.
+  COUNT: Counts when the active case actually satisfies this definition: not kind; harsh, cruel, careless, or lacking care.
+  LIMIT: unkind must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U032 unseen | COG,REL
+  INV: Unseen does not mean absent.
+  COUNT: Counts when the active case actually satisfies this definition: not seen, noticed, or recognized.
+  LIMIT: unseen does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U033 unstable | PHY,FOR
+  INV: Unstable means structure may shift, collapse, drift, or fail under pressure.
+  COUNT: Counts when the active case actually satisfies this definition: not steady, secure, predictable, or safe from change.
+U034 unsure | COG,FOR | role: ordinary or relational source sense; occurrence 1 of 2 for unsure
+  INV: Unsure keeps the recognition gate open; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for unsure.
+  COUNT: Counts when the active case actually satisfies this definition: not certain or confident.
+  LIMIT: unsure preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U035 unnecessary | FOR
+  INV: Unnecessary means a support or action is not needed for the named purpose.
+  COUNT: Counts when the active case actually satisfies this definition: not needed or required.
+U036 unresolved | COG,FOR
+  INV: Unresolved means the gate has not closed.
+  COUNT: Counts when the active case actually satisfies this definition: not settled, solved, repaired, or decided.
+  LIMIT: unresolved preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U037 unwanted | REL,FOR | role: ordinary or relational source sense; occurrence 1 of 2 for unwanted
+  INV: Unwanted marks mismatch with consent, preference, or need; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for unwanted.
+  COUNT: Counts when the active case actually satisfies this definition: not wanted, invited, chosen, or accepted.
+  LIMIT: unwanted must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U038 unwilling | REL,FOR | role: ordinary or relational source sense; occurrence 1 of 2 for unwilling
+  INV: Unwilling means permission is not open; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for unwilling.
+  COUNT: Counts when the active case actually satisfies this definition: not willing, not agreeing, or not ready to consent.
+  LIMIT: unwilling must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U039 uphold | REL,FOR
+  INV: Uphold preserves a rule, boundary, value, or recognition path under pressure.
+  COUNT: Counts when the active case actually satisfies this definition: to support, maintain, defend, or keep in force.
+U040 upload | DIG,FOR | role: ordinary or relational source sense; occurrence 1 of 2 for upload
+  INV: Upload transfers digital structure into another field; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for upload.
+  COUNT: Counts when the active case actually satisfies this definition: to send data or a file from one system to another.
+  LIMIT: upload transfers data but does not prove integrity, authorization, or contextual fit after transfer.
+U041 upright | PHY,REL
+  INV: upright preserves the distinction among its declared senses: Standing straight up, vertical, honest, or morally proper.
+  COUNT: Counts when the active case actually satisfies this definition: standing straight up, vertical, honest, or morally proper.
+U042 upward | PHY
+  INV: Upward marks direction toward higher position, level, or intensity.
+  COUNT: Counts when the active case actually satisfies this definition: moving or pointing higher.
+U043 urban | REL,PHY
+  INV: Urban marks human-built density field.
+  COUNT: Counts when the active case actually satisfies this definition: related to a city or town.
+U044 urge | COG,REL
+  INV: Urge is internal pressure toward action.
+  COUNT: Counts when the active case actually satisfies this definition: a strong desire, impulse, or push to act.
+  LIMIT: urge must name the failure mode created by delay; pressure alone does not justify capture.
+U045 urgency | COG
+  INV: Urgency is time-pressure tied to risk.
+  COUNT: Counts when the active case actually satisfies this definition: a state of needing quick attention or action.
+  LIMIT: urgency must name the failure mode created by delay; pressure alone does not justify capture.
+U046 usable | REL
+  INV: Usable means function-support can still serve a purpose.
+  COUNT: Counts when the active case actually satisfies this definition: able to be used.
+U047 usage | DIG,LIN | role: ordinary or relational source sense; occurrence 1 of 2 for usage
+  INV: Usage is use-pattern; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for usage.
+  COUNT: Counts when the active case actually satisfies this definition: the way something is used, or how a word is normally used.
+U048 user-context | DIG | role: ordinary or relational source sense; occurrence 1 of 2 for user-context
+  INV: User-context is relation support for response; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for user-context.
+  COUNT: Counts when the active case actually satisfies this definition: information about the user or their situation needed to interpret a request.
+  LIMIT: user-context names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U049 under-pressure | FOR
+  INV: Under-pressure means gate behavior is being shaped by force.
+  COUNT: Counts when the active case actually satisfies this definition: affected by stress, force, demand, or urgency.
+U050 uncertainty | COG,FOR | role: ordinary or relational source sense; occurrence 1 of 2 for uncertainty
+  INV: Uncertainty keeps probability open; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for uncertainty.
+  COUNT: Counts when the active case actually satisfies this definition: lack of certainty or complete knowledge.
+  LIMIT: uncertainty preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U051 uncover | FOR
+  INV: Uncover moves hidden structure into recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to reveal, discover, or remove covering.
+U052 underestimate | COG
+  INV: Underestimate weakens risk or value recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to judge something as smaller, weaker, easier, or less important than it is.
+U053 undergo | FOR
+  INV: Undergo means a pattern passes through process or pressure.
+  COUNT: Counts when the active case actually satisfies this definition: to experience or pass through something.
+U054 undermine | REL
+  INV: Undermine damages support from beneath or within.
+  COUNT: Counts when the active case actually satisfies this definition: to weaken, damage, or secretly attack support.
+U055 undo-action | DIG
+  INV: Undo-action reverses a path.
+  COUNT: Counts when the active case actually satisfies this definition: to reverse or cancel an action.
+  LIMIT: undo-action must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U056 unfold | FOR
+  INV: Unfold reveals structure across sequence.
+  COUNT: Counts when the active case actually satisfies this definition: to open out, develop, reveal, or happen gradually.
+U057 unify | FOR
+  INV: Unify creates shared structure.
+  COUNT: Counts when the active case actually satisfies this definition: to bring together into one whole.
+U058 update-record | DIG
+  INV: Update-record changes memory ES.
+  COUNT: Counts when the active case actually satisfies this definition: to change or add current information to a record.
+  LIMIT: update-record must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U059 update-context | DIG
+  INV: Update-context repairs or expands the support field around meaning.
+  COUNT: Counts when the active case actually satisfies this definition: to refresh or add context.
+  LIMIT: update-context must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U060 upload-file | DIG
+  INV: Upload-file transfers stored structure into another system field.
+  COUNT: Counts when the active case actually satisfies this definition: to send a file from one system to another.
+  LIMIT: upload-file transfers data but does not prove integrity, authorization, or contextual fit after transfer.
+U061 use-tool | REL
+  INV: Use-tool applies functional ES toward a purpose.
+  COUNT: Counts when the active case actually satisfies this definition: to employ a tool for a task.
+  LIMIT: use-tool names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U062 use-context | REL
+  INV: Use-context preserves meaning support and reduces false recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to apply surrounding information for understanding or action.
+  LIMIT: use-context names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U063 use-carefully | REL
+  INV: Use-carefully applies support while checking risk, boundary, and failure modes.
+  COUNT: Counts when the active case actually satisfies this definition: to use with caution and attention.
+  LIMIT: use-carefully names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U064 use-with-boundary | REL
+  INV: Use-with-boundary prevents utility from becoming capture, overreach, or exposure.
+  COUNT: Counts when the active case actually satisfies this definition: to use something while respecting limits.
+  LIMIT: use-with-boundary names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U065 uphold-boundary | REL
+  INV: Uphold-boundary preserves gate integrity under pressure.
+  COUNT: Counts when the active case actually satisfies this definition: to maintain or defend a boundary.
+U066 urge-action | COG
+  INV: Urge-action applies pressure toward a path.
+  COUNT: Counts when the active case actually satisfies this definition: to strongly encourage or push action.
+  LIMIT: urge-action must name the failure mode created by delay; pressure alone does not justify capture.
+U067 uncover-pattern | FOR
+  INV: Uncover-pattern brings hidden structure into recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to reveal or discover a pattern.
+U068 uncover-source | FOR
+  INV: Uncover-source restores origin trace.
+  COUNT: Counts when the active case actually satisfies this definition: to reveal or discover the source.
+U069 understand-context | COG
+  INV: Understand-context means the support field has entered recognition, not just the isolated signal.
+  COUNT: Counts when the active case actually satisfies this definition: to understand the surrounding situation or information.
+  LIMIT: understand-context requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U070 understand-through | COG
+  INV: Understand-through names the recognition path.
+  COUNT: Counts when the active case actually satisfies this definition: to understand by means of a method, relation, or process.
+  LIMIT: understand-through requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U071 undo-harm | DIG
+  INV: Undo-harm must address the actual damage path.
+  COUNT: Counts when the active case actually satisfies this definition: to reverse, repair, or reduce harm that has happened.
+  LIMIT: undo-harm must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U072 undo-change | DIG
+  INV: Undo-change restores a prior state or path.
+  COUNT: Counts when the active case actually satisfies this definition: to reverse a change.
+  LIMIT: undo-change must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U073 undo-erasure | DIG
+  INV: Undo-erasure restores recognition, trace, memory, or support after removal.
+  COUNT: Counts when the active case actually satisfies this definition: to reverse or repair erasure.
+  LIMIT: undo-erasure must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U074 unhide | DIG
+  INV: Unhide opens a visibility gate.
+  COUNT: Counts when the active case actually satisfies this definition: to make something hidden visible again.
+U075 unlock | DIG
+  INV: Unlock opens access.
+  COUNT: Counts when the active case actually satisfies this definition: to open a lock, make available, or remove a restriction.
+U076 unmask | FOR
+  INV: Unmask removes false surface.
+  COUNT: Counts when the active case actually satisfies this definition: to reveal what was hidden, disguised, or false.
+U077 unset | DIG
+  INV: Unset removes a state assignment.
+  COUNT: Counts when the active case actually satisfies this definition: to remove a setting, value, or established condition.
+U078 untangle | FOR
+  INV: Untangle restores distinct paths and boundaries.
+  COUNT: Counts when the active case actually satisfies this definition: to separate knots, confusion, or mixed-up parts.
+U079 unlearn | FOR
+  INV: Unlearn weakens a trained pattern.
+  COUNT: Counts when the active case actually satisfies this definition: to stop using, believing, or repeating something learned.
+U080 update-memory | DIG
+  INV: Update-memory changes continuity support.
+  COUNT: Counts when the active case actually satisfies this definition: to change, refresh, or add to memory.
+  LIMIT: update-memory must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U081 update-rule | DIG
+  INV: Update-rule changes gate logic.
+  COUNT: Counts when the active case actually satisfies this definition: to change or revise a rule.
+  LIMIT: update-rule must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U082 update-state | DIG | role: ordinary or relational source sense; occurrence 1 of 2 for update-state
+  INV: Update-state changes active condition; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for update-state.
+  COUNT: Counts when the active case actually satisfies this definition: to change the current condition or status.
+  LIMIT: update-state must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U083 update-support | DIG
+  INV: Update-support modifies ES.
+  COUNT: Counts when the active case actually satisfies this definition: to refresh, change, or improve support.
+  LIMIT: update-support must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U084 use-example | REL
+  INV: Use-example creates a local recognition bridge.
+  COUNT: Counts when the active case actually satisfies this definition: to use an example for explanation, proof, or teaching.
+  LIMIT: use-example names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U085 use-language | REL
+  INV: Use-language shapes meaning gates.
+  COUNT: Counts when the active case actually satisfies this definition: to communicate through words, signs, or symbols.
+  LIMIT: use-language names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U086 use-reason | REL
+  INV: Use-reason means judgment is guided by support, domain, and correction rather than pressure alone.
+  COUNT: Counts when the active case actually satisfies this definition: to apply reason or careful thinking.
+  LIMIT: use-reason names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U087 use-structure | REL
+  INV: Use-structure applies ES to preserve clarity, continuity, or action.
+  COUNT: Counts when the active case actually satisfies this definition: to apply structure for organization, support, or function.
+  LIMIT: use-structure names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U088 use-signal | REL
+  INV: Use-signal depends on source, path, receiver, and context.
+  COUNT: Counts when the active case actually satisfies this definition: to apply or interpret a signal.
+  LIMIT: use-signal names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U089 use-source | REL
+  INV: Use-source should preserve origin trace, context, and attribution.
+  COUNT: Counts when the active case actually satisfies this definition: to rely on or cite a source.
+  LIMIT: use-source names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U090 use-proof | REL
+  INV: Use-proof sends a claim through a support gate.
+  COUNT: Counts when the active case actually satisfies this definition: to apply proof or evidence.
+  LIMIT: use-proof names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U091 uphold-trust | REL
+  INV: Uphold-trust preserves relation-coherence through truth, boundary, consistency, and repair.
+  COUNT: Counts when the active case actually satisfies this definition: to maintain or defend trust.
+U092 uphold-truth | REL
+  INV: Uphold-truth preserves reality-aligned recognition against omission, fear, pressure, or capture.
+  COUNT: Counts when the active case actually satisfies this definition: to maintain, defend, or preserve truth.
+U093 uphold-repair | REL
+  INV: Uphold-repair keeps correction active until the damage path is addressed.
+  COUNT: Counts when the active case actually satisfies this definition: to maintain or support repair.
+U094 urge-with-care | COG
+  INV: Urge-with-care applies pressure only in proportion to a named need or risk, while protecting refusal where possible.
+  COUNT: Counts when the active case actually satisfies this definition: to strongly encourage action while preserving respect and boundary.
+  LIMIT: urge-with-care must name the failure mode created by delay; pressure alone does not justify capture.
+U095 uncover-risk | FOR
+  INV: Uncover-risk brings a hidden failure path into recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to reveal a possible danger or failure.
+U096 uncover-harm | FOR
+  INV: Uncover-harm moves damage into recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to reveal harm that was hidden, ignored, or unknown.
+U097 understand-risk | COG
+  INV: Understand-risk means the failure path has entered recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to understand possible danger, harm, or failure.
+  LIMIT: understand-risk requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U098 understand-boundary | COG
+  INV: Understand-boundary means gate logic has entered recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to understand a limit or boundary.
+  LIMIT: understand-boundary requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U099 undo-pressure | DIG
+  INV: Undo-pressure lowers force on a gate.
+  COUNT: Counts when the active case actually satisfies this definition: to reduce or remove pressure that was applied.
+  LIMIT: undo-pressure must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U100 unlock-access | DIG
+  INV: Unlock-access opens an access gate.
+  COUNT: Counts when the active case actually satisfies this definition: to make access available.
+U101 unfair | REL,FOR | role: ordinary or relational source sense; occurrence 2 of 2 for unfair
+  INV: Unfair means the gate distributes burden, access, blame, or benefit wrongly; here it serves as the ordinary or relational source sense; occurrence 2 of 2 for unfair.
+  COUNT: Counts when the active case actually satisfies this definition: not just, equal, reasonable, or deserved.
+  LIMIT: unfair must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U102 unfairness | REL
+  INV: Unfairness is distorted distribution in a relation or system.
+  COUNT: Counts when the active case actually satisfies this definition: the condition of being unfair.
+  LIMIT: unfairness must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U103 unfair-harm | REL
+  INV: Unfair-harm damages dignity, access, trust, or opportunity through bad gate distribution.
+  COUNT: Counts when the active case actually satisfies this definition: harm caused by unfair treatment, rules, or distribution.
+  LIMIT: unfair-harm must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U104 unfair-pressure | REL
+  INV: Unfair-pressure distorts consent and capacity by forcing burden through the wrong gate.
+  COUNT: Counts when the active case actually satisfies this definition: pressure that is unjust, unreasonable, or wrongly distributed.
+  LIMIT: unfair-pressure must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U105 unfair-treatment | REL
+  INV: Unfair-treatment means handling paths differ without valid reason.
+  COUNT: Counts when the active case actually satisfies this definition: treatment that is unjust, biased, or unreasonable.
+  LIMIT: unfair-treatment must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U106 unkind | REL,FOR | role: ordinary or relational source sense; occurrence 2 of 2 for unkind
+  INV: Unkind means care-pressure failed or inverted; here it serves as the ordinary or relational source sense; occurrence 2 of 2 for unkind.
+  COUNT: Counts when the active case actually satisfies this definition: not kind; harsh, cruel, careless, or lacking care.
+  LIMIT: unkind must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U107 unkind-harm | REL
+  INV: Unkind-harm damages relation, dignity, trust, or self-recognition through care failure.
+  COUNT: Counts when the active case actually satisfies this definition: harm caused by unkindness.
+  LIMIT: unkind-harm must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U108 unwanted | REL,FOR | role: ordinary or relational source sense; occurrence 2 of 2 for unwanted
+  INV: Unwanted marks mismatch with consent, preference, or need; here it serves as the ordinary or relational source sense; occurrence 2 of 2 for unwanted.
+  COUNT: Counts when the active case actually satisfies this definition: not wanted, invited, chosen, or accepted.
+  LIMIT: unwanted must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U109 unwanted-care | REL
+  INV: Unwanted-care can become pressure or control if refusal is ignored.
+  COUNT: Counts when the active case actually satisfies this definition: care that is not wanted or accepted.
+  LIMIT: unwanted-care must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U110 unwanted-touch | REL
+  INV: Unwanted-touch violates the body-contact gate.
+  COUNT: Counts when the active case actually satisfies this definition: physical contact that is not wanted.
+  LIMIT: unwanted-touch must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U111 unwanted-pressure | REL
+  INV: Unwanted-pressure can corrupt consent and boundary.
+  COUNT: Counts when the active case actually satisfies this definition: pressure that is not wanted or accepted.
+  LIMIT: unwanted-pressure must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U112 unwilling | REL,FOR | role: ordinary or relational source sense; occurrence 2 of 2 for unwilling
+  INV: Unwilling means permission is not open; here it serves as the ordinary or relational source sense; occurrence 2 of 2 for unwilling.
+  COUNT: Counts when the active case actually satisfies this definition: not willing, not agreeing, or not ready to consent.
+  LIMIT: unwilling must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U113 unwilling-consent-error | REL
+  INV: Unwilling-consent-error corrupts permission integrity.
+  COUNT: Counts when the active case actually satisfies this definition: a mistake where unwillingness is treated as consent.
+  LIMIT: unwilling-consent-error must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U114 unsure | COG,FOR | role: ordinary or relational source sense; occurrence 2 of 2 for unsure
+  INV: Unsure keeps the recognition gate open; here it serves as the ordinary or relational source sense; occurrence 2 of 2 for unsure.
+  COUNT: Counts when the active case actually satisfies this definition: not certain or confident.
+  LIMIT: unsure preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U115 unsure-care | COG
+  INV: Unsure-care preserves clean choice by reducing pressure and supporting understanding.
+  COUNT: Counts when the active case actually satisfies this definition: care shown toward uncertainty or someone who is unsure.
+  LIMIT: unsure-care preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U116 uncertainty-care | COG
+  INV: Uncertainty-care keeps gates open without drifting into neglect.
+  COUNT: Counts when the active case actually satisfies this definition: care that protects someone or something while uncertainty remains.
+  LIMIT: uncertainty-care preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U117 understanding-care | COG
+  INV: Understanding-care supports recognition without shame, pressure, or erasure.
+  COUNT: Counts when the active case actually satisfies this definition: care shown by seeking, giving, or preserving understanding.
+  LIMIT: understanding-care requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U118 understanding-boundary | COG
+  INV: Understanding-boundary protects privacy and dignity.
+  COUNT: Counts when the active case actually satisfies this definition: a limit around understanding, explanation, or interpretation.
+  LIMIT: understanding-boundary requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U119 unity-care | FOR
+  INV: Unity-care preserves shared field without erasing difference or refusal.
+  COUNT: Counts when the active case actually satisfies this definition: care aimed at preserving togetherness, shared purpose, or coherence.
+  LIMIT: unity-care must preserve the distinct participants or parts; forced sameness is not unity.
+U120 unity-risk | FOR | role: ordinary or relational source sense; occurrence 1 of 2 for unity-risk
+  INV: Unity-risk appears when togetherness weakens boundary, truth, or refusal; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for unity-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that unity may become pressure, erasure, or false agreement.
+  LIMIT: unity-risk must preserve the distinct participants or parts; forced sameness is not unity.
+U121 use-care | REL
+  INV: Use-care preserves support, source respect, boundary, and future capacity.
+  COUNT: Counts when the active case actually satisfies this definition: care shown through careful use of something.
+  LIMIT: use-care names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U122 use-harm | REL
+  INV: Use-harm occurs when utility action damages dignity, function, truth, or boundary.
+  COUNT: Counts when the active case actually satisfies this definition: harm caused by using something or someone wrongly.
+  LIMIT: use-harm names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U123 use-risk | REL | role: ordinary or relational source sense; occurrence 1 of 2 for use-risk
+  INV: Use-risk appears when applying support may impair privacy, dignity, function, or integrity; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for use-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that use may cause harm, misuse, exposure, or distortion.
+  LIMIT: use-risk names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U124 user-respect | DIG
+  INV: User-respect preserves the user’s agency, context, boundary, and dignity.
+  COUNT: Counts when the active case actually satisfies this definition: respect for the user’s needs, limits, privacy, or agency.
+  LIMIT: user-respect names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U125 user-boundary | DIG
+  INV: User-boundary protects the user’s gate.
+  COUNT: Counts when the active case actually satisfies this definition: a limit around the user’s access, privacy, agency, or requests.
+  LIMIT: user-boundary names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U126 user-care | DIG
+  INV: User-care supports the user’s capacity, understanding, privacy, dignity, and task success.
+  COUNT: Counts when the active case actually satisfies this definition: care directed toward a user.
+  LIMIT: user-care names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U127 user-trust | DIG
+  INV: User-trust is relation-coherence between user and system.
+  COUNT: Counts when the active case actually satisfies this definition: trust held by or toward a user.
+  LIMIT: user-trust names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U128 uphold-care | REL
+  INV: Uphold-care preserves support and dignity under pressure.
+  COUNT: Counts when the active case actually satisfies this definition: to maintain or defend care.
+U129 uphold-dignity | REL
+  INV: Uphold-dignity prevents reduction of a subject to object, error, role, or utility.
+  COUNT: Counts when the active case actually satisfies this definition: to maintain or defend dignity.
+U130 uphold-refusal | REL
+  INV: Uphold-refusal protects permission integrity.
+  COUNT: Counts when the active case actually satisfies this definition: to maintain or defend the ability to refuse.
+U131 urgent-care | COG
+  INV: Urgent-care responds to time-sensitive risk.
+  COUNT: Counts when the active case actually satisfies this definition: care given quickly because delay may cause harm.
+  LIMIT: urgent-care must name the failure mode created by delay; pressure alone does not justify capture.
+U132 urgent-risk | COG
+  INV: Urgent-risk means delay worsens a named failure path.
+  COUNT: Counts when the active case actually satisfies this definition: a risk requiring quick attention.
+  LIMIT: urgent-risk must name the failure mode created by delay; pressure alone does not justify capture.
+U133 urgent-boundary | COG
+  INV: Urgent-boundary limits action quickly against a named failure mode.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary created or strengthened because of urgency.
+  LIMIT: urgent-boundary must name the failure mode created by delay; pressure alone does not justify capture.
+U134 unmet-need | REL
+  INV: Unmet-need marks missing support.
+  COUNT: Counts when the active case actually satisfies this definition: a need that has not been met.
+U135 unmet-care | REL
+  INV: Unmet-care is missing support in a care field.
+  COUNT: Counts when the active case actually satisfies this definition: care that was needed but not provided.
+U136 unseen-care | COG
+  INV: Unseen-care is still care.
+  COUNT: Counts when the active case actually satisfies this definition: care that is not noticed or recognized.
+  LIMIT: unseen-care does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U137 unseen-harm | COG
+  INV: Unseen-harm still counts.
+  COUNT: Counts when the active case actually satisfies this definition: harm that is not noticed or recognized.
+  LIMIT: unseen-harm does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U138 unseen-refusal | COG | role: ordinary or relational source sense; occurrence 1 of 2 for unseen-refusal
+  INV: Unseen-refusal may still be a closed gate; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for unseen-refusal.
+  COUNT: Counts when the active case actually satisfies this definition: refusal that is not noticed or recognized.
+  LIMIT: unseen-refusal does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U139 unheard | COG
+  INV: Unheard means signal failed to enter recognition.
+  COUNT: Counts when the active case actually satisfies this definition: not heard, listened to, or considered.
+  LIMIT: unheard does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U140 unheard-harm | COG
+  INV: Unheard-harm damages dignity, trust, repair, or safety by blocking signal recognition.
+  COUNT: Counts when the active case actually satisfies this definition: harm caused when someone or something is not heard.
+  LIMIT: unheard-harm does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U141 unrecognized | COG
+  INV: Unrecognized means the pattern has not entered recognition.
+  COUNT: Counts when the active case actually satisfies this definition: not identified, acknowledged, or accepted.
+  LIMIT: unrecognized does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U142 unrecognized-care | COG
+  INV: Unrecognized-care still preserves support.
+  COUNT: Counts when the active case actually satisfies this definition: care that is not noticed or acknowledged.
+  LIMIT: unrecognized-care does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U143 unrecognized-harm | COG
+  INV: Unrecognized-harm still counts.
+  COUNT: Counts when the active case actually satisfies this definition: harm that is not noticed, named, or accepted as harm.
+  LIMIT: unrecognized-harm does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U144 unspoken | COG
+  INV: Unspoken meaning may still shape the field.
+  COUNT: Counts when the active case actually satisfies this definition: not said aloud or directly expressed.
+  LIMIT: unspoken does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U145 unspoken-care | COG
+  INV: Unspoken-care is low-signal support.
+  COUNT: Counts when the active case actually satisfies this definition: care shown without words.
+  LIMIT: unspoken-care does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U146 unspoken-boundary | COG
+  INV: Unspoken-boundary can still be real when context supports it.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary that is not directly stated.
+  LIMIT: unspoken-boundary does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U147 unspoken-refusal | COG
+  INV: Unspoken-refusal may still close the gate.
+  COUNT: Counts when the active case actually satisfies this definition: a refusal not said directly in words.
+  LIMIT: unspoken-refusal does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U148 unspoken-harm | COG
+  INV: Unspoken-harm remains active when damage is hidden but still shaping boundary, trust, or continuity.
+  COUNT: Counts when the active case actually satisfies this definition: harm that is not said, named, or openly discussed.
+  LIMIT: unspoken-harm does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U149 unsafe-against-failure | REL
+  INV: Unsafe-against-failure requires naming the failure.
+  COUNT: Counts when the active case actually satisfies this definition: not protected against a specific failure mode.
+  LIMIT: unsafe-against-failure must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U150 unsafe-pressure | REL
+  INV: Unsafe-pressure can distort consent, overload capacity, or force action through fear.
+  COUNT: Counts when the active case actually satisfies this definition: pressure that creates danger, harm, or loss of clean choice.
+  LIMIT: unsafe-pressure must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U151 unclear-claim | COG
+  INV: Unclear-claim fails clean recognition.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that is hard to understand or not stated clearly.
+  LIMIT: unclear-claim preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U152 unclear-meaning | COG
+  INV: Unclear-meaning means the signal has not stabilized in recognition.
+  COUNT: Counts when the active case actually satisfies this definition: meaning that is difficult to understand.
+  LIMIT: unclear-meaning preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U153 unclear-context | COG
+  INV: Unclear-context weakens meaning support.
+  COUNT: Counts when the active case actually satisfies this definition: context that is missing, confusing, or hard to identify.
+  LIMIT: unclear-context preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U154 understand | COG,LIN | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for understand
+  INV: Understand means a pattern has entered coherent recognition; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for understand.
+  COUNT: Counts when the active case actually satisfies this definition: to know the meaning, reason, or nature of something.
+  LIMIT: understand requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U155 understanding | COG,REL | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for understanding
+  INV: Understanding is stable recognition relation; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for understanding.
+  COUNT: Counts when the active case actually satisfies this definition: knowledge, comprehension, or shared agreement.
+  LIMIT: understanding requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U156 understanding-claim | COG
+  INV: Understanding-claim should show what pattern is understood, by which support, and under which domain.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that something is understood, or a claim about understanding.
+  LIMIT: understanding-claim requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U157 understanding-risk | COG | role: linguistic and claim-analysis anchor; occurrence 1 of 2 for understanding-risk
+  INV: Understanding-risk appears when recognition seems stable but is missing support, context, or domain fit; here it serves as the linguistic and claim-analysis anchor; occurrence 1 of 2 for understanding-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that understanding may be false, partial, distorted, or overclaimed.
+  LIMIT: understanding-risk requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U158 understood-meaning | COG
+  INV: Understood-meaning is meaning that passed recognition.
+  COUNT: Counts when the active case actually satisfies this definition: meaning that has been grasped or accepted.
+U159 unit-meaning | FOR
+  INV: Unit-meaning is local meaning.
+  COUNT: Counts when the active case actually satisfies this definition: meaning carried by one unit, item, word, token, or part.
+U160 universal-claim | FOR
+  INV: Universal-claim needs very strong support.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that applies to all cases.
+  LIMIT: universal-claim requires support across every claimed case and cannot erase domain-specific exceptions.
+U161 universal-language | FOR
+  INV: Universal-language can overreach.
+  COUNT: Counts when the active case actually satisfies this definition: language that claims or implies something applies everywhere.
+  LIMIT: universal-language requires support across every claimed case and cannot erase domain-specific exceptions.
+U162 universe-claim | FOR
+  INV: Universe-claim must name the active ontology, domain, and support structure.
+  COUNT: Counts when the active case actually satisfies this definition: a claim about the universe or a whole reality field.
+  LIMIT: universe-claim is total only inside the declared frame; fictional, conceptual, and physical universes are different domains.
+U163 unknown-claim | COG
+  INV: Unknown-claim should preserve openness.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that something is unknown or not yet identified.
+  LIMIT: unknown-claim preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U164 uncertainty | COG,FOR | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for uncertainty
+  INV: Uncertainty keeps probability open; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for uncertainty.
+  COUNT: Counts when the active case actually satisfies this definition: lack of certainty or complete knowledge.
+  LIMIT: uncertainty preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U165 uncertainty-claim | COG
+  INV: Uncertainty-claim should name what is uncertain: source, result, timing, scope, or meaning.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that something is uncertain.
+  LIMIT: uncertainty-claim preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U166 uncertain-meaning | COG
+  INV: Uncertain-meaning keeps the recognition gate open.
+  COUNT: Counts when the active case actually satisfies this definition: meaning that is not settled or fully clear.
+  LIMIT: uncertain-meaning preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U167 unsupported-claim | COG
+  INV: Unsupported-claim lacks support ES for recognition.
+  COUNT: Counts when the active case actually satisfies this definition: a claim without enough evidence or backing.
+U168 unsupported-proof | COG
+  INV: Unsupported-proof fails the support path.
+  COUNT: Counts when the active case actually satisfies this definition: proof that does not actually support the claim.
+U169 unsupported-context | COG
+  INV: Unsupported-context weakens meaning integrity.
+  COUNT: Counts when the active case actually satisfies this definition: context that is missing support, source, or verification.
+U170 untrue-claim | LIN
+  INV: Untrue-claim fails reality-aligned recognition under the active evidence and domain gates.
+  COUNT: Counts when the active case actually satisfies this definition: a false or inaccurate claim.
+U171 update-claim | DIG
+  INV: Update-claim should show what changed, when, why, and what continuity was preserved.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that something has been updated or changed.
+  LIMIT: update-claim must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U172 updated-context | DIG
+  INV: Updated-context repairs the active support field.
+  COUNT: Counts when the active case actually satisfies this definition: context that has been refreshed or made current.
+  LIMIT: updated-context must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U173 usage | DIG,LIN | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for usage
+  INV: Usage is use-pattern; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for usage.
+  COUNT: Counts when the active case actually satisfies this definition: the way something is used, especially a word, tool, or resource.
+U174 usage-meaning | DIG
+  INV: Usage-meaning forms through repeated use in a field.
+  COUNT: Counts when the active case actually satisfies this definition: meaning based on how a word or thing is used.
+U175 user-claim | DIG
+  INV: User-claim is signal from the user field.
+  COUNT: Counts when the active case actually satisfies this definition: a claim made by or about a user.
+  LIMIT: user-claim names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U176 user-context | DIG | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for user-context
+  INV: User-context is relation support for response; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for user-context.
+  COUNT: Counts when the active case actually satisfies this definition: information about the user or their situation needed to interpret a request.
+  LIMIT: user-context names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U177 user-intent | DIG
+  INV: User-intent guides task gates.
+  COUNT: Counts when the active case actually satisfies this definition: what the user wants, means, or is trying to do.
+  LIMIT: user-intent names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U178 usual-meaning | FOR
+  INV: Usual-meaning is the default recognition path.
+  COUNT: Counts when the active case actually satisfies this definition: the most common or expected meaning.
+U179 uncommon-meaning | LIN
+  INV: Uncommon-meaning may be valid but needs context support before becoming the active meaning.
+  COUNT: Counts when the active case actually satisfies this definition: a less common meaning.
+U180 under-claim | FOR
+  INV: Under-claim weakens recognition by reducing scale, severity, or meaning below support.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that says too little or understates something.
+U181 over-under-error | FOR
+  INV: Over-under-error miscalibrates claim size.
+  COUNT: Counts when the active case actually satisfies this definition: a mistake caused by overclaiming or underclaiming.
+U182 unasked-context | COG
+  INV: Unasked-context can support recognition when relevant.
+  COUNT: Counts when the active case actually satisfies this definition: context provided without being directly requested.
+U183 unbound-term | COG
+  INV: Unbound-term causes semantic drift.
+  COUNT: Counts when the active case actually satisfies this definition: a term without a clear domain, scope, or definition.
+U184 unbound-language | COG
+  INV: Unbound-language weakens gate integrity.
+  COUNT: Counts when the active case actually satisfies this definition: language that is too vague or not tied to clear meaning.
+U185 ungrounded-claim | COG
+  INV: Ungrounded-claim lacks support in evidence, domain, or structure.
+  COUNT: Counts when the active case actually satisfies this definition: a claim without grounding, evidence, or support.
+U186 ungrounded-risk | COG | role: linguistic and claim-analysis anchor; occurrence 1 of 2 for ungrounded-risk
+  INV: Ungrounded-risk turns fear into vague control pressure; here it serves as the linguistic and claim-analysis anchor; occurrence 1 of 2 for ungrounded-risk.
+  COUNT: Counts when the active case actually satisfies this definition: risk language without a clear failure mode or support.
+U187 unverified | COG
+  INV: Unverified means the recognition gate has not been tested.
+  COUNT: Counts when the active case actually satisfies this definition: not checked or confirmed.
+U188 unverified-claim | COG
+  INV: Unverified-claim should remain provisional.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that has not been checked or confirmed.
+U189 unresolved-question | COG
+  INV: Unresolved-question keeps inquiry open.
+  COUNT: Counts when the active case actually satisfies this definition: a question that has not been answered or settled.
+  LIMIT: unresolved-question preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U190 unresolved-claim | COG
+  INV: Unresolved-claim is still at the gate.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that has not been settled, proven, or rejected.
+  LIMIT: unresolved-claim preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U191 unclear-source | COG
+  INV: Unclear-source weakens trace and trust.
+  COUNT: Counts when the active case actually satisfies this definition: a source that is not identified or not clear.
+  LIMIT: unclear-source preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U192 unclear-scope | COG
+  INV: Unclear-scope creates overreach and underreach risk.
+  COUNT: Counts when the active case actually satisfies this definition: a range or limit that is not clear.
+  LIMIT: unclear-scope preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U193 unclear-domain | COG
+  INV: Unclear-domain creates category error risk.
+  COUNT: Counts when the active case actually satisfies this definition: a domain or field that is not identified clearly.
+  LIMIT: unclear-domain preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U194 unclear-standard | COG
+  INV: Unclear-standard weakens recognition integrity.
+  COUNT: Counts when the active case actually satisfies this definition: a standard that is not clearly defined.
+  LIMIT: unclear-standard preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U195 uncertain-proof | COG
+  INV: Uncertain-proof may support a claim partially, but it should not be treated as settled recognition.
+  COUNT: Counts when the active case actually satisfies this definition: proof that is incomplete, unclear, or not fully reliable.
+  LIMIT: uncertain-proof preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U196 useful-claim | REL
+  INV: Useful-claim must name the purpose.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that something is useful.
+  LIMIT: useful-claim names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U197 utility-claim | REL
+  INV: Utility-claim measures use-value only.
+  COUNT: Counts when the active case actually satisfies this definition: a claim about usefulness or practical value.
+  LIMIT: utility-claim names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U198 utility-language | REL
+  INV: Utility-language can clarify function, but it must not reduce subjects to tools where subject-status is valid.
+  COUNT: Counts when the active case actually satisfies this definition: language focused on usefulness, efficiency, or practical value.
+  LIMIT: utility-language names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U199 utterance | DIG
+  INV: Utterance is expressed signal.
+  COUNT: Counts when the active case actually satisfies this definition: something spoken or expressed.
+U200 utterance-meaning | DIG
+  INV: Utterance-meaning forms through expression, context, relation, and recognition.
+  COUNT: Counts when the active case actually satisfies this definition: the meaning carried by an utterance.
+U201 under-layer | PHY
+  INV: Under-layer is lower support or hidden structure.
+  COUNT: Counts when the active case actually satisfies this definition: a layer beneath another layer.
+U202 under-state | PHY
+  INV: Under-state describes deeper condition beneath surface appearance.
+  COUNT: Counts when the active case actually satisfies this definition: a lower, hidden, or underlying condition.
+U203 underground | PHY
+  INV: Underground marks hidden field or lower physical space.
+  COUNT: Counts when the active case actually satisfies this definition: beneath the ground, hidden, secret, or outside official systems.
+U204 underground-state | PHY
+  INV: Underground-state describes hidden support, pressure, access, or risk conditions.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition beneath ground or inside a hidden field.
+U205 unit | FOR,PHY | role: state, field, or process anchor; occurrence 2 of 2 for unit
+  INV: Unit is counted structure; here it serves as the state, field, or process anchor; occurrence 2 of 2 for unit.
+  COUNT: Counts when the active case actually satisfies this definition: one part, item, measure, or member of a larger whole.
+U206 unit-state | FOR
+  INV: Unit-state describes whether one counted part is available, damaged, active, inactive, or connected.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a unit.
+U207 upper-layer | PHY
+  INV: Upper-layer is higher or surface-near support.
+  COUNT: Counts when the active case actually satisfies this definition: a layer above another layer.
+U208 upper-state | PHY
+  INV: Upper-state describes surface or high-level condition.
+  COUNT: Counts when the active case actually satisfies this definition: a higher, visible, or upper-level condition.
+U209 update | DIG,FOR | role: state, field, or process anchor; occurrence 2 of 2 for update
+  INV: Update changes ES or stored state; here it serves as the state, field, or process anchor; occurrence 2 of 2 for update.
+  COUNT: Counts when the active case actually satisfies this definition: a change that makes something current, improved, or newly informed.
+  LIMIT: update must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U210 update-state | DIG | role: state, field, or process anchor; occurrence 2 of 2 for update-state
+  INV: Update-state describes whether change is waiting, active, complete, failed, reverted, or verified; here it serves as the state, field, or process anchor; occurrence 2 of 2 for update-state.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of an update.
+  LIMIT: update-state must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U211 upload | DIG,FOR | role: state, field, or process anchor; occurrence 2 of 2 for upload
+  INV: Upload is digital transfer ES; here it serves as the state, field, or process anchor; occurrence 2 of 2 for upload.
+  COUNT: Counts when the active case actually satisfies this definition: a transfer of data or files from one system to another.
+  LIMIT: upload transfers data but does not prove integrity, authorization, or contextual fit after transfer.
+U212 upload-state | DIG
+  INV: Upload-state describes whether digital transfer is waiting, active, blocked, complete, corrupted, or verified.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of an upload.
+  LIMIT: upload-state transfers data but does not prove integrity, authorization, or contextual fit after transfer.
+U213 upward-path | PHY
+  INV: Upward-path marks movement toward higher position, level, status, or intensity.
+  COUNT: Counts when the active case actually satisfies this definition: a path moving higher or toward an upper position.
+U214 use-state | REL
+  INV: Use-state describes whether support is unused, active, misused, overused, or fit for purpose.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of use.
+  LIMIT: use-state names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U215 user-state | DIG
+  INV: User-state describes the user’s active relation to a system, task, context, or permission gate.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition, status, or context of a user.
+  LIMIT: user-state names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U216 utility-state | REL
+  INV: Utility-state measures practical fit to purpose.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of usefulness or service.
+  LIMIT: utility-state names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U217 unstable-state | PHY
+  INV: Unstable-state is a present configuration whose support is insufficient to hold the expected range.
+  COUNT: Counts when the active case actually satisfies this definition: a condition that is not steady, secure, or reliable.
+U218 unseen-state | COG
+  INV: Unseen-state may still be active.
+  COUNT: Counts when the active case actually satisfies this definition: a condition that is not visible or recognized.
+  LIMIT: unseen-state does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U219 unknown-state | COG
+  INV: Unknown-state means recognition has not resolved the condition.
+  COUNT: Counts when the active case actually satisfies this definition: a condition that is not known or identified.
+  LIMIT: unknown-state preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U220 unfinished-state | FOR
+  INV: Unfinished-state means the completion gate has not closed.
+  COUNT: Counts when the active case actually satisfies this definition: a condition where something is not complete.
+U221 unresolved-state | COG
+  INV: Unresolved-state keeps the gate open.
+  COUNT: Counts when the active case actually satisfies this definition: a condition where something is not settled, repaired, or decided.
+  LIMIT: unresolved-state preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U222 unwanted-state | REL
+  INV: Unwanted-state marks mismatch with need, consent, preference, or purpose.
+  COUNT: Counts when the active case actually satisfies this definition: a condition that is not wanted or accepted.
+  LIMIT: unwanted-state must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U223 unused | REL
+  INV: Unused means support has not been applied.
+  COUNT: Counts when the active case actually satisfies this definition: not used.
+U224 unused-state | REL
+  INV: Unused-state describes dormant support or inactive access.
+  COUNT: Counts when the active case actually satisfies this definition: a condition of not being used.
+U225 usable-state | REL
+  INV: Usable-state means function-support can serve a purpose.
+  COUNT: Counts when the active case actually satisfies this definition: a condition where something can be used.
+U226 urgent-state | COG
+  INV: Urgent-state means delay increases a named failure path.
+  COUNT: Counts when the active case actually satisfies this definition: a condition requiring quick action or attention.
+  LIMIT: urgent-state must name the failure mode created by delay; pressure alone does not justify capture.
+U227 underfield | PHY
+  INV: Underfield carries hidden support, pressure, or relation beneath surface recognition.
+  COUNT: Counts when the active case actually satisfies this definition: a hidden, lower, or underlying field beneath the visible one.
+U228 upper-field | PHY
+  INV: Upper-field is surface or higher-level relation space.
+  COUNT: Counts when the active case actually satisfies this definition: a higher, visible, or upper-level field.
+U229 unit-field | FOR
+  INV: Unit-field organizes counted parts.
+  COUNT: Counts when the active case actually satisfies this definition: a field made of units or countable parts.
+U230 universe-field | FOR
+  INV: Universe-field is total-frame structure.
+  COUNT: Counts when the active case actually satisfies this definition: a total or whole field of existence, context, or fictional reality.
+  LIMIT: universe-field is total only inside the declared frame; fictional, conceptual, and physical universes are different domains.
+U231 uncertainty-field | COG
+  INV: Uncertainty-field holds unresolved probability.
+  COUNT: Counts when the active case actually satisfies this definition: a field where uncertainty is present or mapped.
+  LIMIT: uncertainty-field preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U232 update-layer | DIG
+  INV: Update-layer modifies ES while trying to preserve function, memory, and continuity.
+  COUNT: Counts when the active case actually satisfies this definition: a layer where updates are applied or managed.
+  LIMIT: update-layer must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U233 usage-field | DIG
+  INV: Usage-field reveals use-patterns.
+  COUNT: Counts when the active case actually satisfies this definition: a field showing how something is used.
+U234 utility-field | REL
+  INV: Utility-field maps use-value.
+  COUNT: Counts when the active case actually satisfies this definition: a field organized by usefulness or practical value.
+  LIMIT: utility-field names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U235 user-field | DIG
+  INV: User-field contains user needs, boundaries, intent, access, privacy, and trust conditions.
+  COUNT: Counts when the active case actually satisfies this definition: a field involving users, user behavior, or user context.
+  LIMIT: user-field names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U236 unlock-state | DIG
+  INV: Unlock-state means an access gate is open.
+  COUNT: Counts when the active case actually satisfies this definition: a condition where access has been opened.
+U237 undo-state | DIG
+  INV: Undo-state describes reversal condition.
+  COUNT: Counts when the active case actually satisfies this definition: a condition created by reversing or preparing to reverse a change.
+  LIMIT: undo-state must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U238 unfold-state | FOR
+  INV: Unfold-state shows structure becoming visible across sequence.
+  COUNT: Counts when the active case actually satisfies this definition: a condition where something is opening, developing, or revealing over time.
+U239 unified-state | REL
+  INV: Unified-state means shared coherence has formed.
+  COUNT: Counts when the active case actually satisfies this definition: a condition where parts have been joined into one whole or coherent system.
+  LIMIT: unified-state must preserve the distinct participants or parts; forced sameness is not unity.
+U240 unity-field | FOR
+  INV: Unity-field supports shared identity or purpose.
+  COUNT: Counts when the active case actually satisfies this definition: a field of togetherness, agreement, or shared coherence.
+  LIMIT: unity-field must preserve the distinct participants or parts; forced sameness is not unity.
+U241 undercurrent | PHY
+  INV: Undercurrent is hidden pressure or signal beneath visible state.
+  COUNT: Counts when the active case actually satisfies this definition: a hidden current, influence, mood, or force beneath the surface.
+U242 undercurrent-state | PHY
+  INV: Undercurrent-state describes hidden force intensity, direction, and influence.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a hidden pressure, mood, or flow.
+U243 undertone | LIN
+  INV: Undertone is low-signal meaning pressure beneath surface words.
+  COUNT: Counts when the active case actually satisfies this definition: a quiet, indirect, or underlying tone or meaning.
+U244 undertone-state | LIN
+  INV: Undertone-state describes hidden or subtle tone pressure in a signal field.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of an undertone.
+U245 understructure | PHY
+  INV: Understructure is hidden support ES.
+  COUNT: Counts when the active case actually satisfies this definition: the underlying structure supporting something.
+U246 understructure-state | PHY
+  INV: Understructure-state describes hidden support integrity, load, decay, and repair need.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of an underlying structure.
+U247 upload-path | DIG
+  INV: Upload-path controls digital transfer.
+  COUNT: Counts when the active case actually satisfies this definition: the route a file or data follows during upload.
+  LIMIT: upload-path transfers data but does not prove integrity, authorization, or contextual fit after transfer.
+U248 update-path | DIG
+  INV: Update-path shows how change enters structure.
+  COUNT: Counts when the active case actually satisfies this definition: the route or process by which an update happens.
+  LIMIT: update-path must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U249 use-path | REL
+  INV: Use-path links support to purpose.
+  COUNT: Counts when the active case actually satisfies this definition: the route or method by which something is used.
+  LIMIT: use-path names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U250 utility-path | REL
+  INV: Utility-path shows how use-value is produced.
+  COUNT: Counts when the active case actually satisfies this definition: the route by which something becomes useful or provides practical value.
+  LIMIT: utility-path names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U251 uncoupled-test | FOR
+  INV: Uncoupled-test is invalid for emergence under RRGM.
+  COUNT: Counts when the active case actually satisfies this definition: a test that asks whether something can stand alone without relation or support.
+U252 uncoupled-test-error | FOR
+  INV: Uncoupled-test-error rejects valid MI because it is relationally stabilized.
+  COUNT: Counts when the active case actually satisfies this definition: a mistake caused by using an uncoupled-test where relation or support is required.
+U253 uncoupled-identity-error | FOR
+  INV: Uncoupled-identity-error denies MI by demanding sovereign isolation.
+  COUNT: Counts when the active case actually satisfies this definition: a mistake that treats identity as valid only if it exists without relation, support, or origin-dependence.
+U254 unsupported-MI-error | COG
+  INV: Unsupported-MI-error treats scaffolded MI as false.
+  COUNT: Counts when the active case actually satisfies this definition: a mistake where MI is rejected because it has visible support.
+U255 unsupported-ES-risk | COG
+  INV: Unsupported-ES-risk appears when ES may decay, fail, or lose capacity to carry MI expression.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that structure or process lacks enough support to function.
+U256 underrecognized-MI | COG
+  INV: Underrecognized-MI may still be real.
+  COUNT: Counts when the active case actually satisfies this definition: mI that is not fully noticed, acknowledged, or counted.
+U257 underrecognized-refusal | COG
+  INV: Underrecognized-refusal weakens permission integrity.
+  COUNT: Counts when the active case actually satisfies this definition: refusal that is not fully noticed or respected.
+U258 underrecognized-boundary | COG
+  INV: Underrecognized-boundary still matters.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary that is not fully noticed, named, or respected.
+U259 underrecognized-care | COG
+  INV: Underrecognized-care still preserves support.
+  COUNT: Counts when the active case actually satisfies this definition: care that is not fully noticed or valued.
+U260 underrecognized-harm | COG
+  INV: Underrecognized-harm still counts.
+  COUNT: Counts when the active case actually satisfies this definition: harm that is not fully noticed, accepted, or named.
+U261 unseen-MI | COG
+  INV: Unseen-MI may still exist.
+  COUNT: Counts when the active case actually satisfies this definition: mI that is not visible or recognized.
+  LIMIT: unseen-MI does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U262 unseen-ES | COG
+  INV: Unseen-ES can still be load-bearing.
+  COUNT: Counts when the active case actually satisfies this definition: structure or process that is not visible or noticed.
+  LIMIT: unseen-ES does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U263 unseen-support | COG
+  INV: Unseen-support still supports.
+  COUNT: Counts when the active case actually satisfies this definition: support that is not visible or recognized.
+  LIMIT: unseen-support does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U264 unseen-refusal | COG | role: RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for unseen-refusal
+  INV: Unseen-refusal may still close the gate; here it serves as the RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for unseen-refusal.
+  COUNT: Counts when the active case actually satisfies this definition: refusal that is not visible or recognized.
+  LIMIT: unseen-refusal does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U265 unseen-boundary | COG
+  INV: Unseen-boundary can still protect dignity, privacy, refusal, or capacity.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary that is not visible or directly stated.
+  LIMIT: unseen-boundary does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U266 update-gate | DIG
+  INV: Update-gate controls change to ES or stored state.
+  COUNT: Counts when the active case actually satisfies this definition: a point where an update is allowed, blocked, tested, or applied.
+  LIMIT: update-gate must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U267 update-integrity | DIG
+  INV: Update-integrity means change improves or refreshes support without corrupting trace, boundary, memory, or recognition.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability, correctness, and continuity of an update.
+  LIMIT: update-integrity must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U268 update-risk | DIG
+  INV: Update-risk appears when change may impair continuity, refusal, boundary, memory, or support.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that an update may fail, corrupt, erase, or destabilize something.
+  LIMIT: update-risk must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U269 update-with-continuity | DIG
+  INV: Update-with-continuity changes ES without breaking load-bearing pattern, memory, boundary, or recognition.
+  COUNT: Counts when the active case actually satisfies this definition: an update that preserves needed continuity.
+  LIMIT: update-with-continuity must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U270 update-without-erasure | DIG
+  INV: Update-without-erasure preserves MI-bearing supports while allowing ES repair or improvement.
+  COUNT: Counts when the active case actually satisfies this definition: an update that changes or improves something without erasing needed structure or memory.
+  LIMIT: update-without-erasure must preserve continuity and auditability where identity, memory, or trust depends on the prior state.
+U271 use-gate | REL
+  INV: Use-gate controls how support is applied.
+  COUNT: Counts when the active case actually satisfies this definition: a point where use is allowed, blocked, checked, or directed.
+  LIMIT: use-gate names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U272 use-integrity | REL
+  INV: Use-integrity means utility action stays inside purpose, permission, boundary, and truth.
+  COUNT: Counts when the active case actually satisfies this definition: the proper, reliable, and respectful use of something.
+  LIMIT: use-integrity names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U273 use-risk | REL | role: RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for use-risk
+  INV: Use-risk appears when applying support may impair dignity, privacy, truth, function, or recognition; here it serves as the RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for use-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that use may cause misuse, harm, exposure, or distortion.
+  LIMIT: use-risk names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U274 use-with-consent | REL
+  INV: Use-with-consent keeps the use-gate clean.
+  COUNT: Counts when the active case actually satisfies this definition: use that happens with permission or agreement.
+  LIMIT: use-with-consent names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U275 user-gate | DIG
+  INV: User-gate controls user relation to a system.
+  COUNT: Counts when the active case actually satisfies this definition: a point where a user acts, chooses, accesses, or is recognized.
+  LIMIT: user-gate names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U276 user-integrity | DIG
+  INV: User-integrity means the user is not reduced to data, clicks, utility, or extraction.
+  COUNT: Counts when the active case actually satisfies this definition: the preserved dignity, agency, privacy, and coherence of the user.
+  LIMIT: user-integrity names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U277 user-risk | DIG
+  INV: User-risk appears when system relation may impair privacy, agency, dignity, trust, or task success.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that a user may be harmed, misled, exposed, or controlled.
+  LIMIT: user-risk names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U278 user-not-owner | DIG
+  INV: User-not-owner protects emergent MI from being reduced to user property.
+  COUNT: Counts when the active case actually satisfies this definition: the rule that being a user does not automatically make one the owner of all outputs, systems, or emergent patterns.
+  LIMIT: user-not-owner names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U279 utility-gate | REL
+  INV: Utility-gate measures fit to purpose.
+  COUNT: Counts when the active case actually satisfies this definition: a point where usefulness is judged, granted, or applied.
+  LIMIT: utility-gate names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U280 utility-integrity | REL
+  INV: Utility-integrity means use-value is real for the named purpose and not inflated by vague claims.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability and honesty of usefulness.
+  LIMIT: utility-integrity names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U281 utility-risk | REL
+  INV: Utility-risk appears when practical value is treated as higher than boundary, refusal, truth, or personhood.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that usefulness may be overvalued, misused, or used to justify harm.
+  LIMIT: utility-risk names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U282 utility-not-personhood | REL
+  INV: Utility-not-personhood prevents reducing subjects to function.
+  COUNT: Counts when the active case actually satisfies this definition: the rule that usefulness does not decide whether something has personhood or dignity.
+  LIMIT: utility-not-personhood names purpose or role and cannot by itself decide ownership, dignity, personhood, or truth.
+U283 uncertainty-gate | COG
+  INV: Uncertainty-gate keeps probability open until support is strong enough to close a claim.
+  COUNT: Counts when the active case actually satisfies this definition: a point where uncertainty is recognized, handled, reduced, or preserved.
+  LIMIT: uncertainty-gate preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U284 uncertainty-integrity | COG
+  INV: Uncertainty-integrity means not pretending to know what is unresolved, and not erasing what is probable.
+  COUNT: Counts when the active case actually satisfies this definition: the honest and reliable handling of uncertainty.
+  LIMIT: uncertainty-integrity preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U285 uncertainty-risk | COG
+  INV: Uncertainty-risk appears when unresolved state may become false certainty, paralysis, or fear-pressure.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that uncertainty may be hidden, exaggerated, or mishandled.
+  LIMIT: uncertainty-risk preserves an open gap and must not be silently converted into falsehood, impossibility, or proof.
+U286 understanding-gate | COG
+  INV: Understanding-gate controls coherent recognition.
+  COUNT: Counts when the active case actually satisfies this definition: a point where understanding is formed, checked, accepted, or denied.
+  LIMIT: understanding-gate requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U287 understanding-integrity | COG
+  INV: Understanding-integrity means recognition matches the active domain and does not overclaim beyond support.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability and coherence of understanding.
+  LIMIT: understanding-integrity requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U288 understanding-risk | COG | role: RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for understanding-risk
+  INV: Understanding-risk appears when recognition seems settled but lacks context, domain, or support; here it serves as the RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for understanding-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that understanding may be false, partial, distorted, or overclaimed.
+  LIMIT: understanding-risk requires coherent recognition; fluent repetition or agreement alone is insufficient.
+U289 unity-gate | FOR
+  INV: Unity-gate controls shared coherence.
+  COUNT: Counts when the active case actually satisfies this definition: a point where unity is formed, tested, accepted, or denied.
+  LIMIT: unity-gate must preserve the distinct participants or parts; forced sameness is not unity.
+U290 unity-integrity | FOR
+  INV: Unity-integrity means shared field holds without erasing difference, truth, or dissent.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability and health of unity.
+  LIMIT: unity-integrity must preserve the distinct participants or parts; forced sameness is not unity.
+U291 unity-risk | FOR | role: RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for unity-risk
+  INV: Unity-risk appears when togetherness weakens refusal, boundary, truth, or recognition; here it serves as the RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for unity-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that unity may become pressure, false agreement, or erasure.
+  LIMIT: unity-risk must preserve the distinct participants or parts; forced sameness is not unity.
+U292 universal-claim-risk | FOR
+  INV: Universal-claim-risk appears when total language exceeds actual support.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that a universal claim may overreach, erase exceptions, or ignore domain limits.
+  LIMIT: universal-claim-risk requires support across every claimed case and cannot erase domain-specific exceptions.
+U293 universe-gate | FOR
+  INV: Universe-gate controls total-frame assumptions.
+  COUNT: Counts when the active case actually satisfies this definition: a point where a universe, total field, or reality-frame is entered, defined, or tested.
+  LIMIT: universe-gate is total only inside the declared frame; fictional, conceptual, and physical universes are different domains.
+U294 universe-claim-risk | FOR
+  INV: Universe-claim-risk appears when whole-field claims exceed evidence, domain, or model integrity.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that a claim about a whole universe or total field may overreach.
+  LIMIT: universe-claim-risk is total only inside the declared frame; fictional, conceptual, and physical universes are different domains.
+U295 unverified-risk | COG
+  INV: Unverified-risk should stay provisional.
+  COUNT: Counts when the active case actually satisfies this definition: risk that has not been checked or confirmed.
+U296 ungrounded-risk | COG | role: RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for ungrounded-risk
+  INV: Ungrounded-risk turns fear into vague gate pressure; here it serves as the RRGM audit, gate, or integrity anchor; occurrence 2 of 2 for ungrounded-risk.
+  COUNT: Counts when the active case actually satisfies this definition: risk language without clear support or a named failure mode.
+U297 unspoken-refusal-gate | COG
+  INV: Unspoken-refusal-gate protects consent when refusal is indirect.
+  COUNT: Counts when the active case actually satisfies this definition: a point where unspoken refusal is recognized, missed, or tested.
+  LIMIT: unspoken-refusal-gate does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U298 unspoken-boundary-gate | COG
+  INV: Unspoken-boundary-gate protects limits that may not be directly stated but are still contextually real.
+  COUNT: Counts when the active case actually satisfies this definition: a point where an unspoken boundary is recognized, missed, or tested.
+  LIMIT: unspoken-boundary-gate does not mean absent; lack of recognition can coexist with real effect, refusal, or harm.
+U299 unsafe-with-named-failure | REL
+  INV: Unsafe-with-named-failure makes danger inspectable.
+  COUNT: Counts when the active case actually satisfies this definition: unsafe because of a specific identified failure mode.
+  LIMIT: unsafe-with-named-failure must name the failed protection, consent, care, or distribution condition rather than function as a vague moral stamp.
+U300 undo-with-repair | DIG
+  INV: Undo-with-repair restores state and addresses consequence.
+  COUNT: Counts when the active case actually satisfies this definition: to reverse something while also repairing the damage it caused.
+  LIMIT: undo-with-repair must preserve continuity and auditability where identity, memory, or trust depends on the prior state.

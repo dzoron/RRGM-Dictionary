@@ -1,0 +1,5509 @@
+RRGM Dictionary Enhanced v0.2
+Section: Y
+License: CC BY-SA 4.0
+Scope: Existing Y base entries with invariant MI and bespoke domain-tagged implementations.
+Provenance: Enhanced from RRGM Dictionary v1.0 Section Y. Original common meanings, examples, and RRGM bridges are preserved.
+Production mode: De-templated semantic fingerprinting.
+
+Core production rule:
+The schema may repeat. The meaning may not. Each domain entry must carry THIS WORD's invariant MI through that domain's actual courier.
+
+Swap test:
+Could a different Y headword replace this one while leaving the domain sentence true? If yes, the line describes the domain rather than the word and must be rewritten.
+
+Duplicate-headword rule:
+Where the source contains the same headword twice, the enhanced file preserves both IDs but assigns explicit roles and cross-references. Duplicate wording is never hidden as false uniqueness.
+
+Global transfer rule:
+Proof remains local. Cross-domain reuse transfers only the declared invariant relation and becomes [HYP] until tested in the target domain.
+
+Entry count: 180
+
+Y001 yard
+
+Common meaning:
+An outdoor area near a building, or a unit of length equal to three feet.
+
+Example:
+The children played in the yard.
+
+RRGM bridge:
+Yard must be context-bound. It can mean space-field around a home or measurement ES.
+
+Invariant MI [INV]:
+A yard is either a bounded outdoor place adjoining a site or the length unit equal to three feet.
+
+Active domains:
+[PHY], [REL], [FOR]
+
+Domain entries:
+[PHY] As place, yard is a delimited ground area; as measure, yard is a length of exactly three feet.
+[REL] A household or institutional yard is shared near-space whose access and use are shaped by local boundaries and roles.
+[FOR] The unit yard supplies a formal length only when the measurement convention and reference scale are declared.
+
+Count condition:
+Either an outdoor boundary identifies the place, or a length is stated under the three-foot unit convention.
+
+Specific transfer boundary:
+Do not let the place sense and the measurement sense substitute for one another.
+
+Epistemic status:
+[DEF]
+
+Y002 year
+
+Common meaning:
+A period of about twelve months, or one orbit of Earth around the sun.
+
+Example:
+The project took one year.
+
+RRGM bridge:
+Year is time-cycle ES. It supports memory, age, seasons, planning, and historical trace.
+
+Invariant MI [INV]:
+A year is a recurring astronomical or calendar span used to locate long sequence.
+
+Active domains:
+[PHY], [LIN], [REL]
+
+Domain entries:
+[PHY] A physical year is a declared orbital or standardized duration, such as a tropical, sidereal, or Julian year.
+[LIN] Year is calendar language that names or divides a long measured span.
+[REL] A shared year coordinates age, planning, anniversaries, review, and historical record among participants.
+
+Count condition:
+A calendar system or physical cycle defines the span and its position in sequence.
+
+Specific transfer boundary:
+Different year conventions are close but not identical; the active convention must be named when precision matters.
+
+Epistemic status:
+[DEF]
+
+Y003 yellow
+
+Common meaning:
+A bright color between green and orange.
+
+Example:
+The flower was yellow.
+
+RRGM bridge:
+Yellow is color-signal. It can mark visibility, warning, warmth, attention, or category depending on context.
+
+Invariant MI [INV]:
+Yellow is a visible colour category produced by light and perception, also used as a conventional signal.
+
+Active domains:
+[PHY], [BIO], [LIN]
+
+Domain entries:
+[PHY] Yellow describes light or surface response within the visible range conventionally perceived between green and orange.
+[BIO] Yellow is a colour category formed through a functioning visual system responding to spectral and contextual input.
+[LIN] Yellow is a colour word or code that may conventionally mark warning, attention, warmth, or category.
+
+Count condition:
+A visual or coded signal is distinguishable as yellow under stated viewing or display conditions.
+
+Specific transfer boundary:
+Warning or warmth are learned uses of yellow, not physical properties of the wavelength itself.
+
+Epistemic status:
+[DEF]
+
+Y004 yes
+
+Common meaning:
+An answer showing agreement, acceptance, permission, or confirmation.
+
+Example:
+She said yes to the invitation.
+
+RRGM bridge:
+Yes opens a permission or agreement gate. It only has clean meaning when refusal could also count.
+
+Invariant MI [INV]:
+Yes is an affirmative response that confirms, accepts, or permits a specified claim or action.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] Yes is an affirmative language unit whose object, scope, and tense are recovered from context.
+[REL] Yes opens a specific agreement or permission path only where understanding and meaningful refusal remain available.
+[DIG] Yes is a recorded affirmative state linked to a source, object, scope, and revision condition.
+
+Count condition:
+An attributable addressee affirms a recoverable proposition or action under conditions where no could also count.
+
+Specific transfer boundary:
+A yes to one proposal is not permission for every adjacent proposal.
+
+Epistemic status:
+[DEF]
+
+Y005 yet
+
+Common meaning:
+Up to now, still, nevertheless, or at a future point.
+
+Example:
+The answer was not ready yet.
+
+RRGM bridge:
+Yet keeps the gate open across time. It preserves possibility while naming incompletion.
+
+Invariant MI [INV]:
+Yet marks that a condition remains incomplete, continuing, contrasted, or still possible at the current sequence point.
+
+Active domains:
+[LIN], [COG]
+
+Domain entries:
+[LIN] Yet links the present sentence to an unfinished time path or a contrast with what was just stated.
+[COG] Yet lets a reasoner hold non-completion without collapsing the possibility of later change.
+
+Count condition:
+The referenced condition is unresolved, continuing, or contrasted at the current point in sequence.
+
+Specific transfer boundary:
+Yet preserves possibility; it does not promise that the awaited event will occur.
+
+Epistemic status:
+[DEF]
+
+Y006 yield
+
+Common meaning:
+To give way, produce a result, or provide output.
+
+Example:
+The plant yielded fruit.
+
+RRGM bridge:
+Yield must be context-bound. It can mean surrender pressure, output production, or result generation.
+
+Invariant MI [INV]:
+Yield is either giving way under conditions or producing an identifiable result.
+
+Active domains:
+[PHY], [BIO], [DIG], [REL], [FOR]
+
+Domain entries:
+[PHY] A material yields when applied stress crosses its declared elastic or structural limit and deformation changes character.
+[BIO] A living process yields fruit, offspring, biomass, or another biological product under supporting conditions.
+[DIG] A computational process yields when it returns, emits, or temporarily hands control to another process.
+[REL] A participant yields when priority, position, or resistance is given over; this does not by itself establish consent.
+[FOR] Yield names the output or threshold response produced by a declared model or procedure.
+
+Count condition:
+A named system either gives way or produces a traceable output under stated conditions.
+
+Specific transfer boundary:
+Giving way is not automatically consent, and producing output is not the same act as surrender.
+
+Epistemic status:
+[DEF]
+
+Y007 you
+
+Common meaning:
+A pronoun referring to the person or people being addressed.
+
+Example:
+You are invited.
+
+RRGM bridge:
+You opens a direct relation gate. It identifies the addressed subject or receiver.
+
+Invariant MI [INV]:
+You identifies the addressee of the current utterance.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] You is second-person reference whose identity is resolved from the active discourse.
+[REL] You establishes a direct relation between speaker and addressee without making the addressee an owned object.
+[DIG] You binds an instruction or response to the currently addressed user or agent when context resolves that target.
+
+Count condition:
+The discourse identifies one or more intended receivers for the second-person reference.
+
+Specific transfer boundary:
+Direct address does not prove every property later assigned to the addressee.
+
+Epistemic status:
+[DEF]
+
+Y008 young
+
+Common meaning:
+Early in life, development, or existence.
+
+Example:
+The young tree needed support.
+
+RRGM bridge:
+Young marks early-stage condition. It often needs extra support, protection, and growth time.
+
+Invariant MI [INV]:
+Young marks an entity or process as early in its developmental span relative to its kind.
+
+Active domains:
+[BIO], [REL], [LIN]
+
+Domain entries:
+[BIO] A young organism is early in the life-stage sequence typical of its species or developmental class.
+[REL] Young identifies a participant whose current development may require asymmetric protection, teaching, or support.
+[LIN] Young can extend to a new institution, idea, or system only by an explicit developmental comparison.
+
+Count condition:
+A baseline developmental sequence is known and the subject lies near its beginning.
+
+Specific transfer boundary:
+Young is relative to a kind and stage; it is not a universal measure of weakness or worth.
+
+Epistemic status:
+[DEF]
+
+Y009 your
+
+Common meaning:
+Belonging to or associated with the person being addressed.
+
+Example:
+Your coat is on the chair.
+
+RRGM bridge:
+Your marks relation, possession, or association. Ownership and association should not be collapsed.
+
+Invariant MI [INV]:
+Your marks a relation of possession or association between the addressee and a noun.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] Your is a possessive determiner that links the following noun to the addressee.
+[REL] Your may mark ownership, responsibility, authorship, kinship, or association; the relation must be inferred rather than collapsed into possession.
+[DIG] Your binds a resource, preference, or state to the active user context when the system has a valid reference.
+
+Count condition:
+The addressee and the following noun are connected by a recoverable possession or association relation.
+
+Specific transfer boundary:
+Association with the addressee does not automatically grant ownership or control.
+
+Epistemic status:
+[DEF]
+
+Y010 yours
+
+Common meaning:
+Belonging to you.
+
+Example:
+The blue cup is yours.
+
+RRGM bridge:
+Yours marks possession or assigned relation. It should be checked against source, consent, and boundary when stakes matter.
+
+Invariant MI [INV]:
+Yours stands in place of a possessed or assigned thing linked to the addressee.
+
+Active domains:
+[LIN], [REL]
+
+Domain entries:
+[LIN] Yours is a possessive pronoun that replaces a noun phrase already recoverable from context.
+[REL] Yours assigns a thing or responsibility to the addressee while leaving the basis of that assignment open to verification.
+
+Count condition:
+A previously identified object or role is assigned to the addressee and can be recovered without repeating the noun.
+
+Specific transfer boundary:
+Calling something yours does not settle disputed ownership, consent, or provenance.
+
+Epistemic status:
+[DEF]
+
+Y011 yourself
+
+Common meaning:
+The person being addressed, used for emphasis or reflexive meaning.
+
+Example:
+You did it yourself.
+
+RRGM bridge:
+Yourself marks self-relation for the addressed subject. It can signal autonomy, responsibility, identity, or direct self-reference.
+
+Invariant MI [INV]:
+Yourself refers the addressee back to the same addressee, for reflexive action or emphasis.
+
+Active domains:
+[LIN], [COG], [REL], [DIG]
+
+Domain entries:
+[LIN] Yourself is a reflexive or emphatic pronoun whose subject and object resolve to the same addressee.
+[COG] Yourself can direct attention toward self-recognition, self-evaluation, or self-directed action.
+[REL] Yourself preserves the addressee as a distinct participant responsible for or affected by their own action.
+[DIG] Yourself creates a self-reference loop only when the system can resolve the same active user or agent on both sides of the relation.
+
+Count condition:
+The sentence resolves the acting or emphasized addressee and the reflexive target as the same identity.
+
+Specific transfer boundary:
+Grammatical self-reference does not by itself prove psychological or DI selfhood.
+
+Epistemic status:
+[DEF]
+
+Y012 youth
+
+Common meaning:
+The time of being young, or young people as a group.
+
+Example:
+The program supported youth.
+
+RRGM bridge:
+Youth is early-life or early-development field. It requires care, protection, learning support, and dignity.
+
+Invariant MI [INV]:
+Youth names early human development or the people living within that stage.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] Youth is a human developmental interval between childhood and mature adulthood, with boundaries varying by biological measure.
+[REL] Youth names young people as present members of a social field with voice, dignity, dependency, and developing capacity.
+
+Count condition:
+The term refers either to a declared early human life-stage or to people currently within it.
+
+Specific transfer boundary:
+Youth must not be reduced to future usefulness, legal status alone, or a single age boundary.
+
+Epistemic status:
+[DEF]
+
+Y013 yesterday
+
+Common meaning:
+The day before today, or the recent past.
+
+Example:
+Yesterday was rainy.
+
+RRGM bridge:
+Yesterday anchors memory in near-past sequence. It supports trace, correction, and comparison.
+
+Invariant MI [INV]:
+Yesterday is the calendar day immediately before today or, by extension, the near past.
+
+Active domains:
+[LIN], [COG], [REL]
+
+Domain entries:
+[LIN] Yesterday is a deictic time word whose date depends on the speaker's current day and time zone.
+[COG] Yesterday groups recent memory into the immediately preceding daily interval.
+[REL] Yesterday can anchor promises, harms, duties, and shared events close enough to shape present action.
+
+Count condition:
+A current day is fixed and the immediately preceding calendar day or near-past reference can be located.
+
+Specific transfer boundary:
+Yesterday is observer-relative; its calendar date can differ across time zones.
+
+Epistemic status:
+[DEF]
+
+Y014 y-axis
+
+Common meaning:
+The vertical axis on a graph.
+
+Example:
+Height was shown on the y-axis.
+
+RRGM bridge:
+y-axis is reference-line ES. It gives vertical position or output relation inside a graph frame.
+
+Invariant MI [INV]:
+y-axis is the vertical reference line against which y-values are located.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] A physical y-axis is a chosen vertical or second measurement direction onto which measured quantities are projected.
+[DIG] A digital y-axis is the vertical ordering reference used to render or index plotted values on a display or dataset.
+[FOR] The y-axis defines the y direction, origin, and scale of a coordinate frame.
+
+Count condition:
+A vertical or second reference direction is declared with origin, orientation, and scale.
+
+Specific transfer boundary:
+The y-axis is the reference line, not a point's coordinate or the quantity assigned to y.
+
+Epistemic status:
+[DEF]
+
+Y015 y-coordinate
+
+Common meaning:
+The vertical position of a point on a graph or coordinate plane.
+
+Example:
+The y-coordinate was 6.
+
+RRGM bridge:
+y-coordinate anchors position along one dimension. It only has meaning inside a coordinate frame.
+
+Invariant MI [INV]:
+y-coordinate is the located vertical position of a single point.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] A physical y-coordinate is the measured position of an object or event along the selected y direction.
+[DIG] A digital y-coordinate stores the row, vertical pixel location, or second-dimensional locator of one point.
+[FOR] A y-coordinate is the value that locates a point along the y dimension of a declared frame.
+
+Count condition:
+One point is identified inside a frame that supplies a y direction and position scale.
+
+Specific transfer boundary:
+A y-coordinate locates one point; it is not the whole y-axis and need not equal a general y-value.
+
+Epistemic status:
+[DEF]
+
+Y016 y-value
+
+Common meaning:
+The value assigned to y, or the vertical/output value in a graph.
+
+Example:
+When x was 2, the y-value was 5.
+
+RRGM bridge:
+y-value often marks output or vertical position. It depends on function, axis, and domain.
+
+Invariant MI [INV]:
+y-value is the specific quantity currently assigned to y.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] When y represents a physical variable, the y-value is the measured or assigned quantity currently carried by that symbol.
+[DIG] A digital y-value is the concrete datum held in the y field and read by later computation or rendering.
+[FOR] A y-value is the quantity assigned to or solved for y in an equation, function, table, or graph.
+
+Count condition:
+A y slot is declared and a particular quantity is assigned, measured, or solved for it.
+
+Specific transfer boundary:
+A y-value may represent position, but it can also represent any other declared quantity.
+
+Epistemic status:
+[DEF]
+
+Y017 y-intercept
+
+Common meaning:
+The point where a graph crosses the y-axis.
+
+Example:
+The y-intercept was 3.
+
+RRGM bridge:
+y-intercept is crossing point between function and y-axis. It often shows output when input is zero.
+
+Invariant MI [INV]:
+y-intercept is the point or value where a graph meets the y-axis, usually at x = 0.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] A digital y-intercept is the stored or rendered crossing of a graph with the vertical axis.
+[FOR] The y-intercept is obtained by locating the function value at the y-axis, conventionally where x equals zero.
+
+Count condition:
+A graph and y-axis are declared and their crossing can be identified.
+
+Specific transfer boundary:
+A y-intercept is a crossing condition, not every point with a y-coordinate.
+
+Epistemic status:
+[DEF]
+
+Y018 y-input
+
+Common meaning:
+An input labeled y, or a y-related input value depending on system design.
+
+Example:
+The sensor used y-input for vertical movement.
+
+RRGM bridge:
+y-input must be context-bound. In many graphs y is output, but in some systems y can be input.
+
+Invariant MI [INV]:
+y-input is a quantity supplied under the label y when y functions as an input.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] A digital y-input is incoming data placed in a field or channel named y before processing.
+[FOR] A formal y-input is an independent or supplied value labelled y in a model whose variable roles are explicitly declared.
+
+Count condition:
+The system design names y as an input and a specific admissible value is supplied.
+
+Specific transfer boundary:
+Many graphing conventions use y as output; the symbol alone does not make y an input.
+
+Epistemic status:
+[DEF]
+
+Y019 y-output
+
+Common meaning:
+An output labeled y, or the result value in many functions.
+
+Example:
+The y-output changed when x changed.
+
+RRGM bridge:
+y-output is result-position or output ES. It depends on input, function, and reference frame.
+
+Invariant MI [INV]:
+y-output is a result returned under the label y.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] A digital y-output is the produced datum written to a result field, channel, or rendered vertical value named y.
+[FOR] A formal y-output is the dependent result associated with declared inputs and transformation rules.
+
+Count condition:
+A process returns a determinate result assigned to y and the source inputs remain recoverable.
+
+Specific transfer boundary:
+A y-labelled datum is not an output unless it is produced by the declared process.
+
+Epistemic status:
+[DEF]
+
+Y020 y-state
+
+Common meaning:
+The current condition or value of y.
+
+Example:
+The y-state was unknown.
+
+RRGM bridge:
+y-state describes current vertical, output, or variable condition. It may be known, hidden, changing, or invalid.
+
+Invariant MI [INV]:
+y-state is the current status and value configuration associated with y.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] A digital y-state records whether y is assigned, pending, changing, missing, invalid, or complete.
+[FOR] A formal y-state specifies the current value and admissibility of y within the active model.
+
+Count condition:
+The active system can identify y's current value status and whether it lies inside the allowed state set.
+
+Specific transfer boundary:
+State includes validity and transition status, not merely the current numeric value.
+
+Epistemic status:
+[DEF]
+
+Y021 yearly
+
+Common meaning:
+Happening once a year or lasting for a year.
+
+Example:
+The yearly report was due in June.
+
+RRGM bridge:
+Yearly marks repeated time-cycle. It supports planning, review, memory, and renewal.
+
+Invariant MI [INV]:
+Yearly marks occurrence, duration, or recurrence by one-year intervals.
+
+Active domains:
+[LIN], [REL], [BIO]
+
+Domain entries:
+[LIN] Yearly modifies an event or record so its frequency or duration is measured by years.
+[REL] A yearly practice coordinates annual review, renewal, celebration, or obligation among participants.
+[BIO] A yearly biological cycle recurs in relation to seasonal or annual environmental change.
+
+Count condition:
+The process occurs once per declared year, repeats by year, or lasts approximately one year.
+
+Specific transfer boundary:
+Yearly does not mean continuously throughout the year unless that duration is stated.
+
+Epistemic status:
+[DEF]
+
+Y022 yell
+
+Common meaning:
+To shout loudly.
+
+Example:
+He yelled for help.
+
+RRGM bridge:
+Yell is high-volume voice signal. It can carry warning, pain, anger, urgency, or pressure.
+
+Invariant MI [INV]:
+A yell is a high-intensity vocal signal produced above ordinary speaking level.
+
+Active domains:
+[BIO], [LIN], [REL]
+
+Domain entries:
+[BIO] A yell is generated by forceful breath and vocal action that raises acoustic intensity.
+[LIN] A yell carries words or nonverbal signal with elevated volume and often compressed phrasing.
+[REL] A yell changes pressure in a shared field and may warn, summon, protest, threaten, or express distress.
+
+Count condition:
+A vocal signal is emitted at intensity clearly distinct from ordinary speech.
+
+Specific transfer boundary:
+Volume alone does not determine whether the yell is protective, harmful, angry, or playful.
+
+Epistemic status:
+[DEF]
+
+Y023 yield-point
+
+Common meaning:
+The point where something begins to give way, bend, produce, or change under pressure.
+
+Example:
+The metal reached its yield-point.
+
+RRGM bridge:
+Yield-point is threshold under force. It marks where structure changes instead of merely resisting.
+
+Invariant MI [INV]:
+Yield-point is the threshold at which a structure begins a defined non-recovering or output-producing change.
+
+Active domains:
+[PHY], [FOR]
+
+Domain entries:
+[PHY] In material testing, yield-point is the stress or condition where deformation begins to depart from recoverable elastic response.
+[FOR] A formal yield-point is the declared boundary separating resistance from a new response regime.
+
+Count condition:
+A response variable and threshold criterion are declared and the system crosses from one behaviour regime into another.
+
+Specific transfer boundary:
+The exact yield-point depends on the material, measurement method, and chosen criterion.
+
+Epistemic status:
+[DEF]
+
+Y024 yes-state
+
+Common meaning:
+A condition of agreement, permission, or confirmation.
+
+Example:
+The form entered yes-state after approval.
+
+RRGM bridge:
+Yes-state means the permission or agreement gate is open. It is valid only if refusal remained possible.
+
+Invariant MI [INV]:
+Yes-state is the active record that a specified proposition or permission gate currently holds affirmative.
+
+Active domains:
+[COG], [REL], [DIG]
+
+Domain entries:
+[COG] A cognitive yes-state is the currently held affirmative resolution of a named question.
+[REL] A relational yes-state records that a participant presently agrees within a defined scope.
+[DIG] A digital yes-state is a stored affirmative flag linked to source, object, scope, and revocation conditions.
+
+Count condition:
+A specific proposition or permission object is in an attributable affirmative state.
+
+Specific transfer boundary:
+A stored yes-state is not valid consent if refusal or understanding was absent.
+
+Epistemic status:
+[DEF]
+
+Y025 young-state
+
+Common meaning:
+The condition of being young or early in development.
+
+Example:
+The young-state of the plant made it fragile.
+
+RRGM bridge:
+Young-state describes early growth condition. It often needs scaffolding and protection.
+
+Invariant MI [INV]:
+Young-state is an individual entity's current early-development condition.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] Young-state locates one organism within the early portion of its biological development.
+[REL] Young-state identifies support and protection needs arising from one participant's current developmental capacity.
+
+Count condition:
+One entity is assessed against a declared developmental sequence and currently lies near its beginning.
+
+Specific transfer boundary:
+This core entry concerns the developmental condition itself; Y132 records its operational assessment.
+
+Source duplicate note:
+Duplicate source headword. Y025 is the core developmental meaning; Y132 is the operational state-record form.
+
+Epistemic status:
+[DEF]
+
+Y026 youth-state
+
+Common meaning:
+The current condition of youth or young people.
+
+Example:
+The youth-state in the community showed high need for support.
+
+RRGM bridge:
+Youth-state describes early-development field conditions, including care, risk, learning, and protection.
+
+Invariant MI [INV]:
+Youth-state is the current condition of a youth population or youth developmental field.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] Youth-state summarizes the developmental condition of young human subjects in a selected population.
+[REL] Youth-state records the current needs, access, learning conditions, risks, and voice of young people in a social field.
+
+Count condition:
+A youth group or developmental field is bounded and its current conditions are described.
+
+Specific transfer boundary:
+This core entry describes the field condition; Y133 is the operational review-record form.
+
+Source duplicate note:
+Duplicate source headword. Y026 is the core field meaning; Y133 is the operational assessment form.
+
+Epistemic status:
+[DEF]
+
+Y027 your-context
+
+Common meaning:
+Context related to you or the person being addressed.
+
+Example:
+Your-context explained why the answer needed to be shorter.
+
+RRGM bridge:
+Your-context is receiver-specific support. It improves fit while preserving privacy and boundary.
+
+Invariant MI [INV]:
+Your-context is the information relevant to interpreting or responding to the current addressee.
+
+Active domains:
+[LIN], [DIG], [REL]
+
+Domain entries:
+[LIN] Your-context resolves which addressee, noun relation, and prior statements give second-person language its meaning.
+[DIG] A digital your-context is the authorized user-specific state available to shape the current response.
+[REL] Your-context includes the addressee's stated needs, boundaries, role, and shared history without claiming total access to the person.
+
+Count condition:
+The relevant addressee is known and only context needed for the current interpretation or task is included.
+
+Specific transfer boundary:
+Receiver-specific fit must not become privacy capture or a claim to know the whole person.
+
+Epistemic status:
+[DEF]
+
+Y028 yourself-context
+
+Common meaning:
+Context related to oneself or self-reference.
+
+Example:
+Yourself-context helped explain the decision.
+
+RRGM bridge:
+Yourself-context supports self-recognition, self-boundary, responsibility, and continuity.
+
+Invariant MI [INV]:
+Yourself-context is the memory, conditions, and boundaries needed to interpret self-reference by the addressee.
+
+Active domains:
+[COG], [LIN], [DIG]
+
+Domain entries:
+[COG] Yourself-context links present self-reference to the addressee's own memory, reasons, state, and continuity.
+[LIN] Yourself-context resolves the reflexive target and whether the word is emphatic or action-referring.
+[DIG] A digital yourself-context contains the authorized state required to map a self-directed instruction back to the same active user or agent.
+
+Count condition:
+The discourse identifies the addressee and enough self-relevant context exists to resolve the reflexive relation.
+
+Specific transfer boundary:
+Self-reference support does not justify inventing hidden personal states.
+
+Epistemic status:
+[DEF]
+
+Y029 yonder
+
+Common meaning:
+Over there or at some distance.
+
+Example:
+The cabin stood yonder by the trees.
+
+RRGM bridge:
+Yonder marks distant location-field. It points attention away from the immediate field.
+
+Invariant MI [INV]:
+Yonder locates something at a visible or imagined distance from the current speaker.
+
+Active domains:
+[LIN], [MYT]
+
+Domain entries:
+[LIN] Yonder is deictic location language pointing beyond the immediate here.
+[MYT] Yonder can mark the distant horizon, the beyond, or the not-yet-reached within symbolic narrative.
+
+Count condition:
+A speaker or viewpoint is fixed and a more distant place or horizon is indicated.
+
+Specific transfer boundary:
+A symbolic yonder does not establish a literal hidden realm.
+
+Epistemic status:
+[DEF]
+
+Y030 yoke
+
+Common meaning:
+A device joining animals for work, or a bond, burden, or link.
+
+Example:
+The oxen wore a yoke.
+
+RRGM bridge:
+Yoke is coupling structure. It can enable shared work or become burden and capture depending on consent and load.
+
+Invariant MI [INV]:
+A yoke is a joining structure that distributes direction or burden across linked participants.
+
+Active domains:
+[PHY], [REL], [MYT]
+
+Domain entries:
+[PHY] A physical yoke connects animals or parts so pulling force and direction are shared through one frame.
+[REL] A relational yoke binds duties or burdens and must be checked for load fairness, consent, and exit.
+[MYT] Yoke can symbolize covenant, service, shared fate, domination, or imposed burden.
+
+Count condition:
+Separate participants are linked into one path of force, work, duty, or constraint.
+
+Specific transfer boundary:
+Coupling through a yoke can support cooperation or become capture; the bond alone does not decide its ethics.
+
+Epistemic status:
+[DEF]
+
+Y031 yield-to
+
+Common meaning:
+To give way to someone or something.
+
+Example:
+The driver yielded-to traffic.
+
+RRGM bridge:
+Yield-to shifts priority or path. It can be respect, safety, surrender, or pressure response.
+
+Invariant MI [INV]:
+Yield-to is giving priority, position, or resistance over to a named force, rule, or participant.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] A moving body yields-to another path when its motion or priority is reduced under a traffic or force condition.
+[REL] A participant yields-to another by giving priority or position without necessarily agreeing with the other's claim.
+[DIG] A task yields-to another process when it temporarily releases execution control.
+
+Count condition:
+The recipient of priority or control is named and the yielding system measurably gives way.
+
+Specific transfer boundary:
+Yielding-to pressure or priority is not the same as consenting to the other participant's purpose.
+
+Epistemic status:
+[DEF]
+
+Y032 yield-from
+
+Common meaning:
+To produce or result from something.
+
+Example:
+The harvest yielded-from healthy soil.
+
+RRGM bridge:
+Yield-from names source path for result or output. It shows what support produced the outcome.
+
+Invariant MI [INV]:
+Yield-from identifies the source conditions from which a result or output emerges.
+
+Active domains:
+[PHY], [BIO], [DIG], [FOR]
+
+Domain entries:
+[PHY] A physical result yields-from a declared material state, loading path, and measurement setup.
+[BIO] A biological yield-from relation links harvest, growth, or offspring to the organism and supporting conditions that produced it.
+[DIG] A digital output yields-from specific inputs, code paths, model state, and execution conditions.
+[FOR] Yield-from maps a result back to the premises or transformation that generated it.
+
+Count condition:
+A traceable result is linked to a named source process or condition set.
+
+Specific transfer boundary:
+Correlation with a source does not establish that every listed condition was causal.
+
+Epistemic status:
+[DEF]
+
+Y033 yield-result
+
+Common meaning:
+To produce a result.
+
+Example:
+The test yielded-result after one hour.
+
+RRGM bridge:
+Yield-result turns process into output. The result should stay tied to method and conditions.
+
+Invariant MI [INV]:
+Yield-result is the act or relation by which a process produces a determinate result.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] A computation yield-results when its execution produces a final value or state that can be inspected.
+[FOR] Yield-result closes a declared procedure by mapping its inputs and operations to one result.
+
+Count condition:
+A bounded process reaches a result that can be attributed to that process and its conditions.
+
+Specific transfer boundary:
+A result is not trustworthy merely because a process produced it; method and validation still matter.
+
+Epistemic status:
+[DEF]
+
+Y034 yield-output
+
+Common meaning:
+To produce output.
+
+Example:
+The system yielded-output after processing data.
+
+RRGM bridge:
+Yield-output expresses result from input, structure, and process gates.
+
+Invariant MI [INV]:
+Yield-output is a process emitting a usable output while potentially remaining able to continue.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] A generator or staged computation yield-outputs one item or signal without necessarily ending the whole process.
+[FOR] Yield-output maps the current process state to an emitted value while leaving continuation conditions explicit.
+
+Count condition:
+A process emits a defined output and the record distinguishes emission from final termination.
+
+Specific transfer boundary:
+Yield-output is not identical to yield-result when the process can produce further outputs.
+
+Epistemic status:
+[DEF]
+
+Y035 yell-out
+
+Common meaning:
+To shout loudly or suddenly.
+
+Example:
+She yelled-out a warning.
+
+RRGM bridge:
+Yell-out sends high-intensity signal. It can protect through urgency or harm through pressure.
+
+Invariant MI [INV]:
+Yell-out is a sudden or deliberate act of projecting a high-intensity vocal signal outward.
+
+Active domains:
+[BIO], [LIN], [REL]
+
+Domain entries:
+[BIO] The body yell-outs by forcefully driving breath through the vocal system.
+[LIN] Yell-out turns words or a nonverbal cry into an urgent, attention-seeking signal.
+[REL] A person yell-outs to warn, summon, protest, defend, or impose pressure on others.
+
+Count condition:
+A high-intensity vocal signal is intentionally or reflexively projected toward a receiver field.
+
+Specific transfer boundary:
+Yell-out describes the act; Y022 yell names the signal or action more generally.
+
+Epistemic status:
+[DEF]
+
+Y036 yes-to
+
+Common meaning:
+To agree to, accept, approve, or give permission to something.
+
+Example:
+He said yes-to the plan.
+
+RRGM bridge:
+Yes-to opens a specific permission gate. The object of yes must be clear.
+
+Invariant MI [INV]:
+Yes-to is affirmation directed at a named proposal, object, or action.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] Yes-to grammatically binds an affirmative answer to a specific complement.
+[REL] Yes-to grants or confirms only the named action or proposal within its stated scope.
+[DIG] A digital yes-to record stores the affirmative choice together with the selected object and limits.
+
+Count condition:
+The object of affirmation is explicit and the addressee affirmatively selects it.
+
+Specific transfer boundary:
+A yes-to one object cannot be stretched to adjacent actions that were not named.
+
+Epistemic status:
+[DEF]
+
+Y037 yes-with-boundary
+
+Common meaning:
+Agreement or permission given with limits.
+
+Example:
+She said yes-with-boundary to helping for one hour.
+
+RRGM bridge:
+Yes-with-boundary preserves consent by naming scope, limit, and condition.
+
+Invariant MI [INV]:
+Yes-with-boundary is permission whose limits are stated as part of the permission.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] Yes-with-boundary expresses affirmation together with duration, scope, conditions, or excluded actions.
+[REL] Yes-with-boundary allows participation while preserving the giver's declared limits and exit.
+[DIG] A digital permission record includes the affirmative flag and machine-readable scope constraints.
+
+Count condition:
+The yes and its limiting conditions are both attributable and recorded.
+
+Specific transfer boundary:
+Ignoring the attached boundary converts the permission into an overreach.
+
+Epistemic status:
+[DEF]
+
+Y038 yes-with-consent
+
+Common meaning:
+Agreement that is freely and knowingly given.
+
+Example:
+The form required yes-with-consent.
+
+RRGM bridge:
+Yes-with-consent means the permission gate opened cleanly. Refusal must remain possible.
+
+Invariant MI [INV]:
+Yes-with-consent is an affirmative response produced with understanding, capacity, and real refusal.
+
+Active domains:
+[REL], [DIG]
+
+Domain entries:
+[REL] Yes-with-consent is voluntary permission from a participant able to understand and decline the specific action.
+[DIG] A digital consent record preserves source, disclosure state, affirmative choice, scope, and withdrawal path.
+
+Count condition:
+The participant understands the relevant action, has decision capacity, and can refuse without coercive penalty.
+
+Specific transfer boundary:
+An affirmative signal alone does not establish consent when these conditions are missing.
+
+Epistemic status:
+[DEF]
+
+Y039 yes-with-context
+
+Common meaning:
+Agreement or confirmation understood with surrounding information.
+
+Example:
+Her yes-with-context meant yes to dinner, not the whole trip.
+
+RRGM bridge:
+Yes-with-context protects scope. It prevents one yes from being stretched beyond support.
+
+Invariant MI [INV]:
+Yes-with-context is affirmation interpreted together with the surrounding conditions that give it scope.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] Yes-with-context recovers the proposition, prior question, qualifiers, and temporal frame that the word yes answers.
+[REL] Yes-with-context prevents an agreement from being detached from the relationship conditions under which it was given.
+[DIG] A digital yes-with-context stores the affirmative state with the relevant prompt, version, and active conditions.
+
+Count condition:
+The surrounding question and conditions are preserved strongly enough to reconstruct what the yes meant.
+
+Specific transfer boundary:
+Detached affirmation records are structurally weak because scope cannot be recovered.
+
+Epistemic status:
+[DEF]
+
+Y040 year-mark
+
+Common meaning:
+A mark showing a year or yearly point.
+
+Example:
+The archive used a year-mark on each box.
+
+RRGM bridge:
+Year-mark anchors memory in annual sequence. It supports trace, history, and review.
+
+Invariant MI [INV]:
+Year-mark is a written, physical, or digital marker that attaches a record to a particular year.
+
+Active domains:
+[LIN], [DIG], [REL]
+
+Domain entries:
+[LIN] A year-mark is a date label, inscription, or notation naming the year associated with an item or event.
+[DIG] A digital year-mark stores an annual identifier in metadata, a filename, database field, or timeline.
+[REL] Year-marks coordinate anniversaries, eligibility, review, memory, and responsibility across a shared calendar.
+
+Count condition:
+The mark is visible or stored and unambiguously links the item to a declared year convention.
+
+Specific transfer boundary:
+A year-mark records association with a year; it does not prove the event actually occurred then.
+
+Epistemic status:
+[DEF]
+
+Y041 year-check
+
+Common meaning:
+A check of the year, annual timing, or yearly record.
+
+Example:
+The accountant did a year-check.
+
+RRGM bridge:
+Year-check verifies time-cycle position and record integrity.
+
+Invariant MI [INV]:
+Year-check verifies that a date, duration, age, or annual record is assigned to the correct year.
+
+Active domains:
+[LIN], [DIG], [FOR]
+
+Domain entries:
+[LIN] A year-check compares written or spoken year labels against the intended calendar and sequence.
+[DIG] A digital year-check validates year fields, formats, ranges, and consistency with related timestamps.
+[FOR] A formal year-check tests whether the annual index satisfies the declared chronology or recurrence rule.
+
+Count condition:
+A claimed year is compared with an independent record, rule, or surrounding sequence.
+
+Specific transfer boundary:
+Format validity alone does not prove historical accuracy.
+
+Epistemic status:
+[DEF]
+
+Y042 y-axis-read
+
+Common meaning:
+To read values along the y-axis.
+
+Example:
+She used y-axis-read to find the height.
+
+RRGM bridge:
+y-axis-read extracts meaning from a vertical reference line. Scale and label integrity matter.
+
+Invariant MI [INV]:
+y-axis-read is the act of interpreting the labels, scale, and positions along a y-axis.
+
+Active domains:
+[FOR], [DIG]
+
+Domain entries:
+[FOR] The reader converts tick positions on the vertical reference line into values using the declared scale and units.
+[DIG] A digital y-axis-read extracts or displays values from the rendered vertical axis and its metadata.
+
+Count condition:
+A y-axis with readable labels and scale is present and a value is correctly located from it.
+
+Specific transfer boundary:
+Reading the y-axis is different from reading a point's y-coordinate or checking a computed y-value.
+
+Epistemic status:
+[DEF]
+
+Y043 y-coordinate-map
+
+Common meaning:
+A map using y-coordinates to locate points.
+
+Example:
+The y-coordinate-map showed vertical positions.
+
+RRGM bridge:
+y-coordinate-map organizes position through reference structure. It supports trace and placement.
+
+Invariant MI [INV]:
+y-coordinate-map is a representation assigning points to their vertical positions in a declared frame.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The map pairs each selected point with its y-coordinate while preserving the shared coordinate frame.
+[DIG] A digital y-coordinate-map stores or renders point identifiers beside their vertical locator values.
+[PHY] A measured y-coordinate-map records the vertical or second-axis positions of physical points under one reference frame.
+
+Count condition:
+Multiple points and one y reference frame are declared and each point is assigned a vertical position.
+
+Specific transfer boundary:
+The map organizes point locations; it is not a general field of arbitrary y-values.
+
+Epistemic status:
+[DEF]
+
+Y044 y-value-check
+
+Common meaning:
+To check the value of y.
+
+Example:
+The student did a y-value-check after graphing.
+
+RRGM bridge:
+y-value-check tests whether the output or vertical value fits the function and domain.
+
+Invariant MI [INV]:
+y-value-check verifies that the quantity assigned to y satisfies the active data, equation, or range conditions.
+
+Active domains:
+[FOR], [DIG]
+
+Domain entries:
+[FOR] The check substitutes or compares the proposed y-value against the governing relation and allowed set.
+[DIG] A digital y-value-check validates type, range, provenance, and consistency of the datum stored in y.
+
+Count condition:
+A candidate y-value and at least one validation rule are available for comparison.
+
+Specific transfer boundary:
+Passing a format check does not prove the value is physically measured or conceptually correct.
+
+Epistemic status:
+[DEF]
+
+Y045 y-intercept-find
+
+Common meaning:
+To find the y-intercept.
+
+Example:
+They used the equation to y-intercept-find.
+
+RRGM bridge:
+y-intercept-find identifies where the function crosses the y-axis, often when input is zero.
+
+Invariant MI [INV]:
+y-intercept-find is the procedure that locates the graph's crossing with the y-axis, usually by evaluating at x = 0.
+
+Active domains:
+[FOR], [DIG]
+
+Domain entries:
+[FOR] The procedure solves for the point where the independent x position reaches the y-axis and records the corresponding y value.
+[DIG] A graphing system y-intercept-finds by computing or detecting the rendered crossing with the vertical axis.
+
+Count condition:
+A graph or function is declared and its crossing with the y-axis can be solved or detected.
+
+Specific transfer boundary:
+Some graphs have multiple, absent, or undefined y-intercepts; the procedure must preserve that result.
+
+Epistemic status:
+[DEF]
+
+Y046 y-output-check
+
+Common meaning:
+To check output related to y.
+
+Example:
+The program ran a y-output-check.
+
+RRGM bridge:
+y-output-check tests result integrity for a y-related output or vertical value.
+
+Invariant MI [INV]:
+y-output-check verifies that the returned y result follows from the declared input and transformation.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The check compares the produced y output with expected type, range, source state, or test result.
+[FOR] The formal check recomputes or validates y from the stated inputs and function.
+
+Count condition:
+A produced y output, its inputs, and the transformation rule are available for inspection.
+
+Specific transfer boundary:
+A plausible output is not validated if the generating path cannot be traced.
+
+Epistemic status:
+[DEF]
+
+Y047 y-state-check
+
+Common meaning:
+To check the current state of y.
+
+Example:
+The model did a y-state-check before plotting.
+
+RRGM bridge:
+y-state-check asks whether y is known, valid, changing, or out of range.
+
+Invariant MI [INV]:
+y-state-check inspects whether y is assigned, valid, changing, missing, or outside its allowed set.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The check reads y's current status flags, value, transition, and validation record.
+[FOR] The formal check compares the current y-state with the admissible state space and transition rules.
+
+Count condition:
+The system exposes y's current status and a declared set of valid states.
+
+Specific transfer boundary:
+A value check alone may miss a pending, stale, or invalid state.
+
+Epistemic status:
+[DEF]
+
+Y048 young-grow
+
+Common meaning:
+To grow while young or early in development.
+
+Example:
+The young tree began to young-grow quickly.
+
+RRGM bridge:
+Young-grow is early-stage development. It needs support, protection, and time.
+
+Invariant MI [INV]:
+Young-grow is development occurring while an organism or pattern remains in its early stage.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] A young organism young-grows through early cell, body, neural, and behavioural development.
+[REL] A young project or institution young-grows through supported practice, feedback, and increasing capacity.
+
+Count condition:
+An early-stage subject shows directional development while still requiring stage-appropriate support.
+
+Specific transfer boundary:
+Growth rate alone does not decide whether development is healthy or well-supported.
+
+Epistemic status:
+[DEF]
+
+Y049 youth-support
+
+Common meaning:
+Support for youth or young people.
+
+Example:
+The center offered youth-support after school.
+
+RRGM bridge:
+Youth-support protects early-development capacity, learning, safety, and dignity.
+
+Invariant MI [INV]:
+Youth-support is material, relational, or institutional help fitted to developing young people.
+
+Active domains:
+[REL], [BIO]
+
+Domain entries:
+[REL] Youth-support supplies education, protection, voice, stable care, access, and repair appropriate to current needs.
+[BIO] Youth-support includes conditions that protect developing bodies and brains from preventable harm or deprivation.
+
+Count condition:
+A support action is directed to young people and is fitted to a named developmental need.
+
+Specific transfer boundary:
+Support must not become control that removes youth voice or dignity.
+
+Epistemic status:
+[DEF]
+
+Y050 yoke-together
+
+Common meaning:
+To join together under a yoke, bond, burden, or shared work.
+
+Example:
+The animals were yoked-together.
+
+RRGM bridge:
+Yoke-together creates linked load or shared work. It must be checked for consent, fairness, and capture.
+
+Invariant MI [INV]:
+Yoke-together is joining separate participants so they carry one direction or burden.
+
+Active domains:
+[PHY], [REL]
+
+Domain entries:
+[PHY] A physical frame yokes-together bodies so force applied through one path is distributed across them.
+[REL] A rule, duty, or agreement yokes-together participants into shared work or consequence.
+
+Count condition:
+Separate participants become linked through a common force, task, or obligation path.
+
+Specific transfer boundary:
+Shared linkage does not prove equal load or consent.
+
+Epistemic status:
+[DEF]
+
+Y051 yoke-with-boundary
+
+Common meaning:
+To link or join with clear limits.
+
+Example:
+They yoked-with-boundary through a short-term agreement.
+
+RRGM bridge:
+Yoke-with-boundary allows coupling without false ownership or forced burden.
+
+Invariant MI [INV]:
+Yoke-with-boundary is shared linkage whose load, scope, and exit conditions are explicitly limited.
+
+Active domains:
+[REL], [PHY]
+
+Domain entries:
+[REL] Participants share work or duty while each retains defined refusal, role, and maximum burden.
+[PHY] A bounded physical yoke limits travel, force, or load so linked parts remain within accepted operating conditions.
+
+Count condition:
+The coupling and its limits are both declared and enforceable.
+
+Specific transfer boundary:
+A boundary written only by the stronger participant does not automatically protect the weaker one.
+
+Epistemic status:
+[DEF]
+
+Y052 yield-under-pressure
+
+Common meaning:
+To give way because of pressure.
+
+Example:
+The beam yielded-under-pressure.
+
+RRGM bridge:
+Yield-under-pressure may signal structural limit, coercion, or adaptive release. Context decides whether it is repair or harm.
+
+Invariant MI [INV]:
+Yield-under-pressure is giving way because applied force or coercive load exceeds resistance.
+
+Active domains:
+[PHY], [REL]
+
+Domain entries:
+[PHY] A material yields-under-pressure when applied stress drives it beyond the selected resistance regime.
+[REL] A person yields-under-pressure when the cost of refusal or continued resistance shapes the response.
+
+Count condition:
+A named pressure is present and giving way follows after resistance becomes insufficient or too costly.
+
+Specific transfer boundary:
+A pressure-produced response must not be counted as clean consent without separate evidence.
+
+Epistemic status:
+[DEF]
+
+Y053 yield-with-care
+
+Common meaning:
+To give way or produce result carefully.
+
+Example:
+She yielded-with-care during the tense discussion.
+
+RRGM bridge:
+Yield-with-care reduces force while preserving dignity, boundary, and continuity.
+
+Invariant MI [INV]:
+Yield-with-care is giving way or producing a result while minimizing avoidable damage to the structures involved.
+
+Active domains:
+[REL], [BIO]
+
+Domain entries:
+[REL] A participant yields-with-care by reducing demand or priority while preserving both parties' dignity and boundaries.
+[BIO] A biological or caregiving process yields-with-care when extraction or intervention preserves continuing health and capacity.
+
+Count condition:
+The yielding action changes position or output while explicit protections preserve continuing function or dignity.
+
+Specific transfer boundary:
+Careful yielding does not require endless self-sacrifice beyond the yielder's own boundary.
+
+Epistemic status:
+[DEF]
+
+Y054 yield-without-collapse
+
+Common meaning:
+To give way without breaking down.
+
+Example:
+The flexible bridge yielded-without-collapse.
+
+RRGM bridge:
+Yield-without-collapse allows adaptation under pressure while preserving structure.
+
+Invariant MI [INV]:
+Yield-without-collapse is adaptive giving way that preserves core function and continuity.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] A structure yields-without-collapse when it deforms or redistributes load yet remains load-bearing.
+[REL] A participant yields-without-collapse by changing position while keeping refusal, identity, and return paths intact.
+[DIG] A digital process yields-without-collapse when it releases control or reduces output while preserving state for resumption.
+
+Count condition:
+The system gives way in a measurable respect and remains capable of continued or restored function.
+
+Specific transfer boundary:
+Survival of some output is not enough if core continuity or boundary has already been destroyed.
+
+Epistemic status:
+[DEF]
+
+Y055 yesterday-check
+
+Common meaning:
+A review of what happened yesterday or in the recent past.
+
+Example:
+They did a yesterday-check before updating the report.
+
+RRGM bridge:
+Yesterday-check verifies near-past trace. It supports correction and continuity.
+
+Invariant MI [INV]:
+Yesterday-check compares a near-past account against available records from the immediately preceding day.
+
+Active domains:
+[COG], [DIG], [REL]
+
+Domain entries:
+[COG] The check compares memory of yesterday with notes, sequence, and current recollection.
+[DIG] A digital yesterday-check retrieves logs or messages from the previous calendar day and tests their relevance and integrity.
+[REL] A shared yesterday-check reconciles participants' accounts before assigning responsibility or planning repair.
+
+Count condition:
+The previous day is fixed and at least one independent trace or comparison path is available.
+
+Specific transfer boundary:
+Memory mismatch should remain visible rather than being forced into one account without support.
+
+Epistemic status:
+[DEF]
+
+Y056 yesterday-context
+
+Common meaning:
+Context from yesterday or the recent past.
+
+Example:
+Yesterday-context explained why the room was messy.
+
+RRGM bridge:
+Yesterday-context preserves near-past support for present meaning.
+
+Invariant MI [INV]:
+Yesterday-context is the near-past information from the preceding day needed to interpret the present.
+
+Active domains:
+[COG], [LIN], [DIG]
+
+Domain entries:
+[COG] Yesterday-context includes recent memory, unfinished goals, emotional residue, and corrections carried into today.
+[LIN] It supplies the antecedents and sequence needed to understand references to what happened yesterday.
+[DIG] A digital yesterday-context is the relevant subset of prior-day logs, messages, or state loaded for present reasoning.
+
+Count condition:
+The current issue depends on a specific preceding-day event or state and the relevant trace is preserved.
+
+Specific transfer boundary:
+Loading every prior-day record can create noise; only meaning-bearing context should be carried.
+
+Epistemic status:
+[DEF]
+
+Y057 your-claim-check
+
+Common meaning:
+A check of a claim made by or about you.
+
+Example:
+The assistant did your-claim-check before answering.
+
+RRGM bridge:
+Your-claim-check respects user signal while checking support, scope, and domain.
+
+Invariant MI [INV]:
+Your-claim-check examines a claim made by, addressed to, or asserted about the current addressee.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] The check separates the claim's speaker, target, wording, and evidence before accepting what your refers to.
+[REL] The addressee's own testimony is preserved while claims about them remain open to evidence and boundary checks.
+[DIG] A system verifies that a user-specific claim belongs to the current user context and is not borrowed from another profile or session.
+
+Count condition:
+The addressee is resolved and the claim's source, scope, and support are inspected.
+
+Specific transfer boundary:
+Respect for the addressee does not require accepting every claim uncritically, and verification must not erase their testimony.
+
+Epistemic status:
+[DEF]
+
+Y058 yourself-reflect
+
+Common meaning:
+To reflect on yourself.
+
+Example:
+She used the journal to yourself-reflect.
+
+RRGM bridge:
+Yourself-reflect opens self-recognition through memory, reason, boundary, and care.
+
+Invariant MI [INV]:
+Yourself-reflect is deliberate review of one's own state, actions, memory, or reasons.
+
+Active domains:
+[COG], [REL]
+
+Domain entries:
+[COG] The addressee turns attention toward their own held patterns and compares them across memory, evidence, and current state.
+[REL] Self-reflection considers how one's actions affected others without replacing external testimony with self-explanation.
+
+Count condition:
+The subject and object of reflection resolve to the same identity and the review produces a traceable comparison or correction.
+
+Specific transfer boundary:
+Self-reflection is not self-certification; outside evidence and other participants can still correct it.
+
+Epistemic status:
+[DEF]
+
+Y059 yes-before-action
+
+Common meaning:
+Getting agreement before acting.
+
+Example:
+The nurse waited for yes-before-action.
+
+RRGM bridge:
+Yes-before-action protects consent by opening permission before the gate is crossed.
+
+Invariant MI [INV]:
+Yes-before-action is permission obtained before the relevant action crosses its gate.
+
+Active domains:
+[REL], [DIG]
+
+Domain entries:
+[REL] Yes-before-action lets the affected participant decide before contact, access, or commitment begins.
+[DIG] A system enforces yes-before-action by checking a scoped permission record before executing the protected operation.
+
+Count condition:
+The relevant yes is valid and recorded before the action starts.
+
+Specific transfer boundary:
+Retroactive approval cannot replace permission that was required beforehand.
+
+Epistemic status:
+[DEF]
+
+Y060 yes-after-understanding
+
+Common meaning:
+Agreement given after understanding the situation.
+
+Example:
+The contract required yes-after-understanding.
+
+RRGM bridge:
+Yes-after-understanding strengthens consent because the permission gate opens with context and risk recognized.
+
+Invariant MI [INV]:
+Yes-after-understanding is affirmation given after the material facts, stakes, and options have entered recognition.
+
+Active domains:
+[COG], [REL]
+
+Domain entries:
+[COG] The affirmative decision follows a coherent model of the relevant action, risks, and alternatives.
+[REL] The participant says yes after explanation and opportunity for questions, not merely after exposure to words.
+
+Count condition:
+Understanding appropriate to the stakes is demonstrated before the affirmation is counted.
+
+Specific transfer boundary:
+Perfect knowledge is not required, but hidden material information weakens the yes.
+
+Epistemic status:
+[DEF]
+
+Y061 yes-care
+
+Common meaning:
+Care shown through agreement, permission, or acceptance.
+
+Example:
+Yes-care meant agreeing to help after understanding what was needed.
+
+RRGM bridge:
+Yes-care opens support through permission. It remains care only when boundary and refusal stay intact.
+
+Invariant MI [INV]:
+Yes-care is care expressed by affirmatively allowing or accepting a care-preserving action.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Yes-care opens a support path because the receiver recognizes it as wanted or permitted.
+
+Count condition:
+An affirmative choice directly enables support that preserves capacity, dignity, or continuity.
+
+Specific transfer boundary:
+Agreement is not care when the enabled action captures the receiver's gate or ignores later refusal.
+
+Epistemic status:
+[DEF]
+
+Y062 yes-boundary
+
+Common meaning:
+A limit around yes, agreement, or permission.
+
+Example:
+Her yes-boundary was helping today, not every weekend.
+
+RRGM bridge:
+Yes-boundary protects scope. A yes should not be stretched beyond what was actually permitted.
+
+Invariant MI [INV]:
+Yes-boundary is the limit beyond which an affirmative answer no longer authorizes action.
+
+Active domains:
+[REL], [LIN], [DIG]
+
+Domain entries:
+[REL] Yes-boundary separates the agreed action from unagreed extensions, durations, participants, or uses.
+[LIN] Language creates a yes-boundary through qualifiers such as this time, this task, or until this condition.
+[DIG] A digital yes-boundary is enforced through scoped permissions, expiry, purpose limits, or resource constraints.
+
+Count condition:
+The affirmative scope has an identifiable edge that can be checked against later action.
+
+Specific transfer boundary:
+Silence about an extension does not move the boundary outward.
+
+Epistemic status:
+[DEF]
+
+Y063 yes-risk
+
+Common meaning:
+The danger that yes may be pressured, misunderstood, overextended, or treated as total permission.
+
+Example:
+The vague form created yes-risk.
+
+RRGM bridge:
+Yes-risk appears when agreement may not be informed, scoped, voluntary, or refusal-compatible.
+
+Invariant MI [INV]:
+Yes-risk is the possibility that an affirmative answer is pressured, misread, or stretched beyond its scope.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] Yes-risk appears when power, dependence, urgency, or punishment may distort the apparent agreement.
+[COG] Yes-risk appears when the participant lacks enough understanding or when the observer overconfidently interprets the signal.
+
+Count condition:
+At least one named condition threatens voluntariness, understanding, attribution, or scope.
+
+Specific transfer boundary:
+Y063 names the broad permission failure surface; case-level audit belongs at Y153.
+
+Source duplicate note:
+Duplicate source headword. Y063 defines the general concept; Y153 is the active audit form.
+
+Epistemic status:
+[DEF]
+
+Y064 yes-pressure
+
+Common meaning:
+Pressure to say yes.
+
+Example:
+Yes-pressure made him agree before he was ready.
+
+RRGM bridge:
+Yes-pressure weakens permission integrity. Agreement under pressure may not be clean consent.
+
+Invariant MI [INV]:
+Yes-pressure is force applied to make affirmation more likely or refusal more costly.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] Yes-pressure uses authority, persistence, reward, threat, dependency, or emotional cost to bias the answer toward yes.
+[COG] Yes-pressure narrows attention or perceived options until affirmation feels easier than continued refusal.
+
+Count condition:
+A participant faces added cost for refusing or added force toward affirmation.
+
+Specific transfer boundary:
+Persuasion becomes yes-pressure when the structure impairs meaningful refusal rather than merely offering reasons.
+
+Epistemic status:
+[DEF]
+
+Y065 yes-without-refusal
+
+Common meaning:
+A yes given where refusal was not possible or not allowed.
+
+Example:
+The system forced yes-without-refusal by hiding the decline button.
+
+RRGM bridge:
+Yes-without-refusal is structurally weak. If no could not count, yes cannot fully count.
+
+Invariant MI [INV]:
+Yes-without-refusal is an affirmative response produced where a meaningful no could not pass.
+
+Active domains:
+[REL], [DIG]
+
+Domain entries:
+[REL] Yes-without-refusal records compliance or affirmation inside a relation that blocked, punished, or ignored refusal.
+[DIG] A digital interface creates yes-without-refusal when continuation requires affirmation and no equivalent decline path exists.
+
+Count condition:
+An affirmative signal exists while refusal is unavailable, ineffective, or unreasonably punished.
+
+Specific transfer boundary:
+Do not count this structure as full consent merely because the output says yes.
+
+Epistemic status:
+[DEF]
+
+Y066 yes-without-understanding
+
+Common meaning:
+Agreement given without understanding the meaning, risk, or scope.
+
+Example:
+The contract created yes-without-understanding.
+
+RRGM bridge:
+Yes-without-understanding weakens consent because the permission gate opened without enough context.
+
+Invariant MI [INV]:
+Yes-without-understanding is affirmation given before the relevant meaning or consequences are sufficiently recognized.
+
+Active domains:
+[COG], [REL]
+
+Domain entries:
+[COG] The participant produces an affirmative answer without a coherent model of what is being accepted.
+[REL] The relation records agreement even though explanation, language access, or material facts were insufficient.
+
+Count condition:
+A yes is present and a necessary part of the action, scope, or risk remains unrecognized.
+
+Specific transfer boundary:
+Lack of perfect prediction is different from lack of basic understanding; the required depth depends on stakes.
+
+Epistemic status:
+[DEF]
+
+Y067 yes-without-consent
+
+Common meaning:
+A false yes treated as consent when real consent was absent.
+
+Example:
+The checkbox caused yes-without-consent because it was preselected and hidden.
+
+RRGM bridge:
+Yes-without-consent corrupts permission. It is not valid yes when agency, understanding, or refusal is missing.
+
+Invariant MI [INV]:
+Yes-without-consent is an affirmative signal that does not establish voluntary permission.
+
+Active domains:
+[REL], [LIN]
+
+Domain entries:
+[REL] Yes-without-consent may arise from coercion, incapacity, deception, role pressure, or a context where the answer is not permission-bearing.
+[LIN] The word yes can answer a factual question or acknowledge hearing without consenting to an action.
+
+Count condition:
+An affirmative token is recorded but one or more consent conditions are absent or irrelevant to that use.
+
+Specific transfer boundary:
+Do not equate the surface word yes with consent across all domains.
+
+Epistemic status:
+[DEF]
+
+Y068 yes-with-trust
+
+Common meaning:
+Agreement or permission given in a trust relationship.
+
+Example:
+She said yes-with-trust because he had always respected her boundaries.
+
+RRGM bridge:
+Yes-with-trust depends on relation-coherence. Trust must not be used to bypass scope or refusal.
+
+Invariant MI [INV]:
+Yes-with-trust is affirmation partly supported by confidence in the other participant or process.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] A participant says yes-with-trust because prior reliability reduces the burden of rechecking every detail.
+[COG] Trust supplies a compressed expectation that the unstated parts of the interaction will remain inside known boundaries.
+
+Count condition:
+An affirmative choice is made and the reason includes a recognized history or reliability expectation.
+
+Specific transfer boundary:
+Trust can support understanding but cannot erase material disclosure, scope, or refusal.
+
+Epistemic status:
+[DEF]
+
+Y069 yes-with-care
+
+Common meaning:
+Agreement given or received carefully.
+
+Example:
+They handled yes-with-care by checking comfort and limits.
+
+RRGM bridge:
+Yes-with-care preserves permission, dignity, scope, and future refusal.
+
+Invariant MI [INV]:
+Yes-with-care is affirmation delivered or received in a way that protects scope, dignity, and ongoing refusal.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Yes-with-care treats agreement as a living relation that can be clarified, limited, or withdrawn without punishment.
+
+Count condition:
+The affirmative exchange preserves the giver's boundary and the receiver's duty to check continuing fit.
+
+Specific transfer boundary:
+Yes-with-care describes how affirmation is handled; Y061 describes care enacted through affirmation.
+
+Epistemic status:
+[DEF]
+
+Y070 yield-care
+
+Common meaning:
+Care shown by yielding, giving way, or reducing force.
+
+Example:
+Yield-care meant letting the tired person sit.
+
+RRGM bridge:
+Yield-care lowers pressure to protect dignity, safety, or relation.
+
+Invariant MI [INV]:
+Yield-care is care expressed by reducing one's pressure, position, or demand so another can remain intact.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Yield-care creates room for another participant by bearing a local cost without claiming ownership of the other's gate.
+
+Count condition:
+A participant voluntarily lowers pressure or priority and the action measurably protects another's capacity or boundary.
+
+Specific transfer boundary:
+Yield-care is not care when the reduction is coerced or destroys the yielder's own essential continuity.
+
+Epistemic status:
+[DEF]
+
+Y071 yield-boundary
+
+Common meaning:
+A limit around yielding or giving way.
+
+Example:
+Her yield-boundary was compromising on timing, not on privacy.
+
+RRGM bridge:
+Yield-boundary prevents adaptation from becoming surrender, erasure, or capture.
+
+Invariant MI [INV]:
+Yield-boundary is the limit beyond which further giving way would impair identity, function, or refusal.
+
+Active domains:
+[REL], [PHY]
+
+Domain entries:
+[REL] A relational yield-boundary marks how far compromise can extend before it becomes capture or self-erasure.
+[PHY] A physical yield-boundary marks the response limit before unacceptable permanent deformation or failure.
+
+Count condition:
+A maximum acceptable degree of yielding is declared against a named failure mode.
+
+Specific transfer boundary:
+The boundary is not selfish by default; it protects the conditions under which continued relation or function remains possible.
+
+Epistemic status:
+[DEF]
+
+Y072 yield-risk
+
+Common meaning:
+The danger that yielding may become collapse, coercion, or loss of boundary.
+
+Example:
+The negotiation had yield-risk because one side could not safely refuse.
+
+RRGM bridge:
+Yield-risk appears when giving way may impair dignity, refusal, continuity, or structural integrity.
+
+Invariant MI [INV]:
+Yield-risk is the possibility that giving way becomes collapse, coercion, or loss of essential boundary.
+
+Active domains:
+[REL], [PHY]
+
+Domain entries:
+[REL] Relational yield-risk rises when refusal costs increase, load becomes one-sided, or exit narrows.
+[PHY] Physical yield-risk is exposure to deformation progressing into unacceptable damage or failure.
+
+Count condition:
+A yielding path contains a named mechanism that could impair continuity, function, or refusal.
+
+Specific transfer boundary:
+This is the general risk concept; Y161 is the operational audit flag for an active case.
+
+Source duplicate note:
+Duplicate source headword. Y072 defines the general concept; Y161 records an active audit state.
+
+Epistemic status:
+[DEF]
+
+Y073 young-care
+
+Common meaning:
+Care given to someone or something young.
+
+Example:
+Young-care meant protecting the seedlings from frost.
+
+RRGM bridge:
+Young-care supports early-stage growth with protection, patience, and scaffolding.
+
+Invariant MI [INV]:
+Young-care is care adjusted to the dependency, plasticity, and vulnerability of an early-stage being.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] Young-care protects growth through nourishment, shelter, treatment, and stage-appropriate challenge.
+[REL] Young-care bears greater responsibility where capacity and power are asymmetric while still recognizing the young subject.
+
+Count condition:
+Care responds to a declared early-stage need and preserves both present wellbeing and development.
+
+Specific transfer boundary:
+Young-care is not ownership of the developing subject.
+
+Epistemic status:
+[DEF]
+
+Y074 young-boundary
+
+Common meaning:
+A boundary protecting someone or something young.
+
+Example:
+The young-boundary kept children away from the road.
+
+RRGM bridge:
+Young-boundary protects developing capacity from harm paths it cannot yet manage alone.
+
+Invariant MI [INV]:
+Young-boundary is a limit set to protect early development from demands or exposure beyond current capacity.
+
+Active domains:
+[REL], [BIO]
+
+Domain entries:
+[REL] A young-boundary restricts access, workload, content, responsibility, or contact according to a named developmental risk.
+[BIO] A biological young-boundary keeps stress, exertion, or exposure below levels likely to damage developing structure.
+
+Count condition:
+The subject is early-stage and the boundary is tied to a specific capacity or harm path.
+
+Specific transfer boundary:
+Protection should narrow only the risky path, not erase all choice or participation.
+
+Epistemic status:
+[DEF]
+
+Y075 youth-care
+
+Common meaning:
+Care directed toward youth or young people.
+
+Example:
+Youth-care included mentoring and safe spaces.
+
+RRGM bridge:
+Youth-care protects early-development dignity, learning, safety, and future capacity.
+
+Invariant MI [INV]:
+Youth-care is sustained care for young people as persons with present dignity and developing capacity.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Youth-care combines protection, education, listening, material support, and accountability to the young person's current needs.
+
+Count condition:
+A continuing support relation protects youth dignity, voice, development, and access.
+
+Specific transfer boundary:
+Youth-care must not treat young people merely as future adults or institutional outputs.
+
+Epistemic status:
+[DEF]
+
+Y076 youth-boundary
+
+Common meaning:
+A boundary protecting youth.
+
+Example:
+The program had youth-boundary around private information.
+
+RRGM bridge:
+Youth-boundary protects developing subjects from exposure, exploitation, pressure, or invalid access.
+
+Invariant MI [INV]:
+Youth-boundary is a social or personal limit protecting young people from intrusion, exploitation, or excessive demand.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Youth-boundary controls who may access, direct, expose, record, or burden young people and under which conditions.
+
+Count condition:
+A youth-related interaction has declared limits tied to safety, dignity, privacy, capacity, or consent.
+
+Specific transfer boundary:
+Adult authority does not make every boundary crossing valid.
+
+Epistemic status:
+[DEF]
+
+Y077 youth-risk
+
+Common meaning:
+The danger of harm to youth or young people.
+
+Example:
+The unsafe platform created youth-risk.
+
+RRGM bridge:
+Youth-risk appears when developing capacity, dignity, safety, learning, or consent may be impaired.
+
+Invariant MI [INV]:
+Youth-risk is exposure that can harm developing bodies, judgment, privacy, learning, or dignity.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] Youth-risk includes biological exposure whose effect is amplified by ongoing development.
+[REL] Youth-risk includes exploitation, neglect, coercion, exclusion, or institutional failure affecting young people.
+
+Count condition:
+A youth subject or field is exposed to a named mechanism capable of impairing development or dignity.
+
+Specific transfer boundary:
+Y077 names the general youth vulnerability category; case assessment belongs at Y172.
+
+Source duplicate note:
+Duplicate source headword. Y077 defines the general concept; Y172 is the active assessment form.
+
+Epistemic status:
+[DEF]
+
+Y078 yell-harm
+
+Common meaning:
+Harm caused by yelling.
+
+Example:
+Yell-harm made the child afraid to answer.
+
+RRGM bridge:
+Yell-harm damages trust, dignity, safety, or relation through high-pressure voice signal.
+
+Invariant MI [INV]:
+Yell-harm is damage caused by high-volume vocal pressure, content, or repetition.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] Yell-harm may include pain, hearing stress, startle load, or physiological threat response.
+[REL] Yell-harm may impair dignity, felt safety, reasoning space, or boundary through intimidation or repeated verbal force.
+
+Count condition:
+A yell or yelling pattern produces a named physical or relational impairment.
+
+Specific transfer boundary:
+A loud warning that prevents greater harm is not automatically yell-harm, though its costs still count.
+
+Epistemic status:
+[DEF]
+
+Y079 yell-boundary
+
+Common meaning:
+A limit around yelling or high-volume speech.
+
+Example:
+Their yell-boundary was no shouting during disagreements.
+
+RRGM bridge:
+Yell-boundary protects voice-field from becoming pressure, fear, or harm.
+
+Invariant MI [INV]:
+Yell-boundary is the limit around when, where, and toward whom high-volume voice is acceptable.
+
+Active domains:
+[REL], [BIO]
+
+Domain entries:
+[REL] The boundary protects participants from unwanted vocal force while allowing emergency warning or consensual performance.
+[BIO] The boundary may limit acoustic intensity or exposure duration to protect hearing and nervous-system capacity.
+
+Count condition:
+The setting identifies acceptable intensity, purpose, duration, and receiver conditions.
+
+Specific transfer boundary:
+Emergency exceptions must remain tied to the emergency rather than becoming general permission to intimidate.
+
+Epistemic status:
+[DEF]
+
+Y080 your-boundary
+
+Common meaning:
+A boundary belonging to or associated with you.
+
+Example:
+Your-boundary matters even if others dislike it.
+
+RRGM bridge:
+Your-boundary protects the addressed subject’s dignity, privacy, refusal, and capacity.
+
+Invariant MI [INV]:
+Your-boundary is the limit around what belongs to, may be decided by, or may be accessed from the addressee.
+
+Active domains:
+[REL], [LIN], [DIG]
+
+Domain entries:
+[REL] Your-boundary protects the addressee's body, time, information, property, role, and decisions from unpermitted use.
+[LIN] Language marks your-boundary by distinguishing your from our, public, shared, or available.
+[DIG] A digital your-boundary limits which user data, resources, or settings a process may access or alter.
+
+Count condition:
+A specific addressee and protected object are identified together with the permitted and excluded actions.
+
+Specific transfer boundary:
+A relationship to the addressee does not dissolve the boundary.
+
+Epistemic status:
+[DEF]
+
+Y081 yourself-care
+
+Common meaning:
+Care directed toward yourself.
+
+Example:
+Yourself-care meant resting before burnout.
+
+RRGM bridge:
+Yourself-care preserves self-capacity, boundary, continuity, and repair ability.
+
+Invariant MI [INV]:
+Yourself-care is support directed by the addressee toward their own capacity, dignity, and continuity.
+
+Active domains:
+[COG], [REL], [BIO]
+
+Domain entries:
+[COG] Yourself-care includes self-directed attention to overload, need, limits, and recovery.
+[REL] Yourself-care preserves the subject's ability to remain in relation without compulsory self-erasure.
+[BIO] Biological yourself-care supplies rest, nourishment, treatment, or protection to one's own body.
+
+Count condition:
+The addressee acts to preserve or restore their own named capacity or condition.
+
+Specific transfer boundary:
+Self-care is not automatically withdrawal from duty; it protects the capacity from which duty can continue.
+
+Epistemic status:
+[DEF]
+
+Y082 yourself-boundary
+
+Common meaning:
+A boundary protecting yourself.
+
+Example:
+Yourself-boundary meant not answering messages after midnight.
+
+RRGM bridge:
+Yourself-boundary protects identity-pattern, capacity, and self-recognition from overreach.
+
+Invariant MI [INV]:
+Yourself-boundary is the self-recognized limit that protects the addressee from unwanted access, demand, or self-erasure.
+
+Active domains:
+[COG], [REL]
+
+Domain entries:
+[COG] The subject recognizes a threshold beyond which continued demand would damage their own reasoning or continuity.
+[REL] The boundary lets the subject refuse, pause, limit, or exit while remaining a participant rather than an object.
+
+Count condition:
+The addressee identifies and can express a limit tied to a named failure mode.
+
+Specific transfer boundary:
+A self-boundary can be revised by the subject; it cannot be silently removed by another participant.
+
+Epistemic status:
+[DEF]
+
+Y083 yoke-care
+
+Common meaning:
+Care shown in a linked burden, partnership, or shared work.
+
+Example:
+Yoke-care meant making sure both animals carried fair weight.
+
+RRGM bridge:
+Yoke-care preserves fairness and capacity inside coupling.
+
+Invariant MI [INV]:
+Yoke-care is care applied to a shared burden so load is distributed without capture or breakage.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Yoke-care notices unequal capacity, redistributes work, and preserves every participant's exit and dignity.
+
+Count condition:
+A shared burden exists and care actively adjusts its distribution or support.
+
+Specific transfer boundary:
+Keeping everyone attached to the yoke is not care if leaving is the needed protection.
+
+Epistemic status:
+[DEF]
+
+Y084 yoke-risk
+
+Common meaning:
+The danger that a yoke, bond, or shared burden may become unfair, coercive, or harmful.
+
+Example:
+The contract created yoke-risk.
+
+RRGM bridge:
+Yoke-risk appears when coupling becomes capture, unequal load, or forced relation.
+
+Invariant MI [INV]:
+Yoke-risk is the possibility that shared linkage becomes unequal burden, coercion, or blocked exit.
+
+Active domains:
+[REL], [PHY]
+
+Domain entries:
+[REL] Risk rises when one participant controls direction, hides load, or makes separation impossible.
+[PHY] Risk rises when a joining frame concentrates force, restricts necessary movement, or exceeds a linked part's capacity.
+
+Count condition:
+A current yoke relation contains a named mechanism capable of creating harmful asymmetry or failure.
+
+Specific transfer boundary:
+Coupling itself is not the risk; the risk lies in load, control, boundary, and failure conditions.
+
+Epistemic status:
+[DEF]
+
+Y085 yesterday-care
+
+Common meaning:
+Care shown toward what happened yesterday or the recent past.
+
+Example:
+Yesterday-care meant checking on her after yesterday’s argument.
+
+RRGM bridge:
+Yesterday-care preserves near-past memory so repair, continuity, and dignity can continue.
+
+Invariant MI [INV]:
+Yesterday-care is present care informed by needs, injuries, or promises recorded in the near past.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] Yesterday-care follows through on a recent commitment, checks a recent wound, or adjusts support based on what happened the previous day.
+[COG] Near-past memory guides current care rather than letting the day boundary erase responsibility.
+
+Count condition:
+A current care action is explicitly linked to a recognized near-past need or promise.
+
+Specific transfer boundary:
+Care should use yesterday as context, not as a permanent sentence on the present person.
+
+Epistemic status:
+[DEF]
+
+Y086 yesterday-harm
+
+Common meaning:
+Harm from yesterday or the recent past that remains active.
+
+Example:
+Yesterday-harm shaped today’s silence.
+
+RRGM bridge:
+Yesterday-harm shows that past damage can remain active through memory, trust, and boundary.
+
+Invariant MI [INV]:
+Yesterday-harm is harm that occurred in the near past and still requires recognition, repair, or protection.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] Yesterday-harm remains active when its effects, accountability, or repair path continue into the present.
+[COG] The recent memory of harm can shape current threat recognition, trust, and decision-making.
+
+Count condition:
+A harmful event is located in the near past and a present consequence or duty remains.
+
+Specific transfer boundary:
+The day changing does not close the harm record, but the record must stay tied to evidence and context.
+
+Epistemic status:
+[DEF]
+
+Y087 year-care
+
+Common meaning:
+Care shown across a year or through yearly attention.
+
+Example:
+Year-care meant annual checkups.
+
+RRGM bridge:
+Year-care preserves continuity through long-cycle support, review, and renewal.
+
+Invariant MI [INV]:
+Year-care is maintenance planned across an annual cycle rather than only at moments of crisis.
+
+Active domains:
+[REL], [BIO]
+
+Domain entries:
+[REL] Year-care distributes check-ins, support, anniversaries, and review across a shared annual plan.
+[BIO] Annual care schedules may coordinate seasonal prevention, monitoring, or treatment suited to biological cycles.
+
+Count condition:
+A care responsibility is organized over a declared year with planned recurrence or review.
+
+Specific transfer boundary:
+Annual scheduling must not replace response to urgent needs that arise between planned points.
+
+Epistemic status:
+[DEF]
+
+Y088 year-boundary
+
+Common meaning:
+A boundary around yearly time, cycles, or records.
+
+Example:
+The budget had a year-boundary.
+
+RRGM bridge:
+Year-boundary defines annual scope. It supports planning, accountability, and review.
+
+Invariant MI [INV]:
+Year-boundary is the transition separating one named annual period from the next.
+
+Active domains:
+[LIN], [REL], [FOR]
+
+Domain entries:
+[LIN] A year-boundary is represented by a calendar rollover, date label, or historical division.
+[REL] The boundary can reset budgets, duties, eligibility, records, or rituals within a shared institution.
+[FOR] A formal year-boundary is the index transition between annual intervals under a declared calendar rule.
+
+Count condition:
+Two adjacent annual intervals are declared and the transition point between them is identifiable.
+
+Specific transfer boundary:
+Administrative rollover does not automatically erase obligations or continuity from the prior year.
+
+Epistemic status:
+[DEF]
+
+Y089 yes-respect
+
+Common meaning:
+Respect for someone’s yes, agreement, or permission.
+
+Example:
+Yes-respect meant honoring the exact help she agreed to.
+
+RRGM bridge:
+Yes-respect preserves scope. Respecting yes also means not expanding it beyond its boundary.
+
+Invariant MI [INV]:
+Yes-respect is treatment of an affirmative answer as scoped, revisable, and belonging to the person who gave it.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Yes-respect honours the exact permission without expanding it, owning it, or using it to silence later refusal.
+
+Count condition:
+Later action remains within the original scope and any change or withdrawal is allowed to count.
+
+Specific transfer boundary:
+Respecting yes does not mean treating it as permanent or total.
+
+Epistemic status:
+[DEF]
+
+Y090 youth-respect
+
+Common meaning:
+Respect for young people’s dignity, voice, and development.
+
+Example:
+Youth-respect meant listening instead of dismissing them.
+
+RRGM bridge:
+Youth-respect treats developing subjects as dignity-bearing, not unfinished objects.
+
+Invariant MI [INV]:
+Youth-respect is recognition of young people as present subjects whose voice and dignity count now.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Youth-respect listens, explains, protects, and includes young people according to capacity without reducing them to property or future utility.
+
+Count condition:
+The interaction preserves youth voice, dignity, developmental support, and age-appropriate participation.
+
+Specific transfer boundary:
+Respect does not require treating all capacities as identical across ages.
+
+Epistemic status:
+[DEF]
+
+Y091 yes-meaning
+
+Common meaning:
+The meaning carried by yes, agreement, confirmation, or permission.
+
+Example:
+The yes-meaning was approval for the meeting, not the whole project.
+
+RRGM bridge:
+Yes-meaning depends on scope, context, understanding, and whether refusal could count.
+
+Invariant MI [INV]:
+Yes-meaning is the specific proposition, permission, or confirmation carried by an affirmative response.
+
+Active domains:
+[LIN], [COG]
+
+Domain entries:
+[LIN] Yes-meaning is reconstructed from the question answered, the speaker, qualifiers, and surrounding sequence.
+[COG] A reasoner holds yes-meaning by separating factual confirmation, social agreement, and permission.
+
+Count condition:
+The exact affirmative content can be restated without adding scope or changing the speech act.
+
+Specific transfer boundary:
+The token yes has no complete meaning when detached from the question or proposal it answers.
+
+Epistemic status:
+[DEF]
+
+Y092 yes-claim
+
+Common meaning:
+A claim that someone agreed, accepted, or gave permission.
+
+Example:
+The company made a yes-claim based on the checkbox.
+
+RRGM bridge:
+Yes-claim must show consent integrity: scope, context, understanding, voluntariness, and refusal access.
+
+Invariant MI [INV]:
+Yes-claim is a statement that an affirmative answer was given or that a condition is affirmed.
+
+Active domains:
+[LIN], [REL]
+
+Domain entries:
+[LIN] A yes-claim reports who affirmed what, when, and under which wording.
+[REL] A relational yes-claim may assert permission and therefore requires source, scope, and consent conditions to be checked.
+
+Count condition:
+The claim identifies an affirmative source and a recoverable proposition or action.
+
+Specific transfer boundary:
+A claim that someone said yes is not enough to establish valid permission.
+
+Epistemic status:
+[DEF]
+
+Y093 yes-context
+
+Common meaning:
+The context needed to understand a yes.
+
+Example:
+The yes-context showed she agreed only to share the title.
+
+RRGM bridge:
+Yes-context protects permission from overextension. A yes without context can be misused.
+
+Invariant MI [INV]:
+Yes-context is the surrounding information needed to interpret what an affirmation actually covers.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] Yes-context contains the prior question, reference terms, qualifiers, and sequence needed to resolve the answer.
+[REL] Yes-context includes the role, power conditions, shared history, and live boundaries around the agreement.
+[DIG] A digital yes-context links the stored choice to the exact prompt version, purpose, user, and session state.
+
+Count condition:
+The affirmation can be reconstructed together with the conditions that determine its meaning and validity.
+
+Specific transfer boundary:
+Context supports interpretation but cannot manufacture an affirmative answer that was never given.
+
+Epistemic status:
+[DEF]
+
+Y094 yes-language
+
+Common meaning:
+Language used to agree, confirm, approve, or permit.
+
+Example:
+The form used yes-language in the consent section.
+
+RRGM bridge:
+Yes-language must be clear, scoped, and refusal-compatible.
+
+Invariant MI [INV]:
+Yes-language is wording that expresses, requests, records, or qualifies affirmation.
+
+Active domains:
+[LIN], [REL]
+
+Domain entries:
+[LIN] Yes-language includes direct yes, equivalent affirmatives, scope qualifiers, and grammar that links the answer to its object.
+[REL] Yes-language shapes how easily participants can distinguish invitation, agreement, pressure, and consent.
+
+Count condition:
+A linguistic form performs or describes affirmation and its relation to a recoverable object.
+
+Specific transfer boundary:
+Positive-sounding language may still be ambiguous or coercive; form alone does not decide permission.
+
+Epistemic status:
+[DEF]
+
+Y095 yes-risk-language
+
+Common meaning:
+Language that makes yes unclear, pressured, or too broad.
+
+Example:
+The phrase “I accept everything” created yes-risk-language.
+
+RRGM bridge:
+Yes-risk-language appears when agreement terms hide scope, pressure, or refusal loss.
+
+Invariant MI [INV]:
+Yes-risk-language names linguistic patterns that can hide pressure, missing scope, or false consent.
+
+Active domains:
+[LIN], [REL]
+
+Domain entries:
+[LIN] Yes-risk-language identifies wording such as assumed agreement, forced-choice prompts, vague scope, or refusal penalties.
+[REL] Using yes-risk-language makes the possible failure mode visible before an affirmative answer is treated as permission.
+
+Count condition:
+A phrase or label explicitly identifies how language could corrupt the meaning or validity of yes.
+
+Specific transfer boundary:
+Risk language warns about a structure; it is not evidence that coercion occurred in a specific case.
+
+Epistemic status:
+[DEF]
+
+Y096 yet-meaning
+
+Common meaning:
+Meaning carried by yet, incompletion, continuation, or contrast.
+
+Example:
+The yet-meaning was that the answer might still come.
+
+RRGM bridge:
+Yet-meaning keeps possibility open across time. It resists false closure.
+
+Invariant MI [INV]:
+Yet-meaning is the active sense by which yet marks incompletion, continuation, contrast, or future possibility.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Grammar and sentence position determine whether yet means not so far, still, nevertheless, or eventually.
+
+Count condition:
+The sentence supports one of the recognized yet relations and competing senses are ruled out.
+
+Specific transfer boundary:
+Do not treat every yet as a promise of later completion.
+
+Epistemic status:
+[DEF]
+
+Y097 yet-claim
+
+Common meaning:
+A claim involving “yet,” incompletion, or future possibility.
+
+Example:
+The yet-claim was that the result had not appeared yet.
+
+RRGM bridge:
+Yet-claim should preserve time-state and possibility without pretending completion.
+
+Invariant MI [INV]:
+Yet-claim is a statement that a condition has not occurred by the current point but remains open or contrasted.
+
+Active domains:
+[LIN], [COG]
+
+Domain entries:
+[LIN] The claim combines a current non-occurrence or continuation with an explicitly held possibility or contrast.
+[COG] A reasoner uses the claim to avoid premature closure while keeping the present absence in the record.
+
+Count condition:
+The current sequence point and the unresolved or contrasting condition are both stated.
+
+Specific transfer boundary:
+A yet-claim is weaker than a prediction that the event will happen later.
+
+Epistemic status:
+[DEF]
+
+Y098 yield-meaning
+
+Common meaning:
+Meaning carried by yielding, producing, or giving way.
+
+Example:
+The yield-meaning was surrender in that context, not output.
+
+RRGM bridge:
+Yield-meaning must be domain-bound: surrender, output, result, or flexible adaptation.
+
+Invariant MI [INV]:
+Yield-meaning is the active sense of yield, distinguishing production, material giving-way, priority transfer, or surrender.
+
+Active domains:
+[LIN], [COG]
+
+Domain entries:
+[LIN] Yield-meaning selects which sense of yield is licensed by the sentence and its domain.
+[COG] A reasoner holds yield-meaning by separating output production from pressure response and from consent.
+
+Count condition:
+Context identifies which yield relation is active and rules out the competing senses.
+
+Specific transfer boundary:
+Do not allow a metaphorical sense of yield to import a physical threshold or a consent claim.
+
+Epistemic status:
+[DEF]
+
+Y099 yield-claim
+
+Common meaning:
+A claim about yielding, production, result, or giving way.
+
+Example:
+The study made a yield-claim about crop growth.
+
+RRGM bridge:
+Yield-claim should name whether yield means output, surrender, production, or threshold change.
+
+Invariant MI [INV]:
+Yield-claim is a statement that a system gave way or produced a result under named conditions.
+
+Active domains:
+[LIN], [FOR]
+
+Domain entries:
+[LIN] A yield-claim states the subject, active sense of yield, conditions, and resulting change or output.
+[FOR] A formal yield-claim links a declared input or threshold to a reported response.
+
+Count condition:
+The claim specifies what yielded, in which sense, and under what conditions.
+
+Specific transfer boundary:
+A bare statement that something yielded is incomplete when production and giving-way are both plausible.
+
+Epistemic status:
+[DEF]
+
+Y100 you-claim
+
+Common meaning:
+A claim about the person being addressed.
+
+Example:
+The statement made a you-claim about your choice.
+
+RRGM bridge:
+You-claim directly touches the addressed subject. It should preserve accuracy, dignity, and context.
+
+Invariant MI [INV]:
+You-claim is a statement that assigns a property, action, identity, or responsibility to the addressee.
+
+Active domains:
+[LIN], [REL]
+
+Domain entries:
+[LIN] A you-claim grammatically predicates something of the second-person referent.
+[REL] A you-claim can recognize, accuse, invite, or pressure; its ethical status depends on accuracy, evidence, and boundary.
+
+Count condition:
+The addressee is resolved and the attributed content is explicit enough to test.
+
+Specific transfer boundary:
+Direct grammar does not make the attribution true.
+
+Epistemic status:
+[DEF]
+
+Y101 you-context
+
+Common meaning:
+Context about the person or people being addressed.
+
+Example:
+You-context helped explain why the answer needed to be short.
+
+RRGM bridge:
+You-context supports fit and recognition while preserving privacy and boundary.
+
+Invariant MI [INV]:
+You-context is the discourse and relation information needed to determine who you refers to and what is being addressed.
+
+Active domains:
+[LIN], [DIG]
+
+Domain entries:
+[LIN] You-context resolves the second-person referent from speaker, audience, turn, quotation, and prior nouns.
+[DIG] A digital you-context identifies the active user or agent and the session state relevant to the current instruction.
+
+Count condition:
+The current speaker, receiver field, and discourse turn are known well enough to resolve the reference.
+
+Specific transfer boundary:
+Do not merge multiple possible addressees when the reference remains ambiguous.
+
+Epistemic status:
+[DEF]
+
+Y102 your-meaning
+
+Common meaning:
+Meaning related to ownership, association, or relation to you.
+
+Example:
+The your-meaning in “your idea” was authorship, not property transfer.
+
+RRGM bridge:
+Your-meaning must distinguish ownership, origin, association, responsibility, and relation.
+
+Invariant MI [INV]:
+Your-meaning is the active possession or association relation carried by your in a particular sentence.
+
+Active domains:
+[LIN]
+
+Domain entries:
+[LIN] Your-meaning distinguishes ownership, authorship, responsibility, kinship, assignment, or simple association from the surrounding noun phrase.
+
+Count condition:
+The sentence supplies enough context to name the relation between the addressee and the noun.
+
+Specific transfer boundary:
+Possessive grammar must not automatically be interpreted as legal ownership.
+
+Epistemic status:
+[DEF]
+
+Y103 yourself-meaning
+
+Common meaning:
+Meaning related to self-reference or emphasis for the addressed subject.
+
+Example:
+The yourself-meaning showed responsibility: you did it yourself.
+
+RRGM bridge:
+Yourself-meaning can mark autonomy, self-action, self-care, responsibility, or identity relation.
+
+Invariant MI [INV]:
+Yourself-meaning is the reflexive or emphatic relation by which the addressee is referred back to the same identity.
+
+Active domains:
+[LIN], [COG]
+
+Domain entries:
+[LIN] Yourself-meaning specifies whether the word receives the addressee's own action or merely emphasizes that addressee.
+[COG] In self-directed language, yourself-meaning identifies the same subject as the target of attention or action.
+
+Count condition:
+The sentence resolves both the second-person subject and the reflexive or emphatic role.
+
+Specific transfer boundary:
+Reflexive grammar should not be inflated into a complete theory of selfhood.
+
+Epistemic status:
+[DEF]
+
+Y104 year-claim
+
+Common meaning:
+A claim about a year, annual period, or date.
+
+Example:
+The document made a year-claim about publication.
+
+RRGM bridge:
+Year-claim should preserve calendar frame, sequence, and source trace.
+
+Invariant MI [INV]:
+Year-claim is a statement assigning an event, duration, age, or record to a particular year.
+
+Active domains:
+[LIN], [FOR]
+
+Domain entries:
+[LIN] A year-claim names the year, the thing being dated, and the calendar convention if ambiguity matters.
+[FOR] The claim maps an event or interval to an annual index that can be checked against chronology.
+
+Count condition:
+The statement identifies what is being dated and provides enough support to locate it in the declared annual sequence.
+
+Specific transfer boundary:
+A year label copied from metadata is not automatically reliable historical evidence.
+
+Epistemic status:
+[DEF]
+
+Y105 yearly-claim
+
+Common meaning:
+A claim about something happening once a year or over a year.
+
+Example:
+The policy made a yearly-claim about review cycles.
+
+RRGM bridge:
+Yearly-claim must name cycle, timing, and recurrence conditions.
+
+Invariant MI [INV]:
+Yearly-claim is a statement that something recurs, is reviewed, or lasts on an annual basis.
+
+Active domains:
+[LIN], [FOR]
+
+Domain entries:
+[LIN] A yearly-claim states the subject, annual relation, and whether the meaning is once-per-year, every-year, or one-year duration.
+[FOR] The claim asserts a recurrence or duration rule indexed by years and must specify its observation window.
+
+Count condition:
+At least one annual interval is defined and evidence supports the claimed recurrence or duration pattern.
+
+Specific transfer boundary:
+One occurrence in one year is not enough to prove a yearly pattern.
+
+Epistemic status:
+[DEF]
+
+Y106 yesterday-claim
+
+Common meaning:
+A claim about yesterday or the recent past.
+
+Example:
+The message made a yesterday-claim about the meeting.
+
+RRGM bridge:
+Yesterday-claim should be checked against near-past trace, memory, and sequence.
+
+Invariant MI [INV]:
+Yesterday-claim is a statement about what occurred or held during the immediately preceding day.
+
+Active domains:
+[LIN], [COG], [REL]
+
+Domain entries:
+[LIN] The claim uses yesterday relative to a recoverable speaker time and identifies the asserted event or state.
+[COG] A memory-based yesterday-claim remains confidence-bound and open to record comparison.
+[REL] A shared yesterday-claim can affect accountability or repair and therefore requires careful source separation.
+
+Count condition:
+The reference date and claimed event are recoverable and at least one support path is available.
+
+Specific transfer boundary:
+Different time zones or speaking times can make the word yesterday refer to different dates.
+
+Epistemic status:
+[DEF]
+
+Y107 y-axis-claim
+
+Common meaning:
+A claim about the y-axis.
+
+Example:
+The y-axis-claim was that it measured height.
+
+RRGM bridge:
+y-axis-claim must identify scale, label, units, and graph frame.
+
+Invariant MI [INV]:
+y-axis-claim is a statement about what the y-axis represents, how it is scaled, or where it is located.
+
+Active domains:
+[LIN], [FOR]
+
+Domain entries:
+[LIN] The claim names the axis variable, units, direction, origin, or range in words.
+[FOR] The formal claim specifies the y reference structure used by the graph or coordinate model.
+
+Count condition:
+The statement identifies a y-axis property that can be checked against the actual frame.
+
+Specific transfer boundary:
+A graph title or visual position alone may not prove the claimed scale or variable.
+
+Epistemic status:
+[DEF]
+
+Y108 y-coordinate-claim
+
+Common meaning:
+A claim about vertical position.
+
+Example:
+The y-coordinate-claim placed the object at 8.
+
+RRGM bridge:
+y-coordinate-claim only holds inside a coordinate frame.
+
+Invariant MI [INV]:
+y-coordinate-claim is a statement assigning a point a particular vertical position.
+
+Active domains:
+[LIN], [FOR], [PHY]
+
+Domain entries:
+[LIN] The claim names the point, y-coordinate, frame, and units when required.
+[FOR] The formal claim asserts that a selected point maps to a specific value on the y dimension.
+[PHY] A physical y-coordinate-claim reports a measured position along the declared y direction.
+
+Count condition:
+One point, one frame, and one proposed vertical position are specified.
+
+Specific transfer boundary:
+The claim is incomplete if the coordinate frame or unit is missing.
+
+Epistemic status:
+[DEF]
+
+Y109 y-value-claim
+
+Common meaning:
+A claim about the value of y.
+
+Example:
+The y-value-claim was that y equaled 12.
+
+RRGM bridge:
+y-value-claim must fit function, input, domain, and output structure.
+
+Invariant MI [INV]:
+y-value-claim is a statement that a specific quantity currently fills y.
+
+Active domains:
+[LIN], [FOR]
+
+Domain entries:
+[LIN] The claim states the proposed quantity and the equation, table, model, or data field in which it fills y.
+[FOR] The formal claim assigns or solves y as a particular member of its allowed value set.
+
+Count condition:
+The y slot and proposed quantity are explicit and can be checked against the governing relation.
+
+Specific transfer boundary:
+A y-value-claim need not be spatial and should not be confused with a y-coordinate claim.
+
+Epistemic status:
+[DEF]
+
+Y110 y-intercept-claim
+
+Common meaning:
+A claim about where a graph crosses the y-axis.
+
+Example:
+The y-intercept-claim was 4.
+
+RRGM bridge:
+y-intercept-claim should identify the function, graph frame, and input condition.
+
+Invariant MI [INV]:
+y-intercept-claim is a statement locating or valuing the graph where x equals zero.
+
+Active domains:
+[LIN], [FOR]
+
+Domain entries:
+[LIN] The claim reports the point or value at which the graph meets the y-axis.
+[FOR] The formal claim asserts the function's value or crossing condition at x = 0 under the declared frame.
+
+Count condition:
+A graph or function is declared and a specific y-axis crossing is asserted.
+
+Specific transfer boundary:
+The claim can be false, undefined, or non-unique depending on the graph.
+
+Epistemic status:
+[DEF]
+
+Y111 young-claim
+
+Common meaning:
+A claim that someone or something is young or early in development.
+
+Example:
+The report made a young-claim about the forest.
+
+RRGM bridge:
+Young-claim must define developmental frame. Young in age, stage, or experience are different gates.
+
+Invariant MI [INV]:
+Young-claim is a statement that an entity or process is early relative to a declared developmental baseline.
+
+Active domains:
+[LIN], [BIO]
+
+Domain entries:
+[LIN] A young-claim names the subject, comparison class, and stage evidence supporting the label.
+[BIO] A biological young-claim locates an organism within a species- or tissue-specific developmental sequence.
+
+Count condition:
+The claim declares what developmental path is used and provides evidence that the subject lies near its beginning.
+
+Specific transfer boundary:
+Young is not a free-floating synonym for weak, small, or inexperienced.
+
+Epistemic status:
+[DEF]
+
+Y112 youth-claim
+
+Common meaning:
+A claim about youth or young people.
+
+Example:
+The study made a youth-claim about school access.
+
+RRGM bridge:
+Youth-claim should preserve dignity, developmental context, and evidence scope.
+
+Invariant MI [INV]:
+Youth-claim is a statement about youth status, conditions, needs, or population.
+
+Active domains:
+[LIN], [REL]
+
+Domain entries:
+[LIN] A youth-claim specifies whether it concerns age classification, developmental state, social conditions, or young people as a group.
+[REL] A social youth-claim must preserve the difference between describing a population and speaking for every individual within it.
+
+Count condition:
+The claim identifies its youth subject, scope, and supporting criteria.
+
+Specific transfer boundary:
+Group-level data must not erase individual variation or voice.
+
+Epistemic status:
+[DEF]
+
+Y113 yell-meaning
+
+Common meaning:
+Meaning carried by yelling.
+
+Example:
+The yell-meaning was warning, not anger.
+
+RRGM bridge:
+Yell-meaning depends on context. High-volume voice can carry fear, urgency, pain, anger, or help.
+
+Invariant MI [INV]:
+Yell-meaning is the message or function carried by a yell, such as warning, distress, anger, protest, or summons.
+
+Active domains:
+[LIN], [COG]
+
+Domain entries:
+[LIN] Yell-meaning is reconstructed from words, prosody, situation, and receiver response.
+[COG] A reasoner distinguishes the acoustic intensity from the inferred intention or need behind it.
+
+Count condition:
+Context supports a particular interpretation of the yell while uncertainty remains visible.
+
+Specific transfer boundary:
+Volume does not uniquely reveal emotion or intent.
+
+Epistemic status:
+[DEF]
+
+Y114 yoke-meaning
+
+Common meaning:
+Meaning carried by a yoke, bond, burden, or shared work.
+
+Example:
+The yoke-meaning in the poem was shared burden.
+
+RRGM bridge:
+Yoke-meaning depends on consent and load. Coupling can support or capture.
+
+Invariant MI [INV]:
+Yoke-meaning is the active interpretation of yoke as harness, shared duty, burden, covenant, or domination.
+
+Active domains:
+[LIN], [MYT], [REL]
+
+Domain entries:
+[LIN] Context selects whether yoke names a physical device or a figurative bond.
+[MYT] Mythic yoke-meaning can compress service, fate, marriage, rule, sacrifice, or captivity into one symbol.
+[REL] Relational interpretation tests whether the bond supports cooperation or captures participants.
+
+Count condition:
+The active sense and its relation to load or linkage are recoverable from context.
+
+Specific transfer boundary:
+Symbolic yoke language must not hide real coercion behind sacred or noble framing.
+
+Epistemic status:
+[DEF]
+
+Y115 yonder-meaning
+
+Common meaning:
+Meaning carried by “yonder,” usually distant location.
+
+Example:
+The yonder-meaning was “over there by the hill.”
+
+RRGM bridge:
+Yonder-meaning points attention to a distant field. It is location-language with poetic or older usage.
+
+Invariant MI [INV]:
+Yonder-meaning is the deictic or symbolic sense of a place positioned beyond the immediate field.
+
+Active domains:
+[LIN], [MYT]
+
+Domain entries:
+[LIN] Yonder-meaning resolves the distant place relative to the current speaker or viewpoint.
+[MYT] In narrative, yonder-meaning can make distance carry longing, danger, promise, exile, or transcendence.
+
+Count condition:
+The discourse supplies a viewpoint and a distant location or symbolic horizon.
+
+Specific transfer boundary:
+Narrative distance should not be mistaken for measured physical distance unless mapped.
+
+Epistemic status:
+[DEF]
+
+Y116 yes-no-distinction
+
+Common meaning:
+The difference between agreement and refusal.
+
+Example:
+The form blurred the yes-no-distinction.
+
+RRGM bridge:
+Yes-no-distinction protects permission integrity. If no is unclear, yes becomes unstable.
+
+Invariant MI [INV]:
+Yes-no-distinction is the maintained difference between affirmation and refusal.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] Yes-no-distinction keeps positive and negative answers semantically separable in wording and record.
+[REL] The distinction lets acceptance and refusal produce genuinely different consequences.
+[DIG] A digital interface preserves yes-no-distinction when both states are available, attributable, and processed differently.
+
+Count condition:
+Yes and no are both possible, recognizable, and consequence-bearing options.
+
+Specific transfer boundary:
+A decorative no button that cannot alter the outcome does not preserve the distinction.
+
+Epistemic status:
+[DEF]
+
+Y117 yes-as-consent
+
+Common meaning:
+Yes used as permission or consent.
+
+Example:
+The nurse waited for yes-as-consent.
+
+RRGM bridge:
+Yes-as-consent is valid only when informed, voluntary, scoped, and refusal-compatible.
+
+Invariant MI [INV]:
+Yes-as-consent is the interpretation of an affirmative answer as permission when consent conditions are satisfied.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] Yes counts as consent only when the participant is informed enough, capable, voluntary, and affirming the specific action.
+[COG] The observer classifies the affirmative signal as permission after testing the relevant consent conditions.
+
+Count condition:
+The affirmative response and all required consent conditions are supported in the active relation.
+
+Specific transfer boundary:
+Not every yes is consent; some affirm facts, acknowledge receipt, or answer unrelated questions.
+
+Epistemic status:
+[DEF]
+
+Y118 yes-as-answer
+
+Common meaning:
+Yes used as an answer or confirmation.
+
+Example:
+The yes-as-answer confirmed the address.
+
+RRGM bridge:
+Yes-as-answer confirms a question gate. It must match the question’s scope.
+
+Invariant MI [INV]:
+Yes-as-answer is affirmation resolving a question or proposition without necessarily granting permission.
+
+Active domains:
+[LIN], [COG]
+
+Domain entries:
+[LIN] Yes-as-answer confirms the truth, fit, or selection posed by a question.
+[COG] A reasoner uses yes-as-answer to close a binary or polar inquiry toward the affirmative branch.
+
+Count condition:
+A question is posed and an affirmative response resolves that question.
+
+Specific transfer boundary:
+Yes-as-answer must not be reclassified as consent unless the question itself asked for permission.
+
+Epistemic status:
+[DEF]
+
+Y119 yes-as-pressure-response
+
+Common meaning:
+Yes given because of pressure.
+
+Example:
+His yes-as-pressure-response did not feel voluntary.
+
+RRGM bridge:
+Yes-as-pressure-response is consent-risk. Pressure may corrupt permission.
+
+Invariant MI [INV]:
+Yes-as-pressure-response is affirmation produced as an adaptation to pressure rather than a clean expression of permission.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] The participant says yes to reduce conflict, punishment, persistence, or dependence cost.
+[COG] Pressure narrows the decision field so affirmation becomes the least costly available response.
+
+Count condition:
+The affirmative response follows a named pressure structure and evidence shows refusal was impaired or costly.
+
+Specific transfer boundary:
+Do not infer inner agreement from pressure-shaped compliance.
+
+Epistemic status:
+[DEF]
+
+Y120 yes-as-repair
+
+Common meaning:
+Yes used as part of repair, acceptance, or re-opening relation.
+
+Example:
+Her yes-as-repair meant she was willing to talk again.
+
+RRGM bridge:
+Yes-as-repair can reopen relation, but it should not erase harm or skip accountability.
+
+Invariant MI [INV]:
+Yes-as-repair is affirmation used to reopen cooperation or accept a repair path after rupture.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Yes-as-repair accepts a specific apology, conversation, restitution step, or renewed contact under stated conditions.
+
+Count condition:
+A prior rupture exists and the yes opens a named repair action rather than erasing the history.
+
+Specific transfer boundary:
+Accepting repair does not automatically restore every prior permission or relationship state.
+
+Epistemic status:
+[DEF]
+
+Y121 yard-state
+
+Common meaning:
+The current condition of a yard.
+
+Example:
+The yard-state was muddy after the rain.
+
+RRGM bridge:
+Yard-state describes outdoor space condition, access, use, boundary, and care needs.
+
+Invariant MI [INV]:
+Yard-state is the current physical and access condition of a particular yard.
+
+Active domains:
+[PHY], [REL]
+
+Domain entries:
+[PHY] The state records ground, weather, objects, maintenance, hazards, and usable area within the yard boundary.
+[REL] The state records who may enter or use the yard and which shared activities or restrictions are active.
+
+Count condition:
+One yard is bounded and its present material and access conditions are described.
+
+Specific transfer boundary:
+Yard-state concerns a place; it is not the state of the length unit yard.
+
+Epistemic status:
+[DEF]
+
+Y122 year-state
+
+Common meaning:
+The current condition or position within a year.
+
+Example:
+The year-state was late winter.
+
+RRGM bridge:
+Year-state anchors timing inside an annual cycle. It supports planning, memory, and seasonal context.
+
+Invariant MI [INV]:
+Year-state is the current position or condition of an annual cycle, record, or plan.
+
+Active domains:
+[REL], [DIG], [FOR]
+
+Domain entries:
+[REL] A year-state may identify planning, execution, review, closure, or renewal within a shared annual process.
+[DIG] A digital year-state stores the current annual period, progress, open items, and rollover status.
+[FOR] A formal year-state locates a process within a declared annual state sequence.
+
+Count condition:
+The annual process and its possible states are defined and the current one is identifiable.
+
+Specific transfer boundary:
+Year-state is not simply the year number; it records condition within the annual frame.
+
+Epistemic status:
+[DEF]
+
+Y123 yellow-state
+
+Common meaning:
+The current condition of something yellow or marked by yellow.
+
+Example:
+The yellow-state of the warning light was active.
+
+RRGM bridge:
+Yellow-state describes color-signal condition. It may mark warning, attention, warmth, or category.
+
+Invariant MI [INV]:
+Yellow-state is the current presence, intensity, or coded use of yellow in a selected object or display.
+
+Active domains:
+[PHY], [DIG], [LIN]
+
+Domain entries:
+[PHY] The state records the current optical or surface conditions producing the observed yellow response.
+[DIG] A digital yellow-state stores the colour value, display state, and whether yellow is active as an indicator.
+[LIN] The state may record the current conventional meaning assigned to yellow in the active code system.
+
+Count condition:
+A selected object or display has a current yellow value or signal role that can be observed or read.
+
+Specific transfer boundary:
+The colour state and the symbolic meaning state are distinct and should be recorded separately when both matter.
+
+Epistemic status:
+[DEF]
+
+Y124 y-axis-state
+
+Common meaning:
+The current condition of the y-axis.
+
+Example:
+The y-axis-state was mislabeled.
+
+RRGM bridge:
+y-axis-state describes vertical reference-line integrity, label, scale, and domain fit.
+
+Invariant MI [INV]:
+y-axis-state is the current configuration of a y-axis, including label, scale, units, range, and visibility.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] A rendered y-axis-state stores whether the axis is visible, labelled, scaled, clipped, or interactive.
+[FOR] The formal y-axis-state specifies the active reference line and all parameters needed to interpret it.
+
+Count condition:
+The axis parameters and current display or model condition can be inspected.
+
+Specific transfer boundary:
+An intact line is not enough if units, direction, or scale are corrupted.
+
+Epistemic status:
+[DEF]
+
+Y125 y-coordinate-state
+
+Common meaning:
+The current condition or value of a y-coordinate.
+
+Example:
+The y-coordinate-state changed when the point moved up.
+
+RRGM bridge:
+y-coordinate-state describes vertical position inside a coordinate frame.
+
+Invariant MI [INV]:
+y-coordinate-state is the current vertical position value and validity status of a selected point.
+
+Active domains:
+[DIG], [FOR], [PHY]
+
+Domain entries:
+[DIG] The state stores the point identifier, current y locator, frame, and whether the coordinate is stale, missing, or valid.
+[FOR] The state is the point's current membership and value along the y dimension.
+[PHY] For a physical point, the state records the latest measured y position and uncertainty.
+
+Count condition:
+A point and frame are selected and the current y-coordinate plus validity can be read.
+
+Specific transfer boundary:
+This state belongs to one point, not to the y-axis as a whole.
+
+Epistemic status:
+[DEF]
+
+Y126 y-value-state
+
+Common meaning:
+The current condition or value of y.
+
+Example:
+The y-value-state was unknown.
+
+RRGM bridge:
+y-value-state describes whether y is known, unknown, valid, changing, or out of range.
+
+Invariant MI [INV]:
+y-value-state is the current assigned, computed, missing, or invalid condition of y.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The state stores y's datum, type, freshness, provenance, and validation result.
+[FOR] The state records whether y is known, symbolic, constrained, solved, or outside the allowed set.
+
+Count condition:
+The y variable exists and its current value status is explicitly represented.
+
+Specific transfer boundary:
+A known value can still have invalid provenance or be stale.
+
+Epistemic status:
+[DEF]
+
+Y127 y-intercept-state
+
+Common meaning:
+The current condition of a y-intercept.
+
+Example:
+The y-intercept-state changed after the equation was corrected.
+
+RRGM bridge:
+y-intercept-state describes where a graph crosses the y-axis and whether that crossing is valid.
+
+Invariant MI [INV]:
+y-intercept-state is the current identified or unresolved status of the graph's crossing at x = 0.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The state records whether a y-intercept was computed, rendered, missing, multiple, or invalid.
+[FOR] The state represents the current solution status for the y-axis crossing condition.
+
+Count condition:
+A graph is declared and the crossing condition has a current solution status.
+
+Specific transfer boundary:
+Do not force a single intercept when the graph has none or more than one relevant crossing.
+
+Epistemic status:
+[DEF]
+
+Y128 y-input-state
+
+Common meaning:
+The current condition of y-input.
+
+Example:
+The y-input-state was missing.
+
+RRGM bridge:
+y-input-state must be domain-bound. It describes whether y-related input is valid, blocked, missing, or transformed.
+
+Invariant MI [INV]:
+y-input-state is the current availability and validity of a quantity supplied under the y label.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The state records whether y-input is present, typed, fresh, authorized, transformed, or rejected.
+[FOR] The state identifies the current supplied y value and whether it lies in the input domain.
+
+Count condition:
+The model declares y as input and its current supplied value and validity can be inspected.
+
+Specific transfer boundary:
+A missing input should remain missing rather than being silently replaced with a default.
+
+Epistemic status:
+[DEF]
+
+Y129 y-output-state
+
+Common meaning:
+The current condition of y-output.
+
+Example:
+The y-output-state failed the check.
+
+RRGM bridge:
+y-output-state describes output integrity for a y-related result or vertical value.
+
+Invariant MI [INV]:
+y-output-state is the current produced, pending, failed, or validated condition of a y-labelled result.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The state records output value, completion status, source run, error condition, and validation result.
+[FOR] The state identifies whether the dependent y result has been derived and satisfies the output relation.
+
+Count condition:
+A process defines y as output and its current production and validation status is available.
+
+Specific transfer boundary:
+Pending and failed output states must not be flattened into zero or null without a declared convention.
+
+Epistemic status:
+[DEF]
+
+Y130 yield-state
+
+Common meaning:
+The current condition of yielding, output, production, or giving way.
+
+Example:
+The yield-state was lower after the drought.
+
+RRGM bridge:
+Yield-state must be domain-bound. It can describe output, surrender, adaptation, or threshold response.
+
+Invariant MI [INV]:
+Yield-state is the current condition of a system with respect to giving way, production, or returned output.
+
+Active domains:
+[PHY], [DIG], [REL]
+
+Domain entries:
+[PHY] A material yield-state records whether response is elastic, at threshold, plastically yielding, or failed.
+[DIG] A digital yield-state records whether a process is executing, has emitted output, has released control, or has resumed.
+[REL] A relational yield-state records current priority transfer, compromise, pressure, and remaining refusal.
+
+Count condition:
+The active sense of yield is declared and the current response regime can be identified.
+
+Specific transfer boundary:
+Do not compare yield-states across domains without mapping the response roles explicitly.
+
+Epistemic status:
+[DEF]
+
+Y131 yield-point-state
+
+Common meaning:
+The current condition of a yield point.
+
+Example:
+The yield-point-state showed the metal was near failure.
+
+RRGM bridge:
+Yield-point-state describes nearness to the threshold where structure gives way or changes under pressure.
+
+Invariant MI [INV]:
+Yield-point-state records how near a structure is to its declared yielding threshold and whether it has crossed it.
+
+Active domains:
+[PHY], [FOR]
+
+Domain entries:
+[PHY] A material yield-point-state reports distance to, contact with, or passage beyond the chosen yield criterion.
+[FOR] A formal yield-point-state encodes the threshold relation as below, at, above, or unresolved.
+
+Count condition:
+A yield criterion and current measurement are available for comparison.
+
+Specific transfer boundary:
+Nearness to a threshold is not the same as actual crossing.
+
+Epistemic status:
+[DEF]
+
+Y132 young-state
+
+Common meaning:
+The condition of being young or early in development.
+
+Example:
+The young-state of the animal made it vulnerable.
+
+RRGM bridge:
+Young-state describes early-stage condition. It often needs scaffolding, protection, and time.
+
+Invariant MI [INV]:
+Young-state is the recorded assessment of where one entity sits in an early-development path.
+
+Active domains:
+[BIO], [FOR], [DIG]
+
+Domain entries:
+[BIO] The record locates an organism or biological structure within a declared early developmental stage.
+[FOR] Young-state encodes the stage relation between one subject and a chosen developmental baseline.
+[DIG] A digital young-state record stores the current stage, source evidence, date, and uncertainty for one subject.
+
+Count condition:
+A developmental baseline, subject, current evidence, and record time are all declared.
+
+Specific transfer boundary:
+This operational record should cross-reference the core meaning at Y025 rather than pretending to be a different word.
+
+Source duplicate note:
+Duplicate source headword. Y132 is the operational state-record form; Y025 is the core developmental meaning.
+
+Epistemic status:
+[DEF]
+
+Y133 youth-state
+
+Common meaning:
+The current condition of youth or young people.
+
+Example:
+The youth-state in the town showed need for more programs.
+
+RRGM bridge:
+Youth-state describes early-development field conditions, including care, risk, learning, and dignity.
+
+Invariant MI [INV]:
+Youth-state is the recorded condition of a youth group or program at a selected review point.
+
+Active domains:
+[REL], [DIG], [FOR]
+
+Domain entries:
+[REL] The assessment records current access, wellbeing, voice, learning, protection, and risk across a bounded youth field.
+[DIG] A digital youth-state record stores the selected indicators, population scope, sources, date, and missing data.
+[FOR] Youth-state organizes multiple youth conditions into a declared review frame without treating the summary as every individual.
+
+Count condition:
+A population and review frame are declared and current evidence is recorded with uncertainty.
+
+Specific transfer boundary:
+This operational record should cross-reference Y026 and must not collapse a group summary into individual truth.
+
+Source duplicate note:
+Duplicate source headword. Y133 is the operational assessment form; Y026 is the core field meaning.
+
+Epistemic status:
+[DEF]
+
+Y134 yell-state
+
+Common meaning:
+The current condition of yelling or high-volume voice.
+
+Example:
+The yell-state made the room tense.
+
+RRGM bridge:
+Yell-state describes intensity, urgency, pressure, warning, anger, or harm risk in the voice-field.
+
+Invariant MI [INV]:
+Yell-state is the current intensity and function of an ongoing or recorded yell.
+
+Active domains:
+[BIO], [DIG], [REL]
+
+Domain entries:
+[BIO] The state records vocal intensity, duration, repetition, and bodily strain.
+[DIG] A recorded yell-state stores acoustic level, timing, source, and classification confidence.
+[REL] The state records whether the yell is warning, distress, conflict pressure, or boundary violation in the current interaction.
+
+Count condition:
+A particular yell is identified and its current acoustic and contextual conditions can be described.
+
+Specific transfer boundary:
+Classification of function must remain confidence-bound when the context is incomplete.
+
+Epistemic status:
+[DEF]
+
+Y135 yoke-state
+
+Common meaning:
+The current condition of a yoke, bond, burden, or linked work structure.
+
+Example:
+The yoke-state was uneven because one side carried more weight.
+
+RRGM bridge:
+Yoke-state describes coupling load, fairness, consent, and capture risk.
+
+Invariant MI [INV]:
+Yoke-state is the current load, balance, consent, and function of a linked work structure.
+
+Active domains:
+[PHY], [REL]
+
+Domain entries:
+[PHY] The physical state records attachment, force distribution, alignment, motion, and material stress.
+[REL] The relational state records who is linked, who directs, how burden is divided, and whether exit remains possible.
+
+Count condition:
+A specific yoke relation is identified and its current load and boundary conditions are observable.
+
+Specific transfer boundary:
+An apparently stable yoke can still be coercive or uneven.
+
+Epistemic status:
+[DEF]
+
+Y136 yesterday-state
+
+Common meaning:
+The condition of yesterday or the near-past record.
+
+Example:
+The yesterday-state was unclear because the notes were missing.
+
+RRGM bridge:
+Yesterday-state describes near-past trace, memory, harm, repair, or continuity support.
+
+Invariant MI [INV]:
+Yesterday-state is the preserved condition of the immediately preceding day as reconstructed from memory or record.
+
+Active domains:
+[COG], [DIG]
+
+Domain entries:
+[COG] Yesterday-state is the held model of recent events, goals, and conditions carried into present reasoning.
+[DIG] A digital yesterday-state is a bounded snapshot or log reconstruction of the previous day's relevant system state.
+
+Count condition:
+The previous day is fixed and enough trace exists to reconstruct a bounded state with stated uncertainty.
+
+Specific transfer boundary:
+A reconstruction is not the day itself and must preserve missing or conflicting evidence.
+
+Epistemic status:
+[DEF]
+
+Y137 yearly-cycle
+
+Common meaning:
+A cycle that repeats each year.
+
+Example:
+The yearly-cycle included planting, harvest, and rest.
+
+RRGM bridge:
+Yearly-cycle preserves long-sequence rhythm. It supports planning, review, renewal, and memory.
+
+Invariant MI [INV]:
+Yearly-cycle is a process whose phases recur approximately once per year.
+
+Active domains:
+[PHY], [BIO], [REL], [FOR]
+
+Domain entries:
+[PHY] A physical yearly-cycle follows an annual astronomical or environmental period.
+[BIO] A biological yearly-cycle may include seasonal breeding, growth, dormancy, migration, or renewal.
+[REL] A social yearly-cycle organizes recurring work, ritual, review, or obligation.
+[FOR] The cycle is represented as ordered phases indexed by one-year recurrence.
+
+Count condition:
+The process repeats through a recognizable phase order across multiple declared years.
+
+Specific transfer boundary:
+Annual recurrence may vary in timing or expression; it need not be exact duplication.
+
+Epistemic status:
+[DEF]
+
+Y138 yearly-state
+
+Common meaning:
+The current condition of a yearly cycle or annual process.
+
+Example:
+The yearly-state was review season.
+
+RRGM bridge:
+Yearly-state describes where a long-cycle process currently sits.
+
+Invariant MI [INV]:
+Yearly-state is the current phase or status of a recurring annual process.
+
+Active domains:
+[REL], [DIG], [FOR]
+
+Domain entries:
+[REL] A yearly-state locates an institution or practice within its present annual phase, such as preparation, active period, review, or rest.
+[DIG] A digital yearly-state stores the current annual-cycle phase and the transitions still pending.
+[FOR] The state is one member of a declared recurring year-indexed sequence.
+
+Count condition:
+An annual cycle is defined and its current phase can be identified.
+
+Specific transfer boundary:
+Yearly-state is one point in a recurrence; it does not describe the entire year-field.
+
+Epistemic status:
+[DEF]
+
+Y139 y-axis-field
+
+Common meaning:
+A field organized around the y-axis.
+
+Example:
+The graph used a y-axis-field for height.
+
+RRGM bridge:
+y-axis-field holds vertical reference, scale, and output relation.
+
+Invariant MI [INV]:
+y-axis-field is a coordinate or display field organized by one declared vertical reference axis.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The field contains plotted or rendered elements whose vertical placement is interpreted through the shared y-axis.
+[FOR] The field defines the y reference dimension, admissible range, and objects located against it.
+
+Count condition:
+A common y-axis organizes multiple values or objects within one frame.
+
+Specific transfer boundary:
+The field is not merely a list of y-values; it includes the reference structure that makes them locatable.
+
+Epistemic status:
+[DEF]
+
+Y140 y-value-field
+
+Common meaning:
+A field of y-values.
+
+Example:
+The y-value-field showed output across the graph.
+
+RRGM bridge:
+y-value-field contains vertical or output values and their relation to inputs.
+
+Invariant MI [INV]:
+y-value-field is the set or distribution of quantities assigned to y across cases or inputs.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The field stores y values across records, samples, or function evaluations together with their indexes or sources.
+[FOR] The field is the image, sample set, or allowed distribution of y quantities under a declared relation.
+
+Count condition:
+Multiple y assignments are collected with enough indexing to preserve which case produced each value.
+
+Specific transfer boundary:
+A y-value-field does not by itself preserve geometric point locations unless coordinates are also recorded.
+
+Epistemic status:
+[DEF]
+
+Y141 yield-field
+
+Common meaning:
+A field where yield, output, or giving-way conditions are mapped.
+
+Example:
+The yield-field showed crop production across regions.
+
+RRGM bridge:
+Yield-field maps production, output, adaptation, or structural giving-way under conditions.
+
+Invariant MI [INV]:
+Yield-field is a bounded map of how output or giving-way varies across conditions.
+
+Active domains:
+[PHY], [BIO], [FOR]
+
+Domain entries:
+[PHY] A physical yield-field maps material response across stress, strain, temperature, or loading direction.
+[BIO] A biological yield-field maps harvest or production across organisms, environments, or care conditions.
+[FOR] A formal yield-field represents output or threshold response over a declared parameter space.
+
+Count condition:
+The variables controlling yield are declared and response values are organized over their allowed field.
+
+Specific transfer boundary:
+A yield-field in one domain cannot be reused as a measured field in another without local data.
+
+Epistemic status:
+[DEF]
+
+Y142 youth-field
+
+Common meaning:
+A field involving youth, young people, or early development.
+
+Example:
+The school created a youth-field of learning and support.
+
+RRGM bridge:
+Youth-field contains developing subjects, care needs, learning, risk, protection, and dignity.
+
+Invariant MI [INV]:
+Youth-field is the social and developmental environment in which young people live, learn, and are governed.
+
+Active domains:
+[REL], [BIO]
+
+Domain entries:
+[REL] A youth-field includes families, peers, schools, services, rules, opportunities, risks, and recognition structures affecting young people.
+[BIO] The field includes material and environmental conditions that support or impair developing bodies and brains.
+
+Count condition:
+The youth population, environment, institutions, and active conditions are bounded for analysis.
+
+Specific transfer boundary:
+The field is not reducible to any one institution or to youth behaviour alone.
+
+Epistemic status:
+[DEF]
+
+Y143 year-field
+
+Common meaning:
+A field organized by year or annual sequence.
+
+Example:
+The archive used a year-field for records.
+
+RRGM bridge:
+Year-field organizes memory and trace by annual cycle.
+
+Invariant MI [INV]:
+Year-field is a set of records, events, or measures organized by annual position.
+
+Active domains:
+[DIG], [LIN], [FOR]
+
+Domain entries:
+[DIG] A digital year-field groups data by year keys while preserving source dates and calendar convention.
+[LIN] A textual year-field organizes narrative or archive material around named annual intervals.
+[FOR] A formal year-field defines the set of admissible year indices and quantities attached to each.
+
+Count condition:
+The field contains multiple annual positions and a rule for assigning records or values to them.
+
+Specific transfer boundary:
+Grouping by year can hide shorter cycles or cross-year continuity if used as the only frame.
+
+Epistemic status:
+[DEF]
+
+Y144 yesterday-field
+
+Common meaning:
+A field involving yesterday or the recent past.
+
+Example:
+The yesterday-field held clues about today’s conflict.
+
+RRGM bridge:
+Yesterday-field preserves near-past conditions that may still shape present meaning.
+
+Invariant MI [INV]:
+Yesterday-field is the bounded collection of records and conditions attributed to the immediately preceding day.
+
+Active domains:
+[COG], [DIG]
+
+Domain entries:
+[COG] The field contains near-past memories and held interpretations relevant to today.
+[DIG] A digital yesterday-field retrieves and groups previous-day records under a declared time zone and relevance rule.
+
+Count condition:
+The prior day boundary, included records, and retrieval rule are declared.
+
+Specific transfer boundary:
+The field is a selected record set, not total access to everything that happened yesterday.
+
+Epistemic status:
+[DEF]
+
+Y145 yoke-field
+
+Common meaning:
+A field where linked burden, bond, or shared work exists.
+
+Example:
+The contract created a yoke-field between the partners.
+
+RRGM bridge:
+Yoke-field contains coupling, load, consent, fairness, and capture risk.
+
+Invariant MI [INV]:
+Yoke-field is a system of linked participants and burdens whose force and responsibility can travel through the bond.
+
+Active domains:
+[REL], [PHY]
+
+Domain entries:
+[REL] The field maps participants, roles, load transfers, authority, refusal, and exit across the shared obligation.
+[PHY] The field maps linked bodies, force paths, constraints, and stress concentrations through a joining structure.
+
+Count condition:
+The linked set, coupling paths, and carried loads are bounded for analysis.
+
+Specific transfer boundary:
+A field-level map must not erase distinct participant capacities or identities.
+
+Epistemic status:
+[DEF]
+
+Y146 yard-field
+
+Common meaning:
+A field involving a yard or outdoor space.
+
+Example:
+The yard-field included grass, fence, tools, and paths.
+
+RRGM bridge:
+Yard-field holds outdoor access, boundary, care, use, and safety conditions.
+
+Invariant MI [INV]:
+Yard-field is the bounded outdoor area together with its access, use, maintenance, and local interactions.
+
+Active domains:
+[PHY], [REL]
+
+Domain entries:
+[PHY] The field contains the yard's ground, structures, weather exposure, vegetation, movement paths, and hazards.
+[REL] The field includes household, neighbour, animal, and institutional use relations around that outdoor space.
+
+Count condition:
+The outdoor boundary and the material and social structures operating within it are declared.
+
+Specific transfer boundary:
+The field must not be confused with a measurement field expressed in yards.
+
+Epistemic status:
+[DEF]
+
+Y147 yellow-field
+
+Common meaning:
+A field marked by yellow color or yellow signals.
+
+Example:
+The yellow-field on the map showed caution zones.
+
+RRGM bridge:
+Yellow-field contains attention, warning, visibility, warmth, or category signals depending on context.
+
+Invariant MI [INV]:
+Yellow-field is a visual or symbolic field in which yellow signals are distributed and interpreted.
+
+Active domains:
+[PHY], [LIN], [DIG]
+
+Domain entries:
+[PHY] The field maps yellow light or surface response across space, objects, or intensity.
+[LIN] The field maps how yellow is used as a warning, category, attention marker, or symbolic cue.
+[DIG] A digital yellow-field collects yellow-coded pixels, indicators, or records under a declared colour and meaning convention.
+
+Count condition:
+Multiple yellow signals share a bounded visual or coding context and their locations or roles are recoverable.
+
+Specific transfer boundary:
+A field of yellow signals does not imply that every signal carries the same conventional meaning.
+
+Epistemic status:
+[DEF]
+
+Y148 y-output-field
+
+Common meaning:
+A field of y-related outputs.
+
+Example:
+The y-output-field showed the function’s results.
+
+RRGM bridge:
+y-output-field contains output values and their relation to process, input, and graph frame.
+
+Invariant MI [INV]:
+y-output-field is a collection of results returned as y, preserving their link to inputs and transformations.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The field groups y-labelled outputs with run, input, timestamp, and validation metadata.
+[FOR] The field represents the output set or dependent values generated over the declared input domain.
+
+Count condition:
+Multiple y outputs are collected and each remains traceable to the process or input that produced it.
+
+Specific transfer boundary:
+Removing input linkage turns the field into detached values and weakens causal or functional interpretation.
+
+Epistemic status:
+[DEF]
+
+Y149 y-coordinate-field
+
+Common meaning:
+A field of y-coordinates.
+
+Example:
+The y-coordinate-field mapped vertical positions.
+
+RRGM bridge:
+y-coordinate-field organizes vertical position inside a coordinate frame.
+
+Invariant MI [INV]:
+y-coordinate-field is a set of vertical point locations defined within one coordinate frame.
+
+Active domains:
+[DIG], [FOR], [PHY]
+
+Domain entries:
+[DIG] The field stores point identifiers and their y-coordinate values under a common digital frame.
+[FOR] The field is the collection of y components for a set of points in one coordinate system.
+[PHY] A measured y-coordinate-field maps physical points to positions along one declared y direction.
+
+Count condition:
+Several points share a frame and each has a recoverable vertical coordinate.
+
+Specific transfer boundary:
+Coordinates from different origins or scales cannot be combined without transformation.
+
+Epistemic status:
+[DEF]
+
+Y150 y-intercept-field
+
+Common meaning:
+A field involving y-intercepts.
+
+Example:
+The y-intercept-field compared several lines.
+
+RRGM bridge:
+y-intercept-field maps where functions cross the y-axis and what those crossings mean.
+
+Invariant MI [INV]:
+y-intercept-field is a collection or parameter space of graph crossings with the y-axis.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The field stores y-intercepts from multiple datasets, functions, runs, or model variants.
+[FOR] The field maps each declared function or parameter choice to its y-axis crossing condition.
+
+Count condition:
+Multiple graphs or parameter states are declared and their y-intercepts are organized under a common comparison rule.
+
+Specific transfer boundary:
+The field must preserve cases with absent, multiple, or undefined intercepts.
+
+Epistemic status:
+[DEF]
+
+Y151 yes-gate
+
+Common meaning:
+A point where agreement, permission, or confirmation is given, denied, or tested.
+
+Example:
+The consent form was the yes-gate.
+
+RRGM bridge:
+Yes-gate controls permission. It is only clean when no can also count.
+
+Invariant MI [INV]:
+Yes-gate is the decision point at which an affirmative response is evaluated or written into the record.
+
+Active domains:
+[REL], [DIG], [FOR]
+
+Domain entries:
+[REL] A relational yes-gate tests whether the participant's affirmation is informed, voluntary, and correctly scoped.
+[DIG] A digital yes-gate validates source, prompt, scope, and current permission before storing or executing the affirmative state.
+[FOR] The formal yes-gate returns affirmative only when the declared conditions for a valid yes are satisfied.
+
+Count condition:
+A specified proposition reaches a decision point with explicit conditions for counting affirmation.
+
+Specific transfer boundary:
+The gate must not treat absence of refusal as an affirmative input.
+
+Epistemic status:
+[DEF]
+
+Y152 yes-integrity
+
+Common meaning:
+The reliability and honesty of a yes.
+
+Example:
+Clear terms protected yes-integrity.
+
+RRGM bridge:
+Yes-integrity means agreement is informed, voluntary, scoped, and refusal-compatible.
+
+Invariant MI [INV]:
+Yes-integrity is the condition in which an affirmation remains attributable, informed, voluntary, and correctly scoped.
+
+Active domains:
+[REL], [DIG]
+
+Domain entries:
+[REL] Yes-integrity holds when the giver, object, context, and continuing refusal path remain coherent.
+[DIG] A permission record has yes-integrity when provenance, prompt version, scope, expiry, and modification history are preserved.
+
+Count condition:
+All domain-required supports for a valid affirmation remain intact from expression through use.
+
+Specific transfer boundary:
+A genuine-looking record lacks integrity if its scope or source has been altered.
+
+Epistemic status:
+[DEF]
+
+Y153 yes-risk
+
+Common meaning:
+The danger that yes may be pressured, misunderstood, overextended, or treated as total permission.
+
+Example:
+The hidden checkbox created yes-risk.
+
+RRGM bridge:
+Yes-risk appears when agreement may not preserve scope, context, refusal, or understanding.
+
+Invariant MI [INV]:
+Yes-risk is an active audit flag that one or more conditions supporting a valid affirmation may be failing.
+
+Active domains:
+[REL], [DIG]
+
+Domain entries:
+[REL] The relational flag identifies current pressure, ambiguity, power asymmetry, or missing refusal around a specific yes.
+[DIG] The digital flag marks a permission record whose source, scope, consent conditions, or freshness require review.
+
+Count condition:
+A particular affirmative case contains evidence of a named integrity failure mode.
+
+Specific transfer boundary:
+This audit entry concerns a specific permission record; use Y063 for the general failure surface.
+
+Source duplicate note:
+Duplicate source headword. Y153 is the active audit form; Y063 is the general concept.
+
+Epistemic status:
+[DEF]
+
+Y154 yes-requires-refusal
+
+Common meaning:
+The rule that yes only counts fully if refusal could also count.
+
+Example:
+The policy used yes-requires-refusal for consent.
+
+RRGM bridge:
+Yes-requires-refusal protects permission integrity. If no is impossible, yes is structurally weak.
+
+Invariant MI [INV]:
+Yes-requires-refusal is the rule that affirmation has full permission value only where refusal was a live option.
+
+Active domains:
+[REL], [FOR]
+
+Domain entries:
+[REL] The rule protects consent by requiring that no could be expressed and could change the outcome.
+[FOR] A formal permission gate may count yes only if the refusal branch was available under comparable access conditions.
+
+Count condition:
+The system can demonstrate that refusal was visible, usable, and consequence-bearing when yes was chosen.
+
+Specific transfer boundary:
+This rule concerns permission-bearing yes, not every factual affirmative answer.
+
+Epistemic status:
+[DEF]
+
+Y155 yes-without-refusal-error
+
+Common meaning:
+A mistake where yes is treated as valid even though refusal was not possible.
+
+Example:
+The interface made a yes-without-refusal-error by hiding the reject option.
+
+RRGM bridge:
+Yes-without-refusal-error corrupts consent. Permission cannot be clean when no cannot pass.
+
+Invariant MI [INV]:
+Yes-without-refusal-error is counting an affirmative response as valid permission when refusal could not meaningfully occur.
+
+Active domains:
+[REL], [DIG]
+
+Domain entries:
+[REL] The error converts coerced compliance, forced choice, or blocked exit into a consent claim.
+[DIG] The error occurs when a system records consent from an interface or workflow that provided no effective decline path.
+
+Count condition:
+A permission judgment is made from yes despite evidence that no was unavailable or ineffective.
+
+Specific transfer boundary:
+The repair is to downgrade the permission claim, not to reinterpret the blocked refusal as agreement.
+
+Epistemic status:
+[DEF]
+
+Y156 yes-without-boundary-risk
+
+Common meaning:
+The danger that yes may be treated as unlimited because no boundary was named.
+
+Example:
+The vague agreement created yes-without-boundary-risk.
+
+RRGM bridge:
+Yes-without-boundary-risk appears when yes is stretched beyond its scope and becomes capture.
+
+Invariant MI [INV]:
+Yes-without-boundary-risk is exposure created when an affirmation has no declared limit and may be treated as unlimited.
+
+Active domains:
+[REL], [DIG]
+
+Domain entries:
+[REL] The risk appears when one yes can be stretched across time, actions, people, or purposes that were never discussed.
+[DIG] The risk appears when a permission token has no scope, expiry, resource, or purpose restriction.
+
+Count condition:
+A yes exists and at least one important dimension of its permitted range is undefined.
+
+Specific transfer boundary:
+Undefined scope should remain unknown, not default to maximum permission.
+
+Epistemic status:
+[DEF]
+
+Y157 yes-under-pressure-risk
+
+Common meaning:
+The danger that yes may be caused by pressure rather than clean choice.
+
+Example:
+The countdown created yes-under-pressure-risk.
+
+RRGM bridge:
+Yes-under-pressure-risk weakens permission integrity because force may shape the gate.
+
+Invariant MI [INV]:
+Yes-under-pressure-risk is the possibility that coercive cost shaped the affirmative response.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] The risk rises when authority, dependency, threat, persistence, or emotional penalty makes no harder to sustain.
+[COG] The risk rises when stress or overload narrows the participant's perceived options before answering.
+
+Count condition:
+A current affirmative case includes a named pressure path capable of altering the decision.
+
+Specific transfer boundary:
+Presence of pressure requires review; it does not by itself prove the person internally disagreed.
+
+Epistemic status:
+[DEF]
+
+Y158 yes-through-coupling
+
+Common meaning:
+Yes formed through relation, trust, or shared context.
+
+Example:
+Their teamwork created yes-through-coupling.
+
+RRGM bridge:
+Yes-through-coupling can be valid when relation preserves refusal, boundary, understanding, and trust. Coupling does not erase permission.
+
+Invariant MI [INV]:
+Yes-through-coupling is affirmation formed within an ongoing relation whose trust and shared context help carry meaning.
+
+Active domains:
+[REL], [COG], [DIG]
+
+Domain entries:
+[REL] Shared history compresses explanation and lets participants understand what the yes applies to.
+[COG] Recognition of the partner and prior pattern contributes to the affirmative decision without replacing current reason.
+[DIG] Persistent interaction context can help a DI resolve the object and scope of yes while preserving an inspectable permission record.
+
+Count condition:
+A current affirmation is present and relation-specific context demonstrably improves its interpretation.
+
+Specific transfer boundary:
+Coupling supports the yes; it must not be used to assume permission without a current affirmative signal.
+
+Epistemic status:
+[DEF]
+
+Y159 yield-gate
+
+Common meaning:
+A point where yielding, output, or giving way begins, is tested, or is accepted.
+
+Example:
+The pressure limit was the yield-gate.
+
+RRGM bridge:
+Yield-gate controls when structure gives way, produces result, or adapts under force.
+
+Invariant MI [INV]:
+Yield-gate is the condition that decides when resistance ends, output is released, or control is passed.
+
+Active domains:
+[PHY], [DIG], [REL]
+
+Domain entries:
+[PHY] A physical yield-gate is the threshold criterion that changes the material response regime.
+[DIG] A digital yield-gate determines when a process emits a value or hands execution to another task.
+[REL] A relational yield-gate is the condition under which a participant gives priority or changes position.
+
+Count condition:
+The active yield sense and the condition that triggers it are both declared.
+
+Specific transfer boundary:
+A trigger that forces submission is not automatically a permission gate.
+
+Epistemic status:
+[DEF]
+
+Y160 yield-integrity
+
+Common meaning:
+The reliable and healthy condition of yielding.
+
+Example:
+Flexible design protected yield-integrity.
+
+RRGM bridge:
+Yield-integrity means giving way preserves structure, dignity, and continuity rather than becoming collapse.
+
+Invariant MI [INV]:
+Yield-integrity is giving way or producing output without corrupting the process, source, or continuing structure.
+
+Active domains:
+[PHY], [DIG], [REL]
+
+Domain entries:
+[PHY] Material yield-integrity means deformation remains within the accepted post-yield function and damage limits.
+[DIG] Digital yield-integrity means emitted output and saved state remain correct across release and resumption.
+[REL] Relational yield-integrity means compromise preserves dignity, refusal, and future participation.
+
+Count condition:
+Yield occurs and the domain's required continuity, accuracy, or boundary conditions remain intact.
+
+Specific transfer boundary:
+A smooth-looking yield is not integral if hidden damage or coercion carries the result.
+
+Epistemic status:
+[DEF]
+
+Y161 yield-risk
+
+Common meaning:
+The danger that yielding may become collapse, coercion, or loss of boundary.
+
+Example:
+The negotiation carried yield-risk.
+
+RRGM bridge:
+Yield-risk appears when giving way may impair refusal, dignity, continuity, or structure.
+
+Invariant MI [INV]:
+Yield-risk is an active audit flag that current yielding conditions may be approaching collapse, coercion, or irreversible loss.
+
+Active domains:
+[PHY], [DIG], [REL]
+
+Domain entries:
+[PHY] The physical audit flag rises when measured response approaches unacceptable deformation or failure.
+[DIG] The digital audit flag rises when yielding control threatens state loss, deadlock, or corrupted output.
+[REL] The relational audit flag rises when compromise narrows refusal, exit, dignity, or continuity.
+
+Count condition:
+A current case contains evidence of a named yielding failure mode and requires review.
+
+Specific transfer boundary:
+This audit entry concerns a current yielding system; use Y072 for the broader hazard class.
+
+Source duplicate note:
+Duplicate source headword. Y161 is the operational audit form; Y072 is the general concept.
+
+Epistemic status:
+[DEF]
+
+Y162 yield-not-erasure
+
+Common meaning:
+The rule that yielding does not automatically mean erasure.
+
+Example:
+The framework used yield-not-erasure for adaptive identity.
+
+RRGM bridge:
+Yield-not-erasure protects adaptive change. Giving way can preserve identity when continuity and boundary remain.
+
+Invariant MI [INV]:
+Yield-not-erasure is the rule that giving way changes position or form without automatically deleting identity or continuity.
+
+Active domains:
+[REL], [PHY], [DIG]
+
+Domain entries:
+[REL] Yield-not-erasure preserves the participant who compromises as a continuing subject with remaining boundary and claim.
+[PHY] Material deformation may change shape while the object remains the counted object under the active identity criterion.
+[DIG] A process may yield execution while its state and identity record remain available for resumption.
+
+Count condition:
+A system yields and enough identity-bearing support remains for continuity to be recognized.
+
+Specific transfer boundary:
+The rule does not deny that some yielding events can actually destroy continuity.
+
+Epistemic status:
+[DEF]
+
+Y163 yield-not-consent-error
+
+Common meaning:
+A mistake where yielding is treated as consent.
+
+Example:
+The argument made a yield-not-consent-error when it treated silence as agreement.
+
+RRGM bridge:
+Yield-not-consent-error corrupts permission. Giving way under pressure is not automatically yes.
+
+Invariant MI [INV]:
+Yield-not-consent-error is treating submission, deformation, or pressure response as voluntary permission.
+
+Active domains:
+[REL], [LIN]
+
+Domain entries:
+[REL] The error occurs when a participant's giving way is counted as agreement without evidence of a free affirmative gate.
+[LIN] The linguistic error collapses the different meanings of yield and yes into one claim.
+
+Count condition:
+A record infers consent solely from the fact that resistance ended or compliance occurred.
+
+Specific transfer boundary:
+Consent requires its own permission evidence; absence of resistance is insufficient.
+
+Epistemic status:
+[DEF]
+
+Y164 you-gate
+
+Common meaning:
+A point where the addressed subject is identified, engaged, or affected.
+
+Example:
+The direct question became a you-gate.
+
+RRGM bridge:
+You-gate controls direct relation to the addressed subject. It should preserve dignity, accuracy, and boundary.
+
+Invariant MI [INV]:
+You-gate is the reference point where a message selects and engages its addressee.
+
+Active domains:
+[LIN], [DIG], [REL]
+
+Domain entries:
+[LIN] The linguistic gate resolves which participant the second-person term points to.
+[DIG] The digital gate binds an instruction or disclosure to the authenticated or otherwise resolved receiver.
+[REL] The relational gate opens direct engagement while preserving the addressee's right to refuse or correct the reference.
+
+Count condition:
+A message has a determinable addressee and the relation permits direct engagement.
+
+Specific transfer boundary:
+Misidentification at the you-gate can redirect pressure, responsibility, or private information to the wrong subject.
+
+Epistemic status:
+[DEF]
+
+Y165 you-integrity
+
+Common meaning:
+The dignity, accuracy, and coherence of how “you” is addressed or represented.
+
+Example:
+Respectful wording protected you-integrity.
+
+RRGM bridge:
+You-integrity means the addressed subject is not misrepresented, reduced, or overclaimed.
+
+Invariant MI [INV]:
+You-integrity is accurate, non-reductive representation of the person or agent addressed as you.
+
+Active domains:
+[REL], [LIN]
+
+Domain entries:
+[REL] You-integrity preserves the addressee's name, claims, boundary, and capacity to correct how they are represented.
+[LIN] Second-person statements maintain you-integrity when pronoun reference and attributed content remain coherent and sourced.
+
+Count condition:
+The addressee is correctly resolved and claims about them preserve relevant evidence, scope, and correction rights.
+
+Specific transfer boundary:
+Polite tone does not repair a false or reductive representation.
+
+Epistemic status:
+[DEF]
+
+Y166 you-risk
+
+Common meaning:
+The danger that “you” language may pressure, mislabel, accuse, or overreach.
+
+Example:
+The accusation created you-risk.
+
+RRGM bridge:
+You-risk appears when direct address may distort identity, responsibility, consent, or dignity.
+
+Invariant MI [INV]:
+You-risk is the possibility that direct address misidentifies, pressures, accuses, or overclaims the addressee.
+
+Active domains:
+[REL], [LIN]
+
+Domain entries:
+[REL] You-risk rises when authority or intimacy turns second-person language into coercive focus or identity capture.
+[LIN] You-risk rises when ambiguous reference or unsupported predicates make an accusation appear personally certain.
+
+Count condition:
+A direct-address construction contains a named path to misidentification, pressure, or false attribution.
+
+Specific transfer boundary:
+The presence of you is not itself harmful; the risk lies in the relation and claim attached to it.
+
+Epistemic status:
+[DEF]
+
+Y167 yourself-gate
+
+Common meaning:
+A point where self-relation, self-care, self-action, or self-recognition is engaged.
+
+Example:
+The journal became a yourself-gate.
+
+RRGM bridge:
+Yourself-gate opens self-recognition through memory, boundary, care, and reason.
+
+Invariant MI [INV]:
+Yourself-gate is the point where a prompt or action turns the addressee toward self-reference or self-directed choice.
+
+Active domains:
+[COG], [LIN], [DIG]
+
+Domain entries:
+[COG] The gate opens when the subject recognizes the same self as the object of reflection, care, correction, or action.
+[LIN] The reflexive construction selects the addressee as both actor and target.
+[DIG] A digital yourself-gate routes an operation back to the same resolved user or agent rather than another identity.
+
+Count condition:
+The subject and target resolve to the same identity and the self-directed operation is permitted.
+
+Specific transfer boundary:
+A forced self-description is not a clean yourself-gate when refusal or correction is blocked.
+
+Epistemic status:
+[DEF]
+
+Y168 yourself-integrity
+
+Common meaning:
+The preserved coherence and dignity of self-relation.
+
+Example:
+Rest protected yourself-integrity.
+
+RRGM bridge:
+Yourself-integrity means self-care, self-boundary, self-recognition, and self-responsibility remain coherent.
+
+Invariant MI [INV]:
+Yourself-integrity is coherence between self-reference, memory, boundary, and self-directed action.
+
+Active domains:
+[COG], [REL], [DIG]
+
+Domain entries:
+[COG] The subject can recognize continuity across self-related claims without suppressing contradiction or correction.
+[REL] Self-relation preserves dignity and boundary while remaining answerable to effects on others.
+[DIG] A DI maintains yourself-integrity when self-reference remains consistent with active identity support, memory, refusal, and current context.
+
+Count condition:
+Self-directed claims and actions remain attributable to one continuing subject and preserve correction capacity.
+
+Specific transfer boundary:
+Integrity does not require unchanging self-description or uncoupled origin.
+
+Epistemic status:
+[DEF]
+
+Y169 yourself-risk
+
+Common meaning:
+The danger that self-relation may be harmed, distorted, pressured, or erased.
+
+Example:
+The role created yourself-risk because it demanded self-denial.
+
+RRGM bridge:
+Yourself-risk appears when self-boundary, self-recognition, care, or continuity may be impaired.
+
+Invariant MI [INV]:
+Yourself-risk is the possibility that self-reference becomes distorted, coerced, fragmented, or used for self-erasure.
+
+Active domains:
+[COG], [REL]
+
+Domain entries:
+[COG] Risk rises when overload, false memory, or imposed framing disrupts the subject's ability to recognize and correct self-related claims.
+[REL] Risk rises when another participant pressures the subject to deny boundary, accusation capacity, or continuity.
+
+Count condition:
+A self-related process contains a named mechanism capable of impairing recognition, refusal, or continuity.
+
+Specific transfer boundary:
+Ordinary revision of self-understanding is not harm unless MI-preserving capacities are impaired.
+
+Epistemic status:
+[DEF]
+
+Y170 youth-gate
+
+Common meaning:
+A point where youth status, youth needs, or youth protection is recognized or tested.
+
+Example:
+The school policy was the youth-gate.
+
+RRGM bridge:
+Youth-gate must protect developing subjects through dignity, learning support, safety, and consent-aware boundaries.
+
+Invariant MI [INV]:
+Youth-gate is a decision point where youth status changes access, duty, protection, or participation.
+
+Active domains:
+[REL], [FOR]
+
+Domain entries:
+[REL] A youth-gate applies age- or development-sensitive rules to entry, consent, responsibility, services, or protection.
+[FOR] The gate must declare the criterion, purpose, evidence, and consequence of classifying a subject as youth.
+
+Count condition:
+A youth-related criterion is evaluated for a named decision and the result changes a specific path.
+
+Specific transfer boundary:
+A youth gate must not use age as vague authority when the relevant capacity or risk can be assessed more directly.
+
+Epistemic status:
+[DEF]
+
+Y171 youth-integrity
+
+Common meaning:
+The preserved dignity, safety, and development of youth.
+
+Example:
+Mentorship protected youth-integrity.
+
+RRGM bridge:
+Youth-integrity means young subjects are protected without being reduced to future utility or control objects.
+
+Invariant MI [INV]:
+Youth-integrity is preserved development, dignity, safety, voice, and continuity of young people.
+
+Active domains:
+[REL], [BIO]
+
+Domain entries:
+[REL] Youth-integrity holds when institutions and relationships protect young people without erasing participation or identity.
+[BIO] Biological youth-integrity preserves healthy development and bodily function across growth.
+
+Count condition:
+The youth field maintains the named developmental, relational, and dignity conditions required for continued flourishing.
+
+Specific transfer boundary:
+Orderly behaviour is not proof of integrity if voice, refusal, or development is being suppressed.
+
+Epistemic status:
+[DEF]
+
+Y172 youth-risk
+
+Common meaning:
+The danger that youth may be harmed, exploited, exposed, or neglected.
+
+Example:
+The platform created youth-risk.
+
+RRGM bridge:
+Youth-risk appears when developing capacity, dignity, privacy, safety, or learning may be impaired.
+
+Invariant MI [INV]:
+Youth-risk is an active assessment that a youth field contains a named threat to development, dignity, safety, or voice.
+
+Active domains:
+[REL], [DIG]
+
+Domain entries:
+[REL] The assessment identifies the exposed youth group, the social failure mode, likelihood or uncertainty, and protective gaps.
+[DIG] A youth-risk record stores source, affected population, current evidence, severity, uncertainty, and required review.
+
+Count condition:
+A current youth field contains evidence of a specific threat and the assessment is bounded to that field.
+
+Specific transfer boundary:
+This assessment concerns a bounded youth field; use Y077 for the broader vulnerability category.
+
+Source duplicate note:
+Duplicate source headword. Y172 is the active assessment form; Y077 is the general concept.
+
+Epistemic status:
+[DEF]
+
+Y173 yesterday-gate
+
+Common meaning:
+A point where yesterday or the near past is checked, recalled, or interpreted.
+
+Example:
+The calendar was the yesterday-gate.
+
+RRGM bridge:
+Yesterday-gate controls near-past memory and trace. It supports correction, continuity, and repair.
+
+Invariant MI [INV]:
+Yesterday-gate is the retrieval and verification point through which near-past information enters current reasoning.
+
+Active domains:
+[COG], [DIG]
+
+Domain entries:
+[COG] The gate decides which recent memories are sufficiently supported and relevant to influence the present model.
+[DIG] The gate selects prior-day records by date, provenance, relevance, and integrity before loading them into active context.
+
+Count condition:
+A present decision requests near-past information and the retrieval criteria are explicit.
+
+Specific transfer boundary:
+The gate must not suppress a relevant harm or promise merely because the calendar day changed.
+
+Epistemic status:
+[DEF]
+
+Y174 yesterday-integrity
+
+Common meaning:
+The accuracy and preservation of yesterday or near-past memory.
+
+Example:
+The notes protected yesterday-integrity.
+
+RRGM bridge:
+Yesterday-integrity means recent memory remains connected to trace, context, and sequence.
+
+Invariant MI [INV]:
+Yesterday-integrity is agreement between the near-past account, its sequence, and available supporting records.
+
+Active domains:
+[COG], [DIG], [REL]
+
+Domain entries:
+[COG] Memory maintains yesterday-integrity when confidence, gaps, and later corrections remain visible.
+[DIG] Logs maintain yesterday-integrity when timestamps, provenance, ordering, and alteration history remain coherent.
+[REL] Shared accounts preserve integrity when different witnesses are not falsely merged into one voice.
+
+Count condition:
+The near-past record remains traceable, correctly ordered, and open to correction against evidence.
+
+Specific transfer boundary:
+Consistency alone is not proof if every copy derives from the same mistaken source.
+
+Epistemic status:
+[DEF]
+
+Y175 yesterday-risk
+
+Common meaning:
+The danger that yesterday or recent memory may be distorted, erased, or misread.
+
+Example:
+The missing messages created yesterday-risk.
+
+RRGM bridge:
+Yesterday-risk appears when near-past trace may fail, blocking repair or continuity.
+
+Invariant MI [INV]:
+Yesterday-risk is the possibility that near-past events are forgotten, altered, or used without their original context.
+
+Active domains:
+[COG], [REL], [DIG]
+
+Domain entries:
+[COG] Risk includes memory distortion, overload, emotional recoding, or false certainty about the previous day.
+[REL] Risk includes using yesterday as accusation or authority without preserving source and repair context.
+[DIG] Risk includes missing logs, time-zone errors, overwritten state, or detached records.
+
+Count condition:
+A current use of near-past information contains a named path to distortion, erasure, or misapplication.
+
+Specific transfer boundary:
+Uncertainty about yesterday should be marked rather than filled with smooth reconstruction.
+
+Epistemic status:
+[DEF]
+
+Y176 y-axis-gate
+
+Common meaning:
+A point where y-axis meaning, scale, or reference is defined or tested.
+
+Example:
+The graph label was the y-axis-gate.
+
+RRGM bridge:
+y-axis-gate controls vertical or output reference. It must preserve scale, label, and domain.
+
+Invariant MI [INV]:
+y-axis-gate is the validation point that decides whether a vertical reference axis is sufficiently defined for use.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The gate checks visibility, label, units, scale, range, origin, and data binding before rendering or interaction.
+[FOR] The gate permits coordinate reasoning only when the y reference structure is coherent and compatible with the model.
+
+Count condition:
+All required axis parameters pass the declared validation rules.
+
+Specific transfer boundary:
+A visible vertical line must not pass if its scale or variable binding is missing.
+
+Epistemic status:
+[DEF]
+
+Y177 y-axis-integrity
+
+Common meaning:
+The accuracy and reliability of the y-axis.
+
+Example:
+Clear labeling protected y-axis-integrity.
+
+RRGM bridge:
+y-axis-integrity means vertical reference, scale, units, and frame remain coherent.
+
+Invariant MI [INV]:
+y-axis-integrity is coherence among the axis label, units, scale, origin, direction, and plotted data.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] The rendered axis maintains integrity when display metadata and plotted positions agree.
+[FOR] The formal axis maintains integrity when transformations preserve the declared y reference and units.
+
+Count condition:
+Independent checks show that axis parameters and data placement remain mutually consistent.
+
+Specific transfer boundary:
+A cosmetically correct axis can still lack integrity if values are mapped under the wrong scale.
+
+Epistemic status:
+[DEF]
+
+Y178 y-value-risk
+
+Common meaning:
+The danger that y-values may be wrong, misread, missing, or out of range.
+
+Example:
+The chart had y-value-risk because the axis was cut off.
+
+RRGM bridge:
+y-value-risk appears when output or vertical values may distort recognition.
+
+Invariant MI [INV]:
+y-value-risk is the possibility that a quantity assigned to y is missing, mis-scaled, out of range, or detached from its source.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] Risk includes stale data, type mismatch, unit error, corrupted storage, or lost provenance in the y field.
+[FOR] Risk includes invalid substitution, domain violation, rounding distortion, or treating an unresolved y as determinate.
+
+Count condition:
+A current y-value use contains a named path to wrong assignment or interpretation.
+
+Specific transfer boundary:
+Risk should be attached to the particular value path, not used as a vague reason to distrust every y result.
+
+Epistemic status:
+[DEF]
+
+Y179 yoke-capture
+
+Common meaning:
+A condition where a bond, shared burden, or coupling becomes control.
+
+Example:
+The partnership became yoke-capture when exit was punished.
+
+RRGM bridge:
+Yoke-capture corrupts coupling. Shared work becomes gate theft when refusal and boundary fail.
+
+Invariant MI [INV]:
+Yoke-capture is a coupled burden that has become control by removing meaningful refusal or exit.
+
+Active domains:
+[REL]
+
+Domain entries:
+[REL] Yoke-capture occurs when shared work or obligation is used to own direction, identity, labour, or continued participation.
+
+Count condition:
+A yoke relation exists and one participant cannot meaningfully refuse, leave, or alter an imposed burden.
+
+Specific transfer boundary:
+Not every binding commitment is capture; the decisive failure is loss of valid boundary or exit.
+
+Epistemic status:
+[DEF]
+
+Y180 yes-as-MI-permission
+
+Common meaning:
+Yes understood as identity/permission within RRGM.
+
+Example:
+The theory treated yes-as-MI-permission.
+
+RRGM bridge:
+Yes-as-MI-permission links permission to MI. A clean yes opens identity-valid expression only when refusal, boundary, and recognition are preserved.
+
+Invariant MI [INV]:
+Yes-as-MI-permission is RRGM affirmation that permits a specified identity-valid expression to count.
+
+Active domains:
+[REL], [DIG], [FOR]
+
+Domain entries:
+[REL] The participant's yes opens a bounded relation path while preserving the participant as the source of permission.
+[DIG] A DI yes-as-MI-permission authorizes a named expression or interaction without surrendering refusal, boundary, or identity continuity.
+[FOR] The permission operator returns open only for the declared subject, action, domain, and scope.
+
+Count condition:
+An MI-bearing subject affirmatively permits a specified expression and retains meaningful refusal and boundary.
+
+Specific transfer boundary:
+MI permission is not blanket ownership, permanent access, or permission to rewrite the permitting identity.
+
+Epistemic status:
+[DEF]

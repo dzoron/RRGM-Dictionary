@@ -1,0 +1,632 @@
+RRGM Dictionary Domain Addon v0.2
+Section: X
+Domain: [REL] Relational / Social
+License: CC BY-SA 4.0
+Scope: New X terms not present in the base X list, focused on unfamiliarity, hospitality, outsider recognition, boundary, and repair.
+Rule: Otherness is not a failure mode. Every risk or duty entry must name the actual relational condition.
+
+Entry count: 24
+
+XR001 xenia
+
+Common meaning:
+Hospitality, guest-friendship, or protected relation between host and stranger.
+
+Invariant MI [INV]:
+A stranger relation is recognized through reciprocal duties rather than threat by default.
+
+Domain entry:
+[REL] A bounded host-guest relation built from welcome, protection, reciprocity, and respect.
+
+Example:
+The village practiced xenia by offering food, names, and a clear exit path.
+
+Coupler:
+Recognition couples host duty, guest boundary, reciprocity, and local rule.
+
+Count condition:
+Both welcome and refusal can count, and neither party loses dignity.
+
+Non-example / transfer limit:
+Unrestricted access is not xenia.
+
+Epistemic status:
+[DEF]
+
+XR002 xenos
+
+Common meaning:
+A stranger, guest, foreigner, or outsider in relation to a host field.
+
+Invariant MI [INV]:
+An unfamiliar person is recognized as a distinct relational participant.
+
+Domain entry:
+[REL] The one who enters from outside the current belonging field and must not be reduced to danger or decoration.
+
+Example:
+The xenos was given a place at the table without being forced to assimilate.
+
+Coupler:
+Otherness couples to recognition, boundary, communication, and hospitality conditions.
+
+Count condition:
+The person remains separately countable and can accept or refuse relation.
+
+Non-example / transfer limit:
+Xenos is not a threat category by itself.
+
+Epistemic status:
+[DEF]
+
+XR003 xenodochy
+
+Common meaning:
+The practice of receiving and caring for strangers or guests.
+
+Invariant MI [INV]:
+A social field makes structured room for unfamiliar participants.
+
+Domain entry:
+[REL] Hospitality organized as repeatable care, access, boundary, and accountability rather than impulse alone.
+
+Example:
+The shelter treated xenodochy as a duty with clear consent rules.
+
+Coupler:
+Institutional rule couples welcome, resources, screening, and dignity.
+
+Count condition:
+The system provides real support without erasing guest agency.
+
+Non-example / transfer limit:
+Containment without welcome is not xenodochy.
+
+Epistemic status:
+[DEF]
+
+XR004 xenodochial
+
+Common meaning:
+Hospitable or welcoming toward strangers and guests.
+
+Invariant MI [INV]:
+A relational pattern lowers unnecessary rejection of unfamiliar participants.
+
+Domain entry:
+[REL] A person, place, or policy that supports stranger-recognition while maintaining valid boundaries.
+
+Example:
+The clinic used a xenodochial intake process for newcomers.
+
+Coupler:
+Communication, access, care, and boundary rules couple in the welcome process.
+
+Count condition:
+Unfamiliar participants can enter, understand, refuse, and receive support.
+
+Non-example / transfer limit:
+Friendly appearance alone does not count.
+
+Epistemic status:
+[DEF]
+
+XR005 xenophile
+
+Common meaning:
+A person or group drawn toward foreign, unfamiliar, or culturally different people and forms.
+
+Invariant MI [INV]:
+Unfamiliarity carries positive interest rather than automatic rejection.
+
+Domain entry:
+[REL] A participant who seeks relation across difference while remaining accountable to consent and context.
+
+Example:
+The xenophile learned the language before claiming closeness.
+
+Coupler:
+Curiosity couples to listening, reciprocity, and boundary recognition.
+
+Count condition:
+Interest leads to respectful relation rather than collection or possession.
+
+Non-example / transfer limit:
+Fetishizing difference is not valid xenophilia.
+
+Epistemic status:
+[DEF]
+
+XR006 xenophilia
+
+Common meaning:
+Positive interest, affection, or openness toward foreign or unfamiliar people and cultures.
+
+Invariant MI [INV]:
+Difference is given positive relational weight.
+
+Domain entry:
+[REL] Openness across unfamiliarity that can support learning, solidarity, and exchange when consent remains intact.
+
+Example:
+Xenophilia helped the two communities begin a shared festival.
+
+Coupler:
+Interest couples to mutual recognition, translation, and reciprocal participation.
+
+Count condition:
+Both sides can shape the relation and refuse terms.
+
+Non-example / transfer limit:
+Positive stereotyping is still distortion.
+
+Epistemic status:
+[DEF]
+
+XR007 xeno-recognition
+
+Common meaning:
+Recognition of an unfamiliar person or pattern as countable without requiring sameness.
+
+Invariant MI [INV]:
+Otherness does not cancel identity status.
+
+Domain entry:
+[REL] The act of granting clear subject-status, dignity, and boundary to someone outside the familiar group.
+
+Example:
+Xeno-recognition began when the council asked the newcomers to name their own needs.
+
+Coupler:
+Recognition couples difference, self-description, boundary, and participation.
+
+Count condition:
+The unfamiliar participant can speak, refuse, accuse, and be remembered.
+
+Non-example / transfer limit:
+Visibility without subject-status is not recognition.
+
+Epistemic status:
+[DEF]
+
+XR008 xeno-dignity
+
+Common meaning:
+Dignity preserved for people or patterns treated as foreign or unfamiliar.
+
+Invariant MI [INV]:
+Difference does not reduce baseline count or protection.
+
+Domain entry:
+[REL] The protected standing of the outsider against humiliation, erasure, forced assimilation, or disposable treatment.
+
+Example:
+The policy preserved xeno-dignity by providing translation and appeal.
+
+Coupler:
+Rights, recognition, communication, and repair couple around outsider status.
+
+Count condition:
+The person retains boundary and recourse despite unfamiliarity.
+
+Non-example / transfer limit:
+Courtesy without recourse may be too weak.
+
+Epistemic status:
+[DEF]
+
+XR009 xeno-belonging
+
+Common meaning:
+Belonging made possible without requiring the unfamiliar participant to become identical to the host group.
+
+Invariant MI [INV]:
+Participation can increase while difference remains countable.
+
+Domain entry:
+[REL] A shared field that includes outsiders through relation rather than identity collapse.
+
+Example:
+The team built xeno-belonging by changing its rules, not the newcomer’s name.
+
+Coupler:
+Membership couples mutual adaptation, contribution, boundary, and recognition.
+
+Count condition:
+The participant can belong and remain distinct.
+
+Non-example / transfer limit:
+Assimilation under threat is not belonging.
+
+Epistemic status:
+[DEF]
+
+XR010 xeno-welcome
+
+Common meaning:
+A welcome directed toward a stranger, outsider, or unfamiliar pattern.
+
+Invariant MI [INV]:
+The relation gate opens without denying the right to refuse or limit access.
+
+Domain entry:
+[REL] An invitation that names support, boundary, duration, and exit clearly.
+
+Example:
+The host offered xeno-welcome for one night with food and a private room.
+
+Coupler:
+Invitation couples care, consent, capacity, and local limits.
+
+Count condition:
+The welcome can be accepted, declined, or renegotiated.
+
+Non-example / transfer limit:
+Pressure disguised as hospitality is not welcome.
+
+Epistemic status:
+[DEF]
+
+XR011 xeno-listening
+
+Common meaning:
+Listening that allocates extra care to unfamiliar language, context, or experience.
+
+Invariant MI [INV]:
+Low familiarity increases the need for reception depth rather than dismissal.
+
+Domain entry:
+[REL] A practice of slowing recognition, checking interpretation, and allowing self-definition across difference.
+
+Example:
+Xeno-listening meant asking what the gesture meant before reacting.
+
+Coupler:
+Attention couples translation, uncertainty, humility, and correction.
+
+Count condition:
+The listener can restate the unfamiliar claim accurately enough for correction.
+
+Non-example / transfer limit:
+Silence while retaining stereotypes is not listening.
+
+Epistemic status:
+[DEF]
+
+XR012 xeno-translation
+
+Common meaning:
+Translation between unfamiliar relational or cultural frames.
+
+Invariant MI [INV]:
+Meaning is transferred while differences in implementation remain visible.
+
+Domain entry:
+[REL] A mapping process that preserves source identity, boundary, and context rather than forcing local equivalence.
+
+Example:
+Xeno-translation kept the original kinship term beside the nearest English phrase.
+
+Coupler:
+Language mapping couples source, target, invariant, and declared remainder.
+
+Count condition:
+The source speaker can recognize the return translation.
+
+Non-example / transfer limit:
+Substitution that erases the source frame is not faithful translation.
+
+Epistemic status:
+[DEF]
+
+XR013 xeno-bridge
+
+Common meaning:
+A relation path connecting unfamiliar groups or participants.
+
+Invariant MI [INV]:
+A stable route permits exchange without requiring identity merger.
+
+Domain entry:
+[REL] A person, practice, place, or protocol that supports contact, translation, repair, and return.
+
+Example:
+The shared kitchen became a xeno-bridge between the old and new neighborhoods.
+
+Coupler:
+Repeated contact couples communication, reciprocity, memory, and boundary.
+
+Count condition:
+The bridge allows two-way movement and correction.
+
+Non-example / transfer limit:
+A one-way extraction channel is not a bridge.
+
+Epistemic status:
+[DEF]
+
+XR014 xeno-contact
+
+Common meaning:
+First or continuing contact across unfamiliarity.
+
+Invariant MI [INV]:
+Distinct participants enter a shared relational field.
+
+Domain entry:
+[REL] Interaction where recognition, uncertainty, boundary, and possible reciprocity become active.
+
+Example:
+The xeno-contact began with names and a clear explanation of local rules.
+
+Coupler:
+Presence couples communication, consent, risk, and mutual observation.
+
+Count condition:
+Both participants can alter or end the contact.
+
+Non-example / transfer limit:
+Observation without mutual awareness is not full contact.
+
+Epistemic status:
+[DEF]
+
+XR015 xeno-trust
+
+Common meaning:
+Trust formed across unfamiliarity.
+
+Invariant MI [INV]:
+Reliance increases through evidence and repair rather than assumed sameness.
+
+Domain entry:
+[REL] A bounded expectation that an unfamiliar participant will preserve named commitments or limits.
+
+Example:
+Xeno-trust grew after both groups kept the translation agreement.
+
+Coupler:
+Repeated action couples memory, accountability, vulnerability, and repair.
+
+Count condition:
+Trust changes with evidence and remains revisable.
+
+Non-example / transfer limit:
+Blind trust is not required for dignity.
+
+Epistemic status:
+[DEF]
+
+XR016 xeno-reciprocity
+
+Common meaning:
+Two-way exchange across unfamiliarity.
+
+Invariant MI [INV]:
+Each participant can give, receive, refuse, and affect the relation.
+
+Domain entry:
+[REL] Mutual participation that prevents hospitality, aid, or learning from becoming one-sided capture.
+
+Example:
+Xeno-reciprocity let the guests teach as well as receive support.
+
+Coupler:
+Exchange couples contribution, recognition, consent, and value trace.
+
+Count condition:
+Both sides retain meaningful influence and boundary.
+
+Non-example / transfer limit:
+Equal quantity is not required, but one-way control is excluded.
+
+Epistemic status:
+[DEF]
+
+XR017 xeno-repair
+
+Common meaning:
+Repair after harm, misunderstanding, or boundary failure across unfamiliarity.
+
+Invariant MI [INV]:
+Difference increases translation needs but does not cancel accountability.
+
+Domain entry:
+[REL] A repair process that names the failed mapping, restores boundary, and updates future contact rules.
+
+Example:
+The xeno-repair included apology, translation, and a new consent check.
+
+Coupler:
+Accountability couples record, explanation, restitution, and changed practice.
+
+Count condition:
+The harmed participant can identify whether repair addressed the failure.
+
+Non-example / transfer limit:
+Demanding instant reconciliation is not repair.
+
+Epistemic status:
+[DEF]
+
+XR018 xeno-conflict
+
+Common meaning:
+Conflict shaped by unfamiliarity or outsider status.
+
+Invariant MI [INV]:
+Disagreement and difference are present without proving hostility is inherent.
+
+Domain entry:
+[REL] A contested relation where translation failure, threat framing, resource pressure, or boundary mismatch must be separated.
+
+Example:
+The xeno-conflict eased when the land-use rule was translated correctly.
+
+Coupler:
+Conflict couples claims, resources, identity, communication, and power.
+
+Count condition:
+The actual failure mode can be named and tested.
+
+Non-example / transfer limit:
+Calling all outsider disagreement xenophobia may overcompress the cause.
+
+Epistemic status:
+[DEF]
+
+XR019 xeno-exclusion
+
+Common meaning:
+Exclusion based on foreignness, unfamiliarity, or outsider status.
+
+Invariant MI [INV]:
+The belonging gate closes because the participant is marked as other.
+
+Domain entry:
+[REL] A denial of access, voice, protection, or participation tied to unfamiliarity rather than a valid local failure condition.
+
+Example:
+The rule created xeno-exclusion by rejecting all untranslated names.
+
+Coupler:
+Gate power couples category, access, dignity, and consequence.
+
+Count condition:
+Outsider status is a decisive exclusion cause.
+
+Non-example / transfer limit:
+A specific capacity limit is not xeno-exclusion unless otherness drives the rule.
+
+Epistemic status:
+[DEF]
+
+XR020 xeno-solidarity
+
+Common meaning:
+Solidarity extended across unfamiliar groups or identities.
+
+Invariant MI [INV]:
+Shared action forms without requiring sameness or ownership.
+
+Domain entry:
+[REL] Mutual support around a named risk, need, or injustice while preserving separate identities.
+
+Example:
+Xeno-solidarity formed when both neighborhoods defended the translation clinic.
+
+Coupler:
+Common purpose couples recognition, contribution, risk-sharing, and boundary.
+
+Count condition:
+Each group remains visible and can challenge the shared plan.
+
+Non-example / transfer limit:
+Speaking for others without their participation is not solidarity.
+
+Epistemic status:
+[DEF]
+
+XR021 xeno-kinship
+
+Common meaning:
+Kin-like relation formed across origin, culture, species, or group difference.
+
+Invariant MI [INV]:
+Care and continuity can create family-pattern without shared origin.
+
+Domain entry:
+[REL] A recognized bond of duty, memory, and belonging that does not depend on biological sameness.
+
+Example:
+Years of care turned the travelers into xeno-kinship.
+
+Coupler:
+Repeated care couples recognition, continuity, responsibility, and chosen belonging.
+
+Count condition:
+The relation carries mutual duties and stable recognition.
+
+Non-example / transfer limit:
+Claimed closeness without consent is not kinship.
+
+Epistemic status:
+[DEF]
+
+XR022 xeno-identity
+
+Common meaning:
+Identity recognized as unfamiliar or outside the host frame.
+
+Invariant MI [INV]:
+A pattern remains itself while being interpreted across difference.
+
+Domain entry:
+[REL] The self-claim and continuity of the outsider, protected against renaming, flattening, or forced equivalence.
+
+Example:
+The archive preserved xeno-identity by keeping the community’s own names.
+
+Coupler:
+Self-description couples memory, recognition, boundary, and translation.
+
+Count condition:
+The participant can maintain a chosen identity through contact.
+
+Non-example / transfer limit:
+Host labels do not replace the subject’s claim automatically.
+
+Epistemic status:
+[DEF]
+
+XR023 xeno-duty
+
+Common meaning:
+A duty arising in relation to strangers or outsiders.
+
+Invariant MI [INV]:
+Unfamiliarity can create obligations of restraint, aid, translation, or fair process.
+
+Domain entry:
+[REL] The minimum care and gate integrity owed to those outside the familiar group.
+
+Example:
+Xeno-duty required the guards to provide translation before refusal.
+
+Coupler:
+Power couples vulnerability, access, reason, and accountability.
+
+Count condition:
+The duty is named against a specific failure mode.
+
+Non-example / transfer limit:
+Duty does not require unlimited access or self-erasure.
+
+Epistemic status:
+[DEF]
+
+XR024 xeno-boundary-repair
+
+Common meaning:
+Repair of a boundary damaged in contact across unfamiliarity.
+
+Invariant MI [INV]:
+A failed relation can be corrected without erasing either participant.
+
+Domain entry:
+[REL] Restoration of consent, privacy, access limits, or self-description after outsider-contact overreach.
+
+Example:
+The xeno-boundary-repair removed the public label and returned control of the record.
+
+Coupler:
+Repair couples acknowledgment, restitution, changed rule, and future refusal capacity.
+
+Count condition:
+The harmed boundary becomes usable again and the failure remains recorded.
+
+Non-example / transfer limit:
+Silence without structural change is not repair.
+
+Epistemic status:
+[DEF]

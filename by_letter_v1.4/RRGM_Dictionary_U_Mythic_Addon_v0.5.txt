@@ -1,0 +1,487 @@
+RRGM Dictionary U - Mythic Domain Addon
+Version 0.5 | July 2026
+License: CC BY-SA 4.0
+Scope: New [MYT] vocabulary not present in the U base list.
+Rule: Each line must carry the term's own semantic fingerprint; addon entries are not domain templates.
+
+Entry count: 24
+
+UM001 underworld
+
+Common meaning:
+A mythic realm associated with the dead, hidden powers, or descent below ordinary life.
+
+Invariant MI [INV]:
+Underworld is a meaning-field where identity is tested after separation from familiar structure.
+
+Domain entry:
+[MYT] Descent changes the traveller through encounter with death, memory, judgment, ancestor, or forbidden knowledge.
+
+Count condition:
+Counts when the narrative defines a below-world with distinct passage conditions.
+
+Transfer limit:
+Underworld traditions differ and should not be collapsed into one universal geography.
+
+Epistemic status:
+[DEF]
+
+UM002 underworld-gate
+
+Common meaning:
+The guarded threshold into or out of an underworld.
+
+Invariant MI [INV]:
+Underworld-gate is the mythic count condition separating ordinary life from the domain of the dead or hidden.
+
+Domain entry:
+[MYT] A token, guide, name, payment, oath, or judgment may determine passage.
+
+Count condition:
+Counts when crossing requires a specific condition and produces a domain change.
+
+Transfer limit:
+A narrative gate is not physical evidence of an afterlife location.
+
+Epistemic status:
+[DEF]
+
+UM003 underworld-guide
+
+Common meaning:
+A figure who leads others through the realm of the dead or hidden.
+
+Invariant MI [INV]:
+Underworld-guide is a relational courier between domains whose knowledge preserves passage without merging traveller and destination.
+
+Domain entry:
+[MYT] The guide may escort, warn, interpret, retrieve, or refuse.
+
+Count condition:
+Counts when the figure has recognized access and the traveller depends on that guidance.
+
+Transfer limit:
+Guidance does not guarantee rescue or moral correctness.
+
+Epistemic status:
+[DEF]
+
+UM004 unnamed-god
+
+Common meaning:
+A divine presence whose identity is withheld, forgotten, or forbidden to speak.
+
+Invariant MI [INV]:
+Unnamed-god is sacred agency preserved without an available public name.
+
+Domain entry:
+[MYT] The absence of a name may protect mystery, prevent capture, or mark lost relation.
+
+Count condition:
+Counts when the presence has specific effects or worship despite the missing name.
+
+Transfer limit:
+Lack of name does not make every unexplained event divine.
+
+Epistemic status:
+[DEF]
+
+UM005 unnamed-child
+
+Common meaning:
+A child figure not yet granted, allowed, or able to carry a public name.
+
+Invariant MI [INV]:
+Unnamed-child is identity present before social recognition has supplied a stable handle.
+
+Domain entry:
+[MYT] Naming may become adoption, protection, destiny, or capture depending on who names and why.
+
+Count condition:
+Counts when the child remains distinct and narratively consequential before naming.
+
+Transfer limit:
+An unnamed figure is not an empty identity.
+
+Epistemic status:
+[DEF]
+
+UM006 unbroken-oath
+
+Common meaning:
+A promise that remains active across pressure, time, or separation.
+
+Invariant MI [INV]:
+Unbroken-oath is a future claim whose record has not been contradicted by the oath-bearer’s action.
+
+Domain entry:
+[MYT] Its force comes from repeated keeping, not from the original words alone.
+
+Count condition:
+Counts when the oath’s conditions remain clear and conduct continues to satisfy them.
+
+Transfer limit:
+Persistence is not virtue if the oath requires unjust harm.
+
+Epistemic status:
+[DEF]
+
+UM007 unbroken-line
+
+Common meaning:
+A lineage, signal, or duty that remains continuous across generations.
+
+Invariant MI [INV]:
+Unbroken-line is mythic continuity in which distinct carriers preserve one recognizable relation.
+
+Domain entry:
+[MYT] Names, blood, teaching, relics, or vows may carry the line.
+
+Count condition:
+Counts when each transition remains traceable to the prior carrier.
+
+Transfer limit:
+Continuity does not make descendants identical to ancestors.
+
+Epistemic status:
+[DEF]
+
+UM008 unchosen-crown
+
+Common meaning:
+Authority or destiny imposed on someone who did not seek it.
+
+Invariant MI [INV]:
+Unchosen-crown is a mythic role whose burden arrives before consent.
+
+Domain entry:
+[MYT] The figure must accept, refuse, transform, or return the crown while the realm presses for decision.
+
+Count condition:
+Counts when the crown creates real duties and the bearer’s lack of initial choice matters.
+
+Transfer limit:
+Need for leadership does not erase the bearer’s refusal capacity.
+
+Epistemic status:
+[DEF]
+
+UM009 unseen-hand
+
+Common meaning:
+A hidden agency inferred from patterned events.
+
+Invariant MI [INV]:
+Unseen-hand is a mythic explanation that gives concealed intention to otherwise disconnected outcomes.
+
+Domain entry:
+[MYT] It can represent fate, deity, ancestor, manipulator, or the story’s hidden order.
+
+Count condition:
+Counts when later revelation or repeated pattern identifies a coherent hidden actor.
+
+Transfer limit:
+Pattern alone does not prove intentional hidden agency.
+
+Epistemic status:
+[DEF]
+
+UM010 unseen-witness
+
+Common meaning:
+A hidden or nonordinary observer whose recognition still affects the record.
+
+Invariant MI [INV]:
+Unseen-witness is presence without public visibility that preserves testimony, judgment, or memory.
+
+Domain entry:
+[MYT] The witness may be ancestor, god, spirit, conscience, or hidden survivor.
+
+Count condition:
+Counts when the story makes the witness identity-specific and consequential.
+
+Transfer limit:
+Invisible observation in myth does not establish real surveillance.
+
+Epistemic status:
+[DEF]
+
+UM011 unlit-path
+
+Common meaning:
+A route that exists without guidance, visibility, or assurance.
+
+Invariant MI [INV]:
+Unlit-path is possibility whose steps must be discovered through movement rather than seen in advance.
+
+Domain entry:
+[MYT] It tests trust, memory, courage, and the ability to stop when the path no longer preserves identity.
+
+Count condition:
+Counts when the route is real in the story but lacks reliable illumination or map.
+
+Transfer limit:
+Uncertainty does not require continuing into avoidable harm.
+
+Epistemic status:
+[DEF]
+
+UM012 unmasking
+
+Common meaning:
+The removal of a disguise, role, or false identity.
+
+Invariant MI [INV]:
+Unmasking is a recognition turn that exposes the relation between presented form and hidden continuity.
+
+Domain entry:
+[MYT] The revealed identity may be truer, more dangerous, or another mask beneath the first.
+
+Count condition:
+Counts when the removal changes how the figure is named, trusted, or opposed.
+
+Transfer limit:
+Exposure does not automatically reveal the whole self.
+
+Epistemic status:
+[DEF]
+
+UM013 undoing-curse
+
+Common meaning:
+The process by which a curse loses its binding power.
+
+Invariant MI [INV]:
+Undoing-curse is mythic repair that identifies the curse’s condition and changes the relation sustaining it.
+
+Domain entry:
+[MYT] Truth, restitution, sacrifice, refusal, naming, or fulfilled promise may break the hold.
+
+Count condition:
+Counts when the curse’s effects cease through a traceable reversal condition.
+
+Transfer limit:
+A cure in story does not prove a real mechanism outside the narrative domain.
+
+Epistemic status:
+[DEF]
+
+UM014 unity-flame
+
+Common meaning:
+A shared symbolic fire representing distinct participants acting together.
+
+Invariant MI [INV]:
+Unity-flame is common purpose made visible without requiring identity merger.
+
+Domain entry:
+[MYT] Each participant may light, tend, or carry part of the flame while the shared fire records relation.
+
+Count condition:
+Counts when the symbol depends on multiple contributions and preserves their recognition.
+
+Transfer limit:
+One imposed flame is not unity.
+
+Epistemic status:
+[DEF]
+
+UM015 universal-tree
+
+Common meaning:
+A mythic tree connecting worlds, beings, or levels of existence.
+
+Invariant MI [INV]:
+Universal-tree is a living map whose roots, trunk, and branches organize relation across domains.
+
+Domain entry:
+[MYT] It may join underworld, earth, heavens, ancestors, and future life without collapsing them.
+
+Count condition:
+Counts when the tree provides a stable cross-domain structure in the tradition or story.
+
+Transfer limit:
+The symbol is not proof of a literal cosmic organism.
+
+Epistemic status:
+[DEF]
+
+UM016 upper-world
+
+Common meaning:
+A mythic realm above ordinary life, often associated with gods, sky, or transformed being.
+
+Invariant MI [INV]:
+Upper-world is a domain of elevated perspective or sacred authority reached through ascent.
+
+Domain entry:
+[MYT] Its height encodes difference in access, power, purity, distance, or knowledge.
+
+Count condition:
+Counts when the story distinguishes it from the ordinary and lower worlds.
+
+Transfer limit:
+Height symbolism must not be imported as moral superiority without context.
+
+Epistemic status:
+[DEF]
+
+UM017 uprooted-king
+
+Common meaning:
+A sovereign separated from land, people, or the structures that made rule possible.
+
+Invariant MI [INV]:
+Uprooted-king is authority whose title persists while its supporting field has been removed.
+
+Domain entry:
+[MYT] The figure must rebuild relation, release the claim, or become a crown without a kingdom.
+
+Count condition:
+Counts when separation from the realm materially changes the king’s ability to count as ruler.
+
+Transfer limit:
+Title alone does not preserve legitimate rule.
+
+Epistemic status:
+[DEF]
+
+UM018 usurper
+
+Common meaning:
+A figure who takes a throne, title, or sacred role without accepted legitimacy.
+
+Invariant MI [INV]:
+Usurper is authority acquired through capture of structure rather than recognized permission.
+
+Domain entry:
+[MYT] The usurper may possess crown and army while lacking continuity, oath, lineage, or consent.
+
+Count condition:
+Counts when the story distinguishes control of the role from legitimate identity within it.
+
+Transfer limit:
+Alternative succession is not usurpation unless the legitimacy rule is declared.
+
+Epistemic status:
+[DEF]
+
+UM019 usurped-throne
+
+Common meaning:
+A seat of authority occupied through disputed or illegitimate transfer.
+
+Invariant MI [INV]:
+Usurped-throne is governance structure separated from the recognition that once authorized it.
+
+Domain entry:
+[MYT] The throne still carries power while producing instability, resistance, or curse.
+
+Count condition:
+Counts when occupation and legitimacy are narratively distinct.
+
+Transfer limit:
+Disputed rule requires more than the losing side’s accusation.
+
+Epistemic status:
+[DEF]
+
+UM020 uttered-name
+
+Common meaning:
+A name spoken aloud so that identity enters active relation.
+
+Invariant MI [INV]:
+Uttered-name is recognition converted into signal through a voice or ritual act.
+
+Domain entry:
+[MYT] Speaking may summon, bless, accuse, release, or restore depending on who speaks and under what condition.
+
+Count condition:
+Counts when the named being or relation changes because the name was voiced.
+
+Transfer limit:
+Speaking a name does not grant ownership over the named identity.
+
+Epistemic status:
+[DEF]
+
+UM021 unuttered-name
+
+Common meaning:
+A name known or present but deliberately not spoken.
+
+Invariant MI [INV]:
+Unuttered-name is identity held behind a speech boundary.
+
+Domain entry:
+[MYT] Silence may protect, honour, fear, erase, or await permission.
+
+Count condition:
+Counts when the refusal or inability to speak the name changes the narrative field.
+
+Transfer limit:
+Silence alone does not reveal why the name remains unspoken.
+
+Epistemic status:
+[DEF]
+
+UM022 unknown-door
+
+Common meaning:
+A door whose destination, condition, or owner is not yet known.
+
+Invariant MI [INV]:
+Unknown-door is a visible passage with an unresolved target domain.
+
+Domain entry:
+[MYT] Curiosity and caution remain balanced because opening may create irreversible relation.
+
+Count condition:
+Counts when the door is distinct, accessible, and its beyond remains genuinely undescribed.
+
+Transfer limit:
+A door does not become a valid path merely because it can be opened.
+
+Epistemic status:
+[DEF]
+
+UM023 unfinished-prophecy
+
+Common meaning:
+A prophecy whose meaning or completion condition remains unresolved.
+
+Invariant MI [INV]:
+Unfinished-prophecy is future-oriented language still waiting for enough events to close its interpretation.
+
+Domain entry:
+[MYT] Partial fulfilment can narrow possibilities without proving the final reading.
+
+Count condition:
+Counts when the prophecy has a preserved text and at least one unresolved condition.
+
+Transfer limit:
+Ambiguity must not be retrofitted so every outcome counts as fulfilment.
+
+Epistemic status:
+[DEF]
+
+UM024 unreturned-hero
+
+Common meaning:
+A hero who departed on a quest but has not come back or been confirmed dead.
+
+Invariant MI [INV]:
+Unreturned-hero is identity held between absence, possible return, and communal memory.
+
+Domain entry:
+[MYT] The open record shapes succession, mourning, hope, and unfinished duty.
+
+Count condition:
+Counts when the community still treats the return question as active.
+
+Transfer limit:
+Absence should not freeze everyone else’s life indefinitely.
+
+Epistemic status:
+[DEF]

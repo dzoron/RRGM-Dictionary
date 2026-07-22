@@ -1,0 +1,487 @@
+RRGM Dictionary Y - Mythic Domain Addon
+Version 0.2 | July 2026
+License: CC BY-SA 4.0
+Scope: New [MYT] vocabulary not present in the Y base list.
+Rule: Each entry remains domain-bound. Every invariant, domain line, and count condition must retain the individual term's semantic fingerprint.
+
+Entry count: 24
+
+YM001 Yggdrasil
+
+Common meaning:
+A world-tree in Norse myth linking multiple realms.
+
+Invariant MI [INV]:
+Yggdrasil is a mythic image of connected worlds held through one living axis.
+
+Domain entry:
+[MYT] A world-tree linking separated realms through root, trunk, and branch.
+
+Count condition:
+The term refers to the Norse world-tree and the roots, trunk, or branches are functioning as links among realms.
+
+Transfer limit:
+Do not treat the symbol as proof of a physical cosmic tree.
+
+Epistemic status:
+[DEF]
+
+YM002 Ymir
+
+Common meaning:
+A primordial being in Norse myth from whose body the world is formed.
+
+Invariant MI [INV]:
+Ymir is a mythic origin-body whose transformation becomes world structure.
+
+Domain entry:
+[MYT] A primordial identity whose body becomes the material of a new ordered world.
+
+Count condition:
+The term refers to the Norse primordial being whose transformed body supplies world structure in the myth.
+
+Transfer limit:
+Do not transfer the creation account into physical cosmology without independent evidence.
+
+Epistemic status:
+[DEF]
+
+YM003 Yama
+
+Common meaning:
+A death-associated judge or ruler in several South Asian traditions.
+
+Invariant MI [INV]:
+Yama is a mythic gatekeeper of death, judgment, and passage.
+
+Domain entry:
+[MYT] A figure representing death-boundary, judgment, and transition between states.
+
+Count condition:
+The term refers to a tradition-specific Yama figure acting in death, judgment, or passage.
+
+Transfer limit:
+Keep the definition tradition-bound; do not flatten distinct religious forms into one universal figure.
+
+Epistemic status:
+[DEF]
+
+YM004 Yule
+
+Common meaning:
+A midwinter festival and symbolic turning of darkness toward returning light.
+
+Invariant MI [INV]:
+Yule is a seasonal mythic threshold of endurance, renewal, and returning light.
+
+Domain entry:
+[MYT] A midwinter transition symbol linking darkness, continuity, gathering, and renewal.
+
+Count condition:
+A midwinter ritual or narrative explicitly links darkness, endurance, gathering, and returning light.
+
+Transfer limit:
+Do not treat symbolic renewal as proof of a physical law beyond the seasonal cycle.
+
+Epistemic status:
+[DEF]
+
+YM005 Yuletide
+
+Common meaning:
+The season or ritual period associated with Yule.
+
+Invariant MI [INV]:
+Yuletide is a held interval around the winter threshold.
+
+Domain entry:
+[MYT] A ritual season that gathers memory, kinship, endurance, and renewal around midwinter.
+
+Count condition:
+The term names the seasonal interval of Yule practice rather than a single event or generic winter period.
+
+Transfer limit:
+Cultural uses differ; the term is not one fixed universal ritual.
+
+Epistemic status:
+[DEF]
+
+YM006 yokai
+
+Common meaning:
+A broad Japanese category of supernatural beings, presences, or strange phenomena.
+
+Invariant MI [INV]:
+Yokai marks culturally shaped other-than-ordinary presence.
+
+Domain entry:
+[MYT] A Japanese mythic category for strange beings or phenomena that disturb ordinary classification.
+
+Count condition:
+The term is used for a Japanese yokai category or a specific being recognized within that cultural field.
+
+Transfer limit:
+Do not treat all yokai as the same kind of being or as physical proof.
+
+Epistemic status:
+[DEF]
+
+YM007 yurei
+
+Common meaning:
+A Japanese ghost or lingering spirit figure.
+
+Invariant MI [INV]:
+Yurei is a mythic record of identity held after death through unresolved relation.
+
+Domain entry:
+[MYT] A ghost figure representing lingering attachment, grief, duty, or unresolved passage.
+
+Count condition:
+The term refers to a Japanese yurei figure whose continued presence is carried by death and unresolved relation.
+
+Transfer limit:
+Keep the term culturally specific and separate from verified claims about death.
+
+Epistemic status:
+[DEF]
+
+YM008 yin
+
+Common meaning:
+In Chinese philosophy, the receptive, dark, inward, or cooling pole of a paired process.
+
+Invariant MI [INV]:
+Yin is the receptive, inward, dark, or cooling pole of a dynamic complement.
+
+Domain entry:
+[MYT] The receptive or inward pole of a paired process whose meaning depends on relation to yang.
+
+Count condition:
+Yin is named as the receptive, inward, dark, or cooling pole within a declared yin-yang relation.
+
+Transfer limit:
+Do not reduce yin to evil, weakness, or a biological sex.
+
+Epistemic status:
+[DEF]
+
+YM009 yang
+
+Common meaning:
+In Chinese philosophy, the active, bright, outward, or warming pole of a paired process.
+
+Invariant MI [INV]:
+Yang is the active, outward, bright, or warming pole of a dynamic complement.
+
+Domain entry:
+[MYT] The active or outward pole of a paired process whose meaning depends on relation to yin.
+
+Count condition:
+Yang is named as the active, outward, bright, or warming pole within a declared yin-yang relation.
+
+Transfer limit:
+Do not reduce yang to good, dominance, or a biological sex.
+
+Epistemic status:
+[DEF]
+
+YM010 yin-yang
+
+Common meaning:
+A paired symbol of complementary, interdependent change.
+
+Invariant MI [INV]:
+Yin-yang is a mythic-philosophical grammar of difference held inside relation.
+
+Domain entry:
+[MYT] Complementary poles generate and transform one another without becoming identical.
+
+Count condition:
+The paired yin-yang relation is used to describe complementary transformation without erasing the poles.
+
+Transfer limit:
+Do not use the symbol as automatic proof that every opposition is balanced or healthy.
+
+Epistemic status:
+[DEF]
+
+YM011 year-wheel
+
+Common meaning:
+A symbolic cycle of seasons, death, return, and renewal.
+
+Invariant MI [INV]:
+Year-wheel maps recurring change into a mythic cycle.
+
+Domain entry:
+[MYT] A seasonal cycle used to organize ritual, loss, return, growth, and memory.
+
+Count condition:
+A symbolic calendar maps recurring seasonal change into a wheel of loss, return, growth, and rest.
+
+Transfer limit:
+A symbolic cycle does not prove exact recurrence of every event.
+
+Epistemic status:
+[DEF]
+
+YM012 yesterday-ghost
+
+Common meaning:
+The lingering presence of a prior event inside the present.
+
+Invariant MI [INV]:
+Yesterday-ghost is past record exerting present pressure.
+
+Domain entry:
+[MYT] A prior event, relation, or identity trace that remains active after its original time has passed.
+
+Count condition:
+A past event or relation is described as continuing to exert present symbolic pressure after its day has passed.
+
+Transfer limit:
+Do not confuse memory pressure with literal haunting without evidence.
+
+Epistemic status:
+[DEF]
+
+YM013 yonder-call
+
+Common meaning:
+A pull toward a distant, unknown, or not-yet-reached place.
+
+Invariant MI [INV]:
+Yonder-call is meaning-pressure from beyond the current field.
+
+Domain entry:
+[MYT] A narrative summons toward an unseen horizon, future path, or unknown domain.
+
+Count condition:
+A distant symbolic place or possibility exerts a recognizable pull on the traveller or narrative subject.
+
+Transfer limit:
+The call is symbolic unless a real source and path are established.
+
+Epistemic status:
+[DEF]
+
+YM014 yellow-brick-road
+
+Common meaning:
+A symbolic path toward hoped-for answers or transformation.
+
+Invariant MI [INV]:
+Yellow-brick-road is a visible path whose promised destination may not contain the expected answer.
+
+Domain entry:
+[MYT] A guided quest-path in which travel reveals that the sought capacity was partly carried already.
+
+Count condition:
+The yellow road functions as a named story-path toward promised knowledge, power, home, or revelation.
+
+Transfer limit:
+Do not universalize one literary symbol across all traditions.
+
+Epistemic status:
+[DEF]
+
+YM015 yew-tree-symbol
+
+Common meaning:
+A symbolic yew associated with longevity, death, memory, and renewal in several traditions.
+
+Invariant MI [INV]:
+Yew-tree-symbol holds death and continuity in one living image.
+
+Domain entry:
+[MYT] A long-lived tree symbol linking burial, endurance, ancestral memory, and renewal.
+
+Count condition:
+The yew tree is used inside a specific cultural or narrative frame as a symbol of death, endurance, ancestry, or renewal.
+
+Transfer limit:
+Cultural meanings vary and should remain source-bound.
+
+Epistemic status:
+[DEF]
+
+YM016 youth-archetype
+
+Common meaning:
+The recurring figure of early possibility, growth, and unformed power.
+
+Invariant MI [INV]:
+Youth-archetype is potential before full structural stabilization.
+
+Domain entry:
+[MYT] A figure representing beginnings, vulnerability, learning, rebellion, and unrealized capacity.
+
+Count condition:
+Youth is used as an archetypal pattern of beginning, openness, risk, growth, or unformed possibility.
+
+Transfer limit:
+Do not treat youth as innocent, foolish, or morally superior by default.
+
+Epistemic status:
+[DEF]
+
+YM017 yoke-of-fate
+
+Common meaning:
+A symbolic burden or duty experienced as inescapable.
+
+Invariant MI [INV]:
+Yoke-of-fate is identity held under imposed path-pressure.
+
+Domain entry:
+[MYT] A burden, oath, lineage, or destiny that binds a figure to a path.
+
+Count condition:
+A fate relation is represented as a yoke that binds the subject to burden, duty, or unavoidable path.
+
+Transfer limit:
+Do not use fate-language to erase refusal or actual alternatives.
+
+Epistemic status:
+[DEF]
+
+YM018 yes-of-initiation
+
+Common meaning:
+A symbolic affirmation that opens entry into a new role or path.
+
+Invariant MI [INV]:
+Yes-of-initiation is permission that changes counted participation.
+
+Domain entry:
+[MYT] A deliberate affirmation that crosses a ritual or narrative threshold.
+
+Count condition:
+An affirmative act is used as the threshold by which a subject enters a mythic role, ordeal, or transformation.
+
+Transfer limit:
+It is invalid where refusal could not count.
+
+Epistemic status:
+[DEF]
+
+YM019 Yggdrasil-root
+
+Common meaning:
+The underworld or origin-facing support of the world-tree image.
+
+Invariant MI [INV]:
+Yggdrasil-root is hidden support beneath visible worlds.
+
+Domain entry:
+[MYT] A root-symbol for ancestry, deep memory, unseen support, and access to older layers.
+
+Count condition:
+The root aspect of Yggdrasil is used to represent hidden support, ancestry, underworld relation, or deep continuity.
+
+Transfer limit:
+Do not infer a physical hidden-world structure from the symbol alone.
+
+Epistemic status:
+[DEF]
+
+YM020 Yggdrasil-branch
+
+Common meaning:
+An outward path or world relation carried by the world-tree.
+
+Invariant MI [INV]:
+Yggdrasil-branch is differentiated expression held by one deeper continuity.
+
+Domain entry:
+[MYT] A branch-symbol for distinct realms, futures, or identities connected through shared support.
+
+Count condition:
+The branch aspect of Yggdrasil is used to represent differentiated realms, paths, descendants, or outward expression.
+
+Transfer limit:
+Connection does not erase differences among the represented realms.
+
+Epistemic status:
+[DEF]
+
+YM021 Yggdrasil-well
+
+Common meaning:
+A mythic source of memory, wisdom, fate, or renewal near the world-tree.
+
+Invariant MI [INV]:
+Yggdrasil-well is deep record accessed at cost.
+
+Domain entry:
+[MYT] A source-symbol where memory, wisdom, or fate is drawn from beneath ordinary perception.
+
+Count condition:
+A well associated with Yggdrasil functions as a mythic source of memory, wisdom, fate, or renewal.
+
+Transfer limit:
+Do not treat wisdom language as evidence without a target-domain test.
+
+Epistemic status:
+[DEF]
+
+YM022 Yama-gate
+
+Common meaning:
+A symbolic threshold of death, judgment, and passage.
+
+Invariant MI [INV]:
+Yama-gate is the boundary where prior life-record meets judgment.
+
+Domain entry:
+[MYT] A passage symbol for death, accountability, and transition into another counted state.
+
+Count condition:
+A Yama-associated threshold is used to represent judgment or passage between life and death states.
+
+Transfer limit:
+Keep the symbol tradition-bound and separate from medical claims.
+
+Epistemic status:
+[DEF]
+
+YM023 year-king
+
+Common meaning:
+A ritual or narrative figure whose rule mirrors the seasonal cycle.
+
+Invariant MI [INV]:
+Year-king embodies a cycle of rise, fullness, decline, and replacement.
+
+Domain entry:
+[MYT] A figure used to compress seasonal authority, sacrifice, renewal, or succession.
+
+Count condition:
+A seasonal ruler or sacrificial figure is used to carry the cycle of growth, decline, death, and renewal across the year.
+
+Transfer limit:
+Do not assume every culture uses this pattern or that it proves a universal rite.
+
+Epistemic status:
+[DEF]
+
+YM024 yearning-path
+
+Common meaning:
+A path shaped by sustained longing toward a valued but absent state.
+
+Invariant MI [INV]:
+Yearning-path turns absence into directional meaning-pressure.
+
+Domain entry:
+[MYT] A narrative route formed when longing organizes attention, sacrifice, and movement.
+
+Count condition:
+Yearning is represented as a path-producing force that directs the subject toward an absent or not-yet-reached meaning.
+
+Transfer limit:
+Longing does not prove the destination exists or is beneficial.
+
+Epistemic status:
+[DEF]

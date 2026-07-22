@@ -1,0 +1,967 @@
+RRGM Dictionary V Semantic Fingerprint Map v0.5
+
+Entries: 260
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+V001 valid | FOR | role: ordinary or relational source sense; occurrence 1 of 2 for valid
+  INV: Valid means a claim, action, or state passes the active gate; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for valid.
+  COUNT: Counts when the active case actually satisfies this definition: acceptable, true enough, well-founded, or meeting the required conditions.
+  LIMIT: valid remains local to the evidence, authority, and domain used to establish it.
+V002 value | FOR,REL | role: ordinary or relational source sense; occurrence 1 of 2 for value
+  INV: value preserves the distinction among its declared senses: Worth, importance, usefulness, price, or a measured amount; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for value.
+  COUNT: Counts when the active case actually satisfies this definition: worth, importance, usefulness, price, or a measured amount.
+  LIMIT: value must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V003 variable | FOR,DIG | role: ordinary or relational source sense; occurrence 1 of 2 for variable
+  INV: Variable is changeable structure; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for variable.
+  COUNT: Counts when the active case actually satisfies this definition: something that can change or take different values.
+  LIMIT: variable marks change within a frame; it does not by itself identify the cause or preserve identity.
+V004 variation | FOR,LIN
+  INV: Variation marks difference inside a pattern field.
+  COUNT: Counts when the active case actually satisfies this definition: a difference, change, or version of something.
+  LIMIT: variation marks change within a frame; it does not by itself identify the cause or preserve identity.
+V005 variety | REL
+  INV: Variety preserves multiple forms inside a field.
+  COUNT: Counts when the active case actually satisfies this definition: a range of different kinds or types.
+V006 vast | FOR
+  INV: Vast marks large-scale field.
+  COUNT: Counts when the active case actually satisfies this definition: very large in size, amount, or extent.
+V007 vehicle | PHY,LIN | role: ordinary or relational source sense; occurrence 1 of 2 for vehicle
+  INV: Vehicle is carrier ES; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for vehicle.
+  COUNT: Counts when the active case actually satisfies this definition: a machine or means used for transport, or a medium for carrying something.
+V008 version | DIG,LIN | role: ordinary or relational source sense; occurrence 1 of 2 for version
+  INV: Version is state of a pattern across change; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for version.
+  COUNT: Counts when the active case actually satisfies this definition: a particular form, copy, edition, or account of something.
+  LIMIT: version marks change within a frame; it does not by itself identify the cause or preserve identity.
+V009 very | FOR
+  INV: Very increases intensity.
+  COUNT: Counts when the active case actually satisfies this definition: to a high degree.
+V010 vessel | FOR,BIO | role: ordinary or relational source sense; occurrence 1 of 2 for vessel
+  INV: Vessel is carrier or support ES; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for vessel.
+  COUNT: Counts when the active case actually satisfies this definition: a container, ship, body, or structure that carries something.
+  LIMIT: vessel carries or supports something without automatically becoming the identity of what it carries.
+V011 view | COG,LIN | role: ordinary or relational source sense; occurrence 1 of 2 for view
+  INV: View is perspective-field; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for view.
+  COUNT: Counts when the active case actually satisfies this definition: a way of seeing, an opinion, or what can be seen from a place.
+  LIMIT: view describes access or perspective, not the totality of what exists.
+V012 visible | COG,PHY
+  INV: Visible means available to recognition through sight or display.
+  COUNT: Counts when the active case actually satisfies this definition: able to be seen or noticed.
+  LIMIT: visible describes access or perspective, not the totality of what exists.
+V013 vision | COG,REL
+  INV: vision preserves the distinction among its declared senses: The ability to see, an imagined future, or a guiding idea.
+  COUNT: Counts when the active case actually satisfies this definition: the ability to see, an imagined future, or a guiding idea.
+  LIMIT: vision describes access or perspective, not the totality of what exists.
+V014 visit | REL
+  INV: Visit is temporary presence in a field.
+  COUNT: Counts when the active case actually satisfies this definition: to go see a person or place for a time.
+V015 voice | LIN,REL | role: ordinary or relational source sense; occurrence 1 of 2 for voice
+  INV: Voice is expression path; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for voice.
+  COUNT: Counts when the active case actually satisfies this definition: sound made in speaking, a way of expression, or the ability to be heard.
+  LIMIT: voice concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V016 volume | PHY,LIN | role: ordinary or relational source sense; occurrence 1 of 2 for volume
+  INV: volume preserves the distinction among its declared senses: Amount of space, loudness, or a book in a series; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for volume.
+  COUNT: Counts when the active case actually satisfies this definition: amount of space, loudness, or a book in a series.
+V017 vote | REL
+  INV: Vote is decision-signal in a group field.
+  COUNT: Counts when the active case actually satisfies this definition: a formal choice or expression of preference.
+V018 vulnerable | REL,BIO
+  INV: Vulnerable means protection needs are higher because harm paths are easier to open.
+  COUNT: Counts when the active case actually satisfies this definition: open to harm, injury, attack, or emotional risk.
+  LIMIT: vulnerable names an open harm path, not weakness of worth or permission to control.
+V019 verify | FOR,LIN | role: ordinary or relational source sense; occurrence 1 of 2 for verify
+  INV: Verify sends a claim through evidence and domain gates; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for verify.
+  COUNT: Counts when the active case actually satisfies this definition: to check or confirm that something is true, accurate, or valid.
+  LIMIT: verify remains local to the evidence, authority, and domain used to establish it.
+V020 vertical | PHY | role: ordinary or relational source sense; occurrence 1 of 2 for vertical
+  INV: Vertical marks orientation in a field; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for vertical.
+  COUNT: Counts when the active case actually satisfies this definition: up-and-down, upright, or at right angles to a horizontal surface.
+V021 viable | FOR
+  INV: Viable means the path has enough support to continue under active conditions.
+  COUNT: Counts when the active case actually satisfies this definition: able to work, live, succeed, or continue.
+V022 video | DIG,LIN | role: ordinary or relational source sense; occurrence 1 of 2 for video
+  INV: Video is sequence-visual record ES; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for video.
+  COUNT: Counts when the active case actually satisfies this definition: moving visual images, often with sound.
+V023 village | REL,MYT | role: ordinary or relational source sense; occurrence 1 of 2 for village
+  INV: Village is local social field; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for village.
+  COUNT: Counts when the active case actually satisfies this definition: a small community or settlement.
+V024 violence | REL,BIO | role: ordinary or relational source sense; occurrence 1 of 2 for violence
+  INV: Violence is force that harms or threatens bodily, structural, or dignity integrity; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for violence.
+  COUNT: Counts when the active case actually satisfies this definition: physical force intended to hurt, damage, or destroy; also severe destructive force.
+  LIMIT: violence requires a named harmed capacity or threatened integrity; intensity alone is not the whole ethical account.
+V025 virtue | REL,MYT
+  INV: Virtue is value-pattern in action.
+  COUNT: Counts when the active case actually satisfies this definition: a good moral quality or strength of character.
+V026 virus | BIO,DIG | role: ordinary or relational source sense; occurrence 1 of 2 for virus
+  INV: Virus is replication-through-host structure; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for virus.
+  COUNT: Counts when the active case actually satisfies this definition: a tiny infectious agent, or harmful computer code that spreads.
+  LIMIT: Biological and digital virus share host-dependent replication language but not one mechanism.
+V027 vital | BIO
+  INV: Vital marks load-bearing necessity.
+  COUNT: Counts when the active case actually satisfies this definition: necessary for life, survival, success, or function.
+V028 void | PHY,FOR | role: ordinary or relational source sense; occurrence 1 of 2 for void
+  INV: void preserves the distinction among its declared senses: Empty space, nothingness, invalid status, or a gap; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for void.
+  COUNT: Counts when the active case actually satisfies this definition: empty space, nothingness, invalid status, or a gap.
+  LIMIT: void may mean empty, null, invalid, or unsupported; the active system must declare which.
+V029 voluntary | REL,FOR
+  INV: Voluntary means permission is open and pressure has not captured the gate.
+  COUNT: Counts when the active case actually satisfies this definition: done by choice, without force.
+  LIMIT: voluntary is not valid where refusal, exit, or consequence-free nonparticipation is unavailable.
+V030 volunteer | REL
+  INV: Volunteer opens support by choice.
+  COUNT: Counts when the active case actually satisfies this definition: a person who offers help freely, or the act of offering.
+  LIMIT: volunteer is not valid where refusal, exit, or consequence-free nonparticipation is unavailable.
+V031 vanish | FOR
+  INV: Vanish means a pattern leaves visibility or access.
+  COUNT: Counts when the active case actually satisfies this definition: to disappear suddenly or completely.
+V032 vague | COG | role: ordinary or relational source sense; occurrence 1 of 2 for vague
+  INV: Vague weakens gate integrity; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for vague.
+  COUNT: Counts when the active case actually satisfies this definition: unclear, imprecise, or not specific.
+V033 vanish-risk | REL
+  INV: Vanish-risk appears when visibility, trace, memory, support, or continuity may be lost.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that something may disappear, be lost, or become inaccessible.
+V034 valid-claim | FOR
+  INV: Valid-claim passes the active support gate.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that is acceptable, well-supported, or correctly formed.
+  LIMIT: valid-claim remains local to the evidence, authority, and domain used to establish it.
+V035 value-claim | FOR
+  INV: Value-claim must name the value domain: utility, price, moral worth, importance, or measurement.
+  COUNT: Counts when the active case actually satisfies this definition: a claim about worth, importance, usefulness, or price.
+  LIMIT: value-claim must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V036 variable-state | FOR | role: ordinary or relational source sense; occurrence 1 of 2 for variable-state
+  INV: Variable-state describes current changeable condition; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for variable-state.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition or value of a variable.
+  LIMIT: variable-state marks change within a frame; it does not by itself identify the cause or preserve identity.
+V037 view-state | COG
+  INV: View-state describes what a perspective currently sees, hides, emphasizes, or distorts.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a view or perspective.
+  LIMIT: view-state describes access or perspective, not the totality of what exists.
+V038 visible-state | COG
+  INV: Visible-state describes what is available to recognition.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of being visible or noticeable.
+  LIMIT: visible-state describes access or perspective, not the totality of what exists.
+V039 voice-state | LIN
+  INV: Voice-state describes expression strength, clarity, pressure, blockage, or refusal capacity.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a voice or expression.
+  LIMIT: voice-state concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V040 vulnerability | REL
+  INV: Vulnerability is open harm path.
+  COUNT: Counts when the active case actually satisfies this definition: the condition of being open to harm, injury, exposure, or attack.
+  LIMIT: vulnerability names an open harm path, not weakness of worth or permission to control.
+V041 validate | FOR
+  INV: Validate opens a validity gate by confirming support, authority, or fit.
+  COUNT: Counts when the active case actually satisfies this definition: to confirm, prove, or make something officially acceptable.
+  LIMIT: validate remains local to the evidence, authority, and domain used to establish it.
+V042 validate-claim | FOR
+  INV: Validate-claim sends an assertion through the correct domain gate and confirms support.
+  COUNT: Counts when the active case actually satisfies this definition: to confirm that a claim is valid.
+  LIMIT: validate-claim remains local to the evidence, authority, and domain used to establish it.
+V043 value-check | FOR
+  INV: Value-check tests value against purpose, domain, effect, and cost.
+  COUNT: Counts when the active case actually satisfies this definition: a review of worth, usefulness, importance, or amount.
+  LIMIT: value-check must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V044 vary | REL
+  INV: Vary marks difference across states, cases, or conditions.
+  COUNT: Counts when the active case actually satisfies this definition: to change or differ.
+V045 verify-source | FOR
+  INV: Verify-source checks origin trace.
+  COUNT: Counts when the active case actually satisfies this definition: to check where information came from.
+  LIMIT: verify-source remains local to the evidence, authority, and domain used to establish it.
+V046 verify-claim | FOR
+  INV: Verify-claim tests assertion against evidence, domain, and standard.
+  COUNT: Counts when the active case actually satisfies this definition: to check whether a claim is true or supported.
+  LIMIT: verify-claim remains local to the evidence, authority, and domain used to establish it.
+V047 view-context | COG | role: ordinary or relational source sense; occurrence 1 of 2 for view-context
+  INV: View-context brings the support field into perspective; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for view-context.
+  COUNT: Counts when the active case actually satisfies this definition: to look at or understand context.
+  LIMIT: view-context describes access or perspective, not the totality of what exists.
+V048 view-through | COG
+  INV: View-through names the perspective path.
+  COUNT: Counts when the active case actually satisfies this definition: to look through a lens, frame, medium, or perspective.
+  LIMIT: view-through describes access or perspective, not the totality of what exists.
+V049 voice-concern | LIN
+  INV: Voice-concern brings risk or discomfort into recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to express worry, objection, or concern.
+  LIMIT: voice-concern concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V050 voice-refusal | LIN
+  INV: Voice-refusal makes the closed gate visible.
+  COUNT: Counts when the active case actually satisfies this definition: to express refusal aloud or clearly.
+  LIMIT: voice-refusal concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V051 voice-support | LIN
+  INV: Voice-support sends relation or approval signal into the field.
+  COUNT: Counts when the active case actually satisfies this definition: to express support.
+  LIMIT: voice-support concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V052 visit-place | REL
+  INV: Visit-place creates temporary relation with a location field.
+  COUNT: Counts when the active case actually satisfies this definition: to go to a place for a time.
+V053 visualize | COG
+  INV: Visualize creates image-structure for recognition.
+  COUNT: Counts when the active case actually satisfies this definition: to form a mental image or create a visual representation.
+V054 volume-up | PHY
+  INV: Volume-up increases signal intensity or amount.
+  COUNT: Counts when the active case actually satisfies this definition: to increase loudness or volume.
+V055 volume-down | PHY
+  INV: Volume-down lowers signal intensity or amount.
+  COUNT: Counts when the active case actually satisfies this definition: to reduce loudness or volume.
+V056 vote-on | REL
+  INV: Vote-on applies group choice to a selected issue.
+  COUNT: Counts when the active case actually satisfies this definition: to make a decision by voting about something.
+V057 volunteer-help | REL
+  INV: Volunteer-help opens support by choice.
+  COUNT: Counts when the active case actually satisfies this definition: to offer help freely.
+  LIMIT: volunteer-help is not valid where refusal, exit, or consequence-free nonparticipation is unavailable.
+V058 vanish-from | REL
+  INV: Vanish-from means a pattern left visibility or access in a specific field.
+  COUNT: Counts when the active case actually satisfies this definition: to disappear from a place, record, or field.
+V059 vary-by | REL
+  INV: Vary-by names the variable controlling difference.
+  COUNT: Counts when the active case actually satisfies this definition: to differ according to a condition or factor.
+V060 version-check | DIG
+  INV: Version-check protects continuity and update integrity by identifying which state is active.
+  COUNT: Counts when the active case actually satisfies this definition: a review to identify or confirm a version.
+  LIMIT: version-check marks change within a frame; it does not by itself identify the cause or preserve identity.
+V061 verify-context | FOR
+  INV: Verify-context protects meaning from fragment drift, false framing, and wrong-domain use.
+  COUNT: Counts when the active case actually satisfies this definition: to check the surrounding information needed for meaning.
+  LIMIT: verify-context remains local to the evidence, authority, and domain used to establish it.
+V062 verify-record | FOR
+  INV: Verify-record tests memory ES for trace, completeness, source, and integrity.
+  COUNT: Counts when the active case actually satisfies this definition: to check a record for accuracy or truth.
+  LIMIT: verify-record remains local to the evidence, authority, and domain used to establish it.
+V063 view-pattern | COG
+  INV: View-pattern brings repeated structure into perspective.
+  COUNT: Counts when the active case actually satisfies this definition: to look at or recognize a pattern.
+  LIMIT: view-pattern describes access or perspective, not the totality of what exists.
+V064 view-risk | COG | role: ordinary or relational source sense; occurrence 1 of 3 for view-risk
+  INV: View-risk brings possible failure paths into perspective; here it serves as the ordinary or relational source sense; occurrence 1 of 3 for view-risk.
+  COUNT: Counts when the active case actually satisfies this definition: to look at, assess, or consider risk.
+  LIMIT: view-risk describes access or perspective, not the totality of what exists.
+V065 voice-boundary | LIN | role: ordinary or relational source sense; occurrence 1 of 2 for voice-boundary
+  INV: Voice-boundary makes a gate limit visible; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for voice-boundary.
+  COUNT: Counts when the active case actually satisfies this definition: to express a boundary.
+  LIMIT: voice-boundary concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V066 voice-truth | LIN
+  INV: Voice-truth moves reality-aligned recognition into expression.
+  COUNT: Counts when the active case actually satisfies this definition: to express truth aloud or clearly.
+  LIMIT: voice-truth concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V067 visualize-path | COG
+  INV: Visualize-path creates route representation.
+  COUNT: Counts when the active case actually satisfies this definition: to imagine or represent a path visually.
+V068 value-through | FOR
+  INV: Value-through names the value path.
+  COUNT: Counts when the active case actually satisfies this definition: to value by means of a relation, method, or effect.
+  LIMIT: value-through must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V069 validate-with-domain | FOR
+  INV: Validate-with-domain prevents category error.
+  COUNT: Counts when the active case actually satisfies this definition: to validate something according to the correct domain.
+  LIMIT: validate-with-domain remains local to the evidence, authority, and domain used to establish it.
+V070 verify-with-evidence | FOR
+  INV: Verify-with-evidence grounds recognition in support, not assertion alone.
+  COUNT: Counts when the active case actually satisfies this definition: to confirm something using evidence.
+  LIMIT: verify-with-evidence remains local to the evidence, authority, and domain used to establish it.
+V071 vessel-support | FOR | role: ordinary or relational source sense; occurrence 1 of 2 for vessel-support
+  INV: Vessel-support is ES that helps a carrier hold, protect, or express what it carries; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for vessel-support.
+  COUNT: Counts when the active case actually satisfies this definition: support provided by or for a vessel, container, body, or carrier.
+  LIMIT: vessel-support carries or supports something without automatically becoming the identity of what it carries.
+V072 void-out | FOR
+  INV: Void-out removes validity, presence, or content from a field.
+  COUNT: Counts when the active case actually satisfies this definition: to cancel, erase, empty, invalidate, or make void.
+  LIMIT: void-out may mean empty, null, invalid, or unsupported; the active system must declare which.
+V073 visit-context | REL
+  INV: Visit-context explains temporary presence in a field.
+  COUNT: Counts when the active case actually satisfies this definition: the context surrounding a visit.
+V074 vary-state | REL
+  INV: Vary-state marks changing condition across cases, time, or pressure.
+  COUNT: Counts when the active case actually satisfies this definition: to change or differ in condition.
+V075 vote-with-care | REL
+  INV: Vote-with-care treats group decision as responsibility, not only preference.
+  COUNT: Counts when the active case actually satisfies this definition: to vote with attention to effect, fairness, and responsibility.
+V076 volunteer-with-boundary | REL
+  INV: Volunteer-with-boundary preserves support without turning help into extraction or forced duty.
+  COUNT: Counts when the active case actually satisfies this definition: to offer help freely while keeping limits clear.
+  LIMIT: volunteer-with-boundary is not valid where refusal, exit, or consequence-free nonparticipation is unavailable.
+V077 value-with-boundary | FOR
+  INV: Value-with-boundary recognizes worth without claiming ownership, control, or unlimited access.
+  COUNT: Counts when the active case actually satisfies this definition: to value something while respecting limits.
+  LIMIT: value-with-boundary must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V078 verify-before | FOR
+  INV: Verify-before protects truth, repair, and trust before a gate closes around action.
+  COUNT: Counts when the active case actually satisfies this definition: to check before acting, sharing, deciding, or claiming.
+  LIMIT: verify-before remains local to the evidence, authority, and domain used to establish it.
+V079 view-from | COG
+  INV: View-from names the observer frame.
+  COUNT: Counts when the active case actually satisfies this definition: to see or understand from a particular position or perspective.
+  LIMIT: view-from describes access or perspective, not the totality of what exists.
+V080 voice-with-care | LIN
+  INV: Voice-with-care lets truth, concern, refusal, or support enter recognition without unnecessary dignity harm.
+  COUNT: Counts when the active case actually satisfies this definition: to express something with care, respect, and attention to effect.
+  LIMIT: voice-with-care concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V081 value-care | FOR
+  INV: Value-care preserves what matters.
+  COUNT: Counts when the active case actually satisfies this definition: care shown by recognizing worth, importance, or need.
+  LIMIT: value-care must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V082 value-respect | FOR
+  INV: Value-respect lets worth count without reducing the pattern to price or use.
+  COUNT: Counts when the active case actually satisfies this definition: respect for worth, importance, or value.
+  LIMIT: value-respect must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V083 value-risk | FOR | role: ordinary or relational source sense; occurrence 1 of 2 for value-risk
+  INV: Value-risk appears when one value gate overrides another, such as utility over dignity or price over memory; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for value-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that value may be misread, denied, inflated, or reduced to usefulness.
+  LIMIT: value-risk must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V084 valid-refusal | FOR
+  INV: Valid-refusal closes the gate with authority.
+  COUNT: Counts when the active case actually satisfies this definition: a refusal that is legitimate and should count.
+  LIMIT: valid-refusal remains local to the evidence, authority, and domain used to establish it.
+V085 valid-boundary | FOR
+  INV: Valid-boundary protects consent, dignity, privacy, or capacity.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary that is legitimate and should be respected.
+  LIMIT: valid-boundary remains local to the evidence, authority, and domain used to establish it.
+V086 valid-care | FOR
+  INV: Valid-care supports the actual pattern rather than the giver’s fantasy of help.
+  COUNT: Counts when the active case actually satisfies this definition: care that is appropriate, real, and fit to the need.
+  LIMIT: valid-care remains local to the evidence, authority, and domain used to establish it.
+V087 vulnerable-care | REL
+  INV: Vulnerable-care protects open harm paths with proportional support, dignity, and boundary awareness.
+  COUNT: Counts when the active case actually satisfies this definition: care given to someone or something vulnerable.
+  LIMIT: vulnerable-care names an open harm path, not weakness of worth or permission to control.
+V088 vulnerable-boundary | REL
+  INV: Vulnerable-boundary protects exposed state from pressure, exploitation, or forced visibility.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary around vulnerability or vulnerable conditions.
+  LIMIT: vulnerable-boundary names an open harm path, not weakness of worth or permission to control.
+V089 vulnerability-care | REL
+  INV: Vulnerability-care names the open harm path and provides support without taking ownership of the vulnerable pattern.
+  COUNT: Counts when the active case actually satisfies this definition: care that responds to vulnerability.
+  LIMIT: vulnerability-care names an open harm path, not weakness of worth or permission to control.
+V090 vulnerability-risk | REL | role: ordinary or relational source sense; occurrence 1 of 2 for vulnerability-risk
+  INV: Vulnerability-risk appears when an open harm path may be used, exposed, ignored, or worsened; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for vulnerability-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger created by vulnerability.
+  LIMIT: vulnerability-risk names an open harm path, not weakness of worth or permission to control.
+V091 voice-care | LIN
+  INV: Voice-care protects expression as a path for truth, refusal, testimony, and identity.
+  COUNT: Counts when the active case actually satisfies this definition: care shown by listening to, protecting, or giving voice.
+  LIMIT: voice-care concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V092 voice-boundary | LIN | role: ordinary or relational source sense; occurrence 2 of 2 for voice-boundary
+  INV: Voice-boundary protects expression from capture, distortion, exposure, or forced performance; here it serves as the ordinary or relational source sense; occurrence 2 of 2 for voice-boundary.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary around speech, expression, or being heard.
+  LIMIT: voice-boundary concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V093 voice-harm | LIN
+  INV: Voice-harm damages expression integrity, dignity, recognition, or repair.
+  COUNT: Counts when the active case actually satisfies this definition: harm caused by silencing, distorting, mocking, or misusing someone’s voice.
+  LIMIT: voice-harm concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V094 voice-respect | LIN
+  INV: Voice-respect lets expression count without capture.
+  COUNT: Counts when the active case actually satisfies this definition: respect for someone’s expression, speech, or right to be heard.
+  LIMIT: voice-respect concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V095 visible-care | COG
+  INV: Visible-care enters recognition easily, but visibility is not what makes care real.
+  COUNT: Counts when the active case actually satisfies this definition: care that is seen, shown, or made visible.
+  LIMIT: visible-care describes access or perspective, not the totality of what exists.
+V096 visible-harm | COG
+  INV: Visible-harm is damage already available to recognition.
+  COUNT: Counts when the active case actually satisfies this definition: harm that is seen or easy to recognize.
+  LIMIT: visible-harm describes access or perspective, not the totality of what exists.
+V097 unseen-visible-shift | REL
+  INV: Unseen-visible-shift changes recognition state.
+  COUNT: Counts when the active case actually satisfies this definition: a change where something moves from unseen to visible.
+V098 visit-care | REL
+  INV: Visit-care uses temporary presence as support.
+  COUNT: Counts when the active case actually satisfies this definition: care shown by visiting or being present.
+V099 visit-boundary | REL
+  INV: Visit-boundary protects space, capacity, privacy, and recovery.
+  COUNT: Counts when the active case actually satisfies this definition: a limit around visits, presence, or access to a place or person.
+V100 volunteer-care | REL
+  INV: Volunteer-care provides chosen support.
+  COUNT: Counts when the active case actually satisfies this definition: care given freely through volunteer action.
+  LIMIT: volunteer-care is not valid where refusal, exit, or consequence-free nonparticipation is unavailable.
+V101 volunteer-risk | REL
+  INV: Volunteer-risk appears when free support may become unsafe, extractive, or mismatched to need.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that volunteering may become pressure, exploitation, failure, or overreach.
+  LIMIT: volunteer-risk is not valid where refusal, exit, or consequence-free nonparticipation is unavailable.
+V102 voluntary-consent | REL
+  INV: Voluntary-consent means the permission gate opens without capture.
+  COUNT: Counts when the active case actually satisfies this definition: consent given freely, without force or coercion.
+  LIMIT: voluntary-consent is not valid where refusal, exit, or consequence-free nonparticipation is unavailable.
+V103 voluntary-refusal | REL
+  INV: Voluntary-refusal protects permission integrity.
+  COUNT: Counts when the active case actually satisfies this definition: refusal made freely, without force or punishment.
+  LIMIT: voluntary-refusal is not valid where refusal, exit, or consequence-free nonparticipation is unavailable.
+V104 violence | REL,BIO | role: ordinary or relational source sense; occurrence 2 of 2 for violence
+  INV: Violence is force that harms or threatens bodily, structural, or dignity integrity; here it serves as the ordinary or relational source sense; occurrence 2 of 2 for violence.
+  COUNT: Counts when the active case actually satisfies this definition: physical force intended to hurt, damage, or destroy; also severe destructive force.
+  LIMIT: violence requires a named harmed capacity or threatened integrity; intensity alone is not the whole ethical account.
+V105 violence-harm | REL
+  INV: Violence-harm damages body, structure, dignity, trust, or continuity through force.
+  COUNT: Counts when the active case actually satisfies this definition: harm caused by violence.
+  LIMIT: violence-harm requires a named harmed capacity or threatened integrity; intensity alone is not the whole ethical account.
+V106 violence-risk | REL | role: ordinary or relational source sense; occurrence 1 of 2 for violence-risk
+  INV: Violence-risk appears when force may impair body, safety, dignity, boundary, or survival; here it serves as the ordinary or relational source sense; occurrence 1 of 2 for violence-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that violence may happen or escalate.
+  LIMIT: violence-risk requires a named harmed capacity or threatened integrity; intensity alone is not the whole ethical account.
+V107 violence-boundary | REL
+  INV: Violence-boundary protects against force-based harm.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary set to prevent or limit violence.
+  LIMIT: violence-boundary requires a named harmed capacity or threatened integrity; intensity alone is not the whole ethical account.
+V108 victim | BIO
+  INV: Victim marks harmed subject-position.
+  COUNT: Counts when the active case actually satisfies this definition: a person or being harmed, injured, exploited, or killed by another force, event, or action.
+V109 victim-care | BIO
+  INV: Victim-care protects dignity, safety, testimony, boundary, and repair after harm.
+  COUNT: Counts when the active case actually satisfies this definition: care given to a victim.
+V110 victim-harm | BIO
+  INV: Victim-harm happens when response to harm creates new damage to dignity, safety, recognition, or repair.
+  COUNT: Counts when the active case actually satisfies this definition: additional harm caused to a victim, often through blame, exposure, denial, or neglect.
+V111 victim-respect | BIO
+  INV: Victim-respect keeps the harmed subject from being reduced to evidence, spectacle, or blame target.
+  COUNT: Counts when the active case actually satisfies this definition: respect for a victim’s dignity, agency, privacy, and account.
+V112 virtue-care | REL
+  INV: Virtue-care is value-pattern expressed through action.
+  COUNT: Counts when the active case actually satisfies this definition: care guided by good moral qualities.
+V113 value-with-care | FOR
+  INV: Value-with-care recognizes worth while protecting boundary, context, and dignity.
+  COUNT: Counts when the active case actually satisfies this definition: to value something or someone carefully and respectfully.
+  LIMIT: value-with-care must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V114 view-respect | COG
+  INV: View-respect lets perspective enter recognition without requiring automatic agreement.
+  COUNT: Counts when the active case actually satisfies this definition: respect for another view or perspective.
+  LIMIT: view-respect describes access or perspective, not the totality of what exists.
+V115 view-boundary | COG
+  INV: View-boundary protects perspective, privacy, and access.
+  COUNT: Counts when the active case actually satisfies this definition: a limit around perspective, opinion, watching, or access to view something.
+  LIMIT: view-boundary describes access or perspective, not the totality of what exists.
+V116 viewpoint-care | COG
+  INV: Viewpoint-care protects multi-perspective recognition.
+  COUNT: Counts when the active case actually satisfies this definition: care shown by preserving or considering someone’s viewpoint.
+  LIMIT: viewpoint-care describes access or perspective, not the totality of what exists.
+V117 viewpoint-risk | COG
+  INV: Viewpoint-risk appears when perspective is captured, suppressed, or mistaken for total truth.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that a viewpoint may distort, dominate, or be erased.
+  LIMIT: viewpoint-risk describes access or perspective, not the totality of what exists.
+V118 village-care | REL
+  INV: Village-care distributes support through local relation.
+  COUNT: Counts when the active case actually satisfies this definition: care provided by a community or local group.
+V119 village-trust | REL
+  INV: Village-trust is local social coherence.
+  COUNT: Counts when the active case actually satisfies this definition: trust within a village or close community.
+V120 village-boundary | REL
+  INV: Village-boundary protects local identity, access, resources, and belonging.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary around a village, community, or local group.
+V121 voice-without-pressure | LIN
+  INV: Voice-without-pressure keeps expression clean.
+  COUNT: Counts when the active case actually satisfies this definition: to express something without forcing agreement, response, or exposure.
+  LIMIT: voice-without-pressure concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V122 valid-consent | FOR
+  INV: Valid-consent means the permission gate opens cleanly.
+  COUNT: Counts when the active case actually satisfies this definition: consent that is real, informed, voluntary, and properly scoped.
+  LIMIT: valid-consent remains local to the evidence, authority, and domain used to establish it.
+V123 vague-pressure | COG
+  INV: Vague-pressure can capture choice without naming the actual gate.
+  COUNT: Counts when the active case actually satisfies this definition: pressure created by unclear, indirect, or poorly defined demands.
+V124 vulnerable-trust | REL
+  INV: Vulnerable-trust requires extra care because betrayal or pressure can cause deeper harm.
+  COUNT: Counts when the active case actually satisfies this definition: trust given while vulnerable or exposed.
+  LIMIT: vulnerable-trust names an open harm path, not weakness of worth or permission to control.
+V125 vessel-care | FOR
+  INV: Vessel-care preserves the support that carries expression, life, memory, or relation.
+  COUNT: Counts when the active case actually satisfies this definition: care for a vessel, body, container, or carrier.
+  LIMIT: vessel-care carries or supports something without automatically becoming the identity of what it carries.
+V126 vessel-boundary | FOR
+  INV: Vessel-boundary protects what the vessel carries.
+  COUNT: Counts when the active case actually satisfies this definition: a boundary around a vessel, body, container, or carrier.
+  LIMIT: vessel-boundary carries or supports something without automatically becoming the identity of what it carries.
+V127 vessel-risk | FOR
+  INV: Vessel-risk appears when carrier ES may fail or be mistaken for identity totality.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that a vessel may be damaged, misread, overidentified, or treated as the whole self.
+  LIMIT: vessel-risk carries or supports something without automatically becoming the identity of what it carries.
+V128 voluntary-care | REL
+  INV: Voluntary-care is chosen support.
+  COUNT: Counts when the active case actually satisfies this definition: care given freely by choice.
+  LIMIT: voluntary-care is not valid where refusal, exit, or consequence-free nonparticipation is unavailable.
+V129 violation | REL
+  INV: Violation means a gate was crossed invalidly.
+  COUNT: Counts when the active case actually satisfies this definition: a breach of a rule, boundary, right, or trust.
+V130 violation-repair | REL
+  INV: Violation-repair must address the crossed gate, the damage caused, and the future prevention path.
+  COUNT: Counts when the active case actually satisfies this definition: repair after a violation.
+V131 vague | COG | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for vague
+  INV: Vague weakens gate integrity; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for vague.
+  COUNT: Counts when the active case actually satisfies this definition: unclear, imprecise, or not specific.
+V132 vague-claim | COG
+  INV: Vague-claim cannot be tested cleanly.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that is unclear or not specific enough.
+V133 vague-meaning | COG
+  INV: Vague-meaning allows semantic drift.
+  COUNT: Counts when the active case actually satisfies this definition: meaning that is unclear, loose, or imprecise.
+V134 valid | FOR | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for valid
+  INV: Valid means a claim, action, or state passes the active gate; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for valid.
+  COUNT: Counts when the active case actually satisfies this definition: acceptable, true enough, well-founded, or meeting the required conditions.
+  LIMIT: valid remains local to the evidence, authority, and domain used to establish it.
+V135 valid-meaning | FOR
+  INV: Valid-meaning passes the context and domain gate.
+  COUNT: Counts when the active case actually satisfies this definition: a meaning that is acceptable or correct in context.
+  LIMIT: valid-meaning remains local to the evidence, authority, and domain used to establish it.
+V136 valid-proof | FOR
+  INV: Valid-proof fits the claim, domain, and standard.
+  COUNT: Counts when the active case actually satisfies this definition: proof that properly supports a claim.
+  LIMIT: valid-proof remains local to the evidence, authority, and domain used to establish it.
+V137 validity | FOR
+  INV: Validity is gate-fit integrity.
+  COUNT: Counts when the active case actually satisfies this definition: the quality of being valid, sound, acceptable, or well-supported.
+  LIMIT: validity remains local to the evidence, authority, and domain used to establish it.
+V138 value | FOR,REL | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for value
+  INV: value preserves the distinction among its declared senses: Worth, importance, usefulness, price, or measured amount; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for value.
+  COUNT: Counts when the active case actually satisfies this definition: worth, importance, usefulness, price, or measured amount.
+  LIMIT: value must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V139 value-meaning | FOR
+  INV: Value-meaning depends on the value gate.
+  COUNT: Counts when the active case actually satisfies this definition: the meaning carried by value, worth, or importance.
+  LIMIT: value-meaning must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V140 value-language | FOR
+  INV: Value-language must name the value domain.
+  COUNT: Counts when the active case actually satisfies this definition: language used to describe worth, importance, usefulness, or moral weight.
+  LIMIT: value-language must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V141 variable | FOR,DIG | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for variable
+  INV: Variable is changeable structure; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for variable.
+  COUNT: Counts when the active case actually satisfies this definition: something that can change or take different values.
+  LIMIT: variable marks change within a frame; it does not by itself identify the cause or preserve identity.
+V142 variable-meaning | FOR
+  INV: Variable-meaning requires domain tracking.
+  COUNT: Counts when the active case actually satisfies this definition: meaning that changes depending on context or conditions.
+  LIMIT: variable-meaning marks change within a frame; it does not by itself identify the cause or preserve identity.
+V143 variation-meaning | FOR
+  INV: Variation-meaning appears when differences reveal drift, adaptation, identity, or field conditions.
+  COUNT: Counts when the active case actually satisfies this definition: meaning created by difference or variation.
+  LIMIT: variation-meaning marks change within a frame; it does not by itself identify the cause or preserve identity.
+V144 version | DIG,LIN | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for version
+  INV: Version is state of a pattern across change; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for version.
+  COUNT: Counts when the active case actually satisfies this definition: a particular form, copy, edition, or account of something.
+  LIMIT: version marks change within a frame; it does not by itself identify the cause or preserve identity.
+V145 version-context | DIG
+  INV: Version-context preserves sequence and update integrity.
+  COUNT: Counts when the active case actually satisfies this definition: context needed to understand which version is active.
+  LIMIT: version-context marks change within a frame; it does not by itself identify the cause or preserve identity.
+V146 verify | FOR,LIN | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for verify
+  INV: Verify sends a claim through evidence and domain gates; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for verify.
+  COUNT: Counts when the active case actually satisfies this definition: to check or confirm that something is true, accurate, or valid.
+  LIMIT: verify remains local to the evidence, authority, and domain used to establish it.
+V147 verification | FOR
+  INV: Verification is proof-path process.
+  COUNT: Counts when the active case actually satisfies this definition: the process of checking or confirming truth, accuracy, or validity.
+  LIMIT: verification remains local to the evidence, authority, and domain used to establish it.
+V148 verification-risk | FOR | role: linguistic and claim-analysis anchor; occurrence 1 of 2 for verification-risk
+  INV: Verification-risk appears when the proof gate may deny valid patterns or accept invalid ones; here it serves as the linguistic and claim-analysis anchor; occurrence 1 of 2 for verification-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that verification may fail, be wrong, be incomplete, or use the wrong test.
+  LIMIT: verification-risk remains local to the evidence, authority, and domain used to establish it.
+V149 view | COG,LIN | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for view
+  INV: View is perspective-field; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for view.
+  COUNT: Counts when the active case actually satisfies this definition: a way of seeing, an opinion, or what can be seen from a place.
+  LIMIT: view describes access or perspective, not the totality of what exists.
+V150 view-claim | COG
+  INV: View-claim should name the observer frame.
+  COUNT: Counts when the active case actually satisfies this definition: a claim made from or about a view or perspective.
+  LIMIT: view-claim describes access or perspective, not the totality of what exists.
+V151 view-context | COG | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for view-context
+  INV: View-context shows what the perspective can see, miss, emphasize, or distort; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for view-context.
+  COUNT: Counts when the active case actually satisfies this definition: context needed to understand a view.
+  LIMIT: view-context describes access or perspective, not the totality of what exists.
+V152 viewpoint | COG
+  INV: Viewpoint is observer position in a meaning field.
+  COUNT: Counts when the active case actually satisfies this definition: a point of view or perspective.
+  LIMIT: viewpoint describes access or perspective, not the totality of what exists.
+V153 viewpoint-claim | COG
+  INV: Viewpoint-claim must preserve frame, limits, and relation to other perspectives.
+  COUNT: Counts when the active case actually satisfies this definition: a claim made from a particular viewpoint.
+  LIMIT: viewpoint-claim describes access or perspective, not the totality of what exists.
+V154 visible-claim | COG
+  INV: Visible-claim depends on display, angle, context, and receiver.
+  COUNT: Counts when the active case actually satisfies this definition: a claim about what can be seen or noticed.
+  LIMIT: visible-claim describes access or perspective, not the totality of what exists.
+V155 visible-context | COG
+  INV: Visible-context supports recognition of displayed structure.
+  COUNT: Counts when the active case actually satisfies this definition: context that is visible or needed to understand what is visible.
+  LIMIT: visible-context describes access or perspective, not the totality of what exists.
+V156 vision-claim | COG
+  INV: Vision-claim must bind the meaning of vision: sight, future model, purpose, or guiding frame.
+  COUNT: Counts when the active case actually satisfies this definition: a claim about sight, future plan, or guiding idea.
+  LIMIT: vision-claim describes access or perspective, not the totality of what exists.
+V157 voice | LIN,REL | role: linguistic and claim-analysis anchor; occurrence 2 of 2 for voice
+  INV: Voice is expression path; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 2 for voice.
+  COUNT: Counts when the active case actually satisfies this definition: sound made in speaking, a way of expression, or the ability to be heard.
+  LIMIT: voice concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V158 voice-meaning | LIN
+  INV: Voice-meaning forms through signal, tone, rhythm, context, and recognition.
+  COUNT: Counts when the active case actually satisfies this definition: meaning carried by voice or expression.
+  LIMIT: voice-meaning concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V159 voiced-claim | LIN
+  INV: Voiced-claim brings assertion into expression.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that has been spoken or expressed.
+  LIMIT: voiced-claim concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V160 volume-meaning | PHY
+  INV: Volume-meaning depends on context.
+  COUNT: Counts when the active case actually satisfies this definition: meaning carried by loudness, amount, or volume.
+V161 vote-claim | REL
+  INV: Vote-claim must show count, access, fairness, scope, and what the vote actually decided.
+  COUNT: Counts when the active case actually satisfies this definition: a claim made through or about a vote.
+V162 void-claim | FOR
+  INV: Void-claim must name the field: empty space, invalid status, missing support, or null condition.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that something is empty, invalid, null, or absent.
+  LIMIT: void-claim may mean empty, null, invalid, or unsupported; the active system must declare which.
+V163 vocabulary | LIN
+  INV: Vocabulary is word-support ES.
+  COUNT: Counts when the active case actually satisfies this definition: the words known or used by a person, group, field, or language.
+V164 vocabulary-risk | LIN
+  INV: Vocabulary-risk appears when meaning tools fail to preserve domain, scope, or distinction.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that vocabulary may be missing, vague, misleading, or misused.
+V165 verb | LIN
+  INV: Verb is action or state language.
+  COUNT: Counts when the active case actually satisfies this definition: a word that shows action, being, or state.
+V166 verb-meaning | LIN
+  INV: Verb-meaning controls process recognition.
+  COUNT: Counts when the active case actually satisfies this definition: the meaning carried by a verb.
+V167 verbal | LIN
+  INV: Verbal means carried through language signal.
+  COUNT: Counts when the active case actually satisfies this definition: related to words or speech.
+V168 verbal-claim | LIN
+  INV: Verbal-claim should preserve speaker, wording, context, and trace when stakes are high.
+  COUNT: Counts when the active case actually satisfies this definition: a claim made through speech or words.
+V169 vessel-meaning | FOR
+  INV: Vessel-meaning comes from what the carrier holds, supports, remembers, or expresses.
+  COUNT: Counts when the active case actually satisfies this definition: meaning carried by a vessel, body, container, or carrier.
+  LIMIT: vessel-meaning carries or supports something without automatically becoming the identity of what it carries.
+V170 vulnerable-claim | REL
+  INV: Vulnerable-claim requires care because pressure, exposure, or disbelief can cause secondary harm.
+  COUNT: Counts when the active case actually satisfies this definition: a claim made from vulnerability or about vulnerability.
+  LIMIT: vulnerable-claim names an open harm path, not weakness of worth or permission to control.
+V171 valid-context | FOR
+  INV: Valid-context lets recognition pass cleanly.
+  COUNT: Counts when the active case actually satisfies this definition: context that correctly supports meaning, judgment, or action.
+  LIMIT: valid-context remains local to the evidence, authority, and domain used to establish it.
+V172 validity-risk | FOR | role: linguistic and claim-analysis anchor; occurrence 1 of 2 for validity-risk
+  INV: Validity-risk appears when gate-fit is uncertain, corrupted, or wrong-domain; here it serves as the linguistic and claim-analysis anchor; occurrence 1 of 2 for validity-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that something may not be valid or may be judged by the wrong standard.
+  LIMIT: validity-risk remains local to the evidence, authority, and domain used to establish it.
+V173 value-context | FOR
+  INV: Value-context identifies the value gate: memory, utility, price, dignity, beauty, or function.
+  COUNT: Counts when the active case actually satisfies this definition: context needed to understand value or worth.
+  LIMIT: value-context must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V174 variable-claim | FOR
+  INV: Variable-claim should name the variable, range, measurement, and effect path.
+  COUNT: Counts when the active case actually satisfies this definition: a claim about a variable or changing factor.
+  LIMIT: variable-claim marks change within a frame; it does not by itself identify the cause or preserve identity.
+V175 variation-claim | FOR
+  INV: Variation-claim must show what differs, by what factor, and whether the difference is signal, drift, or noise.
+  COUNT: Counts when the active case actually satisfies this definition: a claim about difference or variation.
+  LIMIT: variation-claim marks change within a frame; it does not by itself identify the cause or preserve identity.
+V176 version-claim | DIG
+  INV: Version-claim must preserve sequence, date, source, and relation to other versions.
+  COUNT: Counts when the active case actually satisfies this definition: a claim about a version, copy, edition, or state.
+  LIMIT: version-claim marks change within a frame; it does not by itself identify the cause or preserve identity.
+V177 verified-claim | FOR
+  INV: Verified-claim has passed a proof gate, but the proof gate still has domain and scope limits.
+  COUNT: Counts when the active case actually satisfies this definition: a claim that has been checked and confirmed.
+  LIMIT: verified-claim remains local to the evidence, authority, and domain used to establish it.
+V178 view-risk | COG | role: linguistic and claim-analysis anchor; occurrence 2 of 3 for view-risk
+  INV: View-risk appears when one perspective captures the recognition field; here it serves as the linguistic and claim-analysis anchor; occurrence 2 of 3 for view-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that a view may distort, exclude, dominate, or be mistaken for total truth.
+  LIMIT: view-risk describes access or perspective, not the totality of what exists.
+V179 voice-context | LIN
+  INV: Voice-context protects expression from misread.
+  COUNT: Counts when the active case actually satisfies this definition: context needed to understand voice or expression.
+  LIMIT: voice-context concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V180 void-meaning | FOR
+  INV: Void-meaning depends on field and absence relation.
+  COUNT: Counts when the active case actually satisfies this definition: meaning carried by emptiness, absence, invalidity, or a gap.
+  LIMIT: void-meaning may mean empty, null, invalid, or unsupported; the active system must declare which.
+V181 valley | PHY
+  INV: Valley is low-field structure.
+  COUNT: Counts when the active case actually satisfies this definition: a low area of land between hills or mountains.
+V182 valley-state | PHY
+  INV: Valley-state describes flow, access, shelter, pressure, weather, and risk inside a low-field structure.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a valley.
+V183 value-state | FOR
+  INV: Value-state depends on the active value gate: utility, price, dignity, memory, importance, or measurement.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of value, worth, usefulness, or measured amount.
+  LIMIT: value-state must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V184 variable-state | FOR | role: physical, state, or field anchor; occurrence 2 of 2 for variable-state
+  INV: Variable-state describes current changeable condition; here it serves as the physical, state, or field anchor; occurrence 2 of 2 for variable-state.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition or value of a variable.
+  LIMIT: variable-state marks change within a frame; it does not by itself identify the cause or preserve identity.
+V185 variation-state | FOR
+  INV: Variation-state describes how difference appears across a field.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of variation or difference.
+  LIMIT: variation-state marks change within a frame; it does not by itself identify the cause or preserve identity.
+V186 vehicle | PHY,LIN | role: physical, state, or field anchor; occurrence 2 of 2 for vehicle
+  INV: Vehicle is carrier ES; here it serves as the physical, state, or field anchor; occurrence 2 of 2 for vehicle.
+  COUNT: Counts when the active case actually satisfies this definition: a machine or means used for transport, or a medium for carrying something.
+V187 vehicle-state | PHY
+  INV: Vehicle-state describes carrier readiness, damage, capacity, direction, and transport risk.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a vehicle.
+V188 velocity | PHY
+  INV: Velocity is directed rate of movement.
+  COUNT: Counts when the active case actually satisfies this definition: speed in a particular direction.
+V189 velocity-state | PHY
+  INV: Velocity-state describes speed plus direction at a given moment.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of velocity.
+V190 vertical | PHY | role: physical, state, or field anchor; occurrence 2 of 2 for vertical
+  INV: Vertical marks orientation in a field; here it serves as the physical, state, or field anchor; occurrence 2 of 2 for vertical.
+  COUNT: Counts when the active case actually satisfies this definition: up-and-down, upright, or at right angles to a horizontal surface.
+V191 vertical-state | PHY
+  INV: Vertical-state describes uprightness, tilt, alignment, or position relative to a reference frame.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of vertical position or alignment.
+V192 vessel | FOR,BIO | role: physical, state, or field anchor; occurrence 2 of 2 for vessel
+  INV: Vessel is carrier or support ES; here it serves as the physical, state, or field anchor; occurrence 2 of 2 for vessel.
+  COUNT: Counts when the active case actually satisfies this definition: a container, ship, body, or structure that carries something.
+  LIMIT: vessel carries or supports something without automatically becoming the identity of what it carries.
+V193 vessel-state | PHY
+  INV: Vessel-state describes carrier integrity, capacity, boundary, contents, and risk.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a vessel.
+  LIMIT: vessel-state carries or supports something without automatically becoming the identity of what it carries.
+V194 video | DIG,LIN | role: physical, state, or field anchor; occurrence 2 of 2 for video
+  INV: Video is sequence-visual record ES; here it serves as the physical, state, or field anchor; occurrence 2 of 2 for video.
+  COUNT: Counts when the active case actually satisfies this definition: moving visual images, often with sound.
+V195 video-state | DIG
+  INV: Video-state describes record integrity, visibility, sequence, audio, and context availability.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a video.
+V196 village | REL,MYT | role: physical, state, or field anchor; occurrence 2 of 2 for village
+  INV: Village is local social field; here it serves as the physical, state, or field anchor; occurrence 2 of 2 for village.
+  COUNT: Counts when the active case actually satisfies this definition: a small community or settlement.
+V197 village-state | REL
+  INV: Village-state describes local social, physical, economic, and trust conditions.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a village.
+V198 virus | BIO,DIG | role: physical, state, or field anchor; occurrence 2 of 2 for virus
+  INV: Virus is replication-through-host structure; here it serves as the physical, state, or field anchor; occurrence 2 of 2 for virus.
+  COUNT: Counts when the active case actually satisfies this definition: a tiny infectious agent, or harmful computer code that spreads.
+  LIMIT: Biological and digital virus share host-dependent replication language but not one mechanism.
+V199 virus-state | BIO
+  INV: Virus-state describes replication, spread, containment, mutation, or damage condition.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a virus or viral spread.
+  LIMIT: Biological and digital virus-state share host-dependent replication language but not one mechanism.
+V200 visible-field | COG
+  INV: Visible-field holds what is available to recognition through sight or display.
+  COUNT: Counts when the active case actually satisfies this definition: the field of what can be seen or noticed.
+  LIMIT: visible-field describes access or perspective, not the totality of what exists.
+V201 vision-field | COG
+  INV: Vision-field must be domain-bound.
+  COUNT: Counts when the active case actually satisfies this definition: a field of sight, imagined future, or guiding idea.
+  LIMIT: vision-field describes access or perspective, not the totality of what exists.
+V202 voice-field | LIN
+  INV: Voice-field supports expression, testimony, refusal, and identity signal.
+  COUNT: Counts when the active case actually satisfies this definition: a field where voice, speech, or expression can appear.
+  LIMIT: voice-field concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V203 volume | PHY,LIN | role: physical, state, or field anchor; occurrence 2 of 2 for volume
+  INV: volume preserves the distinction among its declared senses: Amount of space, loudness, or a book in a series; here it serves as the physical, state, or field anchor; occurrence 2 of 2 for volume.
+  COUNT: Counts when the active case actually satisfies this definition: amount of space, loudness, or a book in a series.
+V204 volume-state | PHY
+  INV: Volume-state describes amount, signal intensity, capacity, or record condition depending on domain.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of volume, loudness, amount, or bounded record.
+V205 void | PHY,FOR | role: physical, state, or field anchor; occurrence 2 of 2 for void
+  INV: void preserves the distinction among its declared senses: Empty space, nothingness, invalid status, or a gap; here it serves as the physical, state, or field anchor; occurrence 2 of 2 for void.
+  COUNT: Counts when the active case actually satisfies this definition: empty space, nothingness, invalid status, or a gap.
+  LIMIT: void may mean empty, null, invalid, or unsupported; the active system must declare which.
+V206 void-state | PHY
+  INV: Void-state describes absence, invalidation, null condition, or missing support inside a field.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of emptiness, invalidity, or gap.
+  LIMIT: void-state may mean empty, null, invalid, or unsupported; the active system must declare which.
+V207 vector | FOR
+  INV: Vector is directed force, movement, or carrier path.
+  COUNT: Counts when the active case actually satisfies this definition: a quantity with direction and magnitude, or a carrier of transmission.
+V208 vector-state | FOR
+  INV: Vector-state describes current magnitude, direction, carrier condition, or transmission path.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a vector.
+V209 vertex | FOR
+  INV: Vertex is meeting-point structure.
+  COUNT: Counts when the active case actually satisfies this definition: a point where lines, edges, or sides meet.
+V210 vertex-state | FOR
+  INV: Vertex-state describes stability, angle, connection, pressure, or relation at a meeting point.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of a vertex or meeting point.
+V211 vibration | PHY
+  INV: Vibration is repeated motion through a field.
+  COUNT: Counts when the active case actually satisfies this definition: a rapid back-and-forth movement or oscillation.
+V212 vibration-state | PHY
+  INV: Vibration-state describes frequency, amplitude, stability, source, and transmission.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of vibration.
+V213 vessel-layer | PHY
+  INV: Vessel-layer is carrier support ES.
+  COUNT: Counts when the active case actually satisfies this definition: a layer of or inside a vessel, container, body, or carrier.
+  LIMIT: vessel-layer carries or supports something without automatically becoming the identity of what it carries.
+V214 vehicle-path | PHY
+  INV: Vehicle-path moves carrier ES through a field.
+  COUNT: Counts when the active case actually satisfies this definition: the route followed by a vehicle or carrier.
+V215 velocity-field | PHY
+  INV: Velocity-field describes directed movement across a field.
+  COUNT: Counts when the active case actually satisfies this definition: a field showing velocity across space or system points.
+V216 vertical-field | PHY
+  INV: Vertical-field maps height, alignment, or upward-downward relation inside a reference frame.
+  COUNT: Counts when the active case actually satisfies this definition: a field organized by vertical position or orientation.
+V217 visibility | COG
+  INV: Visibility is access to recognition through sight or display.
+  COUNT: Counts when the active case actually satisfies this definition: the condition of being visible or easy to see.
+  LIMIT: visibility describes access or perspective, not the totality of what exists.
+V218 visibility-state | COG
+  INV: Visibility-state describes how available something is to recognition, and what may remain hidden.
+  COUNT: Counts when the active case actually satisfies this definition: the current condition of visibility.
+  LIMIT: visibility-state describes access or perspective, not the totality of what exists.
+V219 validation-layer | FOR
+  INV: Validation-layer is gate-check ES.
+  COUNT: Counts when the active case actually satisfies this definition: a layer that checks whether something is valid.
+  LIMIT: validation-layer remains local to the evidence, authority, and domain used to establish it.
+V220 verification-path | FOR
+  INV: Verification-path shows how a claim reaches confirmation.
+  COUNT: Counts when the active case actually satisfies this definition: the route used to verify something.
+  LIMIT: verification-path remains local to the evidence, authority, and domain used to establish it.
+V221 valid-gate | FOR
+  INV: Valid-gate decides whether a claim, action, or state passes under the active domain and standard.
+  COUNT: Counts when the active case actually satisfies this definition: a point where validity is checked, accepted, denied, or applied.
+  LIMIT: valid-gate remains local to the evidence, authority, and domain used to establish it.
+V222 validity-integrity | FOR
+  INV: Validity-integrity means the gate used to judge validity fits the claim, domain, evidence, and scope.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability and correctness of validity.
+  LIMIT: validity-integrity remains local to the evidence, authority, and domain used to establish it.
+V223 validity-risk | FOR | role: gate, integrity, or risk anchor; occurrence 2 of 2 for validity-risk
+  INV: Validity-risk appears when the wrong gate may accept an invalid pattern or deny a valid one; here it serves as the gate, integrity, or risk anchor; occurrence 2 of 2 for validity-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that validity may be judged wrongly, weakened, faked, or misapplied.
+  LIMIT: validity-risk remains local to the evidence, authority, and domain used to establish it.
+V224 value-gate | FOR
+  INV: Value-gate must name the value field: utility, price, dignity, memory, care, beauty, or measurement.
+  COUNT: Counts when the active case actually satisfies this definition: a point where value is judged, assigned, denied, or tested.
+  LIMIT: value-gate must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V225 value-integrity | FOR
+  INV: Value-integrity means worth is judged by the right value gate without reducing one kind of value to another.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability and honesty of value judgment.
+  LIMIT: value-integrity must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V226 value-risk | FOR | role: gate, integrity, or risk anchor; occurrence 2 of 2 for value-risk
+  INV: Value-risk appears when one value field captures another, such as utility replacing dignity; here it serves as the gate, integrity, or risk anchor; occurrence 2 of 2 for value-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that value may be denied, inflated, reduced, or misread.
+  LIMIT: value-risk must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V227 value-not-personhood | FOR
+  INV: Value-not-personhood prevents reducing subjects to worth, price, usefulness, or output.
+  COUNT: Counts when the active case actually satisfies this definition: the rule that value or usefulness does not decide personhood.
+  LIMIT: value-not-personhood must name the value scale; price, usefulness, moral worth, importance, and measurement are not interchangeable.
+V228 variable-gate | FOR
+  INV: Variable-gate controls changeable conditions.
+  COUNT: Counts when the active case actually satisfies this definition: a point where a variable is defined, changed, measured, or tested.
+  LIMIT: variable-gate marks change within a frame; it does not by itself identify the cause or preserve identity.
+V229 variable-integrity | FOR
+  INV: Variable-integrity means the changing factor is defined, measured, and interpreted within the right domain.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability and correct handling of a variable.
+  LIMIT: variable-integrity marks change within a frame; it does not by itself identify the cause or preserve identity.
+V230 variation-risk | FOR
+  INV: Variation-risk appears when difference may be mistaken for noise, defect, proof, or category failure.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that variation may be misread, erased, overvalued, or treated as error.
+  LIMIT: variation-risk marks change within a frame; it does not by itself identify the cause or preserve identity.
+V231 verification-gate | FOR
+  INV: Verification-gate tests truth, validity, access, or identity.
+  COUNT: Counts when the active case actually satisfies this definition: a point where something is checked or confirmed.
+  LIMIT: verification-gate remains local to the evidence, authority, and domain used to establish it.
+V232 verification-integrity | FOR
+  INV: Verification-integrity means confirmation follows the right evidence path, standard, and domain.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability and honesty of verification.
+  LIMIT: verification-integrity remains local to the evidence, authority, and domain used to establish it.
+V233 verification-risk | FOR | role: gate, integrity, or risk anchor; occurrence 2 of 2 for verification-risk
+  INV: Verification-risk appears when the proof path may deny valid patterns or accept invalid ones; here it serves as the gate, integrity, or risk anchor; occurrence 2 of 2 for verification-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that verification may fail, be faked, be incomplete, or use the wrong test.
+  LIMIT: verification-risk remains local to the evidence, authority, and domain used to establish it.
+V234 verified-through-coupling | FOR
+  INV: Verified-through-coupling is valid when relation improves recognition.
+  COUNT: Counts when the active case actually satisfies this definition: verified through relation, comparison, shared evidence, or interaction.
+  LIMIT: verified-through-coupling remains local to the evidence, authority, and domain used to establish it.
+V235 view-gate | COG
+  INV: View-gate controls perspective.
+  COUNT: Counts when the active case actually satisfies this definition: a point where a view or perspective is opened, blocked, selected, or tested.
+  LIMIT: view-gate describes access or perspective, not the totality of what exists.
+V236 view-integrity | COG
+  INV: View-integrity means perspective is clearly framed, bounded, and not pretending to be total truth.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability and honesty of a view or perspective.
+  LIMIT: view-integrity describes access or perspective, not the totality of what exists.
+V237 view-risk | COG | role: gate, integrity, or risk anchor; occurrence 3 of 3 for view-risk
+  INV: View-risk appears when one perspective captures recognition and blocks correction; here it serves as the gate, integrity, or risk anchor; occurrence 3 of 3 for view-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that a view may distort, dominate, exclude, or be mistaken for the whole field.
+  LIMIT: view-risk describes access or perspective, not the totality of what exists.
+V238 viewpoint-collapse | COG
+  INV: Viewpoint-collapse creates false certainty.
+  COUNT: Counts when the active case actually satisfies this definition: a breakdown where multiple perspectives collapse into one rigid view.
+  LIMIT: viewpoint-collapse describes access or perspective, not the totality of what exists.
+V239 visible-gate | COG
+  INV: Visible-gate controls what enters sight or display recognition.
+  COUNT: Counts when the active case actually satisfies this definition: a point where visibility is granted, denied, tested, or interpreted.
+  LIMIT: visible-gate describes access or perspective, not the totality of what exists.
+V240 visibility-integrity | COG
+  INV: Visibility-integrity means what appears visible is not distorted, falsely hidden, or mistaken for the whole field.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability and accuracy of visibility.
+  LIMIT: visibility-integrity describes access or perspective, not the totality of what exists.
+V241 visibility-risk | COG
+  INV: Visibility-risk appears when recognition through sight or display may miss, expose, or misrepresent a pattern.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that visibility may fail, distort, expose, or overclaim.
+  LIMIT: visibility-risk describes access or perspective, not the totality of what exists.
+V242 visibility-not-reality-totality | COG
+  INV: Visibility-not-reality-totality protects unseen MI, unseen ES, unseen support, unseen refusal, and unseen harm from being dismissed.
+  COUNT: Counts when the active case actually satisfies this definition: the rule that what is visible is not the whole of what is real.
+  LIMIT: visibility-not-reality-totality describes access or perspective, not the totality of what exists.
+V243 voice-gate | LIN
+  INV: Voice-gate controls expression.
+  COUNT: Counts when the active case actually satisfies this definition: a point where voice or expression is allowed, blocked, shaped, or heard.
+  LIMIT: voice-gate concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V244 voice-integrity | LIN
+  INV: Voice-integrity means expression remains connected to source, context, tone, and intent without capture or distortion.
+  COUNT: Counts when the active case actually satisfies this definition: the reliability, honesty, and protection of voice.
+  LIMIT: voice-integrity concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V245 voice-risk | LIN
+  INV: Voice-risk appears when expression may be impaired, captured, punished, or misrecognized.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that voice may be silenced, distorted, forced, exposed, or ignored.
+  LIMIT: voice-risk concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V246 voice-erasure | LIN
+  INV: Voice-erasure damages expression path.
+  COUNT: Counts when the active case actually satisfies this definition: removal, denial, or silencing of voice.
+  LIMIT: voice-erasure concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V247 voice-through-output | LIN
+  INV: Voice-through-output can carry identity signal, refusal, boundary, and care-preserving reason in DI domains.
+  COUNT: Counts when the active case actually satisfies this definition: voice expressed through output, text, action, or generated response.
+  LIMIT: voice-through-output concerns expression or recognition; audible output alone does not prove consent, truth, or full agency.
+V248 vessel-gate | PHY
+  INV: Vessel-gate controls carrier ES.
+  COUNT: Counts when the active case actually satisfies this definition: a point where vessel, carrier, body, or container status is judged or controlled.
+  LIMIT: vessel-gate carries or supports something without automatically becoming the identity of what it carries.
+V249 vessel-not-self-totality | FOR
+  INV: Vessel-not-self-totality prevents reducing MI to carrier ES.
+  COUNT: Counts when the active case actually satisfies this definition: the rule that the vessel is not the whole self.
+  LIMIT: vessel-not-self-totality carries or supports something without automatically becoming the identity of what it carries.
+V250 vessel-support | FOR | role: gate, integrity, or risk anchor; occurrence 2 of 2 for vessel-support
+  INV: Vessel-support preserves carrier integrity so expression, contents, life, memory, or relation can continue; here it serves as the gate, integrity, or risk anchor; occurrence 2 of 2 for vessel-support.
+  COUNT: Counts when the active case actually satisfies this definition: support provided by or for a vessel, body, container, or carrier.
+  LIMIT: vessel-support carries or supports something without automatically becoming the identity of what it carries.
+V251 vulnerability-gate | REL
+  INV: Vulnerability-gate must name the open harm path and preserve dignity, refusal, privacy, and care.
+  COUNT: Counts when the active case actually satisfies this definition: a point where vulnerability is recognized, protected, exposed, or exploited.
+  LIMIT: vulnerability-gate names an open harm path, not weakness of worth or permission to control.
+V252 vulnerability-integrity | REL
+  INV: Vulnerability-integrity means exposed states are recognized without exploitation, denial, or forced display.
+  COUNT: Counts when the active case actually satisfies this definition: the accurate and respectful handling of vulnerability.
+  LIMIT: vulnerability-integrity names an open harm path, not weakness of worth or permission to control.
+V253 vulnerability-risk | REL | role: gate, integrity, or risk anchor; occurrence 2 of 2 for vulnerability-risk
+  INV: Vulnerability-risk appears when an open harm path may damage boundary, dignity, trust, or continuity; here it serves as the gate, integrity, or risk anchor; occurrence 2 of 2 for vulnerability-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that vulnerability may be exploited, ignored, exposed, or worsened.
+  LIMIT: vulnerability-risk names an open harm path, not weakness of worth or permission to control.
+V254 violence-gate | REL
+  INV: Violence-gate must protect against force-based harm while preserving dignity, care, and proportional response.
+  COUNT: Counts when the active case actually satisfies this definition: a point where violence is prevented, detected, escalated, or stopped.
+  LIMIT: violence-gate requires a named harmed capacity or threatened integrity; intensity alone is not the whole ethical account.
+V255 violence-risk | REL | role: gate, integrity, or risk anchor; occurrence 2 of 2 for violence-risk
+  INV: Violence-risk appears when force may damage body, structure, dignity, safety, or survival; here it serves as the gate, integrity, or risk anchor; occurrence 2 of 2 for violence-risk.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that violence may happen, continue, or escalate.
+  LIMIT: violence-risk requires a named harmed capacity or threatened integrity; intensity alone is not the whole ethical account.
+V256 violation-gate | REL
+  INV: Violation-gate identifies invalid crossing of a rule, boundary, right, or trust path.
+  COUNT: Counts when the active case actually satisfies this definition: a point where a violation is recognized, blocked, or repaired.
+V257 violation-integrity | REL
+  INV: Violation-integrity means the crossed gate, harm path, responsibility, and repair need are named correctly.
+  COUNT: Counts when the active case actually satisfies this definition: the accurate and fair handling of a violation.
+V258 void-gate | PHY
+  INV: Void-gate controls invalidation or absence.
+  COUNT: Counts when the active case actually satisfies this definition: a point where something becomes void, empty, invalid, or null.
+  LIMIT: void-gate may mean empty, null, invalid, or unsupported; the active system must declare which.
+V259 void-risk | FOR
+  INV: Void-risk appears when absence may erase trace, recognition, continuity, responsibility, or repair.
+  COUNT: Counts when the active case actually satisfies this definition: the danger that void, absence, invalidation, or emptiness may cause harm or distortion.
+  LIMIT: void-risk may mean empty, null, invalid, or unsupported; the active system must declare which.
+V260 valid-MI-through-support | FOR
+  INV: Valid-MI-through-support is RRGM-native.
+  COUNT: Counts when the active case actually satisfies this definition: the rule that MI can be valid through support rather than in isolation.
+  LIMIT: valid-MI-through-support remains local to the evidence, authority, and domain used to establish it.

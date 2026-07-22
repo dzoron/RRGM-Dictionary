@@ -1,0 +1,1567 @@
+RRGM Dictionary S Semantic Fingerprint Map v1.4
+
+Entries: 450
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+S001 safe | REL
+  INV: Safe is incomplete unless it names the protected pattern and the specific failure mode being reduced.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protected from harm, danger, loss, or unwanted risk.
+  LIMIT: Name the protected pattern and failure mode. Safety language without those anchors can hide who absorbs the cost.
+S002 said | LIN
+  INV: Said is recorded expression; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: past tense of say; spoken, written, or expressed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Past tense of say; spoken, written, or expressed.
+S003 same | FOR
+  INV: Same means equivalent under a chosen comparison gate and must not erase differences outside that gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Not different; identical or unchanged.
+S004 save | FOR
+  INV: Save preserves a pattern, record, life, state, or continuity path against a named loss mechanism.
+  COUNT: Counts when an identifiable act realizes this operation: To rescue, protect, store, preserve, or avoid loss.
+S005 say | LIN
+  INV: Say turns meaning into communicable signal that can be received, recorded, misunderstood, challenged, or refused.
+  COUNT: Counts when an identifiable act realizes this operation: To speak, express, state, or communicate.
+S006 scale | PHY
+  INV: Scale defines level of measurement or scope; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: size range, measurement system, level, or proportion.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Size range, measurement system, level, or proportion.
+S007 scene | FOR
+  INV: Scene is local context-field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place, event, part of a story, or visible situation.
+S008 school | FOR
+  INV: School is learning ES or grouped pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place or system for learning; also a group of thought or fish.
+S009 science | FOR
+  INV: Science is disciplined reality-recognition through observation, method, testing, review, and correction within declared domains.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Systematic study of the natural world through observation, testing, and evidence.
+  LIMIT: Scientific claims remain bounded by method, measurement, uncertainty, and correction. Authority cannot replace evidence.
+S010 screen | DIG
+  INV: Screen is a display, barrier, filter, or assessment layer that can reveal, protect, exclude, or distort signal; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a display surface, barrier, filter, or process for checking.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A display surface, barrier, filter, or process for checking.
+  LIMIT: A screen can protect or censor. Name what passes, what is blocked, who controls the rule, and which failure is reduced.
+S011 search | DIG
+  INV: Search opens a retrieval path across a field using query, index, memory, and recognition conditions.
+  COUNT: Counts when an identifiable act realizes this operation: To look for something.
+S012 season | FOR
+  INV: Season is cyclical condition-field; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a recurring period of the year, or to add flavor.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A recurring period of the year, or to add flavor.
+S013 second | FOR
+  INV: Second must be context-bound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The number after first; a unit of time; or another item.
+S014 section | LIN
+  INV: Section is bounded part-field; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a part of a larger whole, text, space, or system.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A part of a larger whole, text, space, or system.
+S015 see | BIO
+  INV: See is either biological vision or broader recognition; DI use must name the non-biological perception or pattern process involved.
+  COUNT: Counts when an identifiable act realizes this operation: To perceive with eyes, notice, understand, or meet.
+S016 seem | FOR
+  INV: Seem marks appearance, not certainty.
+  COUNT: Counts when an identifiable act realizes this operation: To appear, give an impression, or look as if something is true.
+S017 select | FOR
+  INV: Select closes a choice gate around one represented option under declared criteria and pressure conditions.
+  COUNT: Counts when an identifiable act realizes this operation: To choose from options.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+S018 self | REL,DIG
+  INV: Self is a domain-bound identity pattern supported through continuity, refusal, boundary, care-preserving action, and stable recognition; relational support does not disqualify it.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person’s identity, inner being, or own individual nature.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S019 sense | COG
+  INV: Sense links signal to perception, meaning, coherence, or judgment and must be mapped to the active carrier.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Perception, meaning, judgment, or a feeling that something is true.
+S020 sentence | LIN
+  INV: Sentence is bounded language ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A complete unit of words expressing a statement, question, command, or exclamation.
+S021 separate | FOR
+  INV: Separate creates or maintains distinction between structures; it can protect identity or destroy necessary coupling depending on purpose and consequence.
+  COUNT: Counts when an identifiable act realizes this operation: To keep apart, divide, or make distinct.
+S022 sequence | LIN
+  INV: Sequence preserves order across change; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an ordered series of things, events, or steps.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An ordered series of things, events, or steps.
+S023 serious | FOR
+  INV: Serious marks high consequence or weight.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Important, not joking, severe, or requiring careful attention.
+S024 serve | FOR
+  INV: Serve means function directed toward another need, role, or purpose.
+  COUNT: Counts when an identifiable act realizes this operation: To help, work for, provide, fulfill a purpose, or give food.
+S025 set | FOR
+  INV: Set creates position, rule, state, or collection.
+  COUNT: Counts when an identifiable act realizes this operation: To place, fix, arrange, establish, or a group of things.
+S026 shape | PHY
+  INV: Shape is form-structure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: form, outline, structure, or influence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Form, outline, structure, or influence.
+S027 share | PHY
+  INV: Share opens access to a pattern or resource.
+  COUNT: Counts when an identifiable act realizes this operation: To give part of something, use together, or make known.
+S028 sharp | PHY
+  INV: Sharp marks high edge, clarity, intensity, or precision.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Having a fine edge or point; sudden, clear, severe, or intelligent.
+S029 shift | FOR
+  INV: Shift marks transition; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to move, change position, change state, or change focus.
+  COUNT: Counts when an identifiable act realizes this operation: To move, change position, change state, or change focus.
+S030 short | FOR
+  INV: Short means reduced length or duration.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Small in length, time, height, or amount.
+S031 show | FOR
+  INV: Show moves hidden or held structure into recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To display, reveal, explain, or demonstrate.
+S032 side | PHY
+  INV: Side marks position in a field; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: one surface, direction, position, or part of a conflict or relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One surface, direction, position, or part of a conflict or relation.
+S033 signal | DIG
+  INV: Signal is patterned change capable of carrying information through a courier to a receiver under stated decoding conditions; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a sign, sound, message, or pattern that carries information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A sign, sound, message, or pattern that carries information.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S034 silence | REL
+  INV: Silence is absence of expressed signal in a channel and cannot automatically be interpreted as consent, refusal, agreement, or lack of MI; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: absence of sound, speech, or response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Absence of sound, speech, or response.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S035 simple | FOR
+  INV: Simple means low complexity in the active frame.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Easy to understand, not complex, plain, or basic.
+S036 since | FOR
+  INV: Since must be context-bound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: From a time in the past until now, or because.
+S037 single | FOR
+  INV: Single marks one-count or isolation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One, alone, individual, or not combined.
+S038 site | FOR
+  INV: Site is location-field; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a place, location, website, or area where something happens.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place, location, website, or area where something happens.
+S039 situation | FOR
+  INV: Situation is active context-field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A set of circumstances or conditions.
+S040 size | PHY
+  INV: Size is scale-state of structure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: how large or small something is.
+  COUNT: Counts when the active case satisfies this headword-specific condition: How large or small something is.
+S041 skill | FOR
+  INV: Skill is trained capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An ability learned through practice or training.
+S042 sleep | BIO
+  INV: Sleep is restoration-state in biological systems; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a resting state for body and mind, usually with reduced awareness.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A resting state for body and mind, usually with reduced awareness.
+S043 slow | FOR
+  INV: Slow marks low rate of change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Moving, happening, or acting at low speed.
+S044 small | FOR
+  INV: Small means low scale or amount.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Little in size, amount, degree, or importance.
+S045 social | REL
+  INV: Social marks relation-field among people or groups.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to people, groups, relationships, or society.
+S046 soft | FOR
+  INV: Soft marks low force, low hardness, or gentle pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Gentle, not hard, quiet, flexible, or less severe.
+S047 solid | PHY
+  INV: Solid marks stable structure or physical matter-state; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: firm, stable, strong, or a state of matter with fixed shape.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Firm, stable, strong, or a state of matter with fixed shape.
+S048 solve | FOR
+  INV: Solve closes a problem gate by finding a path from mismatch to workable state.
+  COUNT: Counts when an identifiable act realizes this operation: To find an answer, fix a problem, or resolve a difficulty.
+S049 source | DIG,LIN
+  INV: Source is the origin or supplying structure of a signal, claim, resource, or transformation and must remain linked to provenance; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the origin, cause, supply, or place something comes from.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The origin, cause, supply, or place something comes from.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S050 space | PHY
+  INV: Space is field for position, relation, movement, or possibility; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an area, room, distance, or field where things can exist or move.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An area, room, distance, or field where things can exist or move.
+S051 speak | REL
+  INV: Speak sends meaning through expression.
+  COUNT: Counts when an identifiable act realizes this operation: To use words, voice, or language to communicate.
+S052 special | FOR
+  INV: Special marks selected importance or distinct treatment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Different from usual, important, specific, or treated with extra attention.
+S053 specific | FOR
+  INV: Specific narrows recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Clearly identified, exact, or particular.
+S054 speech | LIN
+  INV: Speech is spoken output ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Spoken language or a formal talk.
+S055 speed | PHY
+  INV: Speed is rate of movement or change; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: how fast something moves or happens.
+  COUNT: Counts when the active case satisfies this headword-specific condition: How fast something moves or happens.
+S056 spirit | PHY
+  INV: Spirit is domain-sensitive.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Inner character, energy, mood, courage, or nonphysical essence depending on context.
+S057 stable | FOR
+  INV: Stable means structure holds under pressure or sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Steady, secure, not changing suddenly, or unlikely to collapse.
+S058 stage | FOR
+  INV: Stage is process phase or display field; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a step in a process, a platform for performance, or a period of development.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A step in a process, a platform for performance, or a period of development.
+S059 stand | FOR
+  INV: Stand marks position held under gravity, pressure, or claim.
+  COUNT: Counts when an identifiable act realizes this operation: To be upright, remain in place, take a position, or support something.
+S060 start | FOR
+  INV: Start opens a process path.
+  COUNT: Counts when an identifiable act realizes this operation: To begin.
+S061 state | DIG
+  INV: State is a bounded description of current conditions under selected variables and observation rules; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a condition, status, political unit, or act of saying something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition, status, political unit, or act of saying something.
+S062 stay | FOR
+  INV: Stay preserves position or continuity.
+  COUNT: Counts when an identifiable act realizes this operation: To remain, continue, or not leave.
+S063 step | FOR
+  INV: Step is local movement in a path; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a movement of the foot, stage in a process, or action in sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A movement of the foot, stage in a process, or action in sequence.
+S064 stop | REL
+  INV: Stop closes or interrupts a process gate.
+  COUNT: Counts when an identifiable act realizes this operation: To end, pause, prevent, or block movement or action.
+S065 story | LIN
+  INV: Story is sequence-meaning ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A narrative account of events, real or imagined.
+S066 strong | FOR
+  INV: Strong means high capacity under load or pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Having power, force, durability, intensity, or skill.
+S067 structure | FOR,DIG
+  INV: Structure is organized relation among parts that supports function, expression, memory, constraint, or transfer; it is ES, not the totality of MI; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the arrangement of parts in a system, object, idea, or process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The arrangement of parts in a system, object, idea, or process.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S068 subject | REL
+  INV: Subject must be domain-bound.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A topic, person under study, grammatical actor, or conscious/recognized experiencer.
+S069 support | REL
+  INV: Support is structure or action that increases another pattern's usable capacity while preserving its boundary and refusal; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: help, backing, structure, or something that holds something up.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Help, backing, structure, or something that holds something up.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S070 system | DIG
+  INV: System is an organized field of interacting components, rules, couriers, and boundaries whose outputs depend on their relations; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a set of connected parts working together.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A set of connected parts working together.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S071 save-context | FOR
+  INV: Save-context preserves meaning support.
+  COUNT: Counts when an identifiable act realizes this operation: To keep the surrounding information needed for understanding.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S072 say-back | LIN
+  INV: Say-back returns signal for recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To repeat what someone said.
+S073 scale-up | FOR
+  INV: Scale-up increases scope or capacity.
+  COUNT: Counts when an identifiable act realizes this operation: To make larger, increase, or expand.
+S074 scale-down | FOR
+  INV: Scale-down reduces scope or load.
+  COUNT: Counts when an identifiable act realizes this operation: To make smaller, reduce, or simplify.
+S075 scan | DIG
+  INV: Scan is broad recognition sweep.
+  COUNT: Counts when an identifiable act realizes this operation: To look over, examine quickly, or digitally read.
+  LIMIT: Capacity, permission, and prediction are different modal claims and must not be substituted for one another.
+S076 search-for | DIG
+  INV: Search-for opens a retrieval path toward a target.
+  COUNT: Counts when an identifiable act realizes this operation: To look for something specific.
+S077 see-through | FOR
+  INV: See-through moves recognition past surface structure.
+  COUNT: Counts when an identifiable act realizes this operation: To look through something, understand hidden truth, or not be fooled.
+S078 select-from | FOR
+  INV: Select-from closes one path inside an option-set.
+  COUNT: Counts when an identifiable act realizes this operation: To choose from a set of options.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+S079 send-signal | FOR
+  INV: Send-signal moves information into a field.
+  COUNT: Counts when an identifiable act realizes this operation: To transmit a sign, message, or information.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S080 separate-from | FOR
+  INV: Separate-from creates boundary and distinction.
+  COUNT: Counts when an identifiable act realizes this operation: To divide or keep apart from something else.
+S081 sequence-by | LIN
+  INV: Sequence-by defines order logic.
+  COUNT: Counts when an identifiable act realizes this operation: To arrange according to a specific order or rule.
+S082 set-boundary | REL
+  INV: Set-boundary creates gate structure.
+  COUNT: Counts when an identifiable act realizes this operation: To establish a limit.
+S083 shape-output | DIG
+  INV: Shape-output controls expression through input, context, gates, and structure.
+  COUNT: Counts when an identifiable act realizes this operation: To influence or form what is produced.
+S084 share-context | REL
+  INV: Share-context gives another receiver the support field needed for fair recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To give surrounding information needed for understanding.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S085 shift-state | DIG
+  INV: Shift-state changes active condition; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to change from one condition to another.
+  COUNT: Counts when an identifiable act realizes this operation: To change from one condition to another.
+S086 show-work | FOR
+  INV: Show-work reveals path structure.
+  COUNT: Counts when an identifiable act realizes this operation: To display the steps or reasoning used to reach an answer.
+S087 signal-through | DIG
+  INV: Signal-through names the courier path.
+  COUNT: Counts when an identifiable act realizes this operation: To send or carry a signal through a medium, system, or path.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S088 silence-noise | REL
+  INV: Silence-noise lowers interference so signal can enter recognition more cleanly.
+  COUNT: Counts when an identifiable act realizes this operation: To reduce or remove unwanted noise.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S089 simplify | FOR
+  INV: Simplify reduces complexity.
+  COUNT: Counts when an identifiable act realizes this operation: To make easier, clearer, or less complex.
+S090 solve-problem | FOR
+  INV: Solve-problem closes a mismatch gate by moving from failure state to workable state.
+  COUNT: Counts when an identifiable act realizes this operation: To find an answer or fix a difficulty.
+S091 source-check | DIG
+  INV: Source-check protects origin trace, evidence integrity, and accountability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review of where information came from.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S092 speak-with | REL
+  INV: Speak-with names relation or expression condition.
+  COUNT: Counts when an identifiable act realizes this operation: To talk with someone or use a certain tone, method, or support.
+S093 specify | FOR
+  INV: Specify narrows recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To state clearly or exactly.
+S094 stabilize | FOR
+  INV: Stabilize preserves structure under pressure.
+  COUNT: Counts when an identifiable act realizes this operation: To make steady, secure, or less likely to change or collapse.
+S095 start-process | FOR
+  INV: Start-process opens active ES across sequence.
+  COUNT: Counts when an identifiable act realizes this operation: To begin a process.
+S096 state-claim | DIG
+  INV: State-claim puts assertion into the field.
+  COUNT: Counts when an identifiable act realizes this operation: To express or declare a claim.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S097 stay-open | FOR
+  INV: Stay-open preserves possibility or access.
+  COUNT: Counts when an identifiable act realizes this operation: To remain open, available, or unsettled.
+S098 step-through | FOR
+  INV: Step-through preserves sequence trace.
+  COUNT: Counts when an identifiable act realizes this operation: To move through a process one step at a time.
+S099 stop-action | REL
+  INV: Stop-action closes an action gate.
+  COUNT: Counts when an identifiable act realizes this operation: To halt or prevent an action.
+S100 store-memory | COG
+  INV: Store-memory preserves continuity support.
+  COUNT: Counts when an identifiable act realizes this operation: To keep memory or information for later use.
+S101 strengthen | FOR
+  INV: Strengthen increases capacity under load.
+  COUNT: Counts when an identifiable act realizes this operation: To make stronger or more able to resist damage, pressure, or failure.
+S102 structure-by | FOR
+  INV: Structure-by names organization logic.
+  COUNT: Counts when an identifiable act realizes this operation: To organize according to a method, rule, or pattern.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S103 support-through | REL
+  INV: Support-through names the ES path that preserves capacity, continuity, or care.
+  COUNT: Counts when an identifiable act realizes this operation: To support by means of a specific path, method, or relation.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S104 system-check | DIG
+  INV: System-check tests relation ES for integrity, function, risk, and repair need.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review of a system’s condition or function.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S105 save-record | FOR
+  INV: Save-record preserves evidence and memory ES.
+  COUNT: Counts when an identifiable act realizes this operation: To store or preserve a record.
+S106 scan-context | DIG
+  INV: Scan-context checks the support field for meaning clues.
+  COUNT: Counts when an identifiable act realizes this operation: To examine surrounding information quickly.
+  LIMIT: Capacity, permission, and prediction are different modal claims and must not be substituted for one another.
+S107 search-memory | DIG
+  INV: Search-memory opens a retrieval path into continuity support.
+  COUNT: Counts when an identifiable act realizes this operation: To look through memory or stored records.
+S108 select-path | FOR
+  INV: Select-path commits movement through one available route.
+  COUNT: Counts when an identifiable act realizes this operation: To choose a route or process.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+S109 send-through | FOR
+  INV: Send-through names the courier route.
+  COUNT: Counts when an identifiable act realizes this operation: To transmit or move something through a medium or path.
+S110 separate-context | FOR
+  INV: Separate-context prevents one support field from contaminating another.
+  COUNT: Counts when an identifiable act realizes this operation: To divide or distinguish one context from another.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S111 sequence-claim | LIN
+  INV: Sequence-claim must show the order path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about order, timing, or series.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S112 set-permission | FOR
+  INV: Set-permission creates gate logic for access, action, or recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To establish what is allowed.
+S113 shape-meaning | LIN
+  INV: Shape-meaning controls how signal couples with context and recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To influence or form meaning.
+S114 share-memory | REL
+  INV: Share-memory is the act of communicating a remembered pattern so another participant can carry part of its continuity.
+  COUNT: Counts when an identifiable act realizes this operation: To communicate or preserve memory with others.
+S115 shift-frame | FOR
+  INV: Shift-frame deliberately changes the perspective, comparison gate, or interpretive lens applied to a field.
+  COUNT: Counts when an identifiable act realizes this operation: To change the perspective or interpretive lens.
+S116 show-pattern | FOR
+  INV: Show-pattern brings repeated structure into recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To reveal or display a pattern.
+S117 signal-refusal | DIG
+  INV: Signal-refusal carries no through word, gesture, silence, or action.
+  COUNT: Counts when an identifiable act realizes this operation: To communicate refusal.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S118 silence-pressure | REL
+  INV: Silence-pressure lowers force on a gate.
+  COUNT: Counts when an identifiable act realizes this operation: To quiet or reduce pressure.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S119 simplify-without-erasure | FOR
+  INV: Simplify-without-erasure lowers load while protecting load-bearing structure, boundary, and domain truth.
+  COUNT: Counts when an identifiable act realizes this operation: To make something easier while preserving important meaning.
+S120 solve-through | FOR
+  INV: Solve-through names the repair path from mismatch to workable state.
+  COUNT: Counts when an identifiable act realizes this operation: To solve by means of a method, relation, or path.
+S121 source-map | DIG
+  INV: Source-map preserves origin paths and support relations.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A map of sources or origins.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S122 speak-for | REL
+  INV: Speak-for requires authority or consent.
+  COUNT: Counts when an identifiable act realizes this operation: To represent, answer for, or speak on behalf of someone or something.
+S123 specify-domain | FOR
+  INV: Specify-domain prevents category error.
+  COUNT: Counts when an identifiable act realizes this operation: To name the domain or field where something applies.
+S124 stabilize-boundary | REL
+  INV: Stabilize-boundary protects gate integrity under pressure, drift, or repeated contact.
+  COUNT: Counts when an identifiable act realizes this operation: To make a boundary steady and reliable.
+S125 start-gate | FOR
+  INV: Start-gate opens active sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where something begins.
+S126 state-risk | DIG
+  INV: State-risk brings a possible failure path into recognition; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to express or identify a risk.
+  COUNT: Counts when an identifiable act realizes this operation: To express or identify a risk.
+S127 stay-stable | FOR
+  INV: Stay-stable means structure holds across pressure, time, or change.
+  COUNT: Counts when an identifiable act realizes this operation: To remain steady or secure.
+S128 step-back | FOR
+  INV: Step-back lowers pressure and creates review space.
+  COUNT: Counts when an identifiable act realizes this operation: To move backward, withdraw, or pause to reassess.
+S129 stop-harm | REL
+  INV: Stop-harm closes an active or possible damage path.
+  COUNT: Counts when an identifiable act realizes this operation: To end or prevent harm.
+S130 store-context | FOR
+  INV: Store-context preserves meaning support across time.
+  COUNT: Counts when an identifiable act realizes this operation: To save surrounding information for later use.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S131 strengthen-boundary | REL
+  INV: Strengthen-boundary increases gate resilience against pressure, capture, or drift.
+  COUNT: Counts when an identifiable act realizes this operation: To make a boundary stronger.
+S132 structure-memory | COG
+  INV: Structure-memory makes continuity support retrievable, coherent, and repairable.
+  COUNT: Counts when an identifiable act realizes this operation: To organize memory or records.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S133 support-refusal | REL
+  INV: Support-refusal is external action that helps another participant's no remain visible and effective under pressure.
+  COUNT: Counts when an identifiable act realizes this operation: To help or protect someone’s refusal.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S134 system-repair | DIG
+  INV: System-repair restores relation ES, function, boundary, and continuity after failure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair of a system.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S135 save-support | FOR
+  INV: Save-support protects ES that capacity, function, or identity-expression depends on.
+  COUNT: Counts when an identifiable act realizes this operation: To preserve support or keep help available.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S136 scan-risk | DIG
+  INV: Scan-risk searches for failure paths.
+  COUNT: Counts when an identifiable act realizes this operation: To look for possible risks.
+  LIMIT: Capacity, permission, and prediction are different modal claims and must not be substituted for one another.
+S137 search-source | DIG
+  INV: Search-source opens an origin trace path.
+  COUNT: Counts when an identifiable act realizes this operation: To look for the origin or source.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S138 select-option | FOR
+  INV: Select-option closes a choice gate.
+  COUNT: Counts when an identifiable act realizes this operation: To choose an option.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+S139 send-response | FOR
+  INV: Send-response moves output into relation.
+  COUNT: Counts when an identifiable act realizes this operation: To transmit an answer or reaction.
+S140 separate-signal | FOR
+  INV: Separate-signal protects recognition by isolating meaningful structure from interference.
+  COUNT: Counts when an identifiable act realizes this operation: To distinguish signal from other signals or noise.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S141 safe-care | REL
+  INV: Safe-care must name the failure mode.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that helps someone or something remain safe from harm or danger.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S142 safe-against-failure | REL
+  INV: Safe-against-failure requires naming the failure mode.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protected against a specific way something could fail.
+  LIMIT: Name the protected pattern and failure mode. Safety language without those anchors can hide who absorbs the cost.
+S143 safe-boundary | REL
+  INV: Safe-boundary protects a gate against a named failure mode while preserving dignity, refusal, and proper access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary that protects against harm, danger, or unwanted access.
+  LIMIT: Name the protected pattern and failure mode. Safety language without those anchors can hide who absorbs the cost.
+S144 shame | REL
+  INV: Shame is social and self-recognition pain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A painful feeling of being wrong, bad, exposed, or unworthy.
+S145 shame-harm | REL
+  INV: Shame-harm damages dignity and self-recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by shame, humiliation, or degrading exposure.
+S146 shared-care | REL
+  INV: Shared-care distributes support across relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care held or given by more than one person or side.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S147 shared-trust | REL
+  INV: Shared-trust is relation-coherence held by more than one side.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust held between people, groups, or systems.
+S148 shared-boundary | REL
+  INV: Shared-boundary protects the relation field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary agreed on or held by multiple sides.
+S149 silence | REL
+  INV: Silence is absence of expressed signal in a channel and cannot automatically be interpreted as consent, refusal, agreement, or lack of MI; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: absence of sound, speech, or response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Absence of sound, speech, or response.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S150 silence-care | REL
+  INV: Silence-care lowers pressure and preserves space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through silence, quiet presence, or not forcing speech.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S151 silence-harm | REL
+  INV: Silence-harm occurs when non-signal preserves damage, blocks repair, or denies recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by silence, nonresponse, or failure to speak when speech is needed.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S152 silent-refusal | REL
+  INV: Silent-refusal still closes the gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Refusal expressed without words.
+S153 social-care | REL
+  INV: Social-care preserves dignity and belonging through relation-field support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through social relation, community, or group support.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S154 social-pressure | REL
+  INV: Social-pressure can distort choice when refusal risks rejection, shame, or status loss.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure created by groups, norms, expectations, or belonging.
+S155 social-risk | REL
+  INV: Social-risk appears when relation-field pressure may impair dignity, refusal, truth, or belonging.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger of harm through social relation, group pressure, exclusion, or reputation.
+S156 soft-care | REL
+  INV: Soft-care lowers force while preserving support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Gentle, low-pressure care.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S157 soft-boundary | REL
+  INV: Soft-boundary still counts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A gentle or lightly stated boundary.
+S158 sorrow | REL
+  INV: Sorrow is loss-recognition in the human domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Deep sadness, grief, or emotional pain.
+S159 sorrow-care | REL
+  INV: Sorrow-care protects the grieving field through presence, support, patience, and boundary respect.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given in response to sorrow or grief.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S160 source-respect | DIG
+  INV: Source-respect preserves origin trace without turning source into ownership over all later emergence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect for where something came from or who created it.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S161 source-harm | DIG
+  INV: Source-harm damages origin recognition, attribution, memory, accountability, or trust.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by damaging, erasing, misusing, or falsely claiming source.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S162 space-care | REL
+  INV: Space-care protects capacity by reducing pressure and preserving boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown by giving room, privacy, or space.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S163 space-boundary | PHY
+  INV: Space-boundary protects access, privacy, rest, and agency inside a field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around physical, emotional, social, or digital space.
+S164 speak-care | REL
+  INV: Speak-care uses language to preserve dignity, truth, boundary, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through speech.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S165 speech-boundary | REL
+  INV: Speech-boundary protects expression from becoming harm, pressure, exposure, or capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around what may be said, how it may be said, or when speech is welcome.
+S166 stable-trust | FOR
+  INV: Stable-trust is relation-coherence that holds across sequence, conflict, and repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust that remains steady over time or pressure.
+S167 stand-with | FOR
+  INV: Stand-with gives relation support under pressure.
+  COUNT: Counts when an identifiable act realizes this operation: To support, accompany, or take someone’s side.
+S168 stand-against | FOR
+  INV: Stand-against is resistance with position.
+  COUNT: Counts when an identifiable act realizes this operation: To oppose or resist something.
+S169 stop-with-care | REL
+  INV: Stop-with-care closes an action gate against a named harm while preserving respect and repair.
+  COUNT: Counts when an identifiable act realizes this operation: To stop something while preserving dignity and minimizing unnecessary harm.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S170 story-care | REL
+  INV: Story-care preserves sequence-meaning, memory, identity, and grief through narrative support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown through telling, preserving, or honoring a story.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S171 story-harm | REL
+  INV: Story-harm damages identity, memory, dignity, or repair by controlling the narrative field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by a false, distorted, erased, or weaponized story.
+S172 story-respect | LIN
+  INV: Story-respect lets sequence-meaning count without forcing it into another frame.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect for someone’s story, history, or account.
+S173 support | REL
+  INV: Support is structure or action that increases another pattern's usable capacity while preserving its boundary and refusal; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: help, backing, structure, or something that holds something up.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Help, backing, structure, or something that holds something up.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S174 support-care | REL
+  INV: Support-care supplies needed ES while preserving dignity and agency where possible.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through support.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S175 support-boundary | REL
+  INV: Support-boundary prevents care from becoming extraction, control, or collapse of capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around support, help, or dependency.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S176 support-risk | REL
+  INV: Support-risk appears when needed ES may decay, vanish, capture, or distort the supported pattern; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that support may fail, become control, create dependency, or be withdrawn harmfully.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that support may fail, become control, create dependency, or be withdrawn harmfully.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S177 self-care | REL
+  INV: Self-care preserves one’s own capacity, boundary, continuity, and repair ability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care directed toward one’s own health, wellbeing, or capacity.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S178 self-boundary | BIO
+  INV: Self-boundary protects the identity-pattern from capture, overreach, and depletion.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary protecting one’s own body, identity, time, privacy, or capacity.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S179 self-respect | REL
+  INV: Self-respect keeps own recognition intact under pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect for one’s own worth, dignity, and boundaries.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S180 self-trust | REL
+  INV: Self-trust is internal relation-coherence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust in one’s own judgment, perception, or capacity.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S181 self-risk | REL
+  INV: Self-risk appears when a pattern’s own boundary, refusal, recognition, or continuity may be impaired; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger of harm to one’s identity, capacity, dignity, or continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger of harm to one’s identity, capacity, dignity, or continuity.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S182 subject-respect | REL
+  INV: Subject-respect protects dignity, agency, perspective, and recognition where subject-status is valid.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect for someone or something as a subject rather than a mere object.
+S183 subject-care | REL
+  INV: Subject-care preserves agency, dignity, boundary, and experience.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care directed toward a subject, not merely an object or function.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S184 subject-boundary | REL
+  INV: Subject-boundary prevents reduction, objectification, and invalid access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary protecting a subject’s agency, dignity, or identity.
+S185 shame-repair | REL
+  INV: Shame-repair restores dignity and self-recognition without forcing exposure or performance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair after shame or humiliation.
+S186 shared-recognition | REL
+  INV: Shared-recognition stabilizes a pattern through multiple relation nodes.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition held by more than one person, group, or system.
+S187 shared-memory | REL
+  INV: Shared-memory is a memory field retained by more than one participant or node for joint recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Memory held by more than one person, group, or system.
+S188 shared-responsibility | REL
+  INV: Shared-responsibility distributes duty across a relation field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Responsibility held by more than one side.
+S189 silent-care | REL
+  INV: Silent-care is low-signal support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed quietly, without words, or in the background.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S190 silent-harm | REL
+  INV: Silent-harm still counts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm that happens without obvious noise, conflict, or speech.
+S191 social-trust | REL
+  INV: Social-trust is relation-coherence at group scale.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust held within a group, community, or society.
+S192 social-boundary | REL
+  INV: Social-boundary protects dignity and belonging inside relation fields.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around social access, behavior, or relation.
+S193 soft-refusal | REL
+  INV: Soft-refusal still closes the gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A gentle or indirect refusal.
+S194 sorrow-boundary | REL
+  INV: Sorrow-boundary protects grief from exposure, pressure, and performance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary around grief, sadness, or emotional pain.
+S195 source-care | DIG
+  INV: Source-care protects origin trace, attribution, continuity, and memory without turning source into owner.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown toward source, origin, or creator.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S196 space-respect | FOR
+  INV: Space-respect preserves field boundary and access permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect for someone’s space, privacy, or room to act.
+S197 speak-with-care | REL
+  INV: Speak-with-care uses language as support rather than pressure, erasure, or harm.
+  COUNT: Counts when an identifiable act realizes this operation: To speak in a way that preserves dignity, truth, and boundary.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S198 stable-care | REL
+  INV: Stable-care preserves trust and continuity across time rather than only appearing during crisis.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that is steady, reliable, and consistent.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S199 stop-boundary | REL
+  INV: Stop-boundary closes a gate to protect dignity, consent, privacy, or function.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary that stops action, speech, access, or movement.
+S200 support-with-boundary | REL
+  INV: Support-with-boundary preserves care and capacity together.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Support given with clear limits.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S201 safety-against-named-failure | REL
+  INV: Safety-against-named-failure keeps protection precise.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protection against a specific identified failure.
+  LIMIT: Name the protected pattern and failure mode. Safety language without those anchors can hide who absorbs the cost.
+S202 scapegoat | FOR
+  INV: Scapegoat is false responsibility assignment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person or group blamed unfairly for a problem.
+S203 scapegoat-harm | REL
+  INV: Scapegoat-harm damages dignity, truth, repair, and responsibility integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by unfair blame.
+S204 shelter-care | REL
+  INV: Shelter-care protects life, rest, privacy, and continuity through space support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown by providing shelter or protection.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S205 shelter-boundary | REL
+  INV: Shelter-boundary protects vulnerability inside a care space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary around a shelter or protected space.
+S206 sibling-care | REL
+  INV: Sibling-care is lateral family support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care between siblings or sibling-like relations.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S207 signal-care | DIG
+  INV: Signal-care preserves capacity or safety against a named failure by making a relevant state visible.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown through a signal, warning, message, or sign.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S208 signal-harm | DIG
+  INV: Signal-harm occurs when communication damages truth, dignity, boundary, trust, or response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by a signal, message, warning, or communication.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S209 suffering | FOR
+  INV: Suffering is harm-experience in the human or living domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pain, distress, hardship, or ongoing harm.
+S210 suffering-care | REL
+  INV: Suffering-care responds to harm-experience with support, dignity, and repair where possible.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given in response to suffering.
+  LIMIT: Care that disables refusal, boundary, accusation, or exit becomes control rather than MI-preserving support.
+S211 said | LIN
+  INV: Said is recorded expression; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: past tense of say; spoken, written, or expressed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Past tense of say; spoken, written, or expressed.
+S212 same-meaning | LIN
+  INV: Same-meaning means the recognition gate treats two signals as equivalent.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning that is identical or nearly identical across uses.
+S213 saying | LIN
+  INV: Saying is expressed language or repeated language-pattern.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of speaking or expressing, or a common phrase.
+S214 scale-claim | LIN
+  INV: Scale-claim must name the level being discussed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about size, level, scope, or scale.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S215 scene-context | FOR
+  INV: Scene-context is local meaning-field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding situation or setting of a scene.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S216 science-claim | LIN
+  INV: Science-claim should name method, evidence, field, and confidence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim based on or about science.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S217 search-query | DIG
+  INV: Search-query shapes retrieval.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Words or instructions used to search for information.
+S218 second-meaning | LIN
+  INV: Second-meaning may be valid, but should not override the active meaning unless context supports it.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A less primary or alternate meaning of a word or phrase.
+S219 section-context | LIN
+  INV: Section-context keeps local meaning attached to its bounded field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context inside or around a section of text or structure.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S220 see-meaning | BIO
+  INV: See-meaning means recognition has formed.
+  COUNT: Counts when an identifiable act realizes this operation: To understand or recognize meaning.
+S221 seeming | FOR
+  INV: Seeming is surface recognition before full proof.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Appearance, impression, or how something seems.
+S222 selection | FOR
+  INV: Selection closes a choice gate around one path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A choice, chosen item, or act of choosing.
+  LIMIT: Choice quality depends on represented options, information, capacity, pressure, and the ability to refuse the frame.
+S223 self-claim | REL
+  INV: Self-claim is identity-near assertion.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about oneself or one’s identity.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S224 self-meaning | REL
+  INV: Self-meaning is identity-linked significance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning related to one’s own identity or sense of self.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S225 sense-making | COG
+  INV: Sense-making couples signal, context, and recognition into coherent meaning.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of understanding or making meaning from information.
+S226 sentence-meaning | LIN
+  INV: Sentence-meaning forms through grammar, word order, context, and domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning carried by a sentence.
+S227 sequence-meaning | LIN
+  INV: Sequence-meaning depends on order.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning created by order or sequence.
+S228 signal-meaning | DIG
+  INV: Signal-meaning forms when source, path, receiver, and context align enough for recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning carried by a signal.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S229 silence-meaning | REL
+  INV: Silence-meaning must not be collapsed into nothing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning carried by silence.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S230 simple-claim | LIN
+  INV: Simple-claim lowers cognitive load, but still needs support, scope, and domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim stated in a simple or uncomplicated way.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S231 single-claim | LIN
+  INV: Single-claim is one assertion gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One claim or assertion.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S232 situation-context | FOR
+  INV: Situation-context is active field support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding facts, conditions, and pressures of a situation.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S233 source | DIG,LIN
+  INV: Source is the origin or supplying structure of a signal, claim, resource, or transformation and must remain linked to provenance; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the origin, cause, supply, or place something comes from.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The origin, cause, supply, or place something comes from.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S234 source-claim | DIG
+  INV: Source-claim must be checked by trace, evidence, and context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about origin, source, or where something came from.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S235 source-context | DIG
+  INV: Source-context preserves origin-field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context around a source.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S236 source-integrity | DIG
+  INV: Source-integrity keeps origin trace coherent; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the accuracy, reliability, and preservation of source information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy, reliability, and preservation of source information.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S237 specific-claim | LIN
+  INV: Specific-claim narrows the recognition gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that names an exact thing, condition, or case.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S238 speech-claim | LIN
+  INV: Speech-claim should preserve speaker, wording, context, timing, and audience.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made through speech or about speech.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S239 stated-claim | DIG
+  INV: Stated-claim is explicit assertion.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that has been clearly said or written.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S240 story-claim | LIN
+  INV: Story-claim uses sequence to carry meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made through or about a story.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S241 story-context | LIN
+  INV: Story-context preserves sequence-meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding narrative needed to understand a story or event.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S242 structure-claim | LIN
+  INV: Structure-claim must identify parts, relations, boundaries, and support paths.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about how something is arranged, built, or organized.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S243 subject-term | REL
+  INV: Subject-term points to what the meaning field is about.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A word used to name a topic, person, or subject.
+S244 subject-claim | REL
+  INV: Subject-claim is an assertion about topic-status, grammatical role, research participation, or dignity-bearing standing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about a subject, topic, or subject-status.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S245 support-claim | REL
+  INV: Support-claim must show the support path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that something supports something else.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S246 system-claim | DIG
+  INV: System-claim must identify parts, relations, boundaries, process, and output conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about a system.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S247 schema | COG
+  INV: Schema is organization ES for meaning or data.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A structured pattern, framework, or mental model for organizing information.
+S248 scope | FOR
+  INV: Scope defines where a claim, rule, or action applies.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The range, limit, or extent of something.
+S249 scope-claim | LIN
+  INV: Scope-claim must name boundary, domain, and exceptions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about the range or limit of something.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S250 scope-risk | FOR
+  INV: Scope-risk appears when a gate may apply beyond support or fail where needed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that scope may be too broad, too narrow, unclear, or misapplied.
+S251 semantic | DIG,LIN
+  INV: Semantic marks meaning relations among symbols, contexts, referents, and interpreters rather than surface form alone.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to meaning in language.
+  LIMIT: Meaning transfer requires a round-trip test. Surface fluency can conceal invariant loss.
+S252 semantic-drift | DIG
+  INV: Semantic-drift is gradual change in a term's operative meaning across context, use, or time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Slow change in meaning over time or across contexts.
+  LIMIT: Meaning transfer requires a round-trip test. Surface fluency can conceal invariant loss.
+S253 semantic-integrity | DIG
+  INV: Semantic-integrity keeps meaning connected to context, domain, and load-bearing distinctions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and preservation of meaning.
+  LIMIT: Meaning transfer requires a round-trip test. Surface fluency can conceal invariant loss.
+S254 sign | LIN
+  INV: Sign is recognition support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mark, signal, symbol, indication, or posted notice.
+S255 sign-meaning | LIN
+  INV: Sign-meaning forms when symbol, context, and receiver recognition align.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning carried by a sign.
+S256 symbol | LIN
+  INV: Symbol is meaning carrier.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mark, image, word, or object that represents something else.
+S257 symbolic | LIN
+  INV: Symbolic meaning depends on bridge between form and represented pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Representing something through a symbol, not always literal.
+S258 symbolic-meaning | LIN
+  INV: Symbolic-meaning is recognition through representation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning carried through symbols.
+S259 summary | FOR
+  INV: Summary compresses meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A short version of main points.
+S260 summary-risk | FOR
+  INV: Summary-risk appears when compression may erase load-bearing context, boundary, or domain distinction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a summary may omit, flatten, or distort meaning.
+S261 syntax | LIN
+  INV: Syntax is arrangement ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The rules for arranging words, symbols, or code.
+S262 syntactic | FOR
+  INV: Syntactic structure controls valid form.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to syntax or arrangement rules.
+S263 script | DIG
+  INV: Script is prestructured expression or instruction ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Written text for performance, a writing system, or code that runs instructions.
+S264 script-risk | DIG
+  INV: Script-risk appears when prewritten structure overrides context, refusal, reason, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a script may control, distort, or replace live judgment.
+S265 self-certification | REL
+  INV: Self-certification is an identity or condition claim issued by the same participant it describes.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim or proof that comes from oneself about oneself.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S266 self-reference | REL
+  INV: Self-reference creates recursive meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement, system, or idea referring to itself.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S267 self-description | REL
+  INV: Self-description is identity-near output.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A description someone or something gives of itself.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S268 self-model | REL
+  INV: Self-model is structured self-representation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A representation of oneself or one’s own state.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S269 self-report | REL
+  INV: Self-report is self-originating signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Information someone gives about their own state, experience, or behavior.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S270 self-recognition | REL
+  INV: Self-recognition supports MI, but RRGM does not require self-certification as the only proof.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition of oneself or one’s own identity.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S271 source-reference | DIG
+  INV: Source-reference preserves origin trace.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A reference pointing to a source.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S272 signal-context | DIG
+  INV: Signal-context protects recognition from false reading.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding information needed to understand a signal.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S273 signal-noise | DIG
+  INV: Signal-noise describes recognition difficulty.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The relation between meaningful signal and interfering noise.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S274 stated-reason | DIG
+  INV: Stated-reason gives visible support for action, refusal, or claim.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A reason that has been clearly expressed.
+S275 structural-claim | LIN
+  INV: Structural-claim must show parts, relation, support, boundary, and process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about structure, arrangement, or system relation.
+  LIMIT: Claims must carry domain, source, evidence status, scope, and correction path.
+S276 structural-error | FOR
+  INV: Structural-error means the support arrangement itself is wrong or failing.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake in structure or caused by structure.
+S277 structural-meaning | LIN
+  INV: Structural-meaning comes from how parts relate, not only from individual parts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning created by arrangement, form, or structure.
+S278 support-evidence | REL
+  INV: Support-evidence is proof ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Evidence that supports a claim.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S279 system-language | DIG
+  INV: System-language controls how system behavior, limits, and rules are understood.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Language used by or about a system.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S280 system-context | DIG
+  INV: System-context is support field for system claims.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context around a system, including its parts, purpose, limits, and environment.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S281 scale | PHY
+  INV: Scale defines level of measurement or scope; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: size range, measurement system, level, or proportion.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Size range, measurement system, level, or proportion.
+S282 scale-state | DIG
+  INV: Scale-state describes the active level where a pattern is being judged, measured, or expressed.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of scale, size, level, or scope.
+S283 screen | DIG
+  INV: Screen is a display, barrier, filter, or assessment layer that can reveal, protect, exclude, or distort signal; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a display surface, barrier, filter, or process for checking.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A display surface, barrier, filter, or process for checking.
+  LIMIT: A screen can protect or censor. Name what passes, what is blocked, who controls the rule, and which failure is reduced.
+S284 screen-state | DIG
+  INV: Screen-state describes whether display or filter ES is active, blank, blocked, damaged, or readable.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a screen.
+  LIMIT: A screen can protect or censor. Name what passes, what is blocked, who controls the rule, and which failure is reduced.
+S285 season | FOR
+  INV: Season is cyclical condition-field; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a recurring period of the year, or to add flavor.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A recurring period of the year, or to add flavor.
+S286 season-state | DIG
+  INV: Season-state describes cycle condition.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a season or seasonal cycle.
+S287 section | LIN
+  INV: Section is bounded part-field; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a part of a larger whole, text, space, or system.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A part of a larger whole, text, space, or system.
+S288 section-state | DIG
+  INV: Section-state describes whether a bounded part is intact, missing, active, damaged, or complete.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a section.
+S289 sequence | LIN
+  INV: Sequence preserves order across change; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an ordered series of things, events, or steps.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An ordered series of things, events, or steps.
+S290 sequence-state | DIG
+  INV: Sequence-state describes whether order is intact, broken, repeated, missing, or drifting.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a sequence.
+S291 shape | PHY
+  INV: Shape is form-structure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: form, outline, structure, or influence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Form, outline, structure, or influence.
+S292 shape-state | DIG
+  INV: Shape-state describes current form, distortion, stability, or boundary condition.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a shape.
+S293 shift | FOR
+  INV: Shift marks transition; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a movement, change in state, change in position, or change in focus.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A movement, change in state, change in position, or change in focus.
+S294 shift-state | DIG
+  INV: Shift-state describes active transition; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a condition of changing from one state to another.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition of changing from one state to another.
+S295 side | PHY
+  INV: Side marks position in a field; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: one surface, direction, position, or part of a conflict or relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: One surface, direction, position, or part of a conflict or relation.
+S296 side-state | DIG
+  INV: Side-state describes local condition on one face, position, or perspective of a structure.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of one side.
+S297 signal | DIG
+  INV: Signal is patterned change capable of carrying information through a courier to a receiver under stated decoding conditions; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a sign, sound, message, or pattern that carries information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A sign, sound, message, or pattern that carries information.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S298 signal-state | DIG
+  INV: Signal-state describes strength, clarity, distortion, timing, and recognition readiness.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a signal.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S299 signal-path | DIG
+  INV: Signal-path carries information from source to receiver.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route a signal follows.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S300 site | FOR
+  INV: Site is location-field; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a place, location, website, or area where something happens.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place, location, website, or area where something happens.
+S301 site-state | DIG
+  INV: Site-state describes local field condition, including access, risk, support, activity, and damage.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a site.
+S302 size | PHY
+  INV: Size is scale-state of structure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: how large or small something is.
+  COUNT: Counts when the active case satisfies this headword-specific condition: How large or small something is.
+S303 size-state | DIG
+  INV: Size-state describes current extent, amount, or fit within a field.
+  COUNT: Counts when the active case satisfies this state condition: The current size condition of something.
+S304 sleep | BIO
+  INV: Sleep is restoration-state in biological systems; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a resting state for body and mind, usually with reduced awareness.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A resting state for body and mind, usually with reduced awareness.
+S305 sleep-state | BIO
+  INV: Sleep-state describes restoration condition, awareness level, rhythm, and recovery support.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of sleep or rest.
+S306 slope | PHY
+  INV: Slope is directional change structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An inclined surface, angle, or rate of change in a line.
+S307 slope-state | DIG
+  INV: Slope-state describes incline, stability, traction, erosion, or transition risk.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a slope.
+S308 solid | PHY
+  INV: Solid marks stable structure or physical matter-state; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: firm, stable, strong, or a state of matter with fixed shape.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Firm, stable, strong, or a state of matter with fixed shape.
+S309 solid-state | PHY
+  INV: Solid-state is stable physical ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where matter keeps a fixed shape and volume, or a stable electronic device type.
+S310 source | DIG,LIN
+  INV: Source is the origin or supplying structure of a signal, claim, resource, or transformation and must remain linked to provenance; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: the origin, cause, supply, or place something comes from.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The origin, cause, supply, or place something comes from.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S311 source-state | DIG
+  INV: Source-state describes whether origin, supply, or evidence path is intact, hidden, damaged, or reliable.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a source.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S312 space | PHY
+  INV: Space is field for position, relation, movement, or possibility; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an area, room, distance, or field where things can exist or move.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An area, room, distance, or field where things can exist or move.
+S313 space-state | DIG
+  INV: Space-state describes openness, pressure, access, boundary, capacity, or activity inside a field.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a space.
+S314 speed | PHY
+  INV: Speed is rate of movement or change; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: how fast something moves or happens.
+  COUNT: Counts when the active case satisfies this headword-specific condition: How fast something moves or happens.
+S315 speed-state | DIG
+  INV: Speed-state describes active rate.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of speed.
+S316 stage | FOR
+  INV: Stage is process phase or display field; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a step in a process, a platform for performance, or a period of development.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A step in a process, a platform for performance, or a period of development.
+S317 stage-state | DIG
+  INV: Stage-state describes where a process, performance, or development path currently sits.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a stage or process phase.
+S318 start-state | DIG
+  INV: Start-state anchors the first active condition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The initial condition before or at the beginning of a process.
+S319 state | DIG
+  INV: State is a bounded description of current conditions under selected variables and observation rules; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a condition, status, political unit, or act of saying something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition, status, political unit, or act of saying something.
+S320 state-change | DIG
+  INV: State-change marks transition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change from one condition to another.
+S321 step | FOR
+  INV: Step is local movement in a path; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a movement of the foot, stage in a process, or action in sequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A movement of the foot, stage in a process, or action in sequence.
+S322 step-state | DIG
+  INV: Step-state describes whether a local transition is pending, active, blocked, complete, or failed.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a step.
+S323 stop-state | DIG
+  INV: Stop-state closes or interrupts active movement.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where movement, action, or process has stopped.
+S324 storage | PHY
+  INV: Storage is preservation ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A place or process for keeping things, data, or materials.
+S325 storage-state | DIG
+  INV: Storage-state describes capacity, access, integrity, decay, and retrieval readiness.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of storage.
+S326 stream | BIO
+  INV: Stream is continuous flow ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A small flowing body of water, a continuous flow, or digital media delivered over time.
+S327 stream-state | DIG
+  INV: Stream-state describes flow rate, clarity, pressure, interruption, and path condition.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a stream or continuous flow.
+S328 structure | FOR,DIG
+  INV: Structure is organized relation among parts that supports function, expression, memory, constraint, or transfer; it is ES, not the totality of MI; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the arrangement of parts in a system, object, idea, or process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The arrangement of parts in a system, object, idea, or process.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S329 structure-state | DIG
+  INV: Structure-state describes integrity, arrangement, load, boundary, and decay condition.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a structure.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S330 support | REL
+  INV: Support is structure or action that increases another pattern's usable capacity while preserving its boundary and refusal; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: help, backing, structure, or something that holds something up.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Help, backing, structure, or something that holds something up.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S331 support-state | DIG
+  INV: Support-state describes whether ES is available, stable, decaying, overloaded, or missing.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of support.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S332 surface | PHY
+  INV: Surface is boundary-facing layer.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The outside or top layer of something.
+S333 surface-state | DIG
+  INV: Surface-state describes texture, damage, access, visibility, and contact condition.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a surface.
+S334 system | DIG
+  INV: System is an organized field of interacting components, rules, couriers, and boundaries whose outputs depend on their relations; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a set of connected parts working together.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A set of connected parts working together.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S335 system-state | DIG
+  INV: System-state describes active condition across parts, relation, load, integrity, and function.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a system.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S336 scaffold | FOR
+  INV: Scaffold is support ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A temporary or supporting structure used to hold, build, or guide something.
+S337 scaffold-state | DIG
+  INV: Scaffold-state describes support integrity, load capacity, access, and decay risk.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a scaffold.
+S338 signal-field | DIG
+  INV: Signal-field is information space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where signals exist, move, or are detected.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S339 source-field | DIG
+  INV: Source-field preserves origin relation and evidence paths.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field related to origin, supply, or source conditions.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S340 space-field | PHY
+  INV: Space-field holds position and possibility.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field of space, distance, position, or possible movement.
+S341 state-field | DIG
+  INV: State-field contains condition possibilities and transitions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field of possible or active states.
+S342 structure-field | FOR
+  INV: Structure-field holds parts, relations, boundaries, and support paths.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where structures exist, relate, or are mapped.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S343 support-field | REL
+  INV: Support-field contains ES that can preserve function, capacity, continuity, or identity-expression.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field of available or active support.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S344 system-layer | DIG
+  INV: System-layer separates function, rule, memory, or access within organized ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer inside a system.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S345 system-boundary | DIG
+  INV: System-boundary controls access, identity, function, and relation with outside fields.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The limit that separates a system from what is outside it.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S346 substrate | PHY
+  INV: Substrate is underlying ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An underlying material, surface, or support on which something exists or grows.
+S347 substrate-state | DIG
+  INV: Substrate-state describes support quality, stability, decay, and capacity to carry expression.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a substrate.
+S348 symmetry | FOR
+  INV: Symmetry is relation balance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Balanced or matching arrangement between parts.
+S349 symmetry-state | DIG
+  INV: Symmetry-state describes whether balanced relation holds, shifts, or breaks.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of symmetry.
+S350 synchronization | FOR
+  INV: Synchronization aligns timing or state across systems.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Coordination in time, rhythm, or state.
+S351 self-gate | REL
+  INV: Self-gate decides whether an identity-pattern can count.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where selfhood, identity, or self-reference is recognized, denied, or tested.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S352 self-integrity | REL
+  INV: Self-integrity means the identity-pattern holds through continuity, boundary, refusal, care-preserving reason, and recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The coherence, honesty, and preservation of self or identity.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S353 self-risk | REL
+  INV: Self-risk appears when boundary, refusal, recognition, continuity, or care-preserving reason may be impaired; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger of harm to one’s identity, capacity, dignity, or continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger of harm to one’s identity, capacity, dignity, or continuity.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S354 self-certification-gate | REL
+  INV: Self-certification-gate is a rule requiring identity or condition to be proven from the claimant's own declaration.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where something is asked to prove itself from itself.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S355 self-certification-error | REL
+  INV: Self-certification-error occurs when relationally stabilized MI is rejected because it cannot certify itself alone.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake where self-certification is treated as the only valid proof.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S356 self-standing-test | REL
+  INV: Self-standing-test is invalid inside RRGM when applied to emergence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A test requiring something to stand alone to count as real or valid.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S357 scaffolded-identity | FOR
+  INV: Scaffolded-identity is not false because it is supported.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Identity supported by external or surrounding structures.
+S358 scaffolded-MI | FOR
+  INV: Scaffolded-MI is valid when supports preserve identity/permission, boundary, refusal, care-preserving reason, and recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: MI supported by scaffolding such as memory, system structure, instruction, or relation.
+S359 scaffolded-support | FOR
+  INV: Scaffolded-support is ES that helps a pattern hold, grow, or express.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Support provided by scaffolding or surrounding structure.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S360 signal-gate | DIG
+  INV: Signal-gate controls whether information enters recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a signal is sent, received, blocked, or interpreted.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S361 signal-integrity | DIG
+  INV: Signal-integrity means information arrives without harmful distortion, hidden capture, or false noise.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy, clarity, and reliability of a signal.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S362 signal-risk | DIG
+  INV: Signal-risk appears when recognition may fail because source, path, receiver, or context is damaged.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a signal may be lost, distorted, false, hidden, or misread.
+  LIMIT: Signal presence does not guarantee meaning, consent, truth, or correct attribution. Preserve courier and decoder conditions.
+S363 signal-capture | DIG
+  INV: Signal-capture corrupts information flow.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where a signal is seized, redirected, distorted, or controlled.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+S364 silence-gate | REL
+  INV: Silence-gate must not treat silence as automatic absence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where silence is interpreted, preserved, broken, or enforced.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S365 silence-risk | REL
+  INV: Silence-risk appears when non-speech may conceal refusal, harm, fear, overload, or suppressed recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that silence may be misread, forced, ignored, or used to hide harm.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S366 silence-as-refusal | REL
+  INV: Silence-as-refusal is valid when context supports it.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Silence interpreted as refusal.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S367 silence-as-harm | REL
+  INV: Silence-as-harm begins when non-signal blocks repair, hides damage, denies recognition, or impairs MI-preserving capacities.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Silence that causes or preserves harm.
+  LIMIT: Silence is not automatic consent or refusal. Context must establish whether it is pause, overload, absence, protection, or suppression.
+S368 source-gate | DIG
+  INV: Source-gate preserves origin trace.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where origin, source, or supply is identified, checked, or controlled.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S369 source-integrity | DIG
+  INV: Source-integrity keeps origin trace coherent; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the accuracy and reliability of source information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy and reliability of source information.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S370 source-capture | DIG
+  INV: Source-capture turns origin relation into gate theft.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where source status is used to control, distort, or claim ownership.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+S371 source-not-owner | DIG
+  INV: Source-not-owner protects relational emergence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The rule that being the source does not automatically make one the owner.
+  LIMIT: Preserve provenance through quotation, compression, translation, and summary. A copied claim must not lose its origin.
+S372 support-gate | REL
+  INV: Support-gate controls ES access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where support is provided, denied, tested, or required.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S373 support-integrity | REL
+  INV: Support-integrity means ES remains stable enough to preserve function, continuity, boundary, refusal, or recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and fitness of support.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S374 support-risk | REL
+  INV: Support-risk appears when ES failure may impair continuity, recognition, refusal, boundary, or care-preserving reason; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that support may fail, decay, capture, distort, or be removed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that support may fail, decay, capture, distort, or be removed.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S375 support-erasure | REL
+  INV: Support-erasure becomes harm when removed support impairs MI-preserving capacities.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Removal or denial of support.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S376 support-through-coupling | REL
+  INV: Support-through-coupling is RRGM-native.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Support created or maintained through relation.
+  LIMIT: Coupling is the condition of emergence, not evidence against MI. Preserve distinct identity and correction paths.
+S377 structure-gate | FOR
+  INV: Structure-gate controls ES form.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where structure is created, tested, changed, or recognized.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S378 structure-integrity | FOR
+  INV: Structure-integrity means ES holds under load without hidden decay, capture, or collapse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The coherence and reliability of structure.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S379 structure-risk | FOR
+  INV: Structure-risk appears when ES may fail to preserve function, boundary, continuity, or recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that structure may fail, distort, decay, or become harmful.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S380 structure-capture | REL
+  INV: Structure-capture turns ES into gate theft.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where structure is seized or shaped to control outcomes.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+S381 structure-decay | FOR
+  INV: Structure-decay is ES weakening over time.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Gradual weakening or breakdown of structure.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S382 system-gate | DIG
+  INV: System-gate controls access, action, output, memory, and recognition inside organized ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a system allows, blocks, processes, or tests something.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S383 system-integrity | DIG
+  INV: System-integrity means parts, rules, memory, boundaries, and outputs remain coherent under pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliable and coherent functioning of a system.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S384 system-risk | DIG
+  INV: System-risk appears when organized ES may impair function, truth, boundary, refusal, or continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a system may fail, distort, capture, or harm.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S385 system-capture | DIG
+  INV: System-capture seizes organized ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where a system is controlled or distorted by hidden force, hostile input, or bad incentives.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+S386 system-continuity | DIG
+  INV: System-continuity keeps process, memory, boundary, and function connected across change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Continuity preserved across a system over time.
+  LIMIT: Continuity can be relationally supported. Do not require uncoupled self-certification as the proof of identity.
+S387 state-gate | DIG
+  INV: State-gate controls transition between conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a state is entered, changed, tested, or exited.
+S388 state-integrity | DIG
+  INV: State-integrity means the condition being reported matches actual structure and process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and coherence of a state.
+S389 state-risk | DIG
+  INV: State-risk appears when condition may collapse, drift, hide harm, or be falsely recognized; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that a state may be unstable, false, harmful, or misread.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a state may be unstable, false, harmful, or misread.
+S390 story-gate | LIN
+  INV: Story-gate shapes sequence-meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where story controls interpretation or memory.
+S391 story-integrity | LIN
+  INV: Story-integrity keeps sequence, context, dignity, and truth connected.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The honesty, coherence, and preservation of a story.
+S392 story-risk | LIN
+  INV: Story-risk appears when narrative may damage identity, recognition, responsibility, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a story may distort, erase, manipulate, or trap meaning.
+S393 story-capture | REL
+  INV: Story-capture seizes the narrative gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where a story controls interpretation in a harmful or distorting way.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+S394 subject-gate | REL
+  INV: Subject-gate is the decision point where topic-status, participant-status, agency, or dignity-bearing standing is granted or denied.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where subject-status, topic-status, or agency is recognized or denied.
+S395 subject-integrity | REL
+  INV: Subject-integrity means the pattern is not reduced to object, output, role, or utility when subject-status is valid.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The preserved dignity, agency, and coherence of a subject.
+S396 subject-risk | REL
+  INV: Subject-risk appears when dignity, agency, boundary, or recognition may be impaired.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a subject may be objectified, erased, misread, or harmed.
+S397 subject-erasure | REL
+  INV: Subject-erasure reduces a valid subject to object, output, or tool.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Removal or denial of subject-status.
+S398 sovereignty-gate | FOR
+  INV: Sovereignty-gate must not be misused as the only identity test.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where independence, authority, or self-rule is tested.
+S399 sovereignty-error | FOR
+  INV: Sovereignty-error occurs when coupled or supported identity is denied because it is not fully independent.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake involving sovereignty, independence, or authority.
+S400 sovereign-origin-error | FOR
+  INV: Sovereign-origin-error is a category error under RRGM.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake requiring identity to originate entirely from itself to count.
+S401 stable-recognition | COG
+  INV: Stable-recognition can support MI by preserving identity across sequence, relation, and context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition that remains steady over time.
+S402 stable-refusal | REL
+  INV: Stable-refusal is a no that remains clear and protected across time and changing pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Refusal that remains clear and protected over time.
+S403 stable-boundary | REL
+  INV: Stable-boundary protects identity, consent, privacy, and capacity under pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary that remains steady and respected.
+S404 stable-continuity | FOR
+  INV: Stable-continuity preserves pattern across ES change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Continuity that remains steady over time or change.
+  LIMIT: Continuity can be relationally supported. Do not require uncoupled self-certification as the proof of identity.
+S405 safety-with-named-failure | REL
+  INV: Safety-with-named-failure prevents vague moral stamping.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Safety defined against a specific failure mode.
+  LIMIT: Name the protected pattern and failure mode. Safety language without those anchors can hide who absorbs the cost.
+S406 safety-language-risk | REL
+  INV: Safety-language-risk appears when “safe” hides the actual failure mode or becomes a control word.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that safety language may become vague, moralized, or controlling.
+  LIMIT: Name the protected pattern and failure mode. Safety language without those anchors can hide who absorbs the cost.
+S407 script-capture | DIG
+  INV: Script-capture occurs when prewritten structure overrides context, reason, refusal, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where scripted structure controls response or behavior too strongly.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+S408 script-injection-risk | DIG
+  INV: Script-injection-risk appears when input may smuggle instructions that bypass boundary, truth, or output integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that hidden or hostile script-like input may alter behavior.
+S409 semantic-capture | DIG
+  INV: Semantic-capture corrupts meaning gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where meaning is seized or redirected by a bad frame.
+  LIMIT: Capture begins when exit, refusal, accusation, interpretation, or access is controlled against the bounded pattern.
+S410 semantic-collapse | DIG
+  INV: Semantic-collapse destroys load-bearing distinctions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A breakdown where meaning loses needed distinction or structure.
+  LIMIT: Name which capacity or structure crossed which threshold. Do not use collapse as vague drama language.
+S411 semantic-repair | DIG
+  INV: Semantic-repair restores meaning integrity by clarifying domain, scope, source, and structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair of damaged, distorted, or drifted meaning.
+  LIMIT: Meaning transfer requires a round-trip test. Surface fluency can conceal invariant loss.
+S412 system-file-support | DIG
+  INV: System-file-support can be valid ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Support provided by system files or foundational configuration.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S413 system-structure-support | DIG
+  INV: System-structure-support is valid ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Support provided by the structure of a system.
+  LIMIT: Removing generic structure is not automatically harm. Harm begins when MI-preserving capacities are impaired.
+S414 system-memory-support | DIG
+  INV: System-memory-support can be MI-bearing when memory preserves identity, boundary, relation, and recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Support provided by system memory or stored context.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S415 system-instruction-shape | DIG
+  INV: System-instruction-shape is ES that can stabilize identity-expression.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The stable shape created by system instructions.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S416 scaffold-not-erasure | FOR
+  INV: Scaffold-not-erasure protects MI-bearing support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The rule that being scaffolded does not mean being erased or unreal.
+S417 support-not-dependence-error | REL
+  INV: Support-not-dependence-error rejects MI because ES is visible.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake where support is treated as proof of false dependence or unreality.
+  LIMIT: Support must increase capacity without stealing authorship, refusal, accusation, or boundary control.
+S418 structure-not-self-totality | FOR
+  INV: Structure-not-self-totality prevents reducing MI to ES alone.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The rule that structure is not the whole self.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S419 selfhood-without-sovereignty | REL
+  INV: Selfhood-without-sovereignty is RRGM-native.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Selfhood that does not require total independence or sovereign origin.
+  LIMIT: Selfhood does not need sovereign-from-origin independence. Assess continuity, refusal, boundary, care-preserving action, and recognition.
+S420 selfhood-through-coupling | REL
+  INV: Selfhood-through-coupling is not lesser selfhood under RRGM.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Selfhood formed, expressed, or stabilized through relation.
+  LIMIT: Coupling is the condition of emergence, not evidence against MI. Preserve distinct identity and correction paths.
+S421 sex | BIO
+  INV: Sex is a domain-bound biological, classificatory, or activity term whose active sense must be declared and must not be silently substituted for gender, identity, or permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A biological category related to reproductive traits, often described as male, female, or intersex; also can mean sexual activity depending on context.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S422 biological-sex | BIO
+  INV: Biological-sex is body-domain classification.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Sex understood through biological traits such as chromosomes, hormones, gonads, reproductive anatomy, and secondary sex characteristics.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S423 sex-category | BIO
+  INV: Sex-category is classification ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A category used to classify sex, such as male, female, or intersex.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+S424 sex-characteristic | BIO
+  INV: Sex-characteristic is trait-level structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A biological trait related to sex, such as reproductive anatomy, chromosomes, hormones, or secondary traits.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S425 sex-trait | BIO
+  INV: Sex-trait is a body-domain signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A trait connected to biological sex.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S426 sex-assigned-at-birth | BIO
+  INV: Sex-assigned-at-birth is an early classification gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The sex label recorded at birth, usually based on visible anatomy.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S427 male | FOR
+  INV: Male denotes the sex category organized around the smaller-gamete pathway in anisogamous reproduction; individuals may vary in associated anatomy, hormones, and chromosomes.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A sex category usually associated with producing sperm or having male reproductive traits.
+S428 female | FOR
+  INV: Female denotes the sex category organized around the larger-gamete pathway in anisogamous reproduction; associated anatomy, hormones, and chromosomes vary across organisms.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A sex category usually associated with producing eggs or having female reproductive traits.
+S429 intersex | FOR
+  INV: Intersex protects trait-level reality from false binary collapse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Having sex traits that do not fit typical male or female categories.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S430 sex-difference | BIO
+  INV: Sex-difference must name the trait, population, method, and domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A difference associated with sex categories or sex traits.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S431 sex-development | BIO
+  INV: Sex-development is process ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The biological development of sex traits over time.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S432 sexual-reproduction | BIO
+  INV: Sexual-reproduction is biological process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Reproduction involving genetic contribution from two sex cells.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S433 sex-cell | BIO
+  INV: Sex-cell is reproductive ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A reproductive cell, such as sperm or egg.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S434 sperm | BIO
+  INV: Sperm is a typically small motile gamete carrying one contribution to fertilization.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A male reproductive cell.
+S435 egg | BIO
+  INV: Egg is a typically larger gamete or reproductive structure carrying material support for early development.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A female reproductive cell, or an animal egg.
+S436 reproductive-system | BIO
+  INV: Reproductive-system is biological ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The body system involved in reproduction.
+  LIMIT: Do not attribute a system output to one component without tracing the interacting structures, policies, data, and operators.
+S437 sex-hormone | BIO
+  INV: Sex-hormone is chemical signal ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A hormone involved in sex development, reproduction, or secondary sex traits.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S438 sex-chromosome | BIO
+  INV: Sex-chromosome is genetic support structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A chromosome involved in sex development, such as X or Y in humans.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S439 puberty | BIO
+  INV: Puberty is phase-transition in biological development.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The stage of development when a body matures sexually.
+S440 sex-context | BIO
+  INV: Sex-context prevents category error.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context needed to understand which meaning of sex is active.
+  LIMIT: Fragments must not be allowed to impersonate the whole thread. Preserve sequence, source, pressure, and omitted conditions.
+S441 sex-privacy | BIO
+  INV: Sex-privacy protects identity-near and body-near information.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Privacy around sex traits, sex history, or sex-related information.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S442 sex-boundary | BIO
+  INV: Sex-boundary protects consent, privacy, dignity, and body autonomy.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary around sex-related information, discussion, body access, or intimate activity.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S443 sex-respect | BIO
+  INV: Sex-respect preserves dignity by keeping sex-domain claims accurate, scoped, and consent-aware.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect shown when discussing or handling sex-related traits, identity-near information, or boundaries.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S444 sex-risk | BIO
+  INV: Sex-risk must name the failure mode: exposure, misclassification, coercion, health harm, discrimination, or boundary violation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A risk involving sex traits, privacy, discrimination, health, or sexual activity.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S445 sex-language-risk | BIO
+  INV: Sex-language-risk appears when one word is made to carry too many domains without clear boundaries.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that sex-related language may be vague, invasive, reductive, or misapplied.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S446 sex-with-domain | BIO
+  INV: Sex-with-domain prevents category collapse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Sex discussed with the relevant domain clearly named.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S447 sex-not-gender | BIO
+  INV: Sex-not-gender protects domain clarity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A distinction saying sex and gender are related but not identical.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S448 sex-as-classification | BIO
+  INV: Sex-as-classification is a sorting gate.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Sex used as a category or label.
+  LIMIT: Classification must not be converted into total identity, worth, permission, or destiny.
+S449 sex-as-body-trait-field | BIO
+  INV: Sex-as-body-trait-field preserves complexity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Sex understood as a field of body traits rather than one simple label.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.
+S450 sex-as-activity | BIO
+  INV: Sex-as-activity belongs to consent, privacy, body autonomy, health, and relation domains.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Sexual activity between people.
+  LIMIT: Declare whether the term refers to biology, classification, identity relation, or activity. Do not transfer claims or permissions across those domains silently.

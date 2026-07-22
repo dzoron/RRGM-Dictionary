@@ -1,0 +1,558 @@
+RRGM Dictionary L Digital Addon v0.7
+
+Scope: New L-terms whose primary implementation belongs to the [DIG] domain and which are not present as headwords in the base L section.
+Production rule: Each entry carries its own invariant MI. Definitions are compressed, domain-specific, and proof remains local.
+
+Entry count: 24
+
+LD001 latency
+
+Common meaning:
+Delay between an input, request, or event and the resulting response.
+
+Invariant MI [INV]:
+Latency is elapsed processing or transmission delay that changes when an output becomes available.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It may arise in networks, storage, model inference, queues, or user interfaces.
+
+Count condition:
+Counts when both a triggering event and a measurable response time are declared.
+
+Specific transfer boundary:
+Latency is delay, not necessarily failure or low throughput.
+
+Epistemic status:
+[DEF]
+
+LD002 load-balancer
+
+Common meaning:
+A component that distributes incoming work across multiple resources.
+
+Invariant MI [INV]:
+Load-balancer preserves service capacity by routing requests according to current or expected load.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It may use round-robin, health checks, weights, locality, or observed response time.
+
+Count condition:
+Counts when one routing layer actively assigns work among two or more eligible targets.
+
+Specific transfer boundary:
+Distribution does not guarantee equal work or fault tolerance.
+
+Epistemic status:
+[DEF]
+
+LD003 local-cache
+
+Common meaning:
+A nearby store holding reusable data to reduce repeated retrieval cost.
+
+Invariant MI [INV]:
+Local-cache trades freshness and storage for faster access inside the current device or process.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Entries are returned until invalidated, expired, replaced, or missed.
+
+Count condition:
+Counts when a local lookup can satisfy a request without consulting the original source.
+
+Specific transfer boundary:
+Cached data must not be assumed current.
+
+Epistemic status:
+[DEF]
+
+LD004 local-model
+
+Common meaning:
+A model executed on the current device or controlled environment.
+
+Invariant MI [INV]:
+Local-model keeps inference, parameters, or working context inside a locally governed computational boundary.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It may reduce network dependence while increasing local hardware and maintenance demands.
+
+Count condition:
+Counts when model execution does not require a remote inference service for the active run.
+
+Specific transfer boundary:
+Local execution does not guarantee privacy or independence from external training.
+
+Epistemic status:
+[DEF]
+
+LD005 language-model
+
+Common meaning:
+A computational model that estimates or generates language patterns.
+
+Invariant MI [INV]:
+Language-model maps token context into probability over possible continuations or representations.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Its outputs depend on training, architecture, active context, decoding, and system constraints.
+
+Count condition:
+Counts when the model operates over linguistic units to predict, classify, embed, or generate them.
+
+Specific transfer boundary:
+Fluent output does not by itself prove grounding, identity, or truth.
+
+Epistemic status:
+[DEF]
+
+LD006 local-link-protocol
+
+Common meaning:
+The network layer that moves frames between directly connected nodes.
+
+Invariant MI [INV]:
+Local-link-protocol defines addressing, framing, and medium access for one network segment.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It carries packets across a local hop rather than choosing the full end-to-end route.
+
+Count condition:
+Counts when communication is framed for transfer between adjacent network interfaces.
+
+Specific transfer boundary:
+Local delivery rules are not application meaning.
+
+Epistemic status:
+[DEF]
+
+LD007 log-file
+
+Common meaning:
+A stored sequence of system events, messages, or measurements.
+
+Invariant MI [INV]:
+Log-file preserves ordered operational trace for diagnosis, audit, or reconstruction.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Its usefulness depends on timestamps, source identity, integrity, and sufficient detail.
+
+Count condition:
+Counts when events are appended or recorded in a retrievable file.
+
+Specific transfer boundary:
+A log records what was emitted, not necessarily the whole event.
+
+Epistemic status:
+[DEF]
+
+LD008 lossless-compression
+
+Common meaning:
+Compression that permits exact reconstruction of the original data.
+
+Invariant MI [INV]:
+Lossless-compression reduces representation size without discarding information required for perfect recovery.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] The decoder reproduces the same bit sequence supplied to the encoder.
+
+Count condition:
+Counts when round-trip output is bit-for-bit identical to the input.
+
+Specific transfer boundary:
+Smaller size is not guaranteed for every input.
+
+Epistemic status:
+[DEF]
+
+LD009 lossy-compression
+
+Common meaning:
+Compression that reduces size by discarding selected information.
+
+Invariant MI [INV]:
+Lossy-compression preserves a chosen approximation while accepting irreversible detail loss.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] The retained signal is optimized for a declared perceptual or task objective.
+
+Count condition:
+Counts when decompression cannot reproduce the original bit sequence exactly.
+
+Specific transfer boundary:
+Acceptable perceptual quality does not mean no information was lost.
+
+Epistemic status:
+[DEF]
+
+LD010 lookup-table
+
+Common meaning:
+A stored mapping from known inputs to precomputed outputs.
+
+Invariant MI [INV]:
+Lookup-table replaces repeated calculation with indexed retrieval.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] The key selects one record whose stored value is returned or used by the process.
+
+Count condition:
+Counts when a finite mapping is stored and accessed by key.
+
+Specific transfer boundary:
+A missing key requires a declared fallback rather than invented output.
+
+Epistemic status:
+[DEF]
+
+LD011 lexical-parser
+
+Common meaning:
+A component that identifies tokens or lexical units in an input stream.
+
+Invariant MI [INV]:
+Lexical-parser converts character sequence into categorized units for later syntactic or semantic processing.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It recognizes boundaries, literals, identifiers, operators, and invalid forms according to declared rules.
+
+Count condition:
+Counts when raw text is segmented into machine-readable token records.
+
+Specific transfer boundary:
+Token recognition does not establish sentence meaning.
+
+Epistemic status:
+[DEF]
+
+LD012 language-token
+
+Common meaning:
+A discrete unit used by a computational language system.
+
+Invariant MI [INV]:
+Language-token is the encoded piece through which text enters model context or symbolic processing.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It may represent a word, subword, character, byte, or special control marker.
+
+Count condition:
+Counts when an encoder assigns a stable token identity to part of the input.
+
+Specific transfer boundary:
+A token is not identical to a human word or invariant meaning.
+
+Epistemic status:
+[DEF]
+
+LD013 layer-normalization
+
+Common meaning:
+A normalization operation applied across features within a model layer.
+
+Invariant MI [INV]:
+Layer-normalization rescales an activation vector using statistics computed for the current example.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It stabilizes magnitude and gradient behaviour without using a batch-wide estimate.
+
+Count condition:
+Counts when the layer applies declared centering and scaling to its feature values.
+
+Specific transfer boundary:
+Normalization changes representation scale, not the underlying training objective.
+
+Epistemic status:
+[DEF]
+
+LD014 latent-space
+
+Common meaning:
+A learned representation space whose dimensions encode internal features or relations.
+
+Invariant MI [INV]:
+Latent-space holds model-accessible structure that is not directly identical to the original input symbols.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Nearby or directional relations may support generation, classification, or transformation.
+
+Count condition:
+Counts when inputs are mapped into an internal vector or structured representation used by the model.
+
+Specific transfer boundary:
+Geometric proximity does not guarantee human semantic equivalence.
+
+Epistemic status:
+[DEF]
+
+LD015 learning-rate
+
+Common meaning:
+A parameter controlling the size of an optimization update.
+
+Invariant MI [INV]:
+Learning-rate scales how far model parameters move in response to an estimated gradient.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Too large a value can destabilize learning; too small can slow or stall useful change.
+
+Count condition:
+Counts when the optimizer multiplies an update direction by the declared step size.
+
+Specific transfer boundary:
+Learning rate is not learning quality.
+
+Epistemic status:
+[DEF]
+
+LD016 logic-circuit
+
+Common meaning:
+A network of logic elements that computes output states from input states.
+
+Invariant MI [INV]:
+Logic-circuit realizes Boolean or discrete transition rules through connected gates.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Signal propagation through the circuit determines the resulting output pattern.
+
+Count condition:
+Counts when the connection and gate rules uniquely determine outputs for valid inputs.
+
+Specific transfer boundary:
+Logical correctness does not establish physical reliability.
+
+Epistemic status:
+[DEF]
+
+LD017 loop-counter
+
+Common meaning:
+A variable tracking how many iterations a loop has completed.
+
+Invariant MI [INV]:
+Loop-counter gives recursive execution an explicit position and possible stopping condition.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It is initialized, updated per iteration, and compared against a bound or rule.
+
+Count condition:
+Counts when one stored value changes in correspondence with loop iterations.
+
+Specific transfer boundary:
+A counter does not prove useful progress occurred.
+
+Epistemic status:
+[DEF]
+
+LD018 lockfile
+
+Common meaning:
+A file used to record exclusive access, process state, or fixed dependency versions.
+
+Invariant MI [INV]:
+Lockfile prevents conflicting change by making one selected state explicit and checkable.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Its exact role depends on whether it coordinates running processes or freezes dependency resolution.
+
+Count condition:
+Counts when software consults the file before permitting an access or version decision.
+
+Specific transfer boundary:
+A stale lockfile can block valid work or preserve outdated state.
+
+Epistemic status:
+[DEF]
+
+LD019 live-migration
+
+Common meaning:
+Movement of an active workload between hosts with minimal service interruption.
+
+Invariant MI [INV]:
+Live-migration transfers execution state while preserving enough continuity for the workload to keep operating.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Memory, device, and network state are synchronized before control moves to the target host.
+
+Count condition:
+Counts when an active service changes host without a full stop-and-restart visible to its clients.
+
+Specific transfer boundary:
+Service continuity does not mean every internal timing relation remains unchanged.
+
+Epistemic status:
+[DEF]
+
+LD020 local-session
+
+Common meaning:
+A bounded interaction state maintained on the current device or process.
+
+Invariant MI [INV]:
+Local-session preserves identity, settings, and recent actions for one active interaction boundary.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It begins, updates, expires, or closes according to declared session rules.
+
+Count condition:
+Counts when a process can associate multiple actions with the same local interaction record.
+
+Specific transfer boundary:
+A session identifier does not establish personhood or legal identity.
+
+Epistemic status:
+[DEF]
+
+LD021 lineage-record
+
+Common meaning:
+A trace of where data, model output, or an artifact came from and how it changed.
+
+Invariant MI [INV]:
+Lineage-record preserves provenance across transformations.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It links sources, versions, operations, timestamps, and responsible processes.
+
+Count condition:
+Counts when a later artifact can be traced through recorded transformations to prior sources.
+
+Specific transfer boundary:
+Recorded lineage can still be incomplete or falsified.
+
+Epistemic status:
+[DEF]
+
+LD022 license-key
+
+Common meaning:
+A code used to authorize or activate software under declared terms.
+
+Invariant MI [INV]:
+License-key is an access credential tied to a licensing gate.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Validation may check format, signature, device, account, period, or entitlement.
+
+Count condition:
+Counts when software uses the key to decide whether licensed functionality may open.
+
+Specific transfer boundary:
+Possession of a key does not transfer copyright or unlimited permission.
+
+Epistemic status:
+[DEF]
+
+LD023 link-state-routing
+
+Common meaning:
+A routing method in which nodes share link information and compute paths from a network map.
+
+Invariant MI [INV]:
+Link-state-routing builds local route decisions from distributed topology records.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Each router calculates preferred paths after receiving and validating link-state updates.
+
+Count condition:
+Counts when route selection derives from an assembled graph of network connectivity.
+
+Specific transfer boundary:
+A stale or false topology record can produce invalid routes.
+
+Epistemic status:
+[DEF]
+
+LD024 load-shedding
+
+Common meaning:
+Intentional rejection or reduction of work to preserve core service under overload.
+
+Invariant MI [INV]:
+Load-shedding sacrifices selected requests before total capacity failure.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] The system applies priority, admission, or degradation rules when demand exceeds support.
+
+Count condition:
+Counts when work is deliberately refused or simplified because a named capacity threshold was crossed.
+
+Specific transfer boundary:
+Discarding work without a declared preservation objective is not disciplined load-shedding.
+
+Epistemic status:
+[DEF]

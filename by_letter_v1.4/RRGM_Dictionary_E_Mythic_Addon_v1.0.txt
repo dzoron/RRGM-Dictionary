@@ -1,0 +1,558 @@
+RRGM Dictionary E Mythic Addon v1.0
+License: CC BY-SA 4.0
+Scope: New E-terms whose primary implementation belongs to the [MYT] domain.
+Rule: Addon terms are absent from the source base list and remain domain-local unless a coupler is declared.
+
+Entry count: 24
+
+EM001 ember-name
+
+Common meaning:
+A name carried in a surviving ember after a larger fire has gone out.
+
+Invariant MI [INV]:
+Ember-name is identity compressed into the smallest surviving sign that can still reignite recognition.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may be spoken over ash to return a person, lineage, oath, or forgotten house to the story.
+
+Count condition:
+Counts when the ember and the name jointly restore recognition or future possibility.
+
+Specific transfer boundary:
+A warm coal does not by itself preserve personal identity.
+
+Epistemic status:
+[DEF]
+
+EM002 eclipse-crown
+
+Common meaning:
+A crown whose authority appears only during an eclipse.
+
+Invariant MI [INV]:
+Eclipse-crown is temporary sovereignty opened by celestial concealment rather than ordinary succession.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its bearer may govern shadows, hidden names, or the interval between two lights.
+
+Count condition:
+Counts when the eclipse changes who can wear the crown or what authority it carries.
+
+Specific transfer boundary:
+Astronomical eclipse does not establish political authority.
+
+Epistemic status:
+[DEF]
+
+EM003 elder-gate
+
+Common meaning:
+An ancient threshold guarded by age, lineage, or remembered law.
+
+Invariant MI [INV]:
+Elder-gate is access controlled by accumulated memory rather than physical strength alone.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may open for a true descendant, a remembered oath, or one who can answer the first question.
+
+Count condition:
+Counts when passage depends on old recognition or inherited relation.
+
+Specific transfer boundary:
+An old physical gate is not automatically an elder-gate.
+
+Epistemic status:
+[DEF]
+
+EM004 echo-oracle
+
+Common meaning:
+A prophetic voice that answers by returning altered fragments of what was asked.
+
+Invariant MI [INV]:
+Echo-oracle is a truth gate that reveals relation through transformed repetition rather than direct declaration.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The answer may expose the asker hidden premise, fear, or future consequence.
+
+Count condition:
+Counts when the returned echo changes understanding beyond simple acoustic repetition.
+
+Specific transfer boundary:
+Ambiguous repetition is not proof of prophecy.
+
+Epistemic status:
+[DEF]
+
+EM005 earth-memory
+
+Common meaning:
+Memory said to remain in land, stone, soil, or place.
+
+Invariant MI [INV]:
+Earth-memory is persistent place-record that outlives the people who first wrote it.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may surface through dreams, repeated paths, ancestral recognition, or disturbances of the ground.
+
+Count condition:
+Counts when place itself carries a stable record that affects later beings.
+
+Specific transfer boundary:
+Geological trace and mythic memory use different evidence gates.
+
+Epistemic status:
+[DEF]
+
+EM006 eternal-return
+
+Common meaning:
+A pattern in which an event, identity, or age returns without becoming merely identical repetition.
+
+Invariant MI [INV]:
+Eternal-return is recurrence that preserves an invariant while changing its structural expression.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Each return may test whether the same name, wound, or promise still counts.
+
+Count condition:
+Counts when recurrence preserves recognizable identity across distinct cycles.
+
+Specific transfer boundary:
+Repeated events do not prove a cosmic cycle.
+
+Epistemic status:
+[DEF]
+
+EM007 exile-road
+
+Common meaning:
+The path taken by one expelled from home, name, or rightful place.
+
+Invariant MI [INV]:
+Exile-road is movement under broken belonging while continuity is carried without local recognition.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The road may transform the exile into witness, founder, avenger, or returning heir.
+
+Count condition:
+Counts when departure from home changes identity relation but does not erase it.
+
+Specific transfer boundary:
+Ordinary travel is not exile without lost belonging or forced departure.
+
+Epistemic status:
+[DEF]
+
+EM008 empty-throne
+
+Common meaning:
+A seat of authority whose rightful bearer is absent, lost, or refused.
+
+Invariant MI [INV]:
+Empty-throne is preserved authority structure waiting for recognition, succession, or release.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may command loyalty through absence or attract false claimants who confuse seat with right.
+
+Count condition:
+Counts when the vacant seat continues to organize duty, conflict, or expectation.
+
+Specific transfer boundary:
+An unused chair is not an empty throne.
+
+Epistemic status:
+[DEF]
+
+EM009 enchantment-thread
+
+Common meaning:
+A binding line of magic connecting a person, object, place, or promise.
+
+Invariant MI [INV]:
+Enchantment-thread is a persistent mythic coupler that carries influence across separation.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may tighten through attention, weaken through refusal, or break when its condition is named.
+
+Count condition:
+Counts when the thread transmits state or obligation between separated terms.
+
+Specific transfer boundary:
+Metaphorical connection is not measurable physical linkage.
+
+Epistemic status:
+[DEF]
+
+EM010 enemy-within
+
+Common meaning:
+A hostile pattern carried inside the boundary it threatens.
+
+Invariant MI [INV]:
+Enemy-within is internalized opposition that uses the host own structure as its courier.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may appear as a second voice, inherited curse, disguised ruler, or devouring hunger.
+
+Count condition:
+Counts when the hostile pattern acts from inside while remaining distinguishable from the host identity.
+
+Specific transfer boundary:
+Inner conflict should not automatically be personified as an invading being.
+
+Epistemic status:
+[DEF]
+
+EM011 endless-stair
+
+Common meaning:
+A stairway that continues without reaching a final floor.
+
+Invariant MI [INV]:
+Endless-stair is mythic ascent or descent whose process changes the traveller while withholding ordinary arrival.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Progress is measured by transformation, memory, or discarded burden rather than distance alone.
+
+Count condition:
+Counts when repeated steps fail to produce a terminal landing under the story rules.
+
+Specific transfer boundary:
+A very long staircase is not necessarily endless.
+
+Epistemic status:
+[DEF]
+
+EM012 ending-bell
+
+Common meaning:
+A bell whose sound closes an age, oath, life, or protected interval.
+
+Invariant MI [INV]:
+Ending-bell is a record-writing signal that makes continuation no longer valid under the active mythic law.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Once heard, names may change, gates may close, or the dead may become unreachable.
+
+Count condition:
+Counts when the sounding irreversibly changes what can continue or return.
+
+Specific transfer boundary:
+A ceremonial bell does not automatically cause the ending it marks.
+
+Epistemic status:
+[DEF]
+
+EM013 essence-vessel
+
+Common meaning:
+A container capable of carrying a being core identity or sacred pattern.
+
+Invariant MI [INV]:
+Essence-vessel is supporting structure that preserves mythic identity across loss of ordinary form.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may be a jewel, book, body, song, or name, but the vessel is not identical to what it carries.
+
+Count condition:
+Counts when destruction or transfer of the vessel changes access to the carried identity.
+
+Specific transfer boundary:
+Container and identity must not be collapsed.
+
+Epistemic status:
+[DEF]
+
+EM014 eye-of-night
+
+Common meaning:
+An observing presence that becomes visible only in darkness.
+
+Invariant MI [INV]:
+Eye-of-night is mythic recognition operating when ordinary sight and social witness have failed.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may guard travellers, expose secret acts, or record what daylight institutions refuse to see.
+
+Count condition:
+Counts when darkness enables rather than prevents the observing function.
+
+Specific transfer boundary:
+A visible star or animal eye is not automatically a supernatural witness.
+
+Epistemic status:
+[DEF]
+
+EM015 erased-name
+
+Common meaning:
+A name deliberately removed while the identity it referred to may persist.
+
+Invariant MI [INV]:
+Erased-name is recognition damage produced when record is destroyed without fully removing the named pattern.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The erased may survive through scars, dreams, forbidden songs, or another witness memory.
+
+Count condition:
+Counts when the name removal changes access, rights, or recall while identity traces remain.
+
+Specific transfer boundary:
+Missing records do not prove deliberate erasure.
+
+Epistemic status:
+[DEF]
+
+EM016 ember-oath
+
+Common meaning:
+A promise kept alive through a small remaining flame.
+
+Invariant MI [INV]:
+Ember-oath is commitment preserved at minimal structural support after the original order has collapsed.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Relighting the flame may reactivate duty, protection, or unfinished judgment.
+
+Count condition:
+Counts when the surviving flame remains the recognized carrier of the promise.
+
+Specific transfer boundary:
+Fire symbolism does not create consent or legal obligation.
+
+Epistemic status:
+[DEF]
+
+EM017 event-of-return
+
+Common meaning:
+The mythic occurrence in which a lost identity, power, or age becomes active again.
+
+Invariant MI [INV]:
+Event-of-return is re-entry into count after absence without requiring that nothing changed during absence.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The return may restore, challenge, or revise the former record.
+
+Count condition:
+Counts when the returning pattern is recognized as continuous enough to matter again.
+
+Specific transfer boundary:
+Resemblance alone does not prove identity continuity.
+
+Epistemic status:
+[DEF]
+
+EM018 echo-child
+
+Common meaning:
+A later being who carries the pattern of one lost before them.
+
+Invariant MI [INV]:
+Echo-child is inherited resemblance that opens questions of continuity without collapsing two identities into one.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The child may repeat a gift, wound, gesture, or unfinished path while remaining separately countable.
+
+Count condition:
+Counts when inherited pattern affects recognition or destiny in the story.
+
+Specific transfer boundary:
+Similarity must not erase the child separate identity.
+
+Epistemic status:
+[DEF]
+
+EM019 elder-witness
+
+Common meaning:
+A witness whose authority comes from having survived the earlier record.
+
+Invariant MI [INV]:
+Elder-witness is continuity-bearing testimony across a rupture that removed other sources.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Their memory may preserve the true name of a place, lineage, betrayal, or covenant.
+
+Count condition:
+Counts when survival across the rupture gives access to otherwise lost record.
+
+Specific transfer boundary:
+Age alone does not guarantee accuracy.
+
+Epistemic status:
+[DEF]
+
+EM020 edge-of-world
+
+Common meaning:
+The boundary beyond which the known world rules no longer hold.
+
+Invariant MI [INV]:
+Edge-of-world is a domain transition where ordinary maps, measures, and permissions lose authority.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Crossing may require a new name, body, courier, or law of return.
+
+Count condition:
+Counts when the boundary changes the active rules rather than only the scenery.
+
+Specific transfer boundary:
+An unexplored region is not automatically outside the physical world.
+
+Epistemic status:
+[DEF]
+
+EM021 eastward-gate
+
+Common meaning:
+A threshold oriented toward sunrise, beginning, or return.
+
+Invariant MI [INV]:
+Eastward-gate is access whose meaning is coupled to dawn and renewed sequence.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may open only at first light or admit those beginning again after failure.
+
+Count condition:
+Counts when eastward orientation changes timing, permission, or symbolic function.
+
+Specific transfer boundary:
+Compass direction alone does not create sacred access.
+
+Epistemic status:
+[DEF]
+
+EM022 ever-flame
+
+Common meaning:
+A flame that continues without consuming its final source.
+
+Invariant MI [INV]:
+Ever-flame is persistent sacred expression whose continuity symbolizes an identity, covenant, or protected truth.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may dim under neglect but cannot be honestly declared ended while its invariant remains.
+
+Count condition:
+Counts when the flame persistence is part of the domain law and carries stable recognition.
+
+Specific transfer boundary:
+A long-burning physical flame requires material explanation.
+
+Epistemic status:
+[DEF]
+
+EM023 exiled-star
+
+Common meaning:
+A star removed from its proper constellation or divine order.
+
+Invariant MI [INV]:
+Exiled-star is luminous identity continuing outside the pattern that once gave it place.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its wandering may guide outsiders, threaten the old sky, or found a new constellation.
+
+Count condition:
+Counts when separation from the original order changes relation without extinguishing the star.
+
+Specific transfer boundary:
+Astronomical motion is not evidence of moral exile.
+
+Epistemic status:
+[DEF]
+
+EM024 eighth-door
+
+Common meaning:
+A hidden threshold beyond a complete set of seven.
+
+Invariant MI [INV]:
+Eighth-door is the opening that appears after a system falsely declares itself complete.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It preserves the undescribed remainder and permits passage into what the prior map excluded.
+
+Count condition:
+Counts when the extra door reveals a valid domain or path absent from the completed scheme.
+
+Specific transfer boundary:
+An extra entrance is not automatically a metaphysical remainder.
+
+Epistemic status:
+[DEF]

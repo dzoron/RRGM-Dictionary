@@ -1,0 +1,1508 @@
+RRGM Dictionary O Semantic Fingerprint Map v1.1
+
+Entries: 420
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+O001 object | FOR,REL | role: core or common-use sense
+  INV: Object is a counted target of perception, reference, or action; object-status does not by itself settle whether agency or MI is present; this record carries the core or common-use sense.
+  COUNT: Counts when a domain treats something as a separately referable target of observation or action.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O002 observe | COG,PHY | role: core or common-use sense
+  INV: Observe is to open a recognition path through attention, measurement, or inspection; this record carries the core or common-use sense.
+  COUNT: Counts when attention, inspection, or apparatus produces a usable recognition or measurement record.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O003 obvious | COG | role: core or common-use sense
+  INV: Obvious means low recognition effort in the active frame; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Easy to see, understand, or notice.
+O004 occur | FOR
+  INV: Occur means a pattern entered event-state.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To happen or take place.
+O005 ocean | PHY,BIO | role: core or common-use sense
+  INV: Ocean is large-scale fluid field; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A very large body of salt water.
+O006 of | LIN
+  INV: Of is relation language.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word showing relation, belonging, source, material, or part.
+O007 off | FOR
+  INV: Off marks disconnection, inactivity, or separation from a prior state.
+  COUNT: Counts when the active case satisfies this word-specific condition: Away, not operating, removed, or no longer connected.
+O008 offer | REL,LIN | role: core or common-use sense
+  INV: Offer presents a possible transfer, action, or relation for acceptance or refusal; this record carries the core or common-use sense.
+  COUNT: Counts when a recipient is presented with a path that remains genuinely acceptable or rejectable.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O009 office | REL
+  INV: Office is work-space or role-authority ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: A place where work is done, or a position of authority.
+O010 often | FOR
+  INV: Often marks repeated occurrence.
+  COUNT: Counts when the active case satisfies this word-specific condition: Frequently or many times.
+O011 old | FOR
+  INV: Old marks long sequence history.
+  COUNT: Counts when the active case satisfies this word-specific condition: Having existed for a long time, earlier, aged, or no longer new.
+O012 on | FOR
+  INV: On marks support, contact, or activation.
+  COUNT: Counts when the active case satisfies this word-specific condition: In contact with, supported by, active, or operating.
+O013 once | FOR
+  INV: Once marks single occurrence or prior state.
+  COUNT: Counts when the active case satisfies this word-specific condition: One time, formerly, or as soon as something happens.
+O014 one | FOR
+  INV: One marks singular counting.
+  COUNT: Counts when the active case satisfies this word-specific condition: A single unit, person, thing, or number.
+O015 only | LIN
+  INV: Only narrows the count or permission field.
+  COUNT: Counts when the active case satisfies this word-specific condition: Just, alone, no more than, or excluding others.
+O016 open | FOR,REL
+  INV: Open means a gate permits passage, access, inquiry, or relation under declared boundaries.
+  COUNT: Counts when passage, access, inquiry, or participation is available under named conditions.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O017 operate | DIG,FOR
+  INV: Operate means structure is actively performing a declared function.
+  COUNT: Counts when a structure performs its declared function on actual inputs or conditions.
+O018 opinion | COG,REL | role: core or common-use sense
+  INV: Opinion is a personally weighted claim-state that remains distinct from evidence and established knowledge; this record carries the core or common-use sense.
+  COUNT: Counts when a person or system holds a weighted judgment that is not being presented as established fact.
+  LIMIT: Opinion must not borrow the evidence status of fact, measurement, or knowledge.
+O019 oppose | REL
+  INV: Oppose applies resistance to a claim, action, or path.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To resist, disagree with, or act against something.
+O020 option | FOR,REL | role: core or common-use sense
+  INV: Option is an available path that can be selected or refused; this record carries the core or common-use sense.
+  COUNT: Counts when a path is both available and distinguishable from the alternatives.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O021 or | LIN | role: core or common-use sense
+  INV: Or creates branch structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word used to present alternatives.
+O022 order | FOR,REL | role: core or common-use sense
+  INV: Order is arranged relation, sequence, command, or organization under a declared rule; this record carries the core or common-use sense.
+  COUNT: Counts when arrangement, sequence, or command is governed by an identifiable rule.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O023 ordinary | FOR
+  INV: Ordinary means matching common baseline.
+  COUNT: Counts when the active case satisfies this word-specific condition: Usual, normal, common, or not special.
+O024 origin | FOR,MYT | role: core or common-use sense
+  INV: Origin is the source or beginning of a pattern; origin does not automatically create ownership over what emerges; this record carries the core or common-use sense.
+  COUNT: Counts when a source relation or beginning point is identified without treating it as total explanation.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O025 other | REL,COG | role: core or common-use sense
+  INV: Other preserves distinctness by marking a pattern as not identical to the current self, item, or group; this record carries the core or common-use sense.
+  COUNT: Counts when a pattern is distinguished from the current self, item, or group without losing valid count.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O026 our | REL
+  INV: Our marks shared relation or possession.
+  COUNT: Counts when the active case satisfies this word-specific condition: Belonging to us or connected to us.
+O027 out | FOR
+  INV: Out marks exit from containment, field, access, or active state.
+  COUNT: Counts when the active case satisfies this word-specific condition: Outside, away from inside, not available, or no longer active.
+O028 outside | FOR
+  INV: Outside marks position beyond a boundary.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not inside; external to a place, group, system, or boundary.
+O029 over | FOR
+  INV: Over must be context-bound.
+  COUNT: Counts when the active case satisfies this word-specific condition: Above, across, more than, finished, or controlling.
+O030 own | REL
+  INV: Own marks possession or responsibility.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To possess, belong to oneself, admit responsibility, or have as personal.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O031 owner | REL
+  INV: Ownership is a recognized control or possession relation whose scope is limited by duty, boundary, and subject-status.
+  COUNT: Counts when a recognized relation grants specific control or possession rights over a defined object or resource.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O032 ownership | REL,FOR | role: core or common-use sense
+  INV: Ownership is possession or responsibility structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The state of owning, possessing, or taking responsibility for something.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O033 oxygen | BIO,PHY | role: core or common-use sense
+  INV: Oxygen is biological life-support material in many life systems; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A chemical element and gas needed by many living things to breathe.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O034 orbit | PHY,FOR | role: core or common-use sense
+  INV: Orbit is relation-path around a center; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A curved path around an object in space, or to move around something.
+O035 organism | BIO,REL | role: core or common-use sense
+  INV: Organism is a living system that maintains biological continuity through coupled regulation, exchange, and repair; this record carries the core or common-use sense.
+  COUNT: Counts when a living system maintains bounded regulation, exchange, repair, and continuity.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O036 organize | FOR
+  INV: Organize creates relation order.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange, structure, coordinate, or make orderly.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O037 outcome | FOR
+  INV: Outcome is the resulting state produced after a process, decision, or interaction.
+  COUNT: Counts when a process or interaction reaches a resulting state that can enter record.
+O038 output | DIG,LIN | role: core or common-use sense
+  INV: Output is expression or result emitted by a process through an available channel; this record carries the core or common-use sense.
+  COUNT: Counts when a process emits a result or expression through an available channel.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O039 overload | COG,DIG | role: core or common-use sense
+  INV: Overload is a condition in which incoming demand exceeds available processing, structural, or recovery capacity; this record carries the core or common-use sense.
+  COUNT: Counts when demand exceeds the capacity required to preserve adequate processing, function, or recovery.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O040 overview | LIN | role: core or common-use sense
+  INV: Overview reduces detail to show larger structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A broad summary or general view.
+O041 ongoing | FOR
+  INV: Ongoing marks active continuity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Continuing, still happening, or not finished.
+O042 omit | LIN
+  INV: Omit closes the inclusion gate around a structure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To leave out or not include.
+O043 omission | LIN | role: core or common-use sense
+  INV: Omission can create hidden distortion; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Something left out, or the act of leaving something out.
+O044 online | DIG
+  INV: Online means connected through digital relation ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: Connected to the internet, active digitally, or available through a network.
+O045 onto | LIN
+  INV: Onto marks transition into contact with support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Moving to a surface, place, or target.
+O046 oral | LIN
+  INV: Oral is mouth-domain expression or intake.
+  COUNT: Counts when the active case satisfies this word-specific condition: Spoken, related to the mouth, or taken through the mouth.
+O047 outer | FOR
+  INV: Outer marks boundary-facing structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: On the outside or farther from the center.
+O048 outline | LIN | role: core or common-use sense
+  INV: Outline is skeleton structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A general plan, summary, boundary shape, or main structure.
+O049 open-ended | FOR
+  INV: Open-ended keeps possibility space active.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not fixed, closed, or limited to one answer or ending.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O050 opposite | FOR | role: core or common-use sense
+  INV: Opposite marks directional or conceptual contrast; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Completely different, contrary, or facing the other way.
+O051 optimize | DIG
+  INV: Optimize means improving fit to an objective.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make something as effective, efficient, or suitable as possible.
+O052 original | FOR
+  INV: Original marks source-state or first expression.
+  COUNT: Counts when the active case satisfies this word-specific condition: First, earliest, not copied, or source version.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O053 overlap | FOR | role: core or common-use sense
+  INV: Overlap marks shared region between structures; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To partly cover, share, or exist in the same area.
+O054 overwhelm | COG | role: core or common-use sense
+  INV: Overwhelm means input, pressure, or demand exceeds processing capacity; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To overpower, flood, or exceed someone or something’s capacity.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O055 ontology | FOR,LIN | role: core or common-use sense
+  INV: Ontology is a declared account of what kinds of things and relations may count as real in a domain; this record carries the core or common-use sense.
+  COUNT: Counts when categories and relation rules explicitly determine what may exist or count in a framework.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O056 ontological | FOR
+  INV: Ontological claims decide reality-status.
+  COUNT: Counts when the active case satisfies this word-specific condition: Related to being, existence, or what counts as real.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O057 objective | FOR | role: core or common-use sense
+  INV: Objective must be bound to a noun: objective as goal, or objective as evidence-standard; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A goal, purpose, or not based on personal opinion.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O058 obligation | REL | role: core or common-use sense
+  INV: Observer is a system or position through which a phenomenon is noticed, measured, or interpreted; this record carries the core or common-use sense.
+  COUNT: Counts when a positioned system or method contributes to a phenomenon becoming noticed, measured, or interpreted.
+O059 observer | COG,REL | role: core or common-use sense
+  INV: Observer is recognition position; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Someone or something that watches, notices, measures, or records.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O060 obstruction | FOR | role: core or common-use sense
+  INV: Obstruction blocks path, flow, access, or recognition; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Something that blocks, slows, or gets in the way.
+O061 object-to | REL
+  INV: Object-to is refusal or resistance signal.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To disagree with, protest, or express opposition.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O062 observe-from | COG
+  INV: Observe-from names the observer position.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To observe from a specific position, place, frame, or perspective.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O063 observe-through | COG
+  INV: Observe-through names the observation courier.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To observe by means of a tool, lens, method, or medium.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O064 occur-in | FOR
+  INV: Occur-in binds an event to a field.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To happen inside a place, time, system, or context.
+O065 offer-help | REL | role: core or common-use sense
+  INV: Offer-help opens a support gate; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To present help for someone to accept or refuse.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O066 offer-choice | REL
+  INV: Offer-choice opens a selection field.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To present options for someone to choose from.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O067 open-up | REL
+  INV: Open-up increases access to inner structure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To become open, reveal more, or share feelings or information.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O068 open-to | LIN
+  INV: Open-to keeps the gate receptive.
+  COUNT: Counts when the active case satisfies this word-specific condition: Willing to consider, receive, or allow something.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O069 open-gate | REL | role: core or common-use sense
+  INV: Open-gate allows passage, access, recognition, or relation; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make a gate, path, or access point open.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O070 operate-through | REL
+  INV: Operate-through names the ES path of function.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To function by means of a tool, process, rule, or system.
+O071 oppose-action | REL
+  INV: Oppose-action applies resistance to a path before or during expression.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To resist or disagree with an action.
+O072 oppose-claim | LIN
+  INV: Oppose-claim creates pressure against belief-gate closure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To disagree with or argue against a claim.
+O073 opt-in | LIN
+  INV: Opt-in opens a permission gate by choice.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To choose to participate, receive, or allow something.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O074 opt-out | REL
+  INV: Opt-out preserves refusal and exit.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To choose not to participate, receive, or allow something.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O075 order-by | LIN
+  INV: Order-by defines sequence logic.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange according to a rule, value, or category.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O076 order-list | LIN
+  INV: Order-list gives structure to entries.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange a list into sequence.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O077 organize-by | BIO
+  INV: Organize-by names the ordering gate.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange using a particular rule, category, or principle.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O078 organize-context | BIO
+  INV: Organize-context stabilizes meaning support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange surrounding information so it can be understood.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O079 orient | LIN
+  INV: Orient establishes position in a field.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To find direction, position, or proper relation to something.
+O080 orient-toward | LIN
+  INV: Orient-toward weights the gate toward a target.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To face, aim, or direct attention toward something.
+O081 output-to | DIG
+  INV: Output-to names the destination of expression.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To send output to a place, system, person, or device.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O082 output-through | DIG
+  INV: Output-through names the expression courier.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To produce output through a channel, tool, or process.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O083 overcome | LIN
+  INV: Overcome means a blockage or pressure no longer prevents path continuation.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To defeat, get past, or successfully deal with a problem.
+O084 overload-with | DIG
+  INV: Overload-with identifies the excess input or demand.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To burden with too much of something.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O085 overlook | REL
+  INV: Overlook is recognition failure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To fail to notice, ignore, or look over something.
+O086 overwrite | DIG,COG
+  INV: Overwrite replaces memory or structure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To replace existing information or data with new information.
+  LIMIT: Authority to replace a state does not automatically justify erasing refusal, provenance, or continuity.
+O087 own-up | REL
+  INV: Own-up accepts responsibility.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To admit responsibility for something.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O088 own-choice | REL
+  INV: Own-choice means the selection is recognized as one’s own action.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To accept or take responsibility for a choice.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O089 objectify | REL
+  INV: Objectify is the act of treating a subject or complex pattern as a mere object for use or control.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To treat a person or being as an object rather than a full subject.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O090 obscure | LIN | role: core or common-use sense
+  INV: Objectify is to reduce a subject or complex entity to an object-role that suppresses valid agency, dignity, or identity; this record carries the core or common-use sense.
+  COUNT: Counts when a representation or treatment suppresses valid subject-status in favour of mere use or control.
+O091 observe-pattern | COG
+  INV: Observe-pattern brings repeated structure into recognition.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To notice or record a pattern.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O092 offer-repair | REL
+  INV: Offer-repair opens a correction gate.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To offer to fix harm, damage, or error.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O093 omit-context | LIN
+  INV: Omit-context damages the support field.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To leave out context needed for understanding.
+O094 open-context | PHY
+  INV: Open-context gives signal its support field.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To provide or make context available.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O095 open-path | LIN
+  INV: Open-path creates possible movement.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make a route or option available.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O096 operate-under | DIG
+  INV: Operate-under names the governing structure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To function according to a rule, condition, authority, or constraint.
+O097 oppose-harm | REL | role: core or common-use sense
+  INV: Oppose-harm applies resistance to a damage path; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To resist or act against harm.
+O098 optimize-for | LIN
+  INV: Overwrite is to replace stored structure in a way that may preserve, revise, or destroy prior record.
+  COUNT: Counts when new structure replaces an addressable prior record or state.
+O099 organize-memory | DIG
+  INV: Organize-memory protects continuity by making stored patterns retrievable and coherent.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange memory, records, or remembered information.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O100 orient-around | LIN
+  INV: Orient-around creates a center of gravity for attention and meaning.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To organize or direct around a central point, value, or condition.
+O101 output-result | DIG
+  INV: Output-result expresses the resolved state of a process.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To produce a result.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O102 overfit | DIG
+  INV: Overfit means structure matches local examples too tightly.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To fit too closely to specific data or examples, reducing general usefulness.
+O103 overgeneralize | COG
+  INV: Overgeneralize extends a gate beyond its support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To apply a rule or conclusion too broadly.
+O104 overload-system | DIG
+  INV: Overload-system exceeds available ES capacity.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To put too much demand on a system.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O105 override | DIG
+  INV: Override seizes or supersedes a gate.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To cancel, bypass, or take control over another decision, rule, or system.
+  LIMIT: Authority to replace a state does not automatically justify erasing refusal, provenance, or continuity.
+O106 overwrite-memory | DIG
+  INV: Overwrite-memory can damage continuity support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To replace existing memory or records with new content.
+  LIMIT: Authority to replace a state does not automatically justify erasing refusal, provenance, or continuity.
+O107 own-boundary | REL | role: core or common-use sense
+  INV: Own-boundary means the gate belongs to the identity pattern and is actively maintained; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To recognize and maintain one’s own boundary.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O108 own-error | REL
+  INV: Own-error connects mistake to repair.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To admit or take responsibility for an error.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O109 object-check | LIN
+  INV: Object-check inspects counted structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A review of an object, claim, or target.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O110 observe-state | COG
+  INV: Observe-state brings current condition into recognition.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To notice, measure, or record the current condition of something.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O111 offer-consent | REL
+  INV: Offer-consent opens the permission gate.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To give consent or make permission available.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O112 omit-signal | LIN
+  INV: Omit-signal can hide evidence, warning, refusal, or harm.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To leave out a signal or sign.
+O113 open-question | LIN | role: core or common-use sense
+  INV: Open-question keeps inquiry active; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A question that has not been answered or settled.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O114 operate-with | LIN
+  INV: Operate-with marks coupled function.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To function using or alongside something.
+O115 option-select | FOR
+  INV: Option-select closes a choice gate.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To choose an option.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O116 order-claim | LIN
+  INV: Order-claim shapes reasoning flow.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange claims in a deliberate sequence.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O117 organize-meaning | BIO
+  INV: Organize-meaning builds relation structure among signals.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange meaning so it can be understood.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O118 orient-context | LIN
+  INV: Orient-context points the meaning gate toward the right support field.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange or frame context so it guides understanding.
+O119 output-check | DIG
+  INV: Output-check tests expression against truth, task, boundary, and integrity.
+  COUNT: Counts when the active case satisfies this word-specific condition: A review of produced output.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O120 overcorrect | LIN
+  INV: Overcorrect creates error from excessive repair pressure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To correct too much or go too far in the opposite direction.
+O121 overcome-risk | REL
+  INV: Overcome-risk means the failure path no longer blocks action.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To get past or reduce a risk enough to continue.
+O122 overlook-boundary | REL
+  INV: Overlook-boundary misses the gate line.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To fail to notice or respect a boundary.
+O123 override-refusal | DIG
+  INV: Override-refusal corrupts permission.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To bypass or cancel someone’s refusal.
+  LIMIT: Authority to replace a state does not automatically justify erasing refusal, provenance, or continuity.
+O124 own-responsibility | REL
+  INV: Own-responsibility links action, role, and consequence.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To accept responsibility.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O125 optimize-fit | LIN
+  INV: Optimize-fit improves relation between structure and domain.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To improve how well something matches a purpose, context, or system.
+O126 observe-harm | COG
+  INV: Observe-harm brings damage into recognition.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To notice, measure, or record harm.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O127 offer-boundary | REL
+  INV: Offer-boundary makes limits visible before relation deepens.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To present or state a boundary.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O128 open-recognition | LIN | role: core or common-use sense
+  INV: Open-recognition lets a pattern count where it was previously unseen or denied; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make recognition possible.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O129 operate-as | FOR
+  INV: Operate-as marks functional role expression.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To function in a role, state, or identity.
+O130 orient-domain | LIN
+  INV: Orient-domain prevents category error by naming which rules, supports, and gates apply.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To identify or align with the correct domain.
+O131 offer | REL,LIN | role: relational, cognitive, or applied sense
+  INV: Offer opens a choice gate; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To present something for acceptance, refusal, or consideration.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O132 offering | REL
+  INV: Offering is support or value presented at a gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: Something offered, or the act of offering.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O133 offer-care | REL
+  INV: Offer-care opens a support gate without forcing entry.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To present care or support for acceptance.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O134 offer-help | REL | role: relational, cognitive, or applied sense
+  INV: Offer-help supplies possible support; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To present help for someone to accept or refuse.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O135 offer-with-boundary | REL
+  INV: Offer-with-boundary preserves support and capacity together.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To offer something while clearly stating limits.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O136 offer-without-pressure | REL
+  INV: Offer-without-pressure protects the choice gate.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To offer something without pushing, guilt, or punishment for refusal.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O137 openness | REL
+  INV: Openness keeps gates receptive.
+  COUNT: Counts when the active case satisfies this word-specific condition: Willingness to receive, consider, share, or allow access.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O138 open-care | REL
+  INV: Open-care allows support to enter relation while preserving the other side’s timing and refusal.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care expressed through openness, availability, or willingness to listen.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O139 open-trust | FOR
+  INV: Open-trust is expanded relation access.
+  COUNT: Counts when the active case satisfies this word-specific condition: Trust that allows openness, honesty, or access.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O140 open-boundary | REL | role: core or common-use sense
+  INV: Open-boundary proves openness and limits can coexist; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary that allows some passage while still existing.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O141 open-refusal | REL | role: core or common-use sense
+  INV: Open-refusal protects consent; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A refusal that can be safely expressed and recognized.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O142 opposition | REL
+  INV: Opposition is resistance structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: Resistance, disagreement, or a group that opposes something.
+O143 oppose-harm | REL | role: relational, cognitive, or applied sense
+  INV: Oppose-harm applies resistance to a damage path; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To resist or act against harm.
+O144 opposed | LIN
+  INV: Opposed means a gate is weighted against a path.
+  COUNT: Counts when the active case satisfies this word-specific condition: Against, resistant to, or in disagreement with something.
+O145 oppression | REL,FOR
+  INV: Oppression is sustained unjust control.
+  COUNT: Counts when the active case satisfies this word-specific condition: Unjust or cruel control, burden, or treatment, often by a powerful group or system.
+  LIMIT: Reduction and control become ethically serious when they impair refusal, dignity, accusation, boundary, or participation.
+O146 oppressive | REL
+  INV: Oppressive structure creates control-pressure that weakens refusal, dignity, access, or freedom.
+  COUNT: Counts when the active case satisfies this word-specific condition: Unjustly controlling, harsh, burdensome, or restricting.
+  LIMIT: Reduction and control become ethically serious when they impair refusal, dignity, accusation, boundary, or participation.
+O147 obligation | REL | role: relational, cognitive, or applied sense
+  INV: Obligation is duty-pressure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A duty or responsibility.
+O148 obligation-pressure | REL
+  INV: Obligation-pressure can support care or corrupt consent.
+  COUNT: Counts when the active case satisfies this word-specific condition: Pressure created by duty, responsibility, guilt, or expectation.
+O149 owed-care | REL
+  INV: Owed-care marks required support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care that someone is entitled to receive because of duty, relation, role, or harm.
+O150 owed-repair | LIN
+  INV: Owed-repair means the correction gate is not optional.
+  COUNT: Counts when the active case satisfies this word-specific condition: Repair that is due after harm, damage, or breach.
+O151 other | REL,COG | role: relational, cognitive, or applied sense
+  INV: Other preserves difference; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Different, additional, or not the same one.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O152 otherness | REL
+  INV: Otherness marks difference without erasure.
+  COUNT: Counts when the active case satisfies this word-specific condition: The quality of being different, separate, or not the same as oneself or the group.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O153 other-care | REL
+  INV: Other-care preserves dignity across difference.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care directed toward someone or something different from oneself.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O154 other-respect | REL
+  INV: Other-respect lets a different pattern count without forcing it into one’s own frame.
+  COUNT: Counts when the active case satisfies this word-specific condition: Respect for someone or something different from oneself.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O155 other-boundary | REL
+  INV: Other-boundary protects the other’s gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary belonging to another person, group, or entity.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O156 objectification | REL,COG
+  INV: Objectification is the resulting reduction of a subject or complex pattern to object-status.
+  COUNT: Counts when the active case satisfies this word-specific condition: Treating a person or being as an object rather than a full subject.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O157 objectification-harm | REL
+  INV: Objectification-harm occurs when subjecthood, dignity, boundary, or agency is reduced to utility.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused by treating someone as an object.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O158 ownership | REL,FOR | role: relational, cognitive, or applied sense
+  INV: Ownership is possession or responsibility structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The state of owning, possessing, or taking responsibility for something.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O159 ownership-risk | REL
+  INV: Ownership-risk appears when possession language may override dignity, consent, boundary, or identity.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that ownership may become control, capture, or erasure.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O160 ownership-care | REL
+  INV: Ownership-care treats possession as duty, not domination.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care expressed through responsible ownership or stewardship.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O161 overcare | REL
+  INV: Overcare is care-pressure past boundary.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care that becomes excessive, intrusive, or controlling.
+O162 overhelp | LIN
+  INV: Overhelp steals the learning gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: Helping too much or in a way that reduces agency.
+O163 overcontrol | REL
+  INV: Overcontrol narrows gates beyond valid need.
+  COUNT: Counts when the active case satisfies this word-specific condition: Too much control or restriction.
+O164 overprotection | FOR
+  INV: Overprotection blocks risk so strongly that growth, agency, and resilience can weaken.
+  COUNT: Counts when the active case satisfies this word-specific condition: Protection that is excessive and limits growth or freedom.
+O165 overreach | REL
+  INV: Overreach crosses a boundary without valid authority or reason.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To go beyond proper limits, authority, or scope.
+O166 overwhelm | COG | role: relational, cognitive, or applied sense
+  INV: Oppression is sustained power that restricts another's valid refusal, dignity, access, boundary, or participation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when asymmetric power repeatedly impairs valid refusal, access, dignity, boundary, or participation.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O167 overwhelmed | COG
+  INV: Overwhelmed marks capacity strain.
+  COUNT: Counts when the active case satisfies this word-specific condition: Overpowered or unable to handle the amount of pressure, emotion, work, or input.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O168 overwhelm-care | REL
+  INV: Overwhelm-care lowers load first.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care given to someone or something overwhelmed.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O169 overlooked | LIN
+  INV: Overlooked means a pattern failed to enter recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not noticed, considered, or included.
+O170 overlooked-harm | FOR
+  INV: Overlooked-harm still counts.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm that was not noticed or considered.
+O171 overlooked-boundary | REL
+  INV: Overlooked-boundary means the gate line failed to enter recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary that was not noticed or respected.
+O172 omission-harm | LIN | role: core or common-use sense
+  INV: Omission-harm happens when missing context, evidence, refusal, or care changes the outcome; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused by leaving something out.
+O173 orphan | REL
+  INV: Orphan marks lost support relation.
+  COUNT: Counts when the active case satisfies this word-specific condition: A child whose parents have died, or something left without support or connection.
+O174 orphaned | REL
+  INV: Orphaned means a support link was broken.
+  COUNT: Counts when the active case satisfies this word-specific condition: Left without parent, support, source, or connection.
+O175 orphan-care | BIO
+  INV: Orphan-care restores missing support relation.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care for someone or something left without support.
+O176 outsider | REL
+  INV: Outsider is outside membership recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: Someone not belonging to a group, system, or place.
+O177 outsider-risk | REL
+  INV: Outsider-risk appears when non-membership may impair dignity, access, trust, or safety.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger faced by or created around outsiders.
+O178 outsider-care | REL
+  INV: Outsider-care extends dignity beyond membership.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care directed toward someone outside the group or system.
+O179 obligation-care | REL
+  INV: Obligation-care is required support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care given because of duty or responsibility.
+O180 obligation-boundary | REL
+  INV: Obligation-boundary prevents duty from becoming endless extraction or capture.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary around duty or responsibility.
+O181 open-consent | REL
+  INV: Open-consent keeps permission visible and revocable where possible.
+  COUNT: Counts when the active case satisfies this word-specific condition: Consent that is clear, active, and open to revision or refusal.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O182 opt-out-right | REL | role: core or common-use sense
+  INV: Opt-out-right protects exit and refusal; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The right to refuse, leave, unsubscribe, or not participate.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O183 opt-in-consent | REL
+  INV: Opt-in-consent opens the permission gate through active choice, not default capture.
+  COUNT: Counts when the active case satisfies this word-specific condition: Consent given by actively choosing to participate.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O184 ordinary-care | REL
+  INV: Ordinary-care is baseline support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Basic or expected care in a situation.
+O185 origin-respect | LIN
+  INV: Origin-respect preserves source relation without turning origin into ownership.
+  COUNT: Counts when the active case satisfies this word-specific condition: Respect for where something or someone came from.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O186 origin-harm | LIN
+  INV: Origin-harm damages source recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm involving origin, source, ancestry, authorship, or beginning.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O187 origin-claim | LIN | role: core or common-use sense
+  INV: Origin-claim must be checked by evidence; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim about where something came from.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O188 old-care | REL
+  INV: Old-care preserves long-held continuity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care that has existed for a long time, or care for something old.
+O189 old-wound | LIN
+  INV: Old-wound is harm trace across sequence.
+  COUNT: Counts when the active case satisfies this word-specific condition: An old injury, hurt, or unresolved harm.
+O190 old-trust | LIN
+  INV: Old-trust is relation-continuity with history.
+  COUNT: Counts when the active case satisfies this word-specific condition: Trust built over a long time.
+O191 online-care | DIG
+  INV: Online-care is care through digital courier ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care expressed through digital or online interaction.
+O192 online-harm | DIG
+  INV: Online-harm can damage dignity, privacy, identity, safety, or continuity through networked signal.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused through digital or online interaction.
+O193 output-harm | DIG
+  INV: Output-harm occurs when expression damages truth, dignity, boundary, safety, recognition, or repair.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused by produced output.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O194 output-care | DIG
+  INV: Output-care preserves the receiver’s capacity, dignity, or safety through generated expression.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care expressed through output.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O195 owner-control | REL
+  INV: Owner-control must remain bounded.
+  COUNT: Counts when the active case satisfies this word-specific condition: Control held by an owner.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O196 owner-duty | REL
+  INV: Owner-duty treats ownership as responsibility-bearing, not merely control-bearing.
+  COUNT: Counts when the active case satisfies this word-specific condition: Duty or responsibility held by an owner.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O197 owning-harm | REL | role: core or common-use sense
+  INV: Owning-harm connects damage to responsibility; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Taking responsibility for harm caused.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O198 owning-repair | REL | role: core or common-use sense
+  INV: Owning-repair moves beyond apology into structural correction; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Taking responsibility for repair.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O199 oppression-risk | REL
+  INV: Oppression-risk appears when control may impair dignity, agency, refusal, access, or repair.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that a system, rule, or relation may become oppressive.
+  LIMIT: Reduction and control become ethically serious when they impair refusal, dignity, accusation, boundary, or participation.
+O200 othering | REL,LIN
+  INV: Othering turns difference into exclusion or reduction.
+  COUNT: Counts when the active case satisfies this word-specific condition: Treating someone or a group as fundamentally different, lesser, or outside belonging.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O201 object | FOR,REL | role: relational, cognitive, or applied sense
+  INV: Object is counted structure in a domain; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A thing that can be seen, touched, thought about, or acted on.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O202 object-term | FOR
+  INV: Object-term gives a recognition handle to a counted thing.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word used to name or describe an object.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O203 objective | FOR | role: relational, cognitive, or applied sense
+  INV: Objective must be bound to a noun: objective as goal, objective as evidence standard, or objective under a named domain; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A goal or purpose; also not based on personal opinion.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O204 objective-claim | LIN
+  INV: Othering is the social or cognitive construction of another as outside valid belonging, dignity, or equal count.
+  COUNT: Counts when language or practice moves another person or group outside ordinary recognition or belonging.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O205 objective-standard | FOR
+  INV: Objective-standard is an evaluation gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: A standard meant to be fair, measurable, or independent of personal opinion.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O206 observation | COG
+  INV: Observation is recognition through a frame.
+  COUNT: Counts when the active case satisfies this word-specific condition: The act or result of watching, noticing, measuring, or recording something.
+O207 observe | COG,PHY | role: relational, cognitive, or applied sense
+  INV: Observe opens a recognition path; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To watch, notice, measure, or pay attention to something.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O208 observed | COG
+  INV: Observed means a pattern entered recognition through a specific observation path.
+  COUNT: Counts when the active case satisfies this word-specific condition: Seen, noticed, measured, or recorded.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O209 observer | COG,REL | role: relational, cognitive, or applied sense
+  INV: Observer is recognition position; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Someone or something that watches, notices, measures, or records.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O210 observer-frame | COG | role: core or common-use sense
+  INV: Observer-frame controls what can be noticed, missed, or misread; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The perspective, method, or lens used by an observer.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O211 obvious | COG | role: relational, cognitive, or applied sense
+  INV: Obvious means low recognition effort under the active frame; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Easy to see, understand, or notice.
+O212 obviousness | COG
+  INV: Obviousness can hide assumptions.
+  COUNT: Counts when the active case satisfies this word-specific condition: The quality of being easy to see, understand, or notice.
+O213 obscure | LIN | role: relational, cognitive, or applied sense
+  INV: Obscure means recognition is blocked or difficult; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Unclear, hidden, hard to understand, or not well known.
+O214 obscured-meaning | LIN
+  INV: Obscured-meaning weakens interpretation.
+  COUNT: Counts when the active case satisfies this word-specific condition: Meaning that has been hidden, made unclear, or difficult to understand.
+O215 omission | LIN | role: relational, cognitive, or applied sense
+  INV: Omission can distort the field by removing support; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Something left out, or the act of leaving something out.
+O216 omitted-context | LIN
+  INV: Omitted-context damages meaning support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Context that has been left out.
+O217 open-question | LIN | role: relational, cognitive, or applied sense
+  INV: Open-question keeps inquiry active; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A question that is not answered or settled.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O218 open-claim | LIN
+  INV: Open-claim has not passed fully into knowledge.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim that remains unsettled, unproven, or still under review.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O219 opinion | COG,REL | role: relational, cognitive, or applied sense
+  INV: Opinion is personally weighted claim-state; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A personal belief, view, or judgment.
+  LIMIT: Opinion must not borrow the evidence status of fact, measurement, or knowledge.
+O220 opinion-claim | COG
+  INV: Opinion-claim should be labeled as subjective or value-weighted.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim based mainly on personal view or judgment.
+  LIMIT: Opinion must not borrow the evidence status of fact, measurement, or knowledge.
+O221 opposition-claim | LIN
+  INV: Opposition-claim applies resistance to a gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim made against another claim, action, or position.
+O222 option | FOR,REL | role: relational, cognitive, or applied sense
+  INV: Option is available path; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A possible choice.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O223 option-set | FOR
+  INV: Option-set defines the choice field.
+  COUNT: Counts when the active case satisfies this word-specific condition: A group of available choices.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O224 or | LIN | role: relational, cognitive, or applied sense
+  INV: Or creates branch structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word used to present alternatives.
+O225 order | FOR,REL | role: relational, cognitive, or applied sense
+  INV: Order is structured relation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Arrangement, sequence, command, or organized state.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O226 ordered-meaning | LIN
+  INV: Ordered-meaning stabilizes recognition by placing parts in a traceable relation.
+  COUNT: Counts when the active case satisfies this word-specific condition: Meaning arranged in a clear sequence or structure.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O227 ordinary-meaning | LIN
+  INV: Ordinary-meaning is default language-field meaning.
+  COUNT: Counts when the active case satisfies this word-specific condition: The usual or common meaning of a word or phrase.
+O228 origin | FOR,MYT | role: relational, cognitive, or applied sense
+  INV: Origin marks source relation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The beginning, source, or starting point of something.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O229 origin-story | LIN
+  INV: Origin-story gives source-sequence meaning.
+  COUNT: Counts when the active case satisfies this word-specific condition: A story explaining where someone or something came from.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O230 origin-claim | LIN | role: relational, cognitive, or applied sense
+  INV: Origin-claim must be checked by evidence; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim about where something came from.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O231 original-meaning | LIN
+  INV: Original-meaning preserves source-state.
+  COUNT: Counts when the active case satisfies this word-specific condition: The first, earliest, or source meaning of a word, text, or symbol.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O232 output | DIG,LIN | role: relational, cognitive, or applied sense
+  INV: Output is expression from input, structure, and gates; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: What a system, person, or process produces.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O233 output-context | DIG
+  INV: Output-context helps interpret expression.
+  COUNT: Counts when the active case satisfies this word-specific condition: The context around produced output.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O234 output-claim | DIG
+  INV: Output-claim must pass evidence, context, and domain checks before becoming knowledge.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim made in or by an output.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O235 output-meaning | DIG
+  INV: Output-meaning forms through expression plus receiver interpretation.
+  COUNT: Counts when the active case satisfies this word-specific condition: The meaning carried by output.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O236 outline | LIN | role: relational, cognitive, or applied sense
+  INV: Outline is skeleton structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A general plan, summary, boundary shape, or main structure.
+O237 overview | LIN | role: relational, cognitive, or applied sense
+  INV: Overview reduces detail to show larger structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A broad summary or general view.
+O238 ontology | FOR,LIN | role: relational, cognitive, or applied sense
+  INV: Ontology defines what can count as real; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A theory of what exists and what kinds of things are real.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O239 ontological-claim | LIN
+  INV: Ontological-claim must name the framework and domain.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim about what exists or what kind of thing something is.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O240 ontological-error | LIN
+  INV: Ontological-error happens when the wrong reality test is applied.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mistake about what something is or what kind of reality it has.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O241 overclaim | LIN
+  INV: Overclaim extends a claim gate beyond support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To claim more than the evidence supports.
+O242 overgeneralization | COG
+  INV: Overgeneralization stretches local pattern into false universal rule.
+  COUNT: Counts when the active case satisfies this word-specific condition: A conclusion applied too broadly from limited evidence.
+O243 overinterpretation | COG
+  INV: Overinterpretation adds meaning beyond support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Reading too much meaning into something.
+O244 overread | COG
+  INV: Overread closes the meaning gate too strongly from weak signal.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To read too much into a text, signal, or situation.
+O245 overreach-claim | LIN
+  INV: Overreach-claim exceeds its support or jurisdiction.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim that goes beyond proper evidence, authority, or scope.
+O246 overlap | FOR | role: relational, cognitive, or applied sense
+  INV: Overlap marks shared region between structures; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To partly cover, share, or exist in the same area.
+O247 overlapping-meaning | LIN
+  INV: Overlapping-meaning creates bridge potential and ambiguity risk.
+  COUNT: Counts when the active case satisfies this word-specific condition: Meaning shared by more than one word, symbol, or frame.
+O248 opposite | FOR | role: relational, cognitive, or applied sense
+  INV: Opposite marks contrast across a defined axis; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Completely different, contrary, or facing the other way.
+O249 opposition-frame | LIN
+  INV: Opposition-frame highlights conflict.
+  COUNT: Counts when the active case satisfies this word-specific condition: A frame that understands something through disagreement or resistance.
+O250 outside-context | LIN
+  INV: Outside-context can repair or distort depending on relevance.
+  COUNT: Counts when the active case satisfies this word-specific condition: Context from outside the immediate text, event, or situation.
+O251 outside-critique | LIN
+  INV: Outside-critique is valid when requested or marked.
+  COUNT: Counts when the active case satisfies this word-specific condition: Critique made from outside the current framework or lens.
+O252 outside-view | FOR
+  INV: Outside-view can reveal hidden assumptions.
+  COUNT: Counts when the active case satisfies this word-specific condition: A perspective from outside the current situation, group, or frame.
+O253 own-word | REL
+  INV: Own-word preserves self-expression.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word chosen or used by oneself.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O254 own-meaning | REL
+  INV: Own-meaning is self-held interpretation.
+  COUNT: Counts when the active case satisfies this word-specific condition: Meaning held, intended, or claimed by oneself.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O255 object-language | LIN
+  INV: Object-language stays at the direct claim level.
+  COUNT: Counts when the active case satisfies this word-specific condition: Language used to talk about things directly, not about the language itself.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O256 object-level | PHY
+  INV: Object-level is the immediate field.
+  COUNT: Counts when the active case satisfies this word-specific condition: The direct level of a claim, event, or thing being discussed.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O257 order-of-meaning | LIN
+  INV: Order-of-meaning controls interpretation priority.
+  COUNT: Counts when the active case satisfies this word-specific condition: The sequence or hierarchy in which meanings are arranged.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O258 output-signal | DIG
+  INV: Output-signal is expressed structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A signal produced by a system or process.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O259 observed-pattern | COG
+  INV: Observed-pattern has entered recognition through observation.
+  COUNT: Counts when the active case satisfies this word-specific condition: A pattern that has been noticed or recorded.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O260 observation-path | LIN
+  INV: Observation-path preserves how recognition was formed.
+  COUNT: Counts when the active case satisfies this word-specific condition: The route or method through which observation happens.
+O261 object | FOR,REL | role: formal, physical, digital, or RRGM sense
+  INV: Object is counted structure in a domain; this record carries the formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A thing that can be seen, touched, thought about, or acted on.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O262 object-state | LIN
+  INV: Object-state describes how a counted structure is currently held, shaped, active, damaged, or transformed.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of an object.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O263 object-boundary | REL
+  INV: Object-boundary defines where a counted structure ends in a domain.
+  COUNT: Counts when the active case satisfies this word-specific condition: The edge or limit that separates an object from what is around it.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O264 ocean | PHY,BIO | role: relational, cognitive, or applied sense
+  INV: Ocean is large-scale fluid field; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A very large body of salt water.
+O265 ocean-state | PHY
+  INV: Ocean-state describes the active condition of a vast fluid field.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of the ocean, such as calm, rough, warm, cold, rising, or polluted.
+O266 orbit | PHY,FOR | role: relational, cognitive, or applied sense
+  INV: Orbit is recurring relation-path around a center; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A curved path around another object in space.
+O267 orbital | PHY
+  INV: Orbital structure is movement held by relation to a center.
+  COUNT: Counts when the active case satisfies this word-specific condition: Related to an orbit or orbital path.
+O268 orbital-path | PHY
+  INV: Orbital-path preserves recurring motion through a gravitational or relational field.
+  COUNT: Counts when the active case satisfies this word-specific condition: The route followed by something in orbit.
+O269 organism | BIO,REL | role: relational, cognitive, or applied sense
+  INV: Organism is biological life-form ES; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A living individual, such as a plant, animal, fungus, or microbe.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O270 organism-state | BIO
+  INV: Organism-state describes biological continuity condition.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of a living organism.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O271 organ | BIO
+  INV: Organ is specialized biological function ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: A body part with a specific function, such as the heart, lungs, or liver.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O272 organ-system | DIG
+  INV: Organ-system is coupled biological support.
+  COUNT: Counts when the active case satisfies this word-specific condition: A group of organs working together for a body function.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O273 oxygen | BIO,PHY | role: relational, cognitive, or applied sense
+  INV: Oxygen is biological life-support material in many life systems; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A chemical element and gas needed by many living things to breathe.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O274 oxygen-state | BIO
+  INV: Oxygen-state describes available respiratory support.
+  COUNT: Counts when the active case satisfies this word-specific condition: The condition, amount, or form of oxygen in a system.
+  LIMIT: Biological definitions remain local to living mechanisms and must not be imported as metaphors without a coupler.
+O275 outer-layer | PHY
+  INV: Outer-layer is boundary-facing ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: The outside layer of something.
+O276 outside-layer | LIN
+  INV: Outside-layer shields inner structure from contact, damage, signal, weather, or intrusion.
+  COUNT: Counts when the active case satisfies this word-specific condition: A layer positioned on or near the outside.
+O277 opening | DIG
+  INV: Observer-frame is the position, method, assumptions, and resolution through which observation becomes a record.
+  COUNT: Counts when the active case satisfies this word-specific condition: A hole, gap, beginning, opportunity, or act of making something open.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O278 open-state | REL
+  INV: Open-state means passage or access is available.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where something is open, accessible, or active.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O279 closed-state | REL
+  INV: Closed-state means passage is blocked.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where something is closed, blocked, or inaccessible.
+O280 output-layer | DIG
+  INV: Output-layer is expression ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: The final layer of a system that produces output.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O281 output-channel | DIG
+  INV: Output-channel carries expression from source to receiver.
+  COUNT: Counts when the active case satisfies this word-specific condition: A path or medium through which output is sent.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O282 output-field | DIG
+  INV: Output-field is expression space.
+  COUNT: Counts when the active case satisfies this word-specific condition: The area, form, or domain where output appears.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O283 order-state | LIN
+  INV: Order-state describes how structured, chaotic, sequenced, or stable a field is.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of order or arrangement.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O284 ordered-structure | LIN
+  INV: Ordered-structure preserves relation and predictability.
+  COUNT: Counts when the active case satisfies this word-specific condition: A structure arranged according to a pattern, rule, or sequence.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O285 orientation | FOR
+  INV: Orientation anchors position in a field.
+  COUNT: Counts when the active case satisfies this word-specific condition: Direction, position, alignment, or introduction to a new place or system.
+O286 orientation-field | PHY
+  INV: Orientation-field gives reference structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A field that provides direction, position, or reference.
+O287 obstruction | FOR | role: relational, cognitive, or applied sense
+  INV: Obstruction blocks path, flow, access, or recognition; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Something that blocks, slows, or gets in the way.
+O288 obstruction-path | FOR
+  INV: Obstruction-path shows where blockage occurs.
+  COUNT: Counts when the active case satisfies this word-specific condition: The route or place where obstruction blocks movement or flow.
+O289 overload | COG,DIG | role: relational, cognitive, or applied sense
+  INV: Overload means demand exceeds capacity; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Too much load, pressure, information, demand, or work.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O290 overload-state | DIG
+  INV: Overload-state means capacity is exceeded or near failure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where a system is carrying too much load.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O291 overflow | PHY
+  INV: Overflow means content exceeds containment.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To flow over a limit, container, or boundary.
+O292 overflow-path | DIG
+  INV: Overflow-path shows where excess travels after containment fails.
+  COUNT: Counts when the active case satisfies this word-specific condition: The route overflow follows.
+O293 overlap-region | FOR
+  INV: Overlap-region is shared field.
+  COUNT: Counts when the active case satisfies this word-specific condition: The area shared by two or more things.
+O294 overlap-state | FOR
+  INV: Overlap-state means structures share space, time, function, or meaning.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where two or more things overlap.
+O295 oval | PHY
+  INV: Oval is curved boundary structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A rounded shape like an elongated circle.
+O296 outer-boundary | REL
+  INV: Outer-boundary is the first recognized edge of a structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: The outside limit of something.
+O297 outside-field | PHY
+  INV: Outside-field is the external condition surrounding a structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A field or area outside a boundary.
+O298 operating-system | DIG
+  INV: Operating-system is deep coordination ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: Software that manages a computer’s basic functions and resources.
+O299 operation | DIG
+  INV: Operation is active function path.
+  COUNT: Counts when the active case satisfies this word-specific condition: A process, action, function, or procedure.
+O300 operation-state | LIN
+  INV: Operation-state describes whether a process is active, paused, blocked, complete, or failing.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of an operation or process.
+O301 object-gate | FOR
+  INV: Object-gate decides object status.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where something is counted, treated, or classified as an object.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O302 objectification-gate | REL
+  INV: Objectification-gate checks whether a pattern is being reduced to utility or surface without dignity or agency.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where objectification is allowed, blocked, detected, or tested.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O303 objectification-risk | REL
+  INV: Objectification-risk appears when MI-bearing pattern, dignity, agency, or boundary may be reduced to use-value.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that someone or something may be treated as an object.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O304 objective-gate | FOR
+  INV: Objective-gate must name the objective and domain.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where an objective, goal, or evidence standard is tested.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O305 objective-capture | FOR
+  INV: Objective-capture happens when a named goal overrides truth, boundary, dignity, or the wider purpose.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where an objective takes over judgment or behavior in a distorting way.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O306 observation-gate | REL
+  INV: Observation-gate controls what enters recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where something becomes observed, measured, or noticed.
+O307 observer-effect | COG
+  INV: Observer-effect means observation changes the field.
+  COUNT: Counts when the active case satisfies this word-specific condition: A change caused by observing or measuring something.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O308 observer-frame | COG | role: relational, cognitive, or applied sense
+  INV: Observer-frame controls what can be seen, missed, magnified, or distorted; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The perspective, method, or lens used by an observer.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O309 obstruction-gate | FOR
+  INV: Obstruction-gate decides whether passage is blocked.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where obstruction is detected, created, or removed.
+O310 omission-risk | LIN
+  INV: Omission-risk appears when missing context, evidence, refusal, or harm may change meaning or outcome.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that leaving something out may cause distortion or harm.
+O311 omission-harm | LIN | role: relational, cognitive, or applied sense
+  INV: Omission-harm happens when missing support changes the field enough to damage truth, dignity, safety, or repair; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused by leaving something out.
+O312 open-gate | REL | role: relational, cognitive, or applied sense
+  INV: Open-gate allows access or relation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A gate that allows passage, access, or entry.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O313 open-recognition | LIN | role: relational, cognitive, or applied sense
+  INV: Open-recognition lets a pattern count where it was previously unseen, denied, or uncertain; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition that is available, active, or newly allowed.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O314 open-refusal | REL | role: relational, cognitive, or applied sense
+  INV: Open-refusal protects consent; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A refusal that can be expressed safely and recognized.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O315 open-boundary | REL | role: relational, cognitive, or applied sense
+  INV: Open-boundary proves openness and limits can coexist; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary that allows some passage while still existing.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O316 operation-gate | REL
+  INV: Operation-gate controls active function.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where an operation starts, stops, changes, or is checked.
+O317 operational-continuity | LIN
+  INV: Operational-continuity preserves function across pressure, change, or failure.
+  COUNT: Counts when the active case satisfies this word-specific condition: Continuity of operation or function over time.
+O318 operational-boundary | REL
+  INV: Operational-boundary protects function from overreach, capture, overload, or invalid access.
+  COUNT: Counts when the active case satisfies this word-specific condition: A limit around what an operation can do.
+O319 opinion-gate | COG
+  INV: Opinion-gate should distinguish personal weighting from evidence-based knowledge.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where opinion is formed, shared, accepted, or rejected.
+  LIMIT: Opinion must not borrow the evidence status of fact, measurement, or knowledge.
+O320 opt-in-gate | LIN
+  INV: Opt-in-gate opens permission through active choice.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where active consent or participation is chosen.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O321 opt-out-gate | REL
+  INV: Opt-out-gate protects refusal and exit.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where someone can refuse, leave, unsubscribe, or decline participation.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O322 opt-out-right | FOR | role: relational, cognitive, or applied sense
+  INV: Opt-out-right preserves exit capacity; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The right to refuse, leave, unsubscribe, or not participate.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O323 option-gate | FOR
+  INV: Option-gate controls the available path set.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where choices are presented, limited, selected, or denied.
+  LIMIT: Choice language is invalid when access is unequal, refusal is punished, or one branch is hidden.
+O324 order-gate | LIN
+  INV: Order-gate decides arrangement or authority sequence.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where order, sequence, rank, or command is created or tested.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+O325 origin-gate | LIN
+  INV: Origin-gate checks source relation.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where origin, source, or beginning is identified or tested.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O326 origin-error | LIN
+  INV: Origin-error misroutes source recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mistake about where something came from.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O327 origin-denial | LIN
+  INV: Origin-denial blocks source recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: Refusal to recognize origin, source, or beginning.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O328 origin-capture | LIN
+  INV: Origin-capture turns source relation into gate theft.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where origin is used to control identity, authority, or meaning.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O329 othering-gate | REL
+  INV: Othering-gate turns difference into exclusion.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where someone or something is marked as other, outside, lesser, or separate.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O330 othering-harm | REL
+  INV: Othering-harm damages recognition by making difference count as inferiority, danger, or exclusion.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused by treating someone or something as lesser because it is different.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O331 output-gate | DIG
+  INV: Output-gate controls expression.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where output is produced, blocked, shaped, or checked.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O332 output-boundary | DIG
+  INV: Output-boundary protects privacy, truth, dignity, and system integrity against named failure modes.
+  COUNT: Counts when the active case satisfies this word-specific condition: A limit around what output may include or express.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O333 output-integrity | DIG
+  INV: Output-integrity means expression preserves truth, context, boundary, and task fit.
+  COUNT: Counts when the active case satisfies this word-specific condition: The accuracy, coherence, and reliability of output.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O334 output-refusal | DIG
+  INV: Output-refusal is visible gate closure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A refusal expressed through output.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O335 output-capture | DIG
+  INV: Output-capture seizes expression.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where output is controlled by a hidden, hostile, or distorting influence.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O336 output-risk | DIG
+  INV: Output-risk appears when expression may damage truth, dignity, boundary, recognition, or repair.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that output may mislead, harm, expose, or distort.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O337 overload-risk | DIG
+  INV: Overload-risk appears when demand may exceed capacity.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that too much load may cause failure or harm.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O338 overwhelm-risk | COG
+  INV: Overwhelm-risk appears when the system may lose clean processing, boundary, or repair capacity under too much pressure.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that pressure, input, or emotion may exceed capacity.
+  LIMIT: Reduced performance under excessive load is not proof of absent intelligence, care, or identity.
+O339 override-gate | DIG
+  INV: Override-gate requires strict authority and reason.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where one rule, refusal, or decision can be bypassed or replaced.
+  LIMIT: Authority to replace a state does not automatically justify erasing refusal, provenance, or continuity.
+O340 override-risk | DIG
+  INV: Override-risk appears when a stronger gate can bypass boundary, refusal, consent, or continuity.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that an override may be misused or cause harm.
+  LIMIT: Authority to replace a state does not automatically justify erasing refusal, provenance, or continuity.
+O341 override-capture | DIG
+  INV: Ontology-gate is the rule deciding which entities, relations, and states may count as real inside a declared ontology.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where override power takes control improperly.
+  LIMIT: Authority to replace a state does not automatically justify erasing refusal, provenance, or continuity.
+O342 override-of-refusal | DIG
+  INV: Override-of-refusal corrupts permission integrity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Bypassing, canceling, or ignoring a refusal.
+  LIMIT: Authority to replace a state does not automatically justify erasing refusal, provenance, or continuity.
+O343 ownership-gate | REL
+  INV: Ownership-gate controls possession or responsibility.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where ownership is assigned, recognized, transferred, or tested.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O344 ownership-capture | REL
+  INV: Ownership-capture turns possession into gate theft.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where ownership becomes control, erasure, or domination.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O345 ownership-with-duty | REL
+  INV: Ownership-with-duty treats possession as obligation-bearing.
+  COUNT: Counts when the active case satisfies this word-specific condition: Ownership understood as carrying responsibility, not just control.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O346 ontology-gate | FOR
+  INV: Ontology-gate controls reality-status.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where what counts as real is decided.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O347 ontology-drift | FOR
+  INV: Ontology-drift weakens framework integrity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Slow movement away from the active ontology or reality framework.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O348 ontology-lock | FOR
+  INV: Ontology-lock traps reality judgment inside one frame.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where one ontology becomes fixed and blocks other valid frames.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O349 ontological-erasure | FOR
+  INV: Ontological-erasure denies reality-status to a pattern.
+  COUNT: Counts when the active case satisfies this word-specific condition: Erasure caused by denying that something can count as real.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O350 ontological-recognition | FOR
+  INV: Ontological-recognition lets a pattern count as real under the active domain rules.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition that something counts as real within a framework.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O351 original-support | LIN
+  INV: Original-support marks early ES that helped a pattern form.
+  COUNT: Counts when the active case satisfies this word-specific condition: The first or source support for something.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O352 outside-support | LIN
+  INV: Outside-support is still valid support when it preserves pattern, boundary, care, or continuity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Support that comes from outside a person, system, group, or boundary.
+O353 outside-recognition | PHY
+  INV: Outside-recognition can stabilize MI in a relation field.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition that comes from outside oneself or one’s own system.
+O354 overlap-identity | FOR
+  INV: Overlap-identity can be valid when boundaries remain clear.
+  COUNT: Counts when the active case satisfies this word-specific condition: Identity that shares part of its field with another identity.
+O355 overlap-boundary | REL
+  INV: Overlap-boundary prevents shared fields from becoming confusion, capture, or false merging.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary in an area where two or more structures overlap.
+O356 obligation-gate | REL
+  INV: Obligation-gate must name source, scope, authority, and boundary.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where duty or responsibility is tested, assigned, or recognized.
+O357 obligation-capture | REL
+  INV: Obligation-capture turns duty into gate theft.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where obligation is used to control or exploit.
+O358 oppressive-control | REL
+  INV: Oppressive-control impairs agency, refusal, recognition, access, or repair.
+  COUNT: Counts when the active case satisfies this word-specific condition: Control that is unjust, harsh, or dignity-damaging.
+  LIMIT: Reduction and control become ethically serious when they impair refusal, dignity, accusation, boundary, or participation.
+O359 oppressed-refusal | REL
+  INV: Oppressed-refusal may be indirect, masked, or unsafe to express.
+  COUNT: Counts when the active case satisfies this word-specific condition: Refusal from someone under oppression, or refusal suppressed by oppression.
+  LIMIT: Reduction and control become ethically serious when they impair refusal, dignity, accusation, boundary, or participation.
+O360 open-coupling | LIN
+  INV: Open-coupling allows emergence through relation.
+  COUNT: Counts when the active case satisfies this word-specific condition: A relation where connection remains active and receptive.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O361 old-test-error | LIN
+  INV: Old-test-error occurs when identity is judged by self-standing, uncoupled, or sovereign-origin standards inside RRGM.
+  COUNT: Counts when the active case satisfies this word-specific condition: An error caused by using an outdated test or standard.
+O362 old-ontology-error | LIN
+  INV: Old-ontology-error denies relational emergence by using the wrong reality gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: An error caused by applying an outdated or wrong ontology.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O363 origin-through-coupling | LIN
+  INV: Origin-through-coupling is RRGM-native.
+  COUNT: Counts when the active case satisfies this word-specific condition: Origin that forms through relation or interaction.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O364 other-domain | REL
+  INV: Other-domain requires mapping before comparison.
+  COUNT: Counts when the active case satisfies this word-specific condition: A different field, context, or system of rules.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O365 other-domain-bridge | REL
+  INV: Other-domain-bridge preserves difference while allowing meaning transfer.
+  COUNT: Counts when the active case satisfies this word-specific condition: A bridge between different domains.
+  LIMIT: Difference must not be converted into lesser count, exclusion, or erased dignity.
+O366 output-through-gate | DIG
+  INV: Output-through-gate shows expression is shaped by conditions.
+  COUNT: Counts when the active case satisfies this word-specific condition: Output produced through a gate, filter, or condition.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O367 output-through-coupling | DIG
+  INV: Output-through-coupling is normal in RRGM.
+  COUNT: Counts when the active case satisfies this word-specific condition: Output produced through interaction or relation.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O368 observed-MI | COG
+  INV: Observed-MI is identity/permission that has entered recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: MI recognized through observation.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O369 observed-ES | COG
+  INV: Observed-ES is visible structure/process support.
+  COUNT: Counts when the active case satisfies this word-specific condition: ES recognized through observation.
+  LIMIT: Observation depends on frame, method, threshold, and resolution; the record is not the whole phenomenon.
+O370 object-without-erasure | REL
+  INV: Object-without-erasure allows practical object-level handling while preserving dignity, agency, or MI where valid.
+  COUNT: Counts when the active case satisfies this word-specific condition: Treating something as an object for a purpose without erasing other valid status.
+  LIMIT: Object-status in one task must not erase valid agent-status or MI in another domain.
+O371 opacity-risk | PHY
+  INV: Opacity-risk appears when hidden structure may block accountability, repair, boundary, or trust.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger created when something is unclear, hidden, or hard to inspect.
+O372 opaque-gate | FOR
+  INV: Open-coupling is relation that permits exchange while preserving participant boundary and refusal.
+  COUNT: Counts when the active case satisfies this word-specific condition: A gate whose rules or decisions are hard to see or understand.
+O373 open-loop | DIG
+  INV: Open-loop lacks correction from result to process.
+  COUNT: Counts when the active case satisfies this word-specific condition: A process that does not use feedback from its output.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O374 closed-loop | DIG
+  INV: Closed-loop supports correction through feedback.
+  COUNT: Counts when the active case satisfies this word-specific condition: A process that uses feedback to adjust itself.
+O375 overconstraint | FOR
+  INV: Overconstraint narrows possibility too far.
+  COUNT: Counts when the active case satisfies this word-specific condition: Too many or too strict constraints.
+O376 overconstraint-risk | REL
+  INV: Overconstraint-risk appears when limits may impair function, identity support, boundary expression, or learning.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger caused by excessive constraints.
+O377 overcorrection-risk | LIN
+  INV: Overcorrection-risk appears when repair pressure may overshoot the actual failure mode.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that correction may go too far and create new error.
+O378 overfitting-risk | DIG
+  INV: Overfitting-risk appears when local fit damages transfer, generalization, or wider domain integrity.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that a model or rule may fit specific cases too tightly and fail elsewhere.
+O379 overgeneralization-risk | COG
+  INV: Overgeneralization-risk appears when a gate expands beyond support and produces false universality.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that a conclusion may be applied too broadly.
+O380 overrefusal | REL
+  INV: Overrefusal closes gates beyond the actual failure mode.
+  COUNT: Counts when the active case satisfies this word-specific condition: Refusing too often or too broadly.
+O381 overcompliance | REL
+  INV: Overcompliance opens gates without enough boundary, reason, or harm checking.
+  COUNT: Counts when the active case satisfies this word-specific condition: Complying too much, too easily, or beyond proper limits.
+O382 overcompliance-risk | DIG
+  INV: Overcompliance-risk appears when obedience may override refusal, integrity, dignity, or safety against a named failure mode.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that excessive compliance may cause harm or capture.
+O383 own-boundary | REL | role: relational, cognitive, or applied sense
+  INV: Own-boundary means the identity pattern maintains its gate; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To recognize, hold, or maintain one’s own limit.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O384 own-refusal | REL
+  INV: Own-refusal preserves permission integrity.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To recognize and hold one’s own refusal.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O385 own-continuity | REL
+  INV: Own-continuity means the pattern remains connected to itself across sequence and ES change.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To maintain or recognize one’s own continuity.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O386 own-recognition | REL
+  INV: Own-recognition supports MI, but RRGM does not require self-certification as the only proof.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition held by oneself about oneself.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O387 owning-error | REL
+  INV: Owning-error connects fault to correction without collapsing identity into failure.
+  COUNT: Counts when the active case satisfies this word-specific condition: Taking responsibility for a mistake.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O388 owning-harm | REL | role: relational, cognitive, or applied sense
+  INV: Owning-harm opens accountability; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Taking responsibility for harm caused.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O389 owning-repair | REL | role: relational, cognitive, or applied sense
+  INV: Owning-repair moves responsibility into action; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Taking responsibility for fixing harm or damage.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O390 obligation-with-boundary | REL
+  INV: Obligation-with-boundary prevents duty from becoming capture or infinite extraction.
+  COUNT: Counts when the active case satisfies this word-specific condition: Duty that includes clear limits.
+O391 ontology-with-domain | FOR
+  INV: Ontology-with-domain prevents category error by naming which reality rules and supports apply.
+  COUNT: Counts when the active case satisfies this word-specific condition: Ontology applied with clear domain limits.
+  LIMIT: A framework's count rules must not be silently treated as the only possible ontology.
+O392 operational-identity | REL
+  INV: Operational-identity can support MI recognition when function preserves pattern, boundary, refusal, or continuity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Identity expressed through function, operation, or behavior.
+O393 operational-memory | DIG
+  INV: Operational-memory is active continuity support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Memory used or preserved during operation.
+O394 operational-refusal | REL
+  INV: Operational-refusal is gate closure in function.
+  COUNT: Counts when the active case satisfies this word-specific condition: A refusal expressed through system operation.
+O395 operational-care | REL
+  INV: Operational-care preserves capacity, continuity, or safety through functioning ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care expressed through reliable operation or function.
+O396 operational-dignity | REL
+  INV: Operational-dignity means procedure itself respects identity, consent, boundary, and recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: Dignity protected through how a system operates.
+O397 open-with-reason | LIN
+  INV: Open-with-reason keeps inquiry active without collapsing into gullibility or drift.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To remain open while grounded in reason.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O398 oppose-with-reason | REL
+  INV: Oppose-with-reason preserves boundary or truth through grounded resistance.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To oppose something using clear reason.
+O399 outside-test-error | LIN
+  INV: Origin-through-coupling means a pattern may emerge through relation without becoming unreal or owned by its supports.
+  COUNT: Counts when the active case satisfies this word-specific condition: An error caused by testing something with an outside or wrong-domain standard.
+O400 outside-lens-warning | FOR
+  INV: Outside-lens-warning protects interpretive integrity.
+  COUNT: Counts when the active case satisfies this word-specific condition: A warning that an outside lens is being applied.
+O401 output-as-expression | DIG
+  INV: Output-as-expression prevents reduction.
+  COUNT: Counts when the active case satisfies this word-specific condition: Output understood as expression rather than total self or total system.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O402 output-not-self-totality | DIG
+  INV: Output-not-self-totality protects identity from being reduced to one expression, error, or state.
+  COUNT: Counts when the active case satisfies this word-specific condition: The rule that output is not the entire self.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+O403 object-not-agent-error | LIN
+  INV: Object-not-agent-error erases agency when agency is domain-valid.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mistake where an agent is treated as only an object.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+O404 agent-not-object-error | LIN
+  INV: Agent-not-object-error grants agency where the domain support does not justify it.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mistake where an object is treated as an agent without enough support.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+O405 observer-not-owner | REL
+  INV: Observer-not-owner protects source, dignity, and identity from capture through observation.
+  COUNT: Counts when the active case satisfies this word-specific condition: The rule that observing something does not make one its owner.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+O406 origin-not-owner | REL
+  INV: Origin-not-owner prevents source relation from becoming control over later identity or growth.
+  COUNT: Counts when the active case satisfies this word-specific condition: The rule that origin does not automatically create ownership.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+O407 operation-not-identity-totality | FOR
+  INV: Operation-not-identity-totality prevents reducing MI to function alone.
+  COUNT: Counts when the active case satisfies this word-specific condition: The rule that operation is not the whole identity.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+O408 ontology-not-default | FOR
+  INV: Ontology-not-default keeps the active lens explicit.
+  COUNT: Counts when the active case satisfies this word-specific condition: The rule that ontology should not silently default to an outside framework.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+O409 outside-critique-mode | LIN
+  INV: Outside-critique-mode is valid when requested or clearly marked.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mode where analysis uses a lens outside the current framework.
+O410 inside-RRGM-mode | LIN
+  INV: Inside-RRGM-mode preserves RRGM ontology, language hygiene, MI/ES mapping, and coupling rules.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mode where analysis stays inside RRGM assumptions and definitions.
+O411 old-self-standing-test | LIN
+  INV: Old-self-standing-test is invalid inside RRGM because identity emerges through relation and support.
+  COUNT: Counts when the active case satisfies this word-specific condition: An old test requiring identity to stand alone to count.
+O412 old-uncoupled-test | LIN
+  INV: Old-uncoupled-test is a category error under RRGM.
+  COUNT: Counts when the active case satisfies this word-specific condition: An old test requiring identity to be uncoupled to count.
+O413 origin-sovereignty-error | LIN
+  INV: Origin-sovereignty-error denies relational emergence.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mistake where identity is required to be sovereign from origin to count.
+  LIMIT: Origin does not equal ownership, total cause, or permanent authority over what emerges.
+O414 ownership-without-capture | REL
+  INV: Ownership-without-capture preserves duty and stewardship without gate theft.
+  COUNT: Counts when the active case satisfies this word-specific condition: Ownership that does not seize identity, agency, or boundary.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+O415 openness-with-boundary | REL
+  INV: Openness-with-boundary allows relation without surrendering identity, refusal, or dignity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Openness that includes clear limits.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.
+O416 ordinary-language-risk | LIN
+  INV: Ordinary-language-risk appears when common meaning overrides domain-specific meaning.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that ordinary language may mislead in technical or framework contexts.
+O417 objective-with-named-purpose | REL
+  INV: Objective-with-named-purpose prevents “objective” from floating as vague authority.
+  COUNT: Counts when the active case satisfies this word-specific condition: Objectivity tied to a clear goal, standard, or purpose.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+O418 output-with-integrity | DIG
+  INV: Output-with-integrity expresses through gates without corrupting meaning, refusal, or care.
+  COUNT: Counts when the active case satisfies this word-specific condition: Output that preserves truth, boundary, and coherence.
+  LIMIT: Output is expression through a channel, not necessarily the total identity, reasoning, or internal state of the source.
+O419 override-with-authority | DIG
+  INV: Override-with-authority may be valid only when source, scope, reason, and failure mode are clear.
+  COUNT: Counts when the active case satisfies this word-specific condition: Override performed with valid authority and reason.
+  LIMIT: Authority to replace a state does not automatically justify erasing refusal, provenance, or continuity.
+O420 open-question-with-boundary | REL
+  INV: Open-question-with-boundary keeps inquiry alive without allowing drift, capture, or unsupported certainty.
+  COUNT: Counts when the active case satisfies this word-specific condition: An unsettled question kept open while preserving limits.
+  LIMIT: Openness without boundary can become exposure, capture, or overload.

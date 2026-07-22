@@ -1,0 +1,558 @@
+RRGM Dictionary L Mythic Addon v0.7
+
+Scope: New L-terms whose primary implementation belongs to the [MYT] domain and which are not present as headwords in the base L section.
+Production rule: Each entry carries its own invariant MI. Definitions are compressed, domain-specific, and proof remains local.
+
+Entry count: 24
+
+LM001 labyrinth
+
+Common meaning:
+A maze whose path tests memory, identity, choice, or return.
+
+Invariant MI [INV]:
+Labyrinth is a path-field where navigation depends on preserving a relation to exit, centre, or self.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The labyrinth may rearrange, mirror the traveller, or make each wrong turn reveal an unheld assumption.
+
+Count condition:
+Counts when the maze changes the traveller’s identity, knowledge, or route rather than serving only as scenery.
+
+Specific transfer boundary:
+A mythic labyrinth is not evidence that a physical maze changes itself.
+
+Epistemic status:
+[DEF]
+
+LM002 lantern-bearer
+
+Common meaning:
+A figure who carries light through darkness for others.
+
+Invariant MI [INV]:
+Lantern-bearer is a guidance role that makes a path visible without walking it for the traveller.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The carried flame may preserve memory, warn of danger, or mark the boundary between the known and the unentered.
+
+Count condition:
+Counts when the bearer’s light changes another character’s available path or recognition.
+
+Specific transfer boundary:
+Guidance does not create ownership over those who follow.
+
+Epistemic status:
+[DEF]
+
+LM003 lorekeeper
+
+Common meaning:
+A guardian of stories, names, histories, and inherited meaning.
+
+Invariant MI [INV]:
+Lorekeeper preserves continuity by carrying records that would otherwise fall out of recognition.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The lorekeeper may speak, sing, carve, remember, or refuse disclosure when a story’s boundary matters.
+
+Count condition:
+Counts when preserved lore changes identity, duty, or action in the narrative.
+
+Specific transfer boundary:
+Remembered lore is not automatically historical fact.
+
+Epistemic status:
+[DEF]
+
+LM004 lost-name
+
+Common meaning:
+A name removed, forgotten, stolen, or hidden from its bearer.
+
+Invariant MI [INV]:
+Lost-name is broken access to an identity handle while the underlying identity may continue.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Recovery may require recognition, witness, return, or refusal of the imposed replacement name.
+
+Count condition:
+Counts when loss or recovery of the name changes the bearer’s access, continuity, or relation.
+
+Specific transfer boundary:
+Name loss in myth does not prove literal erasure of identity.
+
+Epistemic status:
+[DEF]
+
+LM005 life-thread
+
+Common meaning:
+A thread representing the continuity, duration, or fate of a life.
+
+Invariant MI [INV]:
+Life-thread is a linear mythic record linking origin, change, and possible ending.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may be spun, knotted, tangled, guarded, or cut by figures who govern sequence.
+
+Count condition:
+Counts when alteration of the thread changes a life’s course or count in the story.
+
+Specific transfer boundary:
+The symbol does not establish a physical thread attached to living beings.
+
+Epistemic status:
+[DEF]
+
+LM006 liminal-door
+
+Common meaning:
+A doorway between ordinary space and a differently ruled realm.
+
+Invariant MI [INV]:
+Liminal-door is a threshold whose crossing changes the active domain conditions.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Entry may require a name, time, offering, invitation, or state of recognition.
+
+Count condition:
+Counts when crossing changes what rules, identities, or possibilities apply.
+
+Specific transfer boundary:
+A physical doorway is not mythically active without the declared frame.
+
+Epistemic status:
+[DEF]
+
+LM007 lunar-oath
+
+Common meaning:
+A vow bound to the moon, its phases, or a night-cycle.
+
+Invariant MI [INV]:
+Lunar-oath is obligation indexed to recurrence and changing illumination.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The oath may renew, weaken, reveal, or come due at a named phase.
+
+Count condition:
+Counts when the lunar condition changes the vow’s force or consequence.
+
+Specific transfer boundary:
+A moon phase does not create legal obligation outside the mythic frame.
+
+Epistemic status:
+[DEF]
+
+LM008 light-of-return
+
+Common meaning:
+A light that reveals or reopens the path home.
+
+Invariant MI [INV]:
+Light-of-return is recognition carried as illumination toward a lost continuity.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may appear as a star, lamp, window, memory, or named flame seen only by the returning traveller.
+
+Count condition:
+Counts when seeing or following the light restores a valid return path.
+
+Specific transfer boundary:
+Symbolic return-light is not a navigation instrument unless physically instantiated.
+
+Epistemic status:
+[DEF]
+
+LM009 language-of-stars
+
+Common meaning:
+A symbolic system that reads stars as names, messages, paths, or destinies.
+
+Invariant MI [INV]:
+Language-of-stars maps celestial pattern into mythic meaning through a declared interpretive tradition.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Constellations may serve as letters, ancestors, warnings, or routes.
+
+Count condition:
+Counts when a community or character can interpret the pattern consistently enough to act on it.
+
+Specific transfer boundary:
+Astronomical position does not validate the transferred mythic claim.
+
+Epistemic status:
+[DEF]
+
+LM010 law-of-hospitality
+
+Common meaning:
+A sacred rule governing host, guest, shelter, and reciprocal boundary.
+
+Invariant MI [INV]:
+Law-of-hospitality protects temporary relation by assigning duties to both the one who receives and the one received.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Breaking the law may expose a household, lineage, or ruler to consequence.
+
+Count condition:
+Counts when host and guest roles create binding narrative duties.
+
+Specific transfer boundary:
+Mythic hospitality law is not automatically civil law.
+
+Epistemic status:
+[DEF]
+
+LM011 last-king
+
+Common meaning:
+The final ruler of a line, age, or kingdom.
+
+Invariant MI [INV]:
+Last-king is a sovereignty figure positioned at the boundary between continuity and ending.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The ruler’s final act may preserve a name, close an age, or transfer authority into another form.
+
+Count condition:
+Counts when no successor of the same order can continue the prior rule.
+
+Specific transfer boundary:
+The title does not establish historical kingship.
+
+Epistemic status:
+[DEF]
+
+LM012 living-crown
+
+Common meaning:
+A crown that grows, chooses, remembers, or responds to its bearer.
+
+Invariant MI [INV]:
+Living-crown is authority embodied in an active relation rather than a passive object.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may accept, wound, reject, or transform a claimant according to its own gate.
+
+Count condition:
+Counts when the crown’s response changes whether rule can be validly held.
+
+Specific transfer boundary:
+A symbolic crown does not confer real-world authority.
+
+Epistemic status:
+[DEF]
+
+LM013 long-night
+
+Common meaning:
+An extended period of darkness, exile, danger, or suspended hope.
+
+Invariant MI [INV]:
+Long-night is a mythic duration in which ordinary renewal fails to arrive on schedule.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Survival depends on keeping memory, fire, boundary, or promise alive until return becomes possible.
+
+Count condition:
+Counts when the delayed dawn changes social order, identity, or viable action.
+
+Specific transfer boundary:
+The phrase need not describe astronomical night.
+
+Epistemic status:
+[DEF]
+
+LM014 lovers-vow
+
+Common meaning:
+A promise through which two lovers define care, fidelity, return, or release.
+
+Invariant MI [INV]:
+Lovers-vow is relational commitment made narratively load-bearing.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Its ethical strength depends on preserved consent, truth, and the possibility of honest release.
+
+Count condition:
+Counts when the vow changes what either lover may validly claim or must repair.
+
+Specific transfer boundary:
+Love does not make coercive vows ethical.
+
+Epistemic status:
+[DEF]
+
+LM015 lake-of-memory
+
+Common meaning:
+A body of water that stores, reflects, or restores memories.
+
+Invariant MI [INV]:
+Lake-of-memory is a mythic reservoir where record persists outside ordinary recall.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Touching, drinking, crossing, or seeing one’s reflection may reopen a specific memory path.
+
+Count condition:
+Counts when contact with the lake changes accessible memory or identity continuity.
+
+Specific transfer boundary:
+Recovered mythic memory remains a narrative record until independently supported.
+
+Epistemic status:
+[DEF]
+
+LM016 letter-of-fate
+
+Common meaning:
+A written message whose arrival changes a life-path or reveals a prior binding.
+
+Invariant MI [INV]:
+Letter-of-fate is record delivered at the threshold where knowledge becomes consequence.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Its authority may come from prophecy, lineage, the dead, or the receiver’s own forgotten promise.
+
+Count condition:
+Counts when reading the letter closes or opens a major narrative path.
+
+Specific transfer boundary:
+Written form alone does not make a claim fated or true.
+
+Epistemic status:
+[DEF]
+
+LM017 lion-gate
+
+Common meaning:
+A guarded threshold marked by lion imagery or a lion-like keeper.
+
+Invariant MI [INV]:
+Lion-gate is access controlled through courage, sovereignty, or protective force.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Passage may require recognition, rightful purpose, or refusal to approach through domination.
+
+Count condition:
+Counts when the guardian or symbol determines who may cross.
+
+Specific transfer boundary:
+Lion imagery does not create physical access control by itself.
+
+Epistemic status:
+[DEF]
+
+LM018 ladder-of-worlds
+
+Common meaning:
+A staged path connecting separate realms or levels of being.
+
+Invariant MI [INV]:
+Ladder-of-worlds turns an otherwise discontinuous crossing into ordered transitions.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Each rung may require a different name, body, memory, or permission.
+
+Count condition:
+Counts when travellers can move between distinct realms through the ladder’s ordered stages.
+
+Specific transfer boundary:
+The symbol does not prove a literal cosmological ladder.
+
+Epistemic status:
+[DEF]
+
+LM019 lock-of-silence
+
+Common meaning:
+A binding that prevents a truth, name, or memory from being spoken.
+
+Invariant MI [INV]:
+Lock-of-silence is a gate placed on expression while the held meaning may remain present.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may break through recognition, release, counter-word, or the speaker accepting a cost.
+
+Count condition:
+Counts when the lock blocks meaningful expression and its release changes the record.
+
+Specific transfer boundary:
+Silence alone does not prove an external binding.
+
+Epistemic status:
+[DEF]
+
+LM020 line-of-destiny
+
+Common meaning:
+A path treated as the expected or foretold course of a life.
+
+Invariant MI [INV]:
+Line-of-destiny is a projected sequence that exerts narrative pressure without necessarily erasing choice.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Characters may follow, bend, refuse, or reinterpret the line.
+
+Count condition:
+Counts when the foretold sequence shapes decisions or consequences across the story.
+
+Specific transfer boundary:
+Prediction in myth is not proof of determinism.
+
+Epistemic status:
+[DEF]
+
+LM021 lost-road
+
+Common meaning:
+A route removed from maps, memory, access, or ordinary recognition.
+
+Invariant MI [INV]:
+Lost-road is a path whose continuity survives while access to it has failed.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may reappear through a name, guide, season, wound, or act of remembrance.
+
+Count condition:
+Counts when recovering the road restores connection between separated places or identities.
+
+Specific transfer boundary:
+An unmapped physical route is not necessarily mythically lost.
+
+Epistemic status:
+[DEF]
+
+LM022 listening-stone
+
+Common meaning:
+A stone said to receive, preserve, or return voices and vows.
+
+Invariant MI [INV]:
+Listening-stone is a memory courier that records relation through sound or touch.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may answer only a true name, repeat an old promise, or expose a hidden speaker.
+
+Count condition:
+Counts when the stone’s retained signal changes recognition or action.
+
+Specific transfer boundary:
+A physical stone does not record speech without a mechanism.
+
+Epistemic status:
+[DEF]
+
+LM023 legacy-flame
+
+Common meaning:
+A flame passed between generations, roles, or keepers.
+
+Invariant MI [INV]:
+Legacy-flame is continuity carried through a fragile but renewable symbol.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Its transfer may preserve office, memory, care, or unfinished duty.
+
+Count condition:
+Counts when keeping or passing the flame preserves a relation beyond one bearer.
+
+Specific transfer boundary:
+Symbolic inheritance is not biological or legal inheritance by default.
+
+Epistemic status:
+[DEF]
+
+LM024 land-of-the-dead
+
+Common meaning:
+A realm in which the dead are counted, remembered, judged, or held.
+
+Invariant MI [INV]:
+Land-of-the-dead is a mythic domain with different entry, identity, and return conditions from the living world.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Crossing may alter name, memory, time, obligation, or the right to return.
+
+Count condition:
+Counts when the narrative consistently applies distinct rules to the dead realm.
+
+Specific transfer boundary:
+The entry does not assert an empirical afterlife.
+
+Epistemic status:
+[DEF]

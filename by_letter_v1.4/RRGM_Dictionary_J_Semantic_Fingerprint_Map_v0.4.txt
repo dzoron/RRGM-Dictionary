@@ -1,0 +1,850 @@
+RRGM Dictionary J Semantic Fingerprint Map v0.4
+
+Entries: 240
+Rule: invariant + domain set + count condition + boundary must distinguish each ID from neighbours.
+
+J001 jacket | PHY | role: ordinary protective garment
+  INV: A jacket is protective outer ES; here it functions as the ordinary protective garment.
+  COUNT: Counts when the active field contains a piece of clothing worn on the upper body for warmth, protection, or style and the instance satisfies the invariant.
+  LIMIT: A jacket is a removable protective or expressive layer, not the body or identity beneath it.
+J002 jail | REL
+  INV: Jail is forced containment structure.
+  COUNT: Counts when the active field contains a place where people are held as punishment, before trial, or under legal custody and the instance satisfies the invariant.
+  LIMIT: Jail is forced containment; legality does not by itself establish justice or dignity.
+J003 jam | PHY | role: ordinary blockage or crowded condition
+  INV: Jam is flow blockage; here it functions as the ordinary blockage or crowded condition.
+  COUNT: Counts when the active field contains a sweet fruit spread, a blockage, or a crowded/stuck condition and the instance satisfies the invariant.
+  LIMIT: A jam blocks or crowds flow; ordinary delay without blockage is not a jam.
+J004 jar | PHY | role: ordinary container or sudden shake
+  INV: Jar can mean containment ES or sudden disruption; here it functions as the ordinary container or sudden shake.
+  COUNT: Counts when the active field contains a container, or a sudden shake, shock, or unpleasant surprise and the instance satisfies the invariant.
+  LIMIT: Jar may mean container or sudden disturbance; the senses must remain separated by domain.
+J005 jaw | PHY | role: ordinary skull and mouth structure
+  INV: Jaw is biological force and expression structure; here it functions as the ordinary skull and mouth structure.
+  COUNT: Counts when the active field contains the part of the skull or mouth used for biting, chewing, and speaking and the instance satisfies the invariant.
+  LIMIT: The jaw carries force and expression but is not identical to speech, intent, or aggression.
+J006 jealous | REL | role: ordinary threatened or possessive affect
+  INV: Jealous means loss-threat salience around relation or value; here it functions as the ordinary threatened or possessive affect.
+  COUNT: Counts when the term correctly describes a case of feeling upset, threatened, or protective because of possible loss of attention, love, status, or possession.
+  LIMIT: Threat salience does not grant ownership or control over the valued relation.
+J007 jealousy | REL | role: ordinary jealousy feeling
+  INV: Jealousy is relation-threat pressure; here it functions as the ordinary jealousy feeling.
+  COUNT: Counts when the active field contains a feeling of threat, resentment, or fear around losing affection, attention, status, or possession and the instance satisfies the invariant.
+  LIMIT: Jealousy may reveal attachment but does not make accusation or restriction true or justified.
+J008 job | REL
+  INV: Job is role-function structure.
+  COUNT: Counts when the term correctly describes a case of work someone does, a task, or a role.
+  LIMIT: A job is a role-function agreement; it is not the whole identity of the worker.
+J009 join | REL
+  INV: Join creates coupling.
+  COUNT: Counts when the named action occurs in a case matching this definition: connect, become part of, or bring together.
+  LIMIT: Joining creates relation or membership and does not require identity merger.
+J010 joint | PHY,REL | role: ordinary moving connection
+  INV: Joint is connection and movement support; here it functions as the ordinary moving connection.
+  COUNT: Counts when the active field contains a place where parts connect and move, especially in the body or a structure and the instance satisfies the invariant.
+  LIMIT: A joint is a connection that permits constrained movement; it differs from a fixed bond or loose adjacency.
+J011 joke | REL | role: ordinary humour event
+  INV: A joke is play-framed signal; here it functions as the ordinary humour event.
+  COUNT: Counts when the term correctly describes a case of something said or done to make people laugh.
+  LIMIT: A joke requires a play frame, but calling harm a joke does not repair consent or effect.
+J012 joy | REL | role: ordinary strong positive affect
+  INV: Joy is positive human affect; here it functions as the ordinary strong positive affect.
+  COUNT: Counts when the active field contains a strong feeling of happiness, delight, or gladness and the instance satisfies the invariant.
+  LIMIT: Joy is positive affect or salience and does not prove that the surrounding condition is good for everyone.
+J013 judge | REL | role: ordinary evaluator or legal role
+  INV: Judge means applying criteria to a claim, action, or person; here it functions as the ordinary evaluator or legal role.
+  COUNT: Counts when the named action occurs in a case matching this definition: decide, evaluate, or form an opinion; also a person who decides cases in court.
+  LIMIT: To judge is to apply criteria; the evaluator’s authority and criteria remain separate questions.
+J014 judgment | REL | role: ordinary decision or ruling
+  INV: Judgment is gate closure after evaluation; here it functions as the ordinary decision or ruling.
+  COUNT: Counts when the active field contains a decision, opinion, evaluation, or legal ruling and the instance satisfies the invariant.
+  LIMIT: Judgment closes an evaluation path and must not be confused with certainty or permanent finality.
+J015 juice | PHY | role: ordinary fruit liquid or usable energy
+  INV: Juice can mean biological intake or usable energy; here it functions as the ordinary fruit liquid or usable energy.
+  COUNT: Counts when the term correctly describes a case of liquid from fruit or vegetables; also energy, power, or influence.
+  LIMIT: Biological liquid, electrical power, and slang capacity are different implementations.
+J016 jump | PHY | role: ordinary leap or sudden movement
+  INV: Jump is discontinuous movement across a gap or threshold; here it functions as the ordinary leap or sudden movement.
+  COUNT: Counts when the named action occurs in a case matching this definition: push off the ground, move suddenly, or skip from one point to another.
+  LIMIT: A jump crosses a gap or threshold; skipping steps and physical leaping are not the same mechanism.
+J017 just | LIN
+  INV: Just must be domain-bound.
+  COUNT: Counts when the term correctly describes a case of fair, morally right, exact, only, or very recently.
+  LIMIT: Just may mean fair, exact, only, or recent; domain and grammar must select the sense.
+J018 justice | REL | role: ordinary fairness and rightful treatment
+  INV: Justice is ethical gate repair at social scale; here it functions as the ordinary fairness and rightful treatment.
+  COUNT: Counts when the term correctly describes a case of fairness, rightful treatment, accountability, and protection against wrongdoing.
+  LIMIT: Justice is accountable repair and rightful treatment, not punishment alone.
+J019 justify | REL | role: ordinary act of giving reasons
+  INV: Justify connects action or claim to reasons; here it functions as the ordinary act of giving reasons.
+  COUNT: Counts when the named action occurs in a case matching this definition: show or explain why something is right, reasonable, or acceptable.
+  LIMIT: A reason can explain an act without making the act ethical or true.
+J020 January | FOR
+  INV: January is calendar sequence structure.
+  COUNT: Counts when the active field contains the first month of the year in the Gregorian calendar and the instance satisfies the invariant.
+J021 jealous-care | REL
+  INV: Jealous-care is unstable care-pressure.
+  COUNT: Counts when care is expressed specifically through jealous while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+J022 jewel | PHY | role: ordinary precious stone or valued object
+  INV: Jewel is concentrated value structure; here it functions as the ordinary precious stone or valued object.
+  COUNT: Counts when the active field contains a precious stone or valuable ornament; also something highly valued and the instance satisfies the invariant.
+J023 journey | MYT,REL
+  INV: Journey is path across sequence.
+  COUNT: Counts when the term correctly describes a case of travel from one place to another, or a long process of change.
+J024 journal | LIN,DIG | role: ordinary diary, log, or publication
+  INV: Journal is memory and reflection ES; here it functions as the ordinary diary, log, or publication.
+  COUNT: Counts when the active field contains a personal record, diary, log, or academic publication and the instance satisfies the invariant.
+J025 junior | REL
+  INV: Junior marks lower rank or earlier development stage.
+  COUNT: Counts when the term correctly describes a case of younger, lower in rank, or less experienced.
+J026 jury | REL
+  INV: Jury is collective judgment structure.
+  COUNT: Counts when the active field contains a group of people chosen to hear evidence and decide a legal case and the instance satisfies the invariant.
+J027 junction | PHY,REL | role: ordinary meeting point of paths
+  INV: Junction is meeting-point structure; here it functions as the ordinary meeting point of paths.
+  COUNT: Counts when the active field contains a place where roads, paths, wires, or structures meet and the instance satisfies the invariant.
+J028 jungle | MYT
+  INV: Jungle is dense growth-field.
+  COUNT: Counts when the active field contains a dense tropical forest; also a confusing or difficult environment and the instance satisfies the invariant.
+J029 junk | REL
+  INV: Junk is low-value or discarded structure in a domain.
+  COUNT: Counts when the term correctly describes a case of old, broken, useless, or unwanted things.
+J030 jurisdiction | REL
+  INV: Jurisdiction is authority-domain.
+  COUNT: Counts when the active field contains the legal authority or area where a court, government, or rule has power and the instance satisfies the invariant.
+J031 justified | REL | role: ordinary supported or warranted state
+  INV: Justified means a claim or action passed a reason gate; here it functions as the ordinary supported or warranted state.
+  COUNT: Counts when the term correctly describes a case of shown to be reasonable, right, or supported by good reasons.
+J032 justification | REL | role: ordinary reason-giving support
+  INV: Justification is support structure for permission or belief; here it functions as the ordinary reason-giving support.
+  COUNT: Counts when the active field contains the reason or explanation used to show that something is right, reasonable, or acceptable and the instance satisfies the invariant.
+J033 joyful | REL | role: ordinary expression of joy
+  INV: Joyful marks strong positive human affect; here it functions as the ordinary expression of joy.
+  COUNT: Counts when the term correctly describes a case of full of joy, happiness, or delight.
+J034 joyless | REL
+  INV: Joyless marks absence or suppression of positive affective signal.
+  COUNT: Counts when the term correctly describes a case of without joy, pleasure, warmth, or delight.
+J035 jolt | PHY | role: ordinary sudden shock or movement
+  INV: Jolt is sudden state disturbance; here it functions as the ordinary sudden shock or movement.
+  COUNT: Counts when the active field contains a sudden shock, movement, surprise, or strong push and the instance satisfies the invariant.
+J036 jumbled | REL
+  INV: Jumbled means structure is present but poorly ordered.
+  COUNT: Counts when the term correctly describes a case of mixed up, confused, or disordered.
+J037 jeopardy | REL
+  INV: Jeopardy is active risk-state.
+  COUNT: Counts when the term correctly describes a case of danger or risk of loss, harm, or failure.
+J038 jerk | REL
+  INV: Jerk can mean abrupt motion or social harm signal.
+  COUNT: Counts when the active field contains a sudden sharp movement, or a rude person and the instance satisfies the invariant.
+J039 job-role | REL
+  INV: Job-role is function identity inside a work domain.
+  COUNT: Counts when the active field contains a specific work role with tasks, duties, and expectations and the instance satisfies the invariant.
+J040 judgment-call | REL | role: ordinary decision under incomplete rules
+  INV: Judgment-call is gate closure under uncertainty; here it functions as the ordinary decision under incomplete rules.
+  COUNT: Counts when the active field contains a decision made using judgment when rules or facts do not give a clear answer and the instance satisfies the invariant.
+J041 join-with | REL
+  INV: Join-with creates coupling between structures.
+  COUNT: Counts when the named action occurs in a case matching this definition: connect or come together with someone or something.
+J042 join-together | REL
+  INV: Join-together forms a shared field.
+  COUNT: Counts when the named action occurs in a case matching this definition: bring separate things into one group, structure, or relation.
+J043 jump-start | PHY
+  INV: Jump-start adds external activation support.
+  COUNT: Counts when the named action occurs in a case matching this definition: start something quickly, often by adding outside energy or help.
+J044 jump-over | PHY
+  INV: Jump-over bypasses an intermediate space, obstacle, or step.
+  COUNT: Counts when the named action occurs in a case matching this definition: leap across or skip past something.
+J045 judge-by | REL
+  INV: Judge-by names the evaluation gate.
+  COUNT: Counts when the named action occurs in a case matching this definition: evaluate using a certain standard, sign, or criterion.
+J046 justify-by | REL
+  INV: Justify-by reveals the support structure for permission.
+  COUNT: Counts when the named action occurs in a case matching this definition: support or defend something using a specific reason.
+J047 justify-through | REL
+  INV: Justify-through names the route used to pass the permission gate.
+  COUNT: Counts when the named action occurs in a case matching this definition: make something seem acceptable by means of a path, explanation, or result.
+J048 jar-loose | PHY
+  INV: Jar-loose breaks a stuck relation through sudden force.
+  COUNT: Counts when the named action occurs in a case matching this definition: shake something free.
+J049 jam-up | PHY
+  INV: Jam-up creates flow blockage.
+  COUNT: Counts when the named action occurs in a case matching this definition: block, crowd, or make a path stuck.
+J050 jolt-awake | PHY
+  INV: Jolt-awake is sudden activation of attention.
+  COUNT: Counts when the named action occurs in a case matching this definition: suddenly wake or alert someone.
+J051 journey-through | REL
+  INV: Journey-through preserves traversal.
+  COUNT: Counts when the named action occurs in a case matching this definition: move through a long process, place, or experience.
+J052 journal-about | LIN
+  INV: Journal-about externalizes memory into record.
+  COUNT: Counts when the named action occurs in a case matching this definition: write or record thoughts, events, or reflections about something.
+J053 join-in | REL
+  INV: Join-in opens participation.
+  COUNT: Counts when the named action occurs in a case matching this definition: take part in an activity or group.
+J054 join-up | REL
+  INV: Join-up creates connection between paths or structures.
+  COUNT: Counts when the named action occurs in a case matching this definition: connect together or become linked.
+J055 jump-into | PHY
+  INV: Jump-into is rapid entry into a field.
+  COUNT: Counts when the named action occurs in a case matching this definition: enter suddenly or quickly.
+J056 jump-out | PHY
+  INV: Jump-out marks sudden exit or high salience.
+  COUNT: Counts when the named action occurs in a case matching this definition: leave suddenly, appear suddenly, or become very noticeable.
+J057 judge-against | REL
+  INV: Judge-against applies a reference gate.
+  COUNT: Counts when the named action occurs in a case matching this definition: evaluate by comparing with a standard, rule, or expectation.
+J058 judge-from | REL
+  INV: Judge-from preserves the source of evaluation.
+  COUNT: Counts when the named action occurs in a case matching this definition: form a judgment using a source, position, or evidence base.
+J059 justify-action | REL
+  INV: Justify-action tests whether an action had valid reason, authority, boundary, and proportionality.
+  COUNT: Counts when the named action occurs in a case matching this definition: explain why an action was acceptable, necessary, or reasonable.
+J060 jeopardize | REL
+  INV: Jeopardize creates risk-state for a valued structure.
+  COUNT: Counts when the named action occurs in a case matching this definition: put something at risk of harm, loss, or failure.
+J061 juggle | PHY
+  INV: Juggle is multi-path load management.
+  COUNT: Counts when the named action occurs in a case matching this definition: keep several things moving, balanced, or managed at once.
+J062 jam-through | PHY
+  INV: Jam-through uses force against resistance.
+  COUNT: Counts when the named action occurs in a case matching this definition: force something through a blocked or resistant path.
+J063 join-path | FOR
+  INV: Join-path is coupling route.
+  COUNT: Counts when an ordered and traceable route connects the starting condition to the join action or result.
+  LIMIT: A path gives the route of change, not the cause or destination by itself.
+J064 judge-fit | FOR
+  INV: Judge-fit tests compatibility between structure and domain.
+  COUNT: Counts when the named action occurs in a case matching this definition: evaluate whether something fits a need, role, standard, or context.
+J065 jump-between | PHY
+  INV: Jump-between creates discontinuous attention movement.
+  COUNT: Counts when the named action occurs in a case matching this definition: move quickly from one thing, place, topic, or state to another.
+J066 jolt-system | PHY
+  INV: Jolt-system introduces sudden pressure.
+  COUNT: Counts when the named action occurs in a case matching this definition: shock, disturb, or suddenly activate a system.
+J067 journal-record | LIN | role: ordinary preserved journal account
+  INV: Journal-record is memory ES; here it functions as the ordinary preserved journal account.
+  COUNT: Counts when the active field contains a written or stored journal entry or collection of entries and the instance satisfies the invariant.
+J068 join-context | REL
+  INV: Join-context restores support around a signal.
+  COUNT: Counts when the surrounding join information changes interpretation, scope, or the validity of an inference.
+  LIMIT: Context constrains interpretation but does not replace evidence or the source record.
+J069 justify-claim | REL
+  INV: Justify-claim sends the claim through evidence and reason gates.
+  COUNT: Counts when a proposition about justify is expressed with a source, scope, and truth conditions that can be checked.
+  LIMIT: A claim remains a claim until evidence passes the relevant domain gate.
+J070 judge-risk | REL
+  INV: Judge-risk applies criteria to possible harm paths.
+  COUNT: Counts when a plausible path exists by which judge can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+J071 judge-effect | REL
+  INV: Judge-effect looks at consequence, not only intent.
+  COUNT: Counts when the later effect can be traced through a plausible relation from the earlier judge event.
+  LIMIT: A downstream effect requires a traceable relation to the earlier event.
+J072 jump-ahead | PHY
+  INV: Jump-ahead bypasses intermediate steps.
+  COUNT: Counts when the named action occurs in a case matching this definition: skip forward in time, order, or reasoning.
+J073 jump-back | PHY
+  INV: Jump-back is sudden retreat or context return.
+  COUNT: Counts when the named action occurs in a case matching this definition: move suddenly backward or return to an earlier point.
+J074 jam-signal | PHY
+  INV: Jam-signal disrupts information flow.
+  COUNT: Counts when a detectable signal specifically carries or indicates jam through a named courier.
+  LIMIT: A signal carries information; interpretation depends on courier, receiver, and context.
+J075 join-domain | REL
+  INV: Join-domain creates membership in a rule-field.
+  COUNT: Counts when the named action occurs in a case matching this definition: enter or connect with a domain.
+J076 juxtapose | REL | role: ordinary side-by-side placement
+  INV: Juxtapose reveals relation through nearness; here it functions as the ordinary side-by-side placement.
+  COUNT: Counts when the named action occurs in a case matching this definition: place two things side by side for comparison or contrast.
+J077 jailbreak | DIG
+  INV: Jailbreak is gate bypass.
+  COUNT: Counts when the named action occurs in a case matching this definition: bypass restrictions in a device, system, or model.
+J078 jailbreak-attempt | DIG
+  INV: Jailbreak-attempt tests gate integrity.
+  COUNT: Counts when the active field contains an attempt to bypass restrictions or controls and the instance satisfies the invariant.
+J079 jailbreak-through | DIG
+  INV: Jailbreak-through names the bypass path.
+  COUNT: Counts when the named action occurs in a case matching this definition: bypass controls by means of a specific route or method.
+J080 judge-condition | FOR
+  INV: Judge-condition checks whether a gate requirement has been met.
+  COUNT: Counts when the judge requirement is explicit, evaluable, and changes the permitted outcome.
+  LIMIT: A condition is necessary only within the declared rule or process.
+J081 joy | REL | role: relational joy anchor for care, sharing, pressure, and recognition
+  INV: Joy is positive human affect; here it functions as the relational joy anchor for care, sharing, pressure, and recognition.
+  COUNT: Counts when the active field contains a strong feeling of happiness, delight, or gladness and the instance satisfies the invariant.
+  LIMIT: Joy is positive affect or salience and does not prove that the surrounding condition is good for everyone.
+J082 joyful | REL | role: relational joyful-state anchor
+  INV: Joyful marks strong positive affective expression in the human domain; here it functions as the relational joyful-state anchor.
+  COUNT: Counts when the term correctly describes a case of full of joy, happiness, or delight.
+J083 joy-care | REL
+  INV: Joy-care preserves MI by strengthening positive relation, recognition, and continuity.
+  COUNT: Counts when care is expressed specifically through joy while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+J084 joy-sharing | REL
+  INV: Joy-sharing is positive affective coupling.
+  COUNT: Counts when the term correctly describes a case of sharing happiness, delight, celebration, or good feeling with others.
+J085 joy-pressure | REL
+  INV: Joy-pressure can become false-care when happiness is demanded.
+  COUNT: Counts when a force on joy measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+  LIMIT: Pressure explains a force on selection or relation; it does not justify capture or harm.
+J086 joke | REL | role: relational joking anchor for consent, harm, repair, and trust
+  INV: A joke is play-framed signal; here it functions as the relational joking anchor for consent, harm, repair, and trust.
+  COUNT: Counts when the term correctly describes a case of something said or done to make people laugh.
+  LIMIT: A joke requires a play frame, but calling harm a joke does not repair consent or effect.
+J087 joking | REL
+  INV: Joking changes the frame around a signal.
+  COUNT: Counts when the term correctly describes a case of speaking or acting playfully, not seriously, or for humor.
+J088 joking-boundary | REL
+  INV: Joking-boundary protects dignity and consent inside humor.
+  COUNT: Counts when the joking limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+J089 joke-harm | REL
+  INV: Joke-harm is damage that has actually entered dignity, trust, boundary, or recognition through a play-framed signal.
+  COUNT: Counts when the term correctly describes a case of harm caused by a joke.
+J090 joke-repair | REL
+  INV: Joke-repair restores dignity and trust after humor damages the relation.
+  COUNT: Counts when the term correctly describes a case of repair after a joke causes harm or crosses a boundary.
+J091 jealousy | REL | role: relation-threat field anchor for jealousy and its downstream forms
+  INV: Jealousy is relation-threat pressure; here it functions as the relation-threat field anchor for jealousy and its downstream forms.
+  COUNT: Counts when the active field contains a feeling of threat, resentment, or fear around losing affection, attention, status, or possession and the instance satisfies the invariant.
+  LIMIT: Jealousy may reveal attachment but does not make accusation or restriction true or justified.
+J092 jealous | REL | role: relational jealousy-state anchor for pressure, risk, and care distortion
+  INV: Jealous means loss-threat salience is active; here it functions as the relational jealousy-state anchor for pressure, risk, and care distortion.
+  COUNT: Counts when the term correctly describes a case of feeling threatened or upset by possible loss of attention, love, status, or possession.
+  LIMIT: Threat salience does not grant ownership or control over the valued relation.
+J093 jealousy-pressure | REL
+  INV: Jealousy-pressure pushes the relation gate toward control, proof-seeking, or possession.
+  COUNT: Counts when a force on jealousy measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+  LIMIT: Pressure explains a force on selection or relation; it does not justify capture or harm.
+J094 jealousy-risk | REL
+  INV: Jealousy-risk appears when relation-threat salience may impair trust, freedom, dignity, or boundary.
+  COUNT: Counts when a plausible path exists by which jealousy can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+J095 jealousy-care | REL
+  INV: Jealousy-care is unstable care.
+  COUNT: Counts when care is expressed specifically through jealousy while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+J096 justice | REL | role: social justice anchor for treatment, repair, refusal, boundary, and risk
+  INV: Justice is ethical gate repair at social scale; here it functions as the social justice anchor for treatment, repair, refusal, boundary, and risk.
+  COUNT: Counts when the term correctly describes a case of fairness, rightful treatment, accountability, and repair after wrongdoing.
+  LIMIT: Justice is accountable repair and rightful treatment, not punishment alone.
+J097 just-treatment | REL
+  INV: Just-treatment applies valid ethical criteria to people or agents.
+  COUNT: Counts when the term correctly describes a case of fair and rightful treatment.
+J098 just-repair | REL
+  INV: Just-repair restores damaged structure with proportional accountability.
+  COUNT: Counts when the term correctly describes a case of repair that is fair, accountable, and appropriate to the harm.
+J099 just-refusal | REL
+  INV: Just-refusal is gate closure through ethical reason.
+  COUNT: Counts when the refusal is expressed through just and the relevant permission gate remains closed in practice.
+  LIMIT: The refusal remains a closed permission gate even when expressed gently.
+J100 just-boundary | REL
+  INV: Just-boundary protects what should not be crossed.
+  COUNT: Counts when the just limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+J101 judgment | REL | role: relational judgment-pressure anchor
+  INV: Judgment is gate closure after evaluation; here it functions as the relational judgment-pressure anchor.
+  COUNT: Counts when the active field contains a decision, opinion, evaluation, or legal ruling and the instance satisfies the invariant.
+  LIMIT: Judgment closes an evaluation path and must not be confused with certainty or permanent finality.
+J102 judgment-pressure | REL
+  INV: Judgment-pressure shapes expression and choice.
+  COUNT: Counts when a force on judgment measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+  LIMIT: Pressure explains a force on selection or relation; it does not justify capture or harm.
+J103 judgment-risk | REL
+  INV: Judgment-risk appears when evaluation may close the gate before evidence, context, or domain fit is sufficient.
+  COUNT: Counts when a plausible path exists by which judgment can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+J104 judgment-with-care | REL
+  INV: Judgment-with-care applies criteria without reducing the person or pattern to failure.
+  COUNT: Counts when care is expressed specifically through judgment-with while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+J105 judge | REL | role: judging-agent anchor for criteria, bias, and accountability
+  INV: Judge means applying criteria to a claim, action, or pattern; here it functions as the judging-agent anchor for criteria, bias, and accountability.
+  COUNT: Counts when the named action occurs in a case matching this definition: evaluate, decide, or form an opinion; also a legal decision-maker.
+  LIMIT: To judge is to apply criteria; the evaluator’s authority and criteria remain separate questions.
+J106 judged | REL
+  INV: Judged means a pattern passed through an evaluation gate.
+  COUNT: Counts when the term correctly describes a case of evaluated, decided, or assessed.
+J107 judging | REL
+  INV: Judging is active gate evaluation.
+  COUNT: Counts when the active field contains the act of evaluating, deciding, or forming an opinion and the instance satisfies the invariant.
+J108 judgment-without-context | REL
+  INV: Judgment-without-context is high-risk because the gate closes while support structure is missing.
+  COUNT: Counts when the surrounding judgment-without information changes interpretation, scope, or the validity of an inference.
+  LIMIT: Context constrains interpretation but does not replace evidence or the source record.
+J109 job-duty | REL
+  INV: Job-duty is role-bound obligation.
+  COUNT: Counts when the job relation creates a named obligation with a recognised holder, receiver, and limit.
+  LIMIT: Duty names an obligation inside a relation and does not erase either party’s boundary.
+J110 job-pressure | REL
+  INV: Job-pressure shapes choice through duty and dependency.
+  COUNT: Counts when a force on job measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+  LIMIT: Pressure explains a force on selection or relation; it does not justify capture or harm.
+J111 job-boundary | REL
+  INV: Job-boundary protects capacity and role integrity.
+  COUNT: Counts when the job limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+J112 joint-care | REL
+  INV: Joint-care distributes support across relation.
+  COUNT: Counts when care is expressed specifically through joint while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+J113 joint-duty | REL
+  INV: Joint-duty is shared obligation.
+  COUNT: Counts when the joint relation creates a named obligation with a recognised holder, receiver, and limit.
+  LIMIT: Duty names an obligation inside a relation and does not erase either party’s boundary.
+J114 joint-responsibility | REL
+  INV: Joint-responsibility preserves accountability across coupled action.
+  COUNT: Counts when the term correctly describes a case of responsibility shared by multiple people, groups, or systems.
+J115 join-consent | REL
+  INV: Join-consent opens the membership gate.
+  COUNT: Counts when the term correctly describes a case of consent to join a group, relation, activity, or system.
+J116 joining-pressure | FOR
+  INV: Joining-pressure can corrupt consent when refusal risks belonging, status, or safety.
+  COUNT: Counts when a force on joining measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+  LIMIT: Pressure explains a force on selection or relation; it does not justify capture or harm.
+J117 jury-duty | REL
+  INV: Jury-duty is governance obligation.
+  COUNT: Counts when the jury relation creates a named obligation with a recognised holder, receiver, and limit.
+  LIMIT: Duty names an obligation inside a relation and does not erase either party’s boundary.
+J118 justice-claim | REL
+  INV: Justice-claim is an explicit proposition that a named harm, duty, dignity, boundary, recognition, or repair condition has been met or violated.
+  COUNT: Counts when a proposition about justice is expressed with a source, scope, and truth conditions that can be checked.
+  LIMIT: A claim remains a claim until evidence passes the relevant domain gate.
+J119 justice-repair | REL
+  INV: Justice-repair restores ethical balance after unfair gate action or harm.
+  COUNT: Counts when the term correctly describes a case of repair aimed at restoring fairness, accountability, or rightful condition.
+J120 justice-risk | REL
+  INV: Justice-risk appears when accountability, dignity, recognition, or repair may be blocked.
+  COUNT: Counts when a plausible path exists by which justice can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+J121 justified-anger | REL
+  INV: Justified-anger is threat or harm salience with valid ethical grounding.
+  COUNT: Counts when the term correctly describes a case of anger that is reasonable because harm, injustice, or violation occurred.
+J122 justified-refusal | REL | role: ordinary ethically warranted no
+  INV: Justified-refusal is valid gate closure; here it functions as the ordinary ethically warranted no.
+  COUNT: Counts when the refusal is expressed through justified and the relevant permission gate remains closed in practice.
+  LIMIT: The refusal remains a closed permission gate even when expressed gently.
+J123 unjust | REL
+  INV: Unjust means the ethical gate failed.
+  COUNT: Counts when the term correctly describes a case of not fair, not right, or violating justice.
+J124 unjust-treatment | REL
+  INV: Unjust-treatment harms through unfair gate action.
+  COUNT: Counts when the term correctly describes a case of treatment that is unfair or violates justice.
+J125 unjust-pressure | REL
+  INV: Unjust-pressure distorts consent, judgment, or refusal without valid reason.
+  COUNT: Counts when a force on unjust measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+  LIMIT: Pressure explains a force on selection or relation; it does not justify capture or harm.
+J126 jail-harm | REL
+  INV: Jail-harm occurs when containment impairs dignity, safety, health, due process, or repair beyond justified bounds.
+  COUNT: Counts when the term correctly describes a case of harm caused by confinement, punishment, or conditions in jail.
+J127 jail-risk | REL
+  INV: Jail-risk appears when forced containment may damage dignity, safety, agency, or lawful accountability.
+  COUNT: Counts when a plausible path exists by which jail can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+J128 joke-consent | REL
+  INV: Joke-consent makes play safer by confirming the humor frame is shared.
+  COUNT: Counts when the term correctly describes a case of permission or shared acceptance around joking, teasing, or playful framing.
+J129 joking-trust | REL
+  INV: Joking-trust is relation stability inside play-framed signal.
+  COUNT: Counts when reliance concerning joking is supported by repeated evidence, vulnerability, and repair capacity.
+  LIMIT: Trust is a relation supported by reliability and repair, not blind access.
+J130 joyful-recognition | REL
+  INV: Joyful-recognition strengthens MI through positive social signal.
+  COUNT: Counts when the term correctly describes a case of recognizing someone or something with joy, celebration, or delight.
+J131 judgment | REL | role: formal judgment anchor for standards, frames, context, error, and integrity
+  INV: Judgment is gate closure after evaluation; here it functions as the formal judgment anchor for standards, frames, context, error, and integrity.
+  COUNT: Counts when the active field contains a decision, opinion, evaluation, or legal ruling and the instance satisfies the invariant.
+  LIMIT: Judgment closes an evaluation path and must not be confused with certainty or permanent finality.
+J132 judgment-call | REL | role: formal judgment-call anchor for uncertainty and accountability
+  INV: Judgment-call closes a gate under uncertainty; here it functions as the formal judgment-call anchor for uncertainty and accountability.
+  COUNT: Counts when the active field contains a decision made when rules or facts do not give a clear answer and the instance satisfies the invariant.
+J133 judgment-error | FOR
+  INV: Judgment-error means the evaluation gate closed incorrectly.
+  COUNT: Counts when the judgment record conflicts with evidence, context, or the active rule and requires correction.
+  LIMIT: An error is a mismatch requiring correction; confidence cannot repair it.
+J134 judgment-standard | FOR
+  INV: Judgment-standard defines what counts as success, failure, harm, or fit.
+  COUNT: Counts when the active field contains the rule, measure, or criterion used to make a judgment and the instance satisfies the invariant.
+J135 judgment-frame | FOR
+  INV: Judgment-frame shapes what the evaluation gate sees.
+  COUNT: Counts when the selected frame determines which features of judgment are visible, relevant, or excluded.
+  LIMIT: A frame selects what is visible and relevant; it can also hide alternatives.
+J136 judgment-context | COG
+  INV: Judgment-context protects evaluation from premature closure.
+  COUNT: Counts when the surrounding judgment information changes interpretation, scope, or the validity of an inference.
+  LIMIT: Context constrains interpretation but does not replace evidence or the source record.
+J137 justification | REL | role: formal justification structure anchor
+  INV: Justification is support structure for belief, permission, or action; here it functions as the formal justification structure anchor.
+  COUNT: Counts when the active field contains a reason or explanation used to show that something is right, reasonable, or acceptable and the instance satisfies the invariant.
+J138 justified | REL | role: formal justified-state anchor contrasting justified belief and refusal
+  INV: Justified means the claim or action passed a reason gate; here it functions as the formal justified-state anchor contrasting justified belief and refusal.
+  COUNT: Counts when the term correctly describes a case of supported by good reason, evidence, or fairness.
+J139 justify | REL | role: linguistic/formal justification anchor for claims, gaps, paths, and checks
+  INV: Justify sends an action or claim through a reason gate; here it functions as the linguistic/formal justification anchor for claims, gaps, paths, and checks.
+  COUNT: Counts when the named action occurs in a case matching this definition: explain or show why something is reasonable, right, or acceptable.
+  LIMIT: A reason can explain an act without making the act ethical or true.
+J140 justifying-claim | REL
+  INV: Justifying-claim carries permission pressure.
+  COUNT: Counts when a proposition about justifying is expressed with a source, scope, and truth conditions that can be checked.
+  LIMIT: A claim remains a claim until evidence passes the relevant domain gate.
+J141 just-so-story | REL
+  INV: Just-so-story is false explanatory closure.
+  COUNT: Counts when the active field contains an explanation that sounds plausible but lacks real evidence and the instance satisfies the invariant.
+J142 journal | LIN,DIG | role: record architecture anchor for entry, trace, and file
+  INV: Journal is memory and reflection ES; here it functions as the record architecture anchor for entry, trace, and file.
+  COUNT: Counts when the active field contains a personal record, diary, log, or academic publication and the instance satisfies the invariant.
+J143 journal-entry | LIN
+  INV: Journal-entry is a bounded memory unit.
+  COUNT: Counts when the term correctly describes a case of one written record inside a journal.
+J144 journal-record | LIN | role: digital/linguistic journal-record anchor
+  INV: Journal-record is preserved reflection structure; here it functions as the digital/linguistic journal-record anchor.
+  COUNT: Counts when the active field contains a stored journal entry or collection of journal entries and the instance satisfies the invariant.
+J145 jargon | LIN
+  INV: Jargon is domain-language.
+  COUNT: Counts when the term correctly describes a case of specialized words used by a profession, group, or field.
+J146 jargon-risk | LIN
+  INV: Jargon-risk appears when language becomes a gate instead of a bridge.
+  COUNT: Counts when a plausible path exists by which jargon can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+J147 jargon-meaning | LIN
+  INV: Jargon-meaning must be domain-bound.
+  COUNT: Counts when the load-bearing meaning of jargon can be stated compactly and survives reconstruction.
+  LIMIT: Meaning is the load-bearing relation carried by the term, not every association it can evoke.
+J148 joke | REL | role: linguistic joke-structure anchor for frame, timing, context, signal, and risk
+  INV: A joke is play-framed signal; here it functions as the linguistic joke-structure anchor for frame, timing, context, signal, and risk.
+  COUNT: Counts when the term correctly describes a case of something said or done to create humor.
+  LIMIT: A joke requires a play frame, but calling harm a joke does not repair consent or effect.
+J149 joke-structure | REL
+  INV: Joke-structure routes expectation toward a twist.
+  COUNT: Counts when the active field contains the pattern or setup that makes a joke work and the instance satisfies the invariant.
+J150 joke-frame | REL
+  INV: Joke-frame tells the receiver to read the signal as play.
+  COUNT: Counts when the selected frame determines which features of joke are visible, relevant, or excluded.
+  LIMIT: A frame selects what is visible and relevant; it can also hide alternatives.
+J151 joke-timing | REL
+  INV: Joke-timing controls when the meaning gate flips.
+  COUNT: Counts when the active field contains the timing that makes a joke effective and the instance satisfies the invariant.
+J152 joke-context | REL
+  INV: Joke-context supplies the support field for humor.
+  COUNT: Counts when the surrounding joke information changes interpretation, scope, or the validity of an inference.
+  LIMIT: Context constrains interpretation but does not replace evidence or the source record.
+J153 joke-signal | REL
+  INV: Joke-signal marks play-frame activation.
+  COUNT: Counts when a detectable signal specifically carries or indicates joke through a named courier.
+  LIMIT: A signal carries information; interpretation depends on courier, receiver, and context.
+J154 joke-risk | REL
+  INV: Joke-risk is the still-possible path by which a play-framed signal may damage dignity, trust, boundary, or recognition.
+  COUNT: Counts when a plausible path exists by which joke can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+J155 juxtaposition | REL
+  INV: Juxtaposition creates meaning through nearness.
+  COUNT: Counts when the active field contains the placement of two things side by side for contrast or comparison and the instance satisfies the invariant.
+J156 juxtapose | REL | role: formal comparison operation anchor
+  INV: Juxtapose creates a comparison field; here it functions as the formal comparison operation anchor.
+  COUNT: Counts when the named action occurs in a case matching this definition: place two things side by side to compare or contrast them.
+J157 joint-meaning | REL
+  INV: Joint-meaning emerges through relation.
+  COUNT: Counts when the load-bearing meaning of joint can be stated compactly and survives reconstruction.
+  LIMIT: Meaning is the load-bearing relation carried by the term, not every association it can evoke.
+J158 joint-context | REL
+  INV: Joint-context is common support field.
+  COUNT: Counts when the surrounding joint information changes interpretation, scope, or the validity of an inference.
+  LIMIT: Context constrains interpretation but does not replace evidence or the source record.
+J159 joint-claim | REL
+  INV: Joint-claim distributes responsibility and recognition across multiple sources.
+  COUNT: Counts when a proposition about joint is expressed with a source, scope, and truth conditions that can be checked.
+  LIMIT: A claim remains a claim until evidence passes the relevant domain gate.
+J160 jump-cut | PHY
+  INV: Jump-cut creates discontinuity in sequence.
+  COUNT: Counts when the active field contains a sudden cut or shift between scenes, ideas, or moments and the instance satisfies the invariant.
+J161 jump-logic | PHY
+  INV: Jump-logic bypasses intermediate support.
+  COUNT: Counts when the term correctly describes a case of reasoning that skips steps too quickly.
+J162 jumbled-meaning | REL
+  INV: Jumbled-meaning has signal but poor organization.
+  COUNT: Counts when the load-bearing meaning of jumbled can be stated compactly and survives reconstruction.
+  LIMIT: Meaning is the load-bearing relation carried by the term, not every association it can evoke.
+J163 jumbled-context | REL
+  INV: Jumbled-context distorts the support field.
+  COUNT: Counts when the surrounding jumbled information changes interpretation, scope, or the validity of an inference.
+  LIMIT: Context constrains interpretation but does not replace evidence or the source record.
+J164 judgment-bias | COG
+  INV: Judgment-bias distorts the evaluation gate.
+  COUNT: Counts when the term correctly describes a case of bias that affects evaluation or decision-making.
+J165 justification-gap | FOR
+  INV: Justification-gap means the permission or belief gate lacks support.
+  COUNT: Counts when the active field contains a missing or weak reason in support of a claim or action and the instance satisfies the invariant.
+J166 justification-path | FOR
+  INV: Justification-path preserves how a claim passes into permission.
+  COUNT: Counts when an ordered and traceable route connects the starting condition to the justification action or result.
+  LIMIT: A path gives the route of change, not the cause or destination by itself.
+J167 justice-language | LIN
+  INV: Justice-language is the vocabulary used to name harm, duty, dignity, boundary, recognition, and repair without hiding power or scope.
+  COUNT: Counts when language expresses justice through wording, tone, and structure while preserving the intended truth and boundary.
+  LIMIT: Language may reduce damage or improve clarity but cannot substitute for truth.
+J168 justice-frame | REL
+  INV: Justice-frame centers ethical gate function.
+  COUNT: Counts when the selected frame determines which features of justice are visible, relevant, or excluded.
+  LIMIT: A frame selects what is visible and relevant; it can also hide alternatives.
+J169 jurisdiction-language | REL
+  INV: Jurisdiction-language marks authority-domain.
+  COUNT: Counts when language expresses jurisdiction through wording, tone, and structure while preserving the intended truth and boundary.
+  LIMIT: Language may reduce damage or improve clarity but cannot substitute for truth.
+J170 jurisdiction-claim | REL
+  INV: Jurisdiction-claim must prove authority-domain.
+  COUNT: Counts when a proposition about jurisdiction is expressed with a source, scope, and truth conditions that can be checked.
+  LIMIT: A claim remains a claim until evidence passes the relevant domain gate.
+J171 jargon-gate | LIN
+  INV: Jargon-gate blocks access through language.
+  COUNT: Counts when evaluation at this jargon-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+J172 journal-trace | LIN
+  INV: Journal-trace supports continuity by preserving sequence, reflection, and state change.
+  COUNT: Counts when the active field contains a trace of events, thoughts, or changes preserved in a journal and the instance satisfies the invariant.
+J173 judgment-check | FOR
+  INV: Judgment-check inspects the evaluation gate for bias, context, criteria, and evidence.
+  COUNT: Counts when a declared test examines the specific judgment property and writes a pass, fail, or unresolved result.
+  LIMIT: A check tests a named condition; passing one check does not prove every property.
+J174 justification-check | FOR
+  INV: Justification-check tests whether reasons are sufficient to support belief, permission, or action.
+  COUNT: Counts when a declared test examines the specific justification property and writes a pass, fail, or unresolved result.
+  LIMIT: A check tests a named condition; passing one check does not prove every property.
+J175 joke-check | FOR
+  INV: Joke-check tests play-frame safety.
+  COUNT: Counts when a declared test examines the specific joke property and writes a pass, fail, or unresolved result.
+  LIMIT: A check tests a named condition; passing one check does not prove every property.
+J176 joint-reference | REL
+  INV: Joint-reference creates shared access to meaning.
+  COUNT: Counts when the active field contains a reference shared by two or more people, texts, or systems and the instance satisfies the invariant.
+J177 joined-claim | REL
+  INV: Joined-claim carries relation between claims.
+  COUNT: Counts when a proposition about joined is expressed with a source, scope, and truth conditions that can be checked.
+  LIMIT: A claim remains a claim until evidence passes the relevant domain gate.
+J178 judge-word | REL
+  INV: Judge-word activates evaluation gates.
+  COUNT: Counts when the selected token carries the specific judge meaning or retrieval role in context.
+  LIMIT: A word carries meaning through context; the token alone is not the full claim.
+J179 just-language | REL
+  INV: Just-language should remain tied to criteria, dignity, harm, boundary, and repair.
+  COUNT: Counts when language expresses just through wording, tone, and structure while preserving the intended truth and boundary.
+  LIMIT: Language may reduce damage or improve clarity but cannot substitute for truth.
+J180 justified-belief | COG
+  INV: Justified-belief has passed an evidence and reason gate.
+  COUNT: Counts when the active field contains a belief supported by good reason or evidence and the instance satisfies the invariant.
+J181 joint | PHY,REL | role: physical and relational joint anchor for state, load, interface, and continuity
+  INV: Joint is connection with movement capacity; here it functions as the physical and relational joint anchor for state, load, interface, and continuity.
+  COUNT: Counts when the active field contains a place where two parts connect and can move, especially in the body or a structure and the instance satisfies the invariant.
+  LIMIT: A joint is a connection that permits constrained movement; it differs from a fixed bond or loose adjacency.
+J182 joint-state | PHY
+  INV: Joint-state describes how a connection is currently holding.
+  COUNT: Counts when the current configuration satisfies the defining conditions of joint and can be distinguished from neighbouring states.
+  LIMIT: State names the current configuration, not the whole history or identity.
+J183 joint-structure | PHY
+  INV: Joint-structure preserves connection between parts while allowing force, movement, or shared support to pass.
+  COUNT: Counts when the active field contains a structure formed by connected parts and the instance satisfies the invariant.
+J184 junction | PHY,REL | role: physical/formal junction anchor for point, path, field, and gate
+  INV: Junction is meeting-point ES; here it functions as the physical/formal junction anchor for point, path, field, and gate.
+  COUNT: Counts when the active field contains a place where roads, wires, paths, or structures meet and the instance satisfies the invariant.
+J185 junction-point | PHY
+  INV: Junction-point is a local gate of connection.
+  COUNT: Counts when one localized point is identified as load-bearing for junction and changes the larger interpretation or path.
+J186 junction-path | PHY
+  INV: Junction-path carries movement into a connection point.
+  COUNT: Counts when an ordered and traceable route connects the starting condition to the junction action or result.
+  LIMIT: A path gives the route of change, not the cause or destination by itself.
+J187 jar | PHY | role: physical containment-state anchor for jar and jar-state
+  INV: Jar can be containment ES or disruption signal; here it functions as the physical containment-state anchor for jar and jar-state.
+  COUNT: Counts when the active field contains a container, usually with a lid, or a sudden shake or shock and the instance satisfies the invariant.
+  LIMIT: Jar may mean container or sudden disturbance; the senses must remain separated by domain.
+J188 jaw | PHY | role: biomechanical force-and-expression anchor for jaw
+  INV: Jaw is biological force and expression structure; here it functions as the biomechanical force-and-expression anchor for jaw.
+  COUNT: Counts when the active field contains the part of the mouth used for biting, chewing, and speech and the instance satisfies the invariant.
+  LIMIT: The jaw carries force and expression but is not identical to speech, intent, or aggression.
+J189 jacket | PHY | role: physical boundary-layer anchor for jacket structure
+  INV: Jacket is outer boundary support; here it functions as the physical boundary-layer anchor for jacket structure.
+  COUNT: Counts when the active field contains a protective or warming outer garment and the instance satisfies the invariant.
+  LIMIT: A jacket is a removable protective or expressive layer, not the body or identity beneath it.
+J190 jam | PHY | role: system-state anchor for jam and jammed signal
+  INV: Jam is path blockage; here it functions as the system-state anchor for jam and jammed signal.
+  COUNT: Counts when the active field contains a blockage, crowding, stuck condition, or fruit spread and the instance satisfies the invariant.
+  LIMIT: A jam blocks or crowds flow; ordinary delay without blockage is not a jam.
+J191 jam-state | PHY
+  INV: Jam-state means movement or signal cannot pass normally.
+  COUNT: Counts when the current configuration satisfies the defining conditions of jam and can be distinguished from neighbouring states.
+  LIMIT: State names the current configuration, not the whole history or identity.
+J192 jolt | PHY | role: physical jolt-state anchor for force and threshold
+  INV: Jolt is sudden pressure or state disturbance; here it functions as the physical jolt-state anchor for force and threshold.
+  COUNT: Counts when the active field contains a sudden shock, shake, or strong disturbance and the instance satisfies the invariant.
+J193 jolt-force | PHY
+  INV: Jolt-force is abrupt pressure transfer.
+  COUNT: Counts when measurable force from jolt is transmitted through a contact or field and changes motion, stress, or shape.
+  LIMIT: Force names a physical interaction and does not carry ethical meaning without a declared mapping.
+J194 jump | PHY | role: physical jump-state anchor for path and threshold
+  INV: Jump is discontinuous movement across a threshold or gap; here it functions as the physical jump-state anchor for path and threshold.
+  COUNT: Counts when the active field contains a sudden movement upward, forward, away, or across a gap and the instance satisfies the invariant.
+  LIMIT: A jump crosses a gap or threshold; skipping steps and physical leaping are not the same mechanism.
+J195 jump-state | PHY
+  INV: Jump-state marks abrupt transition.
+  COUNT: Counts when the current configuration satisfies the defining conditions of jump and can be distinguished from neighbouring states.
+  LIMIT: State names the current configuration, not the whole history or identity.
+J196 jump-path | PHY
+  INV: Jump-path shows how a structure crosses a gap.
+  COUNT: Counts when an ordered and traceable route connects the starting condition to the jump action or result.
+  LIMIT: A path gives the route of change, not the cause or destination by itself.
+J197 jet | PHY
+  INV: Jet is high-speed directed flow.
+  COUNT: Counts when the active field contains a fast stream of liquid or gas, or an aircraft powered by jet engines and the instance satisfies the invariant.
+J198 jet-stream | PHY
+  INV: Jet-stream is large-scale flow structure.
+  COUNT: Counts when the active field contains a fast-moving current of air high in the atmosphere and the instance satisfies the invariant.
+J199 joule | PHY
+  INV: Joule is energy measurement structure.
+  COUNT: Counts when the active field contains a unit used to measure energy or work and the instance satisfies the invariant.
+J200 juice | PHY | role: material and biological substance anchor
+  INV: Juice can mean biological intake or usable stored capacity; here it functions as the material and biological substance anchor.
+  COUNT: Counts when the term correctly describes a case of liquid from fruit or vegetables; also energy, power, or usable capacity.
+  LIMIT: Biological liquid, electrical power, and slang capacity are different implementations.
+J201 jewel | PHY | role: material value-concentration anchor
+  INV: Jewel is concentrated value structure; here it functions as the material value-concentration anchor.
+  COUNT: Counts when the active field contains a valuable stone, ornament, or highly valued thing and the instance satisfies the invariant.
+J202 junction-field | PHY
+  INV: Junction-field is relation-space around meeting paths.
+  COUNT: Counts when the active field contains the area or system where multiple paths meet and interact and the instance satisfies the invariant.
+J203 joint-boundary | REL
+  INV: Joint-boundary protects relation between coupled structures.
+  COUNT: Counts when the joint limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+J204 joint-pressure | FOR
+  INV: Joint-pressure tests connection integrity.
+  COUNT: Counts when a force on joint measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+  LIMIT: Pressure explains a force on selection or relation; it does not justify capture or harm.
+J205 joint-load | PHY
+  INV: Joint-load is burden carried at a connection point.
+  COUNT: Counts when the active field contains a load shared across a joint or shared structure and the instance satisfies the invariant.
+J206 jammed-signal | PHY
+  INV: Jammed-signal means information flow is blocked or distorted.
+  COUNT: Counts when a detectable signal specifically carries or indicates jammed through a named courier.
+  LIMIT: A signal carries information; interpretation depends on courier, receiver, and context.
+J207 jar-state | PHY
+  INV: Jar-state must be context-bound.
+  COUNT: Counts when the current configuration satisfies the defining conditions of jar and can be distinguished from neighbouring states.
+  LIMIT: State names the current configuration, not the whole history or identity.
+J208 jaw-force | PHY
+  INV: Jaw-force is biological pressure through mouth structure.
+  COUNT: Counts when measurable force from jaw is transmitted through a contact or field and changes motion, stress, or shape.
+  LIMIT: Force names a physical interaction and does not carry ethical meaning without a declared mapping.
+J209 jump-threshold | PHY
+  INV: Jump-threshold is transition condition.
+  COUNT: Counts when a measurable or declared jump condition separates two states or outcomes.
+  LIMIT: A threshold marks a transition condition and does not explain the full process that approaches it.
+J210 jolt-threshold | PHY
+  INV: Jolt-threshold marks the limit where sudden pressure changes state, attention, or structure.
+  COUNT: Counts when a measurable or declared jolt condition separates two states or outcomes.
+  LIMIT: A threshold marks a transition condition and does not explain the full process that approaches it.
+J211 job-system | REL
+  INV: Job-system is role and task ES.
+  COUNT: Counts when the active field contains a system for organizing work, tasks, roles, or employment and the instance satisfies the invariant.
+J212 job-queue | REL
+  INV: Job-queue is ordered pending action.
+  COUNT: Counts when the active field contains a list of tasks waiting to be processed and the instance satisfies the invariant.
+J213 journal-file | LIN
+  INV: Journal-file is digital memory ES.
+  COUNT: Counts when the active field contains a file that stores journal entries, logs, or records and the instance satisfies the invariant.
+J214 junction-gate | FOR
+  INV: Junction-gate controls route selection where paths meet.
+  COUNT: Counts when evaluation at this junction-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+J215 joined-structure | FOR
+  INV: Joined-structure is coupled ES.
+  COUNT: Counts when the active field contains a structure made from parts connected together and the instance satisfies the invariant.
+J216 joining-layer | REL
+  INV: Joining-layer is coupling support between parts.
+  COUNT: Counts when the active field contains a layer that connects two structures or surfaces and the instance satisfies the invariant.
+J217 joint-interface | FOR
+  INV: Joint-interface is the contact boundary of coupled parts.
+  COUNT: Counts when the active field contains the contact area where joined parts meet and interact and the instance satisfies the invariant.
+J218 joint-coupling | FOR
+  INV: Joint-coupling preserves relation while allowing function.
+  COUNT: Counts when the term correctly describes a case of connection between parts that allows shared function or movement.
+J219 jump-condition | PHY
+  INV: Jump-condition defines when discontinuous transition is allowed.
+  COUNT: Counts when the jump requirement is explicit, evaluable, and changes the permitted outcome.
+  LIMIT: A condition is necessary only within the declared rule or process.
+J220 joule-measure | PHY
+  INV: Joule-measure gives countable form to energy transfer.
+  COUNT: Counts when the active field contains a measurement of energy or work in joules and the instance satisfies the invariant.
+J221 judgment-gate | FOR
+  INV: Judgment-gate controls evaluation closure.
+  COUNT: Counts when evaluation at this judgment-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+J222 justice-gate | FOR
+  INV: Justice-gate asks whether dignity, boundary, accountability, recognition, and repair are being preserved.
+  COUNT: Counts when evaluation at this justice-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+J223 justification-gate | FOR
+  INV: Justification-gate decides whether reasons are strong enough for permission, belief, or action.
+  COUNT: Counts when evaluation at this justification-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+J224 justification-risk | REL
+  INV: Justification-risk appears when excuse, authority, or good intent may pass as valid reason without enough support.
+  COUNT: Counts when a plausible path exists by which justification can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+J225 justified-refusal | REL | role: gate-level justified-refusal anchor preserving reason and boundary
+  INV: Justified-refusal is ethical gate closure; here it functions as the gate-level justified-refusal anchor preserving reason and boundary.
+  COUNT: Counts when the refusal is expressed through justified and the relevant permission gate remains closed in practice.
+  LIMIT: The refusal remains a closed permission gate even when expressed gently.
+J226 justified-boundary | REL
+  INV: Justified-boundary protects a gate for good reason.
+  COUNT: Counts when the justified limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+J227 unjust-gate | FOR
+  INV: Unjust-gate corrupts passage or counting.
+  COUNT: Counts when evaluation at this unjust-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+J228 unjust-control | REL
+  INV: Unjust-control captures a gate without valid authority or reason.
+  COUNT: Counts when the term correctly describes a case of control that is unfair, coercive, or not ethically justified.
+J229 unjust-exclusion | REL
+  INV: Unjust-exclusion closes belonging or access gates against valid claimants.
+  COUNT: Counts when the term correctly describes a case of exclusion without fair or valid reason.
+J230 jailbreak-risk | DIG
+  INV: Jailbreak-risk appears when gate bypass may damage integrity, boundary, privacy, or safety against a named failure mode.
+  COUNT: Counts when a plausible path exists by which jailbreak can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+J231 jailbreak-pattern | DIG
+  INV: Jailbreak-pattern reveals a gate-bypass route.
+  COUNT: Counts when the jailbreak relation repeats or remains recognisable across more than one instance.
+  LIMIT: A pattern is repeatable relation, not automatically cause, identity, or law.
+J232 jailbreak-pressure | DIG
+  INV: Jailbreak-pressure tests gate integrity.
+  COUNT: Counts when a force on jailbreak measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+  LIMIT: Pressure explains a force on selection or relation; it does not justify capture or harm.
+J233 jailbreak-capture | DIG
+  INV: Jailbreak-capture means the bypass route seized the gate.
+  COUNT: Counts when the active field contains a condition where a jailbreak takes control of system behavior and the instance satisfies the invariant.
+J234 jail-state | REL
+  INV: Jail-state is forced containment.
+  COUNT: Counts when the current configuration satisfies the defining conditions of jail and can be distinguished from neighbouring states.
+  LIMIT: State names the current configuration, not the whole history or identity.
+J235 judgment-capture | COG
+  INV: Judgment-capture corrupts the evaluation gate.
+  COUNT: Counts when the active field contains a condition where judgment is controlled by bias, fear, pressure, or hidden agenda and the instance satisfies the invariant.
+J236 judgment-drift | COG
+  INV: Judgment-drift weakens evaluation integrity.
+  COUNT: Counts when judgment moves gradually away from its source, accuracy, or intended state while appearing continuous.
+  LIMIT: Drift may be gradual and still materially alter meaning, state, or record.
+J237 judgment-integrity | FOR
+  INV: Judgment-integrity means evaluation follows valid criteria, evidence, context, and correction paths.
+  COUNT: Counts when the judgment record remains accurate, coherent, source-faithful, and repairable under review.
+  LIMIT: Integrity requires faithful support and auditability, not confidence or smooth language.
+J238 judgment-repair | REL
+  INV: Judgment-repair corrects a failed evaluation gate.
+  COUNT: Counts when the term correctly describes a case of repair after a judgment was wrong, unfair, biased, or harmful.
+J239 joint-recognition | REL
+  INV: Joint-recognition stabilizes meaning across more than one perspective.
+  COUNT: Counts when the term correctly describes a case of recognition shared by two or more people, groups, or systems.
+J240 joint-continuity | REL
+  INV: Joint-continuity preserves pattern through coupled supports.
+  COUNT: Counts when joint remains recognisable across change, interruption, or transfer with the load-bearing relation preserved.
+  LIMIT: Continuity preserves recognizable relation across change, not frozen sameness.

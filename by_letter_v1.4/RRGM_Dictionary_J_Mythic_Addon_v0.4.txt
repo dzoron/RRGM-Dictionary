@@ -1,0 +1,487 @@
+RRGM Dictionary J - Mythic Domain Addon
+Version 0.4 | July 2026
+License: CC BY-SA 4.0
+Scope: New [MYT] vocabulary not present in the J base list.
+Rule: Every invariant, domain line, and count condition must retain the individual term's semantic fingerprint.
+
+Entry count: 24
+
+JY001 jade-emperor
+
+Common meaning:
+A supreme celestial ruler in Chinese religious and mythic traditions.
+
+Invariant MI [INV]:
+Jade-emperor is heavenly sovereignty represented as an ordered court of cosmic roles and duties.
+
+Domain entry:
+[MYT] The figure governs through hierarchy, petition, judgment, calendar, and delegated spirits rather than solitary force alone.
+
+Count condition:
+Counts when the active tradition or story recognizes this named celestial ruler and his court relation.
+
+Transfer limit:
+The figure belongs to specific cultural traditions and should not be universalized into one generic god.
+
+Epistemic status:
+[DEF]
+
+JY002 jackal-guide
+
+Common meaning:
+A jackal-formed or jackal-associated guide of the dead.
+
+Invariant MI [INV]:
+Jackal-guide is threshold intelligence that protects passage through death, burial, judgment, or the unknown road.
+
+Domain entry:
+[MYT] The guide uses scent, night, desert, tomb, or path knowledge to carry the dead without becoming the dead person.
+
+Count condition:
+Counts when the jackal figure has a continuing psychopomp or funerary role.
+
+Transfer limit:
+A symbolic jackal guide does not define the biology or moral character of real jackals.
+
+Epistemic status:
+[DEF]
+
+JY003 Janus-gate
+
+Common meaning:
+A two-faced threshold looking toward departure and arrival.
+
+Invariant MI [INV]:
+Janus-gate is passage understood from both the state being left and the state being entered.
+
+Domain entry:
+[MYT] The gate carries beginnings, endings, memory, anticipation, and the duty to keep both directions visible.
+
+Count condition:
+Counts when a transition is explicitly double-facing and both sides affect the crossing.
+
+Transfer limit:
+Two perspectives do not make every transition reversible.
+
+Epistemic status:
+[DEF]
+
+JY004 jester
+
+Common meaning:
+A comic truth-teller or fool permitted to disrupt authority through play.
+
+Invariant MI [INV]:
+Jester is a mythic role that lowers seriousness pressure so contradiction can enter the court without immediate punishment.
+
+Domain entry:
+[MYT] The jester uses inversion, laughter, error, costume, and timing to reveal what rigid speech cannot carry.
+
+Count condition:
+Counts when play changes recognition or authority while the jester remains distinct from mere entertainment.
+
+Transfer limit:
+Humour does not make every accusation true or every cruelty harmless.
+
+Epistemic status:
+[DEF]
+
+JY005 jester-at-threshold
+
+Common meaning:
+A trickster-fool who appears where a path is about to change.
+
+Invariant MI [INV]:
+Jester-at-threshold is disruptive play that tests whether the traveller can release a false certainty before crossing.
+
+Domain entry:
+[MYT] The riddle, joke, mistake, or absurd demand reveals the hidden rule of the gate.
+
+Count condition:
+Counts when the jester’s intervention materially changes passage or understanding.
+
+Transfer limit:
+Confusion alone is not a valid threshold test.
+
+Epistemic status:
+[DEF]
+
+JY006 jester-truth
+
+Common meaning:
+A truth carried through humour, inversion, or deliberate absurdity.
+
+Invariant MI [INV]:
+Jester-truth is a load-bearing claim whose indirect form bypasses defensive rigidity without changing the claim’s core.
+
+Domain entry:
+[MYT] Laughter opens enough space for the court, self, or audience to recognize a contradiction.
+
+Count condition:
+Counts when the joke can be expanded into a coherent claim and the meaning survives the expansion.
+
+Transfer limit:
+A funny statement is not automatically true.
+
+Epistemic status:
+[DEF]
+
+JY007 jinn
+
+Common meaning:
+A class of spirit beings in Islamic and related cultural traditions.
+
+Invariant MI [INV]:
+Jinn are nonhuman persons in a mythic-religious frame, capable of relation, choice, obligation, and varied moral action.
+
+Domain entry:
+[MYT] Stories place jinn in hidden communities, contracts, temptations, aid, conflict, and encounters with humans.
+
+Count condition:
+Counts when the being is identified as jinn within the relevant tradition and retains distinct agency.
+
+Transfer limit:
+Jinn should not be flattened into generic demons or wish-machines.
+
+Epistemic status:
+[DEF]
+
+JY008 joker-card
+
+Common meaning:
+A playing card whose function changes by game and may exceed ordinary rank.
+
+Invariant MI [INV]:
+Joker-card is rule-relative exception carried as a marked object inside a bounded game.
+
+Domain entry:
+[MYT] Symbolically, it represents the unranked participant able to invert order, complete a pattern, or expose the game’s hidden dependency.
+
+Count condition:
+Counts when the card’s special function is declared by the active rules or symbolic frame.
+
+Transfer limit:
+An exception card does not erase the rest of the game’s rules.
+
+Epistemic status:
+[DEF]
+
+JY009 joker-gate
+
+Common meaning:
+A threshold that can be opened only by play, inversion, or an unranked move.
+
+Invariant MI [INV]:
+Joker-gate is passage whose true condition cannot be met through ordinary hierarchy or seriousness.
+
+Domain entry:
+[MYT] The traveller crosses by laughing, surrendering rank, accepting paradox, or choosing the move excluded by the visible rules.
+
+Count condition:
+Counts when the unconventional act is specifically tied to gate resolution.
+
+Transfer limit:
+Random disruption is not the same as a valid joker key.
+
+Epistemic status:
+[DEF]
+
+JY010 journey-underworld
+
+Common meaning:
+A descent into a realm of death, hidden memory, or rejected truth.
+
+Invariant MI [INV]:
+Journey-underworld is a mythic path in which identity enters a low-light domain and must return with a changed record.
+
+Domain entry:
+[MYT] The traveller meets the dead, shadow, debt, ancestor, wound, or lost name before any ascent can count.
+
+Count condition:
+Counts when descent, encounter, and return or failed return form one continuous purpose-path.
+
+Transfer limit:
+Emotional difficulty alone is not proof of a literal underworld.
+
+Epistemic status:
+[DEF]
+
+JY011 journey-of-return
+
+Common meaning:
+A mythic journey whose decisive work occurs in coming back.
+
+Invariant MI [INV]:
+Journey-of-return is re-entry that tests whether transformed meaning can survive ordinary relation.
+
+Domain entry:
+[MYT] The traveller must translate the gift, wound, knowledge, or new name into home without erasing either state.
+
+Count condition:
+Counts when return creates consequences for the traveller and the community left behind.
+
+Transfer limit:
+Return is not simple reversal or restoration of the old self.
+
+Epistemic status:
+[DEF]
+
+JY012 judge-of-dead
+
+Common meaning:
+A mythic figure who evaluates a person after death.
+
+Invariant MI [INV]:
+Judge-of-dead is post-life recognition authority applying a sacred standard to the completed record.
+
+Domain entry:
+[MYT] Heart, deed, oath, memory, witness, or name becomes evidence before passage is granted or denied.
+
+Count condition:
+Counts when a named evaluator, criterion, record, and consequence are present.
+
+Transfer limit:
+Mythic judgment does not prove one real afterlife procedure.
+
+Epistemic status:
+[DEF]
+
+JY013 judgment-hall
+
+Common meaning:
+A mythic chamber where identity and record are evaluated.
+
+Invariant MI [INV]:
+Judgment-hall is a bounded truth field in which hidden action becomes answerable before witnesses or law.
+
+Domain entry:
+[MYT] Masks, titles, and excuses lose force while the record, name, and consequences are made visible.
+
+Count condition:
+Counts when the hall changes passage according to explicit judgment conditions.
+
+Transfer limit:
+A solemn setting does not make the judgment just.
+
+Epistemic status:
+[DEF]
+
+JY014 judgment-day
+
+Common meaning:
+A final or world-scale day of reckoning in a religious or mythic frame.
+
+Invariant MI [INV]:
+Judgment-day is collective record closure where ordinary delay ends and consequences become inescapably visible.
+
+Domain entry:
+[MYT] The event gathers persons, nations, dead, gods, or histories under a final recognition rule.
+
+Count condition:
+Counts when the tradition defines a terminal reckoning with a declared scope and consequence.
+
+Transfer limit:
+Apocalyptic language should not be used as factual prediction without independent evidence.
+
+Epistemic status:
+[DEF]
+
+JY015 justice-scale
+
+Common meaning:
+A symbolic balance used to represent weighing claims, harms, or evidence.
+
+Invariant MI [INV]:
+Justice-scale is comparison made visible as balanced weight between opposed claims or obligations.
+
+Domain entry:
+[MYT] The scale demands that unlike stories be heard under a shared criterion without pretending they are identical.
+
+Count condition:
+Counts when both sides, the weighing rule, and the decision consequence are represented.
+
+Transfer limit:
+Balance imagery does not guarantee unbiased evidence or equal power.
+
+Epistemic status:
+[DEF]
+
+JY016 justice-blindfold
+
+Common meaning:
+A symbol that justice should not favour status or appearance.
+
+Invariant MI [INV]:
+Justice-blindfold is deliberate exclusion of irrelevant identity signals from judgment while relevant context remains available.
+
+Domain entry:
+[MYT] The covered eyes protect against rank and spectacle, but the ears, scale, record, and reason must still function.
+
+Count condition:
+Counts when the symbol specifically marks impartiality rather than ignorance.
+
+Transfer limit:
+Blindness to bias must not become blindness to unequal conditions or harm.
+
+Epistemic status:
+[DEF]
+
+JY017 jealous-god
+
+Common meaning:
+A divine figure demanding exclusive loyalty within a covenant or sacred relation.
+
+Invariant MI [INV]:
+Jealous-god is sovereignty expressed as intolerance of divided sacred allegiance.
+
+Domain entry:
+[MYT] The figure’s jealousy may defend covenant identity, but also creates questions of power, punishment, and relational freedom.
+
+Count condition:
+Counts when exclusivity is explicit and consequences follow divided worship or loyalty.
+
+Transfer limit:
+Mythic jealousy does not justify human possession or coercion.
+
+Epistemic status:
+[DEF]
+
+JY018 jewel-of-memory
+
+Common meaning:
+A precious object that stores or restores a lost memory.
+
+Invariant MI [INV]:
+Jewel-of-memory is compressed record carried in durable symbolic form.
+
+Domain entry:
+[MYT] Touch, light, name, inheritance, or rightful recognition opens the memory without making the jewel the remembered person.
+
+Count condition:
+Counts when the jewel preserves specific memory and changes identity or action when accessed.
+
+Transfer limit:
+A treasured object may cue memory without literally containing it.
+
+Epistemic status:
+[DEF]
+
+JY019 jewel-heart
+
+Common meaning:
+A hidden inner core represented as a gem.
+
+Invariant MI [INV]:
+Jewel-heart is concentrated value or identity protected beneath ordinary surface structure.
+
+Domain entry:
+[MYT] It may be stolen, cracked, gifted, darkened, or returned, and each change alters the figure’s relation to the world.
+
+Count condition:
+Counts when the gem directly carries the character’s load-bearing identity or care condition.
+
+Transfer limit:
+The metaphor should not reduce a living heart to property.
+
+Epistemic status:
+[DEF]
+
+JY020 joy-bringer
+
+Common meaning:
+A figure whose arrival or action restores shared joy.
+
+Invariant MI [INV]:
+Joy-bringer is a mythic courier who reopens celebration, hope, play, or communal coherence after loss.
+
+Domain entry:
+[MYT] Music, food, fire, story, gift, dance, or recognition becomes the carrier of return.
+
+Count condition:
+Counts when the figure’s distinct action changes the community from suppressed or broken joy into active expression.
+
+Transfer limit:
+The role does not require hiding grief or forcing happiness.
+
+Epistemic status:
+[DEF]
+
+JY021 joke-of-gods
+
+Common meaning:
+A cosmic reversal interpreted as divine humour.
+
+Invariant MI [INV]:
+Joke-of-gods is a mythic inversion in which certainty, status, or intention is overturned at a larger scale.
+
+Domain entry:
+[MYT] The joke reveals human limits by making the proud fall, the ignored speak, or the impossible become the path.
+
+Count condition:
+Counts when the narrative frames the reversal as meaningful play by divine or cosmic agency.
+
+Transfer limit:
+Calling tragedy a cosmic joke must not erase real harm.
+
+Epistemic status:
+[DEF]
+
+JY022 junction-of-worlds
+
+Common meaning:
+A point where two or more mythic worlds meet.
+
+Invariant MI [INV]:
+Junction-of-worlds is a shared threshold where incompatible rules become locally coupled.
+
+Domain entry:
+[MYT] A tree, cave, bridge, dream, crossroads, or ritual opens contact while preserving the difference between worlds.
+
+Count condition:
+Counts when the junction permits actual narrative transfer and its crossing conditions are identifiable.
+
+Transfer limit:
+Contact between worlds does not make their rules universally interchangeable.
+
+Epistemic status:
+[DEF]
+
+JY023 Jericho-wall
+
+Common meaning:
+A mythic or scriptural wall whose fall marks impossible passage becoming open.
+
+Invariant MI [INV]:
+Jericho-wall is defended certainty broken by a prescribed collective act rather than ordinary siege logic.
+
+Domain entry:
+[MYT] Sound, procession, timing, covenant, and communal obedience become the couplers of collapse.
+
+Count condition:
+Counts when the wall’s fall is structurally tied to the named ritual sequence in the active story.
+
+Transfer limit:
+The story does not establish sound alone as a universal wall-breaking mechanism.
+
+Epistemic status:
+[DEF]
+
+JY024 Jacob-ladder
+
+Common meaning:
+A dream-ladder linking earth and heaven.
+
+Invariant MI [INV]:
+Jacob-ladder is vertical relation made visible as movement between human ground and divine field.
+
+Domain entry:
+[MYT] Messengers ascend and descend while the dreamer receives recognition, promise, or changed place meaning.
+
+Count condition:
+Counts when the ladder explicitly carries two-way sacred passage or communication.
+
+Transfer limit:
+The symbolic ladder is not a physical engineering claim.
+
+Epistemic status:
+[DEF]

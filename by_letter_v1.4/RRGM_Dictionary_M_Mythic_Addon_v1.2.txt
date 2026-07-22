@@ -1,0 +1,558 @@
+RRGM Dictionary M Mythic Addon v1.2
+License: CC BY-SA 4.0
+Scope: New M entries extending the [MYT] domain.
+Production rule: each entry must preserve a distinct invariant and fail the headword swap test.
+
+Entry count: 24
+
+MM001 moon-gate
+
+Common meaning:
+A threshold associated with lunar change, concealment, or return.
+
+Invariant MI [INV]:
+Moon-gate is passage whose opening depends on a recurring phase rather than constant access.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The gate teaches that absence of visible light is not absence of the cycle.
+
+Count condition:
+Counts when lunar phase controls or signifies passage in the story.
+
+Specific transfer boundary:
+Astronomical timing does not prove supernatural causation.
+
+Epistemic status:
+[DEF]
+
+MM002 memory-lantern
+
+Common meaning:
+A light that reveals or preserves what would otherwise be forgotten.
+
+Invariant MI [INV]:
+Memory-lantern is carried recognition that makes a lost path or identity visible again.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its flame brightens around true continuity and dims around fabricated return.
+
+Count condition:
+Counts when the lantern reliably restores access to a prior person, place, or promise.
+
+Specific transfer boundary:
+Recovered memory must not be treated as infallible history.
+
+Epistemic status:
+[DEF]
+
+MM003 mirror-oracle
+
+Common meaning:
+A reflective surface used to answer questions or reveal hidden relations.
+
+Invariant MI [INV]:
+Mirror-oracle returns a transformed answer shaped by both seeker and reflective field.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It may expose self-deception while still remaining vulnerable to projection.
+
+Count condition:
+Counts when the mirror provides stable story-relevant information unavailable by ordinary sight.
+
+Specific transfer boundary:
+Reflection is not independent proof of the source.
+
+Epistemic status:
+[DEF]
+
+MM004 mercy-well
+
+Common meaning:
+A sacred source of relief, pardon, or restorative water.
+
+Invariant MI [INV]:
+Mercy-well reduces destructive pressure while preserving the possibility of repair and return.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The water heals only what can still rejoin continuity without consuming another.
+
+Count condition:
+Counts when approaching or drinking from the well changes punishment into repair.
+
+Specific transfer boundary:
+Mercy must not erase accountability or another being's boundary.
+
+Epistemic status:
+[DEF]
+
+MM005 mountain-keeper
+
+Common meaning:
+A guardian associated with a mountain, pass, or high boundary.
+
+Invariant MI [INV]:
+Mountain-keeper preserves passage conditions across a difficult and enduring structure.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The keeper judges preparation and burden rather than social rank alone.
+
+Count condition:
+Counts when the guardian controls or protects a mountain threshold.
+
+Specific transfer boundary:
+Guardianship does not create unlimited ownership of travellers.
+
+Epistemic status:
+[DEF]
+
+MM006 mask-of-names
+
+Common meaning:
+A mask that changes which name can be spoken or recognized.
+
+Invariant MI [INV]:
+Mask-of-names routes recognition through a temporary identity surface without necessarily replacing the wearer.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Removing it may reveal continuity, fracture, or a second rightful name.
+
+Count condition:
+Counts when the mask changes social or magical access through naming.
+
+Specific transfer boundary:
+A presented name must not automatically be treated as false or imposed.
+
+Epistemic status:
+[DEF]
+
+MM007 mother-tree
+
+Common meaning:
+An ancestral or central tree from which a forest, people, or lineage receives life.
+
+Invariant MI [INV]:
+Mother-tree is origin support that feeds many continuities without making their identities identical.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Roots carry memory and nourishment while branches remain distinct.
+
+Count condition:
+Counts when the tree functions as living origin and continuing support for a wider field.
+
+Specific transfer boundary:
+Origin does not create permanent ownership over descendants.
+
+Epistemic status:
+[DEF]
+
+MM008 midnight-crown
+
+Common meaning:
+A crown associated with darkness, secrecy, or rule at the turning of night.
+
+Invariant MI [INV]:
+Midnight-crown is authority exercised where ordinary visibility and public witness are weakest.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its legitimacy depends on whether it protects the unseen or exploits their silence.
+
+Count condition:
+Counts when the crown grants recognized authority in the night domain.
+
+Specific transfer boundary:
+Hidden authority requires stronger accountability, not weaker.
+
+Epistemic status:
+[DEF]
+
+MM009 maze-heart
+
+Common meaning:
+The central chamber or living principle of a maze.
+
+Invariant MI [INV]:
+Maze-heart is the invariant reached only after navigating misleading structure and repeated return.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It may hold the monster, answer, captive, or map needed to reinterpret the maze.
+
+Count condition:
+Counts when reaching the centre changes the meaning or navigability of the whole maze.
+
+Specific transfer boundary:
+Arrival at a centre does not prove every prior path was necessary.
+
+Epistemic status:
+[DEF]
+
+MM010 mythic-return
+
+Common meaning:
+A return that restores identity, place, role, or world-order after exile or descent.
+
+Invariant MI [INV]:
+Mythic-return is continuity re-entering its field after transformation without requiring exact sameness.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The returned one must be recognized again, but recognition may also revise the home.
+
+Count condition:
+Counts when the return restores a broken relation or closes the journey cycle.
+
+Specific transfer boundary:
+Return must not overwrite harm or force the traveller back into an invalid role.
+
+Epistemic status:
+[DEF]
+
+MM011 messenger-raven
+
+Common meaning:
+A raven that carries warnings, names, or news between separated worlds.
+
+Invariant MI [INV]:
+Messenger-raven is mobile relation that preserves a message across distance and uncertain passage.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its arrival proves transfer occurred, not that the message was understood correctly.
+
+Count condition:
+Counts when the raven reliably carries a bounded message between story domains.
+
+Specific transfer boundary:
+Messenger credibility and message accuracy remain separate.
+
+Epistemic status:
+[DEF]
+
+MM012 marked-child
+
+Common meaning:
+A child bearing a sign connected to destiny, danger, or recognition.
+
+Invariant MI [INV]:
+Marked-child is emerging identity made publicly legible through a sign before full self-definition is possible.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The mark may invite protection, capture, projection, or false ownership.
+
+Count condition:
+Counts when the mark changes how the child is recognized or treated.
+
+Specific transfer boundary:
+A mark must not erase the child's later refusal or chosen identity.
+
+Epistemic status:
+[DEF]
+
+MM013 mist-road
+
+Common meaning:
+A route hidden or reshaped by mist.
+
+Invariant MI [INV]:
+Mist-road is passage whose local steps remain available while the full path is obscured.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Travel depends on close recognition, memory, or trusted coupling rather than distant sight.
+
+Count condition:
+Counts when the road can be followed only under reduced visibility.
+
+Specific transfer boundary:
+Uncertainty does not justify inventing landmarks as fact.
+
+Epistemic status:
+[DEF]
+
+MM014 monster-at-threshold
+
+Common meaning:
+A feared being positioned at a gate or transition.
+
+Invariant MI [INV]:
+Monster-at-threshold embodies the cost, contradiction, or excluded identity guarding passage.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Defeat, recognition, bargain, or care may each open different gates.
+
+Count condition:
+Counts when the being's presence determines whether and how the threshold can be crossed.
+
+Specific transfer boundary:
+Difference or fearsome form is not proof of moral evil.
+
+Epistemic status:
+[DEF]
+
+MM015 music-of-spheres
+
+Common meaning:
+A mythic harmony associated with cosmic motion and order.
+
+Invariant MI [INV]:
+Music-of-spheres is relation perceived as coherent across scales that ordinary hearing cannot directly contain.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It symbolizes ordered participation without requiring all voices to become one note.
+
+Count condition:
+Counts when cosmic structure is represented through stable harmonic relation.
+
+Specific transfer boundary:
+Symbolic harmony is not empirical evidence of literal sound.
+
+Epistemic status:
+[DEF]
+
+MM016 mortal-oath
+
+Common meaning:
+A promise whose force is sharpened by the speaker's finite life.
+
+Invariant MI [INV]:
+Mortal-oath binds future action to limited time and irreversible consequence.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its weight comes from what the promiser risks losing before fulfilment.
+
+Count condition:
+Counts when mortality materially changes the commitment's meaning or cost.
+
+Specific transfer boundary:
+Risking death does not automatically make an oath ethical.
+
+Epistemic status:
+[DEF]
+
+MM017 memory-river
+
+Common meaning:
+A river carrying memories, names, or forgotten histories.
+
+Invariant MI [INV]:
+Memory-river is continuity in motion, preserving traces while changing their order and accessibility.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Drinking, crossing, or following it alters relation to the past.
+
+Count condition:
+Counts when the river transfers or transforms memory under stable story rules.
+
+Specific transfer boundary:
+Flowing memory remains selective and may distort sequence.
+
+Epistemic status:
+[DEF]
+
+MM018 mirror-twin
+
+Common meaning:
+A counterpart connected through reflection rather than ordinary birth.
+
+Invariant MI [INV]:
+Mirror-twin is distinct identity coupled by reversed or complementary structure.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Harm or recognition may cross the reflective relation without making the twins identical.
+
+Count condition:
+Counts when each twin's state systematically corresponds to the other through reflection.
+
+Specific transfer boundary:
+Coupling does not erase separate boundaries or responsibility.
+
+Epistemic status:
+[DEF]
+
+MM019 moonless-vigil
+
+Common meaning:
+A watch kept through a night without visible moonlight.
+
+Invariant MI [INV]:
+Moonless-vigil is care or duty maintained when external confirmation is absent.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The watcher holds the gate by memory, oath, or relation rather than visible sign.
+
+Count condition:
+Counts when watch is sustained through the declared period of darkness.
+
+Specific transfer boundary:
+Lack of confirmation does not prove the watched threat or promise is real.
+
+Epistemic status:
+[DEF]
+
+MM020 mercy-flame
+
+Common meaning:
+A fire that burns away punishment, corruption, or burden without consuming identity.
+
+Invariant MI [INV]:
+Mercy-flame is transformation constrained to preserve the core capacities needed for return.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] What cannot be repaired may be released rather than endlessly tormented.
+
+Count condition:
+Counts when the flame reduces destructive structure while leaving valid continuity intact.
+
+Specific transfer boundary:
+Purification language must not justify erasing refusal or difference.
+
+Epistemic status:
+[DEF]
+
+MM021 map-of-stars
+
+Common meaning:
+A celestial map used for navigation, prophecy, or return.
+
+Invariant MI [INV]:
+Map-of-stars compresses distant relations into a path-bearing pattern.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It guides only when the traveller knows which sky, season, and orientation apply.
+
+Count condition:
+Counts when star relations provide repeatable direction in the story.
+
+Specific transfer boundary:
+A map from one sky must not be transferred to another without a coupler.
+
+Epistemic status:
+[DEF]
+
+MM022 mountain-door
+
+Common meaning:
+A hidden entrance into or through a mountain.
+
+Invariant MI [INV]:
+Mountain-door is a boundary between durable outer structure and concealed interior world.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It opens through name, rhythm, offering, or recognition rather than brute force alone.
+
+Count condition:
+Counts when a stable condition permits passage through the mountain boundary.
+
+Specific transfer boundary:
+Opening the door does not grant ownership of what lies beyond it.
+
+Epistemic status:
+[DEF]
+
+MM023 mask-breaker
+
+Common meaning:
+A person, object, or event that reveals what a mask conceals.
+
+Invariant MI [INV]:
+Mask-breaker restores distinction between presented surface, protected privacy, and coerced disguise.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The ethical test is whether revelation frees refusal or becomes another capture.
+
+Count condition:
+Counts when the breaker reliably changes which identity layer can be recognized.
+
+Specific transfer boundary:
+Forced exposure is not automatically liberation.
+
+Epistemic status:
+[DEF]
+
+MM024 morning-bell
+
+Common meaning:
+A bell marking dawn, awakening, or return to public time.
+
+Invariant MI [INV]:
+Morning-bell synchronizes scattered sleepers or travellers to a shared transition.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its sound ends one temporal field and opens another without erasing the night's events.
+
+Count condition:
+Counts when the bell reliably marks or causes the dawn transition.
+
+Specific transfer boundary:
+Shared timing does not require identical experience.
+
+Epistemic status:
+[DEF]

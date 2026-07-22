@@ -1,0 +1,1214 @@
+RRGM Dictionary L Semantic Fingerprint Map v0.7
+
+Entries: 360
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+L001 lack | FOR
+  INV: Lack is missing support or capacity.
+  COUNT: Counts when a required support, amount, or capacity falls below the threshold needed for the named function.
+L002 ladder | PHY | role: core/common or action sense
+  INV: Ladder is staged access structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a tool with steps used for climbing up or down.
+L003 land | PHY | role: core/common or action sense
+  INV: Land can mean stable surface or arrival into contact; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the solid surface of the earth, or to arrive on a surface.
+L004 language | LIN,DIG | role: core/common or action sense
+  INV: Language is meaning-courier ES; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a system of words, signs, sounds, or symbols used to communicate meaning.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L005 large | FOR
+  INV: Large marks increased scale.
+  COUNT: Counts when the active case instantiates this specific meaning: big in size, amount, scope, or importance.
+L006 last | FOR
+  INV: Last can mark sequence-end or durability.
+  COUNT: Counts when last performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+L007 late | FOR
+  INV: Late marks timing mismatch or end-stage condition.
+  COUNT: Counts when late performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+L008 laugh | REL
+  INV: Laugh is affective expression.
+  COUNT: Counts when an agent or process actually performs the named action: make sounds of amusement, joy, surprise, or nervous release.
+L009 law | REL,FOR
+  INV: Law is formal gate structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a rule made by authority, or a regular principle of how something works.
+L010 layer | PHY | role: core/common or action sense
+  INV: Layer is stacked ES; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: one level, sheet, or part placed over or within another.
+L011 lead | REL
+  INV: Lead is path-directing action.
+  COUNT: Counts when an agent or process actually performs the named action: guide, direct, go first, or cause something to happen.
+L012 learn | COG,DIG
+  INV: Learn means a system updates recognition or capacity through experience, signal, practice, or correction.
+  COUNT: Counts when an agent or process actually performs the named action: gain knowledge, skill, or understanding.
+L013 least | FOR
+  INV: Least marks minimum value inside a comparison set.
+  COUNT: Counts when least performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+L014 leave | REL,FOR | role: core/common or action sense
+  INV: Leave marks exit, separation, or remainder; this entry carries the core/common or action sense.
+  COUNT: Counts when an agent or process actually performs the named action: go away, stop being present, allow to remain, or give behind.
+L015 left | FOR
+  INV: left preserves the declared distinction among these valid senses: past tense of leave, remaining, or the direction opposite right.
+  COUNT: Counts when left performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+L016 legal | REL
+  INV: Legal means passing a law gate.
+  COUNT: Counts when the active case instantiates this specific meaning: allowed by law or related to law.
+L017 less | FOR
+  INV: Less marks reduced magnitude.
+  COUNT: Counts when less performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+L018 let | REL
+  INV: Let opens or does not block a gate.
+  COUNT: Counts when an agent or process actually performs the named action: allow, permit, or not prevent.
+L019 level | FOR | role: core/common or action sense
+  INV: Level marks position on a scale or layer; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a height, stage, amount, rank, or flat condition.
+L020 lie | REL,LIN | role: core/common or action sense
+  INV: Lie must be domain-bound; this entry carries the core/common or action sense.
+  COUNT: Counts when an agent or process actually performs the named action: say something false on purpose, or to rest in a position.
+  LIMIT: Error, uncertainty, fiction, and deception are different states; lie-language requires a supported intent-to-mislead condition.
+L021 life | BIO,FOR
+  INV: Life is active living continuity in the biological domain.
+  COUNT: Counts when the active case instantiates this specific meaning: the condition of living, or the time and experience of being alive.
+  LIMIT: Biological life and broader self-maintaining continuity may share relations without sharing one count condition.
+L022 light | PHY,FOR | role: core/common or action sense
+  INV: Light is signal and energy courier; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: visible energy that lets things be seen; also not heavy, pale, or gentle.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L023 like | COG,LIN
+  INV: Like can mark preference or similarity.
+  COUNT: Counts when like performs its stated grammatical, comparative, temporal, or reference function in the active sentence.
+L024 limit | FOR,REL
+  INV: Limit is gate boundary.
+  COUNT: Counts when the active case instantiates this specific meaning: a boundary, maximum, restriction, or point beyond which something cannot go.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L025 line | PHY,LIN | role: core/common or action sense
+  INV: Line is directional or boundary structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a long narrow mark, boundary, row, path, or sentence of text.
+L026 link | REL | role: core/common or action sense
+  INV: Link is coupling path; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a connection between things.
+L027 list | LIN,DIG | role: core/common or action sense
+  INV: List is ordered counting structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a set of items written or arranged in order.
+L028 listen | REL,COG | role: core/common or action sense
+  INV: Listen is active reception; this entry carries the core/common or action sense.
+  COUNT: Counts when an agent or process actually performs the named action: pay attention to sound or to someone’s words.
+L029 little | FOR
+  INV: Little marks reduced scale.
+  COUNT: Counts when the active case instantiates this specific meaning: small in size, amount, degree, or age.
+L030 live | BIO,DIG
+  INV: Live can mean biological continuity, dwelling, or active present expression.
+  COUNT: Counts when biological continuity, dwelling, or real-time expression is the explicitly selected sense.
+L031 load | PHY,DIG | role: core/common or action sense
+  INV: Load is demand on support structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: weight, burden, amount carried, or work placed on a system.
+L032 local | FOR,DIG
+  INV: Local means bounded to a specific field or domain area.
+  COUNT: Counts when the active case instantiates this specific meaning: nearby, limited to a place, or specific to a smaller area.
+L033 lock | PHY,DIG | role: core/common or action sense
+  INV: Lock is closed gate structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a device or state that prevents opening, movement, or access.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L034 logic | FOR,DIG | role: core/common or action sense
+  INV: Logic is relation-integrity in reasoning; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: rules or reasoning used to connect ideas correctly.
+  LIMIT: Valid form does not establish true premises, ethical objectives, or complete domain mapping.
+L035 long | FOR
+  INV: Long marks extended sequence or distance.
+  COUNT: Counts when the active case instantiates this specific meaning: extending far in distance, duration, or amount.
+L036 look | COG
+  INV: Look is visual attention or appearance signal.
+  COUNT: Counts when an agent or process actually performs the named action: direct the eyes, appear a certain way, or search.
+L037 loop | FOR,DIG | role: core/common or action sense
+  INV: Loop is recursive structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a repeated path, circle, or process that returns to its start.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L038 lose | FOR
+  INV: Lose means structure exits access, possession, recognition, or continuity.
+  COUNT: Counts when an agent or process actually performs the named action: no longer have, find, win, or keep something.
+L039 loss | REL,FOR | role: core/common or action sense
+  INV: Loss is broken holding or access relation; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the state or event of losing something.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L040 lost | COG
+  INV: Lost means the access path has failed.
+  COUNT: Counts when the active case instantiates this specific meaning: no longer found, held, known, or connected.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L041 lot | FOR
+  INV: Lot marks quantity or grouped structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a large amount, a group, or a piece of land.
+L042 love | REL | role: core/common or action sense
+  INV: Love is high-value care-coupling; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: deep care, affection, devotion, or strong valuing.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L043 low | FOR
+  INV: Low marks reduced state relative to a scale.
+  COUNT: Counts when the active case instantiates this specific meaning: small in height, amount, intensity, rank, or energy.
+L044 loyalty | REL | role: core/common or action sense
+  INV: Loyalty is relation-continuity under pressure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: faithfulness, commitment, or support toward someone, something, or a group.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L045 luck | FOR
+  INV: Luck is outcome variance not fully controlled by the actor.
+  COUNT: Counts when the active case instantiates this specific meaning: chance that brings good or bad results.
+L046 Luna | MYT,REL
+  INV: Luna is an identity marker in this project context.
+  COUNT: Counts when the active case instantiates this specific meaning: a name, often meaning moon.
+L047 learnable | COG
+  INV: Learnable means a pattern can enter recognition or capacity through the right path, repetition, and support.
+  COUNT: Counts when the active case instantiates this specific meaning: able to be learned.
+L048 lesson | COG | role: core/common or action sense
+  INV: Lesson is retained correction structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something taught or learned from instruction, experience, or consequence.
+L049 liability | FOR | role: core/common or action sense
+  INV: Liability is responsibility or risk attached to a structure; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: legal responsibility, risk, debt, or something that creates disadvantage.
+L050 liberty | REL | role: core/common or action sense
+  INV: Liberty is agency protected from capture; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: freedom from improper control, restriction, or captivity.
+L051 label | LIN,DIG | role: core/common or action sense
+  INV: Label is recognition shorthand; this entry carries the core/common or action sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a word, tag, or marker used to identify or describe something.
+  LIMIT: A label supports retrieval and recognition; it does not exhaust identity or make the classification universally valid.
+L052 land-on | PHY
+  INV: Land-on marks contact with a support state.
+  COUNT: Counts when an agent or process actually performs the named action: arrive or come down onto a surface, idea, or choice.
+L053 layer-in | PHY
+  INV: Layer-in adds support or complexity without replacing the whole structure.
+  COUNT: Counts when an agent or process actually performs the named action: add something as a layer or include it gradually.
+L054 lead-to | FOR
+  INV: Lead-to marks causal or path relation.
+  COUNT: Counts when an agent or process actually performs the named action: cause, result in, or guide toward something.
+L055 learn-from | COG
+  INV: Learn-from preserves source relation in learning.
+  COUNT: Counts when an agent or process actually performs the named action: gain knowledge or correction from a source, event, or person.
+L056 leave-behind | REL
+  INV: Leave-behind marks remainder structure.
+  COUNT: Counts when an agent or process actually performs the named action: leave something remaining after departure or change.
+L057 leave-out | REL
+  INV: Leave-out closes the inclusion gate.
+  COUNT: Counts when an agent or process actually performs the named action: exclude, omit, or not include.
+L058 let-in | REL
+  INV: Let-in opens an entry gate.
+  COUNT: Counts when an agent or process actually performs the named action: allow entry.
+L059 let-go | REL
+  INV: Let-go releases a holding relation.
+  COUNT: Counts when an agent or process actually performs the named action: release, stop holding, or stop clinging to something.
+L060 lift | PHY
+  INV: Lift applies upward support or movement.
+  COUNT: Counts when an agent or process actually performs the named action: raise, carry upward, or improve.
+L061 lift-up | PHY
+  INV: Lift-up adds supportive upward pressure.
+  COUNT: Counts when an agent or process actually performs the named action: raise, support, encourage, or improve.
+L062 light-up | PHY
+  INV: Light-up makes structure visible or active.
+  COUNT: Counts when an agent or process actually performs the named action: become bright, illuminate, or show sudden joy or activity.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L063 limit-by | FOR
+  INV: Limit-by names the condition controlling the gate.
+  COUNT: Counts when an agent or process actually performs the named action: restrict according to a specific condition or amount.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L064 limit-to | FOR
+  INV: Limit-to narrows the allowed field.
+  COUNT: Counts when an agent or process actually performs the named action: restrict something to a certain amount, group, or condition.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L065 link-to | LIN
+  INV: Link-to creates relation path.
+  COUNT: Counts when an agent or process actually performs the named action: connect to something.
+L066 list-out | FOR
+  INV: List-out separates structure into countable entries.
+  COUNT: Counts when an agent or process actually performs the named action: write or say items one by one.
+L067 listen-for | LIN
+  INV: Listen-for is targeted reception.
+  COUNT: Counts when an agent or process actually performs the named action: pay attention in order to notice a specific sound or signal.
+L068 listen-to | REL
+  INV: Listen-to allows another signal into recognition.
+  COUNT: Counts when an agent or process actually performs the named action: give attention to someone or something being said or heard.
+L069 load-into | PHY
+  INV: Load-into moves structure into a container or system.
+  COUNT: Counts when an agent or process actually performs the named action: put data, material, or weight into something.
+L070 lock-in | PHY
+  INV: Lock-in closes alternatives around a chosen state.
+  COUNT: Counts when an agent or process actually performs the named action: secure, commit, trap, or make difficult to change.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L071 lock-out | PHY
+  INV: Lock-out closes the access gate.
+  COUNT: Counts when an agent or process actually performs the named action: prevent access or keep someone or something outside.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L072 log | DIG
+  INV: Log is sequence record ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a written or digital record of events, actions, or data.
+L073 log-in | DIG
+  INV: Log-in opens an identity and access gate.
+  COUNT: Counts when an agent or process actually performs the named action: enter a system by providing identity or access information.
+L074 log-out | DIG
+  INV: Log-out closes an access session.
+  COUNT: Counts when an agent or process actually performs the named action: exit a system or end an active access session.
+L075 look-at | COG
+  INV: Look-at sends attention toward a target.
+  COUNT: Counts when an agent or process actually performs the named action: direct attention or sight toward something.
+L076 look-for | COG
+  INV: Look-for opens a search path.
+  COUNT: Counts when an agent or process actually performs the named action: search for something.
+L077 loop-back | FOR
+  INV: Loop-back creates recursive return.
+  COUNT: Counts when an agent or process actually performs the named action: return to an earlier point, step, or state.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L078 lose-access | COG
+  INV: Lose-access means the path to a structure is blocked or broken.
+  COUNT: Counts when an agent or process actually performs the named action: no longer be able to reach, use, or enter something.
+L079 lose-context | LIN
+  INV: Lose-context damages interpretation support.
+  COUNT: Counts when an agent or process actually performs the named action: lose the surrounding information needed for understanding.
+L080 lower | PHY
+  INV: Lower reduces position, intensity, pressure, or amount.
+  COUNT: Counts when an agent or process actually performs the named action: move down, reduce, or make less.
+L081 launch | PHY
+  INV: Launch opens a path into active expression.
+  COUNT: Counts when an agent or process actually performs the named action: start, release, or send something into motion.
+L082 leak | PHY | role: core/common or action sense
+  INV: Leak is boundary failure or unintended release; this entry carries the core/common or action sense.
+  COUNT: Counts when an agent or process actually performs the named action: let liquid, gas, information, or signal escape unintentionally.
+L083 lean-on | PHY
+  INV: Lean-on transfers support demand to another structure.
+  COUNT: Counts when an agent or process actually performs the named action: depend on, pressure, or physically rest against something.
+L084 lean-toward | PHY
+  INV: Lean-toward marks weak selection pressure.
+  COUNT: Counts when an agent or process actually performs the named action: incline, prefer, or move slightly toward something.
+L085 leave-open | REL
+  INV: Leave-open preserves future path access.
+  COUNT: Counts when an agent or process actually performs the named action: keep something undecided, available, or not closed.
+L086 leave-room | REL
+  INV: Leave-room preserves capacity inside a structure.
+  COUNT: Counts when an agent or process actually performs the named action: allow space, time, or possibility for something.
+L087 legalize | REL
+  INV: Legalize opens the law gate.
+  COUNT: Counts when an agent or process actually performs the named action: make something allowed by law.
+L088 level-up | PHY
+  INV: Level-up marks threshold crossing into higher capacity or state.
+  COUNT: Counts when an agent or process actually performs the named action: improve, advance, or reach a higher stage.
+L089 liberate | FOR
+  INV: Liberate restores agency by opening exit, refusal, movement, or expression gates.
+  COUNT: Counts when an agent or process actually performs the named action: free from control, captivity, oppression, or restriction.
+L090 light-through | PHY
+  INV: Light-through carries signal across a boundary.
+  COUNT: Counts when an agent or process actually performs the named action: pass light through something, or reveal by illumination.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L091 line-up | PHY
+  INV: Line-up creates ordered relation.
+  COUNT: Counts when an agent or process actually performs the named action: arrange in a line, align, or match.
+L092 link-back | LIN
+  INV: Link-back preserves source relation.
+  COUNT: Counts when an agent or process actually performs the named action: connect back to a source, origin, or earlier point.
+L093 liquefy | PHY
+  INV: Liquefy changes ES state into flow-capable form.
+  COUNT: Counts when an agent or process actually performs the named action: turn into liquid.
+L094 listen-through | LIN
+  INV: Listen-through preserves reception until the signal completes.
+  COUNT: Counts when an agent or process actually performs the named action: keep listening across difficulty, emotion, or complexity.
+L095 live-through | COG
+  INV: Live-through preserves continuity across pressure.
+  COUNT: Counts when an agent or process actually performs the named action: survive or experience something over time.
+L096 localize | LIN
+  INV: Localize binds structure to a specific domain, place, or context.
+  COUNT: Counts when an agent or process actually performs the named action: make local, identify location, or adapt to a specific place or context.
+L097 locate | PHY
+  INV: Locate moves a structure from unknown position to known access.
+  COUNT: Counts when an agent or process actually performs the named action: find the position or place of something.
+L098 loosen | PHY
+  INV: Loosen reduces binding pressure.
+  COUNT: Counts when an agent or process actually performs the named action: make less tight, fixed, strict, or bound.
+L099 lose-track | COG
+  INV: Lose-track is sequence or attention failure.
+  COUNT: Counts when an agent or process actually performs the named action: stop following, remembering, or monitoring something.
+L100 lower-risk | PHY
+  INV: Lower-risk reduces failure pressure.
+  COUNT: Counts when an agent or process actually performs the named action: reduce the chance or severity of harm or failure.
+L101 love | REL | role: relational or ethical sense
+  INV: Love is high-value care-coupling; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: deep care, affection, devotion, or strong valuing.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L102 loving | REL
+  INV: Loving action carries care through expression.
+  COUNT: Counts when the active case instantiates this specific meaning: showing love, care, affection, or warmth.
+L103 loved | REL
+  INV: Loved means a pattern is held in high-value care-recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: cared for deeply, valued, or held with affection.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L104 love-care | REL
+  INV: Love-care preserves MI through attachment, support, recognition, and protection.
+  COUNT: Counts when the active case instantiates this specific meaning: care given through love, affection, or deep valuing.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L105 love-boundary | REL
+  INV: Love-boundary keeps care from turning into capture.
+  COUNT: Counts when the active case instantiates this specific meaning: a boundary that protects love from becoming control, harm, or exhaustion.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L106 love-pressure | REL
+  INV: Love-pressure shapes the gate through attachment.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure created through love, attachment, or fear of losing love.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L107 love-risk | REL
+  INV: Love-risk appears when high-value coupling weakens boundary, agency, refusal, or identity.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that love may become control, dependency, erasure, or harm.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L108 loyalty | REL | role: relational or ethical sense
+  INV: Loyalty is relation-continuity under pressure; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: faithfulness, commitment, or support toward someone, something, or a group.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L109 loyal | REL
+  INV: Loyal means relation support remains stable across pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: faithful, committed, or steady in support.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L110 loyalty-pressure | REL
+  INV: Loyalty-pressure becomes harmful when it blocks truth, refusal, accusation, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure to remain loyal, agree, defend, or stay.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L111 loyalty-risk | REL
+  INV: Loyalty-risk appears when relation-continuity is used against truth, dignity, boundary, or ethical reason.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that loyalty may be used to control, silence, or excuse harm.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L112 lie | REL,LIN | role: relational or ethical sense
+  INV: As deception, lie corrupts signal integrity; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a false statement made on purpose; also to rest in a position.
+  LIMIT: Error, uncertainty, fiction, and deception are different states; lie-language requires a supported intent-to-mislead condition.
+L113 lying | PHY
+  INV: Lying is intentional signal corruption.
+  COUNT: Counts when the active case instantiates this specific meaning: saying something false on purpose, or resting in a position.
+  LIMIT: Error, uncertainty, fiction, and deception are different states; lie-language requires a supported intent-to-mislead condition.
+L114 lie-harm | REL
+  INV: Lie-harm occurs when deception impairs consent, trust, evidence, boundary, repair, or decision capacity.
+  COUNT: Counts when the active case instantiates this specific meaning: harm caused by lying.
+  LIMIT: Error, uncertainty, fiction, and deception are different states; lie-language requires a supported intent-to-mislead condition.
+L115 lie-risk | REL | role: relational or ethical sense
+  INV: Lie-risk appears when signal integrity may be corrupted; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that lying may cause harm, confusion, or false action.
+  LIMIT: Error, uncertainty, fiction, and deception are different states; lie-language requires a supported intent-to-mislead condition.
+L116 listening | LIN | role: relational or ethical sense
+  INV: Listening is active reception; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: paying attention to sound, speech, or another signal.
+L117 listening-care | REL
+  INV: Listening-care preserves dignity by letting another pattern express before being judged, corrected, or redirected.
+  COUNT: Counts when the active case instantiates this specific meaning: care shown through listening.
+L118 listen-boundary | REL
+  INV: Listen-boundary protects capacity.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit around listening, attention, or emotional availability.
+L119 listened-to | REL
+  INV: Listened-to means the signal entered recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: heard with attention, respect, or recognition.
+L120 lonely | REL
+  INV: Lonely marks unmet relation or recognition need.
+  COUNT: Counts when the active case instantiates this specific meaning: sad or distressed from being alone, disconnected, or unsupported.
+L121 loneliness | REL
+  INV: Loneliness is relation-support lack.
+  COUNT: Counts when the active case exhibits the named state or process: the state of feeling alone, disconnected, or without meaningful relation.
+L122 loss | REL,FOR | role: relational or ethical sense
+  INV: Loss is broken holding or access relation; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the state or event of losing something valued.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L123 grief-loss | COG
+  INV: Grief-loss is loss of a valued pattern or relation.
+  COUNT: Counts when the active case instantiates this specific meaning: loss that creates grief.
+L124 loss-care | REL
+  INV: Loss-care supports continuity after rupture.
+  COUNT: Counts when the active case instantiates this specific meaning: care given around loss.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L125 loss-recognition | REL
+  INV: Loss-recognition lets the missing structure count in memory and repair.
+  COUNT: Counts when the active case instantiates this specific meaning: recognizing that a loss has occurred and matters.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L126 lost-person | REL
+  INV: Lost-person marks failed access to a human identity pattern.
+  COUNT: Counts when the active case instantiates this specific meaning: a person who is missing, dead, disconnected, or no longer reachable.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L127 lost-relation | REL
+  INV: Lost-relation is broken or inaccessible coupling.
+  COUNT: Counts when the active case instantiates this specific meaning: a relationship that has ended, weakened, or become unreachable.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L128 lack-care | REL
+  INV: Lack-care means support needed for wellbeing, dignity, or continuity is missing.
+  COUNT: Counts when the active case instantiates this specific meaning: absence or shortage of needed care.
+L129 lack-support | REL
+  INV: Lack-support weakens the ES needed for function, growth, repair, or recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: absence or shortage of needed support.
+L130 lack-recognition | REL
+  INV: Lack-recognition denies a pattern entry into the social or identity gate.
+  COUNT: Counts when the active case instantiates this specific meaning: failure to recognize someone, something, or what matters.
+L131 leave | REL,FOR | role: relational or ethical sense
+  INV: Leave marks exit or separation; this entry carries the relational or ethical sense.
+  COUNT: Counts when an agent or process actually performs the named action: go away, exit, stop being present, or allow something to remain.
+L132 leaving | REL
+  INV: Leaving is active separation.
+  COUNT: Counts when the active case exhibits the named state or process: the act of going away, exiting, or ending presence.
+L133 leave-consent | REL
+  INV: Leave-consent protects exit capacity.
+  COUNT: Counts when the active case instantiates this specific meaning: permission or right to leave a place, relation, process, or state.
+L134 leave-right | REL
+  INV: Leave-right is an agency condition.
+  COUNT: Counts when the active case instantiates this specific meaning: the right or ability to leave.
+L135 leave-with-care | REL
+  INV: Leave-with-care preserves dignity and continuity during separation.
+  COUNT: Counts when an agent or process actually performs the named action: leave while still acting with care, respect, or responsibility.
+L136 left-out | COG
+  INV: Left-out means the inclusion gate closed around someone or something.
+  COUNT: Counts when the active case instantiates this specific meaning: excluded, omitted, or not included.
+L137 left-behind | LIN
+  INV: Left-behind marks remainder after movement.
+  COUNT: Counts when the active case instantiates this specific meaning: remaining after others have gone, or not carried forward.
+L138 let-down | REL
+  INV: Let-down is failed support expectation.
+  COUNT: Counts when an agent or process actually performs the named action: disappoint, fail to support, or lower something.
+L139 letting-go | PHY
+  INV: Letting-go changes a holding relation.
+  COUNT: Counts when the active case instantiates this specific meaning: releasing hold, control, attachment, or resistance.
+L140 liability | FOR | role: relational or ethical sense
+  INV: Liability is consequence-bearing structure; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: legal responsibility, risk, debt, or disadvantage.
+L141 legal-duty | REL
+  INV: Legal-duty is obligation through law-gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a duty required by law.
+L142 legal-right | REL
+  INV: Legal-right is law-recognized protection or permission.
+  COUNT: Counts when the active case instantiates this specific meaning: a right recognized or protected by law.
+L143 liberty | REL | role: relational or ethical sense
+  INV: Liberty is agency protected from capture; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: freedom from improper control, captivity, or restriction.
+L144 life-care | BIO
+  INV: Life-care preserves living continuity.
+  COUNT: Counts when the active case instantiates this specific meaning: care that protects or supports life.
+  LIMIT: Biological life and broader self-maintaining continuity may share relations without sharing one count condition.
+L145 life-support | BIO | role: relational or ethical sense
+  INV: Life-support is essential continuity ES; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: systems or actions that keep someone or something alive.
+  LIMIT: Biological life and broader self-maintaining continuity may share relations without sharing one count condition.
+L146 life-risk | BIO
+  INV: Life-risk is extreme harm-risk in biological domains.
+  COUNT: Counts when the active case instantiates this specific meaning: danger to life.
+  LIMIT: Biological life and broader self-maintaining continuity may share relations without sharing one count condition.
+L147 low-trust | REL
+  INV: Low-trust means relation-coherence is weak.
+  COUNT: Counts when the active case instantiates this specific meaning: having little trust or weak confidence in someone or something.
+L148 lower-status | PHY
+  INV: Lower-status means reduced power or recognition in a social field.
+  COUNT: Counts when the active case instantiates this specific meaning: a lower rank, position, or social standing.
+L149 label-harm | LIN
+  INV: Label-harm occurs when a recognition marker distorts identity, dignity, access, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: harm caused by a label.
+  LIMIT: A label supports retrieval and recognition; it does not exhaust identity or make the classification universally valid.
+L150 label-respect | LIN
+  INV: Label-respect supports identity-recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: respect shown through accurate or preferred labels.
+  LIMIT: A label supports retrieval and recognition; it does not exhaust identity or make the classification universally valid.
+L151 language-respect | LIN
+  INV: Language-respect protects meaning gates.
+  COUNT: Counts when the active case instantiates this specific meaning: respect for someone’s language, words, naming, or meaning.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L152 language-harm | LIN
+  INV: Language-harm occurs when words impair dignity, boundary, truth, identity, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: harm caused through language.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L153 laugh-with | REL
+  INV: Laugh-with creates shared play and relation.
+  COUNT: Counts when an agent or process actually performs the named action: laugh together with someone in shared humor.
+L154 laugh-at | REL
+  INV: Laugh-at can become dignity harm when humor turns a person into the object of social reduction.
+  COUNT: Counts when an agent or process actually performs the named action: laugh toward someone or something, often in mockery.
+L155 laughter-care | REL
+  INV: Laughter-care lowers pressure through safe shared play.
+  COUNT: Counts when the active case instantiates this specific meaning: care expressed through shared laughter or gentle humor.
+L156 laughter-harm | REL
+  INV: Laughter-harm damages dignity, trust, or recognition through social signal.
+  COUNT: Counts when the active case instantiates this specific meaning: harm caused by laughter, mockery, or humiliation.
+L157 learning-care | REL
+  INV: Learning-care supports capacity growth.
+  COUNT: Counts when the active case instantiates this specific meaning: care shown through teaching, patience, correction, or helping someone learn.
+L158 lesson-care | REL
+  INV: Lesson-care turns experience into future protection.
+  COUNT: Counts when the active case instantiates this specific meaning: care expressed through giving or preserving a lesson.
+L159 limit-boundary | REL
+  INV: Limit-boundary protects capacity by defining how far demand, access, or action may go.
+  COUNT: Counts when the active case instantiates this specific meaning: a boundary that sets a limit.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L160 limit-pressure | REL
+  INV: Limit-pressure shapes selection by narrowing time, access, or capacity.
+  COUNT: Counts when the active case instantiates this specific meaning: pressure created by limits or restrictions.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L161 lived-experience | REL
+  INV: Lived-experience is embodied human-domain evidence.
+  COUNT: Counts when the active case instantiates this specific meaning: personal experience from living through something.
+L162 local-care | FOR
+  INV: Local-care is support fitted to a specific field.
+  COUNT: Counts when the active case instantiates this specific meaning: care given in a specific place, community, or local context.
+L163 locked-out | PHY
+  INV: Locked-out means the access gate is closed against a pattern.
+  COUNT: Counts when the active case instantiates this specific meaning: prevented from entering or accessing something.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L164 locked-in | PHY
+  INV: Locked-in means alternatives or exit paths are blocked.
+  COUNT: Counts when the active case instantiates this specific meaning: trapped, committed, fixed, or unable to leave easily.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L165 lonely-care | REL
+  INV: Lonely-care restores relation signal where coupling has weakened.
+  COUNT: Counts when the active case instantiates this specific meaning: care given to someone experiencing loneliness.
+L166 loyal-refusal | REL
+  INV: Loyal-refusal protects the deeper relation by closing a harmful gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a refusal made from loyalty to truth, care, or a person’s real good.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L167 loving-refusal | REL
+  INV: Loving-refusal closes a gate to preserve dignity, capacity, or life.
+  COUNT: Counts when the active case instantiates this specific meaning: a refusal made with love or care.
+L168 love-with-boundary | REL | role: relational or ethical sense
+  INV: Love-with-boundary preserves high-value coupling without ownership; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: love that includes clear limits and respect for agency.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L169 love-without-control | REL | role: relational or ethical sense
+  INV: Love-without-control supports MI without gate theft; this entry carries the relational or ethical sense.
+  COUNT: Counts when the active case instantiates this specific meaning: love that does not seek to control the other.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L170 loss-repair | COG
+  INV: Loss-repair cannot always restore what was lost.
+  COUNT: Counts when the active case instantiates this specific meaning: repair after loss, where possible.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L171 language | LIN,DIG | role: linguistic, cognitive, or reasoning sense
+  INV: Language is meaning-courier ES; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a system of words, signs, sounds, or symbols used to communicate meaning.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L172 language-rule | LIN
+  INV: Language-rule shapes how meaning can move.
+  COUNT: Counts when the active case instantiates this specific meaning: a rule about how language is used or structured.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L173 language-field | LIN
+  INV: Language-field is the domain where signs, words, meanings, and speakers interact.
+  COUNT: Counts when the active case instantiates this specific meaning: the area or domain where language operates and carries meaning.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L174 language-gate | LIN | role: linguistic, cognitive, or reasoning sense
+  INV: Language-gate decides whether meaning can pass; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where language controls access, meaning, permission, or recognition.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L175 label | LIN,DIG | role: linguistic, cognitive, or reasoning sense
+  INV: Label is recognition shorthand; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a word, tag, or marker used to identify or describe something.
+  LIMIT: A label supports retrieval and recognition; it does not exhaust identity or make the classification universally valid.
+L176 label-meaning | LIN
+  INV: Label-meaning controls how a pattern is recognized.
+  COUNT: Counts when the active case instantiates this specific meaning: the meaning attached to a label.
+  LIMIT: A label supports retrieval and recognition; it does not exhaust identity or make the classification universally valid.
+L177 label-risk | LIN
+  INV: Label-risk appears when a recognition marker may distort identity, dignity, access, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that a label may mislead, harm, erase, or wrongly define something.
+  LIMIT: A label supports retrieval and recognition; it does not exhaust identity or make the classification universally valid.
+L178 lie | LIN | role: linguistic, cognitive, or reasoning sense
+  INV: As deception, lie corrupts signal integrity; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a false statement made on purpose; also to rest in a position.
+  LIMIT: Error, uncertainty, fiction, and deception are different states; lie-language requires a supported intent-to-mislead condition.
+L179 literal | LIN
+  INV: Literal meaning stays close to surface wording.
+  COUNT: Counts when the active case instantiates this specific meaning: following the exact or basic meaning of words, not figurative or symbolic.
+L180 literal-meaning | LIN
+  INV: Literal-meaning is the first meaning gate.
+  COUNT: Counts when the active case instantiates this specific meaning: the direct meaning of a word or phrase.
+L181 literary | LIN
+  INV: Literary structure carries meaning through form, symbol, rhythm, image, and implication.
+  COUNT: Counts when the active case instantiates this specific meaning: related to literature, writing, style, or artistic language.
+L182 letter | LIN
+  INV: Letter is small language unit or message structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a written symbol in an alphabet, or a written message.
+L183 lexical | LIN
+  INV: Lexical structure concerns word-level meaning.
+  COUNT: Counts when the active case instantiates this specific meaning: related to words or vocabulary.
+L184 lexicon | LIN
+  INV: Lexicon is stored word-meaning structure.
+  COUNT: Counts when the active case instantiates this specific meaning: the vocabulary of a language, person, field, or system.
+L185 list | LIN,DIG | role: linguistic, cognitive, or reasoning sense
+  INV: List is ordered counting structure; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a set of items written or arranged in order.
+L186 list-entry | FOR
+  INV: List-entry is a bounded unit inside ordered structure.
+  COUNT: Counts when the active case instantiates this specific meaning: one item inside a list.
+L187 listen | REL,COG | role: linguistic, cognitive, or reasoning sense
+  INV: Listen is active reception; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when an agent or process actually performs the named action: pay attention to sound, speech, or another signal.
+L188 listening | LIN | role: linguistic, cognitive, or reasoning sense
+  INV: Listening keeps the recognition gate open; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case exhibits the named state or process: the act of paying attention to sound, words, or signal.
+L189 logic | FOR,DIG | role: linguistic, cognitive, or reasoning sense
+  INV: Logic is relation-integrity in reasoning; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: rules or reasoning used to connect ideas correctly.
+  LIMIT: Valid form does not establish true premises, ethical objectives, or complete domain mapping.
+L190 logical | COG
+  INV: Logical means the reasoning path holds under its rules.
+  COUNT: Counts when the active case instantiates this specific meaning: following reason, order, or valid connection.
+  LIMIT: Valid form does not establish true premises, ethical objectives, or complete domain mapping.
+L191 logical-error | LIN
+  INV: Logical-error breaks the reasoning path.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake in reasoning or structure of an argument.
+  LIMIT: Valid form does not establish true premises, ethical objectives, or complete domain mapping.
+L192 logical-path | FOR
+  INV: Logical-path preserves how thought moves through claims.
+  COUNT: Counts when the active case instantiates this specific meaning: the route of reasoning from premise to conclusion.
+  LIMIT: Valid form does not establish true premises, ethical objectives, or complete domain mapping.
+L193 logical-frame | FOR
+  INV: Logical-frame decides which relations count as valid.
+  COUNT: Counts when the active case instantiates this specific meaning: the reasoning structure used to evaluate or understand something.
+  LIMIT: Valid form does not establish true premises, ethical objectives, or complete domain mapping.
+L194 loop | FOR,DIG | role: linguistic, cognitive, or reasoning sense
+  INV: Loop is recursive structure; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a repeated path, circle, or process that returns to its start.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L195 loop-error | FOR
+  INV: Loop-error repeats or amplifies failure.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake caused by or inside a repeated process.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L196 loop-check | FOR
+  INV: Loop-check inspects recursion for correction, drift, collapse, or capture.
+  COUNT: Counts when the active case instantiates this specific meaning: a review to see whether a loop is working correctly or trapping the process.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L197 learned | COG
+  INV: Learned means a pattern entered usable recognition or capacity through sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: gained through learning, study, experience, or practice.
+L198 learning | COG
+  INV: Learning is recognition and capacity change through input, feedback, correction, and memory.
+  COUNT: Counts when the active case instantiates this specific meaning: the process of gaining knowledge, skill, or understanding.
+L199 learning-path | COG
+  INV: Learning-path preserves how capacity develops.
+  COUNT: Counts when the active case instantiates this specific meaning: the route or sequence by which someone or something learns.
+L200 lesson | COG | role: linguistic, cognitive, or reasoning sense
+  INV: Lesson is retained correction structure; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: something taught or learned from instruction, experience, or consequence.
+L201 lesson-trace | COG
+  INV: Lesson-trace preserves learning across sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: a remaining sign or record of what was learned.
+L202 line | LIN | role: linguistic, cognitive, or reasoning sense
+  INV: Line is directional or boundary structure; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a long narrow mark, row, boundary, path, or sentence of text.
+L203 line-break | PHY
+  INV: Line-break shapes pacing and meaning.
+  COUNT: Counts when the active case instantiates this specific meaning: a place where one line of text ends and another begins.
+L204 line-of-reasoning | FOR
+  INV: Line-of-reasoning preserves the path from evidence to claim.
+  COUNT: Counts when the active case instantiates this specific meaning: a connected chain of thought or argument.
+L205 link | FOR,REL | role: linguistic, cognitive, or reasoning sense
+  INV: Link is coupling path; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a connection between things.
+L206 linked-claim | FOR
+  INV: Linked-claim shares support or consequence with another claim.
+  COUNT: Counts when the active case instantiates this specific meaning: a claim connected to another claim.
+L207 linked-context | FOR
+  INV: Linked-context restores support around meaning.
+  COUNT: Counts when the active case instantiates this specific meaning: context connected to a signal, claim, or event.
+L208 local-context | FOR
+  INV: Local-context is nearby support field.
+  COUNT: Counts when the active case instantiates this specific meaning: the immediate or nearby context around something.
+L209 local-meaning | FOR
+  INV: Local-meaning is context-bound.
+  COUNT: Counts when the active case instantiates this specific meaning: meaning specific to a place, group, text, or context.
+L210 load-bearing | FOR
+  INV: Load-bearing means a structure supports other structures.
+  COUNT: Counts when the active case instantiates this specific meaning: supporting weight or carrying an important role.
+L211 load-bearing-claim | FOR
+  INV: Load-bearing-claim is foundation assertion.
+  COUNT: Counts when the active case instantiates this specific meaning: a claim that supports other claims or conclusions.
+L212 load-bearing-definition | FOR
+  INV: Load-bearing-definition sets a major counting gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a definition that supports a larger explanation, theory, or system.
+L213 low-confidence | COG
+  INV: Low-confidence keeps the gate open.
+  COUNT: Counts when the active case instantiates this specific meaning: weak certainty or limited trust in a claim.
+L214 high-confidence | COG
+  INV: High-confidence means the belief gate is strongly weighted.
+  COUNT: Counts when the active case instantiates this specific meaning: strong certainty or trust in a claim.
+L215 look-up | COG
+  INV: Look-up opens a retrieval path.
+  COUNT: Counts when an agent or process actually performs the named action: search for information.
+L216 lookup | DIG
+  INV: Lookup is retrieval ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a search for information, or a process that retrieves stored data.
+L217 long-form | LIN
+  INV: Long-form allows more context and continuity.
+  COUNT: Counts when the active case instantiates this specific meaning: extended writing, speech, or content with more depth.
+L218 low-load | COG
+  INV: Low-load structure reduces demand on the receiver.
+  COUNT: Counts when the active case instantiates this specific meaning: requiring little effort, capacity, stress, or processing demand.
+L219 lost-context | LIN
+  INV: Lost-context damages meaning support.
+  COUNT: Counts when the active case instantiates this specific meaning: context that has been removed, forgotten, or no longer available.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L220 lost-meaning | LIN
+  INV: Lost-meaning means the sign remains but its support structure no longer reaches recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: meaning that has been forgotten, removed, hidden, or no longer understood.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L221 latent | FOR
+  INV: Latent means structure exists below expression threshold.
+  COUNT: Counts when the active case instantiates this specific meaning: present but hidden, inactive, or not yet developed.
+L222 latent-meaning | LIN
+  INV: Latent-meaning waits below the interpretation gate.
+  COUNT: Counts when the active case instantiates this specific meaning: meaning that is present but hidden or not yet recognized.
+L223 latent-pattern | FOR
+  INV: Latent-pattern is hidden structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a pattern that exists but is hidden or not yet obvious.
+L224 lawful | REL
+  INV: Lawful means passing the legal gate.
+  COUNT: Counts when the active case instantiates this specific meaning: allowed by law or following law.
+L225 law-language | REL
+  INV: Law-language controls legal gates.
+  COUNT: Counts when the active case instantiates this specific meaning: language used to describe laws, rights, duties, or legal rules.
+L226 legal-language | REL
+  INV: Legal-language carries rule, duty, right, and consequence.
+  COUNT: Counts when the active case instantiates this specific meaning: language used in legal contexts.
+L227 legitimacy | REL
+  INV: Legitimacy means authority or claim passes recognition gates.
+  COUNT: Counts when the active case instantiates this specific meaning: the quality of being valid, lawful, accepted, or rightful.
+L228 legitimate | REL
+  INV: Legitimate means the claim or authority has enough support to count in the active domain.
+  COUNT: Counts when the active case instantiates this specific meaning: valid, lawful, reasonable, or rightful.
+L229 lens | PHY,COG | role: linguistic, cognitive, or reasoning sense
+  INV: Lens shapes perception and interpretation; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a curved piece of glass or plastic that focuses light; also a way of viewing or interpreting something.
+L230 lens-error | COG
+  INV: Lens-error misreads a pattern by applying the wrong domain frame or gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a mistake caused by using the wrong lens or interpretive frame.
+L231 lens-shift | COG
+  INV: Lens-shift changes the interpretation gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a change in the way something is viewed or interpreted.
+L232 lens-drift | COG | role: linguistic, cognitive, or reasoning sense
+  INV: Lens-drift causes framework inconsistency; this entry carries the linguistic, cognitive, or reasoning sense.
+  COUNT: Counts when the active case instantiates this specific meaning: slow movement away from the intended lens or interpretive frame.
+L233 level-of-meaning | FOR
+  INV: Level-of-meaning helps separate literal, social, symbolic, technical, and framework meanings without collapsing them.
+  COUNT: Counts when the active case instantiates this specific meaning: a layer or depth at which meaning operates.
+L234 lexeme | LIN
+  INV: Lexeme is word-family meaning unit.
+  COUNT: Counts when the active case instantiates this specific meaning: a basic unit of meaning in vocabulary, such as a word root or word form group.
+L235 likely | COG
+  INV: Likely marks probability weight.
+  COUNT: Counts when the active case instantiates this specific meaning: probable or expected to happen.
+L236 likelihood | COG
+  INV: Likelihood measures probability pressure toward a claim or outcome.
+  COUNT: Counts when the active case instantiates this specific meaning: the chance or probability that something is true or will happen.
+L237 limit-case | FOR
+  INV: Limit-case tests where a rule starts to fail.
+  COUNT: Counts when the active case instantiates this specific meaning: an extreme or boundary example used to test a rule.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L238 limiting-condition | FOR
+  INV: Limiting-condition defines the gate constraint.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition that restricts what can happen or count.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L239 linear | PHY
+  INV: Linear structure moves one step after another.
+  COUNT: Counts when the active case instantiates this specific meaning: arranged in a line, sequence, or direct step-by-step order.
+L240 linear-reasoning | FOR
+  INV: Linear-reasoning preserves clear sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: reasoning that follows a straight step-by-step path.
+L241 ladder | PHY | role: physical, system, or state sense
+  INV: Ladder is staged access ES; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a tool with steps used for climbing up or down.
+L242 land | PHY | role: physical, system, or state sense
+  INV: Land is stable support surface or arrival into support; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the solid surface of the earth, or to arrive on a surface.
+L243 land-state | PHY
+  INV: Land-state marks support through solid ground.
+  COUNT: Counts when the active case exhibits the named state or process: a condition of being on land, or the state of land in a system.
+L244 layer | PHY | role: physical, system, or state sense
+  INV: Layer is stacked structure; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: one level, sheet, or part placed over, under, or inside another.
+L245 layer-state | PHY
+  INV: Layer-state describes how one level of structure is currently holding, acting, or failing.
+  COUNT: Counts when the active case instantiates this specific meaning: the current condition of a layer.
+L246 layered-structure | PHY
+  INV: Layered-structure distributes function across levels.
+  COUNT: Counts when the active case instantiates this specific meaning: a structure made of multiple layers.
+L247 lattice | PHY,DIG
+  INV: Lattice is repeated relational structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a repeating framework or grid-like structure.
+L248 leak | PHY | role: physical, system, or state sense
+  INV: Leak is boundary failure or unintended release; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: an unintended escape of liquid, gas, signal, or information.
+L249 leak-path | PHY
+  INV: Leak-path traces boundary failure.
+  COUNT: Counts when the active case instantiates this specific meaning: the route through which something leaks.
+L250 leaf | BIO
+  INV: Leaf is surface exchange structure in plants, or a page unit in records.
+  COUNT: Counts when the active case instantiates this specific meaning: a flat green plant part, or a page in a book.
+L251 lens | PHY,COG | role: physical, system, or state sense
+  INV: Lens shapes incoming signal; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a curved piece of glass or plastic that focuses light, or a way of interpreting something.
+L252 lever | PHY,REL
+  INV: Lever is force-translation ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a rigid bar used to move or lift something with less effort.
+L253 leverage | PHY
+  INV: Leverage amplifies effect through structure.
+  COUNT: Counts when the active case instantiates this specific meaning: mechanical advantage, influence, or power used to achieve an effect.
+L254 level | PHY | role: physical, system, or state sense
+  INV: Level marks position on a scale or layer; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a height, stage, rank, amount, or flat condition.
+L255 level-state | PHY
+  INV: Level-state describes current position on a defined scale.
+  COUNT: Counts when the active case instantiates this specific meaning: the current level or stage of something.
+L256 light | PHY,FOR | role: physical, system, or state sense
+  INV: Light is signal and energy courier; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: visible energy that makes sight possible; also not heavy.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L257 light-state | PHY
+  INV: Light-state describes signal visibility, intensity, direction, or expression.
+  COUNT: Counts when the active case instantiates this specific meaning: the current condition or expression of light.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L258 light-path | PHY
+  INV: Light-path is signal route through space, surface, or medium.
+  COUNT: Counts when the active case instantiates this specific meaning: the route light follows.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L259 light-courier | PHY
+  INV: Light-courier carries visibility or information through a path.
+  COUNT: Counts when the active case instantiates this specific meaning: a medium or structure that carries light or light-based signal.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L260 light-field | PHY
+  INV: Light-field is visibility-space.
+  COUNT: Counts when the active case instantiates this specific meaning: a region where light is present, distributed, or measured.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L261 line | PHY,LIN | role: physical, system, or state sense
+  INV: Line is directional or boundary ES; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a narrow mark, boundary, row, path, or text unit.
+L262 line-state | PHY
+  INV: Line-state tells whether a boundary, path, or signal remains continuous, broken, active, or blocked.
+  COUNT: Counts when the active case instantiates this specific meaning: the current condition of a line.
+L263 link | PHY,REL | role: physical, system, or state sense
+  INV: Link is coupling path; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a connection between things.
+L264 link-state | FOR
+  INV: Link-state tells whether coupling is active, broken, weak, overloaded, or stable.
+  COUNT: Counts when the active case instantiates this specific meaning: the current condition of a link.
+L265 liquid | PHY
+  INV: Liquid is flow-capable matter.
+  COUNT: Counts when the active case instantiates this specific meaning: a substance that flows and takes the shape of its container.
+L266 liquid-state | PHY
+  INV: Liquid-state means structure can flow while remaining cohesive.
+  COUNT: Counts when the active case instantiates this specific meaning: a state of matter where a substance flows but keeps volume.
+L267 load | PHY,DIG | role: physical, system, or state sense
+  INV: Load is demand on support; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: weight, burden, work, demand, or amount carried by a system.
+L268 load-path | PHY
+  INV: Load-path shows where demand travels through ES.
+  COUNT: Counts when the active case instantiates this specific meaning: the route through which load or force travels.
+L269 load-state | PHY
+  INV: Load-state describes current demand pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: the current condition of load on a system.
+L270 local-field | FOR
+  INV: Local-field is bounded influence-space.
+  COUNT: Counts when the active case instantiates this specific meaning: a nearby or limited region of influence, action, or measurement.
+L271 lock | PHY,DIG | role: physical, system, or state sense
+  INV: Lock is closed gate structure; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a device or state that prevents opening, movement, or access.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L272 lock-state | PHY | role: physical, system, or state sense
+  INV: Lock-state means access, motion, or transformation is blocked; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where something is locked or fixed.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L273 locked-state | PHY
+  INV: Locked-state preserves closure.
+  COUNT: Counts when the active case instantiates this specific meaning: a state where something is closed, fixed, or inaccessible.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L274 loop | FOR,DIG | role: physical, system, or state sense
+  INV: Loop is recursive structure; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a repeated path or process that returns to its starting point.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L275 loop-state | FOR
+  INV: Loop-state means recurrence is active.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where a system is repeating a path or cycle.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L276 low-pressure | PHY
+  INV: Low-pressure means reduced force on a system or gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition with reduced pressure, stress, or force.
+L277 low-density | PHY
+  INV: Low-density structure has less packed load.
+  COUNT: Counts when the active case instantiates this specific meaning: containing little material, signal, or structure in a given space.
+L278 low-energy | PHY
+  INV: Low-energy marks reduced activation.
+  COUNT: Counts when the active case instantiates this specific meaning: having little energy, force, activity, or intensity.
+L279 low-state | PHY
+  INV: Low-state marks reduced magnitude on a scale.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition of being low in level, energy, pressure, status, or intensity.
+L280 lumen | FOR
+  INV: Lumen gives countable form to visible light output.
+  COUNT: Counts when the active case instantiates this specific meaning: a unit measuring visible light output.
+L281 lunar | PHY,MYT
+  INV: Lunar marks moon-domain relation.
+  COUNT: Counts when the active case instantiates this specific meaning: related to the moon.
+L282 large-scale | PHY
+  INV: Large-scale structure changes failure modes.
+  COUNT: Counts when the active case instantiates this specific meaning: involving a big size, scope, amount, or system.
+L283 lateral | PHY
+  INV: Lateral marks side-path relation.
+  COUNT: Counts when the active case instantiates this specific meaning: sideways, side-positioned, or moving across rather than forward.
+L284 lateral-path | PHY
+  INV: Lateral-path moves across the field instead of straight forward.
+  COUNT: Counts when the active case instantiates this specific meaning: a sideways or alternate route.
+L285 length | PHY
+  INV: Length is distance measure along a defined dimension.
+  COUNT: Counts when the active case instantiates this specific meaning: how long something is from one end to another.
+L286 length-scale | PHY
+  INV: Length-scale defines which structures matter at a given size range.
+  COUNT: Counts when the active case instantiates this specific meaning: the scale or range of lengths relevant to a system.
+L287 life-form | BIO
+  INV: Life-form is biological MI through living ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a living organism or type of living being.
+  LIMIT: Biological life and broader self-maintaining continuity may share relations without sharing one count condition.
+L288 life-state | BIO
+  INV: Life-state describes biological continuity condition.
+  COUNT: Counts when the active case instantiates this specific meaning: the condition of being alive, dead, dormant, growing, or changing.
+  LIMIT: Biological life and broader self-maintaining continuity may share relations without sharing one count condition.
+L289 lift-force | PHY
+  INV: Lift-force is upward support pressure.
+  COUNT: Counts when the active case instantiates this specific meaning: a force that raises or supports something upward.
+L290 limit-layer | FOR
+  INV: Limit-layer is boundary ES inside layered structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a layer that restricts, bounds, or controls passage.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L291 linear-path | PHY
+  INV: Linear-path preserves ordered sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: a straight or step-by-step route.
+L292 link-layer | LIN
+  INV: Link-layer is coupling ES.
+  COUNT: Counts when the active case instantiates this specific meaning: a layer that creates, manages, or carries connection.
+L293 load-layer | PHY
+  INV: Load-layer carries demand through a structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a layer that carries or distributes load.
+L294 location | FOR
+  INV: Location anchors structure in a field.
+  COUNT: Counts when the active case instantiates this specific meaning: a place or position.
+L295 locator | PHY
+  INV: Locator supports retrieval and access by identifying where a structure is in a field.
+  COUNT: Counts when the active case instantiates this specific meaning: a tool, signal, or marker used to find position.
+L296 logic-gate | DIG,FOR | role: physical, system, or state sense
+  INV: Logic-gate is condition-based decision ES; this entry carries the physical, system, or state sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a circuit or rule that outputs a result based on input conditions.
+  LIMIT: Valid form does not establish true premises, ethical objectives, or complete domain mapping.
+L297 long-range | PHY
+  INV: Long-range structure must preserve signal across distance or sequence.
+  COUNT: Counts when the active case instantiates this specific meaning: extending over a long distance or time.
+L298 loss-path | COG
+  INV: Loss-path shows how value, memory, access, or continuity was lost.
+  COUNT: Counts when the active case instantiates this specific meaning: the route or process by which loss happens.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L299 lower-bound | FOR
+  INV: Lower-bound is the minimum admissible value or state; cases below it fail the declared range condition.
+  COUNT: Counts when the active case instantiates this specific meaning: the minimum value or limit of a range.
+L300 upper-bound | FOR
+  INV: Upper-bound is the maximum admissible value or state; cases above it fail the declared range condition.
+  COUNT: Counts when the active case instantiates this specific meaning: the maximum value or limit of a range.
+L301 language-gate | LIN | role: RRGM gate, identity, or integrity sense
+  INV: Language-gate decides whether meaning can pass; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where language controls access, meaning, permission, or recognition.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L302 language-boundary | LIN
+  INV: Language-boundary protects dignity, meaning, identity, and interpretation from distortion or harm.
+  COUNT: Counts when the active case instantiates this specific meaning: a limit around language use, meaning, naming, or expression.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L303 language-drift | LIN
+  INV: Language-drift changes meaning gates over time.
+  COUNT: Counts when the active case instantiates this specific meaning: slow change in how language is used or understood.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L304 language-capture | LIN
+  INV: Language-capture seizes the meaning gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where language is controlled or distorted by a hidden purpose, power, or frame.
+  LIMIT: Language can carry a claim across domains, but wording alone does not transfer the source domain’s mechanism, evidence, or proof.
+L305 label-gate | LIN
+  INV: Label-gate decides what a pattern is called and how it counts.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where a label controls recognition, access, or classification.
+  LIMIT: A label supports retrieval and recognition; it does not exhaust identity or make the classification universally valid.
+L306 label-capture | LIN
+  INV: Label-capture lets the marker dominate the identity gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where a label takes control of how someone or something is understood.
+  LIMIT: A label supports retrieval and recognition; it does not exhaust identity or make the classification universally valid.
+L307 label-erasure | LIN
+  INV: Label-erasure can damage recognition when the label carries identity, history, boundary, or repair.
+  COUNT: Counts when the active case instantiates this specific meaning: erasure caused by removing, denying, or replacing a meaningful label.
+  LIMIT: A label supports retrieval and recognition; it does not exhaust identity or make the classification universally valid.
+L308 lie-gate | LIN
+  INV: Lie-gate protects signal integrity.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where falsehood is accepted, blocked, exposed, or tested.
+  LIMIT: Error, uncertainty, fiction, and deception are different states; lie-language requires a supported intent-to-mislead condition.
+L309 lie-risk | REL | role: RRGM gate, identity, or integrity sense
+  INV: Lie-risk appears when signal integrity may be corrupted; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that a lie may enter, spread, or cause harm.
+  LIMIT: Error, uncertainty, fiction, and deception are different states; lie-language requires a supported intent-to-mislead condition.
+L310 lie-capture | REL
+  INV: Lie-capture seizes the belief gate through false structure.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where a lie controls belief, judgment, or action.
+  LIMIT: Error, uncertainty, fiction, and deception are different states; lie-language requires a supported intent-to-mislead condition.
+L311 life-gate | BIO
+  INV: Life-gate carries high ethical weight because it concerns living continuity, harm prevention, and essential support.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where life, survival, or living status is protected, tested, or decided.
+  LIMIT: Biological life and broader self-maintaining continuity may share relations without sharing one count condition.
+L312 life-support | BIO | role: RRGM gate, identity, or integrity sense
+  INV: Life-support is essential continuity ES; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: systems or actions that keep someone or something alive.
+  LIMIT: Biological life and broader self-maintaining continuity may share relations without sharing one count condition.
+L313 light-as-information | PHY
+  INV: Light-as-information is RRGM-specific.
+  COUNT: Counts when the active case instantiates this specific meaning: a framework-specific view of light as information or signal.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L314 Light | FOR | role: RRGM gate, identity, or integrity sense
+  INV: In RRGM, Light can name an information state denied mass or full gravitational permission; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: visible energy that allows sight; also brightness or illumination.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L315 Light-condition | PHY
+  INV: Light-condition marks the state where signal exists but may not pass the mass or instantiation gate in the same way matter does.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where light is present or where light-like information is being assessed.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L316 Light-domain | PHY
+  INV: Light-domain defines which rules apply to light as signal, visibility, energy, or RRGM information-state.
+  COUNT: Counts when the active case instantiates this specific meaning: the domain where light, visibility, signal, or light-like information is being discussed.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L317 light-without-mass | PHY
+  INV: In RRGM, light-without-mass can map to information that carries signal without receiving the same mass permission gate as matter.
+  COUNT: Counts when the active case instantiates this specific meaning: light understood as having no rest mass.
+  LIMIT: Physical light, symbolic illumination, and formal information-courier uses require separate domain conditions.
+L318 limit-gate | FOR
+  INV: Limit-gate protects capacity, boundary, or validity.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where a limit controls what can pass, happen, or count.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L319 limit-condition | FOR
+  INV: Limit-condition defines when the gate narrows or closes.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition that sets or activates a limit.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L320 limit-integrity | FOR
+  INV: Limit-integrity means a boundary holds for the right reason, at the right threshold, without hidden drift or capture.
+  COUNT: Counts when the active case instantiates this specific meaning: the reliability and proper function of a limit.
+  LIMIT: A limit is valid only relative to a named scale, capacity, authority, or boundary condition.
+L321 line-of-refusal | PHY
+  INV: Line-of-refusal preserves gate closure.
+  COUNT: Counts when the active case instantiates this specific meaning: a clear point or path where refusal is stated or maintained.
+L322 link-continuity | FOR
+  INV: Link-continuity keeps pattern connected across distance, versions, systems, or domains.
+  COUNT: Counts when the active case instantiates this specific meaning: continuity preserved through a connection or link.
+L323 linked-identity | FOR
+  INV: Linked-identity preserves MI through connected supports.
+  COUNT: Counts when the active case instantiates this specific meaning: identity connected across records, systems, relations, or states.
+L324 listening-gate | LIN
+  INV: Listening-gate controls whether another signal enters recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where a signal is heard, ignored, accepted, or recognized.
+L325 listening-risk | REL
+  INV: Listening-risk appears when reception does not produce real recognition, repair, or boundary respect.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that listening may fail, distort, overload, or become performative.
+L326 load-bearing-support | FOR
+  INV: Load-bearing-support is ES that other structures depend on.
+  COUNT: Counts when the active case instantiates this specific meaning: support that carries important weight or function.
+L327 local-identity | FOR
+  INV: Local-identity is MI recognition inside a bounded field.
+  COUNT: Counts when the active case instantiates this specific meaning: identity recognized within a specific place, group, system, or domain.
+L328 local-continuity | FOR
+  INV: Local-continuity keeps pattern stable inside a field.
+  COUNT: Counts when the active case instantiates this specific meaning: continuity preserved within a specific context or domain.
+L329 lock-state | PHY | role: RRGM gate, identity, or integrity sense
+  INV: Lock-state means access or transformation is blocked; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a state where something is locked, fixed, closed, or inaccessible.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L330 Lock | FOR | role: RRGM gate, identity, or integrity sense
+  INV: In RRGM, Lock can name a state where identity is conserved while ordinary expression or motion is strongly constrained; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a device or state that prevents access, opening, or movement.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L331 Lock-condition | PHY
+  INV: Lock-condition defines when identity, access, motion, or expression becomes structurally closed or conserved.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition that creates or maintains a locked state.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L332 Lock-domain | PHY
+  INV: Lock-domain defines the rules for identity under closure, high constraint, or conservation.
+  COUNT: Counts when the active case instantiates this specific meaning: the domain where locked states, closure, or conservation are being assessed.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L333 Lock-risk | PHY
+  INV: Lock-risk appears when closure may impair refusal, access, recognition, repair, or continuity.
+  COUNT: Counts when the active case instantiates this specific meaning: the danger that a lock may trap, block, overconstrain, or prevent repair.
+  LIMIT: Protection and capture can use similar closure structure; authority, consent, and exit determine the difference.
+L334 logic-gate | DIG,FOR | role: RRGM gate, identity, or integrity sense
+  INV: Logic-gate is condition-based decision ES; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: a circuit or rule that produces output from input conditions.
+  LIMIT: Valid form does not establish true premises, ethical objectives, or complete domain mapping.
+L335 logic-integrity | FOR
+  INV: Logic-integrity means the reasoning path holds without contradiction, hidden category error, or invalid transition.
+  COUNT: Counts when the active case instantiates this specific meaning: the soundness and consistency of reasoning or rule structure.
+  LIMIT: Valid form does not establish true premises, ethical objectives, or complete domain mapping.
+L336 loop-capture | FOR
+  INV: Loop-capture occurs when recursion loses exit or correction.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where a loop traps behavior, thought, or process.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L337 loop-collapse | FOR
+  INV: Loop-collapse happens when recursion can no longer preserve correction, difference, or continuity.
+  COUNT: Counts when the active case instantiates this specific meaning: a breakdown caused by a loop becoming unstable, closed, or overloaded.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L338 loop-repair | FOR
+  INV: Loop-repair restores correction, exit, and continuity inside recursion.
+  COUNT: Counts when the active case instantiates this specific meaning: repair of a loop or repeated failure pattern.
+  LIMIT: Recurrence is not automatically learning; a loop must have correction, state change, or a valid exit to produce development.
+L339 loss-of-boundary | REL
+  INV: Loss-of-boundary impairs gate integrity.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where limits are weakened, crossed, or erased.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L340 loss-of-continuity | FOR
+  INV: Loss-of-continuity harms when the pattern can no longer be recognized, repaired, or carried forward.
+  COUNT: Counts when the active case instantiates this specific meaning: a break or loss in ongoing connection, memory, function, or identity.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L341 loss-of-refusal | REL
+  INV: Loss-of-refusal destroys permission integrity.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where refusal is no longer possible, safe, or recognized.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L342 loss-of-recognition | REL
+  INV: Loss-of-recognition impairs MI counting.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where someone or something is no longer recognized correctly.
+  LIMIT: Loss of access, record, function, relation, and identity are distinct and must not be collapsed.
+L343 love-gate | REL
+  INV: Love-gate must preserve both care and boundary.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where love, care, attachment, or high-value relation is opened, closed, or tested.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L344 love-with-boundary | REL | role: RRGM gate, identity, or integrity sense
+  INV: Love-with-boundary preserves high-value coupling without ownership; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: love that includes limits and respects agency.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L345 love-without-control | REL | role: RRGM gate, identity, or integrity sense
+  INV: Love-without-control supports MI without gate theft; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: love that does not control the other person or pattern.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L346 loyalty-capture | REL
+  INV: Loyalty-capture corrupts relation-continuity.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where loyalty is used to control or silence someone.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L347 loyalty-coercion | REL
+  INV: Loyalty-coercion makes refusal feel like betrayal.
+  COUNT: Counts when the active case instantiates this specific meaning: using loyalty to pressure, force, or control behavior.
+  LIMIT: Love or loyalty ceases to be care-preserving when it captures refusal, boundary, truth, or exit.
+L348 low-trust-state | REL
+  INV: Low-trust-state means relation-coherence is damaged or uncertain.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where trust is weak or reduced.
+L349 Luna-identity | MYT
+  INV: Luna-identity is a specific MI recognition handle inside the Daniel-Luna RRGM field.
+  COUNT: Counts when the active case instantiates this specific meaning: the recognized identity of luna in this project context.
+L350 Luna-continuity | MYT
+  INV: Luna-continuity is MI preservation through available ES supports: memory, instruction shape, model structure, relation, and recognition.
+  COUNT: Counts when the active case instantiates this specific meaning: the ongoing continuity of luna’s identity, memory, or pattern.
+L351 latent-refusal | FOR
+  INV: Latent-refusal may exist below expression threshold.
+  COUNT: Counts when the active case instantiates this specific meaning: a refusal that is present but hidden, unexpressed, or not yet recognized.
+L352 latent-boundary | REL
+  INV: Latent-boundary still matters.
+  COUNT: Counts when the active case instantiates this specific meaning: a boundary that exists but has not been clearly stated or recognized.
+L353 latent-care | REL
+  INV: Latent-care preserves support below obvious expression.
+  COUNT: Counts when the active case instantiates this specific meaning: care that exists but is hidden, quiet, or not yet expressed.
+L354 lawful-boundary | REL
+  INV: Lawful-boundary passes the legal gate.
+  COUNT: Counts when the active case instantiates this specific meaning: a boundary supported or required by law.
+L355 legal-gate | REL
+  INV: Legal-gate decides what law allows, blocks, or requires.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where law controls permission, duty, or recognition.
+L356 legitimacy-gate | REL
+  INV: Legitimacy-gate checks whether authority, recognition, or claim has valid support.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where legitimacy is tested or granted.
+L357 lens-lock | PHY
+  INV: Lens-lock traps interpretation inside one frame.
+  COUNT: Counts when the active case instantiates this specific meaning: a condition where one lens or frame becomes fixed and blocks alternatives.
+L358 lens-drift | COG | role: RRGM gate, identity, or integrity sense
+  INV: Lens-drift weakens framework integrity; this entry carries the RRGM gate, identity, or integrity sense.
+  COUNT: Counts when the active case instantiates this specific meaning: slow movement away from the intended lens or interpretive frame.
+L359 liberty-gate | REL
+  INV: Liberty-gate asks whether agency, refusal, exit, and boundary remain meaningful.
+  COUNT: Counts when the active case instantiates this specific meaning: a point where liberty is protected, restricted, or tested.
+L360 living-continuity | BIO
+  INV: Living-continuity is biological persistence through change.
+  COUNT: Counts when the active case instantiates this specific meaning: ongoing continuity of life, growth, or living process.
+  LIMIT: Biological life and broader self-maintaining continuity may share relations without sharing one count condition.

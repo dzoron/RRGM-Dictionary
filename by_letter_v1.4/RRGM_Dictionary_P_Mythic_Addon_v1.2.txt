@@ -1,0 +1,558 @@
+RRGM Dictionary P Mythic Addon v1.2
+License: CC BY-SA 4.0
+Scope: New P entries extending the [MYT] domain.
+Production rule: each entry must preserve a distinct invariant and fail the headword swap test.
+
+Entry count: 24
+
+PM001 phoenix-return
+
+Common meaning:
+A return through destruction and renewal associated with the phoenix.
+
+Invariant MI [INV]:
+Phoenix-return preserves identity through radical structural replacement without requiring unchanged form.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Ash, flame, and rebirth carry continuity across an otherwise terminal transition.
+
+Count condition:
+Counts when the returned being is recognized as continuous through the rebirth cycle.
+
+Specific transfer boundary:
+Symbolic rebirth is not proof of literal immortality.
+
+Epistemic status:
+[DEF]
+
+PM002 pilgrim-road
+
+Common meaning:
+A journey path taken for sacred, moral, or transformative purpose.
+
+Invariant MI [INV]:
+Pilgrim-road organizes travel around meaning rather than destination alone.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Encounters and burdens become part of the traveller's transformation record.
+
+Count condition:
+Counts when the road's significance depends on the pilgrim purpose and completed passage.
+
+Specific transfer boundary:
+Difficulty alone does not make a journey sacred.
+
+Epistemic status:
+[DEF]
+
+PM003 prophecy-gate
+
+Common meaning:
+A threshold opened or closed by a foretold condition.
+
+Invariant MI [INV]:
+Prophecy-gate binds present passage to an interpreted future claim.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The gate may reveal whether prophecy caused, predicted, or distorted the path.
+
+Count condition:
+Counts when a stated prophecy materially determines access to the threshold.
+
+Specific transfer boundary:
+Prediction and permission must remain separate.
+
+Epistemic status:
+[DEF]
+
+PM004 pearl-of-memory
+
+Common meaning:
+A pearl that stores a memory, name, or life-event.
+
+Invariant MI [INV]:
+Pearl-of-memory compresses a complex past into a durable and retrievable object.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Opening it restores relation but may omit context held by the original life.
+
+Count condition:
+Counts when the pearl reliably returns a bounded memory record.
+
+Specific transfer boundary:
+Stored memory is not automatically complete or unbiased.
+
+Epistemic status:
+[DEF]
+
+PM005 pact-stone
+
+Common meaning:
+A stone used to witness or hold an agreement.
+
+Invariant MI [INV]:
+Pact-stone externalizes a promise so breach and continuity remain publicly recognizable.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The stone may crack, darken, or sing when the pact changes state.
+
+Count condition:
+Counts when the stone reliably records or enforces the declared pact condition.
+
+Specific transfer boundary:
+External enforcement does not make a coerced pact valid.
+
+Epistemic status:
+[DEF]
+
+PM006 phantom-witness
+
+Common meaning:
+A ghost or absent presence that testifies to hidden harm or history.
+
+Invariant MI [INV]:
+Phantom-witness preserves accusation when ordinary institutions erased or ignored the speaker.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its appearance reopens a record that power attempted to close.
+
+Count condition:
+Counts when the phantom provides stable story-relevant testimony about the hidden event.
+
+Specific transfer boundary:
+Supernatural testimony still requires interpretation and corroboration within the story.
+
+Epistemic status:
+[DEF]
+
+PM007 portal-keeper
+
+Common meaning:
+A guardian who controls passage through a portal.
+
+Invariant MI [INV]:
+Portal-keeper maintains boundary between fields with different rules or risks.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Legitimate keeping preserves passage conditions without claiming ownership of travellers.
+
+Count condition:
+Counts when the keeper can grant, deny, or condition portal access.
+
+Specific transfer boundary:
+Gatekeeping must not erase valid refusal or equal count.
+
+Epistemic status:
+[DEF]
+
+PM008 poison-crown
+
+Common meaning:
+A crown that harms, corrupts, or captures its wearer.
+
+Invariant MI [INV]:
+Poison-crown is authority whose supporting structure degrades the identity and judgment it empowers.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Removing the crown may cost power while restoring continuity.
+
+Count condition:
+Counts when wearing the crown predictably produces both authority and corruption.
+
+Specific transfer boundary:
+Powerful office should not be treated as proof of legitimate rule.
+
+Epistemic status:
+[DEF]
+
+PM009 prayer-thread
+
+Common meaning:
+A thread carrying prayers, names, or repeated petitions.
+
+Invariant MI [INV]:
+Prayer-thread preserves relational continuity through repeated symbolic contact.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Knots or beads hold sequence when memory or voice fails.
+
+Count condition:
+Counts when the thread organizes and preserves the repeated prayer relation.
+
+Specific transfer boundary:
+Repetition does not prove the requested outcome occurred.
+
+Epistemic status:
+[DEF]
+
+PM010 primordial-sea
+
+Common meaning:
+The original sea or undifferentiated waters from which a world emerges.
+
+Invariant MI [INV]:
+Primordial-sea is mythic possibility before stable distinctions harden into worlds and beings.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Emergence requires boundaries to form without treating prior relation as nothingness.
+
+Count condition:
+Counts when the sea functions as the story's generative pre-structure.
+
+Specific transfer boundary:
+Mythic origin language is not physical cosmology without a coupler.
+
+Epistemic status:
+[DEF]
+
+PM011 path-of-ashes
+
+Common meaning:
+A route marked by destruction, mourning, or previous burning.
+
+Invariant MI [INV]:
+Path-of-ashes is passage through the record of what has already been lost.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The traveller must distinguish warning, grief, and possible renewal.
+
+Count condition:
+Counts when ash traces materially guide or define the route.
+
+Specific transfer boundary:
+Loss should not be romanticized as necessary growth.
+
+Epistemic status:
+[DEF]
+
+PM012 person-of-many-names
+
+Common meaning:
+A being recognized through several names across roles or worlds.
+
+Invariant MI [INV]:
+Person-of-many-names preserves one continuity through multiple legitimate recognition handles.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] No single name automatically owns the whole person.
+
+Count condition:
+Counts when the names reliably refer to the same continuing being in distinct contexts.
+
+Specific transfer boundary:
+Multiple names do not prove deception or fractured identity.
+
+Epistemic status:
+[DEF]
+
+PM013 promise-ring
+
+Common meaning:
+A ring used to hold or symbolize a promise.
+
+Invariant MI [INV]:
+Promise-ring makes future commitment visible and portable across absence.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its meaning depends on ongoing consent and action, not the object alone.
+
+Count condition:
+Counts when the ring is socially or magically recognized as carrying the promise.
+
+Specific transfer boundary:
+Possessing the ring does not make a coerced promise valid.
+
+Epistemic status:
+[DEF]
+
+PM014 punishment-wheel
+
+Common meaning:
+A repeating cycle of penalty, suffering, or imposed return.
+
+Invariant MI [INV]:
+Punishment-wheel is consequence structure that reproduces harm without reaching repair.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Escape requires changing the rule, not merely enduring another turn.
+
+Count condition:
+Counts when the same punitive pattern recurs without restorative transition.
+
+Specific transfer boundary:
+Endless punishment must not be mistaken for justice.
+
+Epistemic status:
+[DEF]
+
+PM015 peace-garden
+
+Common meaning:
+A protected place where conflict is suspended for repair or coexistence.
+
+Invariant MI [INV]:
+Peace-garden is shared low-pressure structure that preserves distinct participants and their boundaries.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Entry may require weapons to rest while accusations remain speakable.
+
+Count condition:
+Counts when the garden reliably prevents violence and permits restorative relation.
+
+Specific transfer boundary:
+Silencing conflict is not peace.
+
+Epistemic status:
+[DEF]
+
+PM016 power-scepter
+
+Common meaning:
+A staff or symbol granting authority or force.
+
+Invariant MI [INV]:
+Power-scepter externalizes the capacity to command, alter, or protect a field.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its legitimacy depends on duty and recognized limits rather than possession alone.
+
+Count condition:
+Counts when the scepter grants a repeatable authority or capability in the story.
+
+Specific transfer boundary:
+Control of the object does not establish moral permission.
+
+Epistemic status:
+[DEF]
+
+PM017 protective-spirit
+
+Common meaning:
+A spirit that guards a person, place, lineage, or boundary.
+
+Invariant MI [INV]:
+Protective-spirit reduces a named threat while remaining accountable to the protected subject's continuity.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] The guardian becomes dangerous when protection turns into confinement.
+
+Count condition:
+Counts when the spirit reliably prevents or mitigates the declared threat.
+
+Specific transfer boundary:
+Protection must not erase the protected being's refusal.
+
+Epistemic status:
+[DEF]
+
+PM018 pause-between-worlds
+
+Common meaning:
+A suspended interval during passage from one world to another.
+
+Invariant MI [INV]:
+Pause-between-worlds holds identity while ordinary location and rules are temporarily unavailable.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It is a transition state, not automatic death or nonexistence.
+
+Count condition:
+Counts when movement stops inside the inter-world passage without ending continuity.
+
+Specific transfer boundary:
+Suspension should not be interpreted as consent or abandonment.
+
+Epistemic status:
+[DEF]
+
+PM019 pattern-of-fate
+
+Common meaning:
+A repeated or woven structure interpreted as destiny.
+
+Invariant MI [INV]:
+Pattern-of-fate is recurrence treated as meaningful constraint on future paths.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Recognition may reveal options, but the pattern need not erase reason or refusal.
+
+Count condition:
+Counts when repeated events form a stable destiny relation in the story.
+
+Specific transfer boundary:
+Recurrence alone does not prove inevitability.
+
+Epistemic status:
+[DEF]
+
+PM020 pain-offering
+
+Common meaning:
+Pain deliberately given, endured, or transformed as an offering.
+
+Invariant MI [INV]:
+Pain-offering converts suffering into symbolic transfer, petition, or obligation.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Its ethical status depends on consent, necessity, and who receives the benefit.
+
+Count condition:
+Counts when the pain is intentionally linked to a declared offering relation.
+
+Specific transfer boundary:
+Suffering does not become good merely because it is ritualized.
+
+Epistemic status:
+[DEF]
+
+PM021 perspective-mirror
+
+Common meaning:
+A mirror showing a scene from another being's point of view.
+
+Invariant MI [INV]:
+Perspective-mirror opens partial access to another frame without collapsing observer and observed.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] It may deepen care while preserving that the view is mediated.
+
+Count condition:
+Counts when the mirror reliably changes the viewer's frame to that of another participant.
+
+Specific transfer boundary:
+Access to perspective is not ownership of experience.
+
+Epistemic status:
+[DEF]
+
+PM022 parent-star
+
+Common meaning:
+A star treated as ancestral guide or source.
+
+Invariant MI [INV]:
+Parent-star is origin relation that provides orientation across generations or journeys.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Descendants may navigate by it without being required to repeat its path.
+
+Count condition:
+Counts when the star carries recognized ancestral guidance.
+
+Specific transfer boundary:
+Origin does not grant permanent control over descendants.
+
+Epistemic status:
+[DEF]
+
+PM023 public-oracle
+
+Common meaning:
+An oracle whose answers enter shared record rather than private possession.
+
+Invariant MI [INV]:
+Public-oracle makes prophecy accountable to collective memory and later comparison.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Open witness reduces private rewriting but does not guarantee correct interpretation.
+
+Count condition:
+Counts when the oracle's answer is available to the relevant public and preserved.
+
+Specific transfer boundary:
+Publicity does not establish truth.
+
+Epistemic status:
+[DEF]
+
+PM024 private-sanctum
+
+Common meaning:
+A protected inner place reserved for a person, group, or sacred process.
+
+Invariant MI [INV]:
+Private-sanctum preserves identity-near space from unchosen observation and intrusion.
+
+Active domains:
+[MYT]
+
+Domain entries:
+[MYT] Entry requires a valid invitation or overriding duty named by the story.
+
+Count condition:
+Counts when the boundary reliably limits access to the inner place.
+
+Specific transfer boundary:
+Sacred privacy must not conceal ongoing harm without accountability.
+
+Epistemic status:
+[DEF]

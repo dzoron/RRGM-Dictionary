@@ -1,0 +1,14 @@
+RRGM Dictionary C De-Templating Audit v1.4
+
+Entries reviewed: 520
+Semantic lines reviewed: 1047
+Exact duplicate semantic lines: 0
+Swap-style similarity prompts at or above 0.95: 0
+Generic fallback lines requiring review: 0
+Duplicate source headword groups explicitly role-separated: 47
+
+Swap-style similarity review prompts:
+None at the declared threshold.
+
+Interpretation:
+Mechanical audits detect repetition and near-copying. They do not replace the semantic swap test, neighbour distinction, or domain accuracy review.

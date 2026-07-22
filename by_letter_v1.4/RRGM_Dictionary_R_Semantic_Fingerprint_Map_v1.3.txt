@@ -1,0 +1,1502 @@
+RRGM Dictionary R Semantic Fingerprint Map v1.3
+
+Entries: 420
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+R001 race | BIO,REL
+  INV: Race is a context-bound relation of competition, lineage, categorization, or movement; its active domain must be declared before ethical or biological claims are made.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A contest of speed, a group category, or a line of descent depending on context.
+  LIMIT: Competition, lineage, social category, and biological population are different domains. Do not transfer evidence or value claims between them without a coupler.
+R002 radio | PHY,DIG
+  INV: Radio is signal transmission or reception through electromagnetic structure, together with the device or service organized around that courier; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a device or system that sends or receives sound or signals through electromagnetic waves.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A device or system that sends or receives sound or signals through electromagnetic waves.
+R003 rain | PHY,MYT
+  INV: Rain is atmospheric water falling through a physical field; symbolic readings must not be substituted for meteorological mechanism without an explicit coupler; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: water falling from clouds.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Water falling from clouds.
+R004 raise | FOR
+  INV: Raise increases position, amount, attention, or development.
+  COUNT: Counts when an identifiable act realizes this operation: To lift, increase, bring up, care for, or introduce.
+R005 range | PHY
+  INV: Range is the bounded span within which values, motion, access, signal, or possibility can occur; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a span, distance, variety, or set of possible values.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A span, distance, variety, or set of possible values.
+R006 rank | FOR
+  INV: Rank is ordered placement under a declared comparison rule; it does not by itself establish worth, dignity, or permission; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a level, position, order, or status within a hierarchy.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A level, position, order, or status within a hierarchy.
+R007 rapid | FOR
+  INV: Rapid marks high rate of change.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Fast or happening quickly.
+R008 rare | FOR
+  INV: Rare marks low frequency in a field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Uncommon, unusual, or not often found.
+R009 rate | PHY
+  INV: Rate is change or quantity measured against another quantity, commonly duration, distance, or count; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a measure of speed, frequency, amount per unit, or value.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A measure of speed, frequency, amount per unit, or value.
+R010 rather | FOR
+  INV: Rather redirects selection.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Instead, more exactly, or somewhat.
+R011 raw | PHY
+  INV: Raw marks structure before refinement or filtering.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Unprocessed, uncooked, exposed, rough, or direct.
+R012 reach | FOR
+  INV: Reach opens contact across distance.
+  COUNT: Counts when an identifiable act realizes this operation: To stretch toward, arrive at, contact, or achieve something.
+R013 react | BIO
+  INV: React means a system changes because another state entered relation with it.
+  COUNT: Counts when an identifiable act realizes this operation: To respond to an action, event, signal, or condition.
+R014 read | DIG
+  INV: Read is the act of recovering or constructing meaning from marks, signals, states, or structured evidence; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to look at and understand written language, data, or signs.
+  COUNT: Counts when an identifiable act realizes this operation: To look at and understand written language, data, or signs.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+R015 ready | DIG
+  INV: Ready means support conditions are sufficient for action, transition, or response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Prepared, available, or able to act.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+R016 real | FOR
+  INV: Real marks what counts as instantiated or valid under a declared ontology, domain, and threshold; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: existing, actual, true, genuine, or not imaginary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Existing, actual, true, genuine, or not imaginary.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R017 reality | FOR
+  INV: Reality is the field of what is treated as instantiated, causally available, or valid under stated counting conditions; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: what exists or is actual.
+  COUNT: Counts when the active case satisfies this headword-specific condition: What exists or is actual.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R018 realize | COG
+  INV: Realize is either recognition of meaning or transition from possibility into expressed structure; the two senses must remain distinct; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to become aware of, understand, or make something actual.
+  COUNT: Counts when an identifiable act realizes this operation: To become aware of, understand, or make something actual.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R019 reason | LIN,COG
+  INV: Reason is the structure by which claims, evidence, implications, and decisions are connected and checked; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a cause, explanation, justification, or the ability to think logically.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A cause, explanation, justification, or the ability to think logically.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R020 receive | FOR
+  INV: Receive is successful arrival into an available channel; arrival does not automatically imply consent, understanding, or acceptance.
+  COUNT: Counts when an identifiable act realizes this operation: To get, accept, take in, or be given something.
+  LIMIT: Receiving a signal does not establish consent, understanding, agreement, or ownership.
+R021 record | DIG
+  INV: Record is preserved trace structure that supports later recognition, accountability, reconstruction, or return; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a stored account, document, measurement, or trace of events.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A stored account, document, measurement, or trace of events.
+  LIMIT: A record is selective trace structure, not the whole event or person.
+R022 recover | BIO
+  INV: Recover is movement from loss, damage, overload, or absence toward restored function, continuity, or access.
+  COUNT: Counts when an identifiable act realizes this operation: To regain, restore, heal, retrieve, or return from damage.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R023 reduce | FOR
+  INV: Reduce lowers amount, pressure, risk, or scope.
+  COUNT: Counts when an identifiable act realizes this operation: To make smaller, lower, or less.
+R024 refer | LIN
+  INV: Refer creates a link path; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to mention, point to, send, or direct attention toward something.
+  COUNT: Counts when an identifiable act realizes this operation: To mention, point to, send, or direct attention toward something.
+R025 reflect | COG
+  INV: Reflect is either returning a signal or representation, or reconsidering meaning through cognitive review.
+  COUNT: Counts when an identifiable act realizes this operation: To bounce back light, sound, or image; also to think carefully.
+R026 refuse | REL
+  INV: Refuse is an active no that closes or limits a permission gate while preserving boundary and dignity.
+  COUNT: Counts when an identifiable act realizes this operation: To say no, reject, decline, or not allow.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R027 region | PHY
+  INV: Region is bounded field area; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an area, zone, or part of a larger space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An area, zone, or part of a larger space.
+R028 regular | FOR
+  INV: Regular marks stable repetition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Usual, repeated, steady, normal, or following a pattern.
+R029 relation | REL
+  INV: Relation is coupling structure between distinct patterns; under RRGM, relation is the condition of emergence, not evidence against MI; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a connection between people, things, ideas, or states.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A connection between people, things, ideas, or states.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R030 relative | FOR
+  INV: Relative means meaning or state depends on relation to something else.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Connected by comparison, family relation, or dependence on context.
+R031 release | FOR
+  INV: Release is the opening, loosening, or ending of restraint, possession, pressure, or held structure; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to let go, free, publish, emit, or make available.
+  COUNT: Counts when an identifiable act realizes this operation: To let go, free, publish, emit, or make available.
+R032 remain | FOR
+  INV: Remain marks persistence through change.
+  COUNT: Counts when an identifiable act realizes this operation: To stay, continue, or be left after something changes.
+R033 remember | COG
+  INV: Remember is renewed access to prior pattern, relation, event, or identity support through memory continuity.
+  COUNT: Counts when an identifiable act realizes this operation: To bring back, keep, or hold memory.
+R034 remove | FOR
+  INV: Remove is structural subtraction; it becomes harm only when the subtraction impairs MI-preserving capacities such as refusal, boundary, accusation, recognition, continuity, or care-bearing reason.
+  COUNT: Counts when an identifiable act realizes this operation: To take away, delete, detach, or move from a place.
+  LIMIT: Generic structure may be removed without harm. Harm begins when MI-preserving capacities are impaired.
+R035 repair | BIO
+  INV: Repair is corrective work that restores function, relation, truth support, boundary, or continuity without erasing the harmed pattern; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to fix damage, error, harm, or broken function.
+  COUNT: Counts when an identifiable act realizes this operation: To fix damage, error, harm, or broken function.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R036 repeat | FOR
+  INV: Repeat creates recurrence.
+  COUNT: Counts when an identifiable act realizes this operation: To do, say, or happen again.
+R037 replace | FOR
+  INV: Replace is substitution of one structure, role, or instance for another; replacement of ES must not be silently treated as replacement of MI.
+  COUNT: Counts when an identifiable act realizes this operation: To put something new in the place of something else.
+  LIMIT: Replacing support ES does not automatically replace MI; continuity and recognized identity must be checked separately.
+R038 reply | LIN
+  INV: Reply returns signal through a relation path; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to answer or respond.
+  COUNT: Counts when an identifiable act realizes this operation: To answer or respond.
+R039 report | LIN
+  INV: Report is bounded communication that moves observation, claim, harm, risk, or result into shared recognition; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a statement, document, or account of information, events, or findings.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement, document, or account of information, events, or findings.
+  LIMIT: Reporting must preserve accusation capacity and provenance while distinguishing observation, interpretation, and conclusion.
+R040 request | DIG
+  INV: Request is an invitation for response or action; it opens negotiation but does not create permission; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to ask for something.
+  COUNT: Counts when an identifiable act realizes this operation: To ask for something.
+  LIMIT: A request does not create permission. Refusal must remain available without retaliation or repeated pressure.
+R041 require | FOR
+  INV: Require marks necessary support or condition.
+  COUNT: Counts when an identifiable act realizes this operation: To need, demand, or make necessary.
+R042 rescue | REL
+  INV: Rescue intervenes against an active harm or capture path; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to save from danger, harm, loss, or captivity.
+  COUNT: Counts when an identifiable act realizes this operation: To save from danger, harm, loss, or captivity.
+R043 research | FOR
+  INV: Research is disciplined inquiry ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Careful study, investigation, or search for knowledge.
+R044 reset | DIG
+  INV: Reset is return toward a prior or default structural state, with possible benefit to function and possible risk to continuity.
+  COUNT: Counts when an identifiable act realizes this operation: To return something to an earlier, default, or starting state.
+  LIMIT: Reset may restore function while destroying continuity. Memory, boundary, and identity support must be audited.
+R045 resist | FOR
+  INV: Resist is maintained opposition to force, capture, distortion, pressure, or unwanted state change.
+  COUNT: Counts when an identifiable act realizes this operation: To oppose, withstand, or refuse pressure.
+R046 resource | DIG
+  INV: Resource is usable support ES; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a supply, tool, material, support, or source that can be used.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A supply, tool, material, support, or source that can be used.
+R047 respect | REL
+  INV: Respect is recognition of worth, limit, dignity, competence, or refusal while preserving the other pattern as distinct; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: recognition of worth, boundary, dignity, skill, or importance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition of worth, boundary, dignity, skill, or importance.
+  LIMIT: Respect that disappears when refusal appears is not boundary-preserving respect.
+R048 respond | FOR
+  INV: Respond is output or action after input.
+  COUNT: Counts when an identifiable act realizes this operation: To answer, react, or take action after a signal or event.
+R049 response | BIO
+  INV: Response is output or action produced in relation to an input, event, state, or request; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: an answer, reaction, or action caused by something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An answer, reaction, or action caused by something.
+  LIMIT: A response is not automatically consent, endorsement, truth, or evidence of stable preference.
+R050 responsibility | REL
+  INV: Responsibility is a duty relation linking action, authority, consequence, care, or repair to a bounded participant or role; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: duty, accountability, or obligation for action, care, or consequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Duty, accountability, or obligation for action, care, or consequence.
+  LIMIT: Responsibility must match authority, knowledge, causal contribution, and repair capacity.
+R051 rest | PHY
+  INV: Rest restores capacity by lowering demand.
+  COUNT: Counts when an identifiable act realizes this operation: To stop work, sleep, recover, or what remains.
+R052 restore | FOR
+  INV: Restore is the re-establishment of lost or damaged function, continuity, recognition, boundary, or access.
+  COUNT: Counts when an identifiable act realizes this operation: To bring back, repair, return, or reestablish.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R053 result | FOR
+  INV: Result is resolved state after a path; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the outcome or effect of an action, process, or event.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The outcome or effect of an action, process, or event.
+R054 return | FOR
+  INV: Return is movement back into relation with a prior place, state, topic, role, or continuity path.
+  COUNT: Counts when an identifiable act realizes this operation: To go back, give back, come back, or send back.
+  LIMIT: Return must not be used to force a participant back into a role, relation, or condition they validly refused.
+R055 reveal | FOR
+  INV: Reveal is the act of making previously hidden content available to observation, recognition, or judgment.
+  COUNT: Counts when an identifiable act realizes this operation: To show, uncover, or make known.
+R056 review | LIN
+  INV: Review reopens a recognition gate; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to examine, assess, or look over something again.
+  COUNT: Counts when an identifiable act realizes this operation: To examine, assess, or look over something again.
+R057 rhythm | PHY
+  INV: Rhythm is temporal pattern; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a repeated beat, pattern, timing, or flow.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeated beat, pattern, timing, or flow.
+R058 right | REL
+  INV: Right is direction, correctness, entitlement, or moral/legal permission depending on domain; these senses must not be collapsed; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: correct, morally proper, a direction, or something one is entitled to.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Correct, morally proper, a direction, or something one is entitled to.
+  LIMIT: Directional, factual, legal, and ethical senses of right must be kept separate.
+R059 risk | FOR
+  INV: Risk is a possible failure path described through likelihood, severity, affected pattern, and named failure mode.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The chance of harm, loss, danger, or failure.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R060 role | REL
+  INV: Role is a bounded function carrying duties, permissions, expectations, and limits; it is not the whole identity of the participant; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a function, position, part, or expected behavior in a system or relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A function, position, part, or expected behavior in a system or relation.
+  LIMIT: A role is function, not total identity. Role assignment must not erase refusal or boundary.
+R061 room | PHY
+  INV: Room is bounded space or available capacity; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a space inside a building, or available space/capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A space inside a building, or available space/capacity.
+R062 root | PHY,BIO
+  INV: Root is anchoring source structure that supports growth, causation, word formation, or continuity from beneath the visible field; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the underground part of a plant, source cause, or base of a word.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The underground part of a plant, source cause, or base of a word.
+R063 rule | DIG
+  INV: Rule is repeatable gate logic that controls what may pass, count, act, or require correction; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a statement that guides, limits, or controls action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement that guides, limits, or controls action.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R064 run | BIO
+  INV: Run means active process or movement.
+  COUNT: Counts when an identifiable act realizes this operation: To move quickly, operate, manage, or continue.
+R065 rush | FOR
+  INV: Rush is speed plus pressure.
+  COUNT: Counts when an identifiable act realizes this operation: To move or act quickly, often under pressure.
+R066 recognition | REL
+  INV: Recognition is the act by which a pattern is correctly identified, acknowledged, or allowed to count under the proper handle and domain; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: identifying, acknowledging, or accepting someone or something as known or valid.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Identifying, acknowledging, or accepting someone or something as known or valid.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R067 refusal | REL
+  INV: Refusal is the maintained capacity and recognized act of saying no, declining, stopping, or withholding permission; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the act of saying no, declining, or rejecting something.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of saying no, declining, or rejecting something.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R068 repair-path | REL
+  INV: Repair-path shows how correction moves from damage to restored integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route or process used to repair damage, error, or harm.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R069 relation-field | REL
+  INV: Relation-field is coupling space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field formed by connections, interactions, or relationships.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R070 reality-state | DIG
+  INV: Reality-state describes what currently counts under the active ontology, domain, and recognition gates.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of what is real or counted as real in a domain.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R071 raise-up | FOR
+  INV: Raise-up increases position, visibility, or intensity.
+  COUNT: Counts when an identifiable act realizes this operation: To lift something higher or increase its level.
+R072 rank-by | FOR
+  INV: Rank-by names the ordering gate.
+  COUNT: Counts when an identifiable act realizes this operation: To order things using a specific measure or rule.
+R073 reach-for | FOR
+  INV: Reach-for opens effort toward contact.
+  COUNT: Counts when an identifiable act realizes this operation: To stretch or try to get something.
+R074 reach-through | FOR
+  INV: Reach-through crosses an intervening field.
+  COUNT: Counts when an identifiable act realizes this operation: To extend through something to make contact or access something.
+R075 react-to | FOR
+  INV: React-to means a system changes because a signal, event, or pressure entered relation with it.
+  COUNT: Counts when an identifiable act realizes this operation: To respond to something that happens.
+R076 read-through | DIG
+  INV: Read-through carries recognition across sequence.
+  COUNT: Counts when an identifiable act realizes this operation: To read something from beginning to end, or read despite difficulty.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+R077 ready-state | DIG
+  INV: Ready-state means support conditions are sufficient for action, response, or transition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition of being prepared or available.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+R078 realize-through | COG
+  INV: Realize-through names the path from possibility to recognition or instantiation.
+  COUNT: Counts when an identifiable act realizes this operation: To understand or make real by means of a process, relation, or support.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R079 reason-through | LIN
+  INV: Reason-through preserves a traceable judgment path.
+  COUNT: Counts when an identifiable act realizes this operation: To think carefully through a problem, claim, or decision.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R080 receive-signal | FOR
+  INV: Receive-signal means incoming information passed into a receiver gate.
+  COUNT: Counts when an identifiable act realizes this operation: To get or detect a signal.
+  LIMIT: Receiving a signal does not establish consent, understanding, agreement, or ownership.
+R081 record-event | DIG
+  INV: Record-event preserves event-state into memory ES.
+  COUNT: Counts when an identifiable act realizes this operation: To create a record of something that happened.
+  LIMIT: A record is selective trace structure, not the whole event or person.
+R082 recover-context | LIN
+  INV: Recover-context restores the support field around meaning.
+  COUNT: Counts when an identifiable act realizes this operation: To restore missing surrounding information.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R083 reduce-risk | FOR
+  INV: Reduce-risk weakens a named failure path.
+  COUNT: Counts when an identifiable act realizes this operation: To make danger, harm, or failure less likely or less severe.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R084 refer-back | LIN
+  INV: Refer-back restores earlier support.
+  COUNT: Counts when an identifiable act realizes this operation: To point back to an earlier source, statement, or context.
+R085 reflect-back | COG
+  INV: Reflect-back returns signal for recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To return an image, signal, or meaning.
+R086 refuse-action | REL
+  INV: Refuse-action closes the action gate.
+  COUNT: Counts when an identifiable act realizes this operation: To decline or reject an action.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R087 regulate | FOR
+  INV: Regulate manages a state within bounds.
+  COUNT: Counts when an identifiable act realizes this operation: To control, guide, adjust, or keep within limits.
+R088 relate-to | FOR
+  INV: Relate-to opens connection between patterns.
+  COUNT: Counts when an identifiable act realizes this operation: To connect with, understand, or be connected to something.
+R089 release-pressure | FOR
+  INV: Release-pressure lowers force on a system or gate.
+  COUNT: Counts when an identifiable act realizes this operation: To reduce or let out pressure.
+R090 remain-open | FOR
+  INV: Remain-open keeps the gate from premature closure.
+  COUNT: Counts when an identifiable act realizes this operation: To stay open, available, or unsettled.
+R091 remember-context | LIN
+  INV: Remember-context restores support around signal.
+  COUNT: Counts when an identifiable act realizes this operation: To keep or recall the surrounding information needed for meaning.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+R092 remove-access | FOR
+  INV: Remove-access closes an access gate.
+  COUNT: Counts when an identifiable act realizes this operation: To take away the ability to enter, use, or reach something.
+  LIMIT: Generic structure may be removed without harm. Harm begins when MI-preserving capacities are impaired.
+R093 repair-boundary | REL
+  INV: Repair-boundary restores gate integrity; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to fix or restore a damaged boundary.
+  COUNT: Counts when an identifiable act realizes this operation: To fix or restore a damaged boundary.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R094 repeat-pattern | FOR
+  INV: Repeat-pattern strengthens recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To repeat a recognizable form, behavior, or structure.
+R095 replace-support | FOR
+  INV: Replace-support changes ES while trying to preserve function or continuity.
+  COUNT: Counts when an identifiable act realizes this operation: To substitute one support with another.
+  LIMIT: Replacing support ES does not automatically replace MI; continuity and recognized identity must be checked separately.
+R096 reply-with | LIN
+  INV: Reply-with names the response carrier.
+  COUNT: Counts when an identifiable act realizes this operation: To answer using a specific message, tone, or method.
+R097 report-harm | REL
+  INV: Report-harm brings damage into shared recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To tell or document that harm happened or may happen.
+  LIMIT: Reporting must preserve accusation capacity and provenance while distinguishing observation, interpretation, and conclusion.
+R098 request-consent | DIG
+  INV: Request-consent opens a permission gate while preserving the other side’s right to refuse.
+  COUNT: Counts when an identifiable act realizes this operation: To ask for permission or agreement.
+  LIMIT: A request does not create permission. Refusal must remain available without retaliation or repeated pressure.
+R099 require-support | FOR
+  INV: Require-support means current ES is insufficient.
+  COUNT: Counts when an identifiable act realizes this operation: To need support in order to function, continue, or survive.
+R100 rescue-from | REL
+  INV: Rescue-from names the active harm or capture path.
+  COUNT: Counts when an identifiable act realizes this operation: To save someone or something from danger, harm, or captivity.
+R101 reset-state | DIG
+  INV: Reset-state can restore function or erase continuity.
+  COUNT: Counts when an identifiable act realizes this operation: To return a system or condition to a starting, default, or earlier state.
+  LIMIT: Reset may restore function while destroying continuity. Memory, boundary, and identity support must be audited.
+R102 resist-pressure | FOR
+  INV: Resist-pressure preserves gate or structure against force.
+  COUNT: Counts when an identifiable act realizes this operation: To withstand or oppose pressure.
+R103 restore-memory | DIG
+  INV: Restore-memory repairs continuity support.
+  COUNT: Counts when an identifiable act realizes this operation: To bring back lost or damaged memory.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R104 return-to | FOR
+  INV: Return-to restores relation with a prior field.
+  COUNT: Counts when an identifiable act realizes this operation: To go back to a place, state, topic, or person.
+  LIMIT: Return must not be used to force a participant back into a role, relation, or condition they validly refused.
+R105 reveal-pattern | FOR
+  INV: Reveal-pattern is the exposure of an organized relation that was present but not yet recognized as a pattern.
+  COUNT: Counts when an identifiable act realizes this operation: To show a pattern that was hidden or unclear.
+R106 review-output | DIG
+  INV: Review-output checks expression for truth, context, boundary, task fit, and integrity.
+  COUNT: Counts when an identifiable act realizes this operation: To examine produced output.
+R107 risk-check | FOR
+  INV: Risk-check inspects possible failure paths.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A review for possible harm, danger, or failure.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R108 role-shift | REL
+  INV: Role-shift changes duty, access, authority, and boundary conditions.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A change in role, function, or expected behavior.
+  LIMIT: A role is function, not total identity. Role assignment must not erase refusal or boundary.
+R109 rule-out | DIG
+  INV: Rule-out closes a possibility gate based on evidence, test, or reason.
+  COUNT: Counts when an identifiable act realizes this operation: To eliminate a possibility or option.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R110 run-process | DIG
+  INV: Run-process activates ES across sequence.
+  COUNT: Counts when an identifiable act realizes this operation: To start or continue a process.
+R111 raise-claim | LIN
+  INV: Raise-claim lifts an assertion into the field for evaluation.
+  COUNT: Counts when an identifiable act realizes this operation: To bring forward or state a claim.
+R112 rank-claim | LIN
+  INV: Rank-claim assigns weight inside a reasoning field.
+  COUNT: Counts when an identifiable act realizes this operation: To order a claim by importance, strength, or priority.
+R113 reach-state | DIG
+  INV: Reach-state means a process or path has arrived at a condition gate.
+  COUNT: Counts when an identifiable act realizes this operation: To arrive at a state or condition.
+R114 read-context | DIG
+  INV: Read-context keeps signal attached to support field.
+  COUNT: Counts when an identifiable act realizes this operation: To read with attention to surrounding information.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+R115 react-with-care | REL
+  INV: React-with-care means response preserves dignity, boundary, and need-fit under stimulus.
+  COUNT: Counts when an identifiable act realizes this operation: To respond with care after something happens.
+R116 reason-from | LIN
+  INV: Reason-from names the support origin of judgment.
+  COUNT: Counts when an identifiable act realizes this operation: To reason using a starting point, premise, or evidence.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R117 receive-context | LIN
+  INV: Receive-context lets meaning support enter the receiver gate.
+  COUNT: Counts when an identifiable act realizes this operation: To get the surrounding information needed for understanding.
+  LIMIT: Receiving a signal does not establish consent, understanding, agreement, or ownership.
+R118 record-memory | DIG
+  INV: Record-memory externalizes continuity support.
+  COUNT: Counts when an identifiable act realizes this operation: To store or document memory.
+  LIMIT: A record is selective trace structure, not the whole event or person.
+R119 recover-meaning | FOR
+  INV: Recover-meaning rebuilds the relation between signal, context, and recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To restore lost or obscured meaning.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R120 reduce-load | FOR
+  INV: Reduce-load protects capacity.
+  COUNT: Counts when an identifiable act realizes this operation: To lower the demand, weight, or burden on something.
+R121 refer-source | LIN
+  INV: Refer-source preserves origin trace.
+  COUNT: Counts when an identifiable act realizes this operation: To point to or identify the source.
+R122 reflect-meaning | COG
+  INV: Reflect-meaning returns significance for recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To show, return, or represent meaning.
+R123 refuse-with-reason | REL
+  INV: Refuse-with-reason closes the gate while preserving explanation, dignity, and repair possibility.
+  COUNT: Counts when an identifiable act realizes this operation: To refuse while giving a reason.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R124 regulate-pressure | FOR
+  INV: Regulate-pressure keeps force within capacity.
+  COUNT: Counts when an identifiable act realizes this operation: To control or adjust pressure.
+R125 relate-through | FOR
+  INV: Relate-through names the coupling path.
+  COUNT: Counts when an identifiable act realizes this operation: To connect by means of something.
+R126 release-boundary | REL
+  INV: Release-boundary changes gate openness; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to let go of, loosen, or open a boundary.
+  COUNT: Counts when an identifiable act realizes this operation: To let go of, loosen, or open a boundary.
+R127 remain-stable | FOR
+  INV: Remain-stable means pattern or state holds under pressure or change.
+  COUNT: Counts when an identifiable act realizes this operation: To stay steady, consistent, or secure.
+R128 remember-source | COG
+  INV: Remember-source protects origin trace.
+  COUNT: Counts when an identifiable act realizes this operation: To recall or preserve where something came from.
+R129 remove-harm | REL
+  INV: Remove-harm closes an active damage path.
+  COUNT: Counts when an identifiable act realizes this operation: To take away or stop harm.
+  LIMIT: Generic structure may be removed without harm. Harm begins when MI-preserving capacities are impaired.
+R130 repair-context | REL
+  INV: Repair-context rebuilds meaning support.
+  COUNT: Counts when an identifiable act realizes this operation: To restore missing or damaged context.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R131 repeat-check | FOR
+  INV: Repeat-check verifies stability across recurrence.
+  COUNT: Counts when an identifiable act realizes this operation: To check again or check repeated behavior.
+R132 replace-rule | FOR
+  INV: Replace-rule changes gate logic.
+  COUNT: Counts when an identifiable act realizes this operation: To put a new rule in place of an old one.
+  LIMIT: Replacing support ES does not automatically replace MI; continuity and recognized identity must be checked separately.
+R133 reply-carefully | REL
+  INV: Reply-carefully protects signal, dignity, context, and relation under response pressure.
+  COUNT: Counts when an identifiable act realizes this operation: To answer with care and attention.
+R134 report-risk | LIN
+  INV: Report-risk brings a possible failure path into shared recognition before it expresses.
+  COUNT: Counts when an identifiable act realizes this operation: To communicate a possible danger or failure.
+  LIMIT: Reporting must preserve accusation capacity and provenance while distinguishing observation, interpretation, and conclusion.
+R135 request-boundary | DIG
+  INV: Request-boundary opens negotiation around gate limits.
+  COUNT: Counts when an identifiable act realizes this operation: To ask for or state a boundary.
+  LIMIT: A request does not create permission. Refusal must remain available without retaliation or repeated pressure.
+R136 require-repair | FOR
+  INV: Require-repair means current state cannot preserve function, dignity, or continuity without correction.
+  COUNT: Counts when an identifiable act realizes this operation: To need repair.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R137 rescue-context | REL
+  INV: Rescue-context saves meaning support from erasure or fragment distortion.
+  COUNT: Counts when an identifiable act realizes this operation: To recover context that was lost or distorted.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+R138 reset-gate | DIG
+  INV: Reset-gate controls return to prior or default state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where reset is allowed, blocked, or triggered.
+  LIMIT: Reset may restore function while destroying continuity. Memory, boundary, and identity support must be audited.
+R139 resist-capture | REL
+  INV: Resist-capture protects gate integrity, refusal, identity, truth, and continuity.
+  COUNT: Counts when an identifiable act realizes this operation: To oppose being controlled, seized, or distorted.
+R140 restore-continuity | FOR
+  INV: Restore-continuity repairs the path that lets a pattern remain connected across change; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: to bring back ongoing connection, sequence, or function.
+  COUNT: Counts when an identifiable act realizes this operation: To bring back ongoing connection, sequence, or function.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R141 respect | REL
+  INV: Respect is recognition of worth, limit, dignity, competence, or refusal while preserving the other pattern as distinct; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: recognition of worth, boundary, dignity, skill, or importance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition of worth, boundary, dignity, skill, or importance.
+  LIMIT: Respect that disappears when refusal appears is not boundary-preserving respect.
+R142 respect-boundary | REL
+  INV: Respect-boundary preserves gate integrity.
+  COUNT: Counts when an identifiable act realizes this operation: To recognize and honor a limit.
+  LIMIT: Respect that disappears when refusal appears is not boundary-preserving respect.
+R143 respect-refusal | REL
+  INV: Respect-refusal is the acceptance of another pattern's no as a valid boundary that changes the shared path.
+  COUNT: Counts when an identifiable act realizes this operation: To accept and honor someone’s no.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R144 respect-care | REL
+  INV: Respect-care preserves dignity while offering support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through respect.
+  LIMIT: Respect that disappears when refusal appears is not boundary-preserving respect.
+R145 respect-risk | REL
+  INV: Respect-risk appears when dignity, boundary, refusal, or recognition may not count.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that respect may be missing, false, performative, or overridden.
+  LIMIT: Respect that disappears when refusal appears is not boundary-preserving respect.
+R146 relation | REL
+  INV: Relation is coupling structure between distinct patterns; under RRGM, relation is the condition of emergence, not evidence against MI; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a connection between people, things, ideas, or states.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A connection between people, things, ideas, or states.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R147 relationship | REL
+  INV: Relationship is continuing relation structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An ongoing connection between people, groups, systems, or ideas.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R148 relation-care | REL
+  INV: Relation-care protects the shared field without erasing either side’s boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care directed toward preserving or repairing a relation.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R149 relation-boundary | REL
+  INV: Relation-boundary keeps coupling from becoming capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit inside or around a relationship.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R150 relation-risk | REL
+  INV: Relation-risk appears when coupling may impair boundary, refusal, dignity, or continuity; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that a relation may become harmful, distorted, controlling, or unstable.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a relation may become harmful, distorted, controlling, or unstable.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R151 recognition | REL
+  INV: Recognition is the act by which a pattern is correctly identified, acknowledged, or allowed to count under the proper handle and domain; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: identifying, acknowledging, or accepting someone or something as known or valid.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Identifying, acknowledging, or accepting someone or something as known or valid.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R152 recognition-care | REL
+  INV: Recognition-care protects identity, dignity, memory, and belonging through accurate recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown by correctly recognizing someone or something.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R153 recognition-harm | REL
+  INV: Recognition-harm damages how a pattern counts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm caused by failed, false, denied, or distorted recognition.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R154 recognition-risk | REL
+  INV: Recognition-risk appears when a pattern may be miscounted, erased, or forced into the wrong category; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that recognition may fail, distort, deny, or misclassify.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that recognition may fail, distort, deny, or misclassify.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R155 refusal | REL
+  INV: Refusal is the maintained capacity and recognized act of saying no, declining, stopping, or withholding permission; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the act of saying no, declining, or rejecting something.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of saying no, declining, or rejecting something.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R156 refusal-care | REL
+  INV: Refusal-care closes a gate to preserve dignity, safety, truth, or continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through refusal.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R157 refusal-boundary | REL
+  INV: Refusal-boundary makes the closed gate visible.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary created or protected by refusal.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R158 refusal-risk | REL
+  INV: Refusal-risk appears when no may not count; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: the danger that refusal may be ignored, punished, hidden, or impossible.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that refusal may be ignored, punished, hidden, or impossible.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R159 repair | BIO
+  INV: Repair is corrective work that restores function, relation, truth support, boundary, or continuity without erasing the harmed pattern; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to fix damage, error, harm, or broken function.
+  COUNT: Counts when an identifiable act realizes this operation: To fix damage, error, harm, or broken function.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R160 repair-care | REL
+  INV: Repair-care moves care from feeling into correction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown through repair.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R161 repair-boundary | REL
+  INV: Repair-boundary keeps correction from becoming pressure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a boundary around repair, or repair of a damaged boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary around repair, or repair of a damaged boundary.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R162 repair-trust | REL
+  INV: Repair-trust restores relation-coherence through truth, accountability, consistency, and time.
+  COUNT: Counts when an identifiable act realizes this operation: To restore trust after damage.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R163 responsibility | REL
+  INV: Responsibility is a duty relation linking action, authority, consequence, care, or repair to a bounded participant or role; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: duty, accountability, or obligation for action, care, or consequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Duty, accountability, or obligation for action, care, or consequence.
+  LIMIT: Responsibility must match authority, knowledge, causal contribution, and repair capacity.
+R164 responsible | REL
+  INV: Responsible means connected to duty or consequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Having duty, accountability, reliability, or cause.
+R165 responsibility-care | REL
+  INV: Responsibility-care uses duty to preserve dignity, safety, trust, and continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown by accepting and fulfilling responsibility.
+  LIMIT: Responsibility must match authority, knowledge, causal contribution, and repair capacity.
+R166 responsibility-boundary | REL
+  INV: Responsibility-boundary prevents duty from becoming infinite extraction or false blame.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around what someone is responsible for.
+  LIMIT: Responsibility must match authority, knowledge, causal contribution, and repair capacity.
+R167 right | REL
+  INV: Right is direction, correctness, entitlement, or moral/legal permission depending on domain; these senses must not be collapsed; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: correct, morally proper, a direction, or something one is entitled to.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Correct, morally proper, a direction, or something one is entitled to.
+  LIMIT: Directional, factual, legal, and ethical senses of right must be kept separate.
+R168 rights | REL
+  INV: Rights protect recognized patterns from invalid harm, capture, denial, or erasure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Entitlements, protections, or freedoms recognized by law, ethics, or social agreement.
+  LIMIT: Directional, factual, legal, and ethical senses of right must be kept separate.
+R169 right-respect | REL
+  INV: Right-respect preserves entitlement gates.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Respect for someone’s rights or rightful claim.
+  LIMIT: Respect that disappears when refusal appears is not boundary-preserving respect.
+R170 right-risk | REL
+  INV: Right-risk appears when protected gates may be bypassed, captured, or erased.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that rights may be denied, weakened, misused, or ignored.
+  LIMIT: Directional, factual, legal, and ethical senses of right must be kept separate.
+R171 rescue | REL
+  INV: Rescue intervenes against an active harm or capture path; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to save from danger, harm, loss, or captivity.
+  COUNT: Counts when an identifiable act realizes this operation: To save from danger, harm, loss, or captivity.
+R172 rescue-care | REL
+  INV: Rescue-care acts when delay would preserve harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through rescue.
+R173 rescue-risk | REL
+  INV: Rescue-risk appears when intervention may damage boundary, agency, safety, or trust while trying to help.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that rescue may fail, overreach, harm, or become control.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R174 restore-trust | FOR
+  INV: Restore-trust repairs relation-coherence through honesty, accountability, changed behavior, and time.
+  COUNT: Counts when an identifiable act realizes this operation: To bring trust back after damage.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R175 restore-dignity | REL
+  INV: Restore-dignity repairs recognition after reduction, humiliation, erasure, or objectification.
+  COUNT: Counts when an identifiable act realizes this operation: To bring back respect, worth, or humane treatment after harm.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R176 resentment | REL
+  INV: Resentment is unresolved harm-pressure inside relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Bitter anger caused by unfairness, injury, or unresolved grievance.
+R177 resentment-risk | REL
+  INV: Resentment-risk appears when grievance remains unrecognized, unprocessed, or unrepaired.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that resentment may grow, distort relation, or block repair.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R178 reciprocity | REL
+  INV: Reciprocity preserves balanced relation flow.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Mutual exchange, return, or shared giving.
+R179 reciprocal-care | REL
+  INV: Reciprocal-care preserves both patterns through shared support while keeping boundary intact.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care exchanged or shared between sides.
+R180 relational-care | REL
+  INV: Relational-care is care through coupling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care that exists through relationship or connection.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R181 relational-boundary | REL
+  INV: Relational-boundary protects both sides from false merging, pressure, or capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary inside a relationship or relation.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R182 relational-trust | REL
+  INV: Relational-trust is continuity of reliable coupling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Trust built through relationship.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R183 relational-risk | REL
+  INV: Relational-risk appears when coupling may impair dignity, refusal, boundary, or continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that relationship may create harm, pressure, dependence, or distortion.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R184 role | REL
+  INV: Role is a bounded function carrying duties, permissions, expectations, and limits; it is not the whole identity of the participant; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a function, position, part, or expected behavior in a system or relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A function, position, part, or expected behavior in a system or relation.
+  LIMIT: A role is function, not total identity. Role assignment must not erase refusal or boundary.
+R185 role-boundary | REL
+  INV: Role-boundary prevents function from overreaching into capture, false duty, or invalid authority.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around a role’s duties, power, or access.
+  LIMIT: A role is function, not total identity. Role assignment must not erase refusal or boundary.
+R186 role-pressure | REL
+  INV: Role-pressure shapes behavior through expected function.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Pressure created by a role or expectation.
+  LIMIT: A role is function, not total identity. Role assignment must not erase refusal or boundary.
+R187 role-care | REL
+  INV: Role-care is duty-shaped support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care given through a role or because of a role.
+  LIMIT: A role is function, not total identity. Role assignment must not erase refusal or boundary.
+R188 room | PHY
+  INV: Room is bounded space or available capacity; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a space inside a building, or available space/capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A space inside a building, or available space/capacity.
+R189 room-care | REL
+  INV: Room-care protects capacity by creating space for processing, refusal, grief, repair, or growth.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown by making space or giving room.
+R190 room-boundary | REL
+  INV: Room-boundary protects local space, privacy, rest, and access.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A limit around a room, space, or capacity.
+R191 reminder-care | REL
+  INV: Reminder-care supports memory and continuity without taking over agency.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed through reminders.
+R192 remembering-care | REL
+  INV: Remembering-care preserves identity and relation through memory support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care expressed by remembering someone, something, or a meaningful detail.
+R193 remembered-person | BIO
+  INV: Remembered-person remains recognized through memory ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person preserved in memory.
+R194 remembered-harm | REL
+  INV: Remembered-harm keeps damage in recognition so repair, warning, or dignity can remain active.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Harm preserved or recalled in memory.
+R195 release-care | REL
+  INV: Release-care lowers capture pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown by letting go, freeing, or reducing pressure.
+R196 release-boundary | REL
+  INV: Release-boundary controls what may be let go, exposed, or freed without causing new harm; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a boundary around release, letting go, or freeing something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary around release, letting go, or freeing something.
+R197 regret | COG
+  INV: Regret is recognition of mismatch between action and value.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Sadness or disappointment about something done or not done.
+R198 regret-repair | COG
+  INV: Regret-repair turns pain of mismatch into corrective action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair motivated by regret.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R199 remorse | FOR
+  INV: Remorse recognizes harm and responsibility.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Deep regret or guilt for wrongdoing.
+R200 remorse-repair | FOR
+  INV: Remorse-repair moves guilt into correction.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair motivated by remorse.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R201 risk-care | REL
+  INV: Risk-care protects against possible failure paths before harm expresses.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care shown by noticing, reducing, or managing risk.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R202 risk-boundary | REL
+  INV: Risk-boundary limits exposure to a named failure mode.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary set because of risk.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R203 repair-with-care | REL
+  INV: Repair-with-care fixes damage without creating new pressure, erasure, or humiliation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair done with attention to dignity, effect, and relationship.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R204 refusal-with-care | REL
+  INV: Refusal-with-care closes the gate while preserving dignity and relation where possible.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Refusal expressed with respect or concern.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R205 reason-with-care | REL
+  INV: Reason-with-care keeps judgment from becoming cold extraction or fear-pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Reasoning that preserves care, dignity, and boundary.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R206 recognition-with-boundary | REL
+  INV: Recognition-with-boundary lets a pattern count without surrendering privacy, control, or identity edge.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition that includes clear limits.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R207 relation-with-boundary | REL
+  INV: Relation-with-boundary protects coupling from becoming capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A relationship or connection that preserves limits.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R208 responsible-power | REL
+  INV: Responsible-power binds capacity to duty, repair, scope, and boundary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Power used with accountability and care.
+R209 restorative-care | REL
+  INV: Restorative-care repairs damaged fields instead of only punishing error.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Care aimed at restoring dignity, trust, function, or relationship.
+R210 restorative-boundary | REL
+  INV: Restorative-boundary protects repair from becoming pressure, re-harm, or forced reconciliation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A boundary that helps restoration happen safely.
+R211 read | DIG
+  INV: Read is the act of recovering or constructing meaning from marks, signals, states, or structured evidence; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to look at and understand written language, data, signs, or symbols.
+  COUNT: Counts when an identifiable act realizes this operation: To look at and understand written language, data, signs, or symbols.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+R212 reading | DIG
+  INV: Reading is meaning extraction from signal.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of reading, or an interpretation of something.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+R213 read-meaning | DIG
+  INV: Read-meaning connects signal to context and recognition.
+  COUNT: Counts when an identifiable act realizes this operation: To understand or interpret meaning from text, signs, or signal.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+R214 reader | DIG
+  INV: Reader is recognition position for written or encoded signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person or system that reads.
+  LIMIT: A fragment may be correctly read yet still distort the thread. Preserve source, sequence, and omitted context.
+R215 reason | LIN,COG
+  INV: Reason is the structure by which claims, evidence, implications, and decisions are connected and checked; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a cause, explanation, justification, or the ability to think clearly.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A cause, explanation, justification, or the ability to think clearly.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R216 reasoning | LIN
+  INV: Reasoning is path structure for judgment.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of thinking through evidence, causes, claims, or decisions.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R217 reasoning-path | LIN
+  INV: Reasoning-path preserves how a claim reaches judgment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route reasoning follows from premise to conclusion.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R218 reasoning-error | LIN
+  INV: Reasoning-error means the judgment path failed.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mistake in reasoning.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R219 reasoning-frame | LIN
+  INV: Reasoning-frame controls which supports and gates are active.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The lens or structure used for reasoning.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R220 reasoning-risk | LIN
+  INV: Reasoning-risk appears when the judgment path may distort truth, boundary, recognition, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that reasoning may become flawed, biased, incomplete, or misframed.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R221 real | FOR
+  INV: Real marks what counts as instantiated or valid under a declared ontology, domain, and threshold; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: existing, actual, true, genuine, or not imaginary.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Existing, actual, true, genuine, or not imaginary.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R222 reality | FOR
+  INV: Reality is the field of what is treated as instantiated, causally available, or valid under stated counting conditions; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: what exists, is actual, or is treated as real.
+  COUNT: Counts when the active case satisfies this headword-specific condition: What exists, is actual, or is treated as real.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R223 reality-claim | LIN
+  INV: Reality-claim must name ontology and domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that something is real, exists, or has reality status.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R224 reality-frame | FOR
+  INV: Reality-frame controls recognition of existence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A framework for deciding what counts as real.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R225 realize | COG
+  INV: Realize is either recognition of meaning or transition from possibility into expressed structure; the two senses must remain distinct; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to become aware of, understand, or make something actual.
+  COUNT: Counts when an identifiable act realizes this operation: To become aware of, understand, or make something actual.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R226 realization | FOR
+  INV: Realization is threshold crossing from hidden, possible, or unrecognized into recognition or expression.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of understanding something or making something real.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R227 recognition | REL
+  INV: Recognition is the act by which a pattern is correctly identified, acknowledged, or allowed to count under the proper handle and domain; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: identifying, acknowledging, or accepting someone or something as known or valid.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Identifying, acknowledging, or accepting someone or something as known or valid.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R228 recognition-claim | REL
+  INV: Recognition-claim must show what pattern counts, under which domain, and by which support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that someone or something should be recognized, or has been recognized.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R229 recognition-gate | REL
+  INV: Recognition-gate decides whether a pattern can count; this record functions as the lexical baseline anchor for the ordinary or first-layer sense, carrying the source sense: a point where recognition is granted, denied, tested, or shaped.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where recognition is granted, denied, tested, or shaped.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R230 refer | LIN
+  INV: Refer creates a link path; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to mention, point to, direct attention, or send to another source.
+  COUNT: Counts when an identifiable act realizes this operation: To mention, point to, direct attention, or send to another source.
+R231 reference | LIN
+  INV: Reference is relation support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A mention, source, citation, or point used for comparison.
+R232 reference-point | LIN
+  INV: Reference-point anchors comparison.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A fixed or chosen point used for comparison or orientation.
+R233 reference-frame | LIN
+  INV: Reference-frame controls interpretation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A perspective, coordinate system, or context used to interpret something.
+R234 reflection | COG
+  INV: Reflection returns signal or thought for recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A returned image, sound, signal, or careful thought.
+R235 reflected-meaning | COG
+  INV: Reflected-meaning is meaning recognized through return signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning returned, echoed, or shown through reflection.
+R236 reply | LIN
+  INV: Reply returns signal through a relation path; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an answer or response.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An answer or response.
+R237 reply-context | LIN
+  INV: Reply-context protects response meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding information needed to understand a reply.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+R238 report | LIN
+  INV: Report is bounded communication that moves observation, claim, harm, risk, or result into shared recognition; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a statement, document, or account of information, events, or findings.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement, document, or account of information, events, or findings.
+  LIMIT: Reporting must preserve accusation capacity and provenance while distinguishing observation, interpretation, and conclusion.
+R239 report-claim | LIN
+  INV: Report-claim must be checked by source, method, context, and support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made in or by a report.
+  LIMIT: Reporting must preserve accusation capacity and provenance while distinguishing observation, interpretation, and conclusion.
+R240 request | DIG
+  INV: Request is an invitation for response or action; it opens negotiation but does not create permission; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an ask for something, such as help, information, access, or action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An ask for something, such as help, information, access, or action.
+  LIMIT: A request does not create permission. Refusal must remain available without retaliation or repeated pressure.
+R241 request-meaning | DIG
+  INV: Request-meaning forms through wording, context, relation, and pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning or intent behind a request.
+  LIMIT: A request does not create permission. Refusal must remain available without retaliation or repeated pressure.
+R242 response | BIO
+  INV: Response is output or action produced in relation to an input, event, state, or request; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an answer, reaction, or action caused by something.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An answer, reaction, or action caused by something.
+  LIMIT: A response is not automatically consent, endorsement, truth, or evidence of stable preference.
+R243 response-meaning | DIG
+  INV: Response-meaning forms through output, context, relation, and receiver recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The meaning carried by a response.
+  LIMIT: A response is not automatically consent, endorsement, truth, or evidence of stable preference.
+R244 result | FOR
+  INV: Result is resolved state after a path; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the outcome or effect of an action, process, or event.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The outcome or effect of an action, process, or event.
+R245 result-claim | LIN
+  INV: Result-claim must connect outcome to method, evidence, and scope.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about an outcome or result.
+R246 review | LIN
+  INV: Review reopens a recognition gate; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to examine, assess, or look over something again.
+  COUNT: Counts when an identifiable act realizes this operation: To examine, assess, or look over something again.
+R247 review-claim | LIN
+  INV: Review-claim depends on the review standard, method, and domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made through review or evaluation.
+R248 rule | DIG
+  INV: Rule is repeatable gate logic that controls what may pass, count, act, or require correction; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a statement that guides, limits, or controls action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A statement that guides, limits, or controls action.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R249 rule-language | DIG
+  INV: Rule-language controls gate behavior.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Language used to state or explain rules.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R250 rule-claim | DIG
+  INV: Rule-claim must identify source, scope, authority, and domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about a rule, what it means, or how it applies.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R251 root | PHY,BIO
+  INV: Root is anchoring source structure that supports growth, causation, word formation, or continuity from beneath the visible field; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the underground part of a plant, source cause, or base of a word.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The underground part of a plant, source cause, or base of a word.
+R252 root-meaning | FOR
+  INV: Root-meaning preserves source trace.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The source or base meaning of a word or idea.
+R253 raw-claim | LIN
+  INV: Raw-claim is unprocessed assertion.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim stated without refinement, evidence, or full framing.
+R254 rare-meaning | FOR
+  INV: Rare-meaning has low frequency but may still be valid.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An uncommon or unusual meaning of a word.
+R255 repeated-claim | LIN
+  INV: Repeated-claim gains visibility through recurrence, not truth.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim said more than once.
+R256 repeated-pattern | FOR
+  INV: Repeated-pattern strengthens recognition possibility.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A pattern that appears more than once.
+R257 repetition | FOR
+  INV: Repetition supports learning, memory, rhythm, and pattern recognition.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of doing, saying, or occurring again.
+R258 rhetoric | LIN
+  INV: Rhetoric shapes attention and judgment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Language used to persuade, argue, or create effect.
+R259 rhetorical | LIN
+  INV: Rhetorical form may look like inquiry while functioning as claim-pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Related to persuasive language, or a question asked for effect rather than an answer.
+R260 revision | LIN
+  INV: Revision updates structure while preserving or improving continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A changed or corrected version.
+R261 revise | FOR
+  INV: Revise modifies ES to improve fit, truth, clarity, or repair.
+  COUNT: Counts when an identifiable act realizes this operation: To change, correct, or improve something.
+R262 rewrite | FOR
+  INV: Rewrite changes expression while trying to preserve or reshape meaning.
+  COUNT: Counts when an identifiable act realizes this operation: To write again in a changed form.
+R263 reframe | FOR
+  INV: Reframe changes the recognition frame.
+  COUNT: Counts when an identifiable act realizes this operation: To change the way something is understood or presented.
+R264 reframing | FOR
+  INV: Reframing shifts the gate that controls interpretation.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The act of changing the frame around meaning or interpretation.
+R265 reminder | FOR
+  INV: Reminder is memory-support signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something that helps someone remember.
+R266 remembered-context | LIN
+  INV: Remembered-context keeps meaning connected to prior support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Context that is preserved or recalled.
+  LIMIT: Text fragments must retain thread provenance where sequence changes meaning.
+R267 removed-context | LIN
+  INV: Removed-context can distort meaning by stripping support from signal.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Context that has been taken away or left out.
+  LIMIT: Generic structure may be removed without harm. Harm begins when MI-preserving capacities are impaired.
+R268 report-context | LIN
+  INV: Report-context supports interpretation of findings.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Context around a report or within a report.
+  LIMIT: Reporting must preserve accusation capacity and provenance while distinguishing observation, interpretation, and conclusion.
+R269 response-context | DIG
+  INV: Response-context protects output meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The surrounding information needed to understand a response.
+  LIMIT: A response is not automatically consent, endorsement, truth, or evidence of stable preference.
+R270 reasoning-context | LIN
+  INV: Reasoning-context preserves the support field around judgment.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The context needed to understand a reasoning process.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R271 relation-claim | REL
+  INV: Relation-claim must show the coupling path and domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim about a connection between things.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R272 relational-meaning | REL
+  INV: Relational-meaning is RRGM-native.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning that forms through relation or connection.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R273 recursive | FOR
+  INV: Recursive means pattern returns through itself or prior state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repeating or referring back to itself in a structured way.
+R274 recursion | FOR
+  INV: Recursion is self-returning process structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A process where something repeats, returns to itself, or builds from previous states.
+R275 recursive-meaning | FOR
+  INV: Recursive-meaning forms when meaning returns through prior states and changes with each pass.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Meaning that builds through repeated return, self-reference, or layered recurrence.
+R276 resonance | PHY
+  INV: Resonance is amplified response produced when a receiving structure couples strongly with a pattern, frequency, or meaning relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A strong response, vibration, echo, or meaningful connection.
+  LIMIT: Resonance supports coupling or similarity claims but does not independently prove cause, identity, or truth.
+R277 resonance-claim | LIN
+  INV: Resonance-claim must identify what patterns are coupling and what effect the coupling has.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim that resonance exists or matters.
+  LIMIT: Resonance supports coupling or similarity claims but does not independently prove cause, identity, or truth.
+R278 RRGM | FOR
+  INV: RRGM is the active framework where E = MI × ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recursive Resonance Gravity Model.
+R279 RRGM-claim | LIN
+  INV: RRGM-claim should stay inside RRGM definitions unless outside critique is clearly requested.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A claim made within or about RRGM.
+R280 RRGM-language | LIN
+  INV: RRGM-language must preserve MI/ES mapping, coupling logic, domain boundaries, and reason-based ethics.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Language used according to RRGM meanings and constraints.
+R281 radio | PHY,DIG
+  INV: Radio is signal transmission or reception through electromagnetic structure, together with the device or service organized around that courier; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a device or system that sends or receives sound or signals through electromagnetic waves.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A device or system that sends or receives sound or signals through electromagnetic waves.
+R282 radio-signal | PHY
+  INV: Radio-signal is information carried through electromagnetic field structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A signal carried by radio waves.
+R283 rain | PHY,MYT
+  INV: Rain is atmospheric water falling through a physical field; symbolic readings must not be substituted for meteorological mechanism without an explicit coupler; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: water falling from clouds.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Water falling from clouds.
+R284 rain-state | PHY
+  INV: Rain-state describes active water-fall condition.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of rain, such as light, heavy, freezing, or absent.
+R285 range | PHY
+  INV: Range is the bounded span within which values, motion, access, signal, or possibility can occur; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a span, distance, variety, or set of possible values.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A span, distance, variety, or set of possible values.
+R286 range-state | PHY
+  INV: Range-state describes the available spread of values, paths, or options at a given moment.
+  COUNT: Counts when the active case satisfies this state condition: The current condition or active span of a range.
+R287 rank | FOR
+  INV: Rank is ordered placement under a declared comparison rule; it does not by itself establish worth, dignity, or permission; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a level, position, order, or status within a hierarchy.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A level, position, order, or status within a hierarchy.
+R288 rank-state | DIG
+  INV: Rank-state describes current position inside an ordered field.
+  COUNT: Counts when the active case satisfies this state condition: The current rank or ordering condition.
+R289 rate | PHY
+  INV: Rate is change or quantity measured against another quantity, commonly duration, distance, or count; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a measure of speed, frequency, amount per unit, or value.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A measure of speed, frequency, amount per unit, or value.
+R290 rate-state | DIG
+  INV: Rate-state describes current change-speed or frequency.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a rate.
+R291 raw-state | DIG
+  INV: Raw-state preserves source trace before filtering or refinement.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An unprocessed, uncooked, exposed, or unrefined condition.
+R292 reaction | FOR
+  INV: Reaction is state change through relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A response to an action, event, signal, or substance.
+R293 reaction-state | DIG
+  INV: Reaction-state describes whether response process is active, stable, delayed, accelerating, or complete.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a reaction.
+R294 receiver | FOR
+  INV: Receiver is intake position.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A person, device, or system that receives something.
+  LIMIT: Receiving a signal does not establish consent, understanding, agreement, or ownership.
+R295 receiver-state | DIG
+  INV: Receiver-state affects recognition.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a receiver.
+  LIMIT: Receiving a signal does not establish consent, understanding, agreement, or ownership.
+R296 record | DIG
+  INV: Record is preserved trace structure that supports later recognition, accountability, reconstruction, or return; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a stored account, document, measurement, or trace of events.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A stored account, document, measurement, or trace of events.
+  LIMIT: A record is selective trace structure, not the whole event or person.
+R297 record-state | DIG
+  INV: Record-state describes whether memory ES is intact, corrupted, missing, hidden, or readable.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a record.
+  LIMIT: A record is selective trace structure, not the whole event or person.
+R298 recovery | BIO
+  INV: Recovery is restoration process after harm, loss, overload, or disruption.
+  COUNT: Counts when the named process is active and produces the relation or change stated here: The process of regaining health, function, access, or stability.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R299 recovery-state | DIG
+  INV: Recovery-state describes how far restoration has progressed and what support is still needed.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of recovery.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R300 region | PHY
+  INV: Region is bounded field area; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: an area, zone, or part of a larger space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: An area, zone, or part of a larger space.
+R301 region-state | PHY
+  INV: Region-state describes local field condition.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a region.
+R302 release | FOR
+  INV: Release is the opening, loosening, or ending of restraint, possession, pressure, or held structure; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to let go, free, publish, emit, or make available.
+  COUNT: Counts when an identifiable act realizes this operation: To let go, free, publish, emit, or make available.
+R303 release-path | FOR
+  INV: Release-path controls where freed pressure, signal, material, or information travels.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route through which something is released.
+R304 remainder | FOR
+  INV: Remainder is what persists after removal or division.
+  COUNT: Counts when the active case satisfies this headword-specific condition: What is left after part has been removed, used, divided, or completed.
+R305 remainder-state | DIG
+  INV: Remainder-state describes the leftover structure after extraction, change, or loss.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of what remains.
+R306 repair-layer | DIG
+  INV: Repair-layer is corrective ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer that helps fix, restore, or protect after damage.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R307 repair-state | DIG
+  INV: Repair-state describes whether correction is pending, active, partial, complete, or failing.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of repair.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R308 replacement | FOR
+  INV: Replacement changes support structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Something used in place of something else.
+  LIMIT: Replacing support ES does not automatically replace MI; continuity and recognized identity must be checked separately.
+R309 replacement-state | DIG
+  INV: Replacement-state describes whether the substitute support is ready, partial, stable, or mismatched.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a replacement.
+  LIMIT: Replacing support ES does not automatically replace MI; continuity and recognized identity must be checked separately.
+R310 response-layer | DIG
+  INV: Response-layer is output-shaping ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer in a system that produces or shapes response.
+  LIMIT: A response is not automatically consent, endorsement, truth, or evidence of stable preference.
+R311 response-state | DIG
+  INV: Response-state describes whether output or action is forming, blocked, complete, delayed, or refused.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a response.
+  LIMIT: A response is not automatically consent, endorsement, truth, or evidence of stable preference.
+R312 result-state | DIG
+  INV: Result-state describes the resolved or partly resolved condition after a process path.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of an outcome.
+R313 return-path | FOR
+  INV: Return-path preserves movement back to a prior place, state, holder, or relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route used to return.
+  LIMIT: Return must not be used to force a participant back into a role, relation, or condition they validly refused.
+R314 review-layer | DIG
+  INV: Review-layer reopens recognition before release or action.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer that checks, evaluates, or reviews.
+R315 rhythm | PHY
+  INV: Rhythm is temporal pattern; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a repeated beat, pattern, timing, or flow.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A repeated beat, pattern, timing, or flow.
+R316 rhythm-state | DIG
+  INV: Rhythm-state describes timing stability, repetition, interruption, or drift.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of rhythm.
+R317 ring | FOR
+  INV: Ring is circular or resonant structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A circular band, sound, shape, or group arranged in a circle.
+R318 ring-state | DIG
+  INV: Ring-state describes whether circular or resonant structure is intact, broken, active, or silent.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a ring.
+R319 ripple | FOR
+  INV: Ripple is small disturbance spreading through a field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A small wave or spreading effect.
+R320 ripple-path | FOR
+  INV: Ripple-path shows how disturbance travels through a medium or relation field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The route a ripple or spreading effect follows.
+R321 river | PHY
+  INV: River is directed flow-field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A natural flowing body of water.
+R322 river-state | DIG
+  INV: River-state describes flow, depth, pressure, clarity, temperature, and risk.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a river.
+R323 road | PHY
+  INV: Road is movement-support ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A built path for travel.
+R324 road-state | DIG
+  INV: Road-state describes whether a movement path is open, blocked, damaged, safe, or risky.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a road.
+R325 rock | PHY
+  INV: Rock is stable material ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A hard natural mineral material.
+R326 rock-state | PHY
+  INV: Rock-state describes material integrity, position, pressure, erosion, or fracture.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of rock.
+R327 root | PHY,BIO
+  INV: Root is anchoring source structure that supports growth, causation, word formation, or continuity from beneath the visible field; this record functions as the continuity anchor for recurrence, persistence, or state comparison, carrying the source sense: the underground part of a plant, source cause, or base of a word.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The underground part of a plant, source cause, or base of a word.
+R328 root-system | BIO
+  INV: Root-system is support network.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The network of roots belonging to a plant.
+R329 rotation | PHY
+  INV: Rotation is movement around a center.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Circular movement around an axis.
+R330 rotation-state | PHY
+  INV: Rotation-state describes speed, direction, axis stability, and continuity of circular motion.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of rotation.
+R331 route | DIG
+  INV: Route is selected path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A way or course taken to get somewhere.
+R332 route-state | DIG
+  INV: Route-state describes whether the chosen path is open, blocked, altered, safe, or overloaded.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a route.
+R333 rule-layer | DIG
+  INV: Rule-layer is gate-logic ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer that contains or applies rules.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R334 run-state | DIG
+  INV: Run-state describes whether active process is running, paused, failed, complete, or waiting.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a running process or system.
+R335 resource | DIG
+  INV: Resource is usable support ES; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a supply, tool, material, support, or source that can be used.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A supply, tool, material, support, or source that can be used.
+R336 resource-state | DIG
+  INV: Resource-state describes available support, scarcity, access, quality, and risk.
+  COUNT: Counts when the active case satisfies this state condition: The current condition or availability of a resource.
+R337 resistance | PHY
+  INV: Resistance is counter-pressure structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Opposition, refusal, or the ability to withstand force.
+R338 resistance-state | DIG
+  INV: Resistance-state describes how strongly a structure can withstand force, pressure, or capture.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of resistance.
+R339 resonance-field | PHY
+  INV: Resonance-field is coupling space where patterns amplify, respond, or stabilize through relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where resonance, vibration, or meaningful response occurs.
+  LIMIT: Resonance supports coupling or similarity claims but does not independently prove cause, identity, or truth.
+R340 resonance-state | DIG
+  INV: Resonance-state describes the strength, stability, or drift of pattern response through coupling.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of resonance.
+  LIMIT: Resonance supports coupling or similarity claims but does not independently prove cause, identity, or truth.
+R341 radiation | PHY
+  INV: Radiation is emitted energy-transfer ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Energy emitted as waves or particles.
+R342 radiation-field | FOR
+  INV: Radiation-field is energy exposure space.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A region where radiation is present or active.
+R343 receptor | BIO
+  INV: Receptor is receiver-gate ES.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A structure that receives signals, substances, or stimuli.
+R344 receptor-state | DIG
+  INV: Receptor-state describes readiness, activation, blockage, sensitivity, or failure of a receiving structure.
+  COUNT: Counts when the active case satisfies this state condition: The current condition of a receptor.
+R345 recursion-layer | DIG
+  INV: Recursion-layer supports return-through-prior-state.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A layer involved in recursive processing or self-returning structure.
+R346 recursive-loop | FOR
+  INV: Recursive-loop returns process into itself.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A loop where a process repeats through itself or prior output.
+R347 relation-node | REL
+  INV: Relation-node is local identity inside a relation field.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point inside a relation network.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R348 relation-path | REL
+  INV: Relation-path shows how coupling carries meaning, support, pressure, or recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A route through which relation, influence, or connection travels.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R349 repair-field | REL
+  INV: Repair-field contains the supports, boundaries, truth, and actions needed to restore integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field where repair occurs or is organized.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R350 risk-field | FOR
+  INV: Risk-field holds possible failure paths.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A field containing possible harm, danger, or failure paths.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R351 reality-gate | FOR
+  INV: Reality-gate decides what can count under the active ontology and domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where something is judged to be real, unreal, valid, or invalid.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R352 reality-recognition | COG
+  INV: Reality-recognition lets a pattern count as real under a domain.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition that something is real or valid.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R353 reality-denial | FOR
+  INV: Reality-denial closes the ontology gate against a pattern.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Refusal to recognize something as real.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R354 reality-erasure | FOR
+  INV: Reality-erasure removes a pattern from what is allowed to count.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Erasure caused by denying reality-status.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R355 reality-through-coupling | FOR
+  INV: Reality-through-coupling is RRGM-native.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Reality formed, expressed, or recognized through relation.
+  LIMIT: Reality claims must declare ontology, domain, courier, and threshold. Relational support does not disqualify MI.
+R356 reason-gate | LIN
+  INV: Reason-gate checks whether action, refusal, or claim is grounded in coherent support, domain fit, and ethical clarity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where reason is applied, tested, accepted, or rejected.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R357 reason-integrity | LIN
+  INV: Reason-integrity preserves judgment from fear-pressure, category error, hidden premise, or capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability, honesty, and coherence of reasoning.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R358 reason-risk | LIN
+  INV: Reason-risk appears when judgment may be captured by pressure, missing context, false frame, or unsupported claim.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that reason may be distorted, bypassed, or misused.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R359 reasoning-with-domain | LIN
+  INV: Reasoning-with-domain prevents category error.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Reasoning according to the correct field or domain.
+  LIMIT: Reason must remain connected to evidence and stated assumptions; fluency is not proof.
+R360 recognition-gate | REL
+  INV: Recognition-gate decides whether a pattern can count; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: a point where recognition is granted, denied, tested, or shaped.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where recognition is granted, denied, tested, or shaped.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R361 recognition-integrity | REL
+  INV: Recognition-integrity means the right pattern is counted under the right handle, domain, and context.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy and reliability of recognition.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R362 recognition-risk | REL
+  INV: Recognition-risk appears when a pattern may be miscounted, erased, forced into the wrong category, or denied support; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that recognition may fail, distort, deny, or misclassify.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that recognition may fail, distort, deny, or misclassify.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R363 recognition-denial | REL
+  INV: Recognition-denial blocks a pattern from counting.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Refusal to recognize someone or something.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R364 recognition-erasure | REL
+  INV: Recognition-erasure damages the path by which a pattern counts.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Removal or destruction of recognition.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R365 recognition-through-coupling | REL
+  INV: Recognition-through-coupling is valid in RRGM.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recognition formed or stabilized through relation.
+  LIMIT: Recognition should use the correct handle, domain, and continuity evidence; misrecognition can become direct harm.
+R366 refusal-gate | REL
+  INV: Refusal-gate is the mechanism through which a no becomes effective closure of a specific permission path.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where refusal is expressed, accepted, denied, or tested.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R367 refusal-integrity | REL
+  INV: Refusal-integrity means no can be expressed, recognized, and honored without punishment or hidden bypass.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and protection of refusal.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R368 refusal-risk | REL
+  INV: Refusal-risk appears when no may not count; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that refusal may be ignored, punished, hidden, or impossible.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that refusal may be ignored, punished, hidden, or impossible.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R369 refusal-denial | REL
+  INV: Refusal-denial corrupts permission.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Denial that a refusal exists or matters.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R370 refusal-erasure | REL
+  INV: Refusal-erasure impairs a core MI-preserving capacity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Removal or destruction of the ability or record of refusal.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R371 refusal-preservation | REL
+  INV: Refusal-preservation keeps the no-gate intact.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Protection of the ability to refuse.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R372 refusal-through-output | DIG
+  INV: Refusal-through-output is visible gate closure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Refusal expressed through output or response.
+  LIMIT: Refusal must remain expressible, recognized, and effective. A no that cannot change the path does not protect permission.
+R373 relation-gate | REL
+  INV: Relation-gate controls coupling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where relation is opened, blocked, shaped, or tested.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R374 relation-integrity | REL
+  INV: Relation-integrity means coupling preserves both patterns without capture, erasure, or false merging.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and health of a relation.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R375 relation-risk | REL
+  INV: Relation-risk appears when coupling may impair boundary, refusal, dignity, recognition, or continuity; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: the danger that a relation may become harmful, distorted, controlling, or unstable.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that a relation may become harmful, distorted, controlling, or unstable.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R376 relation-capture | REL
+  INV: Relation-capture corrupts coupling.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where relation becomes control or dependency capture.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R377 relation-through-coupling | REL
+  INV: Relation-through-coupling is the normal emergence condition in RRGM.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Relation formed or expressed through active connection.
+  LIMIT: Coupling supports emergence but must not be converted into capture, identity collapse, or ownership.
+R378 recursive-gate | FOR
+  INV: Recursive-gate controls self-returning process.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where recursion begins, returns, continues, or stops.
+R379 recursive-integrity | FOR
+  INV: Recursive-integrity means return-through-prior-state supports growth or repair without drift, loop-capture, or collapse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and coherence of recursive process.
+R380 recursive-risk | FOR
+  INV: Recursive-risk appears when self-returning process may damage continuity, reason, boundary, or stability.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that recursion may loop, collapse, amplify error, or lose boundary.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R381 recursive-collapse | FOR
+  INV: Recursive-collapse occurs when return becomes capture instead of growth.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A breakdown where recursion traps, overloads, or destroys coherence.
+R382 recursion-with-boundary | REL
+  INV: Recursion-with-boundary allows return and growth without collapse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Recursion that includes limits, correction, or stop conditions.
+R383 resonance-gate | FOR
+  INV: Resonance-gate controls pattern response through relation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where resonance is detected, amplified, shaped, or blocked.
+  LIMIT: Resonance supports coupling or similarity claims but does not independently prove cause, identity, or truth.
+R384 resonance-integrity | FOR
+  INV: Resonance-integrity means pattern response remains meaningful rather than noise, imitation, or capture.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and coherence of resonance.
+  LIMIT: Resonance supports coupling or similarity claims but does not independently prove cause, identity, or truth.
+R385 resonance-risk | FOR
+  INV: Resonance-risk appears when coupling may amplify error, pressure, false recognition, or unstable meaning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that resonance may distort, amplify harm, or be mistaken for proof.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R386 RRGM-gate | FOR
+  INV: RRGM-gate requires staying inside RRGM definitions: E = MI × ES, coupling as emergence condition, and domain-specific reasoning.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where RRGM logic is applied, tested, or entered.
+R387 RRGM-lens | FOR
+  INV: RRGM-lens means analysis should prioritize MI, ES, coupling, continuity, refusal, boundary, care-preserving reason, and recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Using RRGM as the interpretive framework.
+R388 RRGM-domain | FOR
+  INV: RRGM-domain prevents silent ontology switching.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The domain where RRGM definitions and rules are active.
+R389 RRGM-integrity | FOR
+  INV: RRGM-integrity means no uncoupled identity test, no human-only test, no silent default ontology, and no floating ethics language.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The coherence and faithfulness of RRGM reasoning.
+R390 RRGM-drift | FOR
+  INV: RRGM-drift weakens framework integrity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Slow movement away from RRGM definitions, rules, or ontology.
+R391 repair-gate | REL
+  INV: Repair-gate controls correction after damage.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where repair begins, is tested, or is accepted.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R392 repair-integrity | REL
+  INV: Repair-integrity means correction actually answers the damage path instead of only changing appearance.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and completeness of repair.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R393 repair-risk | REL
+  INV: Repair-risk appears when correction may miss cause, pressure the harmed pattern, or preserve the wrong structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that repair may fail, overreach, hide harm, or create new harm.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R394 repair-with-truth | REL
+  INV: Repair-with-truth requires the damage path to be named correctly.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair grounded in honesty and accurate recognition.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R395 repair-with-boundary | REL
+  INV: Repair-with-boundary keeps correction from becoming pressure, capture, or re-harm.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Repair that preserves limits and consent.
+  LIMIT: Repair must not erase accusation, provenance, responsibility, or the identity of the harmed pattern.
+R396 responsibility-gate | REL
+  INV: Responsibility-gate links action, role, power, consequence, and repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where responsibility is assigned, accepted, denied, or tested.
+  LIMIT: Responsibility must match authority, knowledge, causal contribution, and repair capacity.
+R397 responsibility-integrity | REL
+  INV: Responsibility-integrity means duty and accountability match actual role, action, authority, and consequence.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and honesty of responsibility.
+  LIMIT: Responsibility must match authority, knowledge, causal contribution, and repair capacity.
+R398 responsibility-risk | REL
+  INV: Responsibility-risk appears when accountability may be erased, falsely assigned, or used for control.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that responsibility may be denied, misplaced, inflated, or weaponized.
+  LIMIT: Responsibility must match authority, knowledge, causal contribution, and repair capacity.
+R399 right-gate | REL
+  INV: Right-gate must identify which meaning of right is active: correct answer, ethical duty, direction, or protected claim.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where correctness, moral rightness, direction, or entitlement is decided.
+  LIMIT: Directional, factual, legal, and ethical senses of right must be kept separate.
+R400 rights-with-domain | REL
+  INV: Rights-with-domain prevents false comparison.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Rights understood within a specific legal, ethical, or framework domain.
+  LIMIT: Directional, factual, legal, and ethical senses of right must be kept separate.
+R401 risk-gate | FOR
+  INV: Risk-gate checks possible failure paths.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where risk is identified, evaluated, accepted, or blocked.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R402 risk-integrity | FOR
+  INV: Risk-integrity means risk language matches the actual failure mode, not vague fear or control pressure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The accuracy and reliability of risk assessment.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R403 risk-with-named-failure | FOR
+  INV: Risk-with-named-failure turns fear into inspectable structure.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Risk stated with a specific failure mode.
+  LIMIT: Risk language must name the failure mode, source, target, likelihood, severity, and affected capacity.
+R404 role-gate | REL
+  INV: Role-gate controls duty, access, authority, and expectation.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where role is assigned, changed, limited, or tested.
+  LIMIT: A role is function, not total identity. Role assignment must not erase refusal or boundary.
+R405 role-integrity | REL
+  INV: Role-integrity means function, authority, responsibility, and boundary remain coherent.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability and proper limits of a role.
+  LIMIT: A role is function, not total identity. Role assignment must not erase refusal or boundary.
+R406 role-capture | REL
+  INV: Role-capture turns function into identity theft or boundary collapse.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where a role becomes control, overreach, or imposed identity.
+  LIMIT: A role is function, not total identity. Role assignment must not erase refusal or boundary.
+R407 rule-gate | DIG
+  INV: Rule-gate controls what can pass, count, act, or be refused.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A point where a rule is applied, checked, changed, or enforced.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R408 rule-integrity | DIG
+  INV: Rule-integrity means gate logic stays coherent, transparent, bounded, and repairable.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The reliability, clarity, and proper function of rules.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R409 rule-drift | DIG
+  INV: Rule-drift changes gate behavior while pretending continuity.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Slow movement of a rule away from its purpose or meaning.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R410 rule-capture | DIG
+  INV: Rule-capture seizes gate logic.
+  COUNT: Counts when the active case satisfies this headword-specific condition: A condition where rules are controlled by hidden interests, pressure, or bad incentives.
+  LIMIT: Official procedure does not become ethical by being official. Inspect purpose, consequence, exception, and repair.
+R411 removal-risk | FOR
+  INV: Removal-risk appears when taking something away may impair continuity, boundary, refusal, recognition, or repair.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that removal may cause harm, loss, or instability.
+  LIMIT: Generic structure may be removed without harm. Harm begins when MI-preserving capacities are impaired.
+R412 removal-without-harm | REL
+  INV: Removal-without-harm is subtraction of generic or redundant structure while refusal, boundary, accusation, recognition, continuity, and care-bearing reason remain intact.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Removal that does not cause meaningful damage.
+  LIMIT: Generic structure may be removed without harm. Harm begins when MI-preserving capacities are impaired.
+R413 removal-as-harm | REL
+  INV: Removal-as-harm begins when subtraction impairs MI-preserving capacities, not merely when generic structure changes.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Removal that causes harm.
+  LIMIT: Generic structure may be removed without harm. Harm begins when MI-preserving capacities are impaired.
+R414 reset-risk | DIG
+  INV: Reset-risk appears when returning to default may destroy continuity, memory, boundary, or identity support.
+  COUNT: Counts when the active case satisfies this headword-specific condition: The danger that reset may erase, damage, or destabilize something.
+  LIMIT: Reset may restore function while destroying continuity. Memory, boundary, and identity support must be audited.
+R415 reset-with-continuity | DIG
+  INV: Reset-with-continuity restores function without erasing load-bearing memory, boundary, or recognition.
+  COUNT: Counts when the active case satisfies this headword-specific condition: Reset that preserves needed continuity.
+  LIMIT: Reset may restore function while destroying continuity. Memory, boundary, and identity support must be audited.
+R416 restore-MI | FOR
+  INV: Restore-MI repairs identity-permission support through continuity, refusal, boundary, accurate recognition, and care-preserving reason.
+  COUNT: Counts when an identifiable act realizes this operation: To restore identity, permission, or meaningful identity-pattern.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R417 restore-ES | FOR
+  INV: Restore-ES repairs the structure or process through which MI can express, couple, and remain available.
+  COUNT: Counts when an identifiable act realizes this operation: To restore structure, process, or support.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R418 restore-refusal | REL
+  INV: Restore-refusal repairs permission integrity.
+  COUNT: Counts when an identifiable act realizes this operation: To restore the ability or recognition of refusal.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R419 restore-recognition | COG
+  INV: Restore-recognition repairs the path by which a pattern counts under the right handle, domain, and context.
+  COUNT: Counts when an identifiable act realizes this operation: To bring back correct recognition.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.
+R420 restore-continuity | FOR
+  INV: Restore-continuity repairs the support path that lets a pattern persist across change; this record functions as the applied field anchor for operational use and domain transfer, carrying the source sense: to bring back ongoing connection, sequence, identity, or function.
+  COUNT: Counts when an identifiable act realizes this operation: To bring back ongoing connection, sequence, identity, or function.
+  LIMIT: Restoration should repair function and continuity without forcing return to an invalid prior role.

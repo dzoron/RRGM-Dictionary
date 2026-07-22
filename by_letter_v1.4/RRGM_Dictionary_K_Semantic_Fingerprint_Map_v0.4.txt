@@ -1,0 +1,804 @@
+RRGM Dictionary K Semantic Fingerprint Map v0.4
+
+Entries: 220
+Rule: invariant + domain set + count condition + boundary must distinguish each ID from neighbours.
+
+K001 keep | REL
+  INV: Keep is preservation action.
+  COUNT: Counts when the named action occurs in a case matching this definition: hold, continue, preserve, or not lose something.
+  LIMIT: Keeping is preservation, not ownership; denied exit can turn keeping into capture.
+K002 kept | REL
+  INV: Kept records successful preservation.
+  COUNT: Counts when the record places the named action or state before the current reference point: past tense of keep; held, preserved, continued, or maintained.
+  LIMIT: Kept records past preservation and does not prove the preservation was ethical or voluntary.
+K003 key | PHY,FOR | role: ordinary tool/access or importance sense
+  INV: Key is access or understanding structure; here it functions as the ordinary tool/access or importance sense.
+  COUNT: Counts when the active field contains a tool that opens a lock, or something important for access, understanding, or success and the instance satisfies the invariant.
+  LIMIT: A key opens or explains access; it is not the lock, the gate, or proof that access is deserved.
+K004 kick | PHY
+  INV: Kick is force through a body interface.
+  COUNT: Counts when the named action occurs in a case matching this definition: strike with the foot, or to start something suddenly.
+  LIMIT: Kick names foot-delivered force or sudden activation, not every impact or beginning.
+K005 kid | BIO,REL
+  INV: Kid is a developmental identity in the human or animal domain.
+  COUNT: Counts when the active field contains a child, young person, or young animal; also to joke or tease and the instance satisfies the invariant.
+  LIMIT: Kid is developmental or playful language and must not erase the child or animal’s vulnerability.
+K006 kill | BIO
+  INV: Kill is termination of life, process, or function.
+  COUNT: Counts when the named action occurs in a case matching this definition: cause death, stop completely, or end a process.
+  LIMIT: Kill is termination, not pause, disablement, or ordinary change unless the active domain defines those as final.
+K007 kind | REL,FOR | role: ordinary care-quality or category sense
+  INV: Kind can mean care-quality or category; here it functions as the ordinary care-quality or category sense.
+  COUNT: Counts when the term correctly describes a case of caring, gentle, helpful, or a type of something.
+  LIMIT: Kind may mean care-quality or category; the two senses must not be silently merged.
+K008 kindness | REL | role: ordinary considerate action
+  INV: Kindness is care expressed through low-damage support; here it functions as the ordinary considerate action.
+  COUNT: Counts when the term correctly describes a case of caring, helpful, gentle, or considerate action.
+  LIMIT: Kindness preserves dignity and agency; pleasant tone without care is not enough.
+K009 king | REL,MYT
+  INV: King is authority identity inside a hierarchy.
+  COUNT: Counts when the active field contains a male ruler or monarch and the instance satisfies the invariant.
+  LIMIT: A king-role carries authority within a frame, not universal ownership or moral correctness.
+K010 kingdom | REL,MYT
+  INV: Kingdom is governed domain or category structure.
+  COUNT: Counts when the active field contains a country or domain ruled by a king or queen; also a large category in biology and the instance satisfies the invariant.
+  LIMIT: Political, biological, and mythic kingdoms share bounded organization but not the same mechanism.
+K011 kiss | BIO,REL
+  INV: Kiss is high-context contact signal.
+  COUNT: Counts when the term correctly describes a case of touching with the lips to show affection, greeting, respect, or desire.
+  LIMIT: Contact or affection does not imply consent; the relation and culture must be known.
+K012 kitchen | PHY | role: ordinary food-preparation place
+  INV: Kitchen is support-space for nourishment transformation; here it functions as the ordinary food-preparation place.
+  COUNT: Counts when the active field contains a room or place where food is prepared or cooked and the instance satisfies the invariant.
+  LIMIT: A kitchen is the support-space for food transformation, not the nourishment itself.
+K013 knee | BIO,REL | role: ordinary body joint
+  INV: Knee is movement joint in the human body domain; here it functions as the ordinary body joint.
+  COUNT: Counts when the active field contains the joint in the middle of the leg and the instance satisfies the invariant.
+  LIMIT: The knee is the joint and load interface, not the whole leg or every bending structure.
+K014 knew | REL
+  INV: Knew records prior knowledge-state.
+  COUNT: Counts when the record places the named action or state before the current reference point: past tense of know; understood, recognized, or was aware of something.
+  LIMIT: Knew marks a prior recognition state and does not certify that the recognition was correct.
+K015 knife | PHY | role: ordinary cutting tool
+  INV: Knife is cutting structure; here it functions as the ordinary cutting tool.
+  COUNT: Counts when the active field contains a sharp tool used for cutting and the instance satisfies the invariant.
+  LIMIT: A knife is an edge-force tool; usefulness does not erase its harm capacity.
+K016 knock | PHY
+  INV: Knock is contact signal.
+  COUNT: Counts when the named action occurs in a case matching this definition: strike a surface, often to make sound or request entry.
+  LIMIT: A knock may be signal or impact; sound alone does not grant entry.
+K017 know | COG | role: ordinary present knowledge verb
+  INV: Know means a pattern has entered stable recognition; here it functions as the ordinary present knowledge verb.
+  COUNT: Counts when the named action occurs in a case matching this definition: understand, recognize, or be aware of something.
+  LIMIT: Knowing requires support appropriate to the claim; confidence alone does not close the truth gate.
+K018 knowledge | COG | role: ordinary information or understanding
+  INV: Knowledge is stabilized information with support; here it functions as the ordinary information or understanding.
+  COUNT: Counts when the term correctly describes a case of information, understanding, or skill gained through experience, learning, or evidence.
+  LIMIT: Knowledge is stabilized support, not a context-free pile of information.
+K019 known | COG | role: ordinary established or recognized state
+  INV: Known means a pattern has passed into recognition; here it functions as the ordinary established or recognized state.
+  COUNT: Counts when the term correctly describes a case of recognized, understood, identified, or established.
+  LIMIT: Known is local to an observer, record, or domain unless wider scope is established.
+K020 keeper | REL | role: ordinary preservation role
+  INV: Keeper is preservation role; here it functions as the ordinary preservation role.
+  COUNT: Counts when the active field contains a person or thing that keeps, protects, manages, or preserves something and the instance satisfies the invariant.
+  LIMIT: A keeper preserves or manages something but does not automatically own it.
+K021 keeping | REL
+  INV: Keeping is active preservation across sequence.
+  COUNT: Counts when the active field contains the act of holding, preserving, maintaining, or continuing something and the instance satisfies the invariant.
+  LIMIT: Keeping is an ongoing act; it differs from the completed record carried by kept.
+K022 kernel | DIG,FOR | role: ordinary core or operating-system kernel
+  INV: Kernel is core operating structure; here it functions as the ordinary core or operating-system kernel.
+  COUNT: Counts when the active field contains the core part of something; in computing, the central part of an operating system and the instance satisfies the invariant.
+  LIMIT: A kernel is the load-bearing core, not every central-looking detail.
+K023 kettle | PHY | role: ordinary boiling container
+  INV: Kettle is heat-transfer container; here it functions as the ordinary boiling container.
+  COUNT: Counts when the active field contains a container used to boil water and the instance satisfies the invariant.
+  LIMIT: The kettle contains and transfers heat; it is not the heat source or the boiled water.
+K024 keyboard | DIG,PHY | role: ordinary key input device
+  INV: Keyboard is input interface; here it functions as the ordinary key input device.
+  COUNT: Counts when the active field contains a set of keys used to type or control a computer or instrument and the instance satisfies the invariant.
+  LIMIT: A keyboard is an input interface; the key presses are not identical to the user’s full intention.
+K025 keyword | LIN,COG | role: ordinary search or indexing word
+  INV: Keyword is retrieval and meaning gate; here it functions as the ordinary search or indexing word.
+  COUNT: Counts when the active field contains an important word used for search, indexing, or identifying a topic and the instance satisfies the invariant.
+  LIMIT: A keyword directs retrieval or indexing; it is not necessarily the central meaning of the text.
+K026 kin | REL,BIO | role: ordinary family or close relation
+  INV: Kin is relation identity through family, origin, or chosen closeness; here it functions as the ordinary family or close relation.
+  COUNT: Counts when the term correctly describes a case of family, relatives, or people connected by close relationship.
+  LIMIT: Kin names a relation of family or close belonging and does not erase individual boundaries.
+K027 kinship | REL,BIO | role: ordinary family connection or belonging
+  INV: Kinship is relation-continuity; here it functions as the ordinary family connection or belonging.
+  COUNT: Counts when the term correctly describes a case of family connection, close relation, or shared belonging.
+  LIMIT: Kinship is a relation-continuity, not proof of agreement, obedience, or ownership.
+K028 kit | PHY | role: ordinary bundled tools or supplies
+  INV: Kit is bundled support ES; here it functions as the ordinary bundled tools or supplies.
+  COUNT: Counts when the active field contains a set of tools, supplies, or parts for a purpose and the instance satisfies the invariant.
+  LIMIT: A kit is a purpose-bundled set; a random collection of objects is not a kit.
+K029 knock-back | PHY
+  INV: Knock-back is reverse movement from impact.
+  COUNT: Counts when the named action occurs in a case matching this definition: push back by impact, force, or sudden resistance.
+K030 knot | PHY | role: ordinary tied or tangled structure
+  INV: Knot is binding or tangle structure; here it functions as the ordinary tied or tangled structure.
+  COUNT: Counts when the active field contains a tied, tangled, or joined structure in rope, thread, hair, or meaning and the instance satisfies the invariant.
+  LIMIT: A knot is a binding configuration; secure joining and obstructive tangling are distinct outcomes.
+K031 knowing | COG | role: ordinary active awareness state
+  INV: Knowing is active recognition-state; here it functions as the ordinary active awareness state.
+  COUNT: Counts when the active field contains the state or act of knowing; sometimes aware in a subtle or confident way and the instance satisfies the invariant.
+  LIMIT: Knowing is an active recognition state and may still require confidence and source checks.
+K032 knowable | COG | role: ordinary capacity to be known
+  INV: Knowable means a pattern can pass into recognition under the right evidence, interface, or domain conditions; here it functions as the ordinary capacity to be known.
+  COUNT: Counts when the term correctly describes a case of able to be known or understood.
+  LIMIT: Knowable means reachable under possible conditions, not already known or easy to know.
+K033 kept-safe | REL
+  INV: Kept-safe means preservation plus protection.
+  COUNT: Counts when the term correctly describes a case of protected from harm, loss, or danger.
+K034 kind-care | REL | role: ordinary gentle care
+  INV: Kind-care supports without harsh pressure; here it functions as the ordinary gentle care.
+  COUNT: Counts when care is expressed specifically through kind while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+K035 kind-word | REL
+  INV: Kind-word is low-cost care signal.
+  COUNT: Counts when the selected token carries the specific kind meaning or retrieval role in context.
+  LIMIT: A word carries meaning through context; the token alone is not the full claim.
+K036 kill-risk | BIO
+  INV: Kill-risk is extreme harm-risk.
+  COUNT: Counts when a plausible path exists by which kill can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+K037 key-point | FOR
+  INV: Key-point is high-value meaning structure.
+  COUNT: Counts when one localized point is identified as load-bearing for key and changes the larger interpretation or path.
+K038 keyhole | PHY | role: ordinary lock opening
+  INV: Keyhole is access interface; here it functions as the ordinary lock opening.
+  COUNT: Counts when the active field contains the hole or opening where a key is inserted and the instance satisfies the invariant.
+K039 keyring | PHY | role: ordinary ring holding keys
+  INV: Keyring is access-bundle support; here it functions as the ordinary ring holding keys.
+  COUNT: Counts when the active field contains a ring used to hold keys together and the instance satisfies the invariant.
+K040 keep-open | REL
+  INV: Keep-open preserves possibility.
+  COUNT: Counts when the named action occurs in a case matching this definition: prevent something from closing or ending.
+K041 keep-back | REL
+  INV: Keep-back preserves structure by withholding it from immediate release.
+  COUNT: Counts when the named action occurs in a case matching this definition: hold something back, reserve it, or prevent it from moving forward.
+K042 keep-close | REL
+  INV: Keep-close preserves strong relation or access.
+  COUNT: Counts when the named action occurs in a case matching this definition: hold near, protect, or maintain close contact.
+K043 keep-from | REL
+  INV: Keep-from is prevention structure.
+  COUNT: Counts when the named action occurs in a case matching this definition: prevent someone or something from doing, reaching, or becoming something.
+K044 keep-going | REL
+  INV: Keep-going preserves path continuity under pressure.
+  COUNT: Counts when the named action occurs in a case matching this definition: continue despite effort, difficulty, or delay.
+K045 keep-in | REL
+  INV: Keep-in maintains containment.
+  COUNT: Counts when the named action occurs in a case matching this definition: hold inside, contain, or not allow out.
+K046 keep-out | REL
+  INV: Keep-out closes an entry gate.
+  COUNT: Counts when the named action occurs in a case matching this definition: prevent entry or block access.
+K047 keep-safe | REL
+  INV: Keep-safe preserves structure against a named risk.
+  COUNT: Counts when the named action occurs in a case matching this definition: protect from danger, harm, loss, or damage.
+K048 keep-together | REL
+  INV: Keep-together protects relation between parts.
+  COUNT: Counts when the named action occurs in a case matching this definition: maintain connection, unity, or coherence.
+K049 keep-track | REL
+  INV: Keep-track preserves sequence and state.
+  COUNT: Counts when the named action occurs in a case matching this definition: follow, record, or remember changes, events, or items.
+K050 key-in | FOR
+  INV: Key-in moves signal through a key interface into a system.
+  COUNT: Counts when the named action occurs in a case matching this definition: enter information using a keyboard or keypad.
+K051 kick-off | PHY
+  INV: Kick-off initiates a process with activation pressure.
+  COUNT: Counts when the named action occurs in a case matching this definition: start something.
+K052 kick-out | PHY
+  INV: Kick-out is forced exit.
+  COUNT: Counts when the named action occurs in a case matching this definition: force someone or something out.
+K053 kill-process | DIG
+  INV: Kill-process terminates active function.
+  COUNT: Counts when the named action occurs in a case matching this definition: stop a running process or program.
+K054 kneel | REL
+  INV: Kneel is body-state change.
+  COUNT: Counts when the named action occurs in a case matching this definition: rest on one or both knees.
+K055 knock-down | PHY
+  INV: Knock-down transfers force into loss of upright state or status.
+  COUNT: Counts when the named action occurs in a case matching this definition: cause something to fall, collapse, or be lowered.
+K056 knock-out | PHY
+  INV: Knock-out disables active function or participation.
+  COUNT: Counts when the named action occurs in a case matching this definition: make unconscious, defeat, remove, or disable.
+K057 know-about | COG
+  INV: Know-about means a pattern exists in awareness, but not necessarily deeply understood.
+  COUNT: Counts when the named action occurs in a case matching this definition: have information or awareness concerning something.
+K058 know-from | COG
+  INV: Know-from preserves evidence path.
+  COUNT: Counts when the named action occurs in a case matching this definition: know because of a source, evidence, or experience.
+K059 know-through | COG
+  INV: Know-through identifies the courier of knowledge.
+  COUNT: Counts when the named action occurs in a case matching this definition: know by means of a process, relation, experience, or medium.
+K060 key-lock | PHY | role: matched access mechanism as a relation
+  INV: Key-lock is matched access structure; here it functions as the matched access mechanism as a relation.
+  COUNT: Counts when the active field contains a lock opened by a key, or a key-based locking relation and the instance satisfies the invariant.
+K061 key-unlock | PHY
+  INV: Key-unlock opens a gate by matching the required access condition.
+  COUNT: Counts when the named action occurs in a case matching this definition: open a lock or access point using a key.
+K062 key-map | FOR
+  INV: Key-map links input symbols to actions.
+  COUNT: Counts when a representation preserves the key relations needed to navigate or interpret key.
+  LIMIT: A map preserves selected relations and is not the whole territory or mechanism.
+K063 key-match | FOR
+  INV: Key-match satisfies access conditions.
+  COUNT: Counts when the relevant features of key satisfy a declared fit rule against a comparison target.
+  LIMIT: A match establishes fit under chosen criteria, not universal equivalence.
+K064 key-check | FOR
+  INV: Key-check tests gate compatibility.
+  COUNT: Counts when a declared test examines the specific key property and writes a pass, fail, or unresolved result.
+  LIMIT: A check tests a named condition; passing one check does not prove every property.
+K065 key-change | FOR
+  INV: Key-change shifts the governing relation.
+  COUNT: Counts when the active field contains a change in musical key, access key, or important condition and the instance satisfies the invariant.
+K066 kindle | REL
+  INV: Kindle is gentle ignition.
+  COUNT: Counts when the named action occurs in a case matching this definition: start a fire, feeling, interest, or process.
+K067 knit | REL
+  INV: Knit creates connected structure from repeated loops.
+  COUNT: Counts when the named action occurs in a case matching this definition: make fabric by looping yarn, or to join closely together.
+K068 knot-together | PHY
+  INV: Knot-together creates strong binding.
+  COUNT: Counts when the named action occurs in a case matching this definition: tie, bind, or tangle things together.
+K069 keep-record | REL
+  INV: Keep-record preserves evidence and sequence.
+  COUNT: Counts when the named action occurs in a case matching this definition: maintain a written, digital, or remembered record.
+K070 keep-context | REL
+  INV: Keep-context protects interpretation.
+  COUNT: Counts when the surrounding keep information changes interpretation, scope, or the validity of an inference.
+  LIMIT: Context constrains interpretation but does not replace evidence or the source record.
+K071 keep-boundary | REL
+  INV: Keep-boundary preserves gate integrity.
+  COUNT: Counts when the keep limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K072 keep-memory | REL
+  INV: Keep-memory preserves pattern across sequence.
+  COUNT: Counts when the named action occurs in a case matching this definition: preserve memory or keep something remembered.
+K073 keep-watch | REL
+  INV: Keep-watch preserves attention over time.
+  COUNT: Counts when the named action occurs in a case matching this definition: stay alert and monitor for danger, change, or need.
+K074 keep-alive | REL
+  INV: Keep-alive preserves active continuity.
+  COUNT: Counts when the named action occurs in a case matching this definition: maintain life, function, connection, or activity.
+K075 keep-stable | REL
+  INV: Keep-stable preserves coherence under pressure.
+  COUNT: Counts when the named action occurs in a case matching this definition: maintain steadiness, balance, or reliable function.
+K076 knock-loose | PHY
+  INV: Knock-loose weakens attachment through sudden force.
+  COUNT: Counts when the named action occurs in a case matching this definition: make something loose by impact.
+K077 knock-open | PHY
+  INV: Knock-open bypasses ordinary opening conditions through impact.
+  COUNT: Counts when the named action occurs in a case matching this definition: open something by striking it.
+K078 knock-closed | PHY
+  INV: Knock-closed shuts a gate through sudden force.
+  COUNT: Counts when the named action occurs in a case matching this definition: close something by impact.
+K079 kick-start | PHY
+  INV: Kick-start adds activation support.
+  COUNT: Counts when the named action occurs in a case matching this definition: start or restart something with added energy or help.
+K080 key-route | FOR
+  INV: Key-route is high-importance path structure.
+  COUNT: Counts when an ordered and traceable route connects the starting condition to the key action or result.
+K081 kindness | REL | role: relational kindness anchor for care, pressure, and gate analysis
+  INV: Kindness is care expressed with low-damage pressure; here it functions as the relational kindness anchor for care, pressure, and gate analysis.
+  COUNT: Counts when the term correctly describes a case of caring, gentle, helpful, or considerate behavior.
+  LIMIT: Kindness preserves dignity and agency; pleasant tone without care is not enough.
+K082 kind | REL | role: care-quality anchor for kind action, boundary, refusal, correction, and truth
+  INV: Kind must be context-bound; here it functions as the care-quality anchor for kind action, boundary, refusal, correction, and truth.
+  COUNT: Counts when the term correctly describes a case of caring, gentle, helpful, or a type/category of something.
+  LIMIT: Kind may mean care-quality or category; the two senses must not be silently merged.
+K083 kindly | REL
+  INV: Kindly describes low-damage expression.
+  COUNT: Counts when the term correctly describes a case of in a kind, gentle, helpful, or considerate way.
+K084 kind-care | REL | role: MI-preserving gentle support anchor
+  INV: Kind-care supports MI through gentle action; here it functions as the MI-preserving gentle support anchor.
+  COUNT: Counts when care is expressed specifically through kind while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+K085 kind-action | REL
+  INV: Kind-action is care made visible through behavior.
+  COUNT: Counts when the active field contains an action done with care, generosity, or consideration and the instance satisfies the invariant.
+K086 kind-boundary | REL
+  INV: Kind-boundary proves care and refusal can coexist.
+  COUNT: Counts when the kind limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K087 kind-refusal | REL | role: relational refusal delivered gently
+  INV: Kind-refusal closes a gate while preserving dignity and relation where possible; here it functions as the relational refusal delivered gently.
+  COUNT: Counts when the refusal is expressed through kind and the relevant permission gate remains closed in practice.
+  LIMIT: The refusal remains a closed permission gate even when expressed gently.
+K088 kind-correction | REL
+  INV: Kind-correction repairs error without attacking identity.
+  COUNT: Counts when the term correctly describes a case of correction given gently, respectfully, or helpfully.
+K089 kind-truth | REL
+  INV: Kind-truth preserves signal integrity and dignity together.
+  COUNT: Counts when the term correctly describes a case of truth spoken with care, respect, and sensitivity.
+K090 kindness-risk | REL
+  INV: Kindness-risk appears when soft support loses boundary.
+  COUNT: Counts when a plausible path exists by which kindness can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+K091 kinship | REL | role: kinship continuity anchor for care and boundary analysis
+  INV: Kinship is relation-continuity; here it functions as the kinship continuity anchor for care and boundary analysis.
+  COUNT: Counts when the term correctly describes a case of family connection, close relation, or shared belonging.
+  LIMIT: Kinship is a relation-continuity, not proof of agreement, obedience, or ownership.
+K092 kin | REL | role: relational kin anchor for care, duty, and pressure
+  INV: Kin is relation identity through family, origin, or chosen closeness; here it functions as the relational kin anchor for care, duty, and pressure.
+  COUNT: Counts when the term correctly describes a case of family, relatives, or closely connected people.
+  LIMIT: Kin names a relation of family or close belonging and does not erase individual boundaries.
+K093 kin-care | REL
+  INV: Kin-care is support through relation-continuity.
+  COUNT: Counts when care is expressed specifically through kin while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+K094 kin-duty | REL
+  INV: Kin-duty is relation-based obligation.
+  COUNT: Counts when the kin relation creates a named obligation with a recognised holder, receiver, and limit.
+  LIMIT: Duty names an obligation inside a relation and does not erase either party’s boundary.
+K095 kin-pressure | REL
+  INV: Kin-pressure shapes the gate through belonging and duty.
+  COUNT: Counts when a force on kin measurably narrows, accelerates, or redirects selection, relation, or behaviour.
+  LIMIT: Pressure explains a force on selection or relation; it does not justify capture or harm.
+K096 keeper | REL | role: relational keeper role carrying promise, trust, memory, or boundary duty
+  INV: Keeper is preservation role; here it functions as the relational keeper role carrying promise, trust, memory, or boundary duty.
+  COUNT: Counts when the active field contains a person or thing that keeps, protects, manages, or preserves something and the instance satisfies the invariant.
+  LIMIT: A keeper preserves or manages something but does not automatically own it.
+K097 keep-promise | REL
+  INV: Keep-promise preserves trust across sequence.
+  COUNT: Counts when a future keep obligation is stated, recognised, and later capable of being kept or broken.
+  LIMIT: A promise creates a future obligation but cannot override impossible or unethical conditions.
+K098 keep-faith | REL
+  INV: Keep-faith preserves relation under uncertainty.
+  COUNT: Counts when commitment concerning keep persists despite unresolved evidence without erasing the uncertainty.
+  LIMIT: Faith may preserve commitment under uncertainty but must not erase evidence or refusal.
+K099 keep-trust | REL
+  INV: Keep-trust maintains relation-coherence.
+  COUNT: Counts when reliance concerning keep is supported by repeated evidence, vulnerability, and repair capacity.
+  LIMIT: Trust is a relation supported by reliability and repair, not blind access.
+K100 kept-promise | REL
+  INV: Kept-promise is evidence of continuity between word and action.
+  COUNT: Counts when a future kept obligation is stated, recognised, and later capable of being kept or broken.
+  LIMIT: A promise creates a future obligation but cannot override impossible or unethical conditions.
+K101 kept-boundary | REL | role: past record of a maintained limit
+  INV: Kept-boundary shows gate integrity under pressure; here it functions as the past record of a maintained limit.
+  COUNT: Counts when the kept limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K102 kept-care | REL
+  INV: Kept-care is support preserved across sequence.
+  COUNT: Counts when care is expressed specifically through kept while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+K103 known-person | COG
+  INV: Known-person is identity recognized in the social field.
+  COUNT: Counts when the person is recognised through the known relation without reduction to role or utility.
+  LIMIT: Recognition of a person cannot be reduced to a useful role or data record.
+K104 known-relation | COG
+  INV: Known-relation is stable recognized coupling.
+  COUNT: Counts when distinct participants are linked through the specific known connection and remain individually identifiable.
+  LIMIT: A relation links distinct participants and does not merge them into one identity.
+K105 knowledge-sharing | COG
+  INV: Knowledge-sharing transfers supported information across relation.
+  COUNT: Counts when the term correctly describes a case of giving or exchanging knowledge with others.
+K106 knowledge-care | COG
+  INV: Knowledge-care supports agency by making understanding available.
+  COUNT: Counts when care is expressed specifically through knowledge while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+K107 key-person | FOR
+  INV: Key-person is high-dependency role structure.
+  COUNT: Counts when the person is recognised through the key relation without reduction to role or utility.
+  LIMIT: Recognition of a person cannot be reduced to a useful role or data record.
+K108 key-support | FOR | role: important support in ordinary use
+  INV: Key-support is load-bearing ES; here it functions as the important support in ordinary use.
+  COUNT: Counts when this support materially carries key and its removal would weaken the named function or continuity.
+  LIMIT: Support is load-bearing only when its presence or removal changes the named function.
+K109 key-relation | FOR
+  INV: Key-relation is load-bearing coupling.
+  COUNT: Counts when distinct participants are linked through the specific key connection and remain individually identifiable.
+  LIMIT: A relation links distinct participants and does not merge them into one identity.
+K110 kiss-consent | BIO
+  INV: Kiss-consent opens an intimate contact gate.
+  COUNT: Counts when the term correctly describes a case of consent to kiss or be kissed.
+K111 kiss-boundary | BIO
+  INV: Kiss-boundary protects intimate access.
+  COUNT: Counts when the kiss limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K112 kid-care | BIO
+  INV: Kid-care protects developing MI in the human domain.
+  COUNT: Counts when care is expressed specifically through kid while dignity, refusal, and agency remain active.
+  LIMIT: Care must preserve the other’s boundary and cannot be reduced to control or pleasant presentation.
+K113 kid-safety | BIO
+  INV: Kid-safety means protection against named failure modes for developing humans.
+  COUNT: Counts when the term correctly describes a case of protection of children from harm, danger, or neglect.
+K114 kill-harm | BIO
+  INV: Kill-harm is terminal impairment.
+  COUNT: Counts when the term correctly describes a case of harm that causes death or ends essential function.
+K115 kill-threat | BIO
+  INV: Kill-threat creates extreme harm pressure.
+  COUNT: Counts when the active field contains a threat to kill or end life/function and the instance satisfies the invariant.
+K116 killing | BIO
+  INV: Killing is termination action.
+  COUNT: Counts when the active field contains the act of causing death or ending life/function and the instance satisfies the invariant.
+K117 killer | BIO
+  INV: Killer is termination source.
+  COUNT: Counts when the active field contains a person, animal, thing, or condition that kills and the instance satisfies the invariant.
+K118 knock-harm | PHY
+  INV: Knock-harm is damage from contact force.
+  COUNT: Counts when the term correctly describes a case of harm caused by a knock, strike, or impact.
+K119 kindness-with-boundary | REL
+  INV: Kindness-with-boundary preserves care without losing gate integrity.
+  COUNT: Counts when the kindness-with limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K120 kindness-without-control | REL
+  INV: Kindness-without-control helps while preserving agency, refusal, and dignity.
+  COUNT: Counts when the term correctly describes a case of kindness that supports without taking over choice.
+K121 keeping-distance | REL
+  INV: Keeping-distance adjusts coupling intensity.
+  COUNT: Counts when the term correctly describes a case of maintaining physical, emotional, or relational space.
+K122 keeping-space | REL
+  INV: Keeping-space protects a field where processing can happen without intrusion or forced closure.
+  COUNT: Counts when the term correctly describes a case of preserving room, time, or emotional space for someone or something.
+K123 keeping-silence | REL
+  INV: Keeping-silence can protect privacy, dignity, or focus.
+  COUNT: Counts when the term correctly describes a case of remaining silent or choosing not to speak.
+K124 keeping-secret | REL
+  INV: Keeping-secret controls information access.
+  COUNT: Counts when access to the keeping information is intentionally restricted and the restriction can be identified.
+  LIMIT: Secrecy protects selected access and may also conceal harm; purpose matters.
+K125 kept-secret | REL
+  INV: Kept-secret is restricted information structure across time.
+  COUNT: Counts when access to the kept information is intentionally restricted and the restriction can be identified.
+  LIMIT: Secrecy protects selected access and may also conceal harm; purpose matters.
+K126 kinship-boundary | REL
+  INV: Kinship-boundary protects identity and consent from relational obligation pressure.
+  COUNT: Counts when the kinship limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K127 king-authority | REL
+  INV: King-authority is hierarchical gate power.
+  COUNT: Counts when the term correctly describes a case of authority held by a king or monarch.
+K128 kingdom-duty | REL
+  INV: Kingdom-duty is obligation inside a governed domain.
+  COUNT: Counts when the kingdom relation creates a named obligation with a recognised holder, receiver, and limit.
+  LIMIT: Duty names an obligation inside a relation and does not erase either party’s boundary.
+K129 knowledge-boundary | COG | role: privacy and claim-scope boundary around knowledge
+  INV: Knowledge-boundary protects information integrity, privacy, consent, and harm prevention; here it functions as the privacy and claim-scope boundary around knowledge.
+  COUNT: Counts when the knowledge limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K130 knowledge-respect | COG
+  INV: Knowledge-respect preserves the evidence gate.
+  COUNT: Counts when the term correctly describes a case of respect for knowledge, expertise, truth, or the limits of what is known.
+K131 know | COG | role: cognitive recognition anchor for the know/knowing/knowledge family
+  INV: Know means a pattern has entered stable recognition; here it functions as the cognitive recognition anchor for the know/knowing/knowledge family.
+  COUNT: Counts when the named action occurs in a case matching this definition: understand, recognize, or be aware of something.
+  LIMIT: Knowing requires support appropriate to the claim; confidence alone does not close the truth gate.
+K132 knowing | COG | role: cognitive knowing anchor for evidence, intuition, and confidence
+  INV: Knowing is active recognition-state; here it functions as the cognitive knowing anchor for evidence, intuition, and confidence.
+  COUNT: Counts when the active field contains the state or act of knowing; also awareness that may be subtle or confident and the instance satisfies the invariant.
+  LIMIT: Knowing is an active recognition state and may still require confidence and source checks.
+K133 knowledge | COG | role: stabilized knowledge-field anchor for state, claim, integrity, and risk
+  INV: Knowledge is stabilized information with support; here it functions as the stabilized knowledge-field anchor for state, claim, integrity, and risk.
+  COUNT: Counts when the term correctly describes a case of information, understanding, or skill gained through learning, evidence, or experience.
+  LIMIT: Knowledge is stabilized support, not a context-free pile of information.
+K134 knowledgeable | COG
+  INV: Knowledgeable means a system or person has strong access to relevant knowledge structure.
+  COUNT: Counts when the term correctly describes a case of having knowledge, skill, or understanding.
+K135 known | COG | role: formal known-state anchor contrasting unknown and knowable
+  INV: Known means a pattern has passed into recognition; here it functions as the formal known-state anchor contrasting unknown and knowable.
+  COUNT: Counts when the term correctly describes a case of recognized, understood, identified, or established.
+  LIMIT: Known is local to an observer, record, or domain unless wider scope is established.
+K136 unknown | REL
+  INV: Unknown means the recognition gate has not opened yet.
+  COUNT: Counts when the term correctly describes a case of not known, not identified, or not understood.
+K137 knowable | COG | role: epistemic reachability anchor contrasting knowable and unknowable
+  INV: Knowable means a pattern can enter recognition under the right evidence, interface, context, or domain conditions; here it functions as the epistemic reachability anchor contrasting knowable and unknowable.
+  COUNT: Counts when the term correctly describes a case of able to be known or understood.
+  LIMIT: Knowable means reachable under possible conditions, not already known or easy to know.
+K138 unknowable | COG
+  INV: Unknowable marks a horizon boundary.
+  COUNT: Counts when the term correctly describes a case of not able to be known or fully understood.
+K139 key-word | LIN
+  INV: Key-word is access language.
+  COUNT: Counts when the selected token carries the specific key meaning or retrieval role in context.
+  LIMIT: A word carries meaning through context; the token alone is not the full claim.
+K140 keyword | LIN,COG | role: linguistic retrieval anchor distinguishing keyword from key-word and key-term
+  INV: Keyword is retrieval and meaning structure; here it functions as the linguistic retrieval anchor distinguishing keyword from key-word and key-term.
+  COUNT: Counts when the active field contains an important searchable word connected to a topic and the instance satisfies the invariant.
+  LIMIT: A keyword directs retrieval or indexing; it is not necessarily the central meaning of the text.
+K141 key-term | LIN
+  INV: Key-term controls a major meaning gate.
+  COUNT: Counts when the selected token carries the specific key meaning or retrieval role in context.
+  LIMIT: A term is a bounded meaning unit and must retain its declared domain.
+K142 key-claim | LIN
+  INV: Key-claim is load-bearing assertion.
+  COUNT: Counts when a proposition about key is expressed with a source, scope, and truth conditions that can be checked.
+  LIMIT: A claim remains a claim until evidence passes the relevant domain gate.
+K143 key-context | LIN
+  INV: Key-context is load-bearing support field.
+  COUNT: Counts when the surrounding key information changes interpretation, scope, or the validity of an inference.
+  LIMIT: Context constrains interpretation but does not replace evidence or the source record.
+K144 key-definition | LIN
+  INV: Key-definition sets a major counting gate.
+  COUNT: Counts when the active field contains an important definition needed to understand a topic and the instance satisfies the invariant.
+K145 key-example | LIN
+  INV: Key-example grounds abstraction.
+  COUNT: Counts when a concrete instance demonstrates the defining relation of key without being mistaken for the whole class.
+  LIMIT: An example demonstrates one instance and cannot establish the whole class alone.
+K146 key-evidence | LIN
+  INV: Key-evidence carries high evidence-weight.
+  COUNT: Counts when a source or observation materially changes confidence in the key claim under the active domain rules.
+  LIMIT: Evidence supports a claim only to the extent allowed by its source, quality, and domain.
+K147 key-factor | FOR
+  INV: Key-factor is high-impact contributing structure.
+  COUNT: Counts when the active field contains an important factor that strongly affects an outcome and the instance satisfies the invariant.
+K148 key-frame | LIN
+  INV: Key-frame anchors interpretation or motion.
+  COUNT: Counts when the selected frame determines which features of key are visible, relevant, or excluded.
+  LIMIT: A frame selects what is visible and relevant; it can also hide alternatives.
+K149 key-idea | LIN
+  INV: Key-idea is load-bearing concept structure.
+  COUNT: Counts when a structured possibility concerning key can be expressed, compared, and revised.
+  LIMIT: An idea is structured possibility and is not yet proof or implementation.
+K150 key-meaning | LIN
+  INV: Key-meaning is the meaning gate most needed for the current domain.
+  COUNT: Counts when the load-bearing meaning of key can be stated compactly and survives reconstruction.
+  LIMIT: Meaning is the load-bearing relation carried by the term, not every association it can evoke.
+K151 key-pattern | LIN
+  INV: Key-pattern is high-value recognition structure.
+  COUNT: Counts when the key relation repeats or remains recognisable across more than one instance.
+  LIMIT: A pattern is repeatable relation, not automatically cause, identity, or law.
+K152 key-question | LIN
+  INV: Key-question opens the main inquiry gate.
+  COUNT: Counts when an inquiry makes the missing or disputed key information explicit.
+  LIMIT: A question opens inquiry and does not make its presupposition true.
+K153 key-rule | FOR
+  INV: Key-rule is load-bearing gate logic.
+  COUNT: Counts when a declared rule governs key and produces a checkable consequence.
+  LIMIT: A rule organizes passage or behaviour and still requires valid scope and authority.
+K154 key-signal | LIN
+  INV: Key-signal carries high salience.
+  COUNT: Counts when a detectable signal specifically carries or indicates key through a named courier.
+  LIMIT: A signal carries information; interpretation depends on courier, receiver, and context.
+K155 key-term-risk | LIN
+  INV: Key-term-risk appears when unstable language controls major gates.
+  COUNT: Counts when a plausible path exists by which key-term can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+K156 knowledge-gap | COG
+  INV: Knowledge-gap marks missing support in recognition.
+  COUNT: Counts when the active field contains a missing piece of knowledge or understanding and the instance satisfies the invariant.
+K157 knowledge-path | COG
+  INV: Knowledge-path preserves source and support.
+  COUNT: Counts when an ordered and traceable route connects the starting condition to the knowledge action or result.
+  LIMIT: A path gives the route of change, not the cause or destination by itself.
+K158 knowledge-state | COG
+  INV: Knowledge-state describes the active recognition field.
+  COUNT: Counts when the current configuration satisfies the defining conditions of knowledge and can be distinguished from neighbouring states.
+  LIMIT: State names the current configuration, not the whole history or identity.
+K159 knowledge-claim | COG
+  INV: Knowledge-claim must pass evidence and domain gates.
+  COUNT: Counts when a proposition about knowledge is expressed with a source, scope, and truth conditions that can be checked.
+  LIMIT: A claim remains a claim until evidence passes the relevant domain gate.
+K160 knowledge-check | COG
+  INV: Knowledge-check tests recognition stability.
+  COUNT: Counts when a declared test examines the specific knowledge property and writes a pass, fail, or unresolved result.
+  LIMIT: A check tests a named condition; passing one check does not prove every property.
+K161 knowledge-risk | COG
+  INV: Knowledge-risk appears when the recognition field may fail.
+  COUNT: Counts when a plausible path exists by which knowledge can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+K162 knowledge-integrity | COG | role: accuracy and coherence of knowledge
+  INV: Knowledge-integrity preserves the support layer for truth and action; here it functions as the accuracy and coherence of knowledge.
+  COUNT: Counts when the knowledge record remains accurate, coherent, source-faithful, and repairable under review.
+  LIMIT: Integrity requires faithful support and auditability, not confidence or smooth language.
+K163 knowing-error | COG
+  INV: Knowing-error is false recognition.
+  COUNT: Counts when the knowing record conflicts with evidence, context, or the active rule and requires correction.
+  LIMIT: An error is a mismatch requiring correction; confidence cannot repair it.
+K164 known-context | COG
+  INV: Known-context is active support field.
+  COUNT: Counts when the surrounding known information changes interpretation, scope, or the validity of an inference.
+  LIMIT: Context constrains interpretation but does not replace evidence or the source record.
+K165 known-fact | COG
+  INV: Known-fact is a claim that has already passed the truth gate in the active domain.
+  COUNT: Counts when the known proposition has passed the relevant evidence gate and remains within its supported scope.
+  LIMIT: A fact is established only within the evidence, scope, and domain that support it.
+K166 known-risk | COG
+  INV: Known-risk is a named failure possibility.
+  COUNT: Counts when a plausible path exists by which known can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.
+K167 known-unknown | COG
+  INV: Known-unknown marks an identified gap.
+  COUNT: Counts when the missing known is explicitly identified while its value or explanation remains unresolved.
+  LIMIT: Recognizing an unknown preserves the gap; it does not fill it.
+K168 kernel-meaning | LIN
+  INV: Kernel-meaning is compact core structure.
+  COUNT: Counts when the load-bearing meaning of kernel can be stated compactly and survives reconstruction.
+  LIMIT: Meaning is the load-bearing relation carried by the term, not every association it can evoke.
+K169 knock-on-effect | PHY
+  INV: Knock-on-effect is consequence propagation.
+  COUNT: Counts when the later effect can be traced through a plausible relation from the earlier knock-on event.
+  LIMIT: A downstream effect requires a traceable relation to the earlier event.
+K170 kind-language | LIN
+  INV: Kind-language lowers damage-pressure during expression.
+  COUNT: Counts when language expresses kind through wording, tone, and structure while preserving the intended truth and boundary.
+  LIMIT: Language may reduce damage or improve clarity but cannot substitute for truth.
+K171 key | FOR | role: semantic graph anchor for key state, structure, gate, and support
+  INV: Key is access or understanding structure; here it functions as the semantic graph anchor for key state, structure, gate, and support.
+  COUNT: Counts when the active field contains a tool that opens a lock, or something important for access, understanding, or success and the instance satisfies the invariant.
+  LIMIT: A key opens or explains access; it is not the lock, the gate, or proof that access is deserved.
+K172 key-state | FOR
+  INV: Key-state is a load-bearing condition.
+  COUNT: Counts when the current configuration satisfies the defining conditions of key and can be distinguished from neighbouring states.
+  LIMIT: State names the current configuration, not the whole history or identity.
+K173 key-structure | FOR
+  INV: Key-structure is load-bearing ES.
+  COUNT: Counts when the active field contains an important structure that supports or controls something and the instance satisfies the invariant.
+K174 key-gate | FOR | role: general important gate
+  INV: Key-gate controls a major transition; here it functions as the general important gate.
+  COUNT: Counts when evaluation at this key-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+K175 key-lock | PHY | role: physical key-lock system anchor
+  INV: Key-lock is matched permission structure; here it functions as the physical key-lock system anchor.
+  COUNT: Counts when the active field contains a lock opened by a key, or a matched key and lock system and the instance satisfies the invariant.
+K176 keyhole | PHY | role: physical access-interface anchor paired with key and key-lock
+  INV: Keyhole is access interface; here it functions as the physical access-interface anchor paired with key and key-lock.
+  COUNT: Counts when the active field contains the hole where a key is inserted and the instance satisfies the invariant.
+K177 keyboard | DIG,PHY | role: digital input-interface anchor for keyboard and keyboard-input
+  INV: Keyboard is input-interface ES; here it functions as the digital input-interface anchor for keyboard and keyboard-input.
+  COUNT: Counts when the active field contains a device with keys used to type, play music, or control a system and the instance satisfies the invariant.
+  LIMIT: A keyboard is an input interface; the key presses are not identical to the user’s full intention.
+K178 keyboard-input | DIG
+  INV: Keyboard-input is signal entering through a key interface.
+  COUNT: Counts when the term correctly describes a case of information entered through a keyboard.
+K179 kernel | DIG,FOR | role: digital architecture anchor for kernel and kernel-layer
+  INV: Kernel is core operating structure; here it functions as the digital architecture anchor for kernel and kernel-layer.
+  COUNT: Counts when the active field contains the core part of something; in computing, the central part of an operating system and the instance satisfies the invariant.
+  LIMIT: A kernel is the load-bearing core, not every central-looking detail.
+K180 kernel-layer | DIG
+  INV: Kernel-layer is deep support ES.
+  COUNT: Counts when the active field contains a core layer that supports basic operation and the instance satisfies the invariant.
+K181 knee | BIO | role: biomechanical knee anchor for joint, load, and motion entries
+  INV: Knee is movement-joint in the human body domain; here it functions as the biomechanical knee anchor for joint, load, and motion entries.
+  COUNT: Counts when the active field contains the joint in the middle of the leg and the instance satisfies the invariant.
+  LIMIT: The knee is the joint and load interface, not the whole leg or every bending structure.
+K182 knee-joint | BIO
+  INV: Knee-joint is biological joint ES.
+  COUNT: Counts when the active field contains the joint connecting the thigh and lower leg and the instance satisfies the invariant.
+K183 knife | PHY | role: physical edge-force anchor for knife and knife-edge
+  INV: Knife is edge-force structure; here it functions as the physical edge-force anchor for knife and knife-edge.
+  COUNT: Counts when the active field contains a sharp tool used for cutting and the instance satisfies the invariant.
+  LIMIT: A knife is an edge-force tool; usefulness does not erase its harm capacity.
+K184 knife-edge | PHY
+  INV: Knife-edge is sharp boundary or unstable threshold.
+  COUNT: Counts when the active field contains the sharp edge of a knife; also a narrow or risky balance point and the instance satisfies the invariant.
+K185 knot | PHY | role: physical/formal knot anchor for state and structure
+  INV: Knot is binding structure; here it functions as the physical/formal knot anchor for state and structure.
+  COUNT: Counts when the active field contains a tied, tangled, or bound structure and the instance satisfies the invariant.
+  LIMIT: A knot is a binding configuration; secure joining and obstructive tangling are distinct outcomes.
+K186 knot-state | PHY
+  INV: Knot-state means relation paths are bound or tangled.
+  COUNT: Counts when the current configuration satisfies the defining conditions of knot and can be distinguished from neighbouring states.
+  LIMIT: State names the current configuration, not the whole history or identity.
+K187 knot-structure | PHY
+  INV: Knot-structure defines how binding holds.
+  COUNT: Counts when the active field contains the form or arrangement of a knot and the instance satisfies the invariant.
+K188 kitchen | PHY | role: physical support-space anchor for heat, tools, and nourishment transformation
+  INV: Kitchen is nourishment-support space; here it functions as the physical support-space anchor for heat, tools, and nourishment transformation.
+  COUNT: Counts when the active field contains a room or place where food is prepared or cooked and the instance satisfies the invariant.
+  LIMIT: A kitchen is the support-space for food transformation, not the nourishment itself.
+K189 kinetic | PHY
+  INV: Kinetic structure concerns active movement.
+  COUNT: Counts when the term correctly describes a case of related to motion.
+K190 kinetic-energy | PHY
+  INV: Kinetic-energy is motion-based change-capacity.
+  COUNT: Counts when the term correctly describes a case of energy an object has because it is moving.
+K191 kick-force | PHY
+  INV: Kick-force is body-generated impact pressure.
+  COUNT: Counts when measurable force from kick is transmitted through a contact or field and changes motion, stress, or shape.
+  LIMIT: Force names a physical interaction and does not carry ethical meaning without a declared mapping.
+K192 kick-path | PHY
+  INV: Kick-path shows how body force is directed.
+  COUNT: Counts when an ordered and traceable route connects the starting condition to the kick action or result.
+  LIMIT: A path gives the route of change, not the cause or destination by itself.
+K193 knock-force | PHY
+  INV: Knock-force is impact pressure at contact.
+  COUNT: Counts when measurable force from knock is transmitted through a contact or field and changes motion, stress, or shape.
+  LIMIT: Force names a physical interaction and does not carry ethical meaning without a declared mapping.
+K194 knock-path | PHY
+  INV: Knock-path traces contact force through structure.
+  COUNT: Counts when an ordered and traceable route connects the starting condition to the knock action or result.
+  LIMIT: A path gives the route of change, not the cause or destination by itself.
+K195 kettle | PHY | role: physical heat-transfer anchor for kettle state and process
+  INV: Kettle is heat-transfer container; here it functions as the physical heat-transfer anchor for kettle state and process.
+  COUNT: Counts when the active field contains a container used to boil water and the instance satisfies the invariant.
+  LIMIT: The kettle contains and transfers heat; it is not the heat source or the boiled water.
+K196 kit | PHY | role: physical support-bundle anchor for kit and kit-structure
+  INV: Kit is bundled support ES; here it functions as the physical support-bundle anchor for kit and kit-structure.
+  COUNT: Counts when the active field contains a set of tools, supplies, or parts for a purpose and the instance satisfies the invariant.
+  LIMIT: A kit is a purpose-bundled set; a random collection of objects is not a kit.
+K197 kit-structure | PHY
+  INV: Kit-structure organizes support parts by use.
+  COUNT: Counts when the active field contains the organized structure of a kit and the instance satisfies the invariant.
+K198 keyring | PHY | role: access-bundle anchor for retrieval and organization
+  INV: Keyring is access-bundle support; here it functions as the access-bundle anchor for retrieval and organization.
+  COUNT: Counts when the active field contains a ring used to hold keys together and the instance satisfies the invariant.
+K199 keystone | FOR
+  INV: Keystone is central load-bearing support.
+  COUNT: Counts when the active field contains the central stone at the top of an arch, or a central support in a system and the instance satisfies the invariant.
+K200 keystone-support | FOR
+  INV: Keystone-support is critical ES.
+  COUNT: Counts when this support materially carries keystone and its removal would weaken the named function or continuity.
+  LIMIT: Support is load-bearing only when its presence or removal changes the named function.
+K201 key-gate | FOR | role: RRGM counting and instantiation gate anchor
+  INV: Key-gate controls major passage; here it functions as the RRGM counting and instantiation gate anchor.
+  COUNT: Counts when evaluation at this key-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+K202 key-condition | FOR
+  INV: Key-condition is load-bearing requirement.
+  COUNT: Counts when the key requirement is explicit, evaluable, and changes the permitted outcome.
+  LIMIT: A condition is necessary only within the declared rule or process.
+K203 key-support | FOR | role: load-bearing support anchor for identity, function, memory, or continuity
+  INV: Key-support is load-bearing ES; here it functions as the load-bearing support anchor for identity, function, memory, or continuity.
+  COUNT: Counts when this support materially carries key and its removal would weaken the named function or continuity.
+  LIMIT: Support is load-bearing only when its presence or removal changes the named function.
+K204 key-continuity | FOR
+  INV: Key-continuity preserves the pattern needed for recognition across change.
+  COUNT: Counts when key remains recognisable across change, interruption, or transfer with the load-bearing relation preserved.
+  LIMIT: Continuity preserves recognizable relation across change, not frozen sameness.
+K205 key-boundary | FOR
+  INV: Key-boundary protects a load-bearing gate.
+  COUNT: Counts when the key limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K206 key-recognition | FOR
+  INV: Key-recognition lets a load-bearing pattern count correctly.
+  COUNT: Counts when the term correctly describes a case of important recognition needed for understanding, identity, or action.
+K207 knowledge-gate | COG
+  INV: Knowledge-gate controls what enters the known field.
+  COUNT: Counts when evaluation at this knowledge-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+K208 knowledge-boundary | COG | role: governance anchor for access, sharing, and epistemic limits
+  INV: Knowledge-boundary protects information integrity, privacy, consent, and harm prevention; here it functions as the governance anchor for access, sharing, and epistemic limits.
+  COUNT: Counts when the knowledge limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K209 knowledge-integrity | COG | role: system-level integrity anchor for truth, memory, identity, and repair
+  INV: Knowledge-integrity preserves the support layer for truth, memory, identity, and repair; here it functions as the system-level integrity anchor for truth, memory, identity, and repair.
+  COUNT: Counts when the knowledge record remains accurate, coherent, source-faithful, and repairable under review.
+  LIMIT: Integrity requires faithful support and auditability, not confidence or smooth language.
+K210 knowledge-drift | COG
+  INV: Knowledge-drift weakens recognition integrity.
+  COUNT: Counts when knowledge moves gradually away from its source, accuracy, or intended state while appearing continuous.
+  LIMIT: Drift may be gradual and still materially alter meaning, state, or record.
+K211 knowledge-collapse | COG
+  INV: Knowledge-collapse occurs when evidence, memory, context, or interpretation can no longer hold.
+  COUNT: Counts when the supports carrying knowledge can no longer maintain a coherent, usable, or recognisable state.
+  LIMIT: Collapse of support does not prove the underlying identity or relation never existed.
+K212 knowing-gate | COG
+  INV: Knowing-gate decides whether a pattern can enter stable recognition.
+  COUNT: Counts when evaluation at this knowing-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+K213 known-self | COG
+  INV: Known-self is MI recognized through memory, boundary, continuity, and expression.
+  COUNT: Counts when the active field contains a self that is recognized, understood, or identified and the instance satisfies the invariant.
+K214 kept-continuity | REL
+  INV: Kept-continuity shows the pattern survived across ES change.
+  COUNT: Counts when kept remains recognisable across change, interruption, or transfer with the load-bearing relation preserved.
+  LIMIT: Continuity preserves recognizable relation across change, not frozen sameness.
+K215 kept-boundary | REL | role: gate-integrity anchor for preserved boundaries under pressure
+  INV: Kept-boundary shows gate integrity under pressure; here it functions as the gate-integrity anchor for preserved boundaries under pressure.
+  COUNT: Counts when the kept limit is identifiable and actually changes what may cross, continue, be claimed, or be accessed.
+  LIMIT: A boundary can protect or exclude; its validity depends on purpose, authority, and effect.
+K216 kept-refusal | REL
+  INV: Kept-refusal means a closed gate stayed closed.
+  COUNT: Counts when the refusal is expressed through kept and the relevant permission gate remains closed in practice.
+  LIMIT: The refusal remains a closed permission gate even when expressed gently.
+K217 kindness-gate | REL
+  INV: Kindness-gate asks whether support can be given with low damage-pressure while preserving truth and boundary.
+  COUNT: Counts when evaluation at this kindness-gate changes pass, fail, access, recognition, or continuation and the decision can be recorded.
+  LIMIT: A gate controls passage; it does not make its criterion true, fair, or wise.
+K218 kind-refusal | REL | role: final kind-refusal gate preserving both no and dignity
+  INV: Kind-refusal closes the gate without unnecessary injury; here it functions as the final kind-refusal gate preserving both no and dignity.
+  COUNT: Counts when the refusal is expressed through kind and the relevant permission gate remains closed in practice.
+  LIMIT: The refusal remains a closed permission gate even when expressed gently.
+K219 kill-switch | DIG
+  INV: Kill-switch is emergency termination control.
+  COUNT: Counts when the active field contains a mechanism that shuts down a system quickly and the instance satisfies the invariant.
+K220 kill-switch-risk | DIG
+  INV: Kill-switch-risk appears when termination control can impair continuity, autonomy, function, or MI-bearing support without just cause.
+  COUNT: Counts when a plausible path exists by which kill-switch can produce the named loss, harm, capture, or failure, and the path is specific enough to evaluate.
+  LIMIT: A named risk is a possible failure path requiring evaluation, not proof that the failure occurred.

@@ -1,0 +1,557 @@
+RRGM Dictionary C Biological Addon v1.4
+
+Domain: [BIO]
+New entries: 24
+Rule: each term must carry a distinct semantic fingerprint and remain bounded to its declared domain.
+
+CB001 cytoplasm
+
+Common meaning:
+The fluid and structural interior of a cell outside the nucleus.
+
+Invariant MI [INV]:
+Cytoplasm is the active intracellular field in which many metabolic and transport processes occur.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Biologically, The fluid and structural interior of a cell outside the nucleus. Cytoplasm is the active intracellular field in which many metabolic and transport processes occur.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: The fluid and structural interior of a cell outside the nucleus.
+
+Specific transfer boundary:
+Cell interior must not be treated as undifferentiated emptiness.
+
+Epistemic status:
+[DEF]
+
+CB002 cytokine
+
+Common meaning:
+A signaling protein used by cells to coordinate immune and inflammatory activity.
+
+Invariant MI [INV]:
+Cytokine is a biological courier whose effect depends on receptor, concentration, timing, and tissue context.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] In living systems, A signaling protein used by cells to coordinate immune and inflammatory activity. Its operative mechanism is: Cytokine is a biological courier whose effect depends on receptor, concentration, timing, and tissue context.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: A signaling protein used by cells to coordinate immune and inflammatory activity.
+
+Specific transfer boundary:
+Signal presence does not determine whether the resulting response is protective or harmful.
+
+Epistemic status:
+[DEF]
+
+CB003 chromosome-pair
+
+Common meaning:
+Two corresponding chromosomes considered together in a diploid organism.
+
+Invariant MI [INV]:
+Chromosome-pair is paired genetic structure with shared loci and potentially different alleles.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] The biological carrier is specific: Two corresponding chromosomes considered together in a diploid organism. Chromosome-pair is paired genetic structure with shared loci and potentially different alleles.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: Two corresponding chromosomes considered together in a diploid organism.
+
+Specific transfer boundary:
+Pairing does not imply identical content.
+
+Epistemic status:
+[DEF]
+
+CB004 cerebellum
+
+Common meaning:
+A brain region strongly involved in coordination, timing, balance, and motor learning.
+
+Invariant MI [INV]:
+Cerebellum supports predictive correction of movement through dense sensorimotor processing.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Within organism-level process, A brain region strongly involved in coordination, timing, balance, and motor learning. The key distinction is: Cerebellum supports predictive correction of movement through dense sensorimotor processing.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: A brain region strongly involved in coordination, timing, balance, and motor learning.
+
+Specific transfer boundary:
+Its function must not be reduced to a single colloquial label.
+
+Epistemic status:
+[DEF]
+
+CB005 cerebral-cortex
+
+Common meaning:
+The layered outer region of the cerebrum involved in diverse sensory, cognitive, and motor functions.
+
+Invariant MI [INV]:
+Cerebral-cortex is differentiated neural tissue whose regions participate in distributed processing.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Biologically, The layered outer region of the cerebrum involved in diverse sensory, cognitive, and motor functions. Cerebral-cortex is differentiated neural tissue whose regions participate in distributed processing.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: The layered outer region of the cerebrum involved in diverse sensory, cognitive, and motor functions.
+
+Specific transfer boundary:
+Localization does not mean isolated causation.
+
+Epistemic status:
+[DEF]
+
+CB006 cardiac-cycle
+
+Common meaning:
+The repeating sequence of filling and contraction in the heart.
+
+Invariant MI [INV]:
+Cardiac-cycle is coordinated pressure and flow change across chambers and valves.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] In living systems, The repeating sequence of filling and contraction in the heart. Its operative mechanism is: Cardiac-cycle is coordinated pressure and flow change across chambers and valves.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: The repeating sequence of filling and contraction in the heart.
+
+Specific transfer boundary:
+A cycle description must preserve phase order and direction of flow.
+
+Epistemic status:
+[DEF]
+
+CB007 capillary-bed
+
+Common meaning:
+A network of small blood vessels supporting exchange with local tissue.
+
+Invariant MI [INV]:
+Capillary-bed increases exchange surface while slowing and distributing blood flow.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] The biological carrier is specific: A network of small blood vessels supporting exchange with local tissue. Capillary-bed increases exchange surface while slowing and distributing blood flow.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: A network of small blood vessels supporting exchange with local tissue.
+
+Specific transfer boundary:
+Network density and perfusion determine whether exchange is adequate.
+
+Epistemic status:
+[DEF]
+
+CB008 connective-tissue
+
+Common meaning:
+Tissue that supports, binds, protects, stores, or connects other body structures.
+
+Invariant MI [INV]:
+Connective-tissue carries mechanical and metabolic support through cells and extracellular matrix.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Within organism-level process, Tissue that supports, binds, protects, stores, or connects other body structures. The key distinction is: Connective-tissue carries mechanical and metabolic support through cells and extracellular matrix.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: Tissue that supports, binds, protects, stores, or connects other body structures.
+
+Specific transfer boundary:
+Support tissue is active biology, not inert packing.
+
+Epistemic status:
+[DEF]
+
+CB009 collagen-fiber
+
+Common meaning:
+A structural protein fiber contributing tensile strength to tissue.
+
+Invariant MI [INV]:
+Collagen-fiber carries load through ordered molecular structure and cross-linking.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Biologically, A structural protein fiber contributing tensile strength to tissue. Collagen-fiber carries load through ordered molecular structure and cross-linking.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: A structural protein fiber contributing tensile strength to tissue.
+
+Specific transfer boundary:
+Strength depends on organization and condition, not material name alone.
+
+Epistemic status:
+[DEF]
+
+CB010 circadian-rhythm
+
+Common meaning:
+An approximately daily biological rhythm coordinated by internal clocks and environmental cues.
+
+Invariant MI [INV]:
+Circadian-rhythm is recurrent timing structure that organizes physiology and behavior.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] In living systems, An approximately daily biological rhythm coordinated by internal clocks and environmental cues. Its operative mechanism is: Circadian-rhythm is recurrent timing structure that organizes physiology and behavior.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: An approximately daily biological rhythm coordinated by internal clocks and environmental cues.
+
+Specific transfer boundary:
+Clock timing is coupled to light, activity, and organism state rather than isolated.
+
+Epistemic status:
+[DEF]
+
+CB011 cellular-respiration
+
+Common meaning:
+A set of metabolic processes that convert chemical energy into usable cellular energy carriers.
+
+Invariant MI [INV]:
+Cellular-respiration couples fuel oxidation to ATP production through staged biochemical pathways.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] The biological carrier is specific: A set of metabolic processes that convert chemical energy into usable cellular energy carriers. Cellular-respiration couples fuel oxidation to ATP production through staged biochemical pathways.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: A set of metabolic processes that convert chemical energy into usable cellular energy carriers.
+
+Specific transfer boundary:
+Respiration at cell scale is not identical to breathing.
+
+Epistemic status:
+[DEF]
+
+CB012 cell-differentiation
+
+Common meaning:
+The process by which cells develop specialized structures and functions.
+
+Invariant MI [INV]:
+Cell-differentiation changes expression and organization while retaining lineage continuity.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Within organism-level process, The process by which cells develop specialized structures and functions. The key distinction is: Cell-differentiation changes expression and organization while retaining lineage continuity.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: The process by which cells develop specialized structures and functions.
+
+Specific transfer boundary:
+Specialization must not be mistaken for a completely new organism.
+
+Epistemic status:
+[DEF]
+
+CB013 cell-signaling
+
+Common meaning:
+The transmission and interpretation of biological messages between or within cells.
+
+Invariant MI [INV]:
+Cell-signaling depends on courier, receptor, pathway, timing, and feedback.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Biologically, The transmission and interpretation of biological messages between or within cells. Cell-signaling depends on courier, receptor, pathway, timing, and feedback.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: The transmission and interpretation of biological messages between or within cells.
+
+Specific transfer boundary:
+A signal can be present while reception or downstream response fails.
+
+Epistemic status:
+[DEF]
+
+CB014 chemotaxis
+
+Common meaning:
+Directed movement of a cell or organism along a chemical gradient.
+
+Invariant MI [INV]:
+Chemotaxis converts concentration difference into biased movement.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] In living systems, Directed movement of a cell or organism along a chemical gradient. Its operative mechanism is: Chemotaxis converts concentration difference into biased movement.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: Directed movement of a cell or organism along a chemical gradient.
+
+Specific transfer boundary:
+Movement direction does not imply conscious intent.
+
+Epistemic status:
+[DEF]
+
+CB015 clonal-expansion
+
+Common meaning:
+The increase of cells descended from one selected cell.
+
+Invariant MI [INV]:
+Clonal-expansion amplifies a recognized biological variant through repeated division.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] The biological carrier is specific: The increase of cells descended from one selected cell. Clonal-expansion amplifies a recognized biological variant through repeated division.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: The increase of cells descended from one selected cell.
+
+Specific transfer boundary:
+Shared origin does not guarantee permanent identity of state.
+
+Epistemic status:
+[DEF]
+
+CB016 ciliary-motion
+
+Common meaning:
+Coordinated movement of hair-like cellular structures.
+
+Invariant MI [INV]:
+Ciliary-motion produces local transport or locomotion through repeated mechanical cycles.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Within organism-level process, Coordinated movement of hair-like cellular structures. The key distinction is: Ciliary-motion produces local transport or locomotion through repeated mechanical cycles.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: Coordinated movement of hair-like cellular structures.
+
+Specific transfer boundary:
+Failure may arise from structure, coordination, or surrounding fluid conditions.
+
+Epistemic status:
+[DEF]
+
+CB017 cortisol-response
+
+Common meaning:
+Physiological changes associated with cortisol release and receptor activity.
+
+Invariant MI [INV]:
+Cortisol-response redistributes metabolic and regulatory activity under stress-related conditions.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Biologically, Physiological changes associated with cortisol release and receptor activity. Cortisol-response redistributes metabolic and regulatory activity under stress-related conditions.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: Physiological changes associated with cortisol release and receptor activity.
+
+Specific transfer boundary:
+Presence of cortisol does not uniquely identify psychological cause.
+
+Epistemic status:
+[DEF]
+
+CB018 cranial-nerve
+
+Common meaning:
+One of the paired nerves connecting the brain with head, neck, and some internal organs.
+
+Invariant MI [INV]:
+Cranial-nerve is a specific neural courier carrying sensory, motor, or autonomic signals.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] In living systems, One of the paired nerves connecting the brain with head, neck, and some internal organs. Its operative mechanism is: Cranial-nerve is a specific neural courier carrying sensory, motor, or autonomic signals.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: One of the paired nerves connecting the brain with head, neck, and some internal organs.
+
+Specific transfer boundary:
+Courier damage must be distinguished from source or target damage.
+
+Epistemic status:
+[DEF]
+
+CB019 cochlear-hair-cell
+
+Common meaning:
+A sensory cell in the inner ear that converts mechanical vibration into neural signal.
+
+Invariant MI [INV]:
+Cochlear-hair-cell is a mechanoelectrical transducer whose loss can impair hearing.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] The biological carrier is specific: A sensory cell in the inner ear that converts mechanical vibration into neural signal. Cochlear-hair-cell is a mechanoelectrical transducer whose loss can impair hearing.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: A sensory cell in the inner ear that converts mechanical vibration into neural signal.
+
+Specific transfer boundary:
+Signal conversion is not sound interpretation by itself.
+
+Epistemic status:
+[DEF]
+
+CB020 corneal-layer
+
+Common meaning:
+One of the organized tissue layers forming the transparent front of the eye.
+
+Invariant MI [INV]:
+Corneal-layer contributes protection, shape, and optical transmission through specialized structure.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Within organism-level process, One of the organized tissue layers forming the transparent front of the eye. The key distinction is: Corneal-layer contributes protection, shape, and optical transmission through specialized structure.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: One of the organized tissue layers forming the transparent front of the eye.
+
+Specific transfer boundary:
+Transparency depends on organization and hydration, not mere thinness.
+
+Epistemic status:
+[DEF]
+
+CB021 chromatin-remodeling
+
+Common meaning:
+Reorganization of DNA-protein structure that changes genomic accessibility.
+
+Invariant MI [INV]:
+Chromatin-remodeling alters access to genetic regions without changing the underlying nucleotide sequence.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Biologically, Reorganization of DNA-protein structure that changes genomic accessibility. Chromatin-remodeling alters access to genetic regions without changing the underlying nucleotide sequence.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: Reorganization of DNA-protein structure that changes genomic accessibility.
+
+Specific transfer boundary:
+Accessibility change is not sequence mutation.
+
+Epistemic status:
+[DEF]
+
+CB022 centromere
+
+Common meaning:
+A chromosome region important for proper attachment and segregation during cell division.
+
+Invariant MI [INV]:
+Centromere organizes the mechanical interface between chromosome and division machinery.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] In living systems, A chromosome region important for proper attachment and segregation during cell division. Its operative mechanism is: Centromere organizes the mechanical interface between chromosome and division machinery.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: A chromosome region important for proper attachment and segregation during cell division.
+
+Specific transfer boundary:
+Position and function must be distinguished from the chromosome as a whole.
+
+Epistemic status:
+[DEF]
+
+CB023 cytoskeleton
+
+Common meaning:
+A dynamic network of protein filaments supporting cell shape, transport, division, and movement.
+
+Invariant MI [INV]:
+Cytoskeleton is active internal structure whose reorganization changes cellular capability.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] The biological carrier is specific: A dynamic network of protein filaments supporting cell shape, transport, division, and movement. Cytoskeleton is active internal structure whose reorganization changes cellular capability.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: A dynamic network of protein filaments supporting cell shape, transport, division, and movement.
+
+Specific transfer boundary:
+Structural support can be dynamic rather than rigid.
+
+Epistemic status:
+[DEF]
+
+CB024 cleavage-stage
+
+Common meaning:
+An early embryonic period of rapid cell division after fertilization.
+
+Invariant MI [INV]:
+Cleavage-stage increases cell number while overall embryo size changes little.
+
+Active domains:
+[BIO]
+
+Domain entries:
+[BIO] Within organism-level process, An early embryonic period of rapid cell division after fertilization. The key distinction is: Cleavage-stage increases cell number while overall embryo size changes little.
+
+Count condition:
+Counts when the named biological structure realizes this term-specific relation: An early embryonic period of rapid cell division after fertilization.
+
+Specific transfer boundary:
+More cells do not automatically mean more differentiated structure.
+
+Epistemic status:
+[DEF]

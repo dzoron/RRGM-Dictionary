@@ -1,0 +1,487 @@
+RRGM Dictionary U - Digital Domain Addon
+Version 0.5 | July 2026
+License: CC BY-SA 4.0
+Scope: New [DIG] vocabulary not present in the U base list.
+Rule: Each line must carry the term's own semantic fingerprint; addon entries are not domain templates.
+
+Entry count: 24
+
+UD001 user-space
+
+Common meaning:
+The memory and privilege region where ordinary application processes run.
+
+Invariant MI [INV]:
+User-space is the computational field separated from the operating-system kernel by access rules.
+
+Domain entry:
+[DIG] Applications execute with restricted privileges and request protected services through defined interfaces.
+
+Count condition:
+Counts when the system distinguishes application-level execution from kernel-level execution.
+
+Transfer limit:
+User-space is a technical privilege boundary, not a claim about a human user’s personal space.
+
+Epistemic status:
+[DEF]
+
+UD002 user-session
+
+Common meaning:
+A bounded period in which a user identity interacts with a system.
+
+Invariant MI [INV]:
+User-session is continuity of authenticated or recognized activity across multiple events.
+
+Domain entry:
+[DIG] Tokens, cookies, process state, timeout, and logout conditions may preserve or end the session.
+
+Count condition:
+Counts when the system can link events to one active interaction context.
+
+Transfer limit:
+A session identifier is not the whole user identity.
+
+Epistemic status:
+[DEF]
+
+UD003 user-profile
+
+Common meaning:
+A stored set of attributes and preferences associated with a user account.
+
+Invariant MI [INV]:
+User-profile is digital support for recurring personalization and recognition.
+
+Domain entry:
+[DIG] It may hold settings, display information, history, or permissions while remaining editable and access-controlled.
+
+Count condition:
+Counts when the attributes are linked to a specific account or recognized user key.
+
+Transfer limit:
+A profile is a record about a user, not the total person.
+
+Epistemic status:
+[DEF]
+
+UD004 user-permission
+
+Common meaning:
+An allowed action granted to a user or account.
+
+Invariant MI [INV]:
+User-permission is a digital gate specifying which resource or operation a user may access.
+
+Domain entry:
+[DIG] Permission may depend on role, scope, time, object, and current authentication.
+
+Count condition:
+Counts when the system can evaluate an explicit allow or deny rule for the action.
+
+Transfer limit:
+Capability and permission are distinct; being able to attempt an action does not authorize it.
+
+Epistemic status:
+[DEF]
+
+UD005 user-token
+
+Common meaning:
+A digital value representing a user session, identity claim, or authorization state.
+
+Invariant MI [INV]:
+User-token is a portable recognition handle used by a system to evaluate access without repeating the entire login process.
+
+Domain entry:
+[DIG] Its validity depends on issuer, signature or storage, scope, expiry, and revocation state.
+
+Count condition:
+Counts when the token can be linked to a declared authentication or authorization process.
+
+Transfer limit:
+Possessing a token does not make every claim inside it trustworthy.
+
+Epistemic status:
+[DEF]
+
+UD006 user-agent
+
+Common meaning:
+Software that acts on behalf of a user when communicating with another system.
+
+Invariant MI [INV]:
+User-agent is a digital intermediary that forms requests, presents capabilities, and receives responses.
+
+Domain entry:
+[DIG] Browsers and other clients may identify themselves through user-agent information.
+
+Count condition:
+Counts when software performs protocol actions for a user-facing client role.
+
+Transfer limit:
+The user-agent string is not proof of the actual software or person.
+
+Epistemic status:
+[DEF]
+
+UD007 user-event
+
+Common meaning:
+A recorded input or action associated with user interaction.
+
+Invariant MI [INV]:
+User-event is a digital occurrence such as a click, key press, selection, gesture, or submitted command.
+
+Domain entry:
+[DIG] Event handlers translate the occurrence into application state change.
+
+Count condition:
+Counts when the system records a specific interaction with source, type, and sequence.
+
+Transfer limit:
+An event record does not fully reveal intention.
+
+Epistemic status:
+[DEF]
+
+UD008 update-package
+
+Common meaning:
+A bounded collection of files and instructions used to change software or data.
+
+Invariant MI [INV]:
+Update-package is the courier carrying a declared state transition into a target system.
+
+Domain entry:
+[DIG] Metadata may specify version, dependencies, signatures, installation steps, and rollback conditions.
+
+Count condition:
+Counts when the package is identifiable and the intended target can validate and apply it.
+
+Transfer limit:
+A newer package is not automatically compatible or trustworthy.
+
+Epistemic status:
+[DEF]
+
+UD009 update-channel
+
+Common meaning:
+A selected source or release stream from which updates are obtained.
+
+Invariant MI [INV]:
+Update-channel is a digital path controlling which versions and timing rules reach a system.
+
+Domain entry:
+[DIG] Stable, preview, testing, or vendor-specific channels expose different risk and freshness profiles.
+
+Count condition:
+Counts when the source and release policy are declared.
+
+Transfer limit:
+Changing channel can change trust and compatibility assumptions.
+
+Epistemic status:
+[DEF]
+
+UD010 update-rollback
+
+Common meaning:
+A controlled return to an earlier software or data state after an update.
+
+Invariant MI [INV]:
+Update-rollback is digital reversal that preserves enough prior record to restore a working version.
+
+Domain entry:
+[DIG] Backups, snapshots, package history, and migration rules determine whether rollback is possible.
+
+Count condition:
+Counts when the earlier state can be identified and reinstated without hidden incompatibility.
+
+Transfer limit:
+Rollback may not reverse data already transformed or externally propagated.
+
+Epistemic status:
+[DEF]
+
+UD011 upload-queue
+
+Common meaning:
+An ordered list of files or data waiting to be uploaded.
+
+Invariant MI [INV]:
+Upload-queue is digital waiting-order that preserves pending transfers and their sequence.
+
+Domain entry:
+[DIG] Priority, retry, bandwidth, pause, and failure state determine how entries move through it.
+
+Count condition:
+Counts when each pending transfer has a trackable queue position or state.
+
+Transfer limit:
+Presence in the queue does not mean the upload completed.
+
+Epistemic status:
+[DEF]
+
+UD012 upload-integrity
+
+Common meaning:
+The degree to which uploaded data matches the intended source without corruption or unauthorized change.
+
+Invariant MI [INV]:
+Upload-integrity is preservation of content and relevant metadata across transfer.
+
+Domain entry:
+[DIG] Hashes, sizes, signatures, acknowledgements, and storage checks can support verification.
+
+Count condition:
+Counts when source and destination records can be meaningfully compared.
+
+Transfer limit:
+Successful transfer status alone does not prove semantic correctness.
+
+Epistemic status:
+[DEF]
+
+UD013 undo-stack
+
+Common meaning:
+An ordered record of reversible actions available to be undone.
+
+Invariant MI [INV]:
+Undo-stack is digital memory that stores prior state transitions in reverse-application order.
+
+Domain entry:
+[DIG] Each new reversible action adds a record; undo removes or moves the latest eligible action.
+
+Count condition:
+Counts when the application can identify and reverse at least one stored action.
+
+Transfer limit:
+Not every action is reversible, and clearing the stack removes the return path.
+
+Epistemic status:
+[DEF]
+
+UD014 undo-history
+
+Common meaning:
+The broader record of actions and reversals associated with undo operations.
+
+Invariant MI [INV]:
+Undo-history is digital trace of what changed, what was reversed, and in which sequence.
+
+Domain entry:
+[DIG] It may support audit, redo, recovery, or conflict analysis beyond the active undo stack.
+
+Count condition:
+Counts when the system retains action records after or across reversals.
+
+Transfer limit:
+History does not guarantee that the prior external effects were undone.
+
+Epistemic status:
+[DEF]
+
+UD015 unlock-token
+
+Common meaning:
+A digital value used to open a protected state or resource.
+
+Invariant MI [INV]:
+Unlock-token is an access key whose validity satisfies a specific locked gate.
+
+Domain entry:
+[DIG] It may be single-use, time-limited, device-bound, signed, or revocable.
+
+Count condition:
+Counts when the target system recognizes the token under its declared conditions.
+
+Transfer limit:
+An unlock token should not grant broader access than its scope.
+
+Epistemic status:
+[DEF]
+
+UD016 uptime
+
+Common meaning:
+The duration or proportion of time a system remains available and operating.
+
+Invariant MI [INV]:
+Uptime is a digital availability measure bounded by a service definition and observation interval.
+
+Domain entry:
+[DIG] Planned maintenance, partial function, and dependency failure affect how the measure is calculated.
+
+Count condition:
+Counts when the monitored service and start and end conditions are declared.
+
+Transfer limit:
+High uptime does not prove correctness, security, or quality.
+
+Epistemic status:
+[DEF]
+
+UD017 URL
+
+Common meaning:
+A formatted locator identifying where a resource can be accessed through a scheme and address.
+
+Invariant MI [INV]:
+URL is a digital reference path that combines protocol information with a resource location.
+
+Domain entry:
+[DIG] It may include host, port, path, query, and fragment components.
+
+Count condition:
+Counts when the locator conforms to the relevant syntax and resolves within its scheme.
+
+Transfer limit:
+A URL points toward a resource but does not prove the resource is safe or unchanged.
+
+Epistemic status:
+[DEF]
+
+UD018 URI
+
+Common meaning:
+A formatted identifier for a resource, which may name it, locate it, or both.
+
+Invariant MI [INV]:
+URI is a digital identity handle inside a standardized reference syntax.
+
+Domain entry:
+[DIG] URLs are a location-oriented subset of the broader URI concept.
+
+Count condition:
+Counts when the string validly identifies a resource under the selected scheme.
+
+Transfer limit:
+An identifier does not guarantee current reachability.
+
+Epistemic status:
+[DEF]
+
+UD019 UUID
+
+Common meaning:
+A 128-bit identifier designed to distinguish records or objects with extremely low collision probability.
+
+Invariant MI [INV]:
+UUID is a digital naming structure that supports decentralized generation of distinct identifiers.
+
+Domain entry:
+[DIG] Different UUID versions derive values from random input, time, names, or other defined methods.
+
+Count condition:
+Counts when the value has valid UUID structure and is used as an identifier.
+
+Transfer limit:
+A UUID provides distinction, not authenticity or ownership.
+
+Epistemic status:
+[DEF]
+
+UD020 UDP
+
+Common meaning:
+A connectionless transport protocol that sends datagrams without built-in delivery, ordering, or retransmission guarantees.
+
+Invariant MI [INV]:
+UDP is a low-overhead digital courier for independent packets.
+
+Domain entry:
+[DIG] Applications choose whether to add their own reliability, sequencing, or timing logic.
+
+Count condition:
+Counts when communication uses UDP headers and datagram semantics.
+
+Transfer limit:
+Lack of built-in guarantees does not mean every packet is lost.
+
+Epistemic status:
+[DEF]
+
+UD021 UTF-8
+
+Common meaning:
+A variable-length character encoding for Unicode text.
+
+Invariant MI [INV]:
+UTF-8 is a digital symbol courier that represents Unicode code points as sequences of one to four bytes.
+
+Domain entry:
+[DIG] Its structure preserves compatibility with ASCII for the first 128 characters.
+
+Count condition:
+Counts when byte sequences conform to UTF-8 encoding rules.
+
+Transfer limit:
+Valid UTF-8 does not guarantee the text is meaningful or correctly normalized.
+
+Epistemic status:
+[DEF]
+
+UD022 Unix-socket
+
+Common meaning:
+A local interprocess communication endpoint using filesystem-like addressing or local socket namespaces.
+
+Invariant MI [INV]:
+Unix-socket is a digital courier connecting processes on the same operating system.
+
+Domain entry:
+[DIG] It can carry stream or datagram communication without routing across an external network.
+
+Count condition:
+Counts when two local processes communicate through the socket interface.
+
+Transfer limit:
+A socket path is an endpoint reference, not the communicating process itself.
+
+Epistemic status:
+[DEF]
+
+UD023 unhandled-error
+
+Common meaning:
+An error that reaches a boundary without a defined recovery or response path.
+
+Invariant MI [INV]:
+Unhandled-error is a digital failure state in which control passes to a generic runtime, process, or system handler.
+
+Domain entry:
+[DIG] It may terminate work, expose diagnostics, corrupt state, or trigger rollback depending on the environment.
+
+Count condition:
+Counts when no active local handler accepts the error.
+
+Transfer limit:
+Unhandled does not mean unexplained; the underlying cause may still be known.
+
+Epistemic status:
+[DEF]
+
+UD024 untrusted-input
+
+Common meaning:
+Data received without sufficient reason to assume correctness, authorization, or harmlessness.
+
+Invariant MI [INV]:
+Untrusted-input is a digital boundary condition requiring validation before use.
+
+Domain entry:
+[DIG] Source, format, length, encoding, permissions, and allowed operations shape the checks.
+
+Count condition:
+Counts when data crosses from a less-trusted source into a process or decision.
+
+Transfer limit:
+Untrusted is a verification status, not a moral judgment about the sender.
+
+Epistemic status:
+[DEF]

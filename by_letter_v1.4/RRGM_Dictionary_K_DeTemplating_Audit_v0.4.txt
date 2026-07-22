@@ -1,0 +1,14 @@
+RRGM Dictionary K De-Templating Audit v0.4
+
+Entries reviewed: 220
+Semantic lines reviewed: 455
+Exact duplicate semantic lines: 0
+Swap-style similarity prompts at or above 0.90: 0
+Generic fallback phrase hits: 0
+Duplicate source headwords: 30
+
+Swap-style similarity review prompts:
+None at the declared threshold.
+
+Interpretation:
+Similarity flags are review prompts, not automatic failures. Neighbouring words may share structure only when their invariant distinction remains explicit.

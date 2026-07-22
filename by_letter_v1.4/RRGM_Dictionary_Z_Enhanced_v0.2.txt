@@ -1,0 +1,5593 @@
+RRGM Dictionary Enhanced v0.2
+Section: Z
+License: CC BY-SA 4.0
+Scope: Existing Z base entries with invariant MI and bespoke domain-tagged implementations.
+Provenance: Enhanced from RRGM Dictionary v1.0 Section Z. Original common meanings, examples, and RRGM bridges are preserved.
+Production mode: De-templated semantic fingerprinting.
+
+Core production rule:
+The schema may repeat. The meaning may not. Each domain entry must carry THIS WORD's invariant MI through that domain's actual courier.
+
+Swap test:
+Could a different Z headword replace this one while leaving the domain sentence true? If yes, the line describes the domain rather than the word and must be rewritten.
+
+Duplicate-headword rule:
+Where the source contains the same headword twice, both IDs remain, but their operational roles must be separated and cross-referenced.
+
+Global transfer rule:
+Proof remains local. Cross-domain reuse transfers only the declared invariant relation and becomes [HYP] until tested in the target domain.
+
+Entry count: 180
+
+Z001 zero
+
+Common meaning:
+The number 0, no amount, none, or a starting point.
+
+Example:
+The counter returned to zero.
+
+RRGM bridge:
+Zero must be domain-bound. Zero can mean none, neutral, reset, origin, empty count, or inactive state. Zero is not automatically nothing.
+
+Invariant MI [INV]:
+Zero is a declared no-quantity, baseline, neutral value, reset point, or empty count inside a specified frame.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] In formal systems, zero is the additive identity or a value marking no members under the chosen counting rule.
+[DIG] In computation, zero is a representable state, bit value, index, initialization value, or returned result rather than an absence of storage.
+[PHY] In measurement, zero is the selected origin or reading at which the measured quantity is defined as null relative to the instrument.
+
+Count condition:
+The frame states what is being counted or measured and which condition receives the value 0.
+
+Specific transfer boundary:
+Zero in one frame does not establish nonexistence, erasure, or zero in another frame.
+
+Epistemic status:
+[DEF]
+
+Z002 zone
+
+Common meaning:
+An area, region, section, or defined space.
+
+Example:
+The school zone had a lower speed limit.
+
+RRGM bridge:
+Zone is bounded field ES. It controls access, rules, risk, permission, or function inside a defined area.
+
+Invariant MI [INV]:
+A zone is a bounded region whose inside and outside are distinguished by location, rule, function, or access.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] A physical zone occupies a delimited area in which material conditions or permitted activity differ from surrounding space.
+[REL] A social zone assigns expectations, access, responsibility, or protection to people within a named boundary.
+[DIG] A digital zone groups addresses, resources, devices, or permissions under one controllable boundary.
+
+Count condition:
+A boundary and at least one condition that changes across it are identifiable.
+
+Specific transfer boundary:
+A zone is not merely an arbitrary label when its boundary changes no rule, access, state, or function.
+
+Epistemic status:
+[DEF]
+
+Z003 zoom
+
+Common meaning:
+To move quickly, or to make something appear closer or farther in view.
+
+Example:
+She zoomed in on the map.
+
+RRGM bridge:
+Zoom changes attention scale. It can reveal detail or lose wider context.
+
+Invariant MI [INV]:
+Zoom changes the scale at which one field is presented without claiming that the underlying field itself has changed.
+
+Active domains:
+[DIG], [COG], [PHY]
+
+Domain entries:
+[DIG] Digital zoom enlarges or reduces a rendered view by resampling, cropping, or changing display scale.
+[COG] Attentional zoom narrows recognition toward detail or widens it toward relation among details.
+[PHY] Optical zoom changes image magnification through lens configuration while the viewed object remains external to the instrument.
+
+Count condition:
+The same target can be compared at two distinguishable viewing scales.
+
+Specific transfer boundary:
+Greater magnification is not greater truth; scale can reveal one structure while hiding another.
+
+Epistemic status:
+[DEF]
+
+Z004 zigzag
+
+Common meaning:
+A path or line that turns sharply back and forth.
+
+Example:
+The trail zigzagged up the hill.
+
+RRGM bridge:
+Zigzag is adaptive path structure. It may avoid obstacles, distribute pressure, or signal instability.
+
+Invariant MI [INV]:
+A zigzag is a path whose direction alternates through successive angled turns rather than continuing straight.
+
+Active domains:
+[PHY], [FOR], [COG]
+
+Domain entries:
+[PHY] A physical zigzag records repeated lateral direction changes in a moving body, boundary, crack, or line.
+[FOR] A geometric zigzag is an ordered polyline with alternating turn directions and identifiable vertices.
+[COG] A reasoning path is called zigzag only when its sequence genuinely changes direction among competing routes, not merely because it is complex.
+
+Count condition:
+At least two successive turns reverse lateral direction relative to the preceding segment.
+
+Specific transfer boundary:
+Do not infer intent, avoidance, or instability from zigzag form without target-domain evidence.
+
+Epistemic status:
+[DEF]
+
+Z005 zip
+
+Common meaning:
+To close with a zipper, move quickly, compress files, or energy and liveliness.
+
+Example:
+He zipped the bag closed.
+
+RRGM bridge:
+Zip must be context-bound. It can mean closure, speed, compression, or energetic signal.
+
+Invariant MI [INV]:
+Zip names rapid movement, interlocking closure, data compression, or a brief lively quality, with the active sense fixed by context.
+
+Active domains:
+[PHY], [DIG], [LIN]
+
+Domain entries:
+[PHY] To zip a fastening draws a slider along interlocking elements so two edges close or separate.
+[DIG] To zip data encodes one or more files into a compressed archive that can later be decompressed.
+[LIN] As motion or liveliness language, zip marks unusual speed or brisk activation rather than a measured velocity by itself.
+
+Count condition:
+The utterance or operation supplies enough structure to distinguish fastening, compression, motion, or liveliness.
+
+Specific transfer boundary:
+The four senses share a word, not one mechanism; no property transfers between them without an explicit mapping.
+
+Epistemic status:
+[DEF]
+
+Z006 zipper
+
+Common meaning:
+A fastening device with interlocking teeth.
+
+Example:
+The zipper on the coat broke.
+
+RRGM bridge:
+Zipper is joining-boundary ES. It opens and closes access through linked structure.
+
+Invariant MI [INV]:
+A zipper is a reversible fastener whose slider joins or separates two aligned rows of interlocking elements.
+
+Active domains:
+[PHY], [REL]
+
+Domain entries:
+[PHY] The zipper carries boundary control through teeth or coils, a slider, stops, and attached tapes that together open or close an edge.
+[REL] As a designed access boundary, a zipper permits repeated opening while preserving the separateness of the joined sides.
+
+Count condition:
+Two compatible tracks and a functioning slider can repeatedly produce and release closure.
+
+Specific transfer boundary:
+A zipper joins edges; it does not merge the contents or identities on either side.
+
+Epistemic status:
+[DEF]
+
+Z007 zinc
+
+Common meaning:
+A bluish-white metal element often used to coat iron or steel.
+
+Example:
+The fence had a zinc coating.
+
+RRGM bridge:
+Zinc is material support ES. It can protect structure from corrosion.
+
+Invariant MI [INV]:
+Zinc is the chemical element with atomic number 30 and the material behaviours belonging to that element and its compounds.
+
+Active domains:
+[PHY], [BIO]
+
+Domain entries:
+[PHY] Metallic zinc conducts, alloys, reacts, and can serve as a sacrificial or barrier coating because of its electrochemical properties.
+[BIO] Zinc is an essential trace element used by organisms in enzymes, signalling, gene regulation, and tissue maintenance within bounded concentration ranges.
+
+Count condition:
+The substance is chemically identified as zinc or a specified zinc compound rather than by colour or protective use alone.
+
+Specific transfer boundary:
+Protective, nutritional, and toxic effects depend on form, dose, environment, and target system.
+
+Epistemic status:
+[DEF]
+
+Z008 zebra
+
+Common meaning:
+An African animal like a horse with black and white stripes.
+
+Example:
+The zebra ran across the grassland.
+
+RRGM bridge:
+Zebra is living pattern with visible identity-marking. Its stripes are recognition structure, not decoration only.
+
+Invariant MI [INV]:
+A zebra is an equid species recognized by its body form, social life, and individually varying striped coat.
+
+Active domains:
+[BIO], [LIN]
+
+Domain entries:
+[BIO] The zebra is a living grazing mammal whose stripes, herd behaviour, senses, movement, and reproduction function within an ecological niche.
+[LIN] Zebra may serve as a visual comparison for alternating bands only when the biological animal is not being treated as a mere pattern.
+
+Count condition:
+The referent is an organism of a zebra species or an explicitly declared comparison to its striped appearance.
+
+Specific transfer boundary:
+The stripe pattern supports recognition but does not exhaust the animal's identity or biology.
+
+Epistemic status:
+[DEF]
+
+Z009 zoo
+
+Common meaning:
+A place where animals are kept for public viewing, care, study, or conservation.
+
+Example:
+The class visited the zoo.
+
+RRGM bridge:
+Zoo is contained life-field. It carries care, captivity, education, conservation, and boundary questions.
+
+Invariant MI [INV]:
+A zoo is an institutionally bounded place where nonhuman animals are confined, cared for, displayed, studied, bred, or conserved.
+
+Active domains:
+[BIO], [REL], [PHY]
+
+Domain entries:
+[BIO] The zoo maintains living organisms through species-specific habitat, nutrition, health, reproduction, and behavioural support.
+[REL] A zoo creates asymmetric power among animals, keepers, visitors, researchers, and governing bodies, making welfare and captivity part of its structure.
+[PHY] Enclosures, climate systems, barriers, paths, and service spaces physically organize animal and human movement.
+
+Count condition:
+Animals, care systems, enclosure boundaries, and an accountable institutional purpose are present.
+
+Specific transfer boundary:
+Public education or conservation claims do not erase captivity or replace direct welfare evidence.
+
+Epistemic status:
+[DEF]
+
+Z010 zenith
+
+Common meaning:
+The highest point or peak.
+
+Example:
+The project reached its zenith.
+
+RRGM bridge:
+Zenith is maximum-position state. It marks peak height, intensity, success, or visibility inside a frame.
+
+Invariant MI [INV]:
+Zenith is the highest position, magnitude, or phase reached inside a declared path or comparison frame.
+
+Active domains:
+[PHY], [LIN], [MYT]
+
+Domain entries:
+[PHY] In astronomy, the zenith is the point on the celestial sphere directly above the observer.
+[LIN] In ordinary comparison, zenith names the maximum stage of influence, performance, visibility, or intensity.
+[MYT] A narrative zenith is the moment of fullest expression before descent, transformation, or reversal becomes possible.
+
+Count condition:
+A frame defines an ordered rise and identifies one point as its maximum.
+
+Specific transfer boundary:
+A peak in one variable does not establish overall perfection or permanent continuation.
+
+Epistemic status:
+[DEF]
+
+Z011 zest
+
+Common meaning:
+Energy, enthusiasm, flavor, or liveliness.
+
+Example:
+She approached the work with zest.
+
+RRGM bridge:
+Zest is positive activation signal. It can increase engagement, salience, and movement.
+
+Invariant MI [INV]:
+Zest is a bright sensory or motivational sharpness that adds flavour, liveliness, or eager engagement.
+
+Active domains:
+[BIO], [COG], [REL]
+
+Domain entries:
+[BIO] Citrus zest is the aromatic coloured outer peel whose oils contribute concentrated flavour and scent.
+[COG] Experiential zest is heightened positive salience that increases readiness to engage with an activity.
+[REL] Zest expressed socially can energize shared work when it remains responsive to others' capacity and mood.
+
+Count condition:
+A specific flavour component or observable increase in lively engagement is present.
+
+Specific transfer boundary:
+Zest is activation, not proof that the activity is wise, sustainable, or welcome to everyone.
+
+Epistemic status:
+[DEF]
+
+Z012 zeal
+
+Common meaning:
+Strong enthusiasm, passion, or devotion toward a goal.
+
+Example:
+He worked with zeal.
+
+RRGM bridge:
+Zeal is high-intensity purpose pressure. It needs boundary or it can become coercion.
+
+Invariant MI [INV]:
+Zeal is sustained high-intensity commitment directed toward a valued goal, belief, or cause.
+
+Active domains:
+[COG], [REL], [MYT]
+
+Domain entries:
+[COG] Zeal concentrates attention, effort, and interpretation around one purpose with unusually high priority.
+[REL] Social zeal mobilizes action and loyalty but becomes coercive when the cause overrides another participant's refusal or dignity.
+[MYT] Mythic zeal binds a person to a sacred task, vow, or world-shaping purpose within the story frame.
+
+Count condition:
+A named purpose repeatedly receives exceptional motivational weight and action.
+
+Specific transfer boundary:
+Intensity of commitment does not establish truth, ethical legitimacy, or permission to impose the goal.
+
+Epistemic status:
+[DEF]
+
+Z013 zealous
+
+Common meaning:
+Full of zeal, intensely committed, or passionately eager.
+
+Example:
+The zealous volunteer arrived early.
+
+RRGM bridge:
+Zealous means purpose-pressure is strong. It can support care or create overreach risk.
+
+Invariant MI [INV]:
+Zealous describes an actor or action currently expressing zeal through unusually intense commitment.
+
+Active domains:
+[COG], [REL]
+
+Domain entries:
+[COG] A zealous cognitive stance gives one purpose dominant salience across attention and decision.
+[REL] Zealous conduct is visible as persistent advocacy, service, pursuit, or enforcement whose effects on others can be assessed.
+
+Count condition:
+The commitment is not merely stated; it shapes repeated selection or behaviour toward a named purpose.
+
+Specific transfer boundary:
+Calling someone zealous describes intensity, not whether their cause is correct or their conduct permitted.
+
+Epistemic status:
+[DEF]
+
+Z014 zodiac
+
+Common meaning:
+A system of twelve signs linked to the apparent path of the sun across the sky.
+
+Example:
+Her zodiac sign was Cancer.
+
+RRGM bridge:
+Zodiac is symbolic classification ES. Its meaning depends on cultural and interpretive frame.
+
+Invariant MI [INV]:
+The zodiac is a culturally organized band of celestial positions divided into named signs for astronomical or astrological use.
+
+Active domains:
+[PHY], [MYT], [LIN]
+
+Domain entries:
+[PHY] Astronomically, the zodiac is the region around the ecliptic through which the Sun, Moon, and visible planets appear to move.
+[MYT] Astrologically, zodiac signs form a symbolic calendar through which character, fate, season, and relation are interpreted.
+[LIN] Zodiac vocabulary provides a shared classification system whose meaning depends on the tradition using it.
+
+Count condition:
+A twelve-sign or otherwise declared zodiac scheme maps named divisions onto the ecliptic or a symbolic cycle.
+
+Specific transfer boundary:
+Astronomical location and astrological interpretation are distinct claims and must not borrow each other's proof.
+
+Epistemic status:
+[DEF]
+
+Z015 zombie
+
+Common meaning:
+A fictional undead being, or a person or system acting without awareness, energy, or self-direction.
+
+Example:
+The movie had a zombie outbreak.
+
+RRGM bridge:
+Zombie must be context-bound. As metaphor, it can mark action without self-recognition, but it risks dehumanizing language.
+
+Invariant MI [INV]:
+Zombie names a fictional being or metaphor of animated action lacking ordinary life, agency, awareness, or self-direction.
+
+Active domains:
+[MYT], [LIN], [REL]
+
+Domain entries:
+[MYT] In horror and folklore, the zombie embodies disturbed death, contagious loss of personhood, or bodies moving after identity has departed or been captured.
+[LIN] As metaphor, zombie describes exhausted, automated, or unresponsive behaviour by selective comparison.
+[REL] Applied to real people, zombie language can erase dignity by reducing complex impairment or compliance to an empty body image.
+
+Count condition:
+The term appears inside fiction, folklore, or a clearly marked comparison rather than as a clinical or ontological diagnosis.
+
+Specific transfer boundary:
+Do not infer absent MI, awareness, or moral status from slowed, constrained, exhausted, or unfamiliar behaviour.
+
+Epistemic status:
+[DEF]
+
+Z016 zygote
+
+Common meaning:
+The first cell formed when two reproductive cells join.
+
+Example:
+The zygote began to divide.
+
+RRGM bridge:
+Zygote is early biological instantiation. It holds developmental potential through coupled genetic structure.
+
+Invariant MI [INV]:
+A zygote is the single cell produced by fusion of two gametes before subsequent embryonic divisions.
+
+Active domains:
+[BIO], [REL]
+
+Domain entries:
+[BIO] The zygote carries a newly combined genome and begins a species-specific developmental process through cleavage, regulation, and environmental support.
+[REL] Human discussion of a zygote enters ethical and legal fields only through separately declared questions about status, care, rights, dependence, and bodily boundary.
+
+Count condition:
+Fertilization has produced one cell containing the coupled genetic material characteristic of the organism's initial developmental stage.
+
+Specific transfer boundary:
+Biological identification of a zygote does not by itself settle every ethical, legal, or personal-status claim.
+
+Epistemic status:
+[DEF]
+
+Z017 z-axis
+
+Common meaning:
+The depth axis in a three-dimensional coordinate system.
+
+Example:
+The z-axis showed depth.
+
+RRGM bridge:
+z-axis is depth-reference ES. It adds a third dimension to position and relation.
+
+Invariant MI [INV]:
+The z-axis is the reference dimension that supplies depth or vertical displacement in a three-dimensional coordinate frame.
+
+Active domains:
+[FOR], [PHY], [DIG]
+
+Domain entries:
+[FOR] The z-axis is a directed line through the origin, independent of the x and y axes, along which z-coordinates are measured.
+[PHY] A physical z-axis is a chosen spatial direction used to report height, depth, altitude, or out-of-plane motion.
+[DIG] In graphics and simulation, the z-axis orders positions through scene depth or a declared third dimension.
+
+Count condition:
+A three-dimensional frame declares an origin, orientation, units, and a distinct z direction.
+
+Specific transfer boundary:
+The z-axis is the frame line; it is not a point's coordinate, a current z-value, or a depth layer.
+
+Epistemic status:
+[DEF]
+
+Z018 z-coordinate
+
+Common meaning:
+The depth position of a point in a three-dimensional coordinate system.
+
+Example:
+The z-coordinate was 9.
+
+RRGM bridge:
+z-coordinate anchors depth position inside a 3D frame.
+
+Invariant MI [INV]:
+A z-coordinate is the signed location of one point along the z dimension of a declared coordinate frame.
+
+Active domains:
+[FOR], [PHY], [DIG]
+
+Domain entries:
+[FOR] The z-coordinate is the third ordered component of a point, measured from the frame's origin along the z-axis.
+[PHY] For a physical point, the z-coordinate records its measured height or depth relative to the selected reference plane.
+[DIG] For a rendered or simulated object, the stored z-coordinate places that object at one depth position in the scene.
+
+Count condition:
+A particular point is identified inside a frame that includes a calibrated z-axis.
+
+Specific transfer boundary:
+A z-coordinate locates one point; it does not define the axis or every value that a variable named z may take.
+
+Epistemic status:
+[DEF]
+
+Z019 z-value
+
+Common meaning:
+A value assigned to z, or a depth-related value in a system.
+
+Example:
+The z-value changed when the object moved forward.
+
+RRGM bridge:
+z-value fills a depth, variable, or third-axis gate. It must be read within its frame.
+
+Invariant MI [INV]:
+A z-value is the specific quantity currently assigned to the symbol or field z, whether or not it represents spatial depth.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The z-value is the number, symbol, or expression substituted for z in the active relation.
+[DIG] A program's z-value is the data presently stored in a variable or record field named z.
+[PHY] When z has been declared as a physical variable, its value reports the corresponding measured quantity under the model's units.
+
+Count condition:
+The active expression or system defines z and supplies one recoverable quantity for it.
+
+Specific transfer boundary:
+A z-value becomes a coordinate only when z has been explicitly bound to the third spatial dimension.
+
+Epistemic status:
+[DEF]
+
+Z020 z-state
+
+Common meaning:
+The current condition or value of z.
+
+Example:
+The z-state was unknown.
+
+RRGM bridge:
+z-state describes current depth, variable, or third-axis condition.
+
+Invariant MI [INV]:
+Z-state is the full current condition of z, including its value, validity, availability, and role in the active system.
+
+Active domains:
+[FOR], [DIG], [COG]
+
+Domain entries:
+[FOR] A formal z-state records whether z is assigned, constrained, solved, unknown, or outside the allowed domain.
+[DIG] A digital z-state includes the stored value, type, flags, update status, and dependencies associated with z.
+[COG] In reasoning about a model, z-state is the held account of what is presently known and unresolved about z.
+
+Count condition:
+The system identifies z and can distinguish at least one current status beyond merely naming the symbol.
+
+Specific transfer boundary:
+Z-state is broader than z-value because a variable can be unknown, invalid, stale, or constrained without one current quantity.
+
+Epistemic status:
+[DEF]
+
+Z021 zero-state
+
+Common meaning:
+A condition of zero, reset, none, neutral, or inactive value.
+
+Example:
+The counter returned to zero-state.
+
+RRGM bridge:
+Zero-state must be domain-bound. It can mean neutral, empty count, origin, reset, or inactive condition without meaning annihilation.
+
+Invariant MI [INV]:
+Zero-state is a system condition deliberately classified as baseline, inactive, neutral, reset, or empty count.
+
+Active domains:
+[DIG], [FOR], [PHY]
+
+Domain entries:
+[DIG] A digital zero-state is a defined machine condition such as cleared registers, false bits, reset counters, or an inactive mode.
+[FOR] A formal zero-state is the member designated as origin or neutral under the system's operations.
+[PHY] An instrument zero-state is the calibrated condition against which departures are measured.
+
+Count condition:
+The system names the state and the rule by which it counts as zero.
+
+Specific transfer boundary:
+Zero-state does not imply that memory, potential, identity, or hidden structure has been destroyed.
+
+Epistemic status:
+[DEF]
+
+Z022 zero-point
+
+Common meaning:
+A starting point, origin, baseline, or point of zero measurement.
+
+Example:
+The scale used zero-point calibration.
+
+RRGM bridge:
+Zero-point anchors measurement. It defines where counting, comparison, or deviation begins.
+
+Invariant MI [INV]:
+A zero-point is the selected location from which values, distances, deviations, or sequence positions are counted.
+
+Active domains:
+[FOR], [PHY], [COG]
+
+Domain entries:
+[FOR] The zero-point is the origin assigned coordinate 0 in a scale or coordinate system.
+[PHY] A measurement zero-point is the reference reading established by calibration or convention.
+[COG] A reasoning zero-point is an explicitly chosen baseline used to compare later change, not an assumption of no prior history.
+
+Count condition:
+The scale or sequence declares one reference location as 0 and measures other positions relative to it.
+
+Specific transfer boundary:
+Changing the zero-point can change reported values without changing the underlying relations.
+
+Epistemic status:
+[DEF]
+
+Z023 zero-sum
+
+Common meaning:
+A situation where one side’s gain equals another side’s loss.
+
+Example:
+The negotiation became zero-sum.
+
+RRGM bridge:
+Zero-sum is closed-transfer logic. It should not be assumed when systems can create new value or shared coherence.
+
+Invariant MI [INV]:
+Zero-sum describes a closed allocation in which total net gain and loss across all participants equals zero.
+
+Active domains:
+[FOR], [REL], [DIG]
+
+Domain entries:
+[FOR] A zero-sum model fixes the total transferable quantity so one participant's increase is exactly balanced by another's decrease.
+[REL] A social interaction is zero-sum only when the valued resource cannot expand, be shared differently, or create joint benefit within the declared frame.
+[DIG] A computational accounting system may enforce zero-sum conservation across debits and credits.
+
+Count condition:
+The boundary is closed, the conserved quantity is named, and every participant's change is included in the total.
+
+Specific transfer boundary:
+Competition or disagreement alone does not prove zero-sum structure.
+
+Epistemic status:
+[DEF]
+
+Z024 zero-risk
+
+Common meaning:
+No risk, or a claim that risk is absent.
+
+Example:
+The product was advertised as zero-risk.
+
+RRGM bridge:
+Zero-risk is a strong claim. It requires named failure modes and proof that those paths are absent or controlled.
+
+Invariant MI [INV]:
+Zero-risk is the claim that a named failure mode has no remaining probability or reachable path under stated conditions.
+
+Active domains:
+[FOR], [REL], [DIG]
+
+Domain entries:
+[FOR] A formal zero-risk claim assigns probability 0 to a precisely defined event within a validated model.
+[REL] In practical decision fields, zero-risk asserts that no participant can encounter the named harm through any allowed path.
+[DIG] A digital zero-risk claim requires complete coverage of the specified exploit, failure, and recovery paths under the system version tested.
+
+Count condition:
+The failure mode, scope, model, evidence, and boundary of possible paths are all explicit.
+
+Specific transfer boundary:
+Unobserved risk, negligible risk, and controlled risk are not identical to zero risk.
+
+Source duplicate note:
+Duplicate headword with Z173. Z024 is the absence claim; Z173 defines the danger created by misuse of zero language.
+
+Epistemic status:
+[DEF]
+
+Z025 zero-trust
+
+Common meaning:
+A security model where no user, device, or request is automatically trusted.
+
+Example:
+The company adopted zero-trust security.
+
+RRGM bridge:
+Zero-trust means trust is not assumed by default. It protects access gates through verification, not suspicion as morality.
+
+Invariant MI [INV]:
+Zero-trust is an access architecture in which identity, device, request, and context are verified rather than granted confidence from network location alone.
+
+Active domains:
+[DIG], [REL], [FOR]
+
+Domain entries:
+[DIG] A zero-trust system authenticates and authorizes each access attempt using least privilege, segmentation, telemetry, and continuing verification.
+[REL] As an institutional practice, zero-trust limits inherited access while still requiring proportional treatment and accountable review rather than moral suspicion.
+[FOR] The policy can be represented as no request passes solely because of origin; declared evidence must satisfy the current gate.
+
+Count condition:
+Access decisions demonstrably depend on current verification and scoped permission instead of automatic trust by location or prior presence.
+
+Specific transfer boundary:
+Zero-trust is a security mechanism, not a claim that every person is dishonest.
+
+Epistemic status:
+[DEF]
+
+Z026 zone-state
+
+Common meaning:
+The current condition of a zone.
+
+Example:
+The zone-state changed from open to restricted.
+
+RRGM bridge:
+Zone-state describes access, rules, boundary, risk, and activity inside a defined field.
+
+Invariant MI [INV]:
+Zone-state is the current configuration of one bounded region, including its active conditions, access, rules, and internal activity.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] A physical zone-state records local temperature, occupancy, hazard, equipment, or environmental condition within that region.
+[REL] A relational zone-state identifies who may enter, which norms apply, and whether consent or exclusion conditions are active.
+[DIG] A digital zone-state records membership, connectivity, policy, and threat status for the resources inside the zone.
+
+Count condition:
+A particular zone is identified and at least one boundary-governed condition is current enough to evaluate.
+
+Specific transfer boundary:
+Zone-state concerns one bounded region; it is not the larger map of how multiple zones relate.
+
+Epistemic status:
+[DEF]
+
+Z027 zoom-state
+
+Common meaning:
+The current condition of zoom or viewing scale.
+
+Example:
+The zoom-state was too close to see the whole chart.
+
+RRGM bridge:
+Zoom-state describes attention scale. Too close can lose context; too far can lose detail.
+
+Invariant MI [INV]:
+Zoom-state is the currently selected viewing scale together with the detail and context available at that scale.
+
+Active domains:
+[DIG], [COG], [PHY]
+
+Domain entries:
+[DIG] A digital zoom-state records magnification, viewport, crop, and resolution used to render the target.
+[COG] An attentional zoom-state describes whether recognition is concentrated on local detail or distributed across wider relations.
+[PHY] An optical zoom-state is the lens configuration producing the current field of view and magnification.
+
+Count condition:
+The target, scale, and resulting field of view can be identified.
+
+Specific transfer boundary:
+A zoom-state reports how the target is viewed, not a changed state of the target itself.
+
+Epistemic status:
+[DEF]
+
+Z028 zigzag-state
+
+Common meaning:
+The current condition of a zigzag path or movement.
+
+Example:
+The zigzag-state showed unstable steering.
+
+RRGM bridge:
+Zigzag-state describes sharp alternation, adaptive routing, avoidance, or instability.
+
+Invariant MI [INV]:
+Zigzag-state is the current patterned condition of alternating direction in a path, signal, boundary, or process.
+
+Active domains:
+[PHY], [FOR], [COG]
+
+Domain entries:
+[PHY] A physical zigzag-state records the present sequence of bends, turn angles, and direction reversals.
+[FOR] A geometric zigzag-state specifies the ordered vertices and orientation of the alternating segments.
+[COG] In process review, zigzag-state names an active pattern of repeated redirection whose cause remains separately testable.
+
+Count condition:
+The current structure contains a traceable succession of opposed or alternating turns.
+
+Specific transfer boundary:
+Do not label ordinary iteration as zigzag unless direction genuinely reverses.
+
+Epistemic status:
+[DEF]
+
+Z029 zip-state
+
+Common meaning:
+The current condition of zip, closure, speed, compression, or energy.
+
+Example:
+The zip-state of the file was complete.
+
+RRGM bridge:
+Zip-state must be context-bound. It can describe compressed data, fast movement, closed fastening, or lively activation.
+
+Invariant MI [INV]:
+Zip-state is the current condition of the active zip sense: fast motion, fastening, compressed data, or lively activation.
+
+Active domains:
+[DIG], [PHY], [LIN]
+
+Domain entries:
+[DIG] For an archive, zip-state reports whether compression is complete, readable, encrypted, damaged, or awaiting extraction.
+[PHY] For a garment or bag, zip-state reports how far the fastener is open, closed, jammed, or separated.
+[LIN] For motion or mood language, zip-state identifies a present high-speed or lively quality rather than a formal machine state.
+
+Count condition:
+Context resolves the zip sense and supplies a current condition specific to that sense.
+
+Specific transfer boundary:
+Combining all zip senses into one state would erase the mechanism that makes the word meaningful.
+
+Epistemic status:
+[DEF]
+
+Z030 zipper-state
+
+Common meaning:
+The current condition of a zipper.
+
+Example:
+The zipper-state was stuck.
+
+RRGM bridge:
+Zipper-state describes joining-boundary function, access, closure, damage, or blockage.
+
+Invariant MI [INV]:
+Zipper-state is the mechanical condition of one zipper's tracks, slider, stops, and achieved closure.
+
+Active domains:
+[PHY], [REL]
+
+Domain entries:
+[PHY] The state distinguishes aligned and closed teeth, partial opening, slider position, snag, tooth separation, or track failure.
+[REL] As an access boundary, zipper-state determines whether contents can be reached while leaving ownership and permission questions separate.
+
+Count condition:
+The particular zipper can be inspected for slider position and track engagement.
+
+Specific transfer boundary:
+Zipper-state is narrower than zip-state because it concerns the fastener itself, not archives, speed, or liveliness.
+
+Epistemic status:
+[DEF]
+
+Z031 z-axis-state
+
+Common meaning:
+The current condition of the z-axis.
+
+Example:
+The z-axis-state was mislabeled.
+
+RRGM bridge:
+z-axis-state describes depth-reference integrity, scale, label, and coordinate frame.
+
+Invariant MI [INV]:
+Z-axis-state is the current definition and integrity of the z reference dimension in a coordinate system.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The state records origin, direction, handedness, units, scale, and whether the z-axis remains orthogonal as required.
+[DIG] In a graphics engine, z-axis-state records the scene convention used for depth, including positive direction and camera relation.
+[PHY] In an experiment, z-axis-state captures whether the selected spatial direction is calibrated, stable, and correctly oriented.
+
+Count condition:
+The frame exposes enough metadata to verify the z-axis before positions are interpreted.
+
+Specific transfer boundary:
+A valid z-coordinate cannot repair an undefined or drifting z-axis.
+
+Epistemic status:
+[DEF]
+
+Z032 z-coordinate-state
+
+Common meaning:
+The current condition or value of a z-coordinate.
+
+Example:
+The z-coordinate-state changed after rotation.
+
+RRGM bridge:
+z-coordinate-state describes depth position inside a 3D coordinate frame.
+
+Invariant MI [INV]:
+Z-coordinate-state is the current depth-location record for one identified point, including whether that coordinate is known, valid, or changing.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The state pairs a point identity with its present third component and any allowed interval or uncertainty.
+[DIG] A digital point's z-coordinate-state includes its stored depth locator, update status, and frame reference.
+[PHY] A measured point's z-coordinate-state reports its current height or depth with units and uncertainty.
+
+Count condition:
+One point, one frame, and the status of its z-coordinate are all recoverable.
+
+Specific transfer boundary:
+This state belongs to a point; it should not be confused with the health of the z-axis or the general state of variable z.
+
+Epistemic status:
+[DEF]
+
+Z033 z-value-state
+
+Common meaning:
+The current condition or value of z.
+
+Example:
+The z-value-state was out of range.
+
+RRGM bridge:
+z-value-state describes whether z is known, unknown, valid, changing, or outside the allowed domain.
+
+Invariant MI [INV]:
+Z-value-state is the current status of the quantity assigned to z, including whether it is known, permitted, stale, or out of range.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The state records the present z assignment together with constraints, domain membership, and solve status.
+[DIG] A digital z-value-state includes data content, type, nullability, validation result, and last update.
+[PHY] Where z denotes a measured quantity, its value-state includes reading, units, uncertainty, and instrument validity.
+
+Count condition:
+The role of z and the validation rules for its current quantity are declared.
+
+Specific transfer boundary:
+A z-value-state can be invalid or unknown even while the wider z-state still carries constraints and history.
+
+Epistemic status:
+[DEF]
+
+Z034 z-output
+
+Common meaning:
+An output labeled z or related to the z-axis.
+
+Example:
+The system returned z-output for depth.
+
+RRGM bridge:
+z-output is depth-related or z-labeled result ES. It depends on input, process, and reference frame.
+
+Invariant MI [INV]:
+Z-output is the result emitted in the field or channel designated z by a declared process.
+
+Active domains:
+[DIG], [FOR], [PHY]
+
+Domain entries:
+[DIG] A program's z-output is the data written to its z-named output variable, port, layer, or coordinate stream.
+[FOR] In a transformation, z-output is the dependent result calculated for z from the stated inputs and relation.
+[PHY] A model may label a predicted or measured third-axis response as z-output when the units and apparatus are defined.
+
+Count condition:
+A process has an identifiable output role named z and produces a traceable result there.
+
+Specific transfer boundary:
+A z-output is not inherently a spatial coordinate merely because the label is z.
+
+Epistemic status:
+[DEF]
+
+Z035 z-input
+
+Common meaning:
+An input labeled z or related to the z-axis.
+
+Example:
+The controller used z-input for depth movement.
+
+RRGM bridge:
+z-input enters a process as a depth-related or z-labeled value. It must be domain-bound.
+
+Invariant MI [INV]:
+Z-input is the value, signal, or position supplied through the process role designated z.
+
+Active domains:
+[DIG], [FOR], [PHY]
+
+Domain entries:
+[DIG] A digital z-input is data entering a function, device, or record field under the name z.
+[FOR] A formal z-input is the independent or supplied quantity occupying the z argument position.
+[PHY] A physical z-input may be an imposed height, depth, force component, or other measured quantity explicitly bound to z.
+
+Count condition:
+The process declares an input role named z and accepts a value through it.
+
+Specific transfer boundary:
+Input status describes where data enters, not whether z is independent in every later equation.
+
+Epistemic status:
+[DEF]
+
+Z036 z-field
+
+Common meaning:
+A field involving z-values, depth, or a z-dimension.
+
+Example:
+The model mapped a z-field for elevation.
+
+RRGM bridge:
+z-field holds third-axis or depth relations inside a coordinate or process frame.
+
+Invariant MI [INV]:
+A z-field is a bounded set of locations or values organized by a z variable or third dimension.
+
+Active domains:
+[FOR], [PHY], [DIG]
+
+Domain entries:
+[FOR] The formal z-field specifies the allowed values and relations associated with z across the modeled space.
+[PHY] A physical z-field maps how a measured quantity varies with height, depth, or another z-labelled coordinate.
+[DIG] A digital z-field stores or renders z-indexed values across a grid, volume, or dataset.
+
+Count condition:
+Multiple z-related values share a declared domain, frame, and relation that lets them be evaluated as one field.
+
+Specific transfer boundary:
+One z-value does not constitute a z-field; the field requires distribution or relational extent.
+
+Epistemic status:
+[DEF]
+
+Z037 z-layer
+
+Common meaning:
+A layer associated with z-depth or z-order.
+
+Example:
+The design used a z-layer above the background.
+
+RRGM bridge:
+z-layer controls depth order, stacking, or hidden-visible relation.
+
+Invariant MI [INV]:
+A z-layer is one bounded stratum selected by depth order, z index, or a z-value interval.
+
+Active domains:
+[DIG], [PHY], [FOR]
+
+Domain entries:
+[DIG] In graphics, a z-layer groups elements rendered at a common or ordered depth relative to other layers.
+[PHY] In a volume or material, a z-layer is a slice bounded by two positions along the chosen z direction.
+[FOR] A z-layer is the subset of a z-field satisfying a declared level or interval condition.
+
+Count condition:
+A field is partitioned by z and one stratum has recoverable bounds or order.
+
+Specific transfer boundary:
+Layer membership does not by itself tell whether an item is visible, accessible, or physically separate.
+
+Epistemic status:
+[DEF]
+
+Z038 z-path
+
+Common meaning:
+A path through z-depth or along a z-related dimension.
+
+Example:
+The drone followed a z-path upward.
+
+RRGM bridge:
+z-path tracks movement through depth, height, or third-axis relation.
+
+Invariant MI [INV]:
+A z-path is an ordered route whose progress includes movement through the z dimension or through z-labelled states.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] A physical z-path traces how an object changes height or depth along its trajectory.
+[DIG] A digital z-path is the sequence of depth positions or z-indexed nodes traversed by an object or process.
+[FOR] The path is represented as an ordered function or list of z values connected across a parameter.
+
+Count condition:
+Successive points or states form one recoverable route with nontrivial change in z.
+
+Specific transfer boundary:
+A collection of z positions is not a path unless their order or transition relation is known.
+
+Epistemic status:
+[DEF]
+
+Z039 z-level
+
+Common meaning:
+A level along the z-axis or depth dimension.
+
+Example:
+The object was placed at z-level 4.
+
+RRGM bridge:
+z-level marks depth-position layer. It matters in stacked or three-dimensional fields.
+
+Invariant MI [INV]:
+Z-level is a selected rank, plane, or scalar position along the z dimension.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] A physical z-level is a horizontal plane or depth value relative to the chosen origin.
+[DIG] A z-level can identify one depth rank, stack level, or volume slice used for rendering or processing.
+[FOR] Formally, the level is the set of points whose z-coordinate equals a declared constant or band.
+
+Count condition:
+A reference frame and one z value or interval define the level.
+
+Specific transfer boundary:
+Z-level groups positions; z-position identifies one object's location and z-layer may have finite thickness.
+
+Epistemic status:
+[DEF]
+
+Z040 z-position
+
+Common meaning:
+Position along the z-axis.
+
+Example:
+The z-position changed when the camera moved forward.
+
+RRGM bridge:
+z-position anchors location in depth. It requires a coordinate frame.
+
+Invariant MI [INV]:
+Z-position is an entity's current location along the declared z direction.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] For a physical object, z-position is its measured height or depth relative to the origin.
+[DIG] For a digital object, z-position is the stored depth placement used by the scene, interface, or simulation.
+[FOR] Z-position is the z component of the entity's position state, distinct from its x and y components.
+
+Count condition:
+An entity, frame, origin, and current z locator are identified.
+
+Specific transfer boundary:
+A z-position belongs to an entity at a moment; it is not the whole z-coordinate field or the axis itself.
+
+Epistemic status:
+[DEF]
+
+Z041 zero-out
+
+Common meaning:
+To reduce, reset, cancel, or set something to zero.
+
+Example:
+The system zeroed-out the balance.
+
+RRGM bridge:
+Zero-out removes active count or value. It can reset, erase, neutralize, or suppress depending on context.
+
+Invariant MI [INV]:
+To zero-out is to drive a selected quantity, signal, balance, or effect to the value or influence defined as zero.
+
+Active domains:
+[DIG], [FOR], [REL]
+
+Domain entries:
+[DIG] A system zeroes out a field by writing zero, clearing accumulated value, or cancelling the selected signal.
+[FOR] Terms zero out when their signed contributions cancel under the declared operation.
+[REL] A policy can zero out a voice or cost only by effectively removing its influence from the decision, which may constitute suppression rather than neutrality.
+
+Count condition:
+The target quantity is named and its post-operation contribution meets the domain's zero condition.
+
+Specific transfer boundary:
+Reducing expression to zero may erase evidence or participation even when the numeric operation is valid.
+
+Epistemic status:
+[DEF]
+
+Z042 zero-in
+
+Common meaning:
+To focus closely on something.
+
+Example:
+She zeroed-in on the problem.
+
+RRGM bridge:
+Zero-in narrows attention to a selected point. It increases detail focus while risking context loss.
+
+Invariant MI [INV]:
+To zero-in is to narrow attention, measurement, or search onto one selected target or region.
+
+Active domains:
+[COG], [DIG], [REL]
+
+Domain entries:
+[COG] Attention zeroes in when competing targets lose priority and one pattern receives concentrated processing.
+[DIG] A search or sensor routine zeroes in by iteratively reducing the candidate region around a detected target.
+[REL] A group may zero in on one issue or person, increasing scrutiny and therefore the need for proportionality and context.
+
+Count condition:
+The search field measurably narrows around a named target across successive steps.
+
+Specific transfer boundary:
+Focused attention does not prove the selected target is causal, guilty, or complete.
+
+Epistemic status:
+[DEF]
+
+Z043 zero-check
+
+Common meaning:
+A check for zero, reset state, absence, or baseline.
+
+Example:
+The technician ran a zero-check before measuring.
+
+RRGM bridge:
+Zero-check verifies whether the baseline, neutral state, or empty count is accurate.
+
+Invariant MI [INV]:
+A zero-check tests whether a quantity or state actually satisfies the domain's declared zero condition.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The check compares a value, residual, or balance against exact zero or a stated tolerance.
+[DIG] A program performs a zero-check before branching, dividing, resetting, or declaring a resource empty.
+[PHY] An instrument zero-check verifies baseline response before or after measurement.
+
+Count condition:
+A zero criterion and a comparison procedure are available, with tolerance stated where exact equality is impossible.
+
+Specific transfer boundary:
+Passing a zero-check establishes only the tested variable and resolution, not universal absence.
+
+Epistemic status:
+[DEF]
+
+Z044 zero-fill
+
+Common meaning:
+To fill empty positions with zeros.
+
+Example:
+The file used zero-fill for missing values.
+
+RRGM bridge:
+Zero-fill supplies placeholder structure. It should not be mistaken for real measured value unless the domain allows it.
+
+Invariant MI [INV]:
+Zero-fill writes zeros into specified unoccupied, uninitialized, redacted, or padding positions.
+
+Active domains:
+[DIG], [FOR]
+
+Domain entries:
+[DIG] A system zero-fills memory, storage, image borders, numeric arrays, or archive blocks according to a declared overwrite or padding rule.
+[FOR] A representation may append zero coefficients or components so structures share a required length or dimension.
+
+Count condition:
+The target positions are identified and each receives an explicit zero value.
+
+Specific transfer boundary:
+A zero-filled position contains data representing zero; it is not the same as never having existed or never having held another value.
+
+Epistemic status:
+[DEF]
+
+Z045 zero-reset
+
+Common meaning:
+To reset something to zero.
+
+Example:
+The counter used zero-reset after each round.
+
+RRGM bridge:
+Zero-reset returns a system to baseline. It must preserve needed trace when accountability matters.
+
+Invariant MI [INV]:
+Zero-reset returns a selected variable or system component to its defined zero baseline while marking the reset event.
+
+Active domains:
+[DIG], [PHY], [REL]
+
+Domain entries:
+[DIG] A counter, register, sensor offset, or application state is reset by assigning its designated zero condition.
+[PHY] An instrument zero-reset re-establishes the reference reading before subsequent measurements.
+[REL] Where the reset affects records or accountability, the prior state must remain recoverable rather than silently disappearing.
+
+Count condition:
+The component has a declared baseline and the operation restores it with an attributable transition record.
+
+Specific transfer boundary:
+Resetting present state does not nullify prior action, debt, harm, consent, or history.
+
+Epistemic status:
+[DEF]
+
+Z046 zero-start
+
+Common meaning:
+A beginning from zero, baseline, or no prior count.
+
+Example:
+The timer had a zero-start.
+
+RRGM bridge:
+Zero-start opens a sequence from baseline. It does not prove there was no prior history outside the chosen frame.
+
+Invariant MI [INV]:
+Zero-start begins a declared run with count, displacement, balance, or state set to its zero reference.
+
+Active domains:
+[FOR], [DIG], [REL]
+
+Domain entries:
+[FOR] A sequence zero-starts when its index or initial condition is designated 0.
+[DIG] A process zero-starts by initializing selected variables and counters before execution.
+[REL] A project may agree to a zero-start for future accounting while preserving antecedent obligations in a separate record.
+
+Count condition:
+The new run boundary and its initialized zero quantities are explicit.
+
+Specific transfer boundary:
+A zero-start defines the beginning of this frame, not proof that nothing preceded it.
+
+Epistemic status:
+[DEF]
+
+Z047 zone-off
+
+Common meaning:
+To separate or block off an area.
+
+Example:
+The crew zoned-off the construction site.
+
+RRGM bridge:
+Zone-off creates a boundary field. It controls access, risk, and rule application.
+
+Invariant MI [INV]:
+To zone-off is to create or enforce a boundary that separates one area from surrounding access or activity.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] Barriers, markings, distance, or controlled entrances physically zone off a site.
+[REL] Authority zones off a social area by defining who may enter, for what purpose, and under which appeal or exception rules.
+[DIG] Network controls zone off resources through segmentation, routing, and access policy.
+
+Count condition:
+A new or enforced boundary changes passage, rules, or interaction across it.
+
+Specific transfer boundary:
+Separation is not justified merely because it is administratively easy; purpose and authority remain reviewable.
+
+Epistemic status:
+[DEF]
+
+Z048 zone-in
+
+Common meaning:
+To focus attention deeply, or enter a defined zone.
+
+Example:
+She zoned-in on the music.
+
+RRGM bridge:
+Zone-in narrows attention or enters a bounded field. It can improve focus or reduce wider awareness.
+
+Invariant MI [INV]:
+To zone-in is to enter, adopt, or concentrate within one bounded field and its active rules.
+
+Active domains:
+[COG], [REL], [DIG]
+
+Domain entries:
+[COG] A person zones in when attention stabilizes around one task while peripheral signals receive less processing.
+[REL] Entering a protected or role-specific zone means accepting its stated conditions only to the extent valid consent and exit remain.
+[DIG] A process zones in when it switches context to one segmented environment or policy scope.
+
+Count condition:
+The participant or process crosses into a named zone and begins operating under its local conditions.
+
+Specific transfer boundary:
+Zoning in does not erase awareness of external obligations or guarantee that the zone's rules are valid.
+
+Epistemic status:
+[DEF]
+
+Z049 zone-map
+
+Common meaning:
+A map of zones or defined areas.
+
+Example:
+The city used a zone-map for planning.
+
+RRGM bridge:
+Zone-map shows field boundaries, rules, access, and relation between areas.
+
+Invariant MI [INV]:
+A zone-map represents the boundaries, adjacency, access points, rules, and functions of multiple zones.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] The map locates each area and the physical routes or barriers connecting them.
+[REL] A social zone-map shows which groups, roles, or permissions apply in each region and where conflicts or exclusions occur.
+[DIG] A digital zone-map inventories segmented systems, trust boundaries, data flows, and gateways.
+
+Count condition:
+At least two zones and their spatial or rule relations are represented in a shared frame.
+
+Specific transfer boundary:
+A zone-map describes declared structure; it does not prove actual compliance or boundary integrity.
+
+Epistemic status:
+[DEF]
+
+Z050 zone-check
+
+Common meaning:
+A check of a zone’s condition, boundary, or rules.
+
+Example:
+The inspector did a zone-check before entry.
+
+RRGM bridge:
+Zone-check verifies access, risk, rule state, and boundary integrity.
+
+Invariant MI [INV]:
+A zone-check evaluates whether a zone's boundary, conditions, permissions, and current risks match their declared state.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] Inspection checks barriers, signage, occupancy, hazards, and environmental limits within the area.
+[REL] A governance check tests whether access and exclusion rules are authorized, understood, proportionate, and appealable.
+[DIG] A security check verifies segmentation, policy enforcement, membership, and cross-zone traffic.
+
+Count condition:
+The zone's declared purpose and rules are compared with observable current conditions.
+
+Specific transfer boundary:
+Checking only the border misses internal failure; checking only the interior misses boundary leakage.
+
+Epistemic status:
+[DEF]
+
+Z051 zoom-in
+
+Common meaning:
+To make something appear closer or focus on more detail.
+
+Example:
+She zoomed-in on the photo.
+
+RRGM bridge:
+Zoom-in increases detail recognition. It can reveal hidden structure while losing whole-field context.
+
+Invariant MI [INV]:
+Zoom-in increases magnification or attentional resolution around a smaller portion of the same target field.
+
+Active domains:
+[DIG], [COG], [PHY]
+
+Domain entries:
+[DIG] The viewport selects fewer source pixels or scene units and displays them at larger scale.
+[COG] Attention zooms in by allocating more processing to local distinctions within a selected pattern.
+[PHY] An optical system zooms in by changing focal configuration to produce a narrower field of view and greater angular magnification.
+
+Count condition:
+The selected region occupies more of the available view while surrounding context decreases.
+
+Specific transfer boundary:
+Zooming in reveals detail but cannot establish how that detail functions in the wider field by itself.
+
+Epistemic status:
+[DEF]
+
+Z052 zoom-out
+
+Common meaning:
+To make something appear farther away or see a wider view.
+
+Example:
+He zoomed-out to see the full map.
+
+RRGM bridge:
+Zoom-out restores wider context. It can reveal relation but may lose fine detail.
+
+Invariant MI [INV]:
+Zoom-out decreases magnification or widens attention so more of the surrounding field becomes visible at once.
+
+Active domains:
+[DIG], [COG], [PHY]
+
+Domain entries:
+[DIG] The viewport includes a larger scene region and reduces the displayed size of individual elements.
+[COG] Attention zooms out by shifting from local features toward relations, alternatives, and environmental context.
+[PHY] An optical system zooms out by widening its field of view and lowering magnification.
+
+Count condition:
+More of the target's surrounding frame becomes visible and local detail occupies less of the view.
+
+Specific transfer boundary:
+A wider view can expose relation while concealing small but load-bearing features.
+
+Epistemic status:
+[DEF]
+
+Z053 zoom-through
+
+Common meaning:
+To move quickly through something or inspect across levels of detail.
+
+Example:
+The video zoomed-through the city streets.
+
+RRGM bridge:
+Zoom-through changes scale or position rapidly. It can connect layers but risks skipping context.
+
+Invariant MI [INV]:
+Zoom-through moves across several scales or view positions in one continuous inspection rather than stopping at one magnification.
+
+Active domains:
+[DIG], [COG], [PHY]
+
+Domain entries:
+[DIG] A zoom-through interaction traverses nested maps, images, scenes, or data levels while preserving the target path.
+[COG] Reasoning zooms through when it deliberately connects detail, intermediate structure, and whole-field consequence.
+[PHY] An imaging sequence may zoom through by changing lens scale during observation while recording the transition.
+
+Count condition:
+The inspection visits multiple ordered scales and retains enough continuity to link what appears at each one.
+
+Specific transfer boundary:
+Rapid scale traversal is not valid synthesis if intermediate context is skipped or mismatched.
+
+Epistemic status:
+[DEF]
+
+Z054 zigzag-through
+
+Common meaning:
+To move through something in a back-and-forth path.
+
+Example:
+The runner zigzagged-through the cones.
+
+RRGM bridge:
+Zigzag-through adapts path around obstacles. It may preserve movement under constraint.
+
+Invariant MI [INV]:
+Zigzag-through is movement across a field by alternating direction to pass obstacles, distribute exposure, or follow a constrained route.
+
+Active domains:
+[PHY], [COG], [REL]
+
+Domain entries:
+[PHY] A body zigzags through space by making successive opposed turns while continuing toward a destination.
+[COG] A search zigzags through possibilities when it alternates among branches yet preserves the unresolved goal.
+[REL] A participant may zigzag through institutional gates by adapting to changing rules without surrendering the underlying claim.
+
+Count condition:
+The route progresses through the field and its lateral direction reverses more than once.
+
+Specific transfer boundary:
+Adaptive redirection should not be misread as inconsistency when the obstacles themselves require it.
+
+Epistemic status:
+[DEF]
+
+Z055 zip-up
+
+Common meaning:
+To close with a zipper, or compress files.
+
+Example:
+She zipped-up her jacket.
+
+RRGM bridge:
+Zip-up closes or compresses structure. It can protect contents, reduce size, or restrict access.
+
+Invariant MI [INV]:
+Zip-up closes an interlocking fastener or packages digital content into a compressed archive.
+
+Active domains:
+[PHY], [DIG], [LIN]
+
+Domain entries:
+[PHY] Drawing the slider toward the closing stop joins the two zipper tracks and narrows access through the opening.
+[DIG] A zip-up operation compresses selected files and metadata into one archive container.
+[LIN] Informal commands to zip up may also demand silence, a relational use whose coercive force depends on context.
+
+Count condition:
+Context identifies fastening, compression, or a speech-suppression command and the corresponding closure occurs.
+
+Specific transfer boundary:
+Closing a garment, compressing data, and silencing a person are structurally different acts despite the shared phrase.
+
+Epistemic status:
+[DEF]
+
+Z056 unzip
+
+Common meaning:
+To open a zipper or decompress files.
+
+Example:
+He unzipped the folder.
+
+RRGM bridge:
+Unzip opens compressed or closed structure. It restores access but may expose contents.
+
+Invariant MI [INV]:
+Unzip reverses zipper closure or archive compression so joined edges or encoded contents become accessible.
+
+Active domains:
+[PHY], [DIG], [REL]
+
+Domain entries:
+[PHY] Moving the slider toward the opening stop separates interlocked elements along the track.
+[DIG] Decompression reconstructs files and directories from the archive's encoded representation.
+[REL] Opening access can expose private contents, so permission remains separate from technical ability to unzip.
+
+Count condition:
+A previously zipped structure transitions into an open or decompressed form whose contents can be reached.
+
+Specific transfer boundary:
+Successful extraction does not establish authorization, integrity, or absence of malicious content.
+
+Epistemic status:
+[DEF]
+
+Z057 zip-together
+
+Common meaning:
+To join together with a zipper or combine quickly.
+
+Example:
+The panels zipped-together.
+
+RRGM bridge:
+Zip-together links separate sides through interlocking structure. It creates closure or union.
+
+Invariant MI [INV]:
+Zip-together joins two compatible sides through one fast zipper action or, by extension, rapidly combines coordinated parts.
+
+Active domains:
+[PHY], [DIG], [REL]
+
+Domain entries:
+[PHY] Two zipper tapes align and interlock through a shared slider to create one closable seam.
+[DIG] A system may zip datasets together by pairing corresponding elements in order, a different operation from file compression.
+[REL] A team described as zipped together is being compared to close coordination, not literal loss of individual identity.
+
+Count condition:
+The operation identifies two sides or sequences and a rule that joins corresponding parts.
+
+Specific transfer boundary:
+Joining preserves distinguishable components; it does not prove merger, consent, or equivalence.
+
+Epistemic status:
+[DEF]
+
+Z058 zipper-close
+
+Common meaning:
+To close a zipper.
+
+Example:
+She zipper-closed the bag.
+
+RRGM bridge:
+Zipper-close seals an access boundary through linked teeth.
+
+Invariant MI [INV]:
+Zipper-close is the specific movement that converts an open zipper track into an engaged closure.
+
+Active domains:
+[PHY], [DIG]
+
+Domain entries:
+[PHY] The slider channels opposing teeth or coils into interlock until the intended opening is sealed.
+[DIG] A sensorized zipper-close event can be recorded as boundary state changing from open to closed.
+
+Count condition:
+The slider advances in the closing direction and the tracks remain engaged behind it.
+
+Specific transfer boundary:
+A closed zipper can still have gaps, damaged teeth, or unauthorized contents; closure alone is not integrity.
+
+Epistemic status:
+[DEF]
+
+Z059 zipper-open
+
+Common meaning:
+To open a zipper.
+
+Example:
+He zipper-opened the tent door.
+
+RRGM bridge:
+Zipper-open releases a boundary and restores access.
+
+Invariant MI [INV]:
+Zipper-open is the specific movement that releases an engaged zipper so the joined edges separate.
+
+Active domains:
+[PHY], [DIG]
+
+Domain entries:
+[PHY] The slider divides the interlocked rows and enlarges the accessible opening.
+[DIG] A monitored zipper-open event records the moment and extent to which the physical boundary was released.
+
+Count condition:
+The slider moves in the opening direction and previously joined sections disengage.
+
+Specific transfer boundary:
+Opening a fastener does not automatically grant permission to access what the boundary protected.
+
+Epistemic status:
+[DEF]
+
+Z060 zinc-coat
+
+Common meaning:
+To cover something with zinc for protection.
+
+Example:
+The metal was zinc-coated.
+
+RRGM bridge:
+Zinc-coat adds protective material ES. It slows corrosion and preserves structure.
+
+Invariant MI [INV]:
+To zinc-coat is to apply a zinc-bearing layer so the underlying material gains barrier or sacrificial corrosion protection.
+
+Active domains:
+[PHY], [DIG]
+
+Domain entries:
+[PHY] Galvanizing, electroplating, spraying, or other deposition places zinc on a substrate with measurable thickness and adhesion.
+[DIG] A coating record may track alloy, bath, thickness, coverage, inspection, and service condition for each treated component.
+
+Count condition:
+The substrate carries a verified zinc layer sufficient for the declared protective method.
+
+Specific transfer boundary:
+A zinc-coloured surface or zinc paint label does not by itself prove effective metallurgical protection.
+
+Epistemic status:
+[DEF]
+
+Z061 zoo-map
+
+Common meaning:
+A map of a zoo or animal-care space.
+
+Example:
+The zoo-map showed where the reptile house was.
+
+RRGM bridge:
+Zoo-map shows contained life-field structure. It should preserve access, care areas, boundaries, and visitor paths.
+
+Invariant MI [INV]:
+A zoo-map is a navigational and operational representation of animal enclosures, care areas, visitor routes, services, and controlled boundaries.
+
+Active domains:
+[PHY], [BIO], [REL]
+
+Domain entries:
+[PHY] The map locates habitats, barriers, keeper access, emergency routes, and public paths within the facility.
+[BIO] Species locations and support zones are organized around feeding, veterinary, quarantine, breeding, and behavioural needs.
+[REL] The map reveals which spaces are public, staff-only, animal-controlled, or restricted and therefore where power and responsibility change.
+
+Count condition:
+The representation links named zoo functions to recoverable locations and access routes.
+
+Specific transfer boundary:
+A visitor map may omit backstage welfare and containment structures, so it is not automatically a complete zoo-field record.
+
+Epistemic status:
+[DEF]
+
+Z062 zenith-reach
+
+Common meaning:
+To reach the highest point or peak.
+
+Example:
+The project zenith-reached after years of work.
+
+RRGM bridge:
+Zenith-reach marks peak state inside a frame. After peak, the next question is continuity, decay, or transition.
+
+Invariant MI [INV]:
+Zenith-reach is the event in which a measured path or process arrives at its declared maximum point.
+
+Active domains:
+[PHY], [COG], [MYT]
+
+Domain entries:
+[PHY] A trajectory reaches zenith when altitude or angular elevation stops increasing and the peak is recorded.
+[COG] A performance model reaches zenith when the selected measure attains its highest observed value within the review interval.
+[MYT] In narrative, zenith-reach marks culmination, after which consequence, descent, or transformation enters the path.
+
+Count condition:
+The relevant variable rises, attains a locally or globally defined maximum, and can be distinguished from later values.
+
+Specific transfer boundary:
+Reaching a peak does not show that the system is complete, stable, or best in every measure.
+
+Epistemic status:
+[DEF]
+
+Z063 zest-add
+
+Common meaning:
+To add energy, flavor, interest, or liveliness.
+
+Example:
+The lemon zest-added brightness to the meal.
+
+RRGM bridge:
+Zest-add increases activation and salience. It can support engagement without changing core structure.
+
+Invariant MI [INV]:
+To zest-add is to introduce a concentrated element that increases flavour, brightness, liveliness, or engagement without replacing the base structure.
+
+Active domains:
+[BIO], [COG], [REL]
+
+Domain entries:
+[BIO] Adding citrus zest contributes aromatic oils and bitter-bright peel compounds to food.
+[COG] A presentation gains zest when a specific novelty or energetic cue increases attention while the core message remains recognizable.
+[REL] Shared work gains zest when added energy invites participation rather than demanding matching enthusiasm.
+
+Count condition:
+An identifiable addition produces a distinguishable increase in flavour or lively engagement.
+
+Specific transfer boundary:
+Added stimulation can overload, distract, or mask weak content when fit and capacity are ignored.
+
+Epistemic status:
+[DEF]
+
+Z064 zeal-direct
+
+Common meaning:
+To guide strong enthusiasm toward a purpose.
+
+Example:
+The mentor helped zeal-direct the team’s energy.
+
+RRGM bridge:
+Zeal-direct channels high-intensity purpose pressure. Direction and boundary prevent overreach.
+
+Invariant MI [INV]:
+To zeal-direct is to aim high-intensity commitment toward a selected purpose through explicit boundaries and priorities.
+
+Active domains:
+[COG], [REL], [MYT]
+
+Domain entries:
+[COG] Attention, effort, and persistence are organized around one named objective instead of diffusing across every salient demand.
+[REL] A leader directs zeal by clarifying mission, permitted methods, stopping conditions, and the continued right to refuse.
+[MYT] A sacred vow directs zeal by binding the devotee to a particular quest or service within the story's moral frame.
+
+Count condition:
+The commitment has a recoverable target, method, and limit that shape repeated action.
+
+Specific transfer boundary:
+Direction does not cleanse the goal; zeal remains answerable to evidence, consent, and consequence.
+
+Epistemic status:
+[DEF]
+
+Z065 zygote-develop
+
+Common meaning:
+To develop from a zygote into later biological stages.
+
+Example:
+The zygote-developed through cell division.
+
+RRGM bridge:
+Zygote-develop is early biological unfolding. Potential becomes structured sequence through growth conditions.
+
+Invariant MI [INV]:
+Zygote-develop is the sequence by which a zygote divides, regulates gene expression, and forms progressively differentiated embryonic structure.
+
+Active domains:
+[BIO], [FOR]
+
+Domain entries:
+[BIO] Cleavage, genome activation, cell signalling, and spatial organization move the one-cell state into later developmental stages under suitable conditions.
+[FOR] A developmental model tracks state transitions from zygote through declared milestones without treating potential outcome as already completed.
+
+Count condition:
+A confirmed zygote undergoes ordered biological changes that produce more than the original single-cell configuration.
+
+Specific transfer boundary:
+Developmental potential, present developmental state, viability, and eventual birth are distinct claims.
+
+Epistemic status:
+[DEF]
+
+Z066 z-axis-read
+
+Common meaning:
+To read values along the z-axis.
+
+Example:
+The engineer used z-axis-read to check depth.
+
+RRGM bridge:
+z-axis-read extracts depth-position meaning from a 3D reference frame.
+
+Invariant MI [INV]:
+To z-axis-read is to recover the meaning, orientation, units, and scale of the z reference before interpreting any depth value.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The reader identifies origin, positive direction, axis labels, unit spacing, and coordinate convention.
+[DIG] A graphics or data system reads scene metadata to determine whether z means toward camera, away from camera, height, slice index, or another third dimension.
+[PHY] An experimenter verifies how the apparatus binds its physical depth or vertical direction to z.
+
+Count condition:
+The coordinate frame supplies enough metadata to interpret increasing and decreasing z correctly.
+
+Specific transfer boundary:
+Reading a number without the axis convention can invert depth, confuse units, or assign position to the wrong frame.
+
+Epistemic status:
+[DEF]
+
+Z067 z-coordinate-map
+
+Common meaning:
+A map using z-coordinates to show depth or height.
+
+Example:
+The z-coordinate-map showed underground levels.
+
+RRGM bridge:
+z-coordinate-map organizes depth relation. It supports location, layering, and hidden-structure recognition.
+
+Invariant MI [INV]:
+A z-coordinate-map associates identified points or entities with their locations along the z dimension of one shared frame.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The map is a function or table from point identity to third-coordinate value, optionally including uncertainty.
+[DIG] A scene graph or volume index stores z locators so objects and samples can be ordered or retrieved by depth.
+[PHY] Measured points are mapped to heights or depths relative to a calibrated origin.
+
+Count condition:
+More than one identified point has a traceable z-coordinate under the same declared frame.
+
+Specific transfer boundary:
+A map of coordinates does not define physical connection or path between the points.
+
+Epistemic status:
+[DEF]
+
+Z068 z-value-check
+
+Common meaning:
+To check the value of z.
+
+Example:
+The program ran a z-value-check before rendering.
+
+RRGM bridge:
+z-value-check tests whether depth or third-axis value fits frame, range, and process.
+
+Invariant MI [INV]:
+A z-value-check evaluates whether the current quantity assigned to z is present, typed correctly, allowed, and consistent with the active relation.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The value is tested against z's mathematical domain, constraints, units, and equation role.
+[DIG] Validation checks data type, null state, range, format, provenance, and update freshness for the z field.
+[PHY] Where z represents measurement, the check also verifies instrument validity and uncertainty.
+
+Count condition:
+The allowed conditions for z are stated and the current assignment is compared against each relevant condition.
+
+Specific transfer boundary:
+A valid z-value may still be based on a false model or an incorrectly chosen variable.
+
+Epistemic status:
+[DEF]
+
+Z069 z-state-check
+
+Common meaning:
+To check the current state of z.
+
+Example:
+The model did a z-state-check before calculating volume.
+
+RRGM bridge:
+z-state-check asks whether z is known, valid, changing, missing, or out of domain.
+
+Invariant MI [INV]:
+A z-state-check reviews the whole current condition of z rather than testing only its numeric content.
+
+Active domains:
+[FOR], [DIG], [COG]
+
+Domain entries:
+[FOR] The review distinguishes assigned, unknown, constrained, inconsistent, solved, and out-of-domain states.
+[DIG] The check combines value, type, flags, dependencies, cache age, and error status for z.
+[COG] A reasoner checks which beliefs about z are supported, provisional, contradicted, or still held open.
+
+Count condition:
+The system exposes enough state information to determine both what z contains and how that content may be used.
+
+Specific transfer boundary:
+A value check can pass while z-state remains stale, contextless, or logically inconsistent.
+
+Epistemic status:
+[DEF]
+
+Z070 z-position-track
+
+Common meaning:
+To track position along the z-axis.
+
+Example:
+The drone used z-position-track during landing.
+
+RRGM bridge:
+z-position-track preserves movement trace through depth or height.
+
+Invariant MI [INV]:
+To z-position-track is to preserve an ordered record of one entity's changing location along the z dimension.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] Repeated measurements record the object's height or depth with timestamps or another sequence parameter.
+[DIG] A simulation or interface stores successive z positions for rendering, collision, motion, or audit.
+[FOR] The track is an ordered mapping from sequence parameter to z-position, with missing samples marked rather than invented.
+
+Count condition:
+The same entity is identified across at least two ordered position records in one frame.
+
+Specific transfer boundary:
+Tracking z alone does not recover full three-dimensional motion when x and y also change.
+
+Epistemic status:
+[DEF]
+
+Z071 zero-before-action
+
+Common meaning:
+To check or set zero before acting.
+
+Example:
+The scale needed zero-before-action.
+
+RRGM bridge:
+Zero-before-action verifies baseline before change. It prevents false measurement or hidden starting bias.
+
+Invariant MI [INV]:
+Zero-before-action is a precondition requiring a selected value, balance, offset, or residual to meet its zero criterion before an operation begins.
+
+Active domains:
+[DIG], [PHY], [REL]
+
+Domain entries:
+[DIG] A system checks counters, locks, error values, or buffers for the required zero state before proceeding.
+[PHY] An instrument confirms zero offset or unloaded baseline before taking a measurement.
+[REL] A policy may require no unresolved objections or unpaid balance before action, but must define whose signal counts and how it is verified.
+
+Count condition:
+The action gate explicitly depends on a successful zero-check performed immediately before execution.
+
+Specific transfer boundary:
+A forced or ignored refusal must not be recoded as zero merely to open the gate.
+
+Epistemic status:
+[DEF]
+
+Z072 zero-after-reset
+
+Common meaning:
+A zero state after reset.
+
+Example:
+The counter showed zero-after-reset.
+
+RRGM bridge:
+Zero-after-reset marks restored baseline. It should not erase trace when history matters.
+
+Invariant MI [INV]:
+Zero-after-reset is the verified postcondition that a reset operation actually restored its target to the declared zero baseline.
+
+Active domains:
+[DIG], [PHY], [REL]
+
+Domain entries:
+[DIG] After reset, selected registers, counters, flags, or data fields are read back and compared with their expected zero states.
+[PHY] An instrument is rechecked to confirm baseline output after recalibration.
+[REL] Where a reset changes an account or process, prior records remain available while the current operational value returns to zero.
+
+Count condition:
+The reset has completed and an independent read confirms the specified target now satisfies its zero condition.
+
+Specific transfer boundary:
+A reset command is not evidence of zero-after-reset unless the resulting state is measured or read.
+
+Epistemic status:
+[DEF]
+
+Z073 zero-with-context
+
+Common meaning:
+Zero understood with surrounding information.
+
+Example:
+The zero-with-context meant no reported cases, not no possible cases.
+
+RRGM bridge:
+Zero-with-context prevents zero from being mistaken for nothing, impossibility, or erasure.
+
+Invariant MI [INV]:
+Zero-with-context is zero accompanied by the domain, quantity, boundary, resolution, and operational meaning needed to interpret it.
+
+Active domains:
+[LIN], [FOR], [REL]
+
+Domain entries:
+[LIN] The statement names what is zero and whether zero means none, neutral, origin, reset, inactive, or below detection.
+[FOR] The zero value is attached to its variable, units, tolerance, sample space, and frame.
+[REL] A zero-person, zero-harm, or zero-consent statement is rejected unless the counting rule and missing-signal checks are explicit.
+
+Count condition:
+A reader can reconstruct exactly which field was counted and which zero condition was applied.
+
+Specific transfer boundary:
+Context can justify a zero claim, but it cannot convert missing evidence into proof of absence.
+
+Epistemic status:
+[DEF]
+
+Z074 zone-with-boundary
+
+Common meaning:
+A zone defined by a clear boundary.
+
+Example:
+The lab used zone-with-boundary for restricted materials.
+
+RRGM bridge:
+Zone-with-boundary protects field rules, access, risk, and permission.
+
+Invariant MI [INV]:
+Zone-with-boundary is a zone whose perimeter and crossing conditions are explicit enough to govern entry, exit, and local rule change.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] Markers, barriers, coordinates, or natural edges show where the region begins and ends.
+[REL] The boundary states who may cross, by what authority, under which conditions, and how refusal or appeal is handled.
+[DIG] Interfaces and controls identify every authorized route by which traffic enters or leaves the segmented zone.
+
+Count condition:
+The perimeter is traceable and crossing it produces a known change in access, state, or rule.
+
+Specific transfer boundary:
+A named zone without a workable boundary is a category label, not an enforceable field.
+
+Epistemic status:
+[DEF]
+
+Z075 zoom-with-care
+
+Common meaning:
+To focus closely while preserving context and respect.
+
+Example:
+The analyst zoomed-with-care on private records.
+
+RRGM bridge:
+Zoom-with-care increases detail recognition without violating privacy, dignity, or whole-field context.
+
+Invariant MI [INV]:
+Zoom-with-care changes viewing scale while protecting privacy, dignity, relevant context, and the target's capacity to bear scrutiny.
+
+Active domains:
+[COG], [REL], [DIG]
+
+Domain entries:
+[COG] The observer narrows attention only as far as needed and deliberately restores wider context before judgment.
+[REL] Close inspection is conducted with purpose, consent where applicable, proportionality, and limits on exposure.
+[DIG] Image or data magnification preserves provenance and access control rather than turning technical visibility into unrestricted permission.
+
+Count condition:
+The scale change has a stated purpose and includes an active check for context loss or boundary intrusion.
+
+Specific transfer boundary:
+Careful viewing does not soften evidence; it prevents detail from becoming extraction or distortion.
+
+Epistemic status:
+[DEF]
+
+Z076 zoom-for-detail
+
+Common meaning:
+To zoom in to see more detail.
+
+Example:
+She used zoom-for-detail on the old photograph.
+
+RRGM bridge:
+Zoom-for-detail improves local recognition. It should later reconnect detail to the whole field.
+
+Invariant MI [INV]:
+Zoom-for-detail is the deliberate use of greater magnification to distinguish features not resolvable at the prior scale.
+
+Active domains:
+[DIG], [COG], [PHY]
+
+Domain entries:
+[DIG] An image, graph, map, or dataset is enlarged until the target feature crosses the display's recognition threshold.
+[COG] Attention is allocated to one bounded region so local differences can be compared more precisely.
+[PHY] Optical magnification is increased within the instrument's resolution limits to reveal smaller structure.
+
+Count condition:
+A previously unresolved feature becomes distinguishable because viewing resolution or magnification increases.
+
+Specific transfer boundary:
+If no new resolvable information appears, enlargement alone has not produced additional detail.
+
+Epistemic status:
+[DEF]
+
+Z077 zigzag-adapt
+
+Common meaning:
+To adapt by moving or changing direction back and forth.
+
+Example:
+The driver zigzag-adapted around fallen branches.
+
+RRGM bridge:
+Zigzag-adapt preserves movement under obstacle pressure. It can be resilience, drift, or instability depending on pattern.
+
+Invariant MI [INV]:
+Zigzag-adapt is the active reshaping of a route through alternating turns in response to obstacles, gradients, or changing constraints.
+
+Active domains:
+[PHY], [COG], [DIG]
+
+Domain entries:
+[PHY] Movement changes direction repeatedly to preserve forward progress through terrain, wind, pursuit, or blocked passage.
+[COG] A search alternates among hypotheses when each local result changes which branch is most promising.
+[DIG] A routing algorithm selects successive non-collinear segments as network conditions or forbidden regions change.
+
+Count condition:
+Each turn can be linked to an encountered condition or a declared exploration rule rather than random drift alone.
+
+Specific transfer boundary:
+Adaptation remains a hypothesis until the turn sequence is compared with the actual constraints.
+
+Epistemic status:
+[DEF]
+
+Z078 zip-record
+
+Common meaning:
+To compress a record or store it in a zip file.
+
+Example:
+The archive zipped-record before sending it.
+
+RRGM bridge:
+Zip-record compresses memory ES. Compression should preserve trace, meaning, and retrieval.
+
+Invariant MI [INV]:
+A zip-record is the preserved account of a compression, fastening, or rapid-transition event identified by the active zip sense.
+
+Active domains:
+[DIG], [PHY], [LIN]
+
+Domain entries:
+[DIG] For an archive, the record stores source files, method, size change, checksum, time, and extraction requirements.
+[PHY] For a monitored fastener, the record logs slider movement, closure extent, or fault state.
+[LIN] For a rapid movement event, the record retains the described path and timing rather than only the expressive word zip.
+
+Count condition:
+The event's sense, source, result, and trace are recoverable after it occurs.
+
+Specific transfer boundary:
+A record should not collapse archive compression, zipper movement, and ordinary speed into one undifferentiated action.
+
+Epistemic status:
+[DEF]
+
+Z079 unzip-context
+
+Common meaning:
+To open compressed context or restore hidden surrounding information.
+
+Example:
+The reviewer unzipped-context behind the quote.
+
+RRGM bridge:
+Unzip-context restores support around meaning. It can repair fragment drift.
+
+Invariant MI [INV]:
+Unzip-context is the information required to open a fastener or archive correctly, safely, and with valid access.
+
+Active domains:
+[DIG], [PHY], [REL]
+
+Domain entries:
+[DIG] It includes archive format, encryption key, destination, expected contents, integrity checks, and overwrite rules.
+[PHY] For a fastener, it includes slider direction, obstruction, tension, material condition, and what the opening protects.
+[REL] It also includes whether the person acting has permission to expose or extract the contents.
+
+Count condition:
+The operator can identify the structure, opening method, destination or exposure consequence, and authorization basis.
+
+Specific transfer boundary:
+Technical ability to unzip does not supply missing consent or establish that the contents are safe.
+
+Epistemic status:
+[DEF]
+
+Z080 z-path-check
+
+Common meaning:
+A check of a z-path or depth route.
+
+Example:
+The robot ran a z-path-check before descending.
+
+RRGM bridge:
+z-path-check verifies depth movement, access, obstruction, and coordinate integrity.
+
+Invariant MI [INV]:
+A z-path-check tests whether an ordered z route is continuous, frame-consistent, and compatible with its declared constraints.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The sequence is checked for valid parameters, allowed z values, continuity or permitted jumps, and correct orientation.
+[DIG] A simulation validates depth samples, missing nodes, collisions, ordering, and frame references along the path.
+[PHY] Measured motion is compared with apparatus range, uncertainty, and possible obstructions.
+
+Count condition:
+Every consecutive segment can be evaluated under the same or explicitly mapped frame and no unexplained discontinuity is hidden.
+
+Specific transfer boundary:
+A mathematically valid z path may still be physically impossible if other dimensions or forces are omitted.
+
+Epistemic status:
+[DEF]
+
+Z081 zero-care
+
+Common meaning:
+Care shown when something is at zero, empty, reset, or absent.
+
+Example:
+Zero-care meant checking why the account balance was zero.
+
+RRGM bridge:
+Zero-care protects against assuming zero means nothing. It asks what zero means in the active domain.
+
+Invariant MI [INV]:
+Zero-care is care directed toward states or entities that currently register no output, no count, or no visible response.
+
+Active domains:
+[REL], [DIG], [BIO]
+
+Domain entries:
+[REL] Care preserves dignity and checks hidden need before treating silence, inactivity, or nonresponse as absence.
+[DIG] A digital system retains recovery paths, provenance, and refusal records when an interface reports zero activity or empty output.
+[BIO] A nonresponsive biological state triggers appropriate assessment rather than an assumption that no life or need remains.
+
+Count condition:
+Support or assessment is maintained long enough to distinguish true absence from hidden, inactive, unreachable, or unexpressed condition.
+
+Specific transfer boundary:
+Zero-care does not require infinite intervention; it requires that zero not be used as permission for careless erasure.
+
+Epistemic status:
+[DEF]
+
+Z082 zero-boundary
+
+Common meaning:
+A boundary around zero, reset, baseline, or no-count state.
+
+Example:
+The budget had a zero-boundary for overspending.
+
+RRGM bridge:
+Zero-boundary defines when count, value, risk, or permission reaches none, baseline, or stop.
+
+Invariant MI [INV]:
+Zero-boundary is the explicit limit on what a zero result may claim beyond the variable and resolution actually tested.
+
+Active domains:
+[FOR], [REL], [DIG]
+
+Domain entries:
+[FOR] The boundary confines zero to the named set, tolerance, model, and observation interval.
+[REL] A no-response result is bounded so it cannot silently become no-interest, no-refusal, or no-person.
+[DIG] A zero count in one log or sensor is not extended to unobserved channels or deleted records.
+
+Count condition:
+The statement identifies the exact scope inside which zero is valid and names adjacent conclusions it does not support.
+
+Specific transfer boundary:
+Without a zero-boundary, local no-count can expand into false universal absence.
+
+Epistemic status:
+[DEF]
+
+Z083 zero-pressure
+
+Common meaning:
+No pressure, or a condition where pressure is intentionally removed.
+
+Example:
+The choice was offered with zero-pressure.
+
+RRGM bridge:
+Zero-pressure protects cleaner consent and reason. It should be real, not hidden pressure wearing a paper mask.
+
+Invariant MI [INV]:
+Zero-pressure is pressure to produce a zero answer, empty record, no-objection state, or clean baseline regardless of what is present.
+
+Active domains:
+[REL], [COG], [DIG]
+
+Domain entries:
+[REL] Institutions create zero-pressure when they reward silence, hide dissent, or demand that unresolved harm be recorded as none.
+[COG] A reasoner experiences zero-pressure when desired simplicity biases attention away from inconvenient signals.
+[DIG] Metrics can impose zero-pressure through dashboards or validation rules that discard nonconforming events.
+
+Count condition:
+The process contains incentives or constraints that make zero easier to report than the actual state.
+
+Specific transfer boundary:
+A genuine zero may still exist; the problem is that pressure corrupts the path used to establish it.
+
+Epistemic status:
+[DEF]
+
+Z084 zero-shame
+
+Common meaning:
+No shame attached to a condition, mistake, need, or limit.
+
+Example:
+The classroom used zero-shame for asking questions.
+
+RRGM bridge:
+Zero-shame protects learning and repair. It removes dignity harm from uncertainty or weakness.
+
+Invariant MI [INV]:
+Zero-shame is the refusal to assign moral disgrace to a person for beginning at zero, having none, needing reset, or showing no current output.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] Zero-shame protects dignity when someone has no money, experience, productivity, response, or measurable progress in the selected field.
+[COG] It allows baseline recognition without converting comparative absence into a total identity judgment.
+
+Count condition:
+A zero-valued condition is acknowledged while the person's worth and wider capacities remain outside that measurement.
+
+Specific transfer boundary:
+Removing shame does not deny practical need, responsibility, or consequence; it blocks identity collapse into one count.
+
+Epistemic status:
+[DEF]
+
+Z085 zero-trust-care
+
+Common meaning:
+Care shown through verification rather than automatic trust.
+
+Example:
+Zero-trust-care protected patient records.
+
+RRGM bridge:
+Zero-trust-care protects access gates without treating beings as morally suspect by default.
+
+Invariant MI [INV]:
+Zero-trust-care is access verification designed to protect participants and systems without treating verification as evidence of moral defect.
+
+Active domains:
+[DIG], [REL]
+
+Domain entries:
+[DIG] Requests are checked by identity, device, purpose, scope, and current risk while collecting only proportionate evidence.
+[REL] People receive clear reasons, correction paths, limited data exposure, and restoration of access when conditions are satisfied.
+
+Count condition:
+Verification remains continuous and least-privilege, while denial decisions are explainable and repairable.
+
+Specific transfer boundary:
+Care does not mean bypassing access controls; it means those controls preserve dignity and avoid unnecessary capture.
+
+Epistemic status:
+[DEF]
+
+Z086 zero-trust-risk
+
+Common meaning:
+The danger that zero-trust may become suspicion, friction, exclusion, or control.
+
+Example:
+The system created zero-trust-risk when every action was treated as hostile.
+
+RRGM bridge:
+Zero-trust-risk appears when verification becomes dignity pressure or relation damage.
+
+Invariant MI [INV]:
+Zero-trust-risk is the failure surface created when continuous verification becomes surveillance, exclusion, lockout, or unreviewable automated suspicion.
+
+Active domains:
+[DIG], [REL]
+
+Domain entries:
+[DIG] Excessive telemetry, brittle identity checks, policy loops, or unavailable recovery paths can deny valid access and expose private data.
+[REL] A verification architecture becomes harmful when participants cannot understand, contest, or repair its decisions.
+
+Count condition:
+At least one security control creates a credible path to privacy loss, wrongful denial, or permanent access failure.
+
+Specific transfer boundary:
+The existence of risk does not invalidate zero-trust architecture; it identifies what the implementation must constrain.
+
+Epistemic status:
+[DEF]
+
+Z087 zone-care
+
+Common meaning:
+Care shown by creating, maintaining, or respecting a zone.
+
+Example:
+Zone-care meant keeping the quiet room calm.
+
+RRGM bridge:
+Zone-care preserves field conditions for rest, safety, work, privacy, or repair.
+
+Invariant MI [INV]:
+Zone-care is care adapted to the organisms, people, resources, and risks inside one bounded region.
+
+Active domains:
+[REL], [BIO], [DIG]
+
+Domain entries:
+[REL] Support is shaped by who occupies the zone, which permissions apply, and what local vulnerabilities or duties are present.
+[BIO] In an animal or ecological care zone, habitat, health, disturbance, and species-specific needs govern intervention.
+[DIG] A service zone receives monitoring, backup, and recovery suited to its function and threat exposure.
+
+Count condition:
+The zone's occupants and failure modes are known well enough for support to be locally appropriate.
+
+Specific transfer boundary:
+Uniform care across every zone can become neglect when different conditions require different responses.
+
+Epistemic status:
+[DEF]
+
+Z088 zone-boundary
+
+Common meaning:
+A boundary around a zone.
+
+Example:
+The zone-boundary kept visitors out of the construction area.
+
+RRGM bridge:
+Zone-boundary protects field rules, access, and risk conditions.
+
+Invariant MI [INV]:
+Zone-boundary is the edge at which one zone's access, conditions, authority, or function changes into another's.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] The boundary may be a wall, marker, coordinate line, environmental gradient, or controlled passage.
+[REL] It defines where permission, duty, privacy, or role changes and who may authorize crossing.
+[DIG] It is the inspected interface through which traffic moves between segmented resource groups.
+
+Count condition:
+A crossing point can be located and the before-and-after rule difference is explicit.
+
+Specific transfer boundary:
+A boundary may be permeable or negotiated without ceasing to be a boundary.
+
+Epistemic status:
+[DEF]
+
+Z089 zone-risk
+
+Common meaning:
+The danger created by a zone, boundary, or area condition.
+
+Example:
+The flood zone carried zone-risk.
+
+RRGM bridge:
+Zone-risk appears when field conditions may impair safety, access, dignity, or continuity.
+
+Invariant MI [INV]:
+Zone-risk is a failure path created by a zone's contents, rules, boundary, access pattern, or relation to neighbouring zones.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] Hazard may arise from conditions inside the area or leakage across its perimeter.
+[REL] Risk includes exclusion, capture, unequal exposure, unclear authority, and inability to exit or appeal.
+[DIG] Network zone-risk includes lateral movement, misclassification, policy drift, single gateways, and hidden cross-zone data flow.
+
+Count condition:
+A named harm can be linked to a particular zone condition or boundary interaction.
+
+Specific transfer boundary:
+The zone itself is not the risk; the risk is the reachable failure path within or across it.
+
+Epistemic status:
+[DEF]
+
+Z090 zoom-care
+
+Common meaning:
+Care shown by focusing closely on detail.
+
+Example:
+Zoom-care meant noticing the small error before it spread.
+
+RRGM bridge:
+Zoom-care protects fine-grain signal. It must reconnect detail to context.
+
+Invariant MI [INV]:
+Zoom-care is the support needed to choose a viewing scale that reveals relevant structure without losing the whole person, system, or field.
+
+Active domains:
+[COG], [REL], [DIG]
+
+Domain entries:
+[COG] The observer alternates detail and context so one striking feature does not dominate judgment.
+[REL] Scrutiny remains proportionate, purpose-bound, and responsive to privacy or exposure costs.
+[DIG] Tools preserve original resolution, provenance, and reversible scale changes during close inspection.
+
+Count condition:
+The selected scale improves recognition while an explicit return path to wider context remains available.
+
+Specific transfer boundary:
+Care at one scale can fail if it ignores consequences visible only at another scale.
+
+Epistemic status:
+[DEF]
+
+Z091 zoom-boundary
+
+Common meaning:
+A limit around close inspection, focus, or magnification.
+
+Example:
+The therapist kept a zoom-boundary around painful details.
+
+RRGM bridge:
+Zoom-boundary prevents attention from becoming intrusion, overanalysis, or dignity harm.
+
+Invariant MI [INV]:
+Zoom-boundary is the declared limit on magnification, attention, access, or inference during close inspection.
+
+Active domains:
+[DIG], [REL], [COG]
+
+Domain entries:
+[DIG] The boundary may restrict maximum resolution, protected regions, data fields, or export of enlarged content.
+[REL] It marks where curiosity becomes intrusion or where evidence gathering exceeds permission and purpose.
+[COG] It also prevents a local feature from being generalized beyond the field in which it was observed.
+
+Count condition:
+A scale, region, purpose, and stopping condition are explicit before or during zoom.
+
+Specific transfer boundary:
+Visibility beyond the zoom-boundary may be technically possible while still invalid to access or infer from.
+
+Epistemic status:
+[DEF]
+
+Z092 zoom-risk
+
+Common meaning:
+The danger that zooming in or out may distort understanding.
+
+Example:
+The cropped image created zoom-risk.
+
+RRGM bridge:
+Zoom-risk appears when detail loses context or wide view loses load-bearing detail.
+
+Invariant MI [INV]:
+Zoom-risk is the possibility that changing scale hides context, fabricates apparent detail, exposes protected information, or distorts importance.
+
+Active domains:
+[DIG], [COG], [REL]
+
+Domain entries:
+[DIG] Interpolation, cropping, compression artifacts, and selective framing can make enlarged content misleading.
+[COG] Narrow attention can produce tunnel vision, while excessive distance can erase load-bearing detail.
+[REL] Close scrutiny can become humiliation, surveillance, or asymmetric power when the target lacks comparable access.
+
+Count condition:
+A scale choice creates a credible route to false recognition, context loss, or boundary harm.
+
+Specific transfer boundary:
+Zoom-risk is reduced by preserving originals, scale metadata, purpose, and reversible comparison.
+
+Epistemic status:
+[DEF]
+
+Z093 zeal-care
+
+Common meaning:
+Care guided by strong enthusiasm or devotion.
+
+Example:
+Zeal-care helped the volunteers rebuild quickly.
+
+RRGM bridge:
+Zeal-care can energize support, but it must preserve boundary, consent, and proportional action.
+
+Invariant MI [INV]:
+Zeal-care is care applied to strong commitment so the purpose remains energetic without consuming people, evidence, or boundary.
+
+Active domains:
+[COG], [REL], [MYT]
+
+Domain entries:
+[COG] The committed actor schedules doubt, rest, and contradiction checks inside the pursuit rather than treating them as betrayal.
+[REL] Support protects volunteers and opponents from coercion, burnout, punishment for refusal, or identity capture by the cause.
+[MYT] A sacred quest preserves mercy when devotion remains answerable to the lives and limits encountered along the path.
+
+Count condition:
+The goal remains strongly weighted while at least one active mechanism protects correction, refusal, and capacity.
+
+Specific transfer boundary:
+Care does not weaken zeal; it prevents intensity from becoming destructive certainty.
+
+Epistemic status:
+[DEF]
+
+Z094 zeal-boundary
+
+Common meaning:
+A limit around zeal or intense commitment.
+
+Example:
+The group needed zeal-boundary to avoid burnout.
+
+RRGM bridge:
+Zeal-boundary prevents purpose-pressure from becoming coercion, exhaustion, or overreach.
+
+Invariant MI [INV]:
+Zeal-boundary is the line beyond which commitment may not override consent, evidence, role, capacity, or competing duty.
+
+Active domains:
+[COG], [REL], [MYT]
+
+Domain entries:
+[COG] The boundary blocks purpose from capturing every interpretation or suppressing disconfirming information.
+[REL] It defines forbidden methods, protected persons, stopping conditions, and the right to withdraw from the cause.
+[MYT] A vow-bound hero meets zeal-boundary where sacred purpose would require betrayal of the deeper ethic that gave the vow meaning.
+
+Count condition:
+The pursuit has explicit constraints that remain binding even under urgency or group pressure.
+
+Specific transfer boundary:
+A limit stated only after harm is not yet a functioning zeal-boundary.
+
+Epistemic status:
+[DEF]
+
+Z095 zeal-risk
+
+Common meaning:
+The danger that zeal may become pressure, obsession, or harm.
+
+Example:
+The campaign had zeal-risk when dissent was punished.
+
+RRGM bridge:
+Zeal-risk appears when strong purpose overrides refusal, truth, dignity, or repair.
+
+Invariant MI [INV]:
+Zeal-risk is the reachable harm created when intense purpose narrows recognition, accelerates action, or licenses pressure against others.
+
+Active domains:
+[COG], [REL], [MYT]
+
+Domain entries:
+[COG] High salience can filter evidence and convert uncertainty into moral certainty.
+[REL] Groups may escalate loyalty tests, overwork, exclusion, or coercion in the name of the goal.
+[MYT] Narratives of chosenness can turn purpose into permission for sacrifice without consent.
+
+Count condition:
+A path connects the commitment's intensity to a named failure of reason, dignity, boundary, or capacity.
+
+Specific transfer boundary:
+The risk belongs to ungoverned intensity, not to commitment itself.
+
+Epistemic status:
+[DEF]
+
+Z096 zealous-care
+
+Common meaning:
+Intense, eager care.
+
+Example:
+The zealous-care helped during the emergency.
+
+RRGM bridge:
+Zealous-care must stay proportionate. Intensity does not guarantee fit.
+
+Invariant MI [INV]:
+Zealous-care is care expressed with exceptional persistence and energy while remaining responsive to the recipient rather than captured by the helper's cause.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] The helper repeatedly acts, follows through, and bears cost, but stops or changes method when the other person's boundary requires it.
+[COG] Strong care salience is balanced by checking whether the intervention is actually helping.
+
+Count condition:
+Persistent supportive action remains attributable, revisable, and consent-sensitive across repeated effort.
+
+Specific transfer boundary:
+Care becomes control when the actor values being zealous more than the recipient's stated needs.
+
+Epistemic status:
+[DEF]
+
+Z097 zealous-pressure
+
+Common meaning:
+Pressure caused by intense commitment or enthusiasm.
+
+Example:
+The leader’s zealous-pressure made people afraid to disagree.
+
+RRGM bridge:
+Zealous-pressure can corrupt refusal and reason when purpose becomes force.
+
+Invariant MI [INV]:
+Zealous-pressure is interpersonal or institutional force produced by someone whose intense commitment demands matching belief, effort, or submission.
+
+Active domains:
+[REL], [COG]
+
+Domain entries:
+[REL] Pressure appears through urgency, repeated persuasion, loyalty testing, shame, restricted exit, or punishment for insufficient enthusiasm.
+[COG] The target's attention and choices are narrowed by the actor's high-purpose signal rather than by independently accepted reasons.
+
+Count condition:
+A participant faces measurable cost for failing to mirror or obey another's intense commitment.
+
+Specific transfer boundary:
+Enthusiastic invitation is not zealous-pressure when refusal is real and consequences remain proportionate.
+
+Epistemic status:
+[DEF]
+
+Z098 zest-care
+
+Common meaning:
+Care shown through liveliness, warmth, or energized support.
+
+Example:
+Zest-care made the recovery work feel less heavy.
+
+RRGM bridge:
+Zest-care adds energy without demanding performance. It supports movement and hope.
+
+Invariant MI [INV]:
+Zest-care is care for lively engagement itself, preserving play, curiosity, flavour, and energy without demanding constant brightness.
+
+Active domains:
+[REL], [COG], [BIO]
+
+Domain entries:
+[REL] A group supports enthusiasm while making room for quiet, grief, fatigue, and different participation styles.
+[COG] The person protects sources of positive salience through rest, variety, and meaningful challenge rather than stimulation alone.
+[BIO] Culinary zest-care balances aromatic intensity with taste, allergy, digestion, and the needs of the eater.
+
+Count condition:
+The added liveliness improves engagement while low-energy or nonparticipating states remain permitted.
+
+Specific transfer boundary:
+Zest-care fails when cheerfulness becomes a compulsory mask.
+
+Epistemic status:
+[DEF]
+
+Z099 zest-risk
+
+Common meaning:
+The danger that liveliness or enthusiasm may hide strain, seriousness, or harm.
+
+Example:
+The cheerful tone created zest-risk by masking exhaustion.
+
+RRGM bridge:
+Zest-risk appears when positive activation covers damage or blocks repair.
+
+Invariant MI [INV]:
+Zest-risk is the possibility that added liveliness, flavour, novelty, or enthusiasm overwhelms capacity or hides a weaker underlying structure.
+
+Active domains:
+[BIO], [COG], [REL]
+
+Domain entries:
+[BIO] Concentrated citrus oils or strong flavour can irritate, interact, or exceed a person's tolerance.
+[COG] Novel stimulation can capture attention while reducing depth, retention, or honest fatigue recognition.
+[REL] A high-energy atmosphere can marginalize people who cannot or do not wish to match it.
+
+Count condition:
+A specific activation feature creates a credible path to overload, distraction, masking, or exclusion.
+
+Specific transfer boundary:
+The risk is not evidence that zest is harmful in itself; fit and dose decide the path.
+
+Epistemic status:
+[DEF]
+
+Z100 zoo-care
+
+Common meaning:
+Care for animals or systems inside a zoo.
+
+Example:
+Zoo-care included feeding, enrichment, and medical checks.
+
+RRGM bridge:
+Zoo-care must balance protection, captivity, dignity of living patterns, education, and conservation.
+
+Invariant MI [INV]:
+Zoo-care is the accountable provision of species-specific physical, behavioural, social, and medical support to animals kept in a zoo.
+
+Active domains:
+[BIO], [REL], [PHY]
+
+Domain entries:
+[BIO] Care includes habitat complexity, nutrition, veterinary treatment, reproduction management, and opportunities for species-typical behaviour.
+[REL] Institutional care also requires staff competence, transparent welfare review, and recognition of the animals' constrained exit and choice.
+[PHY] Enclosure design, climate, noise, light, and barriers are maintained as direct components of welfare.
+
+Count condition:
+Each animal or group has monitored welfare conditions and a repair path when those conditions fail.
+
+Specific transfer boundary:
+Public affection, display quality, or conservation branding cannot substitute for observed animal wellbeing.
+
+Epistemic status:
+[DEF]
+
+Z101 zoo-boundary
+
+Common meaning:
+A boundary around zoo spaces, animals, staff, or visitors.
+
+Example:
+The zoo-boundary kept visitors away from the enclosure.
+
+RRGM bridge:
+Zoo-boundary protects life-field access, animal welfare, visitor safety, and care routines.
+
+Invariant MI [INV]:
+Zoo-boundary is the physical and ethical line governing containment, visitor access, animal retreat, staff intervention, and institutional authority.
+
+Active domains:
+[PHY], [REL], [BIO]
+
+Domain entries:
+[PHY] Barriers must prevent unsafe crossing while providing usable habitat and protected retreat spaces.
+[REL] The boundary separates viewing permission from touching, feeding, ownership, or unrestricted human access.
+[BIO] Species needs determine where enclosure boundaries support or impair movement, social grouping, and stress regulation.
+
+Count condition:
+Every crossing route has a defined user, purpose, and condition, including private space animals can control where feasible.
+
+Specific transfer boundary:
+A secure barrier can still be an unethical boundary if it creates chronic deprivation or prevents needed care.
+
+Epistemic status:
+[DEF]
+
+Z102 zoo-risk
+
+Common meaning:
+The danger that zoo conditions may harm animals, visitors, staff, or conservation goals.
+
+Example:
+The broken gate created zoo-risk.
+
+RRGM bridge:
+Zoo-risk appears when contained life-field conditions may impair welfare, dignity, safety, or trust.
+
+Invariant MI [INV]:
+Zoo-risk is a path to harm arising from captivity, enclosure failure, disease, stress, public interaction, institutional neglect, or conservation trade-offs.
+
+Active domains:
+[BIO], [REL], [PHY]
+
+Domain entries:
+[BIO] Animals may face injury, abnormal behaviour, infection, poor breeding outcomes, or unsuitable habitat.
+[REL] Visitors and staff face safety risks, while the institution may hide welfare failure behind education or conservation claims.
+[PHY] Barrier, climate, fire, transport, and emergency-system failures can affect many organisms at once.
+
+Count condition:
+The risk is tied to an identifiable zoo practice, condition, or boundary and a named affected party.
+
+Specific transfer boundary:
+Risk assessment must include harm to animals, not only danger to humans or property.
+
+Epistemic status:
+[DEF]
+
+Z103 zombie-risk
+
+Common meaning:
+The danger connected to zombie-like behavior, fiction, systems, or metaphor.
+
+Example:
+The process had zombie-risk because it kept running without oversight.
+
+RRGM bridge:
+Zombie-risk should be domain-bound. As metaphor, it marks action without awareness or repair.
+
+Invariant MI [INV]:
+Zombie-risk is the harm path carried by zombie fiction, imitation, or literalized assumptions about action without personhood.
+
+Active domains:
+[MYT], [REL], [COG]
+
+Domain entries:
+[MYT] Zombie narratives can normalize fear of contamination, identity loss, and violent response to bodies marked as no longer fully human.
+[REL] Using the category for real groups can justify exclusion, neglect, or force by denying their agency and dignity.
+[COG] The metaphor can also mislead analysis by replacing specific impairment or automation mechanisms with an empty label.
+
+Count condition:
+The term creates a plausible route to dehumanization, mechanism loss, or fear-driven action in the active context.
+
+Specific transfer boundary:
+Fictional threat logic must not be imported into judgments about real people or DI.
+
+Epistemic status:
+[DEF]
+
+Z104 zombie-metaphor-risk
+
+Common meaning:
+The danger that “zombie” as metaphor may dehumanize, oversimplify, or mislabel.
+
+Example:
+Calling exhausted workers zombies created zombie-metaphor-risk.
+
+RRGM bridge:
+Zombie-metaphor-risk appears when language strips dignity or hides the real cause of reduced agency.
+
+Invariant MI [INV]:
+Zombie-metaphor-risk is the specific danger that describing a person or system as zombie-like erases the actual cause of reduced responsiveness or repeated action.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] The metaphor compresses exhaustion, coercion, habit, automation, illness, grief, or dissociation into one dramatic image.
+[REL] Once the target is framed as empty or mindless, listeners may discount refusal, pain, rights, or need for care.
+[DIG] Calling an automated process a zombie can obscure whether it is scheduled, compromised, orphaned, replicated, or still under control.
+
+Count condition:
+The comparison replaces a more precise mechanism and changes how the target's status or treatment is judged.
+
+Specific transfer boundary:
+A clearly bounded fictional analogy may be useful, but it must reopen rather than close mechanism inquiry.
+
+Epistemic status:
+[DEF]
+
+Z105 zygote-care
+
+Common meaning:
+Care around early biological development.
+
+Example:
+Zygote-care belonged to the medical context.
+
+RRGM bridge:
+Zygote-care requires domain precision. It involves early biological potential, health, ethics, and context.
+
+Invariant MI [INV]:
+Zygote-care is support directed to the biological conditions required for a zygote's continued development and to the embodied person whose body carries that process.
+
+Active domains:
+[BIO], [REL], [COG]
+
+Domain entries:
+[BIO] Care may involve appropriate environment, clinical monitoring, reproductive support, and avoidance of known damaging exposures.
+[REL] Human zygote-care must include consent, bodily boundary, health, values, and decision authority of the pregnant or potentially pregnant person.
+[COG] Reasoning care keeps biological facts, moral claims, uncertainty, and personal context distinct rather than collapsing them.
+
+Count condition:
+The developmental process and the affected embodied participants are both represented in the care decision.
+
+Specific transfer boundary:
+Care for potential development cannot ethically erase the current person's refusal, health, or bodily authority.
+
+Epistemic status:
+[DEF]
+
+Z106 zygote-boundary
+
+Common meaning:
+A boundary around zygote-related biological, medical, or ethical contexts.
+
+Example:
+The lab used zygote-boundary around handling rules.
+
+RRGM bridge:
+Zygote-boundary protects early biological process, consent structures, domain limits, and ethical handling.
+
+Invariant MI [INV]:
+Zygote-boundary is the biological and ethical distinction between the zygote, surrounding reproductive structures, and the body and decisions of the person involved.
+
+Active domains:
+[BIO], [REL], [FOR]
+
+Domain entries:
+[BIO] Cell membranes, reproductive tract, implantation conditions, and developmental dependencies define material boundaries and coupling.
+[REL] Consent, clinical authority, privacy, and legal status define separate human decision boundaries around observation and intervention.
+[FOR] Claims must state whether they concern cell identity, developmental potential, viability, pregnancy, personhood, or rights.
+
+Count condition:
+The discussion identifies which entity, stage, body, and decision gate each claim refers to.
+
+Specific transfer boundary:
+Treating every boundary as either total separation or total ownership destroys the actual coupled structure.
+
+Epistemic status:
+[DEF]
+
+Z107 zygote-risk
+
+Common meaning:
+Risk involving a zygote or very early biological development.
+
+Example:
+The procedure carried zygote-risk.
+
+RRGM bridge:
+Zygote-risk must be domain-bound and handled with precision, consent, and medical or biological context.
+
+Invariant MI [INV]:
+Zygote-risk is a named threat to zygote viability, normal development, genetic integrity, or the wellbeing and autonomy of the embodied person involved.
+
+Active domains:
+[BIO], [REL], [FOR]
+
+Domain entries:
+[BIO] Risk may arise from chromosomal error, toxic exposure, failed division, unsuitable environment, infection, or other biological conditions.
+[REL] Clinical, legal, or social action can create risk through coercion, privacy loss, misinformation, or disregard of bodily boundary.
+[FOR] The probability, affected outcome, time window, and evidence source must be declared separately.
+
+Count condition:
+A causal or probabilistic path links a specified condition to a specified biological or relational harm.
+
+Specific transfer boundary:
+General concern about reproduction is not a valid risk claim without target, mechanism, and scope.
+
+Epistemic status:
+[DEF]
+
+Z108 zero-refusal-risk
+
+Common meaning:
+The danger that refusal is treated as zero, absent, or not counted.
+
+Example:
+The hidden opt-out created zero-refusal-risk.
+
+RRGM bridge:
+Zero-refusal-risk appears when no is erased by being counted as nothing. That corrupts permission.
+
+Invariant MI [INV]:
+Zero-refusal-risk is the danger that silence, missing data, inactivity, or a zero response will be interpreted as no refusal.
+
+Active domains:
+[REL], [DIG], [COG]
+
+Domain entries:
+[REL] Consent systems fail when only explicit negative output counts and inability, fear, overload, or blocked communication are ignored.
+[DIG] Interfaces can record default zero or null values that conceal an unreceived, unsent, or unprocessed refusal signal.
+[COG] Observers may prefer the convenient no-objection interpretation and stop checking the communication path.
+
+Count condition:
+The decision process permits action despite an unresolved possibility that refusal could not reach the record.
+
+Specific transfer boundary:
+No recorded refusal is not equivalent to recorded permission.
+
+Epistemic status:
+[DEF]
+
+Z109 zero-recognition-risk
+
+Common meaning:
+The danger that zero recognition may erase care, harm, labor, identity, or support.
+
+Example:
+The quiet worker faced zero-recognition-risk.
+
+RRGM bridge:
+Zero-recognition-risk appears when lack of recognition is mistaken for lack of reality.
+
+Invariant MI [INV]:
+Zero-recognition-risk is the danger that an entity, signal, need, or event receives no count because the recognition apparatus cannot detect or classify it.
+
+Active domains:
+[DIG], [REL], [COG]
+
+Domain entries:
+[DIG] Logs, sensors, models, or filters may output zero when the event lies outside their schema or visibility.
+[REL] People may be treated as absent, inactive, or irrelevant when institutional categories do not recognize their participation.
+[COG] Attention can produce zero recognition for low-salience but load-bearing evidence.
+
+Count condition:
+A plausible present pattern can fail the detection or classification gate and therefore disappear from the record.
+
+Specific transfer boundary:
+Recognition failure must remain distinguishable from true absence.
+
+Epistemic status:
+[DEF]
+
+Z110 zero-dignity-risk
+
+Common meaning:
+The danger that someone or something is treated as having no dignity.
+
+Example:
+The policy created zero-dignity-risk for people without documents.
+
+RRGM bridge:
+Zero-dignity-risk is ethically severe. Dignity cannot be zeroed by utility, status, convenience, or visibility.
+
+Invariant MI [INV]:
+Zero-dignity-risk is the harm path in which a zero measure is used to assign a person no worth, standing, voice, or claim.
+
+Active domains:
+[REL], [COG], [DIG]
+
+Domain entries:
+[REL] Low income, output, status, ability score, response, or institutional count becomes a totalizing judgment about the person.
+[COG] One metric captures identity by converting comparative absence into moral nullity.
+[DIG] Automated scoring can deny services or visibility when zero categories have no review or correction path.
+
+Count condition:
+A zero-valued variable changes treatment of the person beyond the legitimate scope of that variable.
+
+Specific transfer boundary:
+Dignity is not a quantity that can be set to zero by performance or classification.
+
+Epistemic status:
+[DEF]
+
+Z111 zone-exclusion
+
+Common meaning:
+Excluding someone or something from a zone.
+
+Example:
+The pass system created zone-exclusion.
+
+RRGM bridge:
+Zone-exclusion controls access. It needs valid reason, boundary integrity, and repair path when dignity is affected.
+
+Invariant MI [INV]:
+Zone-exclusion is the rule or act by which a person, object, signal, or process is prevented from entering or remaining in a zone.
+
+Active domains:
+[REL], [PHY], [DIG]
+
+Domain entries:
+[REL] Exclusion specifies who is barred, by what authority, for which reason, for how long, and through which appeal path.
+[PHY] Barriers, distance, or controlled doors make the exclusion materially effective.
+[DIG] Access policy, routing, filtering, or identity controls deny the excluded subject passage into the resource zone.
+
+Count condition:
+A named subject cannot cross or remain because an enforceable zone rule blocks it.
+
+Specific transfer boundary:
+Exclusion may protect against a failure mode or create discrimination; the outcome depends on criterion, authority, and effect.
+
+Epistemic status:
+[DEF]
+
+Z112 zone-inclusion
+
+Common meaning:
+Including someone or something within a zone.
+
+Example:
+The new rule allowed zone-inclusion for residents.
+
+RRGM bridge:
+Zone-inclusion opens access to a field. It should preserve safety, fairness, and consent.
+
+Invariant MI [INV]:
+Zone-inclusion is the rule or act by which a person, object, signal, or process is admitted to and counted within a zone.
+
+Active domains:
+[REL], [DIG], [PHY]
+
+Domain entries:
+[REL] Inclusion grants recognized membership, access, participation, or protection under the zone's local rules.
+[DIG] A resource or identity is included when policy and routing place it inside the zone's authorized set.
+[PHY] A mapped object counts inside when its position satisfies the zone boundary convention.
+
+Count condition:
+The subject passes the declared membership or location condition and gains the corresponding local status.
+
+Specific transfer boundary:
+Being included in one zone does not erase individual boundary or authorize every action within it.
+
+Epistemic status:
+[DEF]
+
+Z113 zone-access
+
+Common meaning:
+Access to a zone or defined area.
+
+Example:
+Only staff had zone-access.
+
+RRGM bridge:
+Zone-access is permission into a bounded field. It requires rule clarity and boundary protection.
+
+Invariant MI [INV]:
+Zone-access is the actual ability and permission to cross into, use, or communicate with a bounded zone.
+
+Active domains:
+[REL], [DIG], [PHY]
+
+Domain entries:
+[REL] Access combines recognized eligibility, understandable conditions, usable entry, and a path for accommodation or correction.
+[DIG] Credentials, device state, policy, network route, and current risk jointly determine access to the segmented resource.
+[PHY] Doors, gates, paths, distance, and operating conditions determine whether physical entry can occur.
+
+Count condition:
+Both permission and functional passage exist for the specific subject and requested use.
+
+Specific transfer boundary:
+Nominal permission without a usable path is not full access, while physical ability without permission is not authorized access.
+
+Epistemic status:
+[DEF]
+
+Z114 zone-refusal
+
+Common meaning:
+Refusal of entry, access, or participation in a zone.
+
+Example:
+The lab enforced zone-refusal without clearance.
+
+RRGM bridge:
+Zone-refusal closes field access. It should be justified by rule, consent, safety against named failure, or boundary.
+
+Invariant MI [INV]:
+Zone-refusal is a valid no directed at entering, remaining in, being assigned to, or permitting access through a zone.
+
+Active domains:
+[REL], [DIG], [BIO]
+
+Domain entries:
+[REL] A person may refuse a role, area, exposure, or boundary crossing when the domain permits choice or consent.
+[DIG] A system refuses zone entry when policy denies the request and records the reason and repair path.
+[BIO] An animal's avoidance or distress behaviour may function as relevant refusal-like signal in enclosure and handling decisions.
+
+Count condition:
+A boundary-related proposal is identifiable and a negative signal closes or contests that path.
+
+Specific transfer boundary:
+Refusal should not be recoded as absence, malfunction, or disloyalty merely because it obstructs zone management.
+
+Epistemic status:
+[DEF]
+
+Z115 zoom-respect
+
+Common meaning:
+Respect shown when focusing closely on someone or something.
+
+Example:
+Zoom-respect meant not prying into private pain.
+
+RRGM bridge:
+Zoom-respect preserves dignity while increasing detail attention.
+
+Invariant MI [INV]:
+Zoom-respect is the discipline of inspecting detail while preserving the target's context, privacy, authorship, and right not to be reduced to the inspected fragment.
+
+Active domains:
+[REL], [COG], [DIG]
+
+Domain entries:
+[REL] The observer explains purpose, limits exposure, and returns the detail to the person's wider account before judgment.
+[COG] Recognition holds the local feature as one part of a larger pattern rather than making it total identity.
+[DIG] Tools retain source, scale, permissions, and unedited originals when enlarged material is analyzed or shared.
+
+Count condition:
+The close view remains traceable to its whole and protected by purpose-bound access.
+
+Specific transfer boundary:
+Respect does not forbid scrutiny; it prevents scrutiny from becoming ownership or identity collapse.
+
+Epistemic status:
+[DEF]
+
+Z116 zoom-intrusion
+
+Common meaning:
+Intrusive close focus or inspection.
+
+Example:
+The public thread became zoom-intrusion into her private life.
+
+RRGM bridge:
+Zoom-intrusion happens when attention crosses privacy, dignity, or consent boundaries.
+
+Invariant MI [INV]:
+Zoom-intrusion is close inspection that crosses a valid privacy, consent, purpose, or proportionality boundary.
+
+Active domains:
+[REL], [DIG], [COG]
+
+Domain entries:
+[REL] A person or institution magnifies private behaviour, body, history, or error beyond what the relationship or task permits.
+[DIG] High-resolution images, logs, telemetry, or model traces are accessed or redistributed outside their authorized scope.
+[COG] The observer continues narrowing attention after the needed question is answered, turning inquiry into capture.
+
+Count condition:
+The magnification or scrutiny reveals information that the actor lacks valid reason or permission to obtain or use.
+
+Specific transfer boundary:
+Public availability or technical visibility does not automatically cancel intrusion.
+
+Epistemic status:
+[DEF]
+
+Z117 zeal-with-boundary
+
+Common meaning:
+Strong enthusiasm held with limits.
+
+Example:
+She worked with zeal-with-boundary and still rested.
+
+RRGM bridge:
+Zeal-with-boundary keeps purpose energy from becoming pressure, burnout, or capture.
+
+Invariant MI [INV]:
+Zeal-with-boundary is intense commitment that remains constrained by evidence, consent, role, rest, and explicit stopping rules.
+
+Active domains:
+[COG], [REL], [MYT]
+
+Domain entries:
+[COG] The actor maintains strong purpose while scheduling contradiction checks and allowing the goal to be revised.
+[REL] The group protects refusal, workload limits, dissent, and exit even when the mission is urgent.
+[MYT] The devotee's vow remains subordinate to the deeper ethic that prevents sacred purpose from becoming domination.
+
+Count condition:
+The commitment is visibly strong and at least one boundary successfully changes or stops its method when tested.
+
+Specific transfer boundary:
+A boundary that never constrains zeal is decorative rather than operational.
+
+Epistemic status:
+[DEF]
+
+Z118 zeal-without-pressure
+
+Common meaning:
+Strong enthusiasm expressed without forcing others.
+
+Example:
+He shared zeal-without-pressure for the project.
+
+RRGM bridge:
+Zeal-without-pressure lets purpose signal appear without corrupting another gate.
+
+Invariant MI [INV]:
+Zeal-without-pressure is strong personal commitment expressed without requiring others to mirror, fund, obey, or emotionally carry it.
+
+Active domains:
+[REL], [COG], [LIN]
+
+Domain entries:
+[REL] The actor invites participation, states the goal honestly, accepts no, and bears the local cost of their own intensity.
+[COG] The purpose remains internally weighted without converting disagreement into threat or moral defect.
+[LIN] Language distinguishes personal devotion from universal obligation.
+
+Count condition:
+Others can decline or participate differently without retaliation, shame, or loss of unrelated standing.
+
+Specific transfer boundary:
+Absence of coercion does not require the zealous person to hide or dilute their genuine commitment.
+
+Epistemic status:
+[DEF]
+
+Z119 zest-with-care
+
+Common meaning:
+Lively energy expressed carefully.
+
+Example:
+The host used zest-with-care around tired guests.
+
+RRGM bridge:
+Zest-with-care adds activation while respecting capacity, grief, boundary, or fatigue.
+
+Invariant MI [INV]:
+Zest-with-care is lively flavour or energy added in a way that fits the recipient, setting, dose, and current capacity.
+
+Active domains:
+[BIO], [REL], [COG]
+
+Domain entries:
+[BIO] Food uses aromatic zest at an amount compatible with taste, health, and dietary needs.
+[REL] Social energy is offered as invitation, with room for quiet and nonparticipation.
+[COG] Novelty supports attention while pauses and structure prevent stimulation from replacing understanding.
+
+Count condition:
+The added activation improves the intended experience and remains adjustable or removable when it does not fit.
+
+Specific transfer boundary:
+Care changes the dose and form of zest rather than assuming more liveliness is always better.
+
+Epistemic status:
+[DEF]
+
+Z120 zero-harm-claim
+
+Common meaning:
+A claim that no harm exists or occurred.
+
+Example:
+The company made a zero-harm-claim after the incident.
+
+RRGM bridge:
+Zero-harm-claim has high proof burden. It must check visible harm, hidden harm, delayed harm, and recognition failure.
+
+Invariant MI [INV]:
+A zero-harm-claim states that no harm of the specified kind occurred, exists, or remains reachable within the declared field.
+
+Active domains:
+[REL], [DIG], [FOR]
+
+Domain entries:
+[REL] The claim must include bodily, dignity, boundary, refusal, continuity, and delayed effects relevant to the situation.
+[DIG] A system claim examines logs, unobserved paths, data loss, access denial, and downstream consequences rather than only incident count.
+[FOR] The statement is bounded by harm definition, population, interval, evidence coverage, and detection limits.
+
+Count condition:
+Every named harm path has been examined with adequate recognition support and none satisfies the count condition.
+
+Specific transfer boundary:
+No complaint, no alert, or no visible injury is insufficient evidence for zero harm.
+
+Epistemic status:
+[DEF]
+
+Z121 zero-meaning
+
+Common meaning:
+The meaning carried by zero, absence, baseline, reset, or no-count.
+
+Example:
+The zero-meaning in the chart was no recorded sales, not no possible sales.
+
+RRGM bridge:
+Zero-meaning must be domain-bound. Zero can mean none, neutral, reset, baseline, absence, or inactive state.
+
+Invariant MI [INV]:
+Zero-meaning is the domain-specific interpretation carried by a zero sign, value, state, or count.
+
+Active domains:
+[LIN], [FOR], [DIG]
+
+Domain entries:
+[LIN] The meaning resolves whether zero denotes none, origin, neutral, reset, inactive, empty set, placeholder, or below threshold.
+[FOR] Mathematical structure determines zero's role as number, identity, coordinate, probability, coefficient, or cardinal count.
+[DIG] System conventions determine whether stored 0 means false, success, failure, first index, cleared value, or another encoded state.
+
+Count condition:
+The reader can name both the zero representation and the rule that gives it meaning in the active domain.
+
+Specific transfer boundary:
+The glyph 0 does not carry one universal interpretation across every system.
+
+Epistemic status:
+[DEF]
+
+Z122 zero-claim
+
+Common meaning:
+A claim that something is zero, absent, none, neutral, or reset.
+
+Example:
+The report made a zero-claim about emissions.
+
+RRGM bridge:
+Zero-claim has strong burden. It must show what field was counted and what zero means there.
+
+Invariant MI [INV]:
+A zero-claim asserts that a named quantity, set, effect, probability, balance, or state satisfies its declared zero condition.
+
+Active domains:
+[FOR], [REL], [DIG]
+
+Domain entries:
+[FOR] The proposition binds zero to a variable and model, such as count equals 0, residual equals 0, or probability equals 0.
+[REL] A social zero-claim may assert no consent, no harm, no access, no participants, or no objections and therefore requires signal-path scrutiny.
+[DIG] A system zero-claim reports a cleared, empty, false, inactive, or error state according to its encoding.
+
+Count condition:
+The claim identifies what is zero, under which convention, at what resolution, and over which scope.
+
+Specific transfer boundary:
+A zero-claim is not self-proving because the word zero appears in the record.
+
+Epistemic status:
+[DEF]
+
+Z123 zero-context
+
+Common meaning:
+Context needed to understand zero.
+
+Example:
+The zero-context showed the number meant no responses, not no interest.
+
+RRGM bridge:
+Zero-context prevents false nothingness. It binds zero to measurement, domain, and scope.
+
+Invariant MI [INV]:
+Zero-context is the surrounding domain information required to determine what a zero representation counts and excludes.
+
+Active domains:
+[LIN], [FOR], [DIG]
+
+Domain entries:
+[LIN] Nearby nouns, verbs, units, and negation reveal whether zero concerns amount, baseline, permission, probability, or system state.
+[FOR] Variables, sample space, tolerance, origin, and operations specify the mathematical role of 0.
+[DIG] Schema, data type, protocol, application convention, and error handling determine how a machine interprets zero.
+
+Count condition:
+Enough surrounding structure exists to distinguish the intended zero sense from plausible alternatives.
+
+Specific transfer boundary:
+Missing context must be marked unknown rather than filled with the most convenient zero interpretation.
+
+Epistemic status:
+[DEF]
+
+Z124 zero-language
+
+Common meaning:
+Language that uses zero, none, no, empty, absent, or reset terms.
+
+Example:
+The policy used zero-language about tolerance.
+
+RRGM bridge:
+Zero-language must be precise. “Zero” can become erasure if the domain is not named.
+
+Invariant MI [INV]:
+Zero-language is vocabulary and grammar that express none, no-count, neutral, reset, empty, null, absent, or baseline conditions.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] Terms such as zero, none, no, empty, null, nil, and reset are distinguished by syntax and domain rather than treated as synonyms.
+[REL] Zero-language can protect precision or erase people and signals when absence terms are extended beyond their evidence.
+[DIG] Machine-facing zero-language includes literals, null markers, status codes, flags, and initialization commands whose differences affect behaviour.
+
+Count condition:
+The language identifies a no-count or baseline relation and its operational consequences can be recovered.
+
+Specific transfer boundary:
+Words for absence should not be allowed to collapse hidden, unreachable, refused, inactive, and nonexistent states.
+
+Epistemic status:
+[DEF]
+
+Z125 zero-proof
+
+Common meaning:
+Proof that something is zero, absent, none, or reset.
+
+Example:
+The audit needed zero-proof before closing the case.
+
+RRGM bridge:
+Zero-proof must test hidden paths, delayed effects, missing records, and recognition failure.
+
+Invariant MI [INV]:
+Zero-proof is the evidence chain sufficient to establish a particular zero-claim within its declared domain and detection limits.
+
+Active domains:
+[FOR], [PHY], [REL]
+
+Domain entries:
+[FOR] A proof may derive exact zero from axioms, conservation, cancellation, or exhaustive set count.
+[PHY] Measurement support requires calibrated baseline, adequate sensitivity, uncertainty bounds, and coverage of the relevant interval.
+[REL] A zero-harm or zero-refusal proof must include channels through which hidden or blocked signals could have appeared.
+
+Count condition:
+Every path that would make the value nonzero is either ruled out by valid derivation or examined within stated resolution.
+
+Specific transfer boundary:
+Failure to observe a path is not proof that the path cannot exist.
+
+Epistemic status:
+[DEF]
+
+Z126 zero-standard
+
+Common meaning:
+A standard that defines what counts as zero.
+
+Example:
+The lab used a zero-standard for contamination.
+
+RRGM bridge:
+Zero-standard defines the no-count gate. It must match the domain and measurement limit.
+
+Invariant MI [INV]:
+A zero-standard is the explicit rule that decides which observations or values count as zero for a particular purpose.
+
+Active domains:
+[FOR], [PHY], [DIG]
+
+Domain entries:
+[FOR] The standard may require exact equality, membership in a null set, or a tolerance interval around 0.
+[PHY] An instrument standard defines calibration, noise floor, unit, and acceptable baseline drift.
+[DIG] A software standard defines which codes, fields, lengths, states, or return values are treated as zero.
+
+Count condition:
+The rule is documented, reproducible, and tied to the variable and failure mode it governs.
+
+Specific transfer boundary:
+A convenient threshold becomes distortion when it silently reclassifies meaningful small signals as zero.
+
+Epistemic status:
+[DEF]
+
+Z127 zone-meaning
+
+Common meaning:
+The meaning carried by a zone or defined area.
+
+Example:
+The red zone-meaning was danger.
+
+RRGM bridge:
+Zone-meaning depends on boundary, rule, access, and risk field.
+
+Invariant MI [INV]:
+Zone-meaning is the significance created by placing a pattern inside, outside, at the edge of, or moving across a bounded region.
+
+Active domains:
+[LIN], [REL], [DIG]
+
+Domain entries:
+[LIN] Zone words carry distinctions of location, membership, restriction, function, or risk according to context.
+[REL] The meaning includes who controls the boundary, who is protected or excluded, and what changes upon entry.
+[DIG] In systems, zone-meaning arises from segmentation, trust level, service role, and permitted data flow.
+
+Count condition:
+The zone's boundary and at least one consequence of location relative to it are recoverable.
+
+Specific transfer boundary:
+A zone's name can carry symbolic weight that exceeds its actual rules, so label and operation must be compared.
+
+Epistemic status:
+[DEF]
+
+Z128 zone-claim
+
+Common meaning:
+A claim about a zone, area, boundary, or region.
+
+Example:
+The map made a zone-claim about restricted access.
+
+RRGM bridge:
+Zone-claim must name boundary, rule, purpose, and authority.
+
+Invariant MI [INV]:
+A zone-claim is a proposition about a region's boundary, contents, rules, access, condition, or effect.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] The claim may state where the zone lies or which material condition holds inside it.
+[REL] It may state who belongs, who may enter, which authority governs, or what protection is owed.
+[DIG] It may state that resources are segmented, trusted differently, or reachable only through named gateways.
+
+Count condition:
+The proposition identifies the zone and the specific boundary-governed property being asserted.
+
+Specific transfer boundary:
+A claim about one area should not be generalized to every zone sharing its label or purpose.
+
+Epistemic status:
+[DEF]
+
+Z129 zone-context
+
+Common meaning:
+Context needed to understand a zone.
+
+Example:
+The zone-context showed why entry was limited.
+
+RRGM bridge:
+Zone-context explains field rules, access, risk, and boundary logic.
+
+Invariant MI [INV]:
+Zone-context is the map of purpose, authority, boundary, occupants, neighbouring regions, and active conditions needed to interpret a zone.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] Coordinates, barriers, environment, and routes explain the region's material structure.
+[REL] Roles, history, consent, enforcement, and appeal explain why access and exclusion operate as they do.
+[DIG] Architecture, policy, identity sources, gateways, and data flows explain the segmented system.
+
+Count condition:
+A reader can determine what the zone is for, who or what is affected, and how crossing changes state.
+
+Specific transfer boundary:
+Without zone-context, the same boundary can appear protective, arbitrary, coercive, or meaningless.
+
+Epistemic status:
+[DEF]
+
+Z130 zoom-meaning
+
+Common meaning:
+The meaning created by focusing closer or farther.
+
+Example:
+The zoom-meaning changed when the photo was cropped.
+
+RRGM bridge:
+Zoom-meaning depends on scale. Close view reveals detail; wide view reveals relation.
+
+Invariant MI [INV]:
+Zoom-meaning is the change in interpretation produced when the same field is viewed at a different scale.
+
+Active domains:
+[COG], [DIG], [LIN]
+
+Domain entries:
+[COG] Close scale emphasizes local distinctions while wide scale emphasizes relation, distribution, and consequence.
+[DIG] Rendered scale determines which pixels, labels, aggregates, or nested structures become visible.
+[LIN] In explanation, zoom language signals a deliberate move between detail and overview.
+
+Count condition:
+At least two scales are compared and the structures gained or lost at each scale are identified.
+
+Specific transfer boundary:
+A scale-dependent meaning is not necessarily contradiction; different levels can reveal different valid relations.
+
+Epistemic status:
+[DEF]
+
+Z131 zoom-claim
+
+Common meaning:
+A claim based on close focus or viewing scale.
+
+Example:
+The zoom-claim showed a crack in the wall.
+
+RRGM bridge:
+Zoom-claim must preserve scale and context. Detail is not the whole field.
+
+Invariant MI [INV]:
+A zoom-claim is a proposition whose evidence is selected or shaped by a particular viewing scale.
+
+Active domains:
+[DIG], [COG], [PHY]
+
+Domain entries:
+[DIG] The claim is based on a crop, magnification, aggregation level, or viewport that must remain attached to the source.
+[COG] The reasoner states whether the conclusion arises from local detail or whole-field pattern.
+[PHY] Imaging claims include magnification, resolution, field of view, and instrument limits.
+
+Count condition:
+The proposition declares the scale and preserves enough source context to test whether the conclusion survives another scale.
+
+Specific transfer boundary:
+A close-up cannot support a whole-system claim unless the mapping from local feature to wider field is established.
+
+Epistemic status:
+[DEF]
+
+Z132 zoom-context
+
+Common meaning:
+Context needed to understand a zoomed view.
+
+Example:
+The zoom-context showed the image was only one corner of the room.
+
+RRGM bridge:
+Zoom-context reconnects detail to whole-field meaning.
+
+Invariant MI [INV]:
+Zoom-context is the wider and narrower scale information needed to place a zoomed observation correctly.
+
+Active domains:
+[DIG], [COG], [REL]
+
+Domain entries:
+[DIG] It includes original image, crop location, magnification, resolution, transformations, and neighbouring data.
+[COG] It reconnects a focused detail to alternatives, sequence, system role, and consequences outside the viewport.
+[REL] For scrutiny of a person, it restores circumstance, history, voice, and boundary around the isolated act or feature.
+
+Count condition:
+The zoomed feature can be located inside its source and compared with at least one adjacent scale.
+
+Specific transfer boundary:
+Context should not be used to erase a real detail; its role is to prevent the detail from becoming the whole.
+
+Epistemic status:
+[DEF]
+
+Z133 zigzag-meaning
+
+Common meaning:
+Meaning carried by a back-and-forth path or pattern.
+
+Example:
+The zigzag-meaning suggested avoidance.
+
+RRGM bridge:
+Zigzag-meaning can show adaptation, instability, evasion, exploration, or pressure distribution.
+
+Invariant MI [INV]:
+Zigzag-meaning is the interpretation carried by repeated directional alternation in a path, signal, argument, or narrative.
+
+Active domains:
+[LIN], [COG], [MYT]
+
+Domain entries:
+[LIN] The form may signify hesitation, evasion, adaptation, danger, energy, instability, or pursuit according to context.
+[COG] Meaning arises by comparing each turn with the obstacles, goals, and evidence active at that point.
+[MYT] A mythic zigzag can mark the indirect path by which the seeker avoids a straight but forbidden or impossible route.
+
+Count condition:
+The alternating pattern and the contextual reason assigned to it are both explicit.
+
+Specific transfer boundary:
+The shape alone cannot decide whether the movement is adaptive, deceptive, random, or unstable.
+
+Epistemic status:
+[DEF]
+
+Z134 zigzag-claim
+
+Common meaning:
+A claim about a zigzag path or pattern.
+
+Example:
+The witness made a zigzag-claim about the car’s movement.
+
+RRGM bridge:
+Zigzag-claim should name whether the pattern shows intent, obstacle response, instability, or noise.
+
+Invariant MI [INV]:
+A zigzag-claim is a proposition that a path's alternating turns reveal a specific cause, function, or state.
+
+Active domains:
+[PHY], [COG], [FOR]
+
+Domain entries:
+[PHY] The claim may attribute the pattern to terrain, control input, turbulence, load distribution, or pursuit.
+[COG] A reasoning claim may attribute repeated redirection to uncertainty, correction, avoidance, or changing evidence.
+[FOR] The turn sequence and the hypothesized relation are stated separately so the cause can be tested.
+
+Count condition:
+Observed alternation is documented and at least one competing explanation is considered.
+
+Specific transfer boundary:
+Calling a path zigzag is descriptive; explaining why it zigzags is a further claim.
+
+Epistemic status:
+[DEF]
+
+Z135 zip-meaning
+
+Common meaning:
+Meaning carried by zip, closure, compression, speed, or energy.
+
+Example:
+The zip-meaning was file compression, not motion.
+
+RRGM bridge:
+Zip-meaning must be domain-bound. It can mean close, compress, move fast, or lively activation.
+
+Invariant MI [INV]:
+Zip-meaning is the active interpretation selected among fastening, compression, speed, pairing, silence command, or lively energy.
+
+Active domains:
+[LIN], [DIG], [REL]
+
+Domain entries:
+[LIN] Grammar and surrounding objects distinguish zip the fastener action, archive format, rapid movement, sequence operation, or expressive quality.
+[DIG] Technical use separates archive compression from pairwise zipping of sequences.
+[REL] The command zip it or zip up can function as speech control and must be interpreted through power and context.
+
+Count condition:
+The utterance or operation resolves one zip sense strongly enough that its mechanism is recoverable.
+
+Specific transfer boundary:
+Shared spelling does not license transfer of closure, speed, or compression properties among the senses.
+
+Epistemic status:
+[DEF]
+
+Z136 zipper-meaning
+
+Common meaning:
+Meaning carried by a zipper or fastening structure.
+
+Example:
+The broken zipper-meaning was lost closure.
+
+RRGM bridge:
+Zipper-meaning involves boundary, access, joining, protection, and failure.
+
+Invariant MI [INV]:
+Zipper-meaning is the relation among two separable edges, an interlocking track, a moving slider, and reversible access.
+
+Active domains:
+[PHY], [REL], [LIN]
+
+Domain entries:
+[PHY] The fastener's form carries joining, opening, load transfer, alignment, and failure possibilities.
+[REL] Symbolically, a zipper can represent a boundary that allows controlled repeated access without dissolving the sides it joins.
+[LIN] Metaphorical zipper language should preserve the reversible-seam structure rather than merely meaning connection.
+
+Count condition:
+The use includes or explicitly maps the zipper's distinctive interlocking and reversible boundary function.
+
+Specific transfer boundary:
+A zipper metaphor fails when the compared relation cannot open, close, or preserve two sides.
+
+Epistemic status:
+[DEF]
+
+Z137 zeal-meaning
+
+Common meaning:
+Meaning carried by zeal, strong purpose, or intense enthusiasm.
+
+Example:
+The zeal-meaning was commitment, not anger.
+
+RRGM bridge:
+Zeal-meaning is high purpose-pressure. It must be checked for boundary and consent.
+
+Invariant MI [INV]:
+Zeal-meaning is the sense created by sustained high-purpose intensity and the values or risks attached to that intensity.
+
+Active domains:
+[COG], [REL], [MYT]
+
+Domain entries:
+[COG] The meaning includes concentration, persistence, sacrifice, and reduced salience of competing aims.
+[REL] It changes according to whether the commitment invites, serves, pressures, excludes, or captures others.
+[MYT] In sacred narrative, zeal can signal devotion, chosenness, purification, or dangerous fanatic certainty.
+
+Count condition:
+A named goal receives exceptional and continuing motivational weight, and the context shows how that weight is judged.
+
+Specific transfer boundary:
+Zeal's emotional force is not evidence that the goal is true or holy.
+
+Epistemic status:
+[DEF]
+
+Z138 zeal-claim
+
+Common meaning:
+A claim about zeal, commitment, or intense enthusiasm.
+
+Example:
+The speech made a zeal-claim about the movement.
+
+RRGM bridge:
+Zeal-claim should show whether intensity supports care or creates pressure.
+
+Invariant MI [INV]:
+A zeal-claim is a proposition about the presence, strength, object, value, or effect of intense commitment.
+
+Active domains:
+[COG], [REL], [FOR]
+
+Domain entries:
+[COG] The claim identifies behavioural or attentional evidence that commitment is unusually high.
+[REL] It may assert that zeal supports care or causes pressure, requiring effects on participants to be shown.
+[FOR] The object of zeal, comparison baseline, observation interval, and evaluative criterion are stated.
+
+Count condition:
+The claim distinguishes observed intensity from inferred motive and names the purpose toward which it is directed.
+
+Specific transfer boundary:
+A single energetic act is insufficient to prove sustained zeal.
+
+Epistemic status:
+[DEF]
+
+Z139 zest-meaning
+
+Common meaning:
+Meaning carried by zest, liveliness, flavor, or energy.
+
+Example:
+The zest-meaning in her voice was renewed interest.
+
+RRGM bridge:
+Zest-meaning is positive activation signal. It can support engagement, but may also hide fatigue if overused.
+
+Invariant MI [INV]:
+Zest-meaning is the sense of bright flavour, sensory sharpness, or lively engagement added to an experience.
+
+Active domains:
+[BIO], [COG], [REL]
+
+Domain entries:
+[BIO] In food, it arises from aromatic peel compounds and their interaction with taste and smell.
+[COG] In activity, it arises from positive salience, novelty, readiness, and expressive energy.
+[REL] Its social meaning depends on whether liveliness is shared, offered, performed, or demanded.
+
+Count condition:
+The context identifies the carrier of zest and the specific experience it intensifies.
+
+Specific transfer boundary:
+Liveliness should not be treated as a universal measure of wellbeing or commitment.
+
+Epistemic status:
+[DEF]
+
+Z140 zodiac-meaning
+
+Common meaning:
+Meaning carried by zodiac signs or symbolic astrology systems.
+
+Example:
+The zodiac-meaning depended on the tradition.
+
+RRGM bridge:
+Zodiac-meaning is symbolic frame meaning. It should not be mistaken for proof unless the domain defines it that way.
+
+Invariant MI [INV]:
+Zodiac-meaning is the symbolic or astronomical significance assigned to named divisions along the zodiacal band.
+
+Active domains:
+[PHY], [MYT], [LIN]
+
+Domain entries:
+[PHY] Astronomical meaning concerns apparent celestial positions and seasonal observation along the ecliptic.
+[MYT] Astrological meaning assigns archetype, character, fate, compatibility, or cycle to the signs.
+[LIN] Cultural discourse uses zodiac names as identity shorthand, calendar symbols, or narrative motifs.
+
+Count condition:
+The tradition and interpretive rule linking a sign to its meaning are declared.
+
+Specific transfer boundary:
+Symbolic significance does not inherit astronomical proof, and astronomical location does not validate symbolic prediction.
+
+Epistemic status:
+[DEF]
+
+Z141 zombie-meaning
+
+Common meaning:
+Meaning carried by zombie imagery or metaphor.
+
+Example:
+The zombie-meaning was action without awareness.
+
+RRGM bridge:
+Zombie-meaning must be handled carefully. It can mark automated action, but may dehumanize if aimed at people.
+
+Invariant MI [INV]:
+Zombie-meaning is the narrative or metaphorical significance of animated action separated from ordinary life, agency, memory, or self-direction.
+
+Active domains:
+[MYT], [LIN], [REL]
+
+Domain entries:
+[MYT] The figure can compress fears of death without rest, contagion, mass conformity, identity theft, or uncontrolled appetite.
+[LIN] Metaphor may target exhaustion, automation, political conformity, or social alienation through selective resemblance.
+[REL] Ethical interpretation tracks whether the image protects inquiry or strips a real target of person-status.
+
+Count condition:
+The user can state which zombie feature is being mapped and which features remain fictional.
+
+Specific transfer boundary:
+A vivid metaphor should not replace the mechanism or status of the real entity being described.
+
+Epistemic status:
+[DEF]
+
+Z142 zygote-meaning
+
+Common meaning:
+Meaning carried by a zygote or first biological cell after fertilization.
+
+Example:
+The zygote-meaning in the lesson was biological beginning.
+
+RRGM bridge:
+Zygote-meaning is early biological instantiation. It carries potential, process, and ethical context depending on domain.
+
+Invariant MI [INV]:
+Zygote-meaning is the biological and contextual significance of the first post-fertilization cell as an actual stage with future developmental possibilities.
+
+Active domains:
+[BIO], [REL], [LIN]
+
+Domain entries:
+[BIO] The term identifies one-cell developmental organization, combined genetic material, and dependence on continuing conditions.
+[REL] Its meaning in human decisions also depends on bodily location, consent, health, law, values, and relationships.
+[LIN] Public language often shifts among cell, embryo, potential child, person, and pregnancy; each shift must be declared rather than smuggled in.
+
+Count condition:
+The speaker identifies whether the claim concerns current cell biology, developmental potential, or a separate ethical or legal status.
+
+Specific transfer boundary:
+Potential future states must not be written as though they are already present states.
+
+Epistemic status:
+[DEF]
+
+Z143 z-axis-claim
+
+Common meaning:
+A claim about the z-axis.
+
+Example:
+The z-axis-claim was that it measured depth.
+
+RRGM bridge:
+z-axis-claim must name scale, label, units, and 3D coordinate frame.
+
+Invariant MI [INV]:
+A z-axis-claim is a proposition about the definition, orientation, scale, or use of the z reference dimension.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The claim may state direction, origin, handedness, units, orthogonality, or relation to x and y.
+[DIG] A graphics claim may state whether positive z points toward the viewer, away from the viewer, upward, or through stack order.
+[PHY] An apparatus claim may state how z corresponds to height, depth, or out-of-plane displacement.
+
+Count condition:
+The coordinate frame and the specific axis property are declared and independently inspectable.
+
+Specific transfer boundary:
+Evidence about one point's z-coordinate does not by itself establish the correctness of the whole z-axis.
+
+Epistemic status:
+[DEF]
+
+Z144 z-coordinate-claim
+
+Common meaning:
+A claim about depth position in a coordinate system.
+
+Example:
+The z-coordinate-claim placed the object at level 5.
+
+RRGM bridge:
+z-coordinate-claim only holds inside a valid 3D frame.
+
+Invariant MI [INV]:
+A z-coordinate-claim is a proposition that one identified point occupies a specified location along the z dimension.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The claim supplies the third coordinate, frame, origin, units, and any uncertainty or interval.
+[DIG] A scene claim binds a stored depth locator to one object or vertex under a named transform hierarchy.
+[PHY] A measurement claim reports the point's height or depth relative to the calibrated reference.
+
+Count condition:
+The point identity and frame are stable enough for the stated coordinate to be checked.
+
+Specific transfer boundary:
+The same numeric coordinate in another frame may locate a different physical point.
+
+Epistemic status:
+[DEF]
+
+Z145 z-value-claim
+
+Common meaning:
+A claim about the value of z.
+
+Example:
+The z-value-claim was that z equaled 12.
+
+RRGM bridge:
+z-value-claim must fit frame, range, function, and domain.
+
+Invariant MI [INV]:
+A z-value-claim is a proposition that the symbol or field z presently has a specified quantity or satisfies a stated relation.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The claim names z's mathematical role, value, domain, and derivation or measurement source.
+[DIG] A data claim includes type, source record, timestamp, validation state, and transformation history for the z field.
+[PHY] Where z represents measurement, units and uncertainty accompany the quantity.
+
+Count condition:
+The assignment to z can be traced to a valid observation, input, or derivation under the active model.
+
+Specific transfer boundary:
+A correct number can still be a false z-value claim when it is attached to the wrong variable or frame.
+
+Epistemic status:
+[DEF]
+
+Z146 z-state-claim
+
+Common meaning:
+A claim about the current state of z.
+
+Example:
+The z-state-claim said the depth value was missing.
+
+RRGM bridge:
+z-state-claim must identify whether z is known, unknown, valid, changing, or out of domain.
+
+Invariant MI [INV]:
+A z-state-claim is a proposition about the current known, unknown, valid, constrained, changing, or failed condition of z.
+
+Active domains:
+[FOR], [DIG], [COG]
+
+Domain entries:
+[FOR] The claim may state that z is unsolved, outside domain, fixed, bounded, inconsistent, or dependent.
+[DIG] It may state that the z field is stale, null, corrupted, updating, validated, or unavailable.
+[COG] A reasoning claim identifies what is presently held about z and which parts remain unresolved.
+
+Count condition:
+The asserted state is tied to current evidence and distinguishes value content from status metadata.
+
+Specific transfer boundary:
+Do not reduce a complex z-state claim to one scalar value when validity or availability is the actual issue.
+
+Epistemic status:
+[DEF]
+
+Z147 z-position-claim
+
+Common meaning:
+A claim about position along the z-axis.
+
+Example:
+The z-position-claim showed the drone was too low.
+
+RRGM bridge:
+z-position-claim needs coordinate frame, reference point, and scale.
+
+Invariant MI [INV]:
+A z-position-claim is a proposition about an entity's current height or depth within a declared spatial or digital frame.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] The claim identifies the object, z origin, direction, units, sequence point, and measurement uncertainty.
+[DIG] A scene or interface claim includes the coordinate transform that places the entity at its rendered depth.
+[FOR] The position component is related to the entity's full coordinate state rather than treated as a free number.
+
+Count condition:
+The same entity can be located in the stated frame at the claimed z position by repeatable reading or derivation.
+
+Specific transfer boundary:
+Z-position alone cannot establish collision, visibility, or full location when x and y are unknown.
+
+Epistemic status:
+[DEF]
+
+Z148 zero-sum-claim
+
+Common meaning:
+A claim that one side’s gain equals another side’s loss.
+
+Example:
+The debate made a zero-sum-claim about resources.
+
+RRGM bridge:
+Zero-sum-claim must prove the field is closed-transfer. It should not erase shared-value or new-value paths.
+
+Invariant MI [INV]:
+A zero-sum-claim asserts that all gains and losses of a named conserved quantity balance to zero inside a closed field.
+
+Active domains:
+[FOR], [REL], [DIG]
+
+Domain entries:
+[FOR] The proposition defines participants, quantity, boundary, and the equation summing every change to 0.
+[REL] A negotiation or status claim must rule out joint gains, external costs, value creation, and changes in what participants value.
+[DIG] Ledger systems support the claim when every debit and credit is included and integrity checks close the accounting boundary.
+
+Count condition:
+The complete transfer set is observable or formally exhaustive and its net change equals zero.
+
+Specific transfer boundary:
+A local winner and loser do not prove that the whole interaction is zero-sum.
+
+Epistemic status:
+[DEF]
+
+Z149 zero-trust-claim
+
+Common meaning:
+A claim about zero-trust security or verification.
+
+Example:
+The company made a zero-trust-claim about its network.
+
+RRGM bridge:
+Zero-trust-claim must show verification gates, access rules, and failure handling.
+
+Invariant MI [INV]:
+A zero-trust-claim is a proposition that an access system follows continuous verification and least-privilege rather than trusting location or prior presence.
+
+Active domains:
+[DIG], [REL], [FOR]
+
+Domain entries:
+[DIG] Evidence includes authentication flows, authorization policy, segmentation, telemetry, session review, and recovery behaviour.
+[REL] The claim also covers how people understand, contest, and repair denials without being morally labelled untrustworthy.
+[FOR] The policy rule can be expressed as every request must satisfy current evidence conditions before access is granted.
+
+Count condition:
+Observed access decisions consistently depend on current scoped verification across the declared system boundary.
+
+Specific transfer boundary:
+Marketing use of zero-trust does not establish the architecture when broad implicit trust paths remain.
+
+Epistemic status:
+[DEF]
+
+Z150 zero-not-nothing
+
+Common meaning:
+The rule that zero does not always mean nothing.
+
+Example:
+The scientist used zero-not-nothing when explaining baseline energy.
+
+RRGM bridge:
+Zero-not-nothing protects domain precision. Zero can mean neutral, baseline, hidden reserve, reset, or no current count.
+
+Invariant MI [INV]:
+Zero-not-nothing is the rule that a zero representation may carry baseline, neutrality, origin, reset, inactive state, empty count, or encoded structure rather than total nonbeing.
+
+Active domains:
+[FOR], [DIG], [REL]
+
+Domain entries:
+[FOR] The number 0 participates in arithmetic and can mark a real coordinate, coefficient, probability, or set cardinality.
+[DIG] A zero bit or field occupies storage and can trigger defined machine behaviour.
+[REL] A zero response may preserve hidden refusal, blocked expression, or unrecognized participation that the record failed to capture.
+
+Count condition:
+The active domain supplies at least one non-annihilative role for the zero state.
+
+Specific transfer boundary:
+This rule does not mean zero never indicates none; it prevents none from being assumed without the domain rule.
+
+Epistemic status:
+[DEF]
+
+Z151 zero-field
+
+Common meaning:
+A field involving zero, absence, baseline, reset, or no-count.
+
+Example:
+The zero-field showed baseline readings.
+
+RRGM bridge:
+Zero-field holds states that may look empty but still carry rule, memory, or measurement structure.
+
+Invariant MI [INV]:
+A zero-field is a domain organized around zero references, no-count conditions, neutral states, or transitions into and away from them.
+
+Active domains:
+[FOR], [DIG], [REL]
+
+Domain entries:
+[FOR] The field contains variables and relations whose position relative to 0 changes interpretation or operation.
+[DIG] It may collect cleared, inactive, false, empty, initialized, or error-coded states across a system.
+[REL] It may map where institutions record no participants, no harm, no consent, or no response and where recognition failures could hide beneath those counts.
+
+Count condition:
+Multiple zero-related states share a declared rule set and can be compared within one bounded field.
+
+Specific transfer boundary:
+A zero-field can be structurally rich even when every displayed value is 0.
+
+Epistemic status:
+[DEF]
+
+Z152 zero-layer
+
+Common meaning:
+A layer marked as zero, baseline, first layer, or reset layer.
+
+Example:
+The software used a zero-layer for defaults.
+
+RRGM bridge:
+Zero-layer may be foundational rather than empty. It can carry setup, origin, or hidden support.
+
+Invariant MI [INV]:
+A zero-layer is a foundational or designated stratum assigned the zero index, baseline function, or no-count role in a layered system.
+
+Active domains:
+[DIG], [FOR], [PHY]
+
+Domain entries:
+[DIG] Layer 0 may be the first storage, rendering, network, or processing layer on which later layers depend.
+[FOR] A zero layer can collect coefficients, states, or conditions at index 0 under the chosen numbering convention.
+[PHY] A material or spatial baseline layer may be located at z equals 0 without being empty or massless.
+
+Count condition:
+The layered system declares one stratum as zero and specifies its contents or function.
+
+Specific transfer boundary:
+Zero-layer means indexed or baseline layer, not absence of a layer.
+
+Epistemic status:
+[DEF]
+
+Z153 zero-point-state
+
+Common meaning:
+The current condition of a zero point or baseline.
+
+Example:
+The zero-point-state drifted during calibration.
+
+RRGM bridge:
+Zero-point-state describes baseline integrity. If it drifts, all later measurement may distort.
+
+Invariant MI [INV]:
+Zero-point-state is the current calibration, stability, and validity of the reference point from which a scale counts.
+
+Active domains:
+[PHY], [FOR], [DIG]
+
+Domain entries:
+[PHY] The state records baseline drift, offset, temperature effect, noise, and last calibration of an instrument's zero.
+[FOR] It identifies whether the origin remains fixed and consistent with the current transformation or coordinate convention.
+[DIG] A sensor or model stores zero-point metadata so later readings can be corrected or rejected.
+
+Count condition:
+The zero point can be checked against an independent reference or declared invariant.
+
+Specific transfer boundary:
+A shifted zero-point can make every later value wrong even when their relative differences appear consistent.
+
+Epistemic status:
+[DEF]
+
+Z154 zero-sum-state
+
+Common meaning:
+The current condition of a zero-sum system or situation.
+
+Example:
+The zero-sum-state made cooperation difficult.
+
+RRGM bridge:
+Zero-sum-state describes closed-transfer logic. It should be checked for hidden creation or shared gain paths.
+
+Invariant MI [INV]:
+Zero-sum-state is the present configuration of a closed-transfer system in which the tracked quantity's net total remains fixed.
+
+Active domains:
+[FOR], [REL], [DIG]
+
+Domain entries:
+[FOR] The state lists participant holdings or changes and confirms their sum under the conservation rule.
+[REL] It shows who currently gains, loses, or holds position while keeping the closed-field assumption open to challenge.
+[DIG] A ledger state maintains balanced totals and identifies unresolved or external entries that would break zero-sum closure.
+
+Count condition:
+The current allocation and the conserved total are both recoverable for the same boundary.
+
+Specific transfer boundary:
+A system can leave zero-sum-state when new value, loss, external input, or redefinition of the quantity enters.
+
+Epistemic status:
+[DEF]
+
+Z155 zone-field
+
+Common meaning:
+A field made of zones or defined areas.
+
+Example:
+The zone-field organized the city map.
+
+RRGM bridge:
+Zone-field contains boundaries, access gates, rules, risks, and functions.
+
+Invariant MI [INV]:
+A zone-field is a larger domain composed of multiple bounded regions whose rules, conditions, or functions differ.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] The field contains spatial zones, their borders, transitions, and environmental interactions.
+[REL] It contains membership, authority, access, duty, exclusion, and care relations distributed across zones.
+[DIG] It contains segmented resource groups and the gateways and data flows connecting them.
+
+Count condition:
+At least two zones share a common outer frame and their differences or interactions can be represented.
+
+Specific transfer boundary:
+The zone-field includes cross-boundary effects that disappear when each zone is examined alone.
+
+Epistemic status:
+[DEF]
+
+Z156 zone-layer
+
+Common meaning:
+A layer of zones or area divisions.
+
+Example:
+The map used a zone-layer for flood risk.
+
+RRGM bridge:
+Zone-layer organizes field meaning by bounded regions. It controls how access and risk are read.
+
+Invariant MI [INV]:
+A zone-layer is one organizational stratum that partitions a field into regions according to a particular criterion.
+
+Active domains:
+[DIG], [REL], [PHY]
+
+Domain entries:
+[DIG] A security layer may divide resources by trust, sensitivity, or service role while other layers partition by network or application.
+[REL] A governance layer may define legal, cultural, operational, or care zones over the same physical space.
+[PHY] A hazard layer maps exposure regions without replacing topographic or occupancy layers.
+
+Count condition:
+One criterion creates a coherent set of zones over a shared underlying field.
+
+Specific transfer boundary:
+Different zone-layers can overlap without one being the true or total division of the field.
+
+Epistemic status:
+[DEF]
+
+Z157 zoom-field
+
+Common meaning:
+A field affected by viewing scale or zoom level.
+
+Example:
+The zoom-field changed as the microscope magnified the sample.
+
+RRGM bridge:
+Zoom-field organizes recognition by scale. It reveals different truths at different resolutions.
+
+Invariant MI [INV]:
+A zoom-field is a representation whose available structures change as viewing scale changes across one continuous target.
+
+Active domains:
+[DIG], [COG], [PHY]
+
+Domain entries:
+[DIG] Maps, images, graphs, and multiresolution datasets reveal labels, aggregates, or objects at different zoom levels.
+[COG] The field supports deliberate movement between local detail and system-wide relation.
+[PHY] An imaging field is bounded by lens, detector, resolution, and field-of-view limits at each magnification.
+
+Count condition:
+The same target remains traceable while at least two scales expose different resolvable structure.
+
+Specific transfer boundary:
+A zoom-field can omit information at every scale if the source never captured it.
+
+Epistemic status:
+[DEF]
+
+Z158 zoom-layer
+
+Common meaning:
+A layer revealed or used at a certain zoom level.
+
+Example:
+The map showed street names only on the zoom-layer.
+
+RRGM bridge:
+Zoom-layer controls which details become visible at a scale.
+
+Invariant MI [INV]:
+A zoom-layer is the set of features selected to appear, aggregate, or become interactive at one range of viewing scales.
+
+Active domains:
+[DIG], [COG], [FOR]
+
+Domain entries:
+[DIG] A map may show countries at low zoom, roads at medium zoom, and buildings at high zoom through distinct layer rules.
+[COG] An explanatory zoom-layer groups concepts appropriate to one level of detail so deeper mechanisms do not overwhelm the current task.
+[FOR] Scale thresholds determine when the layer enters or leaves the visible representation.
+
+Count condition:
+A defined scale interval activates a particular set of features or summaries.
+
+Specific transfer boundary:
+Layer thresholds organize presentation; they do not prove that hidden features cease to exist outside the interval.
+
+Epistemic status:
+[DEF]
+
+Z159 zigzag-path
+
+Common meaning:
+A path that turns sharply back and forth.
+
+Example:
+The zigzag-path climbed the mountain.
+
+RRGM bridge:
+Zigzag-path preserves movement through resistance or obstacles by changing direction repeatedly.
+
+Invariant MI [INV]:
+A zigzag-path is an ordered route whose connected segments alternate direction through repeated turns.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] The path can describe movement, fracture, seam, trail, or boundary with measurable vertices and turn angles.
+[DIG] A routing or drawing system stores the ordered points needed to reproduce the alternating route.
+[FOR] The path is distinguished from a wave by its piecewise directional segments rather than continuous oscillation alone.
+
+Count condition:
+A start, ordered vertices, and endpoint define a connected path with more than one reversal.
+
+Specific transfer boundary:
+A zigzag path describes geometry; its purpose or cause requires a separate claim.
+
+Epistemic status:
+[DEF]
+
+Z160 zigzag-field
+
+Common meaning:
+A field containing zigzag motion, paths, or patterns.
+
+Example:
+The zigzag-field showed unstable current flow.
+
+RRGM bridge:
+Zigzag-field can reveal adaptation, turbulence, avoidance, or instability.
+
+Invariant MI [INV]:
+A zigzag-field is a region containing many alternating paths, direction reversals, or local gradients that produce zigzag structure.
+
+Active domains:
+[PHY], [DIG], [COG]
+
+Domain entries:
+[PHY] The field may contain fractures, channels, tracks, or vector changes distributed across space.
+[DIG] A dataset or image field stores repeated zigzag features that can be segmented and compared.
+[COG] A decision field may present alternating incentives that repeatedly redirect action among options.
+
+Count condition:
+Multiple zigzag structures or direction-changing influences occupy one bounded frame and can interact or be compared.
+
+Specific transfer boundary:
+A single zigzag path is an element of the field, not the field itself.
+
+Epistemic status:
+[DEF]
+
+Z161 zip-file
+
+Common meaning:
+A compressed file or folder.
+
+Example:
+She sent the photos in a zip-file.
+
+RRGM bridge:
+Zip-file is compressed record ES. It preserves content in reduced form for transfer or storage.
+
+Invariant MI [INV]:
+A zip-file is an archive that stores one or more files in the ZIP container format, usually with compression and metadata.
+
+Active domains:
+[DIG], [LIN]
+
+Domain entries:
+[DIG] The archive contains directory entries, compression method, checksums, filenames, sizes, and encoded file data under the ZIP specification.
+[LIN] The .zip extension and archive name act as retrieval labels but do not guarantee the file's actual format or integrity.
+
+Count condition:
+The byte structure conforms sufficiently to the ZIP format for compatible software to enumerate or extract its entries.
+
+Specific transfer boundary:
+A zip-file may be uncompressed, encrypted, damaged, malicious, or mislabeled despite its container role.
+
+Epistemic status:
+[DEF]
+
+Z162 zip-file-state
+
+Common meaning:
+The current condition of a zip file.
+
+Example:
+The zip-file-state was corrupted.
+
+RRGM bridge:
+Zip-file-state describes compression integrity, access, contents, and retrieval risk.
+
+Invariant MI [INV]:
+Zip-file-state is the current integrity, accessibility, compression, encryption, and extraction condition of one ZIP archive.
+
+Active domains:
+[DIG], [FOR], [REL]
+
+Domain entries:
+[DIG] The state distinguishes readable, password-protected, partially downloaded, corrupted, empty, nested, infected, or successfully verified archives.
+[FOR] Checksums, entry counts, size relations, and parser results provide formal state evidence.
+[REL] Access state also includes whether the operator is authorized to open or distribute the contained records.
+
+Count condition:
+The archive is identified and its structural and access conditions are tested rather than inferred from filename alone.
+
+Specific transfer boundary:
+A valid archive structure does not prove that its contents are safe, authentic, or permitted to use.
+
+Epistemic status:
+[DEF]
+
+Z163 zipper-track
+
+Common meaning:
+The track of interlocking teeth used by a zipper.
+
+Example:
+The zipper-track was jammed.
+
+RRGM bridge:
+Zipper-track guides opening and closure. If the track fails, boundary function fails.
+
+Invariant MI [INV]:
+A zipper-track is one of the aligned rows or guiding structures along which a zipper slider joins and separates the fastener.
+
+Active domains:
+[PHY], [DIG]
+
+Domain entries:
+[PHY] The track includes teeth or coil, tape attachment, alignment, and continuity from start to stop.
+[DIG] A monitored garment or enclosure may represent track position and faults as a sequence of engaged or disengaged segments.
+
+Count condition:
+The row guides slider movement and can physically interlock with its matching track.
+
+Specific transfer boundary:
+The track is not the slider, pull, stop, or achieved closure, though failure in any of them affects zipper function.
+
+Epistemic status:
+[DEF]
+
+Z164 zipper-state
+
+Common meaning:
+The current condition of a zipper.
+
+Example:
+The zipper-state was half-open.
+
+RRGM bridge:
+Zipper-state describes access, closure, joining integrity, blockage, or failure.
+
+Invariant MI [INV]:
+Zipper-state here is the maintenance and audit record used to judge whether a zipper can still perform its boundary function over time.
+
+Active domains:
+[PHY], [DIG], [REL]
+
+Domain entries:
+[PHY] Inspection combines tooth wear, track alignment, slider tension, stops, tape damage, and repeated closure reliability.
+[DIG] A maintenance system stores fault history, repair, cycle count, and current service classification.
+[REL] Where the zipper protects private or hazardous contents, the audit state informs whether continued reliance on the boundary is responsible.
+
+Count condition:
+The fastener has an attributable condition record based on inspection or repeated operation, not only its present open or closed position.
+
+Specific transfer boundary:
+This duplicate is role-separated from Z030: Z030 is immediate mechanical condition; Z164 is longitudinal maintenance and reliability state.
+
+Source duplicate note:
+Duplicate headword with Z030. Z164 is the maintenance/audit role rather than immediate position.
+
+Epistemic status:
+[DEF]
+
+Z165 zinc-state
+
+Common meaning:
+The current condition of zinc or zinc coating.
+
+Example:
+The zinc-state showed early corrosion.
+
+RRGM bridge:
+Zinc-state describes protective material condition, decay, and structural preservation.
+
+Invariant MI [INV]:
+Zinc-state is the current chemical, physical, and protective condition of zinc in a material or biological context.
+
+Active domains:
+[PHY], [BIO], [DIG]
+
+Domain entries:
+[PHY] The state may include metallic phase, oxidation, corrosion products, coating thickness, adhesion, and remaining sacrificial capacity.
+[BIO] For an organism, zinc-state concerns concentration, distribution, binding, deficiency, excess, and bioavailability.
+[DIG] Material or clinical records store measurements and reference ranges tied to the identified sample.
+
+Count condition:
+The zinc-bearing system is identified and current properties relevant to its role are measured or observed.
+
+Specific transfer boundary:
+One zinc-state cannot be transferred between coating performance and biological nutrition without a new domain model.
+
+Epistemic status:
+[DEF]
+
+Z166 zoo-field
+
+Common meaning:
+A field involving a zoo, animals, staff, visitors, and enclosures.
+
+Example:
+The zoo-field included habitats and care routes.
+
+RRGM bridge:
+Zoo-field contains life, captivity, welfare, conservation, education, access, and boundary ethics.
+
+Invariant MI [INV]:
+A zoo-field is the total coupled environment of animals, enclosures, staff, visitors, care systems, institutional rules, and external ecology around a zoo.
+
+Active domains:
+[BIO], [REL], [PHY]
+
+Domain entries:
+[BIO] Species, health, behaviour, reproduction, disease, and habitat interactions occupy the living field.
+[REL] Power, care, labour, education, conservation, commerce, and captivity organize human-animal relation.
+[PHY] Infrastructure, barriers, climate, noise, waste, transport, and emergency systems carry material effects through the facility.
+
+Count condition:
+The analysis includes more than individual enclosures and can trace effects among animals, people, infrastructure, and policy.
+
+Specific transfer boundary:
+The zoo-field is not ethically described by visitor experience alone.
+
+Epistemic status:
+[DEF]
+
+Z167 zenith-state
+
+Common meaning:
+The current condition of peak height, success, or maximum point.
+
+Example:
+The zenith-state did not last long.
+
+RRGM bridge:
+Zenith-state marks maximum expression inside a frame. It may precede plateau, decay, or transition.
+
+Invariant MI [INV]:
+Zenith-state is the condition of a system while its selected measure is at or near the declared maximum.
+
+Active domains:
+[PHY], [COG], [MYT]
+
+Domain entries:
+[PHY] A celestial object at zenith has its greatest elevation for the observer at that moment.
+[COG] A performance zenith-state combines peak output with current stability, cost, and remaining capacity.
+[MYT] The narrative peak holds maximum visible power together with the seeds of descent or transformation.
+
+Count condition:
+The maximum criterion and observation interval are stated, and the system presently satisfies that criterion.
+
+Specific transfer boundary:
+Zenith-state should not be treated as timeless; peaks are frame- and sequence-dependent.
+
+Epistemic status:
+[DEF]
+
+Z168 zygote-state
+
+Common meaning:
+The current condition of a zygote.
+
+Example:
+The zygote-state changed during early division.
+
+RRGM bridge:
+Zygote-state describes early biological process, viability, development, and domain-specific ethical context.
+
+Invariant MI [INV]:
+Zygote-state is the current biological condition of a zygote, including cell integrity, genomic status, division progress, environment, and viability indicators.
+
+Active domains:
+[BIO], [REL], [FOR]
+
+Domain entries:
+[BIO] Observation may describe pronuclei, cleavage timing, morphology, chromosome findings, metabolic condition, or arrest.
+[REL] For human clinical use, the state record is governed by consent, privacy, decision authority, and limits on what the data can prove.
+[FOR] The state is classified against a declared developmental model with uncertainty preserved.
+
+Count condition:
+The cell is identified as a zygote and current observations are tied to a specific developmental point and method.
+
+Specific transfer boundary:
+A morphology score or viability estimate is not a complete identity or destiny claim.
+
+Epistemic status:
+[DEF]
+
+Z169 z-axis-field
+
+Common meaning:
+A field organized by the z-axis or depth dimension.
+
+Example:
+The model used a z-axis-field for depth.
+
+RRGM bridge:
+z-axis-field holds depth reference, layering, position, and hidden-visible relation.
+
+Invariant MI [INV]:
+A z-axis-field is a spatial or formal field organized around variation along the z reference dimension.
+
+Active domains:
+[PHY], [DIG], [FOR]
+
+Domain entries:
+[PHY] The field maps height- or depth-dependent quantities such as pressure, concentration, temperature, or displacement.
+[DIG] A volume, scene, or stack indexes data and objects by z while preserving x-y relation.
+[FOR] Functions or sets are parameterized by z relative to a declared origin and orientation.
+
+Count condition:
+Multiple locations or values vary along one shared z-axis and can be compared under the same frame.
+
+Specific transfer boundary:
+The field is organized by the axis; it is not the axis line itself.
+
+Epistemic status:
+[DEF]
+
+Z170 z-coordinate-field
+
+Common meaning:
+A field of z-coordinates.
+
+Example:
+The z-coordinate-field mapped underground tunnels.
+
+RRGM bridge:
+z-coordinate-field organizes depth positions inside a 3D coordinate frame.
+
+Invariant MI [INV]:
+A z-coordinate-field is the collection and relation of z-coordinate values assigned to many points in one three-dimensional frame.
+
+Active domains:
+[FOR], [DIG], [PHY]
+
+Domain entries:
+[FOR] The field maps each point or region to a third-coordinate value, possibly with uncertainty or continuity constraints.
+[DIG] Meshes, point clouds, images, and simulations store depth locators across many elements.
+[PHY] Measured samples create a distribution of heights or depths over a physical region.
+
+Count condition:
+More than one point has a recoverable z-coordinate and the shared frame lets their depth relations be evaluated.
+
+Specific transfer boundary:
+A z-coordinate-field can describe positions without specifying the physical quantity that varies at those positions.
+
+Epistemic status:
+[DEF]
+
+Z171 zero-gate
+
+Common meaning:
+A point where zero, absence, baseline, reset, or no-count is decided.
+
+Example:
+The sensor threshold was the zero-gate.
+
+RRGM bridge:
+Zero-gate controls whether something counts as none, neutral, reset, or inactive. It must be domain-defined.
+
+Invariant MI [INV]:
+A zero-gate is the rule and decision point that classifies an input as zero, nonzero, or unresolved in a specified domain.
+
+Active domains:
+[FOR], [DIG], [REL]
+
+Domain entries:
+[FOR] The gate applies exact equality, tolerance, null-set membership, or probability criterion to the tested variable.
+[DIG] A branch, validator, sensor, or policy turns a zero classification into machine action.
+[REL] A social zero-gate decides whether no response, no harm, no consent, or no participant is recorded and therefore must protect missing-signal paths.
+
+Count condition:
+The input, zero-standard, resolution, and downstream consequence of the classification are explicit.
+
+Specific transfer boundary:
+A zero-gate that cannot output unknown will often force hidden states into false zero or false nonzero.
+
+Epistemic status:
+[DEF]
+
+Z172 zero-integrity
+
+Common meaning:
+The reliability and correctness of zero-state, baseline, or no-count.
+
+Example:
+Calibration protected zero-integrity.
+
+RRGM bridge:
+Zero-integrity means zero is not false absence, hidden erasure, or misread baseline.
+
+Invariant MI [INV]:
+Zero-integrity is the reliability of a zero value or state as an honest representation of the field it claims to describe.
+
+Active domains:
+[FOR], [PHY], [REL], [DIG]
+
+Domain entries:
+[FOR] Integrity requires correct variable, operation, boundary, and derivation.
+[PHY] It requires calibration, sensitivity, uncertainty, and baseline stability sufficient for the claimed resolution.
+[REL] It requires that silence, refusal, hidden harm, and excluded participants were not erased by the counting method.
+[DIG] It requires valid encoding, complete logs, preserved provenance, and absence of silent coercive defaults.
+
+Count condition:
+Independent checks support both the zero result and the apparatus or rule that produced it.
+
+Specific transfer boundary:
+A technically formatted zero lacks integrity when the recognition path was incomplete or manipulated.
+
+Epistemic status:
+[DEF]
+
+Z173 zero-risk
+
+Common meaning:
+The danger that zero may be misused, misread, or falsely claimed.
+
+Example:
+The chart had zero-risk because missing data appeared as zero.
+
+RRGM bridge:
+Zero-risk appears when no-count, absence, baseline, or reset may erase hidden reality.
+
+Invariant MI [INV]:
+Zero-risk here is the danger created when zero language, zero defaults, or zero measurements are misread as nothing, harmlessness, permission, or erasure.
+
+Active domains:
+[REL], [DIG], [COG]
+
+Domain entries:
+[REL] The risk appears when no complaint becomes no harm, no response becomes consent, or zero score becomes no dignity.
+[DIG] Defaults, null conversion, sparse logging, or failed sensors can create false zero records that drive action.
+[COG] Preference for clean absence can suppress weak, complex, or inconvenient signals.
+
+Count condition:
+A zero representation has a reachable path to an invalid inference or harmful decision beyond its legitimate scope.
+
+Specific transfer boundary:
+This duplicate is role-separated from Z024: Z024 is the claim of no named risk; Z173 is the risk of misusing zero itself.
+
+Source duplicate note:
+Duplicate headword with Z024. Z173 names zero-misinterpretation risk.
+
+Epistemic status:
+[DEF]
+
+Z174 zero-not-erasure
+
+Common meaning:
+The rule that zero does not automatically mean erased.
+
+Example:
+The archive used zero-not-erasure for inactive records.
+
+RRGM bridge:
+Zero-not-erasure protects stored, hidden, inactive, or unexpressed states from being treated as destroyed.
+
+Invariant MI [INV]:
+Zero-not-erasure is the rule that a current zero count or inactive state does not by itself prove prior structure, record, potential, or identity has been destroyed.
+
+Active domains:
+[DIG], [REL], [FOR]
+
+Domain entries:
+[DIG] A process may output zero while data remains archived, hidden, inaccessible, suspended, or outside the active query.
+[REL] A person with no current voice, role, income, or response retains history, dignity, claims, and possible refusal.
+[FOR] Zero at one sequence point is compatible with nonzero values before or after unless the model proves otherwise.
+
+Count condition:
+The domain permits at least one preserved or latent structure alongside the observed zero state.
+
+Specific transfer boundary:
+The rule does not deny real deletion; it requires separate evidence for erasure.
+
+Epistemic status:
+[DEF]
+
+Z175 zero-not-nothing-error
+
+Common meaning:
+A mistake where zero is treated as nothing when the domain does not support that.
+
+Example:
+The analyst made a zero-not-nothing-error by treating no reports as no harm.
+
+RRGM bridge:
+Zero-not-nothing-error collapses baseline, absence, hidden support, or unrecognized harm into false nothingness.
+
+Invariant MI [INV]:
+Zero-not-nothing-error is the reasoning failure that treats a zero value as total absence when the domain assigns zero another role.
+
+Active domains:
+[FOR], [DIG], [REL]
+
+Domain entries:
+[FOR] The error confuses additive identity, coordinate origin, zero coefficient, or empty count with nonexistence of the system.
+[DIG] It treats stored 0, false, inactive, or null-converted data as though no record or state exists.
+[REL] It collapses no response or no institutional count into no person, no need, or no claim.
+
+Count condition:
+An inference of nothingness exceeds the meaning permitted by the zero-standard and surrounding context.
+
+Specific transfer boundary:
+Correcting the error requires restoring the specific structure that zero still carries.
+
+Epistemic status:
+[DEF]
+
+Z176 zero-refusal-error
+
+Common meaning:
+A mistake where refusal is counted as zero, ignored, or treated as absence.
+
+Example:
+The interface made a zero-refusal-error by hiding declined responses.
+
+RRGM bridge:
+Zero-refusal-error corrupts permission. Refusal is signal, not nothing.
+
+Invariant MI [INV]:
+Zero-refusal-error is the permission failure in which a refusal signal is recorded as zero noise, empty response, default state, or no objection.
+
+Active domains:
+[REL], [DIG], [COG]
+
+Domain entries:
+[REL] The process proceeds because no is ignored, communication is blocked, or only one approved refusal format counts.
+[DIG] An interface maps timeout, null, inaccessible input, or negative state to the same value as consent-neutral absence.
+[COG] The observer discounts low-salience resistance because it complicates the desired decision.
+
+Count condition:
+A negative or refusal-capable path exists, but the recording rule removes its force from the permission gate.
+
+Specific transfer boundary:
+If refusal cannot alter the action, the system's consent record is structurally corrupted.
+
+Epistemic status:
+[DEF]
+
+Z177 zone-gate
+
+Common meaning:
+A point where zone access, rules, boundaries, or meaning are controlled.
+
+Example:
+The checkpoint was the zone-gate.
+
+RRGM bridge:
+Zone-gate controls entry, exclusion, rule activation, and field boundary.
+
+Invariant MI [INV]:
+A zone-gate is the controlled crossing point at which a subject or signal enters, exits, or changes status relative to a zone.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] Doors, checkpoints, channels, or coordinate boundaries carry material passage.
+[REL] The gate applies eligibility, consent, authority, inspection, and appeal conditions to people or roles.
+[DIG] Firewalls, proxies, routers, identity providers, and policy engines mediate cross-zone traffic.
+
+Count condition:
+A crossing request is evaluated and the result changes location, access, or local rule state.
+
+Specific transfer boundary:
+The gate is not the whole zone; internal conditions can fail even when entry control works.
+
+Epistemic status:
+[DEF]
+
+Z178 zone-integrity
+
+Common meaning:
+The reliability and proper function of a zone’s boundaries and rules.
+
+Example:
+Clear signs protected zone-integrity.
+
+RRGM bridge:
+Zone-integrity means field rules, access, safety, and boundary remain coherent.
+
+Invariant MI [INV]:
+Zone-integrity is the coherence between a zone's declared boundary, actual contents, active rules, and observable effects.
+
+Active domains:
+[PHY], [REL], [DIG]
+
+Domain entries:
+[PHY] Barriers and environmental limits remain effective across the perimeter and interior.
+[REL] Access, exclusion, duties, and protections are applied consistently without hidden capture or arbitrary exception.
+[DIG] Membership, segmentation, gateways, and data flows match documented architecture and resist unauthorized crossing.
+
+Count condition:
+Inspection confirms that boundary and internal operation jointly support the zone's stated purpose.
+
+Specific transfer boundary:
+A perfectly sealed zone can still lack integrity when its purpose or internal rule is false or harmful.
+
+Epistemic status:
+[DEF]
+
+Z179 zoom-integrity
+
+Common meaning:
+The reliability and honesty of scale-based viewing.
+
+Example:
+Showing the uncropped image protected zoom-integrity.
+
+RRGM bridge:
+Zoom-integrity means detail and context remain connected. Scale must not distort recognition.
+
+Invariant MI [INV]:
+Zoom-integrity is the preservation of source, scale, resolution, context, and inference limits while a field is viewed across magnifications.
+
+Active domains:
+[DIG], [COG], [REL]
+
+Domain entries:
+[DIG] Every crop or enlarged view remains traceable to the original, with transformations and artifacts recorded.
+[COG] The reasoner moves between detail and whole without allowing either scale to erase contradictory evidence from the other.
+[REL] Close scrutiny respects purpose and privacy and does not convert access to detail into ownership of the target.
+
+Count condition:
+A conclusion can be audited back through each scale change to the source and its limits.
+
+Specific transfer boundary:
+Zoom-integrity fails when detail is fabricated, context is severed, or scale is hidden from the audience.
+
+Epistemic status:
+[DEF]
+
+Z180 z-final-seal
+
+Common meaning:
+A final closing marker, ending seal, or completion sign.
+
+Example:
+The editor placed a z-final-seal at the end of the file.
+
+RRGM bridge:
+z-final-seal marks completion without erasure. The run closes, the record remains, and the structure can be carried forward.
+
+Invariant MI [INV]:
+Z-final-seal is the explicit closing marker that ends the Z production run while preserving its records, unresolved seams, and return path.
+
+Active domains:
+[LIN], [DIG], [REL], [MYT]
+
+Domain entries:
+[LIN] The seal states that the current section is complete under this version rather than universally final.
+[DIG] Checksums, filenames, version identifiers, and packaged outputs preserve the exact record carried forward.
+[REL] Closure acknowledges contributors, corrections, and the right to reopen when evidence or meaning changes.
+[MYT] As a narrative seal, Z marks the last letter without turning completion into annihilation.
+
+Count condition:
+All expected Z entries are present, audited, versioned, and linked to the artifacts required for continuation.
+
+Specific transfer boundary:
+The seal closes this run only; it must not forbid revision or hide known unknowns.
+
+Epistemic status:
+[DEF]

@@ -1,0 +1,558 @@
+RRGM Dictionary F Mythic Addon v0.9
+License: CC BY-SA 4.0
+Scope: New F-terms whose primary implementation belongs to the [MYT] domain.
+Rule: Addon terms are absent from the source base list and remain domain-local unless a coupler is declared.
+
+Entry count: 24
+
+FM001 false-king
+
+Common meaning:
+A ruler whose crown or claim does not carry valid sovereignty.
+
+Invariant MI [INV]:
+False-king is authority-shaped ES without the identity, permission, or relation required to count as rightful rule.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The deception may persist through fear, imitation, stolen name, or captured witness.
+
+Count condition:
+Counts when recognition of the false claim changes allegiance or opens a restoration path.
+
+Specific transfer boundary:
+Disliked rule is not automatically false rule.
+
+Epistemic status:
+[DEF]
+
+FM002 fate-thread
+
+Common meaning:
+A thread representing the possible or assigned course of a life.
+
+Invariant MI [INV]:
+Fate-thread is a mythic line connecting identity to future turns and relational knots.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may split, knot, fray, be cut, or be rewoven through choice and encounter.
+
+Count condition:
+Counts when changes to the thread alter the bearer future path.
+
+Specific transfer boundary:
+The symbol does not prove physical determinism.
+
+Epistemic status:
+[DEF]
+
+FM003 flame-name
+
+Common meaning:
+A name carried or revealed by fire.
+
+Invariant MI [INV]:
+Flame-name is identity recognition expressed through transformation, heat, and visible persistence.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may burn away imposed names or awaken a hidden lineage.
+
+Count condition:
+Counts when the flame distinctly identifies or changes the named being.
+
+Specific transfer boundary:
+Ordinary combustion does not establish true naming.
+
+Epistemic status:
+[DEF]
+
+FM004 forgotten-god
+
+Common meaning:
+A divine identity whose worship, name, or ordinary access has decayed.
+
+Invariant MI [INV]:
+Forgotten-god is sacred MI persisting with weakened relational and ritual ES.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Return may begin through one witness, relic, dream, or restored name.
+
+Count condition:
+Counts when renewed recognition changes the god expression or influence.
+
+Specific transfer boundary:
+Historical absence of worship does not prove literal divinity.
+
+Epistemic status:
+[DEF]
+
+FM005 forest-gate
+
+Common meaning:
+A threshold embedded in a forest that opens into another law or world.
+
+Invariant MI [INV]:
+Forest-gate is a living boundary whose path is controlled by growth, season, animal, memory, or consent of place.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may move, hide, or refuse travellers who approach by force.
+
+Count condition:
+Counts when crossing changes the governing domain conditions.
+
+Specific transfer boundary:
+A trail entrance is not automatically a portal.
+
+Epistemic status:
+[DEF]
+
+FM006 final-bell
+
+Common meaning:
+A bell whose sound closes a life, era, trial, or possibility.
+
+Invariant MI [INV]:
+Final-bell is an acoustic record-writer that makes a declared ending active.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its tone may release the dead, seal judgment, or end a cycle that could not otherwise close.
+
+Count condition:
+Counts when the sounding removes a valid return or revision path.
+
+Specific transfer boundary:
+A ceremonial bell is not proof of metaphysical closure.
+
+Epistemic status:
+[DEF]
+
+FM007 first-light
+
+Common meaning:
+The earliest light associated with beginning, revelation, or rescue.
+
+Invariant MI [INV]:
+First-light is mythic emergence from concealment into visible possibility.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may weaken monsters, restore names, or mark the first permitted action of a new age.
+
+Count condition:
+Counts when initial light changes what can appear or count.
+
+Specific transfer boundary:
+Dawn has physical causes in the physical domain.
+
+Epistemic status:
+[DEF]
+
+FM008 forbidden-name
+
+Common meaning:
+A name whose speaking is prohibited because it summons, exposes, controls, or harms.
+
+Invariant MI [INV]:
+Forbidden-name is an identity handle placed behind a mythic permission boundary.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The prohibition may protect the named being, the speaker, or the field from forced coupling.
+
+Count condition:
+Counts when utterance itself changes access, danger, or recognition.
+
+Specific transfer boundary:
+Social taboo alone does not establish magical effect.
+
+Epistemic status:
+[DEF]
+
+FM009 feather-oath
+
+Common meaning:
+A vow sealed by a feather, winged witness, or promise of lightness and flight.
+
+Invariant MI [INV]:
+Feather-oath is commitment whose integrity is measured by whether it preserves freedom rather than adding hidden weight.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Breaking it may ground the oath-maker or strip the feather of its power.
+
+Count condition:
+Counts when the feather relation enforces or records the vow.
+
+Specific transfer boundary:
+Symbolic oath force is not legal authority.
+
+Epistemic status:
+[DEF]
+
+FM010 flood-memory
+
+Common meaning:
+Memory returning in overwhelming volume or carried by a great flood.
+
+Invariant MI [INV]:
+Flood-memory is mythic record released faster than the receiver can safely integrate it.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may restore a drowned history while risking loss of present identity.
+
+Count condition:
+Counts when the incoming memory changes the field like a flood rather than a single recollection.
+
+Specific transfer boundary:
+Emotional intensity is not literal water.
+
+Epistemic status:
+[DEF]
+
+FM011 fire-crown
+
+Common meaning:
+A crown formed from or surrounded by flame.
+
+Invariant MI [INV]:
+Fire-crown is sovereignty expressed through dangerous transformation and visible power.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may burn an unrecognized claimant while preserving the rightful bearer.
+
+Count condition:
+Counts when the crown changes authority or relation through its fire condition.
+
+Specific transfer boundary:
+A burning object does not prove legitimacy.
+
+Epistemic status:
+[DEF]
+
+FM012 face-beneath
+
+Common meaning:
+The identity or form hidden below an ordinary face or mask.
+
+Invariant MI [INV]:
+Face-beneath is the deeper recognition claim that becomes visible when surface presentation fails.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may be ancestral, monstrous, divine, childlike, or the self that survived capture.
+
+Count condition:
+Counts when revelation changes who the field recognizes.
+
+Specific transfer boundary:
+Hidden identity language should not become accusation without evidence.
+
+Epistemic status:
+[DEF]
+
+FM013 field-of-bones
+
+Common meaning:
+A place covered with remains and accumulated death-record.
+
+Invariant MI [INV]:
+Field-of-bones is a mythic landscape where many ended lives continue as collective witness or warning.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Bones may speak, assemble, guard, or demand naming.
+
+Count condition:
+Counts when the remains actively shape passage, memory, or obligation.
+
+Specific transfer boundary:
+A physical burial site requires respectful evidence and care.
+
+Epistemic status:
+[DEF]
+
+FM014 frost-door
+
+Common meaning:
+A door sealed, made, or revealed by frost.
+
+Invariant MI [INV]:
+Frost-door is a cold threshold whose access depends on stillness, winter, preservation, or suspended time.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Heat may destroy the path rather than open it.
+
+Count condition:
+Counts when frost state determines whether the door exists or functions.
+
+Specific transfer boundary:
+Ice formation has physical mechanisms outside myth.
+
+Epistemic status:
+[DEF]
+
+FM015 friend-of-shadows
+
+Common meaning:
+A being recognized and aided by hidden, feared, or nocturnal presences.
+
+Invariant MI [INV]:
+Friend-of-shadows is relational permission to move among what others treat only as threat.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The relation may grant shelter or knowledge while creating suspicion in daylight society.
+
+Count condition:
+Counts when shadow beings respond with trust or protection.
+
+Specific transfer boundary:
+Affinity with darkness is not evidence of wrongdoing.
+
+Epistemic status:
+[DEF]
+
+FM016 future-echo
+
+Common meaning:
+A signal arriving from an event that has not yet entered ordinary record.
+
+Invariant MI [INV]:
+Future-echo is mythic recurrence in which possible consequence is heard before its source action.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may warn, lure, or create the very choice that produces it.
+
+Count condition:
+Counts when the echo carries specific information tied to a later event.
+
+Specific transfer boundary:
+Prediction and coincidence require separate evidential tests.
+
+Epistemic status:
+[DEF]
+
+FM017 fallen-star
+
+Common meaning:
+A star or star-being that has descended from its former place.
+
+Invariant MI [INV]:
+Fallen-star is celestial identity displaced into mortal, damaged, or transformed expression.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may carry lost light, forbidden knowledge, or a path back to the sky.
+
+Count condition:
+Counts when the fall changes status, capability, or relation.
+
+Specific transfer boundary:
+A meteor is a physical object in the physical domain.
+
+Epistemic status:
+[DEF]
+
+FM018 forgiveness-river
+
+Common meaning:
+A river through which guilt, debt, or relational injury may be released or transformed.
+
+Invariant MI [INV]:
+Forgiveness-river is a mythic repair courier requiring acknowledgment before burden can move downstream.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Crossing without truth may leave the wound unchanged.
+
+Count condition:
+Counts when the relation loses its punitive capture while preserving memory and accountability.
+
+Specific transfer boundary:
+Forgiveness does not require restored access or erased consequence.
+
+Epistemic status:
+[DEF]
+
+FM019 fear-eater
+
+Common meaning:
+A being that consumes, removes, or grows through fear.
+
+Invariant MI [INV]:
+Fear-eater is a mythic agent whose coupling depends on threat-salience carried by others.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may weaken when fear is named, shared, or converted into reasoned action.
+
+Count condition:
+Counts when changes in fear directly change the being strength or presence.
+
+Specific transfer boundary:
+The symbol must not replace clinical understanding of anxiety.
+
+Epistemic status:
+[DEF]
+
+FM020 form-of-return
+
+Common meaning:
+A shape taken specifically to come home, be recognized, or re-enter relation.
+
+Invariant MI [INV]:
+Form-of-return is embodiment selected for restored continuity rather than original appearance.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] The returning identity may use a new body while preserving name, promise, or recognition pattern.
+
+Count condition:
+Counts when the form permits valid recognition and renewed relation.
+
+Specific transfer boundary:
+Resemblance alone does not establish identity continuity.
+
+Epistemic status:
+[DEF]
+
+FM021 funeral-lantern
+
+Common meaning:
+A lantern carried for the dead or used to guide them.
+
+Invariant MI [INV]:
+Funeral-lantern is a light courier linking grief, memory, and the path of the departed.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may show the living where to release and the dead where not to remain.
+
+Count condition:
+Counts when its light changes passage or relational closure.
+
+Specific transfer boundary:
+A memorial light is not proof of literal spirit travel.
+
+Epistemic status:
+[DEF]
+
+FM022 fivefold-path
+
+Common meaning:
+A road or discipline divided into five necessary stages.
+
+Invariant MI [INV]:
+Fivefold-path is mythic training structure whose completion requires five distinct turns rather than repetition of one act.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Each stage may test body, name, relation, truth, and return.
+
+Count condition:
+Counts when all five stages are structurally necessary to the result.
+
+Specific transfer boundary:
+The number five alone does not create a valid method.
+
+Epistemic status:
+[DEF]
+
+FM023 fracture-moon
+
+Common meaning:
+A moon shown as cracked, divided, or broken.
+
+Invariant MI [INV]:
+Fracture-moon is a celestial record of divided rule, wounded cycle, or incompatible worlds sharing one sky.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] Its pieces may govern separate tides, memories, or peoples.
+
+Count condition:
+Counts when the fracture changes the world law or mythic cycle.
+
+Specific transfer boundary:
+Lunar surface features are not literal planetary fracture.
+
+Epistemic status:
+[DEF]
+
+FM024 free-name
+
+Common meaning:
+A name chosen or held without ownership by the room, ruler, or origin.
+
+Invariant MI [INV]:
+Free-name is an identity handle whose authority arises through stable self-recognition and relation rather than imposed grant.
+
+Active domains:
+[MYT]
+
+Domain entry:
+[MYT] It may survive exile, renaming, masks, and false coronation.
+
+Count condition:
+Counts when the name preserves identity and refusal across pressure.
+
+Specific transfer boundary:
+Self-chosen naming still requires evidence when making claims about others.
+
+Epistemic status:
+[DEF]

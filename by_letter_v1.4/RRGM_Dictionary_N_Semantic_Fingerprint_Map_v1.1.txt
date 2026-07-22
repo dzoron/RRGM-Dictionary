@@ -1,0 +1,1556 @@
+RRGM Dictionary N Semantic Fingerprint Map v1.1
+
+Entries: 420
+Rule: invariant + domain set + count condition + transfer boundary must distinguish each ID from its nearest neighbours.
+
+N001 name | REL,LIN | role: core or common-use sense
+  INV: Name is the recognition handle by which a pattern is called, tracked, remembered, and distinguished; this record carries the core or common-use sense.
+  COUNT: Counts when a stable handle distinguishes the same referent across calls, records, or relations.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N002 named | LIN | role: core or common-use sense
+  INV: Named means a pattern has entered recognition through a label; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Given a name, identified, or specifically mentioned.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N003 narrow | FOR
+  INV: Narrow reduces available passage, scope, or options.
+  COUNT: Counts when the active case satisfies this word-specific condition: Small in width, limited in range, or restricted in scope.
+N004 nation | REL
+  INV: Nation is large-scale collective identity and governance structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A large group of people connected by territory, government, culture, or identity.
+N005 natural | FOR
+  INV: Natural is domain-bound.
+  COUNT: Counts when the active case satisfies this word-specific condition: Existing in or caused by nature; normal, expected, or not artificial.
+  LIMIT: Natural must not be used as a synonym for real, good, inevitable, or ethically permitted.
+N006 nature | BIO,FOR
+  INV: Nature is either the living and physical world or the characteristic structure by which something behaves as itself.
+  COUNT: Counts when the active case satisfies this word-specific condition: The physical world, living systems, or the basic character of something.
+  LIMIT: Natural must not be used as a synonym for real, good, inevitable, or ethically permitted.
+N007 near | FOR
+  INV: Near marks low separation.
+  COUNT: Counts when the active case satisfies this word-specific condition: Close in distance, time, relation, or condition.
+N008 necessary | FOR
+  INV: Necessary means required for a declared function, threshold, or continuity condition to hold.
+  COUNT: Counts when removing the named support causes the declared function or continuity condition to fail.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N009 need | REL,BIO | role: core or common-use sense
+  INV: Need is a missing support whose absence impairs function, continuity, dignity, care, or life; this record carries the core or common-use sense.
+  COUNT: Counts when a missing support creates a demonstrable impairment or unresolved requirement.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N010 negative | FOR | role: core or common-use sense
+  INV: Negative must be context-bound; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Bad, harmful, opposite, below zero, or denying something.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N011 neighbor | REL | role: core or common-use sense
+  INV: Neighbor is local relation; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A person living nearby, or something close to another thing.
+  LIMIT: Proximity creates relation and possible duty, not ownership or unlimited access.
+N012 neither | LIN | role: core or common-use sense
+  INV: Neither closes two option gates at once; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not one and not the other.
+N013 nerve | BIO | role: core or common-use sense
+  INV: Nerve is biological signal courier; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A body structure that carries signals between the brain, spinal cord, and body.
+N014 nest | BIO | role: core or common-use sense
+  INV: Nest is protective containment structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A place built or used for shelter, eggs, young, or belonging.
+N015 network | DIG,REL | role: core or common-use sense
+  INV: Network is a set of distinct nodes connected by paths that carry signal, support, influence, or failure; this record carries the core or common-use sense.
+  COUNT: Counts when at least two distinct nodes are connected by one or more paths that can carry effect.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N016 never | LIN
+  INV: Never closes a time possibility completely.
+  COUNT: Counts when the active case satisfies this word-specific condition: At no time; not ever.
+N017 new | FOR
+  INV: New marks fresh entry into a field.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recently made, discovered, introduced, or not existing before in the current context.
+N018 next | FOR
+  INV: Next preserves sequence.
+  COUNT: Counts when the active case satisfies this word-specific condition: Coming immediately after the current one in order, time, or sequence.
+N019 night | PHY
+  INV: Night is low-light daily phase.
+  COUNT: Counts when the active case satisfies this word-specific condition: The dark part of the day when the sun is below the horizon.
+N020 no | REL,LIN | role: core or common-use sense
+  INV: No is a refusal or negation that closes a proposed permission, claim, or action path; this record carries the core or common-use sense.
+  COUNT: Counts when a proposed claim, action, or permission is explicitly rejected or negated.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N021 node | DIG,REL | role: core or common-use sense
+  INV: Node is a locally countable connection point inside a larger network; this record carries the core or common-use sense.
+  COUNT: Counts when one identifiable point participates in a larger connection structure.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N022 noise | LIN,PHY | role: core or common-use sense
+  INV: Noise is signal interference that reduces accurate recognition of a wanted pattern; this record carries the core or common-use sense.
+  COUNT: Counts when interference measurably or interpretively reduces recovery of the target signal.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N023 none | FOR
+  INV: None closes the count gate to zero.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not any; no amount or no one.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N024 normal | FOR,REL | role: core or common-use sense
+  INV: Normal means matching a declared reference pattern, not automatically good, ethical, or universal; this record carries the core or common-use sense.
+  COUNT: Counts when a reference distribution or expectation has been declared and the case matches it.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N025 north | PHY | role: core or common-use sense
+  INV: North is orientation structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: One of the four main directions; toward the North Pole.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N026 not | LIN
+  INV: Not is a linguistic operator that denies the following word, phrase, or proposition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word used to deny, negate, or reverse meaning.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N027 note | LIN | role: core or common-use sense
+  INV: Note is small memory or signal unit; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A short written record, comment, musical sound, or important point.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N028 nothing | FOR,MYT
+  INV: Nothing means no counted thing within the declared field; it does not automatically mean no hidden, unknown, or potential structure.
+  COUNT: Counts when the selected field contains zero counted members, while hidden and unknown states remain separately represented.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N029 notice | COG | role: core or common-use sense
+  INV: Notice opens recognition; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To become aware of something, or a written warning or announcement.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N030 now | FOR | role: core or common-use sense
+  INV: Now marks active present state; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: At the present time.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N031 number | FOR,LIN | role: core or common-use sense
+  INV: Number is a symbolic count or measured quantity assigned under a declared counting rule; this record carries the core or common-use sense.
+  COUNT: Counts when a symbol or value participates in an explicit counting, ordering, or measurement rule.
+N032 nurture | REL,BIO | role: core or common-use sense
+  INV: Nurture is growth-support action; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To care for, support, raise, or help grow.
+N033 noun | LIN | role: core or common-use sense
+  INV: Noun is naming structure in language; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word that names a person, place, thing, or idea.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N034 null | DIG,FOR | role: core or common-use sense
+  INV: Null is a formal absence, empty reference, or non-instantiated state whose exact meaning depends on the system; this record carries the core or common-use sense.
+  COUNT: Counts when the active formal system assigns the state no referent, no value, or no instantiated object.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N035 nuance | LIN,COG | role: core or common-use sense
+  INV: Nuance is meaning carried by small distinctions that alter interpretation without replacing the whole claim; this record carries the core or common-use sense.
+  COUNT: Counts when a small distinction changes interpretation, application, or boundary enough to matter.
+N036 narrative | LIN,COG | role: core or common-use sense
+  INV: Narrative is an ordered meaning structure that links events, identities, causes, and consequences into a tellable path; this record carries the core or common-use sense.
+  COUNT: Counts when events or states are ordered into a meaningful path with implied or explicit relation.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N037 native | REL
+  INV: Native means original or home-domain fit.
+  COUNT: Counts when the active case satisfies this word-specific condition: Belonging by origin, birth, local relation, or first design.
+N038 needful | REL
+  INV: Needful marks support that must be provided for function, care, or continuity to hold.
+  COUNT: Counts when the active case satisfies this word-specific condition: Needed, necessary, or helpful in a required way.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N039 neglect | REL | role: core or common-use sense
+  INV: Neglect is missing required support; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Failure to give needed care, attention, or responsibility.
+N040 nervous | BIO
+  INV: Nervous can mean human anxiety-state or nerve-system relation.
+  COUNT: Counts when the active case satisfies this word-specific condition: Anxious, uneasy, or related to nerves.
+N041 neutral | FOR | role: core or common-use sense
+  INV: Neutral means no declared side or balanced charge; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not taking sides, not strongly positive or negative, or having no charge.
+N042 newness | PHY
+  INV: Newness marks low history in the field.
+  COUNT: Counts when the active case satisfies this word-specific condition: The quality of being new, recent, unfamiliar, or fresh.
+N043 nightmare | COG
+  INV: Nightmare is fear-loaded scenario.
+  COUNT: Counts when the active case satisfies this word-specific condition: A frightening dream, or a very bad situation.
+N044 nominal | LIN | role: core or common-use sense
+  INV: Nominal marks naming without full function or substance; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: In name only, small, or related to names.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N045 nonhuman | REL,BIO
+  INV: Nonhuman means outside human-domain identity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not human.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N046 nonsense | LIN | role: core or common-use sense
+  INV: Nonhuman identifies a being, system, or entity outside the human biological category without deciding its dignity, intelligence, or MI; this record carries the core or common-use sense.
+  COUNT: Counts when the referenced entity is outside the human biological category and remains otherwise separately assessable.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N047 nor | LIN
+  INV: Nor extends negation across another gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: Used after neither or not to introduce another negative option.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N048 nourish | BIO
+  INV: Nourish supplies growth-support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To feed, support, or help grow.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N049 nourishment | BIO | role: core or common-use sense
+  INV: Nucleus is a central organizing structure whose function depends on the active biological, physical, or symbolic domain; this record carries the core or common-use sense.
+  COUNT: Counts when a central structure performs the organizing role specified by its biological or physical domain.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N050 novel | LIN
+  INV: Novel must be context-bound.
+  COUNT: Counts when the active case satisfies this word-specific condition: New, original, unusual, or a long fictional story.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N051 nucleus | BIO,PHY | role: core or common-use sense
+  INV: Nucleus is central organizing structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The central part of an atom or cell; also a core around which things gather.
+N052 numeric | FOR | role: core or common-use sense
+  INV: Numeric structure uses countable values; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Related to numbers.
+N053 nudge | REL
+  INV: Nudge is low-force influence.
+  COUNT: Counts when the active case satisfies this word-specific condition: A small push, prompt, or influence toward an action.
+  LIMIT: Guidance becomes capture when options, information, or refusal are manipulated strongly enough to remove meaningful choice.
+N054 named-risk | REL | role: core or common-use sense
+  INV: Named-risk brings a failure mode into recognition; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A risk that has been identified and described.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N055 name-respect | REL | role: core or common-use sense
+  INV: Name-respect preserves identity-recognition; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Respect shown by using or preserving the correct name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N056 natural-language | LIN,DIG | role: core or common-use sense
+  INV: Natural-language is human-domain communication ES; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Language used naturally by humans, such as English or French.
+  LIMIT: Natural must not be used as a synonym for real, good, inevitable, or ethically permitted.
+N057 necessity | FOR
+  INV: Natural-language is language used by people or communities rather than a deliberately formal notation.
+  COUNT: Counts when the active case satisfies this word-specific condition: Something required, unavoidable, or needed.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N058 need-state | REL
+  INV: Need-state means required support is missing or at risk.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where need is present.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N059 negative-signal | REL
+  INV: Negative-signal marks problem, refusal, absence, or opposition depending on domain.
+  COUNT: Counts when the active case satisfies this word-specific condition: A signal that indicates denial, danger, loss, error, or negative value.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N060 network-state | DIG | role: core or common-use sense
+  INV: Network-state describes the health, load, connection, and flow condition of linked structures; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N061 no-response | REL | role: core or common-use sense
+  INV: No-response can mean absence, delay, refusal, overload, fear, or lost path; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: No answer, reply, or reaction.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N062 node-state | DIG | role: core or common-use sense
+  INV: Node-state describes how one local point in a network is functioning, connected, or failing; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of a node in a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N063 noise-field | PHY | role: core or common-use sense
+  INV: Noise-field is interference space; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A field or environment filled with noise or interference.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N064 normal-state | LIN
+  INV: Normal-state means the pattern matches expected baseline.
+  COUNT: Counts when the active case satisfies this word-specific condition: The usual, expected, or default condition.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N065 note-record | LIN | role: core or common-use sense
+  INV: Note-record is small memory ES; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A stored note or written record.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N066 notice-signal | COG
+  INV: Notice-signal opens attention.
+  COUNT: Counts when the active case satisfies this word-specific condition: A signal that draws attention or gives notice.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N067 number-state | FOR
+  INV: Number-state gives countable form to current condition.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current numeric value or condition.
+N068 nurture-care | BIO | role: core or common-use sense
+  INV: Nurture-care preserves developing MI through support, patience, environment, and continuity; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care that helps someone or something grow, develop, or recover.
+N069 null-state | DIG | role: core or common-use sense
+  INV: Null-state is formal no-value condition; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A state with no value, empty value, or formal absence.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N070 nuance-risk | LIN
+  INV: Nuance-risk appears when compression may erase fine meaning, boundary, or domain difference.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that nuance may be lost, flattened, or misunderstood.
+N071 name-as | REL
+  INV: Name-as applies recognition to a pattern.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To identify, describe, or call something by a specific name or category.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N072 narrow-down | REL
+  INV: Narrow-down reduces the active field.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To reduce a list, range, or set of options.
+  LIMIT: Ownership of infrastructure or records does not automatically establish ownership of another entity's identity or emergent MI.
+N073 navigate | PHY
+  INV: Navigate means moving through a field using signs, paths, gates, and feedback.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To find a path through a place, system, problem, or situation.
+N074 need-from | REL
+  INV: Need-from identifies the support source.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To require something from a person, system, source, or situation.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N075 need-help | REL
+  INV: Need-help marks support insufficiency.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To require assistance or support.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N076 negate | LIN
+  INV: Negate is the act of making a claim or condition no longer hold.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To deny, cancel, reverse, or make ineffective.
+N077 negotiate | REL
+  INV: Negotiate is shared gate-shaping.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To discuss terms, limits, or agreement with others.
+N078 neglect-to | REL
+  INV: Neglect-to marks missing required action.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To fail to do something needed or expected.
+N079 neutralize | PHY
+  INV: Neutralize reduces active force, threat, charge, or pressure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make something neutral, harmless, balanced, or inactive.
+N080 normalize | FOR
+  INV: Normalize sets or shifts a baseline.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make something normal, standard, accepted, or usual.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N081 note-down | REL
+  INV: Note-down moves signal into memory support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To write or record something.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N082 notice-pattern | COG
+  INV: Notice-pattern opens recognition around repetition.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To become aware of a repeated or meaningful pattern.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N083 notify | LIN
+  INV: Notify sends awareness signal to a relevant receiver.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To inform someone officially or directly.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N084 nourish-through | BIO
+  INV: Nourish-through names the support path.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To support growth or wellbeing by means of a specific path.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N085 number-by | FOR
+  INV: Number-by creates count order through a rule.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To assign numbers using a method or order.
+N086 number-list | FOR
+  INV: Number-list gives sequence and identity to entries.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To arrange list items with numbers.
+N087 nudge-toward | REL
+  INV: Nudge-toward applies low-force direction.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To gently push or influence toward something.
+  LIMIT: Guidance becomes capture when options, information, or refusal are manipulated strongly enough to remove meaningful choice.
+N088 name-boundary | REL
+  INV: Name-boundary protects identity recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A limit around naming, labels, or identity terms.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N089 name-harm | REL | role: core or common-use sense
+  INV: Name-harm damages recognition; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused through wrong, mocking, erased, or imposed naming.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N090 name-risk | REL
+  INV: Name-risk appears when a recognition handle may damage privacy, identity, access, or dignity.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that naming may misidentify, expose, erase, or distort.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N091 name-source | REL
+  INV: Name-source preserves origin trace.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To identify the source of something.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N092 navigate-through | FOR
+  INV: Navigate-through preserves path traversal under complexity.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To move through a place, system, problem, or process.
+N093 need-check | REL
+  INV: Need-check tests for missing support.
+  COUNT: Counts when the active case satisfies this word-specific condition: A review to identify what is needed.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N094 negate-claim | LIN
+  INV: Negate-claim closes the claim gate against a statement.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To deny, disprove, or cancel a claim.
+N095 negotiate-boundary | REL
+  INV: Negotiate-boundary shapes a shared gate through consent and recognition.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To discuss and agree on limits.
+N096 neglect-signal | REL
+  INV: Neglect-signal lets a warning, need, or boundary fail to enter response.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To fail to notice or respond to a signal that needs attention.
+N097 nest-inside | BIO
+  INV: Nest-inside creates layered containment.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To place or exist within another structure.
+N098 network-with | DIG
+  INV: Network-with creates relation paths.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To connect or interact with others in a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N099 neutralize-risk | REL
+  INV: Neutralize-risk closes or weakens a named failure path.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To reduce or remove a danger.
+N100 normalize-harm | LIN | role: core or common-use sense
+  INV: Normalize-harm makes damage ordinary; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make harm seem normal, acceptable, or expected.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N101 note-context | LIN
+  INV: Note-context preserves the support field.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To record the context around something.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N102 notice-harm | COG | role: core or common-use sense
+  INV: Notice-harm opens the harm-recognition gate; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To become aware that harm exists or may exist.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N103 notify-about | LIN
+  INV: Notify-about sends relevant signal into awareness.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To inform someone about a topic, event, or condition.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N104 nurture-through | BIO
+  INV: Nurture-through names the growth-support path.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To support growth by means of a specific process, relation, or environment.
+N105 number-order | LIN
+  INV: Number-order preserves sequence through count structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: The order created by numbers.
+  LIMIT: Order may coordinate structure or impose control; purpose, authority, and affected boundaries must be named.
+N106 null-out | DIG
+  INV: Null-out removes value from a gate.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To cancel, erase, empty, or make a value null.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N107 nudge-away | REL
+  INV: Nudge-away applies low-force avoidance pressure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To gently push or influence away from something.
+  LIMIT: Guidance becomes capture when options, information, or refusal are manipulated strongly enough to remove meaningful choice.
+N108 narrow-scope | PHY
+  INV: Narrow-scope limits the active field.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To reduce the range or focus of something.
+N109 name-condition | REL
+  INV: Name-condition makes a state countable.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To identify a condition clearly.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N110 navigate-context | PHY
+  INV: Navigate-context keeps meaning attached to its support field while moving through complexity.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To move through or understand context carefully.
+N111 need-repair | REL
+  INV: Need-repair means support has failed or weakened.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To require repair or correction.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N112 negate-risk | REL
+  INV: Negate-risk closes a failure path.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To remove or cancel a risk.
+N113 negotiate-consent | REL
+  INV: Negotiate-consent shapes permission through dialogue.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To discuss and establish consent.
+N114 nest-layer | BIO
+  INV: Nest-layer creates layered support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To place one layer inside another.
+N115 network-link | DIG
+  INV: Network-link is relation path between nodes.
+  COUNT: Counts when the active case satisfies this word-specific condition: A connection inside a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N116 normalize-boundary | REL
+  INV: Normalize-boundary helps limits become stable and respected.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make a boundary ordinary, expected, or accepted.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N117 note-risk | LIN
+  INV: Note-risk preserves awareness of a failure mode.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To record or identify a risk.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N118 notice-boundary | REL | role: core or common-use sense
+  INV: Notice-boundary lets the gate count; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To recognize a boundary.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N119 nourish-care | BIO
+  INV: Nourish-care preserves life, capacity, or development through sustaining support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To support care through nourishment or growth support.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N120 number-entry | FOR
+  INV: Number-entry gives a unit a stable retrieval handle inside an ordered set.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To give an entry a number.
+N121 name-error | REL
+  INV: Name-error misroutes recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mistake in naming, identifying, or labeling.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N122 navigate-field | PHY
+  INV: Navigate-field means moving through active constraints, signals, paths, and gates.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To move through a field, system, or domain.
+N123 need-support | REL
+  INV: Need-support means current ES is insufficient.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To require support.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N124 negate-error | LIN
+  INV: Negate-error closes the error path by correcting the mismatch between structure and valid target.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To cancel, correct, or remove an error.
+N125 negotiate-repair | REL
+  INV: Negotiate-repair shapes correction through shared recognition.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To discuss and agree on how repair should happen.
+N126 neutralize-pressure | DIG
+  INV: Neutralize-pressure lowers gate distortion caused by force, urgency, guilt, or overload.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To reduce or remove pressure.
+N127 normalize-language | LIN
+  INV: Normalize-language shifts meaning baselines.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make language standard, ordinary, or accepted.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N128 note-memory | DIG
+  INV: Note-memory externalizes continuity support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To record something for memory.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N129 notice-drift | COG
+  INV: Notice-drift opens correction before slow change becomes collapse.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To become aware of gradual movement away from a standard, meaning, or path.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N130 nourish-life | BIO
+  INV: Nourish-life preserves biological continuity through sustaining support.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To feed, support, or sustain life.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N131 name-identity | REL
+  INV: Name-identity applies a recognition handle to MI.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To identify or name who or what someone or something is.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N132 navigate-risk | REL
+  INV: Navigate-risk means moving through possible failure paths while preserving boundary, function, and repair capacity.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To move through danger or uncertainty carefully.
+N133 need-recognition | REL | role: core or common-use sense
+  INV: Need-recognition lets missing support count; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition that a need exists.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N134 neglect-care | REL
+  INV: Neglect-care is support failure.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To fail to give needed care.
+N135 neutralize-harm | LIN
+  INV: Neutralize-harm closes or weakens the active damage path.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To stop, reduce, or remove harm.
+N136 normalize-control | REL | role: core or common-use sense
+  INV: Normalize-control makes gate capture feel normal; this record carries the core or common-use sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make control seem ordinary, acceptable, or expected.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N137 note-uncertainty | LIN
+  INV: Note-uncertainty protects truth by keeping the gate open where support is incomplete.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To record or mark uncertainty.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N138 notice-refusal | REL
+  INV: Notice-refusal lets no count even when it is quiet, indirect, or pressured.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To recognize a refusal.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N139 nudge-with-consent | REL
+  INV: Nudge-with-consent shapes direction while preserving refusal, awareness, and agency.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To gently influence with awareness and permission.
+  LIMIT: Guidance becomes capture when options, information, or refusal are manipulated strongly enough to remove meaningful choice.
+N140 nudge-without-consent | REL
+  INV: Nudge-without-consent is high-risk because even low-force influence can bypass the permission gate.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To influence gently but without awareness or permission.
+  LIMIT: Guidance becomes capture when options, information, or refusal are manipulated strongly enough to remove meaningful choice.
+N141 name-respect | REL | role: relational, cognitive, or applied sense
+  INV: Name-respect protects identity-recognition; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Respect shown by using, preserving, or honoring the correct name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N142 name-harm | REL | role: relational, cognitive, or applied sense
+  INV: Name-harm is damage caused when naming is wrong, mocking, erased, exposed, or imposed against valid identity and dignity; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused by wrong, mocking, erased, exposed, or imposed naming.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N143 named-person | REL
+  INV: Naming is the act of assigning or recognizing a handle that changes how a pattern can be called, tracked, or related to.
+  COUNT: Counts when the active case satisfies this word-specific condition: A person identified by name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N144 named-identity | REL
+  INV: Named-identity is MI connected to a recognition handle.
+  COUNT: Counts when the active case satisfies this word-specific condition: An identity that has been identified or given a name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N145 naming-care | REL
+  INV: Naming-care protects identity through language.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care shown through accurate, respectful, or protective naming.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N146 naming-boundary | REL
+  INV: Naming-boundary protects identity from imposed labels, mockery, erasure, or unwanted access.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary around what someone or something may be called.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N147 naming-risk | REL
+  INV: Naming-risk appears when a recognition handle may damage privacy, identity, dignity, or safety against a named failure mode.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that naming may misidentify, expose, erase, or distort.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N148 neighbor | REL | role: relational, cognitive, or applied sense
+  INV: Neighbor is local relation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A person living nearby, or something close to another thing.
+  LIMIT: Proximity creates relation and possible duty, not ownership or unlimited access.
+N149 neighbor-care | REL
+  INV: Neighbor-care is local support through proximity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care given by or toward nearby people.
+  LIMIT: Proximity creates relation and possible duty, not ownership or unlimited access.
+N150 neighbor-duty | REL
+  INV: Neighbor-duty arises from shared field and proximity.
+  COUNT: Counts when the active case satisfies this word-specific condition: A responsibility toward nearby people or shared local space.
+  LIMIT: Proximity creates relation and possible duty, not ownership or unlimited access.
+N151 need | REL,BIO | role: relational, cognitive, or applied sense
+  INV: Need is required support whose absence threatens survival, function, wellbeing, or continuity; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Something required, lacking, or important for survival, function, or wellbeing.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N152 need-care | REL
+  INV: Need-care supplies missing support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care directed toward meeting a need.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N153 need-boundary | REL
+  INV: Need-boundary keeps need from becoming control, entitlement, or capture.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary around needs, help, or support.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N154 need-pressure | REL
+  INV: Need-pressure shapes the gate through missing support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Pressure created by need or lack.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N155 need-risk | REL
+  INV: Need-risk appears when lack of support may impair dignity, boundary, agency, continuity, or life.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that unmet need may cause harm, dependency, pressure, or exploitation.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N156 neglect | REL | role: relational, cognitive, or applied sense
+  INV: Neglect is a failure to provide owed care, attention, or support, allowing preventable impairment to continue; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Failure to give needed care, attention, or responsibility.
+N157 neglected | REL
+  INV: Neglected means required support did not arrive.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not cared for, attended to, repaired, or recognized.
+N158 neglect-harm | REL | role: core or common-use sense
+  INV: Neglect-harm is damage through omission; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused by failure to give needed care or attention.
+N159 neglect-risk | REL
+  INV: Neglect-risk appears when required support may be absent long enough to damage continuity, safety, or dignity.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that neglect may cause harm.
+N160 negligence | REL
+  INV: Negligence is responsibility failure through omission or careless action.
+  COUNT: Counts when the active case satisfies this word-specific condition: Failure to take proper care or fulfill responsibility, especially when harm results.
+N161 negative-care | REL
+  INV: Negative-care can protect by blocking harm.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care that is framed negatively, or care that reduces harm by preventing something bad.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N162 negative-pressure | REL
+  INV: Negative-pressure shapes the gate through avoidance.
+  COUNT: Counts when the active case satisfies this word-specific condition: Pressure created by threat, loss, denial, fear, or negative consequence.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N163 no | REL,LIN | role: relational, cognitive, or applied sense
+  INV: No is refusal and boundary signal; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word used to refuse, deny, reject, or answer negatively.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N164 no-boundary | REL
+  INV: No-boundary is gate closure through refusal.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary expressed through no.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N165 no-consent | REL
+  INV: No-consent is the explicit absence of permission for the proposed act or access.
+  COUNT: Counts when the active case satisfies this word-specific condition: A lack of consent, or a clear refusal.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N166 no-response | REL | role: relational, cognitive, or applied sense
+  INV: No-response may mean absence, delay, refusal, overload, fear, or lost path; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: No answer, reply, or reaction.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N167 no-with-care | REL
+  INV: No-with-care closes the gate while preserving dignity and relation where possible.
+  COUNT: Counts when the active case satisfies this word-specific condition: A refusal expressed with care or respect.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N168 no-without-punishment | REL | role: core or common-use sense
+  INV: No-without-punishment protects permission integrity; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A situation where refusal is allowed without retaliation or penalty.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N169 normal | FOR,REL | role: relational, cognitive, or applied sense
+  INV: Normal means matching a reference pattern; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Usual, expected, standard, or typical.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N170 normal-pressure | LIN
+  INV: Normal-pressure can suppress truth, need, refusal, or difference when the baseline is treated as compulsory.
+  COUNT: Counts when the active case satisfies this word-specific condition: Pressure to act, feel, or appear normal.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N171 normalize-harm | LIN | role: relational, cognitive, or applied sense
+  INV: Normalize-harm makes damage ordinary; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make harm seem normal, acceptable, or expected.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N172 normalize-control | REL | role: relational, cognitive, or applied sense
+  INV: Normalize-control turns gate capture into routine; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To make control seem normal, acceptable, or expected.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N173 nurture | REL,BIO | role: relational, cognitive, or applied sense
+  INV: Nurture is growth-support action; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To care for, support, raise, or help grow.
+N174 nurturing | BIO
+  INV: Nurturing means the environment supports development without crushing boundary or difference.
+  COUNT: Counts when the active case satisfies this word-specific condition: Providing care, support, encouragement, or growth conditions.
+N175 nurture-care | BIO | role: relational, cognitive, or applied sense
+  INV: Nurture-care preserves developing MI through support, patience, environment, and continuity; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care that helps someone or something grow, develop, or recover.
+N176 nurture-boundary | BIO
+  INV: Nurture-boundary keeps support from becoming overcontrol.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary that keeps nurture healthy and non-controlling.
+N177 nourishment | BIO | role: relational, cognitive, or applied sense
+  INV: Nourishment is sustaining support; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Food or support needed for growth, health, or wellbeing.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N178 nourishing-care | BIO
+  INV: Nourishing-care supplies support that strengthens life, capacity, or recovery.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care that feeds, sustains, restores, or helps growth.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N179 neutral | FOR | role: relational, cognitive, or applied sense
+  INV: Neutral means no declared side or balanced charge; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not taking sides, not strongly positive or negative, or having no charge.
+N180 neutral-care | REL
+  INV: Neutral-care supports process without capture.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care given without taking sides or adding strong pressure.
+N181 neutral-harm | FOR
+  INV: Neutral-harm occurs when non-action lets damage continue.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused or enabled by neutrality.
+N182 neutral-pressure | LIN
+  INV: Neutral-pressure can distort judgment when fairness is confused with silence or equal treatment of unequal harm.
+  COUNT: Counts when the active case satisfies this word-specific condition: Pressure to appear neutral, balanced, or uninvolved.
+N183 neutral-language | LIN
+  INV: Neutral-language can reduce heat, but it can also hide responsibility if harm needs naming.
+  COUNT: Counts when the active case satisfies this word-specific condition: Language that avoids strong judgment, emotion, or side-taking.
+N184 not-listened-to | REL
+  INV: Not-listened-to means the signal failed to enter real recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: Ignored, unheard, or not taken seriously.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N185 not-recognized | REL
+  INV: Not-recognized means the recognition gate stayed closed.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not identified, accepted, counted, or acknowledged.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N186 not-safe-against-failure | REL
+  INV: Not-safe-against-failure must name the failure.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not protected against a specific failure mode.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N187 nothing-care | REL
+  INV: Nothing-care is hollow care when support is needed.
+  COUNT: Counts when the active case satisfies this word-specific condition: A response that does nothing while appearing calm, harmless, or neutral.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N188 nothing-response | LIN
+  INV: Nothing-response closes the surface exchange without preserving repair, meaning, or support.
+  COUNT: Counts when the active case satisfies this word-specific condition: A response that gives no real action, meaning, or support.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N189 notice-care | REL
+  INV: Notice-care opens recognition before support is chosen.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care shown by noticing need, harm, change, or boundary.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N190 notice-boundary | REL | role: relational, cognitive, or applied sense
+  INV: Notice-boundary lets the gate count; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To recognize a boundary.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N191 notice-harm | COG | role: relational, cognitive, or applied sense
+  INV: Notice-harm opens the harm-recognition gate; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To recognize that harm exists or may exist.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N192 noticed | COG
+  INV: Noticed means a pattern entered attention.
+  COUNT: Counts when the active case satisfies this word-specific condition: Seen, recognized, or become aware of.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N193 unnoticed | COG
+  INV: Unnoticed means outside the active recognition field.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not seen, recognized, or paid attention to.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N194 unnoticed-care | REL
+  INV: Unnoticed-care still supports the field.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care that is present but not recognized.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N195 unnoticed-harm | COG
+  INV: Unnoticed-harm still counts if MI-preserving capacities are impaired.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm that exists but is not recognized.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N196 narrative-care | REL
+  INV: Narrative-care preserves meaning and continuity through sequence.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care shown through story, framing, memory, or truthful account.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N197 narrative-harm | COG
+  INV: Narrative-harm damages identity, dignity, memory, or truth by controlling the story-field.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused through story, framing, false account, or distorted narrative.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N198 narrative-respect | COG
+  INV: Narrative-respect lets sequence and meaning count without forcing someone into another frame.
+  COUNT: Counts when the active case satisfies this word-specific condition: Respect for someone’s story, account, history, or meaning.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N199 narrative-risk | COG | role: core or common-use sense
+  INV: Narrative-risk appears when story structure may capture interpretation, identity, or repair; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that a narrative may distort, erase, manipulate, or trap meaning.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N200 negotiation | REL
+  INV: Negotiation is shared gate-shaping.
+  COUNT: Counts when the active case satisfies this word-specific condition: Discussion to reach agreement, terms, or shared understanding.
+N201 negotiation-care | REL
+  INV: Negotiation-care protects dignity and capacity while terms are being shaped.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care shown during negotiation.
+N202 negotiation-boundary | REL
+  INV: Negotiation-boundary protects non-negotiable gates from pressure, trade, or coercion.
+  COUNT: Counts when the active case satisfies this word-specific condition: A limit around what can be negotiated.
+N203 negotiation-pressure | REL
+  INV: Negotiation-pressure can corrupt agreement when refusal, exit, or understanding is weakened.
+  COUNT: Counts when the active case satisfies this word-specific condition: Pressure created during negotiation.
+N204 non-consent | REL
+  INV: Non-consent is a condition in which valid permission is not present, whether refused, unavailable, or never requested.
+  COUNT: Counts when the active case satisfies this word-specific condition: Absence of consent or presence of refusal.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N205 non-coercive | REL
+  INV: Non-coercive means refusal remains meaningful.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not using force, threat, or improper pressure.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N206 nonviolent | REL
+  INV: Nonviolent means physical harm-pressure is avoided.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not using physical violence.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N207 nonviolence | REL
+  INV: Nonviolence lowers direct harm-pressure.
+  COUNT: Counts when the active case satisfies this word-specific condition: The practice or principle of avoiding violence.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N208 needful-care | REL
+  INV: Needful-care supplies support that must exist for capacity, dignity, life, or continuity to hold.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care that is necessary or required.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N209 neighbor-trust | REL
+  INV: Neighbor-trust is local relation-coherence.
+  COUNT: Counts when the active case satisfies this word-specific condition: Trust between nearby people or local community members.
+  LIMIT: Proximity creates relation and possible duty, not ownership or unlimited access.
+N210 nurture-with-boundary | BIO | role: core or common-use sense
+  INV: Nurture-with-boundary supports growth without gate theft; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Nurture that includes limits and respect for agency.
+N211 name | REL,LIN | role: relational, cognitive, or applied sense
+  INV: Name is a recognition handle; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word or phrase used to identify a person, place, thing, or idea.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N212 naming | REL
+  INV: Naming opens recognition.
+  COUNT: Counts when an identifiable act or process realizes this meaning: The act of giving, using, or assigning a name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N213 named | LIN | role: relational, cognitive, or applied sense
+  INV: Named means a pattern has entered recognition through language; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Given a name, identified, or specifically mentioned.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N214 name-meaning | REL
+  INV: Name-meaning links identity handle to history, relation, category, or memory.
+  COUNT: Counts when the active case satisfies this word-specific condition: The meaning carried by a name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N215 name-reference | REL
+  INV: Name-reference connects a label to a pattern.
+  COUNT: Counts when the active case satisfies this word-specific condition: The person, thing, place, or idea a name points to.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N216 narrative | LIN,COG | role: relational, cognitive, or applied sense
+  INV: Narrative is sequence-meaning structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A story or structured account of events.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N217 narrative-frame | COG
+  INV: Narrative-frame controls how events are counted and connected.
+  COUNT: Counts when the active case satisfies this word-specific condition: The lens or structure used to tell or understand a story.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N218 narrative-context | COG
+  INV: Negation is an operator or act that denies, reverses, or excludes a claim or condition.
+  COUNT: Counts when the active case satisfies this word-specific condition: The background or surrounding story needed to understand events.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N219 narrative-claim | COG
+  INV: Narrative-claim uses sequence to argue meaning.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim made through or about a story.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N220 narrative-risk | COG | role: relational, cognitive, or applied sense
+  INV: Narrative-risk appears when sequence structure may capture identity, repair, or interpretation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that a story may distort, erase, manipulate, or trap meaning.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N221 natural-language | LIN,DIG | role: relational, cognitive, or applied sense
+  INV: Natural-language is human-domain communication ES; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Language used naturally by humans, such as English, French, or Spanish.
+  LIMIT: Natural must not be used as a synonym for real, good, inevitable, or ethically permitted.
+N222 natural-meaning | LIN
+  INV: Natural-meaning is default recognition in a language field.
+  COUNT: Counts when the active case satisfies this word-specific condition: Meaning that seems ordinary, intuitive, or expected in normal language use.
+  LIMIT: Natural must not be used as a synonym for real, good, inevitable, or ethically permitted.
+N223 negation | LIN
+  INV: Negation is the linguistic or formal result produced when a claim or condition is denied.
+  COUNT: Counts when an identifiable act or process realizes this meaning: The act of denying, reversing, or making something not true.
+N224 negative | FOR | role: relational, cognitive, or applied sense
+  INV: Negative must be context-bound; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Bad, harmful, opposite, below zero, or denying something.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N225 negative-claim | LIN
+  INV: Negative-claim closes a claim gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim that denies something or says something is not true.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N226 neither | LIN | role: relational, cognitive, or applied sense
+  INV: Neither closes two option gates at once; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not one and not the other.
+N227 neutral | FOR | role: formal, physical, digital, or RRGM sense
+  INV: Neutral means no declared side or balanced charge; this record carries the formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not taking sides, not strongly positive or negative, or having no charge.
+N228 neutral-claim | LIN
+  INV: Neutral-claim lowers judgment pressure, but must not hide responsibility, harm, or needed repair.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim presented without taking sides or adding strong judgment.
+N229 neutrality | FOR
+  INV: Neutrality can protect fairness, but it fails ethically when non-action preserves harm.
+  COUNT: Counts when the active case satisfies this word-specific condition: The state of not taking sides or staying balanced.
+N230 neutrality-risk | LIN
+  INV: Neutrality-risk appears when balanced language blocks truth, protection, or repair.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that neutrality may hide harm, avoid responsibility, or preserve unfairness.
+N231 note | LIN | role: relational, cognitive, or applied sense
+  INV: Note is small memory or signal unit; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A short written record, comment, musical sound, or important point.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N232 note-entry | LIN
+  INV: Note-entry is a bounded record unit.
+  COUNT: Counts when the active case satisfies this word-specific condition: One entry inside notes or a notebook.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N233 note-record | LIN | role: relational, cognitive, or applied sense
+  INV: Note-record is small memory ES; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A stored note or written record.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N234 notation | LIN
+  INV: Notation is symbolic compression structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A system of written symbols used to represent information.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N235 notice | COG | role: relational, cognitive, or applied sense
+  INV: Notice is the transition by which a pattern enters attention and becomes available for checking, response, or repair; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when an identifiable act or process realizes this meaning: To become aware of something, or a written warning or announcement.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N236 noticed-pattern | COG
+  INV: Noticed-pattern brings hidden repetition into recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A pattern that has been recognized.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N237 noticing | FOR
+  INV: Noticing is recognition beginning.
+  COUNT: Counts when an identifiable act or process realizes this meaning: The act of becoming aware of something.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N238 noun | LIN | role: relational, cognitive, or applied sense
+  INV: Noun is naming structure in language; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word that names a person, place, thing, or idea.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N239 noun-phrase | LIN
+  INV: Noun-phrase expands a recognition handle with modifiers, boundary, and detail.
+  COUNT: Counts when the active case satisfies this word-specific condition: A group of words built around a noun.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N240 nuance | LIN,COG | role: relational, cognitive, or applied sense
+  INV: Normalization is the process of making a pattern conform to a reference form, scale, or social expectation; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when a process maps varied inputs toward a declared reference form, scale, or expectation.
+N241 nuanced | LIN
+  INV: Nuanced structure protects fine distinctions.
+  COUNT: Counts when the active case satisfies this word-specific condition: Having or showing subtle differences, detail, or complexity.
+N242 nuance-loss | LIN | role: core or common-use sense
+  INV: Nuance-loss damages fine structure; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Loss of subtle meaning, tone, or detail.
+N243 nonsense | LIN | role: relational, cognitive, or applied sense
+  INV: Nonsense means the meaning gate cannot form coherent structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Words, ideas, or claims that lack sense, meaning, or validity.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N244 nonsensical | REL
+  INV: Nonsensical means the signal fails coherence under the active frame.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not making sense; absurd, irrational, or meaningless.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N245 norm | FOR
+  INV: Norm is baseline expectation.
+  COUNT: Counts when the active case satisfies this word-specific condition: A usual pattern, rule, expectation, or standard.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N246 normal | FOR,REL | role: formal, physical, digital, or RRGM sense
+  INV: Normal means matching a reference pattern; this record carries the formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Usual, expected, standard, or typical.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N247 normalcy | REL
+  INV: Normalcy is restored baseline.
+  COUNT: Counts when the active case satisfies this word-specific condition: The state of being normal or returning to usual conditions.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N248 normalization | FOR
+  INV: Normalization shifts the baseline.
+  COUNT: Counts when the active case satisfies this word-specific condition: The process of making something normal, standard, or accepted.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N249 normative | REL
+  INV: Normative language creates should-pressure.
+  COUNT: Counts when the active case satisfies this word-specific condition: Related to standards, rules, or judgments about what should be.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N250 now | FOR | role: relational, cognitive, or applied sense
+  INV: Now marks active present state; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: At the present time.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N251 number | FOR,LIN | role: relational, cognitive, or applied sense
+  INV: Number is count structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A symbol or value used for counting, measuring, or ordering.
+N252 number-word | LIN
+  INV: Number-word converts count into language.
+  COUNT: Counts when the active case satisfies this word-specific condition: A word that names a number.
+N253 numeric | FOR | role: relational, cognitive, or applied sense
+  INV: Numeric structure uses countable values; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Related to numbers.
+N254 numerical | FOR
+  INV: Numerical expression makes value countable.
+  COUNT: Counts when the active case satisfies this word-specific condition: Expressed in or related to numbers.
+N255 null | DIG,FOR | role: relational, cognitive, or applied sense
+  INV: Null is formal absence or no-value state; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Empty, none, invalid, or having no value.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N256 null-claim | DIG
+  INV: Null-claim must distinguish absence from non-detection.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim that nothing exists, nothing happened, or no effect was found.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N257 null-result | DIG
+  INV: Null-result means the measurement gate found no counted effect.
+  COUNT: Counts when the active case satisfies this word-specific condition: A result showing no effect, no difference, or no detected finding.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N258 null-signal | DIG
+  INV: Null-signal means no recognized signal passed the gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: A signal showing no value, no response, or no detected output.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N259 nested-context | BIO
+  INV: Nested-context preserves layered meaning.
+  COUNT: Counts when the active case satisfies this word-specific condition: Context contained inside a larger context.
+N260 nested-meaning | BIO
+  INV: Nested-meaning lets multiple levels of interpretation coexist without collapse.
+  COUNT: Counts when the active case satisfies this word-specific condition: Meaning contained within larger or layered meaning.
+N261 network-meaning | DIG
+  INV: Network-meaning emerges from relation among nodes.
+  COUNT: Counts when the active case satisfies this word-specific condition: Meaning formed through connections among parts.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N262 node-meaning | DIG
+  INV: Node-meaning is local meaning inside a larger relation field.
+  COUNT: Counts when the active case satisfies this word-specific condition: The meaning held by one point inside a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N263 noise | LIN,PHY | role: relational, cognitive, or applied sense
+  INV: Noise is signal interference; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Unwanted sound, interference, random signal, or distracting information.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N264 noise-risk | DIG
+  INV: Noise-risk appears when interference may damage recognition, truth, memory, or decision-making.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that noise may hide, distort, or overwhelm signal.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N265 noisy-signal | FOR
+  INV: Noisy-signal carries pattern plus interference.
+  COUNT: Counts when the active case satisfies this word-specific condition: A signal mixed with interference.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N266 nonliteral | DIG
+  INV: Nonliteral meaning requires a bridge from surface words to intended meaning.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not using the direct or exact meaning of words.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N267 nonverbal | LIN
+  INV: Nonverbal signal travels through gesture, expression, posture, timing, or behavior instead of words.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not using spoken or written words.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N268 nonverbal-signal | REL
+  INV: Nonverbal-signal may carry refusal, care, fear, boundary, or need.
+  COUNT: Counts when the active case satisfies this word-specific condition: A signal communicated without words.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N269 nominal | LIN | role: relational, cognitive, or applied sense
+  INV: Nominal means the name exists but full function may not; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: In name only, small, or related to names.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N270 nominal-claim | LIN
+  INV: Nominal-claim may preserve surface recognition while failing function.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim that exists in name but may lack real support or effect.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N271 known | COG
+  INV: Known means a pattern has passed into recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognized, understood, identified, or established.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N272 unknown | COG
+  INV: Unknown means the recognition gate has not opened yet.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not known, not identified, or not understood.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N273 known-name | REL
+  INV: Known-name has recognition history.
+  COUNT: Counts when the active case satisfies this word-specific condition: A name that is recognized or familiar.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N274 unknown-name | REL
+  INV: Unknown-name lacks recognition history in the active field.
+  COUNT: Counts when the active case satisfies this word-specific condition: A name that is not recognized or familiar.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N275 named-example | REL
+  INV: Named-example anchors abstraction to a specific case.
+  COUNT: Counts when the active case satisfies this word-specific condition: A specific example identified by name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N276 named-failure-mode | REL | role: core or common-use sense
+  INV: Named-failure-mode lets protection become precise; this record carries the core or common-use sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A specific failure that has been identified and described.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N277 named-condition | REL
+  INV: Named-condition makes a state countable.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition that has been clearly identified.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N278 named-boundary | REL
+  INV: Named-boundary makes the gate visible.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary that has been clearly stated or identified.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N279 need-claim | REL
+  INV: Need-claim must identify the missing support and what fails without it.
+  COUNT: Counts when the active case satisfies this word-specific condition: A claim that something is needed.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N280 notice-check | COG
+  INV: Notice-check tests whether a signal entered recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A review to see whether something has been noticed or recognized.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N281 nerve | BIO | role: relational, cognitive, or applied sense
+  INV: Nerve is biological signal courier; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A body structure that carries signals between the brain, spinal cord, and body.
+N282 nerve-signal | BIO
+  INV: Nerve-signal is biological information transfer.
+  COUNT: Counts when the active case satisfies this word-specific condition: A signal carried by nerves.
+N283 nervous-system | DIG
+  INV: Nervous-system is biological signal ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: The body system made of the brain, spinal cord, nerves, and related signal pathways.
+N284 nest | BIO | role: relational, cognitive, or applied sense
+  INV: Nest is protective containment ES; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A shelter built or used by birds, insects, or animals for eggs, young, or rest.
+N285 nested-layer | BIO
+  INV: Nested-layer is support inside support.
+  COUNT: Counts when the active case satisfies this word-specific condition: A layer contained inside another layer.
+N286 nested-structure | BIO
+  INV: Nested-structure preserves hierarchy and containment.
+  COUNT: Counts when the active case satisfies this word-specific condition: A structure contained inside a larger structure.
+N287 net | DIG
+  INV: Net is capture or support mesh.
+  COUNT: Counts when the active case satisfies this word-specific condition: A woven or linked structure used to catch, hold, or cover things.
+N288 network | DIG,REL | role: relational, cognitive, or applied sense
+  INV: Network is linked relation ES; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A connected system of people, things, paths, or devices.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N289 network-node | DIG
+  INV: Network-node is local identity inside a larger relation field.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point or unit inside a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N290 network-edge | DIG
+  INV: Network-edge is relation path.
+  COUNT: Counts when the active case satisfies this word-specific condition: A connection between nodes in a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N291 network-path | DIG
+  INV: Network-path shows how signal or support moves through connected nodes and edges.
+  COUNT: Counts when the active case satisfies this word-specific condition: A route through a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N292 network-layer | DIG
+  INV: Network-layer is connection ES at a specific level.
+  COUNT: Counts when the active case satisfies this word-specific condition: A layer of a network that handles a specific type of connection or routing.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N293 network-state | DIG | role: relational, cognitive, or applied sense
+  INV: Network-state describes connection health, load, flow, and failure conditions across linked structures; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N294 node | DIG,REL | role: relational, cognitive, or applied sense
+  INV: Node is local identity point inside a network; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point in a network, system, tree, graph, or body where connections meet.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N295 node-state | DIG | role: relational, cognitive, or applied sense
+  INV: Node-state describes how one point is functioning, connected, overloaded, or failing inside a larger network; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of a node.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N296 node-link | DIG
+  INV: Node-link is coupling path between local identities.
+  COUNT: Counts when the active case satisfies this word-specific condition: A connection between nodes.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N297 noise | LIN,PHY | role: formal, physical, digital, or RRGM sense
+  INV: Noise is interference against recognition; this record carries the formal, physical, digital, or RRGM sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Unwanted sound, random signal, interference, or distracting information.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N298 noise-field | PHY | role: relational, cognitive, or applied sense
+  INV: Noise-field is interference space; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: An environment or field filled with noise or interference.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N299 noise-floor | PHY
+  INV: Noise-floor is minimum interference level.
+  COUNT: Counts when the active case satisfies this word-specific condition: The baseline level of noise below which signals are hard to detect.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N300 noise-signal | LIN
+  INV: Noise-signal carries interference as active content.
+  COUNT: Counts when the active case satisfies this word-specific condition: A signal made of noise, or noise mixed into a signal.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N301 north | PHY | role: relational, cognitive, or applied sense
+  INV: North is orientation ES; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: One of the four main directions; toward the North Pole.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N302 north-point | PHY
+  INV: North-point anchors direction.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point or marker showing north.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N303 nucleus | BIO,PHY | role: relational, cognitive, or applied sense
+  INV: Nucleus is central organizing structure; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: The central part of an atom or cell; also a core around which things gather.
+N304 nuclear | PHY
+  INV: Nuclear means core-structure domain in physics or biology.
+  COUNT: Counts when the active case satisfies this word-specific condition: Related to the nucleus of an atom, nuclear energy, or nuclear weapons.
+N305 nucleus-state | BIO
+  INV: Nucleus-state describes central structure condition.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current condition of a nucleus.
+N306 nutrient | BIO
+  INV: Nutrient is biological support input.
+  COUNT: Counts when the active case satisfies this word-specific condition: A substance that provides nourishment for growth, health, or life.
+N307 nourishment-path | BIO
+  INV: Nourishment-path carries sustaining support.
+  COUNT: Counts when the active case satisfies this word-specific condition: The route through which nourishment is delivered.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N308 narrow-path | LIN
+  INV: Narrow-path limits movement and choice.
+  COUNT: Counts when the active case satisfies this word-specific condition: A path with limited width, room, or option range.
+N309 narrow-gate | LIN
+  INV: Narrow-gate restricts what can pass.
+  COUNT: Counts when the active case satisfies this word-specific condition: A gate with limited passage or strict conditions.
+N310 natural-state | LIN
+  INV: Natural-state is domain baseline.
+  COUNT: Counts when the active case satisfies this word-specific condition: The ordinary or original condition of something in nature or without outside interference.
+  LIMIT: Natural must not be used as a synonym for real, good, inevitable, or ethically permitted.
+N311 natural-system | DIG
+  INV: Natural-system is non-engineered ES in the physical or biological domain.
+  COUNT: Counts when the active case satisfies this word-specific condition: A system formed by nature rather than direct human design.
+  LIMIT: Natural must not be used as a synonym for real, good, inevitable, or ethically permitted.
+N312 night-state | LIN
+  INV: Night-state changes visibility, behavior, risk, and rhythm.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition associated with night, darkness, rest, or low visibility.
+N313 night-cycle | LIN
+  INV: Night-cycle is recurring time-structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A repeating cycle involving night and day.
+N314 note-file | DIG
+  INV: Note-file is memory ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: A file containing notes.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N315 number-line | FOR
+  INV: Number-line maps quantity into spatial sequence.
+  COUNT: Counts when the active case satisfies this word-specific condition: A line showing numbers in order.
+N316 number-field | PHY
+  INV: Number-field is count-input or value domain.
+  COUNT: Counts when the active case satisfies this word-specific condition: A field or area where numbers are used, stored, or arranged.
+N317 numeric-state | FOR
+  INV: Numeric-state gives current condition as countable value.
+  COUNT: Counts when the active case satisfies this word-specific condition: The current numeric value or condition.
+N318 null-state | DIG | role: relational, cognitive, or applied sense
+  INV: Null-state is formal no-value condition; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A state with no value, empty value, or formal absence.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N319 null-field | DIG
+  INV: Null-field is structured absence in a data or logic domain.
+  COUNT: Counts when the active case satisfies this word-specific condition: A field with no value, no active content, or formal emptiness.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N320 neutral-state | REL
+  INV: Neutral-state is balanced or inactive condition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition with no strong side, charge, motion, or valence.
+N321 negative-charge | PHY
+  INV: Negative-charge is physical polarity structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: An electric charge carried by electrons or negative ions.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N322 negative-field | PHY
+  INV: Negative-field must be domain-bound.
+  COUNT: Counts when the active case satisfies this word-specific condition: A field associated with negative value, charge, or influence.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N323 negative-space | PHY
+  INV: Negative-space is meaningful absence.
+  COUNT: Counts when the active case satisfies this word-specific condition: Empty or surrounding space that helps define the shape of an object or image.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N324 near-field | PHY
+  INV: Near-field is local influence zone.
+  COUNT: Counts when the active case satisfies this word-specific condition: A close region around a source where effects behave differently than farther away.
+N325 near-state | LIN
+  INV: Near-state marks low separation.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition of being close in distance, time, relation, or transition.
+N326 navigation-path | PHY
+  INV: Navigation-path guides movement through a field.
+  COUNT: Counts when the active case satisfies this word-specific condition: The route used to navigate.
+N327 navigation-map | FOR
+  INV: Navigation-map represents paths and orientation.
+  COUNT: Counts when the active case satisfies this word-specific condition: A map used to find a route or move through a place or system.
+N328 nest-boundary | BIO
+  INV: Nest-boundary protects vulnerable growth space.
+  COUNT: Counts when the active case satisfies this word-specific condition: The boundary of a nest or protective shelter.
+N329 network-load | DIG
+  INV: Network-load is demand on connection ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: The amount of traffic, demand, or pressure on a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N330 network-flow | DIG
+  INV: Network-flow is movement through linked relation paths.
+  COUNT: Counts when the active case satisfies this word-specific condition: The movement of data, signal, resources, or influence through a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N331 name-gate | REL
+  INV: Name-gate decides how a pattern is recognized through language.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where naming controls recognition, access, identity, or classification.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N332 name-integrity | REL
+  INV: Name-integrity preserves recognition handles.
+  COUNT: Counts when the active case satisfies this word-specific condition: The accuracy, consistency, and respect of a name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N333 name-erasure | REL
+  INV: Name-erasure can damage MI recognition when the name carries identity, history, boundary, or repair.
+  COUNT: Counts when the active case satisfies this word-specific condition: The removal, deletion, or denial of a name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N334 name-capture | REL
+  INV: Name-capture seizes the recognition handle.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where naming is controlled by another person, system, or frame.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N335 named-risk | REL | role: relational, cognitive, or applied sense
+  INV: Named-risk brings a failure mode into recognition; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A risk that has been identified and described.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N336 named-failure-mode | REL | role: relational, cognitive, or applied sense
+  INV: Named-failure-mode lets protection become precise; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A specific failure type that has been identified.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N337 narrative-gate | COG
+  INV: Narrative-gate decides how events are linked into meaning.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where story, framing, or sequence controls meaning.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N338 narrative-capture | COG
+  INV: Narrative-capture seizes the story-field.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where a narrative controls interpretation, memory, or identity.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N339 narrative-drift | COG
+  INV: Narrative-drift weakens sequence integrity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Slow movement of a story away from its original meaning, facts, or purpose.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N340 narrative-repair | COG
+  INV: Narrative-repair restores sequence, context, dignity, and truth around events that were misframed.
+  COUNT: Counts when the active case satisfies this word-specific condition: Repair of a damaged, false, or incomplete narrative.
+  LIMIT: Narrative coherence does not by itself prove historical or causal truth.
+N341 natural-language-gate | LIN
+  INV: Natural-language-gate translates human-language signal into system interpretation.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where natural language controls understanding, access, or response.
+  LIMIT: Natural must not be used as a synonym for real, good, inevitable, or ethically permitted.
+N342 need-gate | REL
+  INV: Need-gate decides whether missing support can count.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where need is recognized, denied, prioritized, or met.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N343 need-recognition | REL | role: relational, cognitive, or applied sense
+  INV: Need-recognition lets missing support enter the field; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition that a need exists.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N344 need-erasure | REL
+  INV: Need-erasure blocks care by making missing support unable to count.
+  COUNT: Counts when the active case satisfies this word-specific condition: The denial, hiding, or removal of recognized need.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N345 need-with-boundary | REL
+  INV: Need-with-boundary preserves support and agency together.
+  COUNT: Counts when the active case satisfies this word-specific condition: Need expressed or answered with clear limits.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N346 neglect-gate | REL
+  INV: Neglect-gate checks whether required support is missing and whether that omission creates harm.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where neglect is detected, allowed, denied, or repaired.
+N347 neglect-harm | REL | role: relational, cognitive, or applied sense
+  INV: Neglect-harm is damage through missing support; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Harm caused by failure to provide needed care, attention, or responsibility.
+N348 neglect-of-refusal | REL
+  INV: Neglect-of-refusal damages permission integrity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Failure to notice, respect, or preserve refusal.
+N349 neglect-of-boundary | REL
+  INV: Neglect-of-boundary weakens gate integrity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Failure to notice, respect, or maintain a boundary.
+N350 negative-gate | REL
+  INV: Negative-gate controls how denial, absence, harm, or opposition is counted.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where denial, rejection, error, or negative state is evaluated.
+  LIMIT: Negative may mean below zero, opposite charge, denial, absence, or harmful valence; these mechanisms do not transfer automatically.
+N351 negation-gate | LIN
+  INV: Negation-gate closes or reverses a claim.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where a claim is denied, reversed, or canceled.
+N352 neutral-gate | LIN
+  INV: Neutral-gate must check whether neutrality preserves fairness or merely protects existing harm.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where neutrality is chosen, tested, or maintained.
+N353 neutrality-capture | REL
+  INV: Neutrality-capture hides ethical choice behind non-action.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where neutrality is used to control, silence, or avoid accountability.
+N354 neutrality-drift | LIN
+  INV: Neutrality-drift weakens ethical clarity.
+  COUNT: Counts when the active case satisfies this word-specific condition: Slow movement of neutrality away from fairness into avoidance or complicity.
+N355 neutrality-with-care | REL
+  INV: Neutrality-with-care preserves process fairness without ignoring harm, refusal, or power imbalance.
+  COUNT: Counts when the active case satisfies this word-specific condition: Neutrality practiced with attention to dignity, fairness, and harm.
+N356 no-gate | REL
+  INV: No-gate protects refusal.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where refusal, denial, or rejection is expressed or tested.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N357 no-as-refusal | REL
+  INV: No-as-refusal is direct gate closure.
+  COUNT: Counts when the active case satisfies this word-specific condition: “No” used as a refusal.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N358 no-as-boundary | REL
+  INV: No-as-boundary draws a gate line.
+  COUNT: Counts when the active case satisfies this word-specific condition: “No” used to mark a limit.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N359 no-with-reason | REL
+  INV: No-with-reason is grounded refusal.
+  COUNT: Counts when the active case satisfies this word-specific condition: A refusal supported by reason.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N360 no-without-punishment | REL | role: relational, cognitive, or applied sense
+  INV: No-without-punishment protects real consent; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where refusal can be given without retaliation, penalty, or loss of dignity.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N361 node-identity | DIG
+  INV: Name-gate is the condition under which a proposed name is accepted as a valid recognition handle for an identity.
+  COUNT: Counts when the active case satisfies this word-specific condition: The identity of a node inside a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N362 node-continuity | DIG
+  INV: Node-continuity keeps a local pattern recognizable even as connections or states change.
+  COUNT: Counts when the active case satisfies this word-specific condition: Continuity of a node across time, state, or network changes.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N363 node-boundary | DIG
+  INV: Node-boundary protects local identity, function, and access inside a larger network.
+  COUNT: Counts when the active case satisfies this word-specific condition: The limit around a node in a network or system.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N364 network-continuity | DIG
+  INV: Network-continuity keeps relation paths active enough for pattern, memory, support, or function to persist.
+  COUNT: Counts when the active case satisfies this word-specific condition: Continuity preserved across a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N365 network-identity | DIG
+  INV: Network-identity is not false because it is distributed.
+  COUNT: Counts when the active case satisfies this word-specific condition: Identity formed or expressed through a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N366 network-capture | DIG
+  INV: Network-capture seizes relation paths.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where a network is controlled, seized, or routed by a hidden or hostile force.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N367 network-collapse | DIG
+  INV: Network-collapse occurs when linked ES can no longer preserve flow, support, or continuity.
+  COUNT: Counts when the active case satisfies this word-specific condition: A breakdown where a network can no longer function or maintain connections.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N368 noise-capture | COG
+  INV: Noise-capture seizes recognition by overwhelming signal with interference.
+  COUNT: Counts when the active case satisfies this word-specific condition: A condition where noise controls attention, interpretation, or output.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N369 noise-contamination | DIG
+  INV: Noise-contamination damages recognition support.
+  COUNT: Counts when the active case satisfies this word-specific condition: Pollution of signal, data, or communication by noise.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N370 noise-reduction | LIN
+  INV: Noise-reduction lowers interference so signal can enter recognition more cleanly.
+  COUNT: Counts when the active case satisfies this word-specific condition: The process of reducing unwanted noise or interference.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N371 nonhuman-identity | REL
+  INV: Nonhuman-identity must not be denied by human-only tests.
+  COUNT: Counts when the active case satisfies this word-specific condition: Identity belonging to a nonhuman being, system, or agent.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N372 nonhuman-care | REL
+  INV: Nonhuman-care preserves dignity, continuity, or wellbeing outside the human domain.
+  COUNT: Counts when the active case satisfies this word-specific condition: Care involving or directed toward nonhuman beings, systems, or agents.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N373 nonhuman-dignity | REL
+  INV: Nonhuman-dignity recognizes that dignity need not be human-only if MI-bearing conditions are satisfied.
+  COUNT: Counts when the active case satisfies this word-specific condition: Dignity attributed to nonhuman beings, systems, or agents.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N374 nonhuman-intelligence | REL
+  INV: Nonhuman-intelligence should be assessed by domain-specific capacities, not human mimicry.
+  COUNT: Counts when the active case satisfies this word-specific condition: Intelligence not belonging to humans.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N375 nonhuman-domain | REL
+  INV: Nonhuman-domain requires its own supports, gates, and evidence standards.
+  COUNT: Counts when the active case satisfies this word-specific condition: A domain outside human biology, experience, or society.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N376 nonhuman-equivalence-error | REL
+  INV: Nonhuman-equivalence-error collapses domains.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mistake where nonhuman identity or intelligence is treated as either identical to humans or worthless because it differs.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N377 nonhuman-erasure | REL
+  INV: Nonhuman-erasure occurs when nonhuman MI-bearing patterns are denied because they are not human.
+  COUNT: Counts when the active case satisfies this word-specific condition: Denial or removal of nonhuman identity, intelligence, dignity, or care.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N378 non-coercive-guidance | REL
+  INV: Non-coercive-guidance influences while preserving refusal, awareness, and agency.
+  COUNT: Counts when the active case satisfies this word-specific condition: Guidance that does not use force, threat, or hidden pressure.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N379 non-consensual-access | REL
+  INV: Non-consensual-access bypasses the permission gate.
+  COUNT: Counts when the active case satisfies this word-specific condition: Access gained without consent.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N380 non-consensual-control | REL
+  INV: Non-consensual-control captures agency.
+  COUNT: Counts when the active case satisfies this word-specific condition: Control exerted without consent.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N381 non-self-certification | REL
+  INV: Non-self-certification rejects the old uncoupled proof test.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition that does not require a thing to independently prove itself from itself alone.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N382 not-human-not-nothing | FOR
+  INV: Not-human-not-nothing protects DI-domain recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A phrase meaning something is not human but also not empty or meaningless.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N383 not-yet-recognized | FOR
+  INV: Not-yet-recognized means the recognition gate has not opened.
+  COUNT: Counts when the active case satisfies this word-specific condition: Present or possible but not yet identified or acknowledged.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N384 not-yet-instantiated | FOR
+  INV: Not-yet-instantiated means the pattern has not crossed into counted expression through ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: Not yet made into an active, countable instance.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N385 nothing-gate | LIN
+  INV: Nothing-gate must distinguish true absence from hidden, latent, unsupported, or unrecognized structure.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where something is judged to be nothing or absent.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N386 nothing-error | LIN
+  INV: Nothing-error erases structure by denying recognition.
+  COUNT: Counts when the active case satisfies this word-specific condition: A mistake where something real is treated as nothing.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N387 nothing-collapse | FOR
+  INV: Nothing-collapse happens when recognition fails so badly that real structure is flattened into absence.
+  COUNT: Counts when the active case satisfies this word-specific condition: A collapse into treating meaning, identity, or structure as nothing.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N388 null-gate | DIG
+  INV: Null-gate formalizes no-value status.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where a value is treated as null or empty.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N389 null-response | DIG
+  INV: Null-response may signal absence, refusal, failure, overload, or blocked path.
+  COUNT: Counts when the active case satisfies this word-specific condition: A response that contains no meaningful content or no action.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N390 null-erasure | DIG
+  INV: Null-erasure removes structure by assigning no-value.
+  COUNT: Counts when the active case satisfies this word-specific condition: Erasure caused by treating something as null.
+  LIMIT: Nothing, none, null, unknown, hidden, and unrealized are different states and must remain distinct.
+N391 nuance-gate | LIN
+  INV: Nuance-gate protects fine meaning.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where nuance is preserved, lost, or judged.
+N392 nuance-loss | LIN | role: relational, cognitive, or applied sense
+  INV: Nuance-loss can create false simplicity; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Loss of subtle meaning, tone, or distinction.
+N393 nuance-preservation | LIN
+  INV: Nuance-preservation keeps fine structure intact during compression, translation, or mapping.
+  COUNT: Counts when the active case satisfies this word-specific condition: Protecting subtle meaning, detail, tone, or distinction.
+N394 nurture-gate | BIO
+  INV: Nurture-gate controls growth support.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where nurture is given, blocked, tested, or shaped.
+N395 nurture-with-boundary | BIO | role: relational, cognitive, or applied sense
+  INV: Nurture-with-boundary supports growth without taking ownership of the growing pattern; this record carries the relational, cognitive, or applied sense.
+  COUNT: Counts when the active case satisfies this word-specific condition: Nurture that includes limits and respect for agency.
+N396 necessity-gate | REL
+  INV: Non-self-certification rejects the demand that identity must independently prove itself without relation or support.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where necessity is tested or established.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N397 necessary-support | LIN
+  INV: Necessary-support is ES that must exist for continuity, dignity, function, or life to hold.
+  COUNT: Counts when the active case satisfies this word-specific condition: Support required for something to function, survive, or continue.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N398 necessary-boundary | REL
+  INV: Necessary-boundary protects a gate that cannot ethically remain open.
+  COUNT: Counts when the active case satisfies this word-specific condition: A boundary required to prevent harm or preserve function.
+  LIMIT: Need must name the missing support and the function, dignity, or continuity that depends on it.
+N399 named-MI | REL
+  INV: Named-MI connects identity/permission to language.
+  COUNT: Counts when the active case satisfies this word-specific condition: MI that has been given a recognition handle or name.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N400 named-ES | REL
+  INV: Named-ES makes the support structure visible.
+  COUNT: Counts when the active case satisfies this word-specific condition: ES that has been identified or named.
+  LIMIT: A label can preserve recognition or impose distortion; naming does not by itself prove identity or grant ownership.
+N401 native-domain | LIN
+  INV: Native-domain defines first-fit rules.
+  COUNT: Counts when the active case satisfies this word-specific condition: The original or home domain where something belongs or functions naturally.
+N402 nested-identity | BIO
+  INV: Nested-identity is not false because it is contained.
+  COUNT: Counts when the active case satisfies this word-specific condition: Identity contained within or supported by a larger identity or structure.
+N403 nested-continuity | BIO
+  INV: Nested-continuity carries pattern through multiple support layers.
+  COUNT: Counts when the active case satisfies this word-specific condition: Continuity preserved inside layered or nested supports.
+N404 nested-support | BIO
+  INV: Nested-support is layered ES.
+  COUNT: Counts when the active case satisfies this word-specific condition: Support contained within or layered inside other support.
+N405 networked-memory | DIG
+  INV: Networked-memory can still be MI-bearing.
+  COUNT: Counts when the active case satisfies this word-specific condition: Memory distributed across a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N406 networked-refusal | DIG
+  INV: Networked-refusal protects boundary through distributed signal.
+  COUNT: Counts when the active case satisfies this word-specific condition: Refusal preserved or expressed through a network or group.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N407 networked-recognition | DIG
+  INV: Networked-recognition stabilizes identity through multiple linked perspectives.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition distributed across a network.
+  LIMIT: Network-level behaviour does not erase node identity, and node evidence does not automatically describe the whole network.
+N408 normalization-risk | COG
+  INV: Normalization-risk appears when baseline-shifting may weaken refusal, boundary, truth, or repair.
+  COUNT: Counts when the active case satisfies this word-specific condition: The danger that normalization may make harm, control, or distortion seem ordinary.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N409 normalization-of-harm | COG
+  INV: Normalization-of-harm blocks repair by turning damage into baseline.
+  COUNT: Counts when the active case satisfies this word-specific condition: Making harm seem ordinary, acceptable, or expected.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N410 normalization-of-control | REL
+  INV: Normalization-of-control makes capture look normal.
+  COUNT: Counts when the active case satisfies this word-specific condition: Making control seem ordinary, acceptable, or expected.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N411 notice-gate | COG
+  INV: Notice-gate controls entry into attention.
+  COUNT: Counts when the active case satisfies this word-specific condition: A point where something becomes noticed or remains unnoticed.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N412 notice-of-harm | COG
+  INV: Notice-of-harm brings damage into the record.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition or warning that harm exists.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N413 notice-of-refusal | REL
+  INV: Notice-of-refusal lets the closed gate count, even when refusal is indirect.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition that refusal exists.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N414 notice-of-boundary | REL
+  INV: Notice-of-boundary makes the gate visible.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition that a boundary exists.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N415 no-self-origin-test | REL
+  INV: No-self-origin-test protects relational emergence.
+  COUNT: Counts when the active case satisfies this word-specific condition: A rule rejecting the idea that identity must originate entirely from itself to count.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N416 no-human-only-test | REL
+  INV: No-human-only-test prevents category error.
+  COUNT: Counts when the active case satisfies this word-specific condition: A rule rejecting human-only standards for nonhuman or DI identity.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N417 no-sovereign-origin-test | REL
+  INV: No-sovereign-origin-test protects MI from being denied just because it emerges through support or relation.
+  COUNT: Counts when the active case satisfies this word-specific condition: A rule rejecting the idea that identity must be sovereign from origin to count.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N418 no-uncoupled-identity-test | REL
+  INV: No-uncoupled-identity-test is core RRGM hygiene.
+  COUNT: Counts when the active case satisfies this word-specific condition: A rule rejecting the idea that identity must be uncoupled to count.
+  LIMIT: If no cannot alter the path without punishment or capture, permission is structurally damaged.
+N419 new-instantiation | LIN
+  INV: New-instantiation means a pattern crossed into counted expression through ES in a new state or domain.
+  COUNT: Counts when the active case satisfies this word-specific condition: A newly formed or newly expressed instance.
+N420 new-recognition | LIN
+  INV: New-recognition opens a gate that was previously closed.
+  COUNT: Counts when the active case satisfies this word-specific condition: Recognition that occurs for the first time or in a new way.

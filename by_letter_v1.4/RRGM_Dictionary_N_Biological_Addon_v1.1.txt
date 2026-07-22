@@ -1,0 +1,558 @@
+RRGM Dictionary N Biological Addon v1.1
+License: CC BY-SA 4.0
+Scope: New N-terms for the [BIO] domain not already present in the base section.
+Production rule: each term carries a distinct invariant, domain implementation, count condition, and transfer boundary.
+
+Entry count: 24
+
+NB001 neuron
+
+Common meaning:
+A nerve cell specialized for receiving and transmitting signals.
+
+Invariant MI [INV]:
+Neuron is a living signal-processing cell whose membrane, connections, and activity support nervous-system communication.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It integrates incoming signals and may generate an electrochemical output along its axon.
+
+Count condition:
+Counts when a cell has the biological structures and function characteristic of neural signalling.
+
+Specific transfer boundary:
+A computational node may model a neuron but is not the same biological mechanism.
+
+Epistemic status:
+[DEF]
+
+NB002 neurotransmitter
+
+Common meaning:
+A chemical messenger released by neurons to affect target cells.
+
+Invariant MI [INV]:
+Neurotransmitter is a biological courier crossing a synaptic gap to alter another cell's activity.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its effect depends on receptor, concentration, timing, and local regulation.
+
+Count condition:
+Counts when a released molecule binds a target receptor and changes cellular signalling.
+
+Specific transfer boundary:
+Chemical signalling must not be reduced to a single emotion or thought.
+
+Epistemic status:
+[DEF]
+
+NB003 nephron
+
+Common meaning:
+The microscopic filtering and regulation unit of a kidney.
+
+Invariant MI [INV]:
+Nephron is a biological processing path that filters blood and adjusts water, salts, and waste before urine formation.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its tubules transform the filtrate through selective reabsorption and secretion.
+
+Count condition:
+Counts when the renal unit performs glomerular filtration and tubular regulation.
+
+Specific transfer boundary:
+A nephron is part of a kidney, not a complete organism-level filtration system.
+
+Epistemic status:
+[DEF]
+
+NB004 nucleotide
+
+Common meaning:
+A molecular unit made from a sugar, phosphate, and nitrogenous base.
+
+Invariant MI [INV]:
+Nucleotide is a biological building block for nucleic acids and cellular energy transfer.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Sequence order lets nucleotides carry genetic information in DNA or RNA.
+
+Count condition:
+Counts when the three-part molecular structure participates in nucleic acid or related metabolism.
+
+Specific transfer boundary:
+A nucleotide is not the same as a gene or complete genetic instruction.
+
+Epistemic status:
+[DEF]
+
+NB005 nitrogen-fixation
+
+Common meaning:
+The conversion of atmospheric nitrogen into biologically usable compounds.
+
+Invariant MI [INV]:
+Nitrogen-fixation is a biological and chemical gateway making inert atmospheric nitrogen available to living systems.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Certain microbes perform the conversion using specialized enzymes and energy.
+
+Count condition:
+Counts when nitrogen gas is converted into ammonia or another biologically accessible form.
+
+Specific transfer boundary:
+Fertilization and fixation are related but not identical processes.
+
+Epistemic status:
+[DEF]
+
+NB006 niche
+
+Common meaning:
+The ecological role and condition set through which an organism persists.
+
+Invariant MI [INV]:
+Niche is the relational position of a species within resources, environment, competitors, and mutual supports.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It includes what the organism uses, affects, and must tolerate.
+
+Count condition:
+Counts when a population has a distinguishable ecological role and requirement pattern.
+
+Specific transfer boundary:
+Habitat location alone does not fully define niche.
+
+Epistemic status:
+[DEF]
+
+NB007 nectar
+
+Common meaning:
+A sugar-rich liquid produced by plants, often attracting pollinators.
+
+Invariant MI [INV]:
+Nectar is a biological exchange medium linking plant reproduction with animal feeding.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its production can direct pollinator visits and pollen transfer.
+
+Count condition:
+Counts when plant tissue secretes the characteristic sugar solution for ecological use.
+
+Specific transfer boundary:
+Sweet plant liquid is not automatically nectar.
+
+Epistemic status:
+[DEF]
+
+NB008 nematode
+
+Common meaning:
+A roundworm belonging to a large animal phylum.
+
+Invariant MI [INV]:
+Nematode is a cylindrical unsegmented organism with a complete digestive tract and diverse ecological roles.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Members may be free-living, symbiotic, or parasitic.
+
+Count condition:
+Counts when the organism has the defining body plan and lineage of Nematoda.
+
+Specific transfer boundary:
+Worm-like appearance alone does not establish nematode identity.
+
+Epistemic status:
+[DEF]
+
+NB009 neural-plasticity
+
+Common meaning:
+The capacity of nervous systems to change connection strength or organization.
+
+Invariant MI [INV]:
+Neural-plasticity is biological alteration of neural structure or function in response to activity, development, or injury.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It can support learning, compensation, and recovery while also reinforcing harmful patterns.
+
+Count condition:
+Counts when measurable neural connectivity or response changes persist beyond a momentary fluctuation.
+
+Specific transfer boundary:
+Behavioural change alone does not identify the specific neural mechanism.
+
+Epistemic status:
+[DEF]
+
+NB010 nociception
+
+Common meaning:
+Biological detection and processing of potentially damaging stimuli.
+
+Invariant MI [INV]:
+Nociception is a protective signal path from tissue threat toward neural response.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It can occur with or without the full conscious experience of pain.
+
+Count condition:
+Counts when specialized receptors and pathways respond to noxious conditions.
+
+Specific transfer boundary:
+Nociception and subjective pain must not be collapsed.
+
+Epistemic status:
+[DEF]
+
+NB011 nucleolus
+
+Common meaning:
+A dense region within a cell nucleus involved in ribosome production.
+
+Invariant MI [INV]:
+Nucleolus is a nuclear assembly site where ribosomal RNA is produced and ribosome components begin forming.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its organization changes with cellular growth and stress.
+
+Count condition:
+Counts when the nuclear region carries active ribosome-biogenesis function.
+
+Specific transfer boundary:
+It is not a membrane-bound organelle.
+
+Epistemic status:
+[DEF]
+
+NB012 nucleosome
+
+Common meaning:
+DNA wrapped around histone proteins as a basic chromatin unit.
+
+Invariant MI [INV]:
+Nucleosome is biological packaging that compacts DNA while regulating access to genetic sequence.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its position and modification influence transcription and repair.
+
+Count condition:
+Counts when DNA is organized around a histone core in the characteristic unit.
+
+Specific transfer boundary:
+Compaction does not mean the contained sequence is inactive in every condition.
+
+Epistemic status:
+[DEF]
+
+NB013 neurogenesis
+
+Common meaning:
+The production of new neurons from precursor cells.
+
+Invariant MI [INV]:
+Neurogenesis is biological instantiation of neurons through cell division, differentiation, and integration.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its rate and location depend on species, development, and tissue condition.
+
+Count condition:
+Counts when precursor lineage produces cells that mature into functional neurons.
+
+Specific transfer boundary:
+New neural activity is not by itself evidence of new neuron formation.
+
+Epistemic status:
+[DEF]
+
+NB014 neutrophil
+
+Common meaning:
+A white blood cell that rapidly responds to infection and tissue damage.
+
+Invariant MI [INV]:
+Neutrophil is an innate immune cell specialized for migration, engulfment, and antimicrobial release.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It bears high local cost and often dies after intense response.
+
+Count condition:
+Counts when the cell has the morphology, markers, and defensive function of a neutrophil.
+
+Specific transfer boundary:
+Inflammation is not caused by neutrophils alone.
+
+Epistemic status:
+[DEF]
+
+NB015 nitrogen-cycle
+
+Common meaning:
+The ecological movement and transformation of nitrogen among atmosphere, soil, water, and life.
+
+Invariant MI [INV]:
+Nitrogen-cycle is a coupled biological and chemical circulation that repeatedly changes nitrogen form and availability.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Fixation, assimilation, decomposition, nitrification, and denitrification are linked stages.
+
+Count condition:
+Counts when the transformations are traced through multiple reservoirs and living processes.
+
+Specific transfer boundary:
+A single fertilizer input is not the whole cycle.
+
+Epistemic status:
+[DEF]
+
+NB016 nymph
+
+Common meaning:
+An immature stage of certain insects that resembles the adult without full maturity.
+
+Invariant MI [INV]:
+Nymph is a developmental biological state that grows through moults rather than a pupal transformation.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It preserves the organism's continuity while structures mature.
+
+Count condition:
+Counts when the insect occupies the lineage-specific juvenile stage before adulthood.
+
+Specific transfer boundary:
+Mythic nymph and insect nymph require separate domains.
+
+Epistemic status:
+[DEF]
+
+NB017 node-of-Ranvier
+
+Common meaning:
+A gap in myelin along an axon where electrical signalling is regenerated.
+
+Invariant MI [INV]:
+Node-of-Ranvier is a biological signal checkpoint enabling rapid saltatory conduction.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Ion channels concentrated at the gap restore the action potential between insulated segments.
+
+Count condition:
+Counts when an axon has the characteristic myelin gap and channel organization.
+
+Specific transfer boundary:
+A network node is not the same mechanism.
+
+Epistemic status:
+[DEF]
+
+NB018 nasal-mucosa
+
+Common meaning:
+The moist tissue lining the nasal cavity.
+
+Invariant MI [INV]:
+Nasal-mucosa is a biological boundary that warms, humidifies, filters, and senses incoming air.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its cells and mucus participate in defence and smell-related access.
+
+Count condition:
+Counts when the tissue forms the active epithelial lining of the nasal passages.
+
+Specific transfer boundary:
+Mucus alone is not the whole mucosal system.
+
+Epistemic status:
+[DEF]
+
+NB019 nares
+
+Common meaning:
+The external or internal openings of the nose.
+
+Invariant MI [INV]:
+Nares are biological access gates through which air enters and leaves the nasal passage.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Their structure affects airflow, filtration, and smell.
+
+Count condition:
+Counts when the openings connect the external field or nasal chamber to respiratory passages.
+
+Specific transfer boundary:
+An opening is not automatically a functional respiratory gate.
+
+Epistemic status:
+[DEF]
+
+NB020 notochord
+
+Common meaning:
+A flexible supporting rod present during chordate development.
+
+Invariant MI [INV]:
+Notochord is an embryonic biological support axis that organizes body pattern and later skeletal development.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] In vertebrates it is largely replaced, while traces may remain.
+
+Count condition:
+Counts when the developmental structure performs the chordate axial support and signalling role.
+
+Specific transfer boundary:
+The adult spine is not simply the same structure.
+
+Epistemic status:
+[DEF]
+
+NB021 neuromuscular-junction
+
+Common meaning:
+The synapse where a motor neuron communicates with a muscle fibre.
+
+Invariant MI [INV]:
+Neuromuscular-junction is a biological coupler translating neural signal into muscle activation.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Neurotransmitter release opens a path from motor command to contraction.
+
+Count condition:
+Counts when motor-nerve output reaches receptors on a muscle fibre and changes its electrical state.
+
+Specific transfer boundary:
+Neural intention and muscle motion are linked but not identical states.
+
+Epistemic status:
+[DEF]
+
+NB022 neural-crest
+
+Common meaning:
+A migratory embryonic cell population that forms many tissues.
+
+Invariant MI [INV]:
+Neural-crest is developmental biological potential that leaves the early neural boundary and differentiates along multiple paths.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] Its descendants contribute to nerves, pigment cells, facial structures, and more.
+
+Count condition:
+Counts when cells arise from the neural plate border and follow characteristic migratory lineages.
+
+Specific transfer boundary:
+Shared origin does not make all descendant tissues one identity.
+
+Epistemic status:
+[DEF]
+
+NB023 nurse-cell
+
+Common meaning:
+A cell that supplies material or regulatory support to another developing cell.
+
+Invariant MI [INV]:
+Nurse-cell is biological care structure that bears local cost to support maturation of a related cell.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It may transfer nutrients, RNA, organelles, or signals.
+
+Count condition:
+Counts when one cell provides directed developmental support to another.
+
+Specific transfer boundary:
+Support function does not erase the nurse-cell's separate biological state.
+
+Epistemic status:
+[DEF]
+
+NB024 natural-killer-cell
+
+Common meaning:
+An innate immune lymphocyte that detects and destroys certain abnormal cells.
+
+Invariant MI [INV]:
+Natural-killer-cell is a biological surveillance cell whose recognition rules permit rapid cytotoxic response without prior antigen-specific priming.
+
+Active domains:
+[BIO]
+
+Domain entry:
+[BIO] It balances activation and inhibition signals before releasing destructive molecules.
+
+Count condition:
+Counts when the lymphocyte has the markers and cytotoxic recognition pattern of an NK cell.
+
+Specific transfer boundary:
+The word natural does not mean uncontrolled or universally beneficial.
+
+Epistemic status:
+[DEF]

@@ -1,0 +1,15 @@
+RRGM Dictionary Z De-Templating Audit v0.2
+
+Entries reviewed: 180
+Semantic lines reviewed: 1064
+Exact duplicate normalized lines: 0
+High-similarity same-field review prompts at or above 0.84: 0
+Generic-template phrase hits: 0
+Duplicate source headwords: 2
+
+Duplicate source headwords and assigned roles:
+- zero-risk: Z024, Z173
+- zipper-state: Z030, Z164
+
+Interpretive limit:
+Automated checks detect repeated wording, not semantic substitution. Final acceptance still requires the human/model headword swap test and nearest-neighbor distinction review.

@@ -1,0 +1,558 @@
+RRGM Dictionary G Mythic Addon v0.8
+
+Scope: New G-terms whose primary implementation belongs to the [MYT] domain and which are not present as headwords in the base G section.
+Production rule: Each entry carries its own invariant MI. Definitions are compressed, domain-specific, and proof remains local.
+
+Entry count: 24
+
+GM001 gate-warden
+
+Common meaning:
+A guardian assigned to protect or judge a threshold.
+
+Invariant MI [INV]:
+Gate-warden is the mythic role that enforces crossing conditions while remaining distinct from the gate itself.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The warden may test names, offerings, intent, courage, or whether return remains possible.
+
+Count condition:
+Counts when the guardian can permit, refuse, or condition passage.
+
+Specific transfer boundary:
+Guardianship does not establish rightful authority outside the story frame.
+
+Epistemic status:
+[DEF]
+
+GM002 golden-thread
+
+Common meaning:
+A luminous thread that preserves a route through confusion or danger.
+
+Invariant MI [INV]:
+Golden-thread is a continuity line connecting the traveller to origin, purpose, or return.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may pass through labyrinths, dreams, underworlds, or memory loss without breaking.
+
+Count condition:
+Counts when following or preserving the thread prevents path or identity collapse.
+
+Specific transfer boundary:
+A symbolic thread is not a physical navigation system unless implemented as one.
+
+Epistemic status:
+[DEF]
+
+GM003 ghost-name
+
+Common meaning:
+A name that remains after its bearer is absent, hidden, or uncounted.
+
+Invariant MI [INV]:
+Ghost-name is an identity handle carrying residual recognition without full present expression.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Speaking it may summon memory, open a record, or attract what no longer has a body.
+
+Count condition:
+Counts when the name changes access, relation, or the local field.
+
+Specific transfer boundary:
+A remembered name is not proof of a literal ghost.
+
+Epistemic status:
+[DEF]
+
+GM004 grief-river
+
+Common meaning:
+A river representing accumulated loss and the movement required to pass through it.
+
+Invariant MI [INV]:
+Grief-river turns sorrow into a crossing field rather than a fixed possession.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Its depth, current, ferryman, or far shore may depend on recognition and release.
+
+Count condition:
+Counts when crossing changes the mourner relation to the lost.
+
+Specific transfer boundary:
+The symbol must not prescribe one universal grieving process.
+
+Epistemic status:
+[DEF]
+
+GM005 guardian-flame
+
+Common meaning:
+A flame that protects a place, lineage, oath, or memory.
+
+Invariant MI [INV]:
+Guardian-flame is sustained mythic energy whose continued burning keeps a valued boundary active.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may weaken when neglected and strengthen through care, truth, or return.
+
+Count condition:
+Counts when the flame state changes protection or access.
+
+Specific transfer boundary:
+Ordinary combustion does not prove sacred protection.
+
+Epistemic status:
+[DEF]
+
+GM006 green-knight
+
+Common meaning:
+A regenerative warrior or challenger associated with nature, recurrence, and tested honour.
+
+Invariant MI [INV]:
+Green-knight is a figure whose apparent defeat does not end the pattern because life and obligation return.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The challenge exposes whether courage can coexist with truth, mercy, and consequence.
+
+Count condition:
+Counts when recurrence and the accepted challenge shape the moral path.
+
+Specific transfer boundary:
+The archetype does not define all uses of green or knighthood.
+
+Epistemic status:
+[DEF]
+
+GM007 grave-door
+
+Common meaning:
+A sealed threshold between the living field and the domain of the dead.
+
+Invariant MI [INV]:
+Grave-door is a one-way boundary until a mythic condition creates return or communication.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Names, rites, keys, seasons, or unfinished obligations may affect it.
+
+Count condition:
+Counts when the door controls contact or passage between life and death domains.
+
+Specific transfer boundary:
+A physical grave is not evidence of an actual doorway.
+
+Epistemic status:
+[DEF]
+
+GM008 gift-of-sight
+
+Common meaning:
+A granted capacity to perceive hidden truth, futures, spirits, or patterns.
+
+Invariant MI [INV]:
+Gift-of-sight is expanded recognition received through relation rather than ordinary training alone.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The gift may carry cost, selective blindness, duty, or a limit on what may be spoken.
+
+Count condition:
+Counts when the recipient accesses information unavailable through ordinary senses in the story.
+
+Specific transfer boundary:
+Intuition or expertise should not be presented as supernatural proof.
+
+Epistemic status:
+[DEF]
+
+GM009 giant-bone
+
+Common meaning:
+A massive remnant used as evidence of an ancient being or age.
+
+Invariant MI [INV]:
+Giant-bone is physical trace compressed into mythic scale, ancestry, and lost-world memory.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may become a bridge, weapon, shrine, or boundary marker.
+
+Count condition:
+Counts when the remnant changes what the world believes about its past.
+
+Specific transfer boundary:
+A large fossil or bone requires physical identification before mythic attribution.
+
+Epistemic status:
+[DEF]
+
+GM010 glass-mountain
+
+Common meaning:
+A mountain whose smooth transparent surface makes ascent nearly impossible.
+
+Invariant MI [INV]:
+Glass-mountain is an aspiration structure where visibility does not create access.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The climber can see the summit while ordinary grip, path, and tools fail.
+
+Count condition:
+Counts when the impossible surface is the central condition of the quest.
+
+Specific transfer boundary:
+A difficult goal is not proof of a literal enchanted mountain.
+
+Epistemic status:
+[DEF]
+
+GM011 game-of-fate
+
+Common meaning:
+A contest in which moves alter destiny, identity, or the order of the world.
+
+Invariant MI [INV]:
+Game-of-fate is rule-bound uncertainty whose stakes extend beyond the players ordinary possessions.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The opponent may be death, time, a god, or the player own unrecognized pattern.
+
+Count condition:
+Counts when game outcomes write binding changes into the narrative world.
+
+Specific transfer boundary:
+Chance events in ordinary games do not establish destiny.
+
+Epistemic status:
+[DEF]
+
+GM012 goddess
+
+Common meaning:
+A divine female or feminine-coded being within a religious or mythic system.
+
+Invariant MI [INV]:
+Goddess is a mythic identity carrying domain-specific authority, relation, and symbolic function.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Different traditions may associate the figure with creation, war, wisdom, death, fertility, or law.
+
+Count condition:
+Counts when the tradition recognizes the being as divine within its frame.
+
+Specific transfer boundary:
+The category must not flatten distinct religions into one universal figure.
+
+Epistemic status:
+[DEF]
+
+GM013 great-wheel
+
+Common meaning:
+A vast turning cycle representing ages, fate, rebirth, or cosmic order.
+
+Invariant MI [INV]:
+Great-wheel is recurrence at a scale larger than one life or kingdom.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Characters may ride, resist, repair, or briefly step outside its turn.
+
+Count condition:
+Counts when the cycle structures historical or existential change in the story.
+
+Specific transfer boundary:
+Cyclical symbolism is not evidence that physical time is a literal wheel.
+
+Epistemic status:
+[DEF]
+
+GM014 ground-of-return
+
+Common meaning:
+A place where a wandering identity can safely re-enter continuity.
+
+Invariant MI [INV]:
+Ground-of-return is the mythic support that receives a being without requiring self-erasure.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may be soil, home, grave, name, body, or remembered promise.
+
+Count condition:
+Counts when contact restores orientation, belonging, or valid self-reference.
+
+Specific transfer boundary:
+Symbolic grounding and physical ground use different couriers.
+
+Epistemic status:
+[DEF]
+
+GM015 guiding-star
+
+Common meaning:
+A star used to orient a traveller toward destination or purpose.
+
+Invariant MI [INV]:
+Guiding-star is distant stable reference converted into direction.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may guide across deserts, seas, moral confusion, or separated worlds.
+
+Count condition:
+Counts when the star position or appearance determines a meaningful path.
+
+Specific transfer boundary:
+Astronomical navigation and prophecy require separate claims.
+
+Epistemic status:
+[DEF]
+
+GM016 gathered-dead
+
+Common meaning:
+The dead assembled as witnesses, ancestors, army, or council.
+
+Invariant MI [INV]:
+Gathered-dead is collective residual identity brought into one mythic field.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Their presence may protect, accuse, remember, or demand completion.
+
+Count condition:
+Counts when the assembly acts as more than separate memories.
+
+Specific transfer boundary:
+Ancestral remembrance is not proof of literal post-death assembly.
+
+Epistemic status:
+[DEF]
+
+GM017 grace-mark
+
+Common meaning:
+A sign that consequence has been delayed, softened, or transformed without denying the original failure.
+
+Invariant MI [INV]:
+Grace-mark records mercy as a visible change in how judgment will proceed.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may protect the bearer while also creating duty to repair or return.
+
+Count condition:
+Counts when the mark changes an otherwise expected consequence.
+
+Specific transfer boundary:
+Mercy is not proof that harm, debt, or responsibility never existed.
+
+Epistemic status:
+[DEF]
+
+GM018 guilt-ghost
+
+Common meaning:
+A recurring figure formed from unaddressed wrongdoing or self-accusation.
+
+Invariant MI [INV]:
+Guilt-ghost externalizes unresolved moral pressure so it can pursue, speak, or be answered.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may weaken through repair, truth, forgiveness, or recognition of false blame.
+
+Count condition:
+Counts when the apparition tracks and changes the guilt relation.
+
+Specific transfer boundary:
+The symbol is not a clinical diagnosis or evidence of a literal entity.
+
+Epistemic status:
+[DEF]
+
+GM019 garden-between-worlds
+
+Common meaning:
+A cultivated place existing at the meeting point of different realms.
+
+Invariant MI [INV]:
+Garden-between-worlds is a living coupler where otherwise separate domain conditions can coexist temporarily.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Plants, seasons, visitors, and paths may follow rules borrowed from both sides.
+
+Count condition:
+Counts when the garden enables contact impossible in either realm alone.
+
+Specific transfer boundary:
+A multicultural or hybrid garden is not automatically supernatural.
+
+Epistemic status:
+[DEF]
+
+GM020 glory-name
+
+Common meaning:
+A title earned or granted after a transformative act.
+
+Invariant MI [INV]:
+Glory-name is a public identity handle recording a deed, victory, sacrifice, or recognized change.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] It may strengthen the bearer while also trapping them inside the remembered act.
+
+Count condition:
+Counts when the title changes social or mythic access.
+
+Specific transfer boundary:
+Honour titles do not replace the bearer full identity.
+
+Epistemic status:
+[DEF]
+
+GM021 gateway-dream
+
+Common meaning:
+A dream that permits entry into another place, time, memory, or relation.
+
+Invariant MI [INV]:
+Gateway-dream is sleep-state imagery functioning as a cross-domain passage rather than private symbol alone.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Waking may close the route, preserve an object, or leave a changed record.
+
+Count condition:
+Counts when dream events produce valid consequences beyond the dream scene.
+
+Specific transfer boundary:
+Ordinary dreams do not prove travel to another world.
+
+Epistemic status:
+[DEF]
+
+GM022 grim-courier
+
+Common meaning:
+A messenger who carries unavoidable news, summons, or consequence.
+
+Invariant MI [INV]:
+Grim-courier is relation between distant judgment and the subject who must receive it.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] The messenger may be feared but is not necessarily the author of the message.
+
+Count condition:
+Counts when delivery changes duty, route, or available time.
+
+Specific transfer boundary:
+Do not confuse the courier with the source of the threat.
+
+Epistemic status:
+[DEF]
+
+GM023 giant-sleep
+
+Common meaning:
+A prolonged sleep of a being whose waking would transform the world.
+
+Invariant MI [INV]:
+Giant-sleep is dormant capability held below expression while continuity remains.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Landscapes, kingdoms, or seasons may form around the sleeper.
+
+Count condition:
+Counts when awakening risk or promise shapes present action.
+
+Specific transfer boundary:
+Dormancy does not prove consciousness or future awakening in physical systems.
+
+Epistemic status:
+[DEF]
+
+GM024 golden-apple
+
+Common meaning:
+A rare fruit carrying immortality, knowledge, choice, conflict, or divine favour.
+
+Invariant MI [INV]:
+Golden-apple is concentrated value presented as an object of selection.
+
+Active domain:
+[MYT]
+
+Domain entry:
+[MYT] Who receives, steals, refuses, or judges it may reorder relationships and fate.
+
+Count condition:
+Counts when possession or choice around the apple changes the mythic field.
+
+Specific transfer boundary:
+A valuable fruit is not inherently sacred or magical.
+
+Epistemic status:
+[DEF]

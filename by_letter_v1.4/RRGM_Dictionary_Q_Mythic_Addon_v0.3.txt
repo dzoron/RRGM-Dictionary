@@ -1,0 +1,487 @@
+RRGM Dictionary Q - Mythic Domain Addon
+Version 0.3 | July 2026
+License: CC BY-SA 4.0
+Scope: New [MYT] vocabulary not present in the Q base list.
+Rule: Every invariant, domain line, and count condition must retain the individual term's semantic fingerprint.
+
+Entry count: 24
+
+QM001 quaternity
+
+Common meaning:
+A mythic or symbolic fourfold unity.
+
+Invariant MI [INV]:
+Quaternity is a whole expressed through four distinct but related powers, directions, persons, or phases.
+
+Domain entry:
+[MYT] Quaternity organizes a world, self, rite, or story through a stable four-part relation whose members remain distinguishable.
+
+Count condition:
+The work names four parts and makes their relation necessary to the represented whole.
+
+Transfer limit:
+A symbolic fourfold does not prove that the physical or social world naturally divides into four.
+
+Epistemic status:
+[DEF]
+
+QM002 quest-gate
+
+Common meaning:
+A mythic threshold that begins, redirects, or completes a quest.
+
+Invariant MI [INV]:
+Quest-gate is the event or boundary at which seeking becomes an active identity path.
+
+Domain entry:
+[MYT] A summons, wound, riddle, refusal, crossing, or return condition opens the seeker's next stage.
+
+Count condition:
+The threshold changes the seeker's available path and is tied to the quest's purpose.
+
+Transfer limit:
+A dramatic event is not a quest-gate unless it changes the purpose-path.
+
+Epistemic status:
+[DEF]
+
+QM003 quest-mark
+
+Common meaning:
+A sign that identifies a seeker or binds them to a quest.
+
+Invariant MI [INV]:
+Quest-mark is a persistent symbol linking the seeker's identity to an unfinished purpose.
+
+Domain entry:
+[MYT] A scar, token, name, seal, weapon, or recurring sign carries recognition of the quest across changing scenes.
+
+Count condition:
+The sign returns across the narrative and affects recognition, obligation, or passage.
+
+Transfer limit:
+The mark does not prove destiny outside the story frame.
+
+Epistemic status:
+[DEF]
+
+QM004 quest-companion
+
+Common meaning:
+A companion whose relation is structurally part of a quest.
+
+Invariant MI [INV]:
+Quest-companion is a distinct fellow traveller whose care, refusal, correction, or sacrifice changes the seeker's path.
+
+Domain entry:
+[MYT] The companion carries support or contradiction that the hero cannot legitimately replace with solitary force.
+
+Count condition:
+The companion retains a separate identity and affects at least one load-bearing quest decision.
+
+Transfer limit:
+A companion is not merely an accessory or extension of the seeker.
+
+Epistemic status:
+[DEF]
+
+QM005 quest-return
+
+Common meaning:
+The return phase in which a seeker re-enters the ordinary world.
+
+Invariant MI [INV]:
+Quest-return is the crossing by which transformed meaning is brought back into prior relation and record.
+
+Domain entry:
+[MYT] The seeker returns with knowledge, wound, gift, duty, or changed name that must survive contact with home.
+
+Count condition:
+The narrative reconnects the seeker's changed state to the world or relation left behind.
+
+Transfer limit:
+Return is not reversal; the earlier state need not be restored.
+
+Epistemic status:
+[DEF]
+
+QM006 quest-wound
+
+Common meaning:
+A wound that becomes part of the seeker's quest identity.
+
+Invariant MI [INV]:
+Quest-wound is damage whose record changes the path without becoming the seeker's whole identity.
+
+Domain entry:
+[MYT] The wound may grant knowledge, impose a limit, reveal false power, or preserve the cost of passage.
+
+Count condition:
+The wound has continuing consequences and is integrated rather than erased from the story.
+
+Transfer limit:
+Suffering alone does not make a quest meaningful or ethically justified.
+
+Epistemic status:
+[DEF]
+
+QM007 queen-of-thresholds
+
+Common meaning:
+A mythic queen who governs passage between states or worlds.
+
+Invariant MI [INV]:
+Queen-of-thresholds is sovereign recognition at a boundary where entry depends on identity, answer, offering, or refusal.
+
+Domain entry:
+[MYT] She tests whether the traveller can cross without surrendering the claim that must remain intact.
+
+Count condition:
+The queen controls a real transition and the passage condition reveals something about identity.
+
+Transfer limit:
+Mythic gate authority does not authorize real-world domination.
+
+Epistemic status:
+[DEF]
+
+QM008 queen-without-crown
+
+Common meaning:
+A sovereign figure whose authority survives the loss or absence of visible rank.
+
+Invariant MI [INV]:
+Queen-without-crown is recognized authority carried by identity, relation, and action rather than regalia alone.
+
+Domain entry:
+[MYT] Exile, disguise, defeat, or hidden lineage removes the crown while the sovereign pattern remains active.
+
+Count condition:
+The story repeatedly recognizes authority or responsibility despite missing public symbols.
+
+Transfer limit:
+Hidden authority is not proof of entitlement; the narrative must supply recognition and consequence.
+
+Epistemic status:
+[DEF]
+
+QM009 queen-refusal
+
+Common meaning:
+A queen's refusal that protects a kingdom, identity, or boundary.
+
+Invariant MI [INV]:
+Queen-refusal is sovereign no-language that blocks an invalid demand without surrendering responsibility for the realm.
+
+Domain entry:
+[MYT] The refusal may reject conquest, forced marriage, false oath, stolen name, or a bargain that would corrupt the kingdom.
+
+Count condition:
+The refusal changes the available path and preserves a named boundary or duty.
+
+Transfer limit:
+Royal status does not make every refusal wise or ethical.
+
+Epistemic status:
+[DEF]
+
+QM010 queen-mercy
+
+Common meaning:
+Mercy exercised by a queen or sovereign feminine figure.
+
+Invariant MI [INV]:
+Queen-mercy is restrained power that preserves another's count while retaining responsibility for the wider field.
+
+Domain entry:
+[MYT] The queen alters punishment, grants passage, protects a rival, or leaves a return path without pretending no harm occurred.
+
+Count condition:
+The sovereign could impose greater cost but chooses a bounded alternative that preserves record and future responsibility.
+
+Transfer limit:
+Mercy is not erasure of accountability or automatic pardon.
+
+Epistemic status:
+[DEF]
+
+QM011 quiet-oracle
+
+Common meaning:
+An oracle whose message arrives softly, indirectly, or through absence.
+
+Invariant MI [INV]:
+Quiet-oracle is prophetic meaning carried below spectacle, requiring attention without forcing certainty.
+
+Domain entry:
+[MYT] A pause, small animal, repeated phrase, dream fragment, or unnoticed object bears the possible warning.
+
+Count condition:
+The narrative marks the low-signal event as relevant while preserving ambiguity until later recognition.
+
+Transfer limit:
+Subtlety does not make the message infallible.
+
+Epistemic status:
+[DEF]
+
+QM012 quiet-prophecy
+
+Common meaning:
+A prophecy expressed without public declaration or dramatic certainty.
+
+Invariant MI [INV]:
+Quiet-prophecy is a future-oriented pattern held as a low-pressure possibility rather than a command of fate.
+
+Domain entry:
+[MYT] The prophecy travels through a private sentence, inherited gesture, unfinished song, or recurring image.
+
+Count condition:
+The prediction influences choices while remaining open to interpretation and refusal.
+
+Transfer limit:
+A quiet prophecy is still narrative meaning, not physical evidence of inevitability.
+
+Epistemic status:
+[DEF]
+
+QM013 quiet-threshold
+
+Common meaning:
+A threshold crossed through stillness, listening, or reduced force.
+
+Invariant MI [INV]:
+Quiet-threshold is passage that becomes available when noise, status, or imposed action falls below the gate's tolerance.
+
+Domain entry:
+[MYT] The door opens only when the traveller stops performing, arguing, or forcing and can hear the hidden condition.
+
+Count condition:
+Reduced force or stillness is explicitly the passage condition.
+
+Transfer limit:
+Quiet must not be confused with coerced silence or erased identity.
+
+Epistemic status:
+[DEF]
+
+QM014 quiet-name
+
+Common meaning:
+A true or protected name held in silence.
+
+Invariant MI [INV]:
+Quiet-name is an identity handle preserved outside public speech while remaining active in recognition.
+
+Domain entry:
+[MYT] The name is whispered, withheld, remembered inwardly, or spoken only at the correct gate.
+
+Count condition:
+The unspoken name continues to affect identity, protection, or passage.
+
+Transfer limit:
+No public name does not mean no identity.
+
+Epistemic status:
+[DEF]
+
+QM015 quill-of-names
+
+Common meaning:
+A mythic quill that records or grants names.
+
+Invariant MI [INV]:
+Quill-of-names is a writing instrument whose inscription places an identity handle into durable record.
+
+Domain entry:
+[MYT] Names written by the quill may reveal lineage, bind recognition, restore the erased, or expose false naming.
+
+Count condition:
+The written name changes how the named being is recognized or counted in the story.
+
+Transfer limit:
+Writing a name does not automatically create or own the identity.
+
+Epistemic status:
+[DEF]
+
+QM016 quill-of-fate
+
+Common meaning:
+A mythic quill whose writing shapes future events.
+
+Invariant MI [INV]:
+Quill-of-fate is narrative authorship embodied as an instrument that converts possibility into a binding or contested record.
+
+Domain entry:
+[MYT] What the quill writes may become prophecy, law, curse, or path until altered by a higher rule, refusal, or sacrifice.
+
+Count condition:
+The inscription has causal narrative force and the limits of that force are shown.
+
+Transfer limit:
+The symbol does not prove literal authorship over real persons.
+
+Epistemic status:
+[DEF]
+
+QM017 question-door
+
+Common meaning:
+A mythic door opened by a question rather than a key.
+
+Invariant MI [INV]:
+Question-door is a threshold whose valid passage depends on asking, answering, or preserving the right uncertainty.
+
+Domain entry:
+[MYT] The traveller must name what is missing, refuse the false answer, or ask the question the gate was built to recognize.
+
+Count condition:
+The inquiry itself changes the door's state or reveals the passage condition.
+
+Transfer limit:
+A clever question is not automatically a true answer.
+
+Epistemic status:
+[DEF]
+
+QM018 question-of-return
+
+Common meaning:
+The mythic question that determines whether or how one may return.
+
+Invariant MI [INV]:
+Question-of-return tests what continuity remains after exile, death, transformation, or long absence.
+
+Domain entry:
+[MYT] The traveller must answer who returns, what was lost, and what cannot be restored unchanged.
+
+Count condition:
+The answer changes recognition at home and distinguishes return from replacement.
+
+Transfer limit:
+Continuity may be real without perfect restoration.
+
+Epistemic status:
+[DEF]
+
+QM019 question-keeper
+
+Common meaning:
+A figure who preserves a necessary question across generations or trials.
+
+Invariant MI [INV]:
+Question-keeper protects an unresolved inquiry from premature answers, erasure, or capture.
+
+Domain entry:
+[MYT] The keeper carries a riddle, oath, archive, or forbidden question until a valid listener or age appears.
+
+Count condition:
+The question remains materially relevant to the story and the keeper preserves its wording or boundary.
+
+Transfer limit:
+Keeping a question open is not proof that no answer exists.
+
+Epistemic status:
+[DEF]
+
+QM020 quarrel-of-gods
+
+Common meaning:
+A mythic conflict among divine or world-ordering powers.
+
+Invariant MI [INV]:
+Quarrel-of-gods is conflict at a scale where competing identities or principles reshape the world experienced below.
+
+Domain entry:
+[MYT] Storm, season, law, lineage, or mortal fate changes as the divine conflict propagates through creation.
+
+Count condition:
+The story links the conflict to world-level consequences and preserves distinct divine claims.
+
+Transfer limit:
+Mythic cosmic conflict is not evidence of physical causation.
+
+Epistemic status:
+[DEF]
+
+QM021 quench-rite
+
+Common meaning:
+A ritual intended to extinguish an active curse, flame, feud, or possession.
+
+Invariant MI [INV]:
+Quench-rite is a bounded sequence that removes the sustaining relation of a destructive mythic process.
+
+Domain entry:
+[MYT] Water, ash, naming, witness, release, or returned object breaks the path that kept the force active.
+
+Count condition:
+The rite identifies what sustains the force and shows the condition by which it stops.
+
+Transfer limit:
+Ending the visible effect does not prove every wound or obligation is repaired.
+
+Epistemic status:
+[DEF]
+
+QM022 quintessence
+
+Common meaning:
+The imagined fifth essence beyond the four classical elements.
+
+Invariant MI [INV]:
+Quintessence is a mythic or philosophical substance invoked to carry the purest, highest, or integrating nature of a thing.
+
+Domain entry:
+[MYT] It binds heaven to matter, completes an elemental set, or names the concentrated core sought by alchemy and story.
+
+Count condition:
+The active tradition defines which four elements it exceeds or integrates and what role the fifth essence performs.
+
+Transfer limit:
+Quintessence is not a measured physical element without a separate scientific definition.
+
+Epistemic status:
+[DEF]
+
+QM023 quickening
+
+Common meaning:
+A mythic awakening in which latent life, power, memory, or identity becomes active.
+
+Invariant MI [INV]:
+Quickening is the first unmistakable movement from held potential into living or empowered expression.
+
+Domain entry:
+[MYT] A sleeping land, sealed name, unborn power, or forgotten lineage begins to answer the world.
+
+Count condition:
+The story marks a before-state of latency and an after-state of active expression.
+
+Transfer limit:
+Quickening does not prove sovereign origin; emergence may be relationally supported.
+
+Epistemic status:
+[DEF]
+
+QM024 quasi-divine
+
+Common meaning:
+Partly divine, godlike, or treated as divine without full divine status.
+
+Invariant MI [INV]:
+Quasi-divine preserves resemblance to divinity while withholding complete membership in the active sacred category.
+
+Domain entry:
+[MYT] A hero, ruler, ancestor, machine, or spirit may carry divine attributes, worship, or function without being identical to a god.
+
+Count condition:
+The story names both the divine resemblance and the property or recognition that remains missing.
+
+Transfer limit:
+Partial sacred resemblance must not be silently promoted to universal authority.
+
+Epistemic status:
+[DEF]

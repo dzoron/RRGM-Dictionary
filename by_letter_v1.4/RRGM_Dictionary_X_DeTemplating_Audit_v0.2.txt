@@ -1,0 +1,31 @@
+RRGM Dictionary X De-Templating Audit v0.2
+
+Entries reviewed: 140
+Invariants reviewed: 140
+Domain implementation lines reviewed: 297
+Count conditions reviewed: 140
+Exact duplicate semantic lines: 0
+High-similarity same-field pairs at or above 0.76: 0
+Known old-template phrase hits: 0
+
+Interpretation:
+- Zero exact duplicate semantic lines is required.
+- Similarity flags are review prompts, not automatic failures; closely related terms may share necessary vocabulary.
+- Final semantic acceptance still requires the human/model swap test.
+
+Most common active-domain sets:
+- [REL]: 17 entries
+- [DIG], [FOR]: 15 entries
+- [LIN], [REL]: 10 entries
+- [COG], [REL]: 9 entries
+- [FOR], [LIN]: 9 entries
+- [DIG], [LIN], [REL]: 8 entries
+- [DIG], [LIN]: 7 entries
+- [PHY], [DIG], [FOR]: 5 entries
+- [PHY]: 4 entries
+- [COG], [FOR]: 4 entries
+- [FOR]: 4 entries
+- [COG], [DIG], [FOR]: 4 entries
+
+Highest similarity review prompts:
+- None above threshold.

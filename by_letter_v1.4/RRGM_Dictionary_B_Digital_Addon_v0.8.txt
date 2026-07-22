@@ -1,0 +1,558 @@
+RRGM Dictionary B Digital Addon v0.8
+
+Scope: New B-terms whose primary implementation belongs to the [DIG] domain and which are not present as headwords in the base B section.
+Production rule: Each entry carries its own invariant MI. Definitions are compressed, domain-specific, and proof remains local.
+
+Entry count: 24
+
+BD001 backend
+
+Common meaning:
+The server-side or internal processing layer behind a user-facing system.
+
+Invariant MI [INV]:
+Backend is the hidden computational region that stores state, applies rules, and returns results to an interface.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It may contain services, databases, queues, authentication, and business logic.
+
+Count condition:
+Counts when the layer performs non-interface processing required by the application.
+
+Specific transfer boundary:
+Backend does not mean unobservable, secure, or authoritative by default.
+
+Epistemic status:
+[DEF]
+
+BD002 bandwidth-budget
+
+Common meaning:
+The portion of transmission capacity allocated to a task or channel.
+
+Invariant MI [INV]:
+Bandwidth-budget is a declared limit on how much data may cross a digital courier during a period or operation.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Systems divide it among users, streams, backups, or model calls.
+
+Count condition:
+Counts when capacity and allocation rules are explicitly measured or enforced.
+
+Specific transfer boundary:
+A budgeted capacity is not the same as actual throughput.
+
+Epistemic status:
+[DEF]
+
+BD003 batch-process
+
+Common meaning:
+A process that handles a collected set of jobs or records together.
+
+Invariant MI [INV]:
+Batch-process groups work so the system can execute it by schedule, size, or shared operation rather than immediate interaction.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Each batch has inputs, ordering, failure handling, and completion state.
+
+Count condition:
+Counts when multiple items are deliberately queued and processed as one run.
+
+Specific transfer boundary:
+A group of files is not a batch until common processing is declared.
+
+Epistemic status:
+[DEF]
+
+BD004 binary-tree
+
+Common meaning:
+A tree structure in which each node has at most two child positions.
+
+Invariant MI [INV]:
+Binary-tree organizes digital relations through left and right branches from a root.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Search, parsing, heaps, and indexes may use different ordering rules on the same shape.
+
+Count condition:
+Counts when node and child constraints satisfy the declared tree rule.
+
+Specific transfer boundary:
+Binary branching does not imply balanced depth or sorted values.
+
+Epistemic status:
+[DEF]
+
+BD005 bit-flip
+
+Common meaning:
+A change of one stored binary state from 0 to 1 or from 1 to 0.
+
+Invariant MI [INV]:
+Bit-flip is the smallest local reversal in binary data.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It may be intentional, caused by logic, or produced by corruption, radiation, or hardware error.
+
+Count condition:
+Counts when one represented bit changes state between records.
+
+Specific transfer boundary:
+A bit-flip does not reveal its cause without further evidence.
+
+Epistemic status:
+[DEF]
+
+BD006 bitmask
+
+Common meaning:
+A pattern of bits used to select, clear, set, or test positions in another value.
+
+Invariant MI [INV]:
+Bitmask is a binary gate laid over data so only declared bit positions participate in an operation.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Logical operators apply the mask to permissions, flags, fields, or packed values.
+
+Count condition:
+Counts when mask positions and the operation they control are defined.
+
+Specific transfer boundary:
+A bitmask is not encryption or access control unless used inside such a system.
+
+Epistemic status:
+[DEF]
+
+BD007 block-storage
+
+Common meaning:
+Digital storage that exposes fixed-size addressable blocks to a host system.
+
+Invariant MI [INV]:
+Block-storage carries raw storage units without imposing a file meaning on them.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] A filesystem or database may build higher structure over the blocks.
+
+Count condition:
+Counts when data is read and written through block addresses of declared size.
+
+Specific transfer boundary:
+Blocks are not files until another layer maps them.
+
+Epistemic status:
+[DEF]
+
+BD008 boot-sequence
+
+Common meaning:
+The ordered startup steps by which a device or system becomes operational.
+
+Invariant MI [INV]:
+Boot-sequence moves hardware and software from reset into a usable execution state.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Firmware, loaders, kernels, services, and checks activate in a declared order.
+
+Count condition:
+Counts when the startup path and successful end state are defined.
+
+Specific transfer boundary:
+Power-on does not guarantee a completed boot.
+
+Epistemic status:
+[DEF]
+
+BD009 bootloader
+
+Common meaning:
+A small startup program that loads or selects the next executable system layer.
+
+Invariant MI [INV]:
+Bootloader is the transition courier between initial firmware control and the operating system or application image.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It may verify, choose, decompress, or transfer control to the selected image.
+
+Count condition:
+Counts when it successfully locates and starts the next declared execution stage.
+
+Specific transfer boundary:
+A bootloader is not the operating system it launches.
+
+Epistemic status:
+[DEF]
+
+BD010 debug-breakpoint
+
+Common meaning:
+A deliberate pause condition inserted into running code for inspection.
+
+Invariant MI [INV]:
+Debug-breakpoint stops execution at a chosen instruction, state, or event so internal values can be examined.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] The debugger preserves enough process context to continue, step, or modify the run.
+
+Count condition:
+Counts when the declared condition suspends the targeted execution thread.
+
+Specific transfer boundary:
+A crash is not a breakpoint unless suspension was intentionally controlled.
+
+Epistemic status:
+[DEF]
+
+BD011 branch-prediction
+
+Common meaning:
+A processor technique that guesses which control-flow path will execute next.
+
+Invariant MI [INV]:
+Branch-prediction spends speculative work to reduce waiting at a conditional instruction.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Correct guesses preserve speed; wrong guesses discard speculative state and refill the pipeline.
+
+Count condition:
+Counts when hardware or software selects a future branch before the condition is resolved.
+
+Specific transfer boundary:
+Prediction success is not proof that the condition was already known.
+
+Epistemic status:
+[DEF]
+
+BD012 browser-cache
+
+Common meaning:
+Local stored web data reused to reduce later retrieval cost.
+
+Invariant MI [INV]:
+Browser-cache preserves prior responses, files, or metadata so repeated access can avoid full network transfer.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Expiry, validation, privacy rules, and cache keys determine reuse.
+
+Count condition:
+Counts when the browser serves or validates stored content for a later request.
+
+Specific transfer boundary:
+Cached content may be stale even when retrieval succeeds.
+
+Epistemic status:
+[DEF]
+
+BD013 buffer-overflow
+
+Common meaning:
+A condition in which data exceeds the allocated boundary of a buffer.
+
+Invariant MI [INV]:
+Buffer-overflow is write pressure crossing the memory region reserved for the target data.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] The excess may corrupt adjacent state, trigger protection, or enable control-flow abuse.
+
+Count condition:
+Counts when a write attempts or succeeds beyond the declared buffer capacity.
+
+Specific transfer boundary:
+High buffer use is not overflow until the boundary is crossed.
+
+Epistemic status:
+[DEF]
+
+BD014 bug-report
+
+Common meaning:
+A structured record of an observed software defect.
+
+Invariant MI [INV]:
+Bug-report carries reproduction conditions, expected result, actual result, environment, and evidence toward repair.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Its value depends on specificity, trace, and whether the failure can be distinguished from user error or unsupported behaviour.
+
+Count condition:
+Counts when the report identifies a reproducible or inspectable mismatch.
+
+Specific transfer boundary:
+A complaint without a failure condition is not yet a complete bug report.
+
+Epistemic status:
+[DEF]
+
+BD015 build-pipeline
+
+Common meaning:
+An automated path that transforms source material into tested distributable output.
+
+Invariant MI [INV]:
+Build-pipeline sequences compilation, validation, packaging, signing, and release operations.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Each stage consumes declared inputs and either passes an artifact forward or writes failure.
+
+Count condition:
+Counts when the staged process produces or rejects a build under known conditions.
+
+Specific transfer boundary:
+A successful build does not prove the software is correct or secure.
+
+Epistemic status:
+[DEF]
+
+BD016 byte-stream
+
+Common meaning:
+An ordered sequence of eight-bit units moving through storage or communication.
+
+Invariant MI [INV]:
+Byte-stream carries digital data without requiring the receiver to know its higher-level structure in advance.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Protocol, encoding, or file format later determines how the bytes are interpreted.
+
+Count condition:
+Counts when byte order and stream boundaries are available to a reader.
+
+Specific transfer boundary:
+The same bytes can produce different meanings under different decoders.
+
+Epistemic status:
+[DEF]
+
+BD017 backup-snapshot
+
+Common meaning:
+A preserved point-in-state copy used for restoration or comparison.
+
+Invariant MI [INV]:
+Backup-snapshot freezes selected data or system state at a named recovery point.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Consistency rules determine whether linked files, databases, and services can be restored together.
+
+Count condition:
+Counts when the snapshot is complete enough to meet its declared recovery objective.
+
+Specific transfer boundary:
+A snapshot that exists but cannot restore is not a valid backup for that objective.
+
+Epistemic status:
+[DEF]
+
+BD018 bot-agent
+
+Common meaning:
+A software process that performs repeated or delegated actions through an interface or protocol.
+
+Invariant MI [INV]:
+Bot-agent converts instructions, triggers, or policies into automated digital action.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Its permissions, identity, rate, audit trail, and refusal conditions define its legitimate scope.
+
+Count condition:
+Counts when the process can observe inputs and perform at least one declared action autonomously.
+
+Specific transfer boundary:
+Automation does not establish selfhood, authority, or informed consent by itself.
+
+Epistemic status:
+[DEF]
+
+BD019 boundary-check
+
+Common meaning:
+A test that verifies an index, value, request, or write remains inside an allowed digital range.
+
+Invariant MI [INV]:
+Boundary-check prevents an operation from silently crossing the structure assigned to it.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] It compares the candidate action against length, permission, type, or address limits.
+
+Count condition:
+Counts when the comparison can block or redirect out-of-range behaviour.
+
+Specific transfer boundary:
+A checked boundary is only as valid as the limit and authority used.
+
+Epistemic status:
+[DEF]
+
+BD020 base64
+
+Common meaning:
+A text encoding that represents binary data using a restricted set of printable characters.
+
+Invariant MI [INV]:
+Base64 changes transport form while preserving the underlying byte sequence.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Four encoded symbols typically carry three source bytes plus any required padding.
+
+Count condition:
+Counts when decoding reproduces the original bytes under the declared alphabet.
+
+Specific transfer boundary:
+Base64 is encoding, not encryption or compression.
+
+Epistemic status:
+[DEF]
+
+BD021 benchmark-suite
+
+Common meaning:
+A collection of tests used to compare performance or capability under declared conditions.
+
+Invariant MI [INV]:
+Benchmark-suite samples multiple tasks so one result does not carry the entire evaluation.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Inputs, hardware, timing, scoring, and exclusions determine what the comparison means.
+
+Count condition:
+Counts when the same documented suite can be run across the compared systems.
+
+Specific transfer boundary:
+Benchmark rank does not establish general intelligence or real-world fitness outside its scope.
+
+Epistemic status:
+[DEF]
+
+BD022 bus-width
+
+Common meaning:
+The number of bits a digital bus can transfer or address in one operation.
+
+Invariant MI [INV]:
+Bus-width sets the parallel data capacity of a hardware communication path.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Its effect depends on clock rate, protocol overhead, memory design, and workload.
+
+Count condition:
+Counts when the physical or logical bus exposes the declared number of concurrent bit lines or positions.
+
+Specific transfer boundary:
+Wider bus does not automatically mean proportionally faster system performance.
+
+Epistemic status:
+[DEF]
+
+BD023 bitmap
+
+Common meaning:
+A raster representation that assigns stored values to positions in a grid.
+
+Invariant MI [INV]:
+Bitmap maps each pixel location to colour, intensity, or indexed data.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] Resolution, channel depth, row order, and compression determine the stored form.
+
+Count condition:
+Counts when the grid dimensions and value encoding are defined.
+
+Specific transfer boundary:
+A bitmap contains pixels, not the physical scene itself.
+
+Epistemic status:
+[DEF]
+
+BD024 bytecode
+
+Common meaning:
+An intermediate instruction format executed or translated by a virtual machine.
+
+Invariant MI [INV]:
+Bytecode separates source language from a particular processor instruction set.
+
+Active domain:
+[DIG]
+
+Domain entry:
+[DIG] A runtime verifies, interprets, or compiles the instructions into executable actions.
+
+Count condition:
+Counts when the declared virtual machine can decode and execute the instruction sequence.
+
+Specific transfer boundary:
+Bytecode is not universally portable without a compatible runtime.
+
+Epistemic status:
+[DEF]
