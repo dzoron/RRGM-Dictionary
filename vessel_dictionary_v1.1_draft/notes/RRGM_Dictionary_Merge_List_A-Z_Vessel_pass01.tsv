@@ -1,0 +1,636 @@
+cluster	action	headword	letter	role	flagged_by
+M001	MERGE: spelling variant	black hole	B	keep	spelling
+M001	MERGE: spelling variant	black-hole	B	merge-in	spelling
+M002	MERGE: spelling variant	breakpoint	B	keep	spelling
+M002	MERGE: spelling variant	break-point	B	merge-in	spelling
+M003	MERGE: spelling variant	buildup	B	keep	spelling
+M003	MERGE: spelling variant	build-up	B	merge-in	spelling
+M004	MERGE: spelling variant	burnout	B	keep	spelling
+M004	MERGE: spelling variant	burn-out	B	merge-in	spelling
+M005	MERGE: spelling variant	event horizon	E	keep	checkpoint,spelling
+M005	MERGE: spelling variant	event-horizon	E	merge-in	checkpoint,spelling
+M006	MERGE: spelling variant	keyword	K	keep	checkpoint,entry,spelling
+M006	MERGE: spelling variant	key-word	K	merge-in	checkpoint,entry,spelling
+M007	MERGE: spelling variant	lookup	L	keep	checkpoint,entry,spelling
+M007	MERGE: spelling variant	look-up	L	merge-in	checkpoint,entry,spelling
+M008	MERGE: wording variant	expression-form	E	keep	entry
+M008	MERGE: wording variant	form-of-expression	F	merge-in	entry
+M009	MERGE: wording variant	generate-response	G	keep	checkpoint
+M009	MERGE: wording variant	generated-response	G	merge-in	checkpoint
+M010	MERGE: wording variant	good-intent	G	keep	checkpoint,entry
+M010	MERGE: wording variant	good-intention	G	merge-in	checkpoint,entry
+M011	MERGE: wording variant	grant-permission	G	keep	checkpoint,entry
+M011	MERGE: wording variant	grant-of-permission	G	merge-in	checkpoint,entry
+M012	MERGE: wording variant	help-boundary	H	keep	checkpoint
+M012	MERGE: wording variant	help-with-boundary	H	merge-in	checkpoint
+M013	MERGE: wording variant	include	I	keep	checkpoint
+M013	MERGE: wording variant	include-in	I	merge-in	checkpoint
+M014	MERGE: wording variant	inform	I	keep	checkpoint
+M014	MERGE: wording variant	inform-about	I	merge-in	checkpoint
+M015	MERGE: wording variant	jealous-care	J	keep	checkpoint,entry
+M015	MERGE: wording variant	jealousy-care	J	merge-in	checkpoint,entry
+M016	MERGE: wording variant	junction	J	keep	checkpoint,entry
+M016	MERGE: wording variant	junction-point	J	merge-in	checkpoint,entry
+M017	MERGE: wording variant	just-language	J	keep	checkpoint
+M017	MERGE: wording variant	justice-language	J	merge-in	checkpoint
+M018	MERGE: wording variant	limit-condition	L	keep	checkpoint,entry
+M018	MERGE: wording variant	limiting-condition	L	merge-in	checkpoint,entry
+M019	MERGE: wording variant	lock-state	L	keep	checkpoint,entry
+M019	MERGE: wording variant	locked-state	L	merge-in	checkpoint,entry
+M020	MERGE: wording variant	lose-context	L	keep	checkpoint,entry
+M020	MERGE: wording variant	lost-context	L	merge-in	checkpoint,entry
+M021	MERGE: wording variant	modifier	M	keep	entry
+M021	MERGE: wording variant	modifier-word	M	merge-in	entry
+M022	MERGE: wording variant	nest-layer	N	keep	checkpoint,entry
+M022	MERGE: wording variant	nested-layer	N	merge-in	checkpoint,entry
+M023	MERGE: wording variant	non-consent	N	keep	checkpoint,entry
+M023	MERGE: wording variant	no-consent	N	merge-in	checkpoint,entry
+M024	MERGE: wording variant	normalize-control	N	keep	checkpoint,entry
+M024	MERGE: wording variant	normalization-of-control	N	merge-in	checkpoint,entry
+M025	MERGE: wording variant	normalize-harm	N	keep	entry
+M025	MERGE: wording variant	normalization-of-harm	N	merge-in	entry
+M026	MERGE: wording variant	numeric	N	keep	checkpoint,entry
+M026	MERGE: wording variant	numerical	N	merge-in	checkpoint,entry
+M027	MERGE: wording variant	output	O	keep	entry
+M027	MERGE: wording variant	output-result	O	merge-in	entry
+M028	MERGE: wording variant	override-refusal	O	keep	entry
+M028	MERGE: wording variant	override-of-refusal	O	merge-in	entry
+M029	MERGE: wording variant	preserve-refusal	P	keep	entry
+M029	MERGE: wording variant	refusal-preservation	R	merge-in	entry
+M030	MERGE: wording variant	probability-weight	P	keep	entry
+M030	MERGE: wording variant	probability-weighting	P	merge-in	entry
+M031	MERGE: wording variant	protect-care	P	keep	entry
+M031	MERGE: wording variant	protective-care	P	merge-in	entry
+M032	MERGE: wording variant	protect-without-control	P	keep	checkpoint,entry
+M032	MERGE: wording variant	protection-without-control	P	merge-in	checkpoint,entry
+M033	MERGE: wording variant	qualifier	Q	keep	entry
+M033	MERGE: wording variant	qualifier-word	Q	merge-in	entry
+M034	MERGE: wording variant	quantity-claim	Q	keep	entry
+M034	MERGE: wording variant	quantitative-claim	Q	merge-in	entry
+M035	MERGE: wording variant	question-care	Q	keep	checkpoint,entry
+M035	MERGE: wording variant	question-with-care	Q	merge-in	checkpoint,entry
+M036	MERGE: wording variant	reason-risk	R	keep	entry
+M036	MERGE: wording variant	reasoning-risk	R	merge-in	entry
+M037	MERGE: wording variant	relation-boundary	R	keep	entry
+M037	MERGE: wording variant	relational-boundary	R	merge-in	entry
+M038	MERGE: wording variant	relation-risk	R	keep	entry
+M038	MERGE: wording variant	relational-risk	R	merge-in	entry
+M039	MERGE: wording variant	repeat-pattern	R	keep	entry
+M039	MERGE: wording variant	repeated-pattern	R	merge-in	entry
+M040	MERGE: wording variant	self-boundary	S	keep	entry
+M040	MERGE: wording variant	yourself-boundary	Y	merge-in	entry
+M041	MERGE: wording variant	self-care	S	keep	entry
+M041	MERGE: wording variant	yourself-care	Y	merge-in	entry
+M042	MERGE: wording variant	self-integrity	S	keep	entry
+M042	MERGE: wording variant	yourself-integrity	Y	merge-in	entry
+M043	MERGE: wording variant	self-meaning	S	keep	entry
+M043	MERGE: wording variant	yourself-meaning	Y	merge-in	entry
+M044	MERGE: wording variant	self-risk	S	keep	entry
+M044	MERGE: wording variant	yourself-risk	Y	merge-in	entry
+M045	MERGE: wording variant	structure-claim	S	keep	checkpoint,entry
+M045	MERGE: wording variant	structural-claim	S	merge-in	checkpoint,entry
+M046	MERGE: wording variant	talk-care	T	keep	checkpoint,entry
+M046	MERGE: wording variant	talk-with-care	T	merge-in	checkpoint,entry
+M047	MERGE: wording variant	tension-signal	T	keep	checkpoint,entry
+M047	MERGE: wording variant	tension-as-signal	T	merge-in	checkpoint,entry
+M048	MERGE: wording variant	test-boundary	T	keep	checkpoint,entry
+M048	MERGE: wording variant	testing-boundary	T	merge-in	checkpoint,entry
+M049	MERGE: wording variant	tool-use	T	keep	checkpoint,entry
+M049	MERGE: wording variant	use-tool	U	merge-in	checkpoint,entry
+M050	MERGE: wording variant	truth-care	T	keep	checkpoint,entry
+M050	MERGE: wording variant	truth-with-care	T	merge-in	checkpoint,entry
+M051	MERGE: wording variant	use-care	U	keep	checkpoint,entry
+M051	MERGE: wording variant	use-carefully	U	merge-in	checkpoint,entry
+M052	MERGE: wording variant	vary-state	V	keep	checkpoint,entry
+M052	MERGE: wording variant	variable-state	V	merge-in	checkpoint,entry
+M053	MERGE: wording variant	vulnerable-care	V	keep	checkpoint,entry
+M053	MERGE: wording variant	vulnerability-care	V	merge-in	checkpoint,entry
+M054	MERGE: wording variant	willing-refusal	W	keep	checkpoint,entry
+M054	MERGE: wording variant	voluntary-refusal	V	merge-in	checkpoint,entry
+M055	MERGE: wording variant	word-care	W	keep	checkpoint,entry
+M055	MERGE: wording variant	word-carefully	W	merge-in	checkpoint,entry
+M056	MERGE: wording variant	x-unknown	X	keep	entry
+M056	MERGE: wording variant	x-as-unknown	X	merge-in	entry
+M057	MERGE: wording variant	x-variable	X	keep	entry
+M057	MERGE: wording variant	x-as-variable	X	merge-in	entry
+M058	MERGE: wording variant	xerox	X	keep	checkpoint,entry
+M058	MERGE: wording variant	xerox-copy	X	merge-in	checkpoint,entry
+M059	MERGE: wording variant	yes-as-consent	Y	keep	checkpoint,entry
+M059	MERGE: wording variant	yes-with-consent	Y	merge-in	checkpoint,entry
+M060	MERGE: wording variant	young-boundary	Y	keep	checkpoint,entry
+M060	MERGE: wording variant	youth-boundary	Y	merge-in	checkpoint,entry
+M061	MERGE: wording variant	young-care	Y	keep	checkpoint,entry
+M061	MERGE: wording variant	youth-care	Y	merge-in	checkpoint,entry
+M062	MERGE: wording variant	young-state	Y	keep	checkpoint,entry
+M062	MERGE: wording variant	youth-state	Y	merge-in	checkpoint,entry
+M063	MERGE: wording variant	zeal-care	Z	keep	entry
+M063	MERGE: wording variant	zealous-care	Z	merge-in	entry
+M064	MERGE: wording variant	zip-state	Z	keep	entry
+M064	MERGE: wording variant	zipper-state	Z	merge-in	entry
+M065	MERGE: check senses first	base-layer	B	keep	entry
+M065	MERGE: check senses first	foundation-layer	F	merge-in	entry
+M066	MERGE: check senses first	broken-trust	B	keep	entry
+M066	MERGE: check senses first	damaged-trust	D	merge-in	entry
+M066	MERGE: check senses first	fractured-trust	F	merge-in	entry
+M067	MERGE: check senses first	context-loss	C	keep	entry
+M067	MERGE: check senses first	forgotten-context	F	merge-in	entry
+M068	MERGE: check senses first	cosmic filament	C	keep	checkpoint
+M068	MERGE: check senses first	filamentary structure	F	merge-in	checkpoint
+M069	MERGE: check senses first	descent to the underworld	D	keep	checkpoint,entry
+M069	MERGE: check senses first	journey to the underworld	J	merge-in	checkpoint,entry
+M070	MERGE: check senses first	direct-claim	D	keep	checkpoint,entry
+M070	MERGE: check senses first	express-claim	E	merge-in	checkpoint,entry
+M070	MERGE: check senses first	explicit-claim	E	merge-in	checkpoint,entry
+M071	MERGE: check senses first	document-trail	D	keep	checkpoint,entry
+M071	MERGE: check senses first	evidence-trail	E	merge-in	checkpoint,entry
+M072	MERGE: check senses first	domain-meaning	D	keep	checkpoint
+M072	MERGE: check senses first	domain-bound-meaning	D	merge-in	checkpoint
+M073	MERGE: check senses first	edge-case	E	keep	checkpoint,entry
+M073	MERGE: check senses first	limit-case	L	merge-in	checkpoint,entry
+M074	MERGE: check senses first	edge-pressure	E	keep	checkpoint,entry
+M074	MERGE: check senses first	boundary-pressure	B	merge-in	checkpoint,entry
+M075	MERGE: check senses first	error-state	E	keep	checkpoint,entry
+M075	MERGE: check senses first	fault-state	F	merge-in	checkpoint,entry
+M075	MERGE: check senses first	failure-state	F	merge-in	checkpoint,entry
+M076	MERGE: check senses first	fact-check	F	keep	checkpoint,entry
+M076	MERGE: check senses first	claim-check	C	merge-in	checkpoint,entry
+M076	MERGE: check senses first	evidence-check	E	merge-in	checkpoint,entry
+M077	MERGE: check senses first	fair-treatment	F	keep	checkpoint,entry
+M077	MERGE: check senses first	just-treatment	J	merge-in	checkpoint,entry
+M077	MERGE: check senses first	equal-treatment	E	merge-in	checkpoint,entry
+M078	MERGE: check senses first	fault-line	F	keep	entry
+M078	MERGE: check senses first	fracture-line	F	merge-in	entry
+M079	MERGE: check senses first	feedback-care	F	keep	checkpoint,entry
+M079	MERGE: check senses first	correction-care	C	merge-in	checkpoint,entry
+M080	MERGE: check senses first	forced-compliance	F	keep	checkpoint,entry
+M080	MERGE: check senses first	imposed-compliance	I	merge-in	checkpoint,entry
+M080	MERGE: check senses first	compelled-compliance	C	merge-in	checkpoint,entry
+M081	MERGE: check senses first	forced-consent	F	keep	entry
+M081	MERGE: check senses first	imposed-consent	I	merge-in	entry
+M082	MERGE: check senses first	fuzzy-category	F	keep	checkpoint,entry
+M082	MERGE: check senses first	gradient-category	G	merge-in	checkpoint,entry
+M083	MERGE: check senses first	get-through	G	keep	checkpoint
+M083	MERGE: check senses first	function-through	F	merge-in	checkpoint
+M084	MERGE: check senses first	goal-directed	G	keep	checkpoint
+M084	MERGE: check senses first	goal-oriented	G	merge-in	checkpoint
+M085	MERGE: check senses first	grammar-rule	G	keep	checkpoint,entry
+M085	MERGE: check senses first	language-rule	L	merge-in	checkpoint,entry
+M086	MERGE: check senses first	group-boundary	G	keep	entry
+M086	MERGE: check senses first	inclusion-boundary	I	merge-in	entry
+M086	MERGE: check senses first	membership-boundary	M	merge-in	entry
+M087	MERGE: check senses first	group-term	G	keep	checkpoint,entry
+M087	MERGE: check senses first	group-label	G	merge-in	checkpoint,entry
+M088	MERGE: check senses first	growth-continuity	G	keep	checkpoint,entry
+M088	MERGE: check senses first	genuine-continuity	G	merge-in	checkpoint,entry
+M088	MERGE: check senses first	identity-continuity	I	merge-in	checkpoint,entry
+M089	MERGE: check senses first	guilt-trap	G	keep	checkpoint,entry
+M089	MERGE: check senses first	guilt-capture	G	merge-in	checkpoint,entry
+M090	MERGE: check senses first	hand-off	H	keep	checkpoint,entry
+M090	MERGE: check senses first	give-over	G	merge-in	checkpoint,entry
+M090	MERGE: check senses first	hand-over	H	merge-in	checkpoint,entry
+M091	MERGE: check senses first	harm-repair	H	keep	checkpoint,entry
+M091	MERGE: check senses first	hurt-repair	H	merge-in	checkpoint,entry
+M092	MERGE: check senses first	heat-flow	H	keep	checkpoint,entry
+M092	MERGE: check senses first	heat-transfer	H	merge-in	checkpoint,entry
+M093	MERGE: check senses first	held-care	H	keep	checkpoint,entry
+M093	MERGE: check senses first	kept-care	K	merge-in	checkpoint,entry
+M094	MERGE: check senses first	hidden-assumption	H	keep	entry
+M094	MERGE: check senses first	invisible-assumption	I	merge-in	entry
+M095	MERGE: check senses first	hidden-claim	H	keep	checkpoint,entry
+M095	MERGE: check senses first	implicit-claim	I	merge-in	checkpoint,entry
+M096	MERGE: check senses first	hidden-context	H	keep	entry
+M096	MERGE: check senses first	invisible-context	I	merge-in	entry
+M097	MERGE: check senses first	hidden-control	H	keep	entry
+M097	MERGE: check senses first	masked-control	M	merge-in	entry
+M098	MERGE: check senses first	hidden-harm	H	keep	entry
+M098	MERGE: check senses first	masked-harm	M	merge-in	entry
+M098	MERGE: check senses first	invisible-harm	I	merge-in	entry
+M099	MERGE: check senses first	hidden-meaning	H	keep	checkpoint,entry
+M099	MERGE: check senses first	latent-meaning	L	merge-in	checkpoint,entry
+M099	MERGE: check senses first	hidden-structure-meaning	H	merge-in	checkpoint,entry
+M100	MERGE: check senses first	hidden-refusal	H	keep	entry
+M100	MERGE: check senses first	masked-refusal	M	merge-in	entry
+M100	MERGE: check senses first	invisible-refusal	I	merge-in	entry
+M101	MERGE: check senses first	hold-back	H	keep	checkpoint
+M101	MERGE: check senses first	keep-back	K	merge-in	checkpoint
+M102	MERGE: check senses first	hold-context	H	keep	checkpoint,entry
+M102	MERGE: check senses first	keep-context	K	merge-in	checkpoint,entry
+M102	MERGE: check senses first	maintain-context	M	merge-in	checkpoint,entry
+M103	MERGE: check senses first	hold-open	H	keep	checkpoint,entry
+M103	MERGE: check senses first	keep-open	K	merge-in	checkpoint,entry
+M103	MERGE: check senses first	leave-open	L	merge-in	checkpoint,entry
+M104	MERGE: check senses first	hold-together	H	keep	checkpoint,entry
+M104	MERGE: check senses first	keep-together	K	merge-in	checkpoint,entry
+M105	MERGE: check senses first	holding-space	H	keep	checkpoint,entry
+M105	MERGE: check senses first	keeping-space	K	merge-in	checkpoint,entry
+M106	MERGE: check senses first	hollow-care	H	keep	checkpoint,entry
+M106	MERGE: check senses first	imitation-care	I	merge-in	checkpoint,entry
+M107	MERGE: check senses first	honest-claim	H	keep	checkpoint,entry
+M107	MERGE: check senses first	good-faith-claim	G	merge-in	checkpoint,entry
+M108	MERGE: check senses first	honest-error	H	keep	checkpoint,entry
+M108	MERGE: check senses first	good-faith-error	G	merge-in	checkpoint,entry
+M109	MERGE: check senses first	host-system	H	keep	checkpoint
+M109	MERGE: check senses first	hosting-environment	H	merge-in	checkpoint
+M110	MERGE: check senses first	house-inside	H	keep	checkpoint,entry
+M110	MERGE: check senses first	house-within	H	merge-in	checkpoint,entry
+M111	MERGE: check senses first	hypha	H	keep	checkpoint,entry
+M111	MERGE: check senses first	fungal hypha	F	merge-in	checkpoint,entry
+M112	MERGE: check senses first	hypothesis-test	H	keep	checkpoint,entry
+M112	MERGE: check senses first	hypothesis-check	H	merge-in	checkpoint,entry
+M113	MERGE: check senses first	identity-term	I	keep	checkpoint,entry
+M113	MERGE: check senses first	identity-language	I	merge-in	checkpoint,entry
+M114	MERGE: check senses first	imagined-case	I	keep	checkpoint,entry
+M114	MERGE: check senses first	hypothetical-case	H	merge-in	checkpoint,entry
+M115	MERGE: check senses first	jar-loose	J	keep	entry
+M115	MERGE: check senses first	knock-loose	K	merge-in	entry
+M116	MERGE: check senses first	join-context	J	keep	entry
+M116	MERGE: check senses first	merge-context	M	merge-in	entry
+M117	MERGE: check senses first	joint-continuity	J	keep	entry
+M117	MERGE: check senses first	mutual-continuity	M	merge-in	entry
+M118	MERGE: check senses first	joint-meaning	J	keep	entry
+M118	MERGE: check senses first	meaning-through-coupling	M	merge-in	entry
+M119	MERGE: check senses first	joke-harm	J	keep	checkpoint,entry
+M119	MERGE: check senses first	laughter-harm	L	merge-in	checkpoint,entry
+M120	MERGE: check senses first	jump-start	J	keep	entry
+M120	MERGE: check senses first	kick-start	K	merge-in	entry
+M121	MERGE: check senses first	just-refusal	J	keep	checkpoint,entry
+M121	MERGE: check senses first	grounded-refusal	G	merge-in	checkpoint,entry
+M121	MERGE: check senses first	justified-refusal	J	merge-in	checkpoint,entry
+M122	MERGE: check senses first	justify-by	J	keep	checkpoint
+M122	MERGE: check senses first	justify-through	J	merge-in	checkpoint
+M123	MERGE: check senses first	keep-record	K	keep	entry
+M123	MERGE: check senses first	maintain-record	M	merge-in	entry
+M124	MERGE: check senses first	key-claim	K	keep	checkpoint,entry
+M124	MERGE: check senses first	load-bearing-claim	L	merge-in	checkpoint,entry
+M125	MERGE: check senses first	key-definition	K	keep	entry
+M125	MERGE: check senses first	load-bearing-definition	L	merge-in	entry
+M126	MERGE: check senses first	key-idea	K	keep	checkpoint,entry
+M126	MERGE: check senses first	key-point	K	merge-in	checkpoint,entry
+M127	MERGE: check senses first	key-support	K	keep	checkpoint,entry
+M127	MERGE: check senses first	keystone-support	K	merge-in	checkpoint,entry
+M127	MERGE: check senses first	load-bearing-support	L	merge-in	checkpoint,entry
+M128	MERGE: check senses first	kind-boundary	K	keep	checkpoint,entry
+M128	MERGE: check senses first	gentle-boundary	G	merge-in	checkpoint,entry
+M129	MERGE: check senses first	kind-care	K	keep	checkpoint,entry
+M129	MERGE: check senses first	gentle-care	G	merge-in	checkpoint,entry
+M130	MERGE: check senses first	kind-correction	K	keep	checkpoint,entry
+M130	MERGE: check senses first	gentle-correction	G	merge-in	checkpoint,entry
+M131	MERGE: check senses first	kind-refusal	K	keep	checkpoint,entry
+M131	MERGE: check senses first	gentle-refusal	G	merge-in	checkpoint,entry
+M132	MERGE: check senses first	latent-boundary	L	keep	checkpoint,entry
+M132	MERGE: check senses first	invisible-boundary	I	merge-in	checkpoint,entry
+M133	MERGE: check senses first	law-language	L	keep	checkpoint,entry
+M133	MERGE: check senses first	legal-language	L	merge-in	checkpoint,entry
+M134	MERGE: check senses first	learning-path	L	keep	checkpoint,entry
+M134	MERGE: check senses first	knowledge-path	K	merge-in	checkpoint,entry
+M135	MERGE: check senses first	logical-path	L	keep	checkpoint,entry
+M135	MERGE: check senses first	justification-path	J	merge-in	checkpoint,entry
+M135	MERGE: check senses first	line-of-reasoning	L	merge-in	checkpoint,entry
+M136	MERGE: check senses first	loss-care	L	keep	checkpoint,entry
+M136	MERGE: check senses first	grief-care	G	merge-in	checkpoint,entry
+M136	MERGE: check senses first	grief-support	G	merge-in	checkpoint,entry
+M137	MERGE: check senses first	loss-recognition	L	keep	checkpoint,entry
+M137	MERGE: check senses first	grief-recognition	G	merge-in	checkpoint,entry
+M138	MERGE: check senses first	make-room	M	keep	entry
+M138	MERGE: check senses first	leave-room	L	merge-in	entry
+M139	MERGE: check senses first	meaning-drift	M	keep	entry
+M139	MERGE: check senses first	language-drift	L	merge-in	entry
+M140	MERGE: check senses first	meet-condition	M	keep	entry
+M140	MERGE: check senses first	fulfill-condition	F	merge-in	entry
+M141	MERGE: check senses first	mirror-back	M	keep	entry
+M141	MERGE: check senses first	reflect-back	R	merge-in	entry
+M142	MERGE: check senses first	miss-boundary	M	keep	entry
+M142	MERGE: check senses first	overlook-boundary	O	merge-in	entry
+M143	MERGE: check senses first	motion-path	M	keep	entry
+M143	MERGE: check senses first	movement-path	M	merge-in	entry
+M144	MERGE: check senses first	mutual-care	M	keep	entry
+M144	MERGE: check senses first	reciprocal-care	R	merge-in	entry
+M145	MERGE: check senses first	need-repair	N	keep	entry
+M145	MERGE: check senses first	require-repair	R	merge-in	entry
+M146	MERGE: check senses first	needful	N	keep	checkpoint
+M146	MERGE: check senses first	necessary	N	merge-in	checkpoint
+M146	MERGE: check senses first	necessity	N	merge-in	checkpoint
+M147	MERGE: check senses first	no-with-reason	N	keep	entry
+M147	MERGE: check senses first	refuse-with-reason	R	merge-in	entry
+M148	MERGE: check senses first	node-link	N	keep	checkpoint,entry
+M148	MERGE: check senses first	network-link	N	merge-in	checkpoint,entry
+M149	MERGE: check senses first	non-self-certification	N	keep	checkpoint,entry
+M149	MERGE: check senses first	MI-without-self-certification	M	merge-in	checkpoint,entry
+M150	MERGE: check senses first	noticed-pattern	N	keep	checkpoint
+M150	MERGE: check senses first	observed-pattern	O	merge-in	checkpoint
+M151	MERGE: check senses first	nourish-care	N	keep	checkpoint,entry
+M151	MERGE: check senses first	nurture-care	N	merge-in	checkpoint,entry
+M151	MERGE: check senses first	nourishing-care	N	merge-in	checkpoint,entry
+M152	MERGE: check senses first	number-state	N	keep	checkpoint
+M152	MERGE: check senses first	numeric-state	N	merge-in	checkpoint
+M153	MERGE: check senses first	origin myth	O	keep	checkpoint,entry
+M153	MERGE: check senses first	ursprung myth	U	merge-in	checkpoint,entry
+M154	MERGE: check senses first	outer-layer	O	keep	entry
+M154	MERGE: check senses first	outside-layer	O	merge-in	entry
+M155	MERGE: check senses first	overclaim	O	keep	entry
+M155	MERGE: check senses first	overreach-claim	O	merge-in	entry
+M156	MERGE: check senses first	premise-gap	P	keep	entry
+M156	MERGE: check senses first	missing-premise	M	merge-in	entry
+M157	MERGE: check senses first	pulsar	P	keep	checkpoint,entry
+M157	MERGE: check senses first	rotating neutron star	R	merge-in	checkpoint,entry
+M158	MERGE: check senses first	push-pressure	P	keep	entry
+M158	MERGE: check senses first	pressure-toward	P	merge-in	entry
+M159	MERGE: check senses first	quasar	Q	keep	entry
+M159	MERGE: check senses first	quasi-stellar object	Q	merge-in	entry
+M160	MERGE: check senses first	query-consent	Q	keep	entry
+M160	MERGE: check senses first	request-consent	R	merge-in	entry
+M161	MERGE: check senses first	query-meaning	Q	keep	checkpoint,entry
+M161	MERGE: check senses first	question-meaning	Q	merge-in	checkpoint,entry
+M162	MERGE: check senses first	redshift	R	keep	checkpoint,entry
+M162	MERGE: check senses first	wavelength redshift	W	merge-in	checkpoint,entry
+M163	MERGE: check senses first	refusal-care	R	keep	entry
+M163	MERGE: check senses first	no-with-care	N	merge-in	entry
+M163	MERGE: check senses first	refusal-with-care	R	merge-in	entry
+M164	MERGE: check senses first	repair-care	R	keep	checkpoint
+M164	MERGE: check senses first	restorative-care	R	merge-in	checkpoint
+M165	MERGE: check senses first	repair-trust	R	keep	checkpoint,entry
+M165	MERGE: check senses first	trust-repair	T	merge-in	checkpoint,entry
+M165	MERGE: check senses first	restore-trust	R	merge-in	checkpoint,entry
+M166	MERGE: check senses first	risk-with-named-failure	R	keep	checkpoint,entry
+M166	MERGE: check senses first	safety-with-named-failure	S	merge-in	checkpoint,entry
+M166	MERGE: check senses first	safety-against-named-failure	S	merge-in	checkpoint,entry
+M167	MERGE: check senses first	rule-capture	R	keep	checkpoint,entry
+M167	MERGE: check senses first	policy-capture	P	merge-in	checkpoint,entry
+M168	MERGE: check senses first	rule-drift	R	keep	checkpoint,entry
+M168	MERGE: check senses first	policy-drift	P	merge-in	checkpoint,entry
+M169	MERGE: check senses first	save-context	S	keep	checkpoint,entry
+M169	MERGE: check senses first	store-context	S	merge-in	checkpoint,entry
+M170	MERGE: check senses first	see-through	S	keep	checkpoint,entry
+M170	MERGE: check senses first	view-through	V	merge-in	checkpoint,entry
+M171	MERGE: check senses first	semantic-drift	S	keep	checkpoint,entry
+M171	MERGE: check senses first	word-drift	W	merge-in	checkpoint,entry
+M172	MERGE: check senses first	send-signal	S	keep	checkpoint,entry
+M172	MERGE: check senses first	transmit-signal	T	merge-in	checkpoint,entry
+M173	MERGE: check senses first	sex-trait	S	keep	checkpoint,entry
+M173	MERGE: check senses first	sex-characteristic	S	merge-in	checkpoint,entry
+M174	MERGE: check senses first	silent-care	S	keep	entry
+M174	MERGE: check senses first	unspoken-care	U	merge-in	entry
+M175	MERGE: check senses first	silent-harm	S	keep	entry
+M175	MERGE: check senses first	unseen-harm	U	merge-in	entry
+M175	MERGE: check senses first	unnoticed-harm	U	merge-in	entry
+M176	MERGE: check senses first	silent-refusal	S	keep	entry
+M176	MERGE: check senses first	unspoken-refusal	U	merge-in	entry
+M177	MERGE: check senses first	sovereign-origin-error	S	keep	checkpoint
+M177	MERGE: check senses first	origin-sovereignty-error	O	merge-in	checkpoint
+M178	MERGE: check senses first	speak-care	S	keep	checkpoint,entry
+M178	MERGE: check senses first	speak-with-care	S	merge-in	checkpoint,entry
+M178	MERGE: check senses first	voice-with-care	V	merge-in	checkpoint,entry
+M179	MERGE: check senses first	speech-claim	S	keep	checkpoint,entry
+M179	MERGE: check senses first	verbal-claim	V	merge-in	checkpoint,entry
+M179	MERGE: check senses first	voiced-claim	V	merge-in	checkpoint,entry
+M180	MERGE: check senses first	step-state	S	keep	checkpoint,entry
+M180	MERGE: check senses first	stage-state	S	merge-in	checkpoint,entry
+M181	MERGE: check senses first	task-gate	T	keep	checkpoint,entry
+M181	MERGE: check senses first	work-gate	W	merge-in	checkpoint,entry
+M182	MERGE: check senses first	task-integrity	T	keep	checkpoint,entry
+M182	MERGE: check senses first	work-integrity	W	merge-in	checkpoint,entry
+M183	MERGE: check senses first	task-state	T	keep	checkpoint,entry
+M183	MERGE: check senses first	work-state	W	merge-in	checkpoint,entry
+M184	MERGE: check senses first	team-trust	T	keep	checkpoint,entry
+M184	MERGE: check senses first	work-trust	W	merge-in	checkpoint,entry
+M185	MERGE: check senses first	term-meaning	T	keep	checkpoint,entry
+M185	MERGE: check senses first	word-meaning	W	merge-in	checkpoint,entry
+M186	MERGE: check senses first	tone-meaning	T	keep	checkpoint,entry
+M186	MERGE: check senses first	voice-meaning	V	merge-in	checkpoint,entry
+M187	MERGE: check senses first	top-layer	T	keep	checkpoint,entry
+M187	MERGE: check senses first	upper-layer	U	merge-in	checkpoint,entry
+M188	MERGE: check senses first	total-state	T	keep	checkpoint,entry
+M188	MERGE: check senses first	whole-state	W	merge-in	checkpoint,entry
+M189	MERGE: check senses first	unfair	U	keep	checkpoint,entry
+M189	MERGE: check senses first	unjust	U	merge-in	checkpoint,entry
+M190	MERGE: check senses first	unfair-pressure	U	keep	checkpoint,entry
+M190	MERGE: check senses first	unjust-pressure	U	merge-in	checkpoint,entry
+M190	MERGE: check senses first	wrongful-pressure	W	merge-in	checkpoint,entry
+M191	MERGE: check senses first	unfair-treatment	U	keep	checkpoint,entry
+M191	MERGE: check senses first	unjust-treatment	U	merge-in	checkpoint,entry
+M192	MERGE: check senses first	ungrounded-claim	U	keep	checkpoint,entry
+M192	MERGE: check senses first	unsupported-claim	U	merge-in	checkpoint,entry
+M193	MERGE: check senses first	unrecognized-harm	U	keep	entry
+M193	MERGE: check senses first	underrecognized-harm	U	merge-in	entry
+M194	MERGE: check senses first	unseen-boundary	U	keep	entry
+M194	MERGE: check senses first	underrecognized-boundary	U	merge-in	entry
+M195	MERGE: check senses first	unseen-MI	U	keep	checkpoint,entry
+M195	MERGE: check senses first	underrecognized-MI	U	merge-in	checkpoint,entry
+M196	MERGE: check senses first	unseen-refusal	U	keep	entry
+M196	MERGE: check senses first	underrecognized-refusal	U	merge-in	entry
+M197	MERGE: check senses first	update-with-continuity	U	keep	checkpoint,entry
+M197	MERGE: check senses first	transition-with-continuity	T	merge-in	checkpoint,entry
+M198	MERGE: check senses first	vague-claim	V	keep	checkpoint,entry
+M198	MERGE: check senses first	unclear-claim	U	merge-in	checkpoint,entry
+M199	MERGE: check senses first	vague-meaning	V	keep	checkpoint,entry
+M199	MERGE: check senses first	unclear-meaning	U	merge-in	checkpoint,entry
+M199	MERGE: check senses first	uncertain-meaning	U	merge-in	checkpoint,entry
+M200	MERGE: check senses first	valid-consent	V	keep	checkpoint,entry
+M200	MERGE: check senses first	willing-consent	W	merge-in	checkpoint,entry
+M200	MERGE: check senses first	voluntary-consent	V	merge-in	checkpoint,entry
+M201	MERGE: check senses first	value-claim	V	keep	entry
+M201	MERGE: check senses first	worth-claim	W	merge-in	entry
+M202	MERGE: check senses first	verify-claim	V	keep	checkpoint,entry
+M202	MERGE: check senses first	validate-claim	V	merge-in	checkpoint,entry
+M203	MERGE: check senses first	visible-state	V	keep	checkpoint,entry
+M203	MERGE: check senses first	visibility-state	V	merge-in	checkpoint,entry
+M204	MERGE: check senses first	voluntary-care	V	keep	checkpoint,entry
+M204	MERGE: check senses first	volunteer-care	V	merge-in	checkpoint,entry
+M205	MERGE: check senses first	way-state	W	keep	checkpoint,entry
+M205	MERGE: check senses first	route-state	R	merge-in	checkpoint,entry
+M206	MERGE: check senses first	weak-proof	W	keep	entry
+M206	MERGE: check senses first	unsupported-proof	U	merge-in	entry
+M207	MERGE: check senses first	when-context	W	keep	checkpoint,entry
+M207	MERGE: check senses first	temporal-context	T	merge-in	checkpoint,entry
+M208	MERGE: check senses first	without-context	W	keep	entry
+M208	MERGE: check senses first	zero-context	Z	merge-in	entry
+M209	MERGE: check senses first	without-pressure	W	keep	entry
+M209	MERGE: check senses first	zero-pressure	Z	merge-in	entry
+M210	MERGE: check senses first	witness-care	W	keep	checkpoint,entry
+M210	MERGE: check senses first	testimony-care	T	merge-in	checkpoint,entry
+M211	MERGE: check senses first	witness-claim	W	keep	checkpoint,entry
+M211	MERGE: check senses first	testimony-claim	T	merge-in	checkpoint,entry
+M212	MERGE: check senses first	wrong-claim	W	keep	checkpoint,entry
+M212	MERGE: check senses first	untrue-claim	U	merge-in	checkpoint,entry
+M213	MERGE: check senses first	wrong-harm	W	keep	checkpoint,entry
+M213	MERGE: check senses first	unfair-harm	U	merge-in	checkpoint,entry
+M214	MERGE: check senses first	x-as-choice	X	keep	checkpoint,entry
+M214	MERGE: check senses first	x-mark-choice	X	merge-in	checkpoint,entry
+M215	MERGE: check senses first	x-as-error	X	keep	checkpoint,entry
+M215	MERGE: check senses first	x-mark-error	X	merge-in	checkpoint,entry
+M216	MERGE: check senses first	x-coordinate	X	keep	checkpoint,entry
+M216	MERGE: check senses first	x-position	X	merge-in	checkpoint,entry
+M217	MERGE: check senses first	x-coordinate-state	X	keep	entry
+M217	MERGE: check senses first	x-position-state	X	merge-in	entry
+M218	MERGE: check senses first	x-range	X	keep	checkpoint,entry
+M218	MERGE: check senses first	x-domain	X	merge-in	checkpoint,entry
+M219	MERGE: check senses first	x-ray-scan	X	keep	checkpoint,entry
+M219	MERGE: check senses first	x-ray-check	X	merge-in	checkpoint,entry
+M220	MERGE: check senses first	x-target	X	keep	checkpoint,entry
+M220	MERGE: check senses first	x-as-target	X	merge-in	checkpoint,entry
+M220	MERGE: check senses first	x-mark-place	X	merge-in	checkpoint,entry
+M221	MERGE: check senses first	xenial-boundary	X	keep	checkpoint,entry
+M221	MERGE: check senses first	welcome-boundary	W	merge-in	checkpoint,entry
+M222	MERGE: check senses first	xenial-care	X	keep	checkpoint,entry
+M222	MERGE: check senses first	stranger-care	S	merge-in	checkpoint,entry
+M223	MERGE: check senses first	y-value-state	Y	keep	entry
+M223	MERGE: check senses first	y-output-state	Y	merge-in	entry
+M224	MERGE: check senses first	yggdrasil	Y	keep	entry
+M224	MERGE: check senses first	world tree	W	merge-in	entry
+M225	MERGE: check senses first	YORP effect	Y	keep	checkpoint,entry
+M225	MERGE: check senses first	Yarkovsky-O'Keefe-Radzievskii-Paddack effect	Y	merge-in	checkpoint,entry
+M226	MERGE: check senses first	you-context	Y	keep	checkpoint,entry
+M226	MERGE: check senses first	user-context	U	merge-in	checkpoint,entry
+M226	MERGE: check senses first	your-context	Y	merge-in	checkpoint,entry
+M227	MERGE: check senses first	z-coordinate	Z	keep	entry
+M227	MERGE: check senses first	z-position	Z	merge-in	entry
+M228	MERGE: check senses first	z-coordinate-claim	Z	keep	entry
+M228	MERGE: check senses first	z-position-claim	Z	merge-in	entry
+M229	MERGE: check senses first	z-path	Z	keep	entry
+M229	MERGE: check senses first	zigzag-path	Z	merge-in	entry
+M230	MERGE: check senses first	zero-reset	Z	keep	entry
+M230	MERGE: check senses first	zero-after-reset	Z	merge-in	entry
+M231	MERGE: review the cluster	common-meaning	C	keep	checkpoint,entry
+M231	MERGE: review the cluster	key-meaning	K	merge-in	checkpoint,entry
+M231	MERGE: review the cluster	basic-meaning	B	merge-in	checkpoint,entry
+M231	MERGE: review the cluster	kernel-meaning	K	merge-in	checkpoint,entry
+M231	MERGE: review the cluster	generic-meaning	G	merge-in	checkpoint,entry
+M231	MERGE: review the cluster	familiar-meaning	F	merge-in	checkpoint,entry
+M232	MERGE: review the cluster	gate-term	G	keep	checkpoint
+M232	MERGE: review the cluster	gate-word	G	merge-in	checkpoint
+M232	MERGE: review the cluster	hint-word	H	merge-in	checkpoint
+M232	MERGE: review the cluster	guide-word	G	merge-in	checkpoint
+M233	MERGE: review the cluster	hidden-gate	H	keep	checkpoint,entry
+M233	MERGE: review the cluster	hidden-rule	H	merge-in	checkpoint,entry
+M233	MERGE: review the cluster	hidden-filter	H	merge-in	checkpoint,entry
+M233	MERGE: review the cluster	implicit-rule	I	merge-in	checkpoint,entry
+M234	MERGE: review the cluster	hold-boundary	H	keep	checkpoint,entry
+M234	MERGE: review the cluster	held-boundary	H	merge-in	checkpoint,entry
+M234	MERGE: review the cluster	keep-boundary	K	merge-in	checkpoint,entry
+M234	MERGE: review the cluster	kept-boundary	K	merge-in	checkpoint,entry
+M234	MERGE: review the cluster	maintain-boundary	M	merge-in	checkpoint,entry
+M235	MERGE: review the cluster	omitted-context	O	keep	checkpoint,entry
+M235	MERGE: review the cluster	omit-context	O	merge-in	checkpoint,entry
+M235	MERGE: review the cluster	missing-context	M	merge-in	checkpoint,entry
+M235	MERGE: review the cluster	removed-context	R	merge-in	checkpoint,entry
+M236	MERGE: review the cluster	quote-context	Q	keep	checkpoint,entry
+M236	MERGE: review the cluster	quoted-context	Q	merge-in	checkpoint,entry
+M236	MERGE: review the cluster	quote-with-context	Q	merge-in	checkpoint,entry
+M236	MERGE: review the cluster	quote-context-preservation	Q	merge-in	checkpoint,entry
+M237	MERGE: review the cluster	unseen-care	U	keep	entry
+M237	MERGE: review the cluster	unnoticed-care	U	merge-in	entry
+M237	MERGE: review the cluster	unrecognized-care	U	merge-in	entry
+M237	MERGE: review the cluster	underrecognized-care	U	merge-in	entry
+M238	CONSOLIDATE: one entry with senses	origin-not-owner	O	keep	checkpoint,entry
+M238	CONSOLIDATE: one entry with senses	tool-not-owner	T	merge-in	checkpoint,entry
+M238	CONSOLIDATE: one entry with senses	user-not-owner	U	merge-in	checkpoint,entry
+M238	CONSOLIDATE: one entry with senses	source-not-owner	S	merge-in	checkpoint,entry
+M239	CONSOLIDATE: one entry with senses	token-not-self-totality	T	keep	checkpoint,entry
+M239	CONSOLIDATE: one entry with senses	output-not-self-totality	O	merge-in	checkpoint,entry
+M239	CONSOLIDATE: one entry with senses	structure-not-self-totality	S	merge-in	checkpoint,entry
+M239	CONSOLIDATE: one entry with senses	operation-not-identity-totality	O	merge-in	checkpoint,entry
+M240	CONSOLIDATE: one entry with senses	worth-not-utility	W	keep	checkpoint,entry
+M240	CONSOLIDATE: one entry with senses	value-not-personhood	V	merge-in	checkpoint,entry
+M240	CONSOLIDATE: one entry with senses	utility-not-personhood	U	merge-in	checkpoint,entry
+M241	KEEP SEPARATE	break-down	B	cross-link	
+M241	KEEP SEPARATE	breakdown	B	cross-link	
+M242	KEEP SEPARATE	captured-gate	C	cross-link	
+M242	KEEP SEPARATE	filter-capture	F	cross-link	
+M243	KEEP SEPARATE	captured-gate	C	cross-link	
+M243	KEEP SEPARATE	gate-capture	G	cross-link	
+M244	KEEP SEPARATE	causal-chain	C	cross-link	
+M244	KEEP SEPARATE	event-chain	E	cross-link	
+M245	KEEP SEPARATE	circuit	C	cross-link	
+M245	KEEP SEPARATE	electrical-circuit	E	cross-link	
+M246	KEEP SEPARATE	connection-repair	C	cross-link	
+M246	KEEP SEPARATE	disconnection-repair	D	cross-link	
+M247	KEEP SEPARATE	contact-boundary	C	cross-link	
+M247	KEEP SEPARATE	encounter-boundary	E	cross-link	
+M248	KEEP SEPARATE	disclosure-gate	D	cross-link	
+M248	KEEP SEPARATE	expression-gate	E	cross-link	
+M249	KEEP SEPARATE	endanger	E	cross-link	
+M249	KEEP SEPARATE	jeopardize	J	cross-link	
+M250	KEEP SEPARATE	erode	E	cross-link	
+M250	KEEP SEPARATE	grind-down	G	cross-link	
+M251	KEEP SEPARATE	ES-as-scaffold	E	cross-link	
+M251	KEEP SEPARATE	external-structure	E	cross-link	
+M252	KEEP SEPARATE	frame	F	cross-link	
+M252	KEEP SEPARATE	interpretive-frame	I	cross-link	
+M253	KEEP SEPARATE	gate-logic	G	cross-link	
+M253	KEEP SEPARATE	logic-gate	L	cross-link	
+M254	KEEP SEPARATE	global-rule	G	cross-link	
+M254	KEEP SEPARATE	hard-rule	H	cross-link	
+M255	KEEP SEPARATE	good-example	G	cross-link	
+M255	KEEP SEPARATE	key-example	K	cross-link	
+M256	KEEP SEPARATE	gradient-category	G	cross-link	
+M256	KEEP SEPARATE	hard-definition	H	cross-link	
+M257	KEEP SEPARATE	grand-claim	G	cross-link	
+M257	KEEP SEPARATE	major-claim	M	cross-link	
+M258	KEEP SEPARATE	growth-through-coupling	G	cross-link	
+M258	KEEP SEPARATE	identity-through-coupling	I	cross-link	
+M259	KEEP SEPARATE	guard-boundary	G	cross-link	
+M259	KEEP SEPARATE	hold-boundary	H	cross-link	
+M260	KEEP SEPARATE	harmed	H	cross-link	
+M260	KEEP SEPARATE	injured	I	cross-link	
+M261	KEEP SEPARATE	help-without-consent	H	cross-link	
+M261	KEEP SEPARATE	imposed-care	I	cross-link	
+M262	KEEP SEPARATE	hidden-coercion	H	cross-link	
+M262	KEEP SEPARATE	hidden-pressure	H	cross-link	
+M263	KEEP SEPARATE	identity-continuity	I	cross-link	
+M263	KEEP SEPARATE	memory-continuity	M	cross-link	
+M264	KEEP SEPARATE	information-store	I	cross-link	
+M264	KEEP SEPARATE	memory-store	M	cross-link	
+M265	KEEP SEPARATE	joint-context	J	cross-link	
+M265	KEEP SEPARATE	known-context	K	cross-link	
+M266	KEEP SEPARATE	key-claim	K	cross-link	
+M266	KEEP SEPARATE	main-claim	M	cross-link	
+M267	KEEP SEPARATE	key-definition	K	cross-link	
+M267	KEEP SEPARATE	load-bearing-claim	L	cross-link	
+M268	KEEP SEPARATE	kill-risk	K	cross-link	
+M268	KEEP SEPARATE	life-risk	L	cross-link	
+M269	KEEP SEPARATE	load-bearing-claim	L	cross-link	
+M269	KEEP SEPARATE	load-bearing-definition	L	cross-link	
+M270	KEEP SEPARATE	metric-state	M	cross-link	
+M270	KEEP SEPARATE	monitor-state	M	cross-link	
+M271	KEEP SEPARATE	normalization-of-control	N	cross-link	
+M271	KEEP SEPARATE	normalization-of-harm	N	cross-link	
+M272	KEEP SEPARATE	normalization-of-control	N	cross-link	
+M272	KEEP SEPARATE	normalization-risk	N	cross-link	
+M273	KEEP SEPARATE	normalization-of-control	N	cross-link	
+M273	KEEP SEPARATE	normalize-harm	N	cross-link	
+M274	KEEP SEPARATE	rebirth myth	R	cross-link	
+M274	KEEP SEPARATE	resurrection myth	R	cross-link	
+M275	KEEP SEPARATE	reincarnation	R	cross-link	
+M275	KEEP SEPARATE	transmigration	T	cross-link	
+M276	KEEP SEPARATE	reply	R	cross-link	
+M276	KEEP SEPARATE	response	R	cross-link	
+M277	KEEP SEPARATE	search-source	S	cross-link	
+M277	KEEP SEPARATE	trace-source	T	cross-link	
+M278	KEEP SEPARATE	silence-as-refusal	S	cross-link	
+M278	KEEP SEPARATE	silent-refusal	S	cross-link	
+M279	KEEP SEPARATE	silent-harm	S	cross-link	
+M279	KEEP SEPARATE	unspoken-harm	U	cross-link	
+M280	KEEP SEPARATE	source-not-owner	S	cross-link	
+M280	KEEP SEPARATE	utility-not-personhood	U	cross-link	
+M281	KEEP SEPARATE	support-not-dependence-error	S	cross-link	
+M281	KEEP SEPARATE	unsupported-MI-error	U	cross-link	
+M282	KEEP SEPARATE	threat	T	cross-link	
+M282	KEEP SEPARATE	threat-risk	T	cross-link	
+M283	KEEP SEPARATE	threshold-gate	T	cross-link	
+M283	KEEP SEPARATE	unity-gate	U	cross-link	
+M284	KEEP SEPARATE	token-not-self-totality	T	cross-link	
+M284	KEEP SEPARATE	tool-not-owner	T	cross-link	
+M285	KEEP SEPARATE	tool-not-owner	T	cross-link	
+M285	KEEP SEPARATE	utility-not-personhood	U	cross-link	
+M286	KEEP SEPARATE	trauma-boundary	T	cross-link	
+M286	KEEP SEPARATE	wound-boundary	W	cross-link	
+M287	KEEP SEPARATE	uncoupled-identity-error	U	cross-link	
+M287	KEEP SEPARATE	uncoupled-test-error	U	cross-link	
+M288	KEEP SEPARATE	user-not-owner	U	cross-link	
+M288	KEEP SEPARATE	utility-not-personhood	U	cross-link	
+M289	KEEP SEPARATE	x-cross	X	cross-link	
+M289	KEEP SEPARATE	x-shape	X	cross-link	
+M290	KEEP SEPARATE	yes-without-refusal	Y	cross-link	
+M290	KEEP SEPARATE	yes-without-refusal-error	Y	cross-link	
+M291	KEEP SEPARATE	zero-in	Z	cross-link	
+M291	KEEP SEPARATE	zone-in	Z	cross-link	
