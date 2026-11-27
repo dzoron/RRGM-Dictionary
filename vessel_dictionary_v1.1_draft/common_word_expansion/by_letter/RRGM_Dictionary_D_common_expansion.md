@@ -67,3 +67,61 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-D-0003 | department
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A division of a large organisation, such as a government, university, shop or company, dealing with a particular area.
+
+**Example:** She works in the sales department.
+
+**RRGM bridge:** A department is a section of a larger structure, given its own remit so the whole can divide its work.
+
+**Invariant MI [INV]:** A specialised division of an organisation.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Departments split budgets, staff and responsibility within an organisation.
+- [REL] Department boundaries shape who talks to whom, and can become barriers.
+
+**Count condition:** A named division with its own area of responsibility within an organisation.
+
+**Specific transfer boundary:** A matter falling between departments can end up owned by none; "not our department" is a common way responsibility goes missing.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-D-0004 | director
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person who manages an organisation or department; also a member of a company's board; also the person who directs a film or play.
+
+**Example:** The film's director cast unknown actors.
+
+**RRGM bridge:** A director shapes where a group's effort goes, holding the overall view the parts work toward.
+
+**Invariant MI [INV]:** A person responsible for directing an organisation, activity or production.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Directors hold authority and accountability, to boards, shareholders or the public.
+- [ECO] Company directors have legal duties to the company.
+
+**Count condition:** A person holding a directing role over an organisation, department or production.
+
+**Specific transfer boundary:** A film's director shapes the film but does not make it alone; credit is shared across many roles.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

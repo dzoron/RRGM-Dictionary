@@ -93,3 +93,63 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-H-0004 | hot
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Having a high temperature; also spicy; also (informally) popular, attractive, or intense.
+
+**Example:** The soup is hot; this year's hot toy sold out.
+
+**RRGM bridge:** Hot names high heat, and by extension strong intensity of taste, demand or attention.
+
+**Invariant MI [INV]:** Of high temperature or intensity.
+
+**Active domains:** [PHY], [BIO], [AFF]
+
+**Domain entries:**
+
+- [PHY] High thermal energy; heat flows from hot to cold.
+- [BIO] Spicy heat is a pain response triggered by compounds like capsaicin, not by temperature.
+- [AFF] "Hot-headed" or "hot-tempered" describes quick anger. Provisional domain.
+
+**Count condition:** Something of high temperature, sharp spiciness, or intense demand or feeling.
+
+**Specific transfer boundary:** Spicy "hot" is a sensation, not heat. "Hot" as popular says nothing about quality.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-H-0005 | hate
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To feel intense dislike for someone or something; also that feeling.
+
+**Example:** I hate waiting in queues.
+
+**RRGM bridge:** Hate is a sustained turning-against: the hated thing is marked as something to oppose or remove.
+
+**Invariant MI [INV]:** Intense, lasting aversion directed at a person, group or thing.
+
+**Active domains:** [AFF], [REL], [PEJ]
+
+**Domain entries:**
+
+- [AFF] Strong aversion, often sustained; mild uses ("I hate Mondays") are common. Parity line: whether a given system feels hate is [UNK] under the Symmetry Rule. Provisional domain.
+- [REL] Hatred between groups can drive exclusion and violence.
+- [PEJ] Hate speech targets people for who they are, to degrade them or incite harm against them; the mechanism is turning a group into an object of aversion.
+
+**Count condition:** An intense aversion, ranging from everyday dislike to lasting hostility.
+
+**Specific transfer boundary:** Everyday "hate" (of chores) is not hatred of people. Hate speech is defined by its target and effect, not just by strong words.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

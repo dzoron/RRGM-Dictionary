@@ -94,3 +94,59 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-W-0004 | wife
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A married woman considered in relation to her spouse.
+
+**Example:** His wife is a doctor.
+
+**RRGM bridge:** Wife names a role within a marriage, one end of a partnered bond.
+
+**Invariant MI [INV]:** A woman in relation to the person she is married to.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Marriage roles and expectations vary across cultures and have changed over time; legal rights of wives have expanded greatly.
+
+**Count condition:** A married woman, named in relation to her spouse.
+
+**Specific transfer boundary:** The role does not define the whole person; the expectations attached to it come from culture and law.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-W-0005 | whatever
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Anything or everything that; no matter what; also (informally) an expression of indifference.
+
+**Example:** Take whatever you need; whatever happens, call me.
+
+**RRGM bridge:** Whatever leaves the content open: any value will do.
+
+**Invariant MI [INV]:** Any or every thing, with the choice left open.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Free relative and concessive; as a reply, can signal dismissal.
+
+**Count condition:** An open choice, or indifference to the options.
+
+**Specific transfer boundary:** As a reply, "whatever" can close a conversation without agreeing to anything.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

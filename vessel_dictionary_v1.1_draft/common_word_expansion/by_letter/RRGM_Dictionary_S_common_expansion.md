@@ -443,3 +443,353 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-S-0016 | student
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person who is studying at a school, college or university; also anyone who studies a subject.
+
+**Example:** The students handed in their essays.
+
+**RRGM bridge:** A student is someone in the role of learning, which is a role and not a rank.
+
+**Invariant MI [INV]:** A person engaged in study.
+
+**Active domains:** [COG], [REL]
+
+**Domain entries:**
+
+- [COG] Learning through instruction and practice.
+- [REL] The student–teacher relation carries trust and responsibility on both sides.
+
+**Count condition:** A person enrolled in study or devoted to learning a subject.
+
+**Specific transfer boundary:** Being a student is a role, not a measure of ability; a student can know things a teacher doesn't.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0017 | summer
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The warmest season of the year, between spring and autumn.
+
+**Example:** They spend every summer at the lake.
+
+**RRGM bridge:** Summer is the turn of the year when the sun stands highest and growth peaks.
+
+**Invariant MI [INV]:** The warmest of the four temperate seasons.
+
+**Active domains:** [PHY], [ECO]
+
+**Domain entries:**
+
+- [PHY] Caused by the tilt of the Earth's axis, not by distance from the sun.
+- [ECO] Summer shapes harvests, tourism and energy use.
+
+**Count condition:** The warm season in a temperate climate.
+
+**Specific transfer boundary:** Summer in one hemisphere is winter in the other.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0018 | shot
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The firing of a gun; also an attempt; also a photograph or film shot; also an injection; also a small drink of spirits.
+
+**Example:** She took a shot at the goal; the shot of the harbour was beautiful.
+
+**RRGM bridge:** A shot is a single release aimed at a target: a bullet, a ball, a camera's frame, an attempt.
+
+**Invariant MI [INV]:** A single aimed discharge, attempt or recording.
+
+**Active domains:** [PHY], [REL], [BIO]
+
+**Domain entries:**
+
+- [PHY] A projectile's flight under force and gravity.
+- [REL] "Give it a shot" means try.
+- [BIO] An injection of a vaccine or medicine.
+
+**Count condition:** A single discharge, attempt, image or dose.
+
+**Specific transfer boundary:** A shot is an attempt, not a hit.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0019 | similar
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Alike in some ways but not the same.
+
+**Example:** The two houses are similar in size.
+
+**RRGM bridge:** Similar marks shared features without identity, which is where comparison starts.
+
+**Invariant MI [INV]:** Sharing some features with another while remaining distinct.
+
+**Active domains:** [FOR], [COG]
+
+**Domain entries:**
+
+- [FOR] Similarity is always in some respect; geometric similarity means same shape, different size.
+- [COG] Judging similarity underlies categories and analogies.
+
+**Count condition:** Two or more things sharing some named features.
+
+**Specific transfer boundary:** Similar in one respect is not similar in all; a comparison should name the respect.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0020 | security
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Freedom from danger or threat; also the measures taken to protect against it; also a financial asset such as a share or bond.
+
+**Example:** Airport security checked our bags; the job gave her security.
+
+**RRGM bridge:** Security is protection held in place, and the felt sense that it holds.
+
+**Invariant MI [INV]:** Protection against threat, or the measures that provide it; or a tradable financial instrument.
+
+**Active domains:** [DIG], [REL], [ECO]
+
+**Domain entries:**
+
+- [DIG] Computer security protects data and systems against attack.
+- [REL] Emotional security is the sense of being safe in a relationship.
+- [ECO] Securities are tradable financial assets.
+
+**Count condition:** Protection or the means of protection, or a financial asset.
+
+**Specific transfer boundary:** Measures that look like security are not always effective ("security theatre"). Security for one group can be insecurity for another.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0021 | star
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A huge ball of hot gas that shines by nuclear fusion, seen as a point of light at night; also a famous performer; also a shape with points.
+
+**Example:** The sun is a star; she's a film star.
+
+**RRGM bridge:** A star is a light source seen from far off; in speech, a person others look toward.
+
+**Invariant MI [INV]:** A self-luminous body of plasma powered by fusion, or a celebrated person.
+
+**Active domains:** [PHY], [MYT], [REL]
+
+**Domain entries:**
+
+- [PHY] Stars fuse hydrogen into helium; they are born in nebulae and end as white dwarfs, neutron stars or black holes.
+- [MYT] Stars as guides, omens and the homes of gods in many traditions.
+- [REL] Star performers attract attention and influence.
+
+**Count condition:** A fusion-powered celestial body, or a celebrated person, or a pointed shape.
+
+**Specific transfer boundary:** The starlight seen tonight left its star long ago; the star may have changed since. Fame is not the same as merit.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0022 | sorry
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Feeling regret or sympathy; also used to apologise or to ask someone to repeat something.
+
+**Example:** I'm sorry I was late; sorry, what did you say?
+
+**RRGM bridge:** Sorry acknowledges that something went wrong for someone, whether or not the speaker caused it.
+
+**Invariant MI [INV]:** An expression of regret, apology or sympathy.
+
+**Active domains:** [REL], [AFF]
+
+**Domain entries:**
+
+- [REL] An apology names a harm and takes responsibility; "sorry for your loss" offers sympathy without implying fault.
+- [AFF] Regret or sadness. Provisional domain.
+
+**Count condition:** A speaker expressing regret, apology or sympathy.
+
+**Specific transfer boundary:** "Sorry" is not always an admission of fault; and an apology without changed conduct is incomplete.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0023 | society
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** People living together in an organised community; also an organisation of people with a shared interest.
+
+**Example:** Society has changed a lot in fifty years; she joined the local history society.
+
+**RRGM bridge:** Society is the structure of relations that holds many people together beyond any one group.
+
+**Invariant MI [INV]:** The organised community of people, or an association with a common aim.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Norms, institutions and shared expectations.
+- [ECO] Societies organise production and distribution.
+
+**Count condition:** A community of people living under shared institutions, or a named association.
+
+**Specific transfer boundary:** "Society thinks" generalises over many disagreeing people.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0024 | send
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To cause something to go or be taken to a destination; to dispatch a message.
+
+**Example:** I'll send you the photos tonight.
+
+**RRGM bridge:** To send is to release something toward a receiver along a channel.
+
+**Invariant MI [INV]:** To cause to go to a destination or recipient.
+
+**Active domains:** [DIG], [REL]
+
+**Domain entries:**
+
+- [DIG] Sending a message or file over a network; once sent, it may not be retrievable.
+- [REL] Sending something carries an expectation of receipt.
+
+**Count condition:** A sender, an item and a destination.
+
+**Specific transfer boundary:** Sent is not received, and received is not read.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0025 | sound
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Vibrations that travel through air or another medium and can be heard; as an adjective, in good condition or well reasoned.
+
+**Example:** The sound of rain; a sound argument.
+
+**RRGM bridge:** Sound is vibration carried through a medium; a sound argument is one that holds under load.
+
+**Invariant MI [INV]:** Audible vibration, or solid and reliable.
+
+**Active domains:** [PHY], [FOR]
+
+**Domain entries:**
+
+- [PHY] Pressure waves in a medium; sound does not travel in a vacuum.
+- [FOR] A sound argument is valid and has true premises.
+
+**Count condition:** Audible vibration, or a thing judged solid or well founded.
+
+**Specific transfer boundary:** A valid argument is not necessarily sound; soundness also needs true premises.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0026 | stuff
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Things, materials or matters in general; as a verb, to fill something tightly.
+
+**Example:** There's a lot of stuff in the attic; stuff the pillow with feathers.
+
+**RRGM bridge:** Stuff is the catch-all for things not worth naming one by one.
+
+**Invariant MI [INV]:** Unspecified things or material, or to pack tightly.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Very informal and vague; "and stuff" trails off a list.
+
+**Count condition:** Unspecified material or belongings, or an act of filling.
+
+**Specific transfer boundary:** Vague words can hide what is actually meant; "stuff" leaves the listener to guess.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0027 | style
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A particular way of doing something; also a distinctive manner of dress, design or expression.
+
+**Example:** Her writing style is clear; they decorated in a modern style.
+
+**RRGM bridge:** Style is the recognisable shape a person or period gives to what it makes.
+
+**Invariant MI [INV]:** A distinctive manner of doing or presenting.
+
+**Active domains:** [LIN], [REL]
+
+**Domain entries:**
+
+- [LIN] Writing style; style guides set conventions.
+- [REL] Fashion and personal style signal identity and belonging.
+
+**Count condition:** A characteristic manner in action, expression or design.
+
+**Specific transfer boundary:** Style is not substance: a well-styled argument can still be wrong.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

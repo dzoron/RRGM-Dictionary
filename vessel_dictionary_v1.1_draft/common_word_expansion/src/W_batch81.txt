@@ -1,0 +1,21 @@
+@ C2-W-0004 | wife
+cm: A married woman considered in relation to her spouse.
+ex: His wife is a doctor.
+br: Wife names a role within a marriage, one end of a partnered bond.
+inv: A woman in relation to the person she is married to.
+[REL] Marriage roles and expectations vary across cultures and have changed over time; legal rights of wives have expanded greatly.
+cc: A married woman, named in relation to her spouse.
+tb: The role does not define the whole person; the expectations attached to it come from culture and law.
+st: [DEF]
+k: discovery
+
+@ C2-W-0005 | whatever
+cm: Anything or everything that; no matter what; also (informally) an expression of indifference.
+ex: Take whatever you need; whatever happens, call me.
+br: Whatever leaves the content open: any value will do.
+inv: Any or every thing, with the choice left open.
+[LIN] Free relative and concessive; as a reply, can signal dismissal.
+cc: An open choice, or indifference to the options.
+tb: As a reply, "whatever" can close a conversation without agreeing to anything.
+st: [DEF]
+k: discovery

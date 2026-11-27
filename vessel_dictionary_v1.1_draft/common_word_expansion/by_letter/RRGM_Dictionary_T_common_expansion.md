@@ -151,3 +151,118 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-T-0006 | town
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A settlement larger than a village and smaller than a city.
+
+**Example:** She grew up in a small town by the coast.
+
+**RRGM bridge:** A town is a settlement big enough to have its own centre, small enough for people to recognise each other.
+
+**Invariant MI [INV]:** A populated settlement intermediate between village and city.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Town life often means denser personal networks than in a city.
+- [ECO] Towns serve as markets and service centres for surrounding areas.
+
+**Count condition:** A settlement recognised locally or legally as a town.
+
+**Specific transfer boundary:** The line between town, village and city differs by country and is sometimes legal rather than about size.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0007 | themselves
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Reflexive and emphatic form of they; also used for a single person.
+
+**Example:** They taught themselves to code.
+
+**RRGM bridge:** Themselves turns the action back onto those who did it.
+
+**Invariant MI [INV]:** Reflexive pronoun for a third-person plural or singular-they referent.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Reflexive and intensifier; "themself" is sometimes used for one person.
+
+**Count condition:** A sentence in which they act on themselves, or for emphasis.
+
+**Specific transfer boundary:** See they: pronoun choice can follow a person's own naming.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0008 | tax
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Money that people and businesses must pay to the government to fund public services.
+
+**Example:** Income tax is taken from her pay.
+
+**RRGM bridge:** Tax is the share of private income a public structure takes to keep shared services running.
+
+**Invariant MI [INV]:** A compulsory payment to government, set by law.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Income, sales, property and other taxes; who bears a tax can differ from who pays it.
+- [REL] Taxation and representation: who is taxed and who decides are long-standing political questions.
+
+**Count condition:** A legally required payment to a governing authority.
+
+**Specific transfer boundary:** Tax avoidance (legal) and tax evasion (illegal) are different. The person who hands over a tax is not always the person who bears its cost.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0009 | trade
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The buying and selling of goods and services; also a skilled job, especially one done with the hands; as a verb, to exchange.
+
+**Example:** Trade between the two countries has grown; he learned the plumbing trade.
+
+**RRGM bridge:** Trade is exchange that runs both ways, so that each side gives up something to get something else.
+
+**Invariant MI [INV]:** Exchange of goods, services or skills, or a skilled occupation.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Trade between nations is governed by tariffs and agreements.
+- [REL] Trades pass skills through apprenticeship.
+
+**Count condition:** An exchange between parties, or a skilled craft.
+
+**Specific transfer boundary:** Trade benefits both sides on average but not every person in each country; some lose even when totals rise.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

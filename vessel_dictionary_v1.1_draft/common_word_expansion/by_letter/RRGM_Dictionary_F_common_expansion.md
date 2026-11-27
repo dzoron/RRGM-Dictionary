@@ -64,3 +64,119 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-F-0003 | film
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A story or event recorded as moving images to be shown in a cinema or on a screen; also a thin layer, or the material once used in cameras.
+
+**Example:** We watched a film about the moon landing; a film of dust covered the shelf.
+
+**RRGM bridge:** A film fixes moving images in sequence so a story can be replayed for others.
+
+**Invariant MI [INV]:** A recorded motion picture, or a thin covering layer.
+
+**Active domains:** [DIG], [REL], [PHY]
+
+**Domain entries:**
+
+- [DIG] Digital filmmaking and streaming have replaced most physical film.
+- [REL] Films shape shared stories and how groups see each other.
+- [PHY] A thin layer of a substance on a surface.
+
+**Count condition:** A motion picture, or a thin coating.
+
+**Specific transfer boundary:** A film based on true events is still a constructed story; it is free fiction aimed at the real, not a record.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0004 | finally
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** After a long time or delay; also as the last in a series.
+
+**Example:** The bus finally arrived; finally, add the salt.
+
+**RRGM bridge:** Finally marks the end of a wait or the last step of a sequence.
+
+**Invariant MI [INV]:** At the end, after delay or after other steps.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Signals relief after delay, or orders the last point in a list.
+
+**Count condition:** An event at the end of a wait, or the last item in a sequence.
+
+**Specific transfer boundary:** "Finally" can hint at impatience; it carries feeling as well as order.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0005 | federal
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to a system of government in which power is divided between a central government and states or provinces.
+
+**Example:** Federal and provincial governments share responsibility for health.
+
+**RRGM bridge:** Federal names a structure of layered authority: a centre and member parts, each with its own powers.
+
+**Invariant MI [INV]:** Of a union of self-governing units with a central government.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Federalism divides power so that no single level holds all of it.
+- [ECO] Federal budgets and taxes sit alongside state or provincial ones.
+
+**Count condition:** A government or system made of member units under a shared central authority.
+
+**Specific transfer boundary:** Which powers are federal and which are local varies by country and is often disputed.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0006 | football
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A team game played with a ball; in most of the world, the game also called soccer; in North America, American or Canadian football.
+
+**Example:** They play football in the park on Sundays.
+
+**RRGM bridge:** Football names different games in different places; the word follows local custom.
+
+**Invariant MI [INV]:** A team ball game, or the ball used in it.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Football clubs carry strong local and national identities.
+- [ECO] Professional football is a large industry.
+
+**Count condition:** A ball game of the type called football locally, or its ball.
+
+**Specific transfer boundary:** Which game "football" means depends on where the speaker lives.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

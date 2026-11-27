@@ -36,3 +36,31 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-U-0002 | usually
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In most cases; normally.
+
+**Example:** I usually take the bus.
+
+**RRGM bridge:** Usually reports a pattern that holds most of the time, leaving room for exceptions.
+
+**Invariant MI [INV]:** In the majority of cases or occasions.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] A frequency claim: more often than not.
+
+**Count condition:** A recurring situation in which one outcome happens most often.
+
+**Specific transfer boundary:** Usually is not always; the exceptions are real.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

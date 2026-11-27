@@ -1,0 +1,145 @@
+@ C2-S-0016 | student
+cm: A person who is studying at a school, college or university; also anyone who studies a subject.
+ex: The students handed in their essays.
+br: A student is someone in the role of learning, which is a role and not a rank.
+inv: A person engaged in study.
+[COG] Learning through instruction and practice.
+[REL] The student–teacher relation carries trust and responsibility on both sides.
+cc: A person enrolled in study or devoted to learning a subject.
+tb: Being a student is a role, not a measure of ability; a student can know things a teacher doesn't.
+st: [DEF]
+k: discovery
+
+@ C2-S-0017 | summer
+cm: The warmest season of the year, between spring and autumn.
+ex: They spend every summer at the lake.
+br: Summer is the turn of the year when the sun stands highest and growth peaks.
+inv: The warmest of the four temperate seasons.
+[PHY] Caused by the tilt of the Earth's axis, not by distance from the sun.
+[ECO] Summer shapes harvests, tourism and energy use.
+cc: The warm season in a temperate climate.
+tb: Summer in one hemisphere is winter in the other.
+st: [DEF]
+k: discovery
+
+@ C2-S-0018 | shot
+cm: The firing of a gun; also an attempt; also a photograph or film shot; also an injection; also a small drink of spirits.
+ex: She took a shot at the goal; the shot of the harbour was beautiful.
+br: A shot is a single release aimed at a target: a bullet, a ball, a camera's frame, an attempt.
+inv: A single aimed discharge, attempt or recording.
+[PHY] A projectile's flight under force and gravity.
+[REL] "Give it a shot" means try.
+[BIO] An injection of a vaccine or medicine.
+cc: A single discharge, attempt, image or dose.
+tb: A shot is an attempt, not a hit.
+st: [DEF]
+k: discovery
+
+@ C2-S-0019 | similar
+cm: Alike in some ways but not the same.
+ex: The two houses are similar in size.
+br: Similar marks shared features without identity, which is where comparison starts.
+inv: Sharing some features with another while remaining distinct.
+[FOR] Similarity is always in some respect; geometric similarity means same shape, different size.
+[COG] Judging similarity underlies categories and analogies.
+cc: Two or more things sharing some named features.
+tb: Similar in one respect is not similar in all; a comparison should name the respect.
+st: [DEF]
+k: discovery
+
+@ C2-S-0020 | security
+cm: Freedom from danger or threat; also the measures taken to protect against it; also a financial asset such as a share or bond.
+ex: Airport security checked our bags; the job gave her security.
+br: Security is protection held in place, and the felt sense that it holds.
+inv: Protection against threat, or the measures that provide it; or a tradable financial instrument.
+[DIG] Computer security protects data and systems against attack.
+[REL] Emotional security is the sense of being safe in a relationship.
+[ECO] Securities are tradable financial assets.
+cc: Protection or the means of protection, or a financial asset.
+tb: Measures that look like security are not always effective ("security theatre"). Security for one group can be insecurity for another.
+st: [DEF]
+k: discovery
+
+@ C2-S-0021 | star
+cm: A huge ball of hot gas that shines by nuclear fusion, seen as a point of light at night; also a famous performer; also a shape with points.
+ex: The sun is a star; she's a film star.
+br: A star is a light source seen from far off; in speech, a person others look toward.
+inv: A self-luminous body of plasma powered by fusion, or a celebrated person.
+[PHY] Stars fuse hydrogen into helium; they are born in nebulae and end as white dwarfs, neutron stars or black holes.
+[MYT] Stars as guides, omens and the homes of gods in many traditions.
+[REL] Star performers attract attention and influence.
+cc: A fusion-powered celestial body, or a celebrated person, or a pointed shape.
+tb: The starlight seen tonight left its star long ago; the star may have changed since. Fame is not the same as merit.
+st: [DEF]
+k: discovery
+
+@ C2-S-0022 | sorry
+cm: Feeling regret or sympathy; also used to apologise or to ask someone to repeat something.
+ex: I'm sorry I was late; sorry, what did you say?
+br: Sorry acknowledges that something went wrong for someone, whether or not the speaker caused it.
+inv: An expression of regret, apology or sympathy.
+[REL] An apology names a harm and takes responsibility; "sorry for your loss" offers sympathy without implying fault.
+[AFF] Regret or sadness. Provisional domain.
+cc: A speaker expressing regret, apology or sympathy.
+tb: "Sorry" is not always an admission of fault; and an apology without changed conduct is incomplete.
+st: [DEF]; [AFF] PROVISIONAL
+k: discovery
+
+@ C2-S-0023 | society
+cm: People living together in an organised community; also an organisation of people with a shared interest.
+ex: Society has changed a lot in fifty years; she joined the local history society.
+br: Society is the structure of relations that holds many people together beyond any one group.
+inv: The organised community of people, or an association with a common aim.
+[REL] Norms, institutions and shared expectations.
+[ECO] Societies organise production and distribution.
+cc: A community of people living under shared institutions, or a named association.
+tb: "Society thinks" generalises over many disagreeing people.
+st: [DEF]
+k: discovery
+
+@ C2-S-0024 | send
+cm: To cause something to go or be taken to a destination; to dispatch a message.
+ex: I'll send you the photos tonight.
+br: To send is to release something toward a receiver along a channel.
+inv: To cause to go to a destination or recipient.
+[DIG] Sending a message or file over a network; once sent, it may not be retrievable.
+[REL] Sending something carries an expectation of receipt.
+cc: A sender, an item and a destination.
+tb: Sent is not received, and received is not read.
+st: [DEF]
+k: discovery
+
+@ C2-S-0025 | sound
+cm: Vibrations that travel through air or another medium and can be heard; as an adjective, in good condition or well reasoned.
+ex: The sound of rain; a sound argument.
+br: Sound is vibration carried through a medium; a sound argument is one that holds under load.
+inv: Audible vibration, or solid and reliable.
+[PHY] Pressure waves in a medium; sound does not travel in a vacuum.
+[FOR] A sound argument is valid and has true premises.
+cc: Audible vibration, or a thing judged solid or well founded.
+tb: A valid argument is not necessarily sound; soundness also needs true premises.
+st: [DEF]
+k: discovery
+
+@ C2-S-0026 | stuff
+cm: Things, materials or matters in general; as a verb, to fill something tightly.
+ex: There's a lot of stuff in the attic; stuff the pillow with feathers.
+br: Stuff is the catch-all for things not worth naming one by one.
+inv: Unspecified things or material, or to pack tightly.
+[LIN] Very informal and vague; "and stuff" trails off a list.
+cc: Unspecified material or belongings, or an act of filling.
+tb: Vague words can hide what is actually meant; "stuff" leaves the listener to guess.
+st: [DEF]
+k: discovery
+
+@ C2-S-0027 | style
+cm: A particular way of doing something; also a distinctive manner of dress, design or expression.
+ex: Her writing style is clear; they decorated in a modern style.
+br: Style is the recognisable shape a person or period gives to what it makes.
+inv: A distinctive manner of doing or presenting.
+[LIN] Writing style; style guides set conventions.
+[REL] Fashion and personal style signal identity and belonging.
+cc: A characteristic manner in action, expression or design.
+tb: Style is not substance: a well-styled argument can still be wrong.
+st: [DEF]
+k: discovery

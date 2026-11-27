@@ -213,3 +213,206 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-M-0007 | military
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to soldiers or armed forces; also the armed forces of a country.
+
+**Example:** He served in the military for ten years.
+
+**RRGM bridge:** The military is a state's organised capacity for armed force, held under a chain of command.
+
+**Invariant MI [INV]:** The armed forces of a state, or matters relating to them.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Civilian control of the military is a basic safeguard in democracies.
+- [ECO] Military spending is a large share of many national budgets.
+
+**Count condition:** Armed forces or matters relating to them.
+
+**Specific transfer boundary:** Military strength is not the same as security; the two are often confused. Obeying orders does not remove responsibility for what is done.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0008 | medical
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to medicine, the treatment of illness, or doctors.
+
+**Example:** She needs medical attention.
+
+**RRGM bridge:** Medical marks the domain of care for the body's illness and injury.
+
+**Invariant MI [INV]:** Relating to the practice of medicine.
+
+**Active domains:** [BIO], [FOR]
+
+**Domain entries:**
+
+- [BIO] Diagnosis and treatment of disease and injury.
+- [FOR] Medical evidence comes from trials and records; its strength depends on method.
+
+**Count condition:** A matter concerning health care or medicine.
+
+**Specific transfer boundary:** A "medical" claim in advertising is not medical advice. Medical consensus can change with new evidence.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0009 | movie
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A film; a motion picture.
+
+**Example:** Let's watch a movie tonight.
+
+**RRGM bridge:** Movie is the everyday name for a film, from "moving picture".
+
+**Invariant MI [INV]:** A motion picture.
+
+**Active domains:** [LIN], [REL]
+
+**Domain entries:**
+
+- [LIN] Common in North American English; "film" is more common elsewhere.
+- [REL] Shared viewing is a common social ritual.
+
+**Count condition:** A motion picture, as watched for entertainment.
+
+**Specific transfer boundary:** See film: a movie based on true events is still a constructed story.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0010 | management
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The process of running and controlling something; also the people who do this.
+
+**Example:** Management announced the new schedule.
+
+**RRGM bridge:** Management keeps a structure working by deciding how its resources are used.
+
+**Invariant MI [INV]:** The direction and control of an organisation or process, or those who do it.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Allocating people, money and time toward goals.
+- [REL] "Management" as a group stands apart from the staff it directs, which can create distance.
+
+**Count condition:** An activity of directing resources, or the group responsible for it.
+
+**Specific transfer boundary:** "Managing" a problem can mean containing it rather than solving it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0011 | match | sense s1: contest or equal
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A contest in which people or teams compete; also a person or thing equal to another, or a pair that fits together.
+
+**Example:** The match ended in a draw; the colours are a perfect match.
+
+**RRGM bridge:** A match pairs two things, whether as opponents or as fits.
+
+**Invariant MI [INV]:** A pairing, as contest, equivalence or correspondence.
+
+**Active domains:** [REL], [DIG], [FOR]
+
+**Domain entries:**
+
+- [REL] A good match between people; "meeting your match" means meeting an equal.
+- [DIG] A match in search or data is an item that meets the query.
+- [FOR] Pattern matching tests whether items meet a specified form.
+
+**Count condition:** Two sides in contest, or two things that correspond.
+
+**Specific transfer boundary:** A search match meets the query terms; it is not necessarily relevant or correct.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0011 | match | sense s2: stick for making fire
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A short stick tipped with a substance that ignites when struck.
+
+**Example:** She struck a match to light the candle.
+
+**RRGM bridge:** A match stores a small fire until friction releases it.
+
+**Invariant MI [INV]:** A small stick that ignites by friction.
+
+**Active domains:** [PHY]
+
+**Domain entries:**
+
+- [PHY] Friction heats the head until it ignites.
+
+**Count condition:** A stick designed to ignite when struck.
+
+**Specific transfer boundary:** A small source can start a large fire; scale of cause and effect need not match.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0012 | mom
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** (North American, informal) Mother.
+
+**Example:** My mom picked me up from school.
+
+**RRGM bridge:** Mom is the warm, everyday name for a mother.
+
+**Invariant MI [INV]:** An informal word for mother.
+
+**Active domains:** [REL], [LIN]
+
+**Domain entries:**
+
+- [REL] A family role; what it involves varies between families.
+- [LIN] "Mum" in British usage; "mom" in North America.
+
+**Count condition:** A person's mother, named informally.
+
+**Specific transfer boundary:** Motherhood is a relation, not only biology; adoptive and step-mothers are moms by relation.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

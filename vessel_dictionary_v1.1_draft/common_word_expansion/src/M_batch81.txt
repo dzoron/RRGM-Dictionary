@@ -1,0 +1,83 @@
+@ C2-M-0007 | military
+cm: Relating to soldiers or armed forces; also the armed forces of a country.
+ex: He served in the military for ten years.
+br: The military is a state's organised capacity for armed force, held under a chain of command.
+inv: The armed forces of a state, or matters relating to them.
+[REL] Civilian control of the military is a basic safeguard in democracies.
+[ECO] Military spending is a large share of many national budgets.
+cc: Armed forces or matters relating to them.
+tb: Military strength is not the same as security; the two are often confused. Obeying orders does not remove responsibility for what is done.
+st: [DEF]
+k: discovery
+
+@ C2-M-0008 | medical
+cm: Relating to medicine, the treatment of illness, or doctors.
+ex: She needs medical attention.
+br: Medical marks the domain of care for the body's illness and injury.
+inv: Relating to the practice of medicine.
+[BIO] Diagnosis and treatment of disease and injury.
+[FOR] Medical evidence comes from trials and records; its strength depends on method.
+cc: A matter concerning health care or medicine.
+tb: A "medical" claim in advertising is not medical advice. Medical consensus can change with new evidence.
+st: [DEF]
+k: discovery
+
+@ C2-M-0009 | movie
+cm: A film; a motion picture.
+ex: Let's watch a movie tonight.
+br: Movie is the everyday name for a film, from "moving picture".
+inv: A motion picture.
+[LIN] Common in North American English; "film" is more common elsewhere.
+[REL] Shared viewing is a common social ritual.
+cc: A motion picture, as watched for entertainment.
+tb: See film: a movie based on true events is still a constructed story.
+st: [DEF]
+k: discovery
+
+@ C2-M-0010 | management
+cm: The process of running and controlling something; also the people who do this.
+ex: Management announced the new schedule.
+br: Management keeps a structure working by deciding how its resources are used.
+inv: The direction and control of an organisation or process, or those who do it.
+[ECO] Allocating people, money and time toward goals.
+[REL] "Management" as a group stands apart from the staff it directs, which can create distance.
+cc: An activity of directing resources, or the group responsible for it.
+tb: "Managing" a problem can mean containing it rather than solving it.
+st: [DEF]
+k: discovery
+
+@ C2-M-0011 | match | s1 | contest or equal
+cm: A contest in which people or teams compete; also a person or thing equal to another, or a pair that fits together.
+ex: The match ended in a draw; the colours are a perfect match.
+br: A match pairs two things, whether as opponents or as fits.
+inv: A pairing, as contest, equivalence or correspondence.
+[REL] A good match between people; "meeting your match" means meeting an equal.
+[DIG] A match in search or data is an item that meets the query.
+[FOR] Pattern matching tests whether items meet a specified form.
+cc: Two sides in contest, or two things that correspond.
+tb: A search match meets the query terms; it is not necessarily relevant or correct.
+st: [DEF]
+k: discovery
+
+@ C2-M-0011 | match | s2 | stick for making fire
+cm: A short stick tipped with a substance that ignites when struck.
+ex: She struck a match to light the candle.
+br: A match stores a small fire until friction releases it.
+inv: A small stick that ignites by friction.
+[PHY] Friction heats the head until it ignites.
+cc: A stick designed to ignite when struck.
+tb: A small source can start a large fire; scale of cause and effect need not match.
+st: [DEF]
+k: discovery
+
+@ C2-M-0012 | mom
+cm: (North American, informal) Mother.
+ex: My mom picked me up from school.
+br: Mom is the warm, everyday name for a mother.
+inv: An informal word for mother.
+[REL] A family role; what it involves varies between families.
+[LIN] "Mum" in British usage; "mom" in North America.
+cc: A person's mother, named informally.
+tb: Motherhood is a relation, not only biology; adoptive and step-mothers are moms by relation.
+st: [DEF]
+k: discovery

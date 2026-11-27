@@ -446,3 +446,239 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-P-0013 | price
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The amount of money expected or paid for something; also what must be given up to get something.
+
+**Example:** The price of bread has gone up; fame came at a price.
+
+**RRGM bridge:** A price is the measure an exchange sets: what one side gives up so the other will let go.
+
+**Invariant MI [INV]:** The amount exchanged for a good or service, or the cost of gaining something.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Prices respond to supply and demand, costs and market power.
+- [REL] "The price" of a choice can be paid by others than the one who chose.
+
+**Count condition:** A stated or paid amount in exchange, or a cost borne for an outcome.
+
+**Specific transfer boundary:** Price is not value: something cheap can be precious, and something expensive can be worthless to a given person.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0014 | project
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A planned piece of work with a particular aim; as a verb, to estimate, to throw forward, or to display an image on a surface.
+
+**Example:** The project will take two years; they projected a map onto the wall.
+
+**RRGM bridge:** A project casts an intended future and organises work toward it.
+
+**Invariant MI [INV]:** A planned undertaking toward a goal, or to cast forward.
+
+**Active domains:** [ECO], [COG], [PHY]
+
+**Domain entries:**
+
+- [ECO] Projects have budgets, timelines and deliverables.
+- [COG] Psychological projection: attributing one's own feelings or traits to others.
+- [PHY] Projecting light or an image onto a surface.
+
+**Count condition:** A planned undertaking, or an act of casting forward or estimating.
+
+**Specific transfer boundary:** A projection is an estimate, not a fact. Projection in psychology is a claim about a mind, which should be made carefully.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0015 | period
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A length of time; also a full stop in punctuation; also menstruation.
+
+**Example:** The museum is closed for a short period; put a period at the end of the sentence.
+
+**RRGM bridge:** A period is a bounded span: of time, of a sentence, of a cycle.
+
+**Invariant MI [INV]:** A bounded interval, or a mark that ends a sentence.
+
+**Active domains:** [PHY], [BIO], [LIN]
+
+**Domain entries:**
+
+- [PHY] The time taken for one cycle of a repeating motion.
+- [BIO] Menstruation, part of the monthly cycle.
+- [LIN] The full stop; "period" used for emphasis to end an argument.
+
+**Count condition:** An interval of time, the end of a sentence, or a menstrual cycle phase.
+
+**Specific transfer boundary:** Saying "period" to end an argument signals finality, not that the argument is settled.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0016 | perfect
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Having no faults; complete; exactly right for a purpose.
+
+**Example:** The weather was perfect for a picnic.
+
+**RRGM bridge:** Perfect names a state with nothing left to fix, which is more often a judgement than a measurement.
+
+**Invariant MI [INV]:** Without flaw, or fully suited to a purpose.
+
+**Active domains:** [FOR], [LIN], [COG]
+
+**Domain entries:**
+
+- [FOR] In mathematics, a perfect number equals the sum of its divisors.
+- [LIN] The perfect tense marks completed action ("I have finished").
+- [COG] Perfectionism is a demand for flawlessness that can block finishing anything.
+
+**Count condition:** Something judged flawless or entirely fit for a purpose.
+
+**Specific transfer boundary:** "Perfect" in everyday speech usually means very good, not flawless. A standard of perfection that nothing can meet is a way of moving the line.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0017 | park
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A public green area for recreation; as a verb, to leave a vehicle somewhere for a time.
+
+**Example:** We had lunch in the park; you can park on the street.
+
+**RRGM bridge:** A park is land held open for everyone to use; to park is to set something down and leave it waiting.
+
+**Invariant MI [INV]:** A public recreational area, or to leave a vehicle stationary.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Public parks are shared goods maintained from public funds.
+- [REL] Parks give shared space where strangers meet.
+
+**Count condition:** A public green space, or the act of leaving a vehicle.
+
+**Specific transfer boundary:** Parking an issue sets it aside; it does not resolve it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0018 | performance
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The act of presenting a play, concert or other entertainment; also how well a person or thing does something.
+
+**Example:** The performance ended with a standing ovation; the car's performance improved.
+
+**RRGM bridge:** Performance is doing something before an audience or a measure, so that it can be seen and judged.
+
+**Invariant MI [INV]:** The carrying out of an act, or how well it is done.
+
+**Active domains:** [REL], [ECO], [DIG]
+
+**Domain entries:**
+
+- [REL] Social performance: people present themselves differently in different settings, which is not the same as being false.
+- [ECO] Performance reviews measure work against targets.
+- [DIG] System performance: speed, throughput and reliability.
+
+**Count condition:** An act carried out before observers, or its measured effectiveness.
+
+**Specific transfer boundary:** Calling something "just a performance" can dismiss it unfairly; performance and sincerity are not opposites. A measured performance depends on what was measured.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0019 | press
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To push steadily against something; also newspapers and journalists collectively; also a machine for pressing or printing.
+
+**Example:** Press the button; the press gathered outside the court.
+
+**RRGM bridge:** To press is to apply steady force; the press applies public attention.
+
+**Invariant MI [INV]:** To exert steady force, or the news media collectively.
+
+**Active domains:** [PHY], [REL]
+
+**Domain entries:**
+
+- [PHY] Pressure: force applied over an area.
+- [REL] A free press holds power to account; press coverage shapes public views.
+
+**Count condition:** An act of pushing, or the institutions of journalism.
+
+**Specific transfer boundary:** Being "pressed" for an answer is pressure, not evidence; an answer given under pressure tells you about the pressure as well as the answer.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0020 | production
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The process of making or growing something; also the amount made; also a play, film or show as staged.
+
+**Example:** Production fell during the strike; a new production of Hamlet.
+
+**RRGM bridge:** Production turns inputs into outputs through work.
+
+**Invariant MI [INV]:** The making of goods or works, or what is made.
+
+**Active domains:** [ECO], [DIG]
+
+**Domain entries:**
+
+- [ECO] Output of goods; production costs and capacity.
+- [DIG] "In production" names a system live for real users, as opposed to testing.
+
+**Count condition:** A process of making, its output, or a staged work.
+
+**Specific transfer boundary:** High production is not high value; output can grow while quality falls.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

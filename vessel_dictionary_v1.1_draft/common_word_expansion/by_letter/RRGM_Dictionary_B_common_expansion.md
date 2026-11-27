@@ -64,3 +64,91 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-B-0002 | bill | sense s1: statement of charges or draft law
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A statement of money owed for goods or services; also a draft of a proposed law; also a banknote.
+
+**Example:** The electricity bill went up; the bill passed its second reading.
+
+**RRGM bridge:** A bill puts a claim in writing: what is owed, or what a law would become, set out so it can be checked before it is settled.
+
+**Invariant MI [INV]:** A written statement of an amount owed, or a draft proposed for enactment as law.
+
+**Active domains:** [ECO], [REL], [FOR]
+
+**Domain entries:**
+
+- [ECO] Bills record debts for payment; unpaid bills accrue charges.
+- [REL] A legislative bill passes through readings and votes before becoming law.
+- [FOR] An itemised bill can be checked line by line against what was supplied.
+
+**Count condition:** A written claim for payment, or a draft law before a legislature.
+
+**Specific transfer boundary:** A bill is a claim, not proof that the amount is right; it can be disputed. A bill is not yet a law until enacted.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-B-0002 | bill | sense s2: a bird's beak
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The beak of a bird.
+
+**Example:** The heron caught a fish in its bill.
+
+**RRGM bridge:** A bill is the bird's tool for feeding and handling the world.
+
+**Invariant MI [INV]:** The horny projecting jaws of a bird.
+
+**Active domains:** [BIO]
+
+**Domain entries:**
+
+- [BIO] Shape varies with diet: seed-cracking, probing, filtering, tearing.
+
+**Count condition:** A bird's beak.
+
+**Specific transfer boundary:** Bill shape suggests diet but does not determine behaviour on its own.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-B-0003 | blood
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The red fluid that circulates through the heart, arteries and veins, carrying oxygen and nutrients; also family descent.
+
+**Example:** The nurse took a blood sample; they are related by blood.
+
+**RRGM bridge:** Blood is the body's carrier: it moves what sustains life to every part, and in speech it stands for kinship.
+
+**Invariant MI [INV]:** The circulating fluid that transports oxygen and nutrients in animals.
+
+**Active domains:** [BIO], [REL], [MYT]
+
+**Domain entries:**
+
+- [BIO] Plasma, red and white cells and platelets; blood type and clotting.
+- [REL] "Blood relations" names kinship by descent; "bad blood" names lasting enmity.
+- [MYT] Blood as life-force, oath and sacrifice in many traditions.
+
+**Count condition:** The circulatory fluid of an animal, or kinship by descent.
+
+**Specific transfer boundary:** Kinship by blood is one kind of family, not the only kind. Ideas of "pure blood" have been used to exclude people and have no basis in biology.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

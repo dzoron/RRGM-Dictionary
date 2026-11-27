@@ -36,3 +36,32 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-R-0002 | round
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Shaped like a circle or sphere; also a stage in a competition, or a set of drinks bought for a group; also around.
+
+**Example:** A round table; she won the first round; it's my round.
+
+**RRGM bridge:** Round names a closed shape, and a cycle that comes back to its start.
+
+**Invariant MI [INV]:** Circular or spherical, or one stage of a repeating cycle.
+
+**Active domains:** [FOR], [REL]
+
+**Domain entries:**
+
+- [FOR] A round number is approximate and simple ("about a hundred").
+- [REL] Buying a round is a shared obligation that rotates through a group.
+
+**Count condition:** A circular shape, or one stage in a recurring sequence.
+
+**Specific transfer boundary:** A round number is rounded: it hides precision.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
