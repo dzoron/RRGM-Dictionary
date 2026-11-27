@@ -1,0 +1,448 @@
+# RRGM Dictionary — P — common-word expansion (DRAFT)
+
+## Common-word expansion (pass 02, DRAFT)
+
+New headwords added for very common English words the baseline missed. Unreviewed.
+
+---
+
+## C2-P-0001 | please
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Used to make a request polite; also to make someone happy or satisfied.
+
+**Example:** Please close the door; nothing pleased him more than a quiet morning.
+
+**RRGM bridge:** Please softens a request by acknowledging that the other person could say no.
+
+**Invariant MI [INV]:** A politeness marker on requests; or to give satisfaction.
+
+**Active domains:** [REL], [LIN], [AFF]
+
+**Domain entries:**
+
+- [REL] Marks a request as a request rather than a command, leaving room for refusal.
+- [LIN] Politeness particle; "if you please" and "as you please" leave the choice with the other.
+- [AFF] To please someone is to bring them satisfaction. Provisional domain.
+
+**Count condition:** A request addressed to someone able to decline it, or an act that satisfies someone.
+
+**Specific transfer boundary:** Saying please does not turn a command into a free choice when the speaker has power over the listener. Trying to please others is not the same as caring for them; it can mean avoiding honest disagreement.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0002 | put
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To move something into a place or position; also to express in words, or bring into a state.
+
+**Example:** Put the bowl on the shelf; let me put it another way.
+
+**RRGM bridge:** Put places something somewhere by an act: the thing ends up where the actor set it.
+
+**Invariant MI [INV]:** To cause something to be in a place, form or state.
+
+**Active domains:** [PHY], [LIN]
+
+**Domain entries:**
+
+- [PHY] Moving an object to a position.
+- [LIN] Very productive in phrasal verbs (put off, put up with, put out), whose meanings often can't be guessed from the parts.
+
+**Count condition:** An actor causing an object, idea or person to be in a place, wording or condition.
+
+**Specific transfer boundary:** Phrasal uses differ sharply: "put up" a shelf, "put up with" noise, "put someone up" for the night. Putting a claim into words does not make it true.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0003 | party | sense s1: social gathering
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A social gathering of invited guests, typically with food, drink and entertainment.
+
+**Example:** We're having a party for her birthday on Saturday.
+
+**RRGM bridge:** A party gathers people around a shared occasion; the gathering is the point.
+
+**Invariant MI [INV]:** A gathering of people for celebration or enjoyment.
+
+**Active domains:** [REL], [AFF]
+
+**Domain entries:**
+
+- [REL] Parties mark occasions and strengthen ties; who is invited also draws a line around a group.
+- [AFF] Associated with celebration and enjoyment, though not everyone finds them enjoyable. Provisional domain.
+
+**Count condition:** People gathered for a social occasion.
+
+**Specific transfer boundary:** Being at a party is not the same as enjoying it. An invitation list includes some people and leaves others out.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0003 | party | sense s2: political group
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An organised group of people with shared political aims who seek to win elections and hold power.
+
+**Example:** The two main parties both promised lower taxes.
+
+**RRGM bridge:** A political party bundles many positions into one platform so that voters can choose between them.
+
+**Invariant MI [INV]:** An organisation that competes for political power on a shared platform.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Parties organise coalitions of interests; party loyalty can bind members to positions they would not all hold alone.
+- [ECO] Parties raise money and compete for votes.
+
+**Count condition:** An organised group contesting elections or holding power on a shared programme.
+
+**Specific transfer boundary:** A party's platform is not every member's view. Agreeing with a party on one issue does not mean agreeing on all.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0003 | party | sense s3: one side in an agreement or dispute
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person or group taking part in a contract, legal case or dispute.
+
+**Example:** Both parties signed the agreement.
+
+**RRGM bridge:** A party is one side of a structured relation: an agreement, a case, a conversation.
+
+**Invariant MI [INV]:** One of the participants in a defined relation such as a contract or dispute.
+
+**Active domains:** [REL], [FOR]
+
+**Domain entries:**
+
+- [REL] Each party has rights and obligations within the relation.
+- [FOR] In law and logic, the identified sides whose positions are compared.
+
+**Count condition:** A participant identified as one side of an agreement, case or exchange.
+
+**Specific transfer boundary:** Being a party to something means being involved in it, not necessarily agreeing to all of it; third parties are outside the relation but may be affected by it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0004 | president
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The elected head of a republic; also the head of a company, university, club or organisation.
+
+**Example:** The president signed the bill; she became president of the chess club.
+
+**RRGM bridge:** A president holds the top office of a structure for a term, under rules that define and limit the role.
+
+**Invariant MI [INV]:** The holder of the highest office in a state or organisation, for a set term or until replaced.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Authority is granted by election or appointment, and limited by constitutions, boards or members.
+- [ECO] In companies, the president often runs operations, under a board.
+
+**Count condition:** A person holding the chief office of a republic or organisation.
+
+**Specific transfer boundary:** The office and the person are separate: the office's powers come from its rules, not from the person. The title means different things in different organisations.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0005 | post | sense s1: mail or published message
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Letters and parcels sent by mail; also a message or piece of content published online. As a verb, to send by mail or to publish.
+
+**Example:** The parcel came in the post; she posted a photo of the sunset.
+
+**RRGM bridge:** A post is a message released into a channel, where it travels to readers the sender may never see.
+
+**Invariant MI [INV]:** A message or item sent or published for others to receive.
+
+**Active domains:** [DIG], [REL], [ECO]
+
+**Domain entries:**
+
+- [DIG] Online posts on social media and forums; posting makes content public or semi-public, often permanently.
+- [REL] What is posted can be read out of context and by people the writer did not have in mind.
+- [ECO] Postal services and their costs.
+
+**Count condition:** An item or message sent by mail or published to a channel.
+
+**Specific transfer boundary:** Deleting a post does not guarantee it is gone; copies may remain. A post's reach is not the same as its accuracy.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0005 | post | sense s2: position or pole
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A job or official position; also an upright pole fixed in the ground.
+
+**Example:** She took up a post at the embassy; the fence post leaned in the wind.
+
+**RRGM bridge:** Both senses name a fixed point: a pole set in the ground, or a role someone is stationed in.
+
+**Invariant MI [INV]:** A fixed upright support, or an assigned position or job.
+
+**Active domains:** [REL], [PHY]
+
+**Domain entries:**
+
+- [REL] An official post carries duties and authority tied to the role.
+- [PHY] An upright support carrying load to the ground.
+
+**Count condition:** A pole fixed upright, or a role or station assigned to someone.
+
+**Specific transfer boundary:** Holding a post confers the role's authority, not personal authority beyond it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0006 | pretty
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Attractive in a delicate or pleasing way; also (as an adverb) fairly or quite.
+
+**Example:** It's a pretty village; the test was pretty hard.
+
+**RRGM bridge:** Pretty grades two things lightly: appearance as pleasing, and degree as "more than a little".
+
+**Invariant MI [INV]:** Pleasing in appearance; or, as an adverb, to a moderate degree.
+
+**Active domains:** [LIN], [AFF]
+
+**Domain entries:**
+
+- [LIN] As an adverb, a common hedge meaning "fairly", which can soften or intensify depending on tone.
+- [AFF] Aesthetic appreciation of something pleasing to look at. Provisional domain.
+
+**Count condition:** Something judged pleasing to look at, or a degree marked as moderate.
+
+**Specific transfer boundary:** "Pretty sure" is less than sure. Judgements of prettiness vary between people and cultures.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0007 | probably
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Very likely; more likely than not.
+
+**Example:** It will probably rain this afternoon.
+
+**RRGM bridge:** Probably leans toward a claim without fully committing; it puts the weight on one side but leaves the other open.
+
+**Invariant MI [INV]:** Marks a proposition as more likely true than false.
+
+**Active domains:** [COG], [FOR]
+
+**Domain entries:**
+
+- [COG] Expresses an estimate of likelihood above even odds.
+- [FOR] Informally maps to a probability above 0.5, though people use it for a wide range of confidence.
+
+**Count condition:** A claim the speaker judges more likely than not.
+
+**Specific transfer boundary:** Probably is an estimate, not a fact; the speaker's calibration matters. A probable outcome can still fail to happen.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0008 | past | sense s1: time before now
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The time before the present, and the events in it; also gone by, or (as a preposition) beyond or after.
+
+**Example:** In the past, the village had a school; we walked past the station; it's ten past six.
+
+**RRGM bridge:** The past is what has already been written into the record; it can be reinterpreted but not undone.
+
+**Invariant MI [INV]:** Prior to the present, or beyond a point in time or space.
+
+**Active domains:** [PHY], [REL], [LIN]
+
+**Domain entries:**
+
+- [PHY] Earlier along the direction of time; the arrow of time runs from past to future.
+- [REL] Shared pasts shape relationships; someone's past is part of their record without being the whole of them.
+- [LIN] The past tense marks completed or earlier action.
+
+**Count condition:** A time or event before the present, or a point that has been passed.
+
+**Specific transfer boundary:** The past is fixed as event but open as interpretation: what happened stays, while what it means can be revised. Someone's past does not decide their present.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0009 | police
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The official body responsible for keeping public order, preventing crime and enforcing the law; also its members.
+
+**Example:** The police closed the road after the accident.
+
+**RRGM bridge:** The police are the part of a state's structure authorised to use force to uphold its laws, under rules that limit that force.
+
+**Invariant MI [INV]:** The civil force authorised to enforce law and maintain order.
+
+**Active domains:** [REL], [FOR]
+
+**Domain entries:**
+
+- [REL] Public trust in police depends on accountability; who oversees the police is a recurring question.
+- [FOR] Police powers are set and limited by law, including rules on arrest, search and evidence.
+
+**Count condition:** An authorised public body enforcing law, or its officers.
+
+**Specific transfer boundary:** Police enforce the law; they do not decide guilt, which is for courts. Authority to use force is limited by law and is not the same as being right in a given case.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0010 | phone
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A telephone, especially a mobile phone; as a verb, to call someone by telephone.
+
+**Example:** I'll phone you when I land; my phone is almost out of battery.
+
+**RRGM bridge:** A phone carries a voice across distance, and the mobile phone carries a whole networked life in one pocket.
+
+**Invariant MI [INV]:** A device for voice communication at a distance, now usually a networked handheld computer.
+
+**Active domains:** [DIG], [REL], [PHY]
+
+**Domain entries:**
+
+- [DIG] Smartphones are computers with apps, data, location and constant connection.
+- [REL] Phones keep people reachable, which can connect them and also blur the line between work and rest.
+- [PHY] Converts sound to electrical or radio signals and back.
+
+**Count condition:** A device used for remote voice communication, or the act of calling.
+
+**Specific transfer boundary:** Being reachable is not the same as being available. A phone holds a great deal of personal data; access to it is access to much of a life.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0011 | player
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person taking part in a game or sport; also someone who plays a musical instrument; also a device that plays recordings.
+
+**Example:** Each player gets seven cards; she's a fine cello player.
+
+**RRGM bridge:** A player acts within a game's rules; the rules define which moves count.
+
+**Invariant MI [INV]:** A participant in a game, performance or playing activity, or a device that plays media.
+
+**Active domains:** [REL], [FOR], [DIG]
+
+**Domain entries:**
+
+- [REL] "A key player" is someone with influence in a situation; informally, "player" can also mean someone who plays with others' affections.
+- [FOR] In game theory, a decision-maker whose choices affect outcomes for others.
+- [DIG] Media players are programs or devices that play audio or video.
+
+**Count condition:** A participant acting within a game or performance, or a device that plays media.
+
+**Specific transfer boundary:** Calling someone a player in a situation describes influence, not intent. The game-theory sense assumes rational choices, which real people do not always make.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0012 | political
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to government, public affairs or the contest for power; also relating to power relations within any group.
+
+**Example:** The decision was more political than practical.
+
+**RRGM bridge:** Political names whatever involves who decides for a group and how that power is won and checked.
+
+**Invariant MI [INV]:** Concerning the distribution and exercise of power in a group or state.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Office politics and family politics use the same word for power relations at smaller scales.
+- [ECO] Political decisions shape budgets, markets and regulation.
+
+**Count condition:** A matter involving government or the exercise of power in a group.
+
+**Specific transfer boundary:** Calling something political can be used to dismiss it ("that's just political") without addressing its merits. Nearly every public decision has a political side; that does not make it only political.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

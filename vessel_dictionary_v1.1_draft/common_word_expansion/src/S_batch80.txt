@@ -1,0 +1,181 @@
+@ C2-S-0001 | such
+cm: Of the kind already mentioned or about to be mentioned; also to so great a degree.
+ex: I've never seen such a storm; such questions are hard to answer.
+br: Such points back or forward to a kind, carrying the description across without repeating it.
+inv: Of the type referred to, or to that degree.
+[LIN] A determiner and intensifier; "such as" introduces examples.
+cc: A kind or degree that has been, or is about to be, specified.
+tb: "Such as" introduces examples, not a complete list.
+st: [DEF]
+k: discovery
+
+@ C2-S-0002 | something
+cm: An unspecified or unknown thing; also a thing of some importance.
+ex: There's something in my shoe; she's really something.
+br: Something reserves a place for a thing that is present but not yet named.
+inv: An indefinite reference to a thing, known to exist but not identified.
+[LIN] An indefinite pronoun; "something like" approximates.
+[COG] Marks a thing noticed but not yet classified.
+cc: A thing whose existence is asserted while its identity is left open.
+tb: Naming something as "something" does not identify it; vague reference can hide a gap in what is actually known.
+st: [DEF]
+k: discovery
+
+@ C2-S-0003 | sure
+cm: Confident that something is true; certain to happen; also used informally to mean yes.
+ex: Are you sure the door is locked? — Sure, I checked.
+br: Sure reports the speaker's confidence, which is a state of the speaker, not a guarantee about the world.
+inv: Held with confidence, or certain to occur.
+[COG] Subjective certainty, which can be well or badly calibrated.
+[LIN] As a reply, "sure" signals agreement, sometimes reluctant.
+cc: A speaker's confident belief, or an outcome guaranteed.
+tb: Feeling sure is not the same as being right. "Sure" as agreement can be polite rather than enthusiastic.
+st: [DEF]
+k: discovery
+
+@ C2-S-0004 | someone
+cm: Some person, not named or not known; also a person of importance.
+ex: Someone left an umbrella at the door.
+br: Someone holds the place of a person present in the event but absent from the record.
+inv: An unidentified person.
+[LIN] Indefinite pronoun; singular, often referred back to with "they".
+[REL] "Someone should do something" names a need without naming who is responsible.
+cc: A person whose identity is not given.
+tb: "Someone" leaves responsibility unassigned; it does not mean no one is responsible. Saying "someone told me" makes a claim hard to check.
+st: [DEF]
+k: discovery
+
+@ C2-S-0005 | service
+cm: Work done for others; a system that supplies a public need such as transport or health care; a religious ceremony; or (in sport) a serve.
+ex: The bus service is better now; the service at the café was quick.
+br: A service is something done or supplied for others, judged by whether it actually meets their need.
+inv: The act or system of doing work or providing something for others.
+[ECO] Service industries sell work and expertise rather than goods.
+[REL] Service to others, and the duty of those who serve; "public service" names work done for a community.
+[DIG] A software service runs on servers and is reached over a network; terms of service set the rules of use.
+cc: Work or provision delivered to others, or a formal ceremony.
+tb: Calling something a service does not mean it serves its users well. "Terms of service" are set by the provider and often favour it.
+st: [DEF]
+k: discovery
+
+@ C2-S-0006 | shit
+cm: Vulgar: faeces; also used as an exclamation, an insult, or for things judged bad or worthless.
+ex: Oh, shit, I missed the bus.
+br: Shit takes the body's waste and turns it into a word for anything rejected, and into a release of frustration.
+inv: A vulgar word for faeces, extended to rejection, worthlessness and strong exclamation.
+[BIO] Faeces, the body's solid waste.
+[LIN] Highly versatile in informal speech: exclamation, intensifier ("scared shitless"), and general noun ("my stuff").
+[PEJ] Used as an insult ("a piece of shit"): it aims disgust at a person to mark them as worthless. The mechanism is transferring a bodily disgust response onto the target.
+cc: Informal or vulgar speech, referring to waste, frustration or something judged bad.
+tb: Register matters: the word is offensive in many settings and ordinary in others. As an exclamation it describes the speaker's reaction, not a judgement of anyone.
+st: [DEF]; [PEJ] PROVISIONAL
+k: discovery
+
+@ C2-S-0007 | south
+cm: The direction toward the South Pole, opposite north; also the southern part of a place.
+ex: Birds fly south for the winter.
+br: South is a direction fixed by the Earth's axis, and a region named by where it lies.
+inv: The direction toward the Earth's South Pole, or the region lying that way.
+[PHY] A cardinal direction defined by the planet's rotation axis.
+[ECO] "Global South" names lower-income countries collectively, a political-economic grouping more than a geographic one.
+cc: A direction or region oriented toward the South Pole.
+tb: "Global South" is not strictly geographic; Australia is in the south but not in the grouping. "Going south" informally means getting worse.
+st: [DEF]
+k: discovery
+
+@ C2-S-0008 | several
+cm: More than two but not many; also separate or respective.
+ex: Several people asked the same question.
+br: Several counts a small plurality without fixing the number.
+inv: An indefinite number greater than two but not large.
+[LIN] Quantifier between "a couple" and "many".
+cc: A number of items more than two and fewer than many.
+tb: Several is vague by design; when the count matters, give the number.
+st: [DEF]
+k: discovery
+
+@ C2-S-0009 | series
+cm: A number of similar or related things coming one after another; also a set of television programmes or books.
+ex: A series of storms hit the coast; I'm watching a new series.
+br: A series links items in order, so each is read in light of those before it.
+inv: An ordered sequence of related items.
+[FOR] In mathematics, the sum of the terms of a sequence; it may converge or diverge.
+[PHY] In a series circuit, components are connected one after another along a single path.
+[LIN] A run of episodes or volumes sharing characters or a subject.
+cc: Related items arranged or occurring in order.
+tb: Things happening in a series need not cause each other; order is not causation.
+st: [DEF]
+k: discovery
+
+@ C2-S-0010 | soon
+cm: In a short time from now; early; quickly.
+ex: The train will arrive soon.
+br: Soon promises nearness in time without a fixed point.
+inv: Within a short time after the present or a stated moment.
+[LIN] Vague time adverb; "as soon as" marks immediate sequence.
+cc: An expected event placed a short, unspecified time ahead.
+tb: Soon is relative: soon for a building project is not soon for a reply. When timing matters, give a date.
+st: [DEF]
+k: discovery
+
+@ C2-S-0011 | sometimes
+cm: On some occasions but not always.
+ex: Sometimes I walk to work.
+br: Sometimes marks a pattern that holds in some cases and not in others.
+inv: Occurring on some occasions, not all.
+[FOR] Asserts existence of cases ("at least some"), not frequency.
+cc: An event or state that recurs irregularly.
+tb: Sometimes does not say how often; it can be rare or frequent.
+st: [DEF]
+k: discovery
+
+@ C2-S-0012 | son
+cm: A male child in relation to his parents.
+ex: Their son starts school in September.
+br: A son is named by relation: the word only exists as one end of a parent–child bond.
+inv: A male offspring, named in relation to a parent.
+[REL] Kinship role with expectations that vary by culture; adoptive and step-sons are sons by relation.
+[BIO] Male offspring.
+[MYT] "Son of" in many traditions names lineage or nature, as in "son of the morning".
+cc: A male child named in relation to a parent.
+tb: Sonship is a relation, not only biology; adoption creates it. The role's expectations come from culture, not from the word.
+st: [DEF]
+k: discovery
+
+@ C2-S-0013 | street
+cm: A public road in a city or town, usually with buildings along it.
+ex: They live on a quiet street near the park.
+br: A street is shared space between private doors, where strangers pass and neighbours meet.
+inv: A public road lined with buildings in a settled area.
+[ECO] Streets carry traffic, trade and services; "high street" names a town's main shopping street.
+[REL] Public space shared by residents and passers-by; "street smart" means practical knowledge learned outside formal schooling.
+cc: A public way in a town or city, with buildings along it.
+tb: A street is public, but what happens on it is still governed by law and by the people who live there.
+st: [DEF]
+k: discovery
+
+@ C2-S-0014 | song
+cm: A short piece of music with words, meant to be sung; also the musical sounds of birds.
+ex: She wrote a song for her brother's wedding.
+br: A song joins words to melody so that meaning is carried by both, and is remembered by both.
+inv: A piece of music for the voice, usually with words.
+[LIN] Lyrics carry meaning through rhythm and rhyme as well as words.
+[BIO] Birdsong serves to mark territory and attract mates.
+[REL] Songs carry shared memory, identity and ritual within communities.
+[AFF] Songs can evoke strong feeling in listeners. Provisional domain.
+cc: Vocal music, with words or with patterned calls as in birdsong.
+tb: A song's words and its music can say different things; meaning comes from both together. Copyright protects a song's lyrics and melody as separate works.
+st: [DEF]; [AFF] PROVISIONAL
+k: discovery
+
+@ C2-S-0015 | study
+cm: To give time and attention to learning about a subject; also a piece of research, or a room for reading and work.
+ex: She studies physics; a new study found the drug worked.
+br: Study is attention kept on a subject long enough for understanding to build.
+inv: Sustained effort to learn or investigate, or the report of such an investigation.
+[COG] Learning through reading, practice and review.
+[FOR] A research study has a design, a sample and results, and its conclusions are only as strong as its method.
+cc: A learner and a subject, or an investigation with a method and findings.
+tb: "A study found" is not the same as "it is known": one study can fail to replicate. Studying something is not the same as having mastered it.
+st: [DEF]
+k: discovery

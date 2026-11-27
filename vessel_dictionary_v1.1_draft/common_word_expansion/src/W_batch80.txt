@@ -1,0 +1,36 @@
+@ C2-W-0001 | woman
+cm: An adult female human being.
+ex: The woman at the front desk gave us directions.
+br: Woman names an adult female person, the counterpart to man.
+inv: An adult female human.
+[BIO] Adult human female.
+[REL] Social roles and expectations attached to women vary across cultures and have changed greatly over time; many have been challenged and revised.
+[LIN] Plural "women"; once also used in compounds where neutral terms are now common.
+cc: An adult person who is female, or who identifies as a woman.
+tb: The roles expected of women come from culture, not from the word. Generalisations about "women" describe tendencies at most, not any individual.
+st: [DEF]
+k: discovery
+
+@ C2-W-0002 | week
+cm: A period of seven days; also the working days of that period.
+ex: I'll see you next week; she works a four-day week.
+br: A week is a human-made cycle of seven days, a rhythm laid over time by convention.
+inv: A unit of seven consecutive days.
+[ECO] The working week sets the pattern of labour and rest.
+[REL] Weekly rhythms (market days, rest days, worship) organise community life.
+cc: A period of seven days, or the working portion of it.
+tb: Unlike the day or year, the week matches no astronomical cycle; it is a social convention.
+st: [DEF]
+k: discovery
+
+@ C2-W-0003 | west
+cm: The direction toward the setting sun, opposite east; also the western part of a place, or (as "the West") Europe and North America.
+ex: The sun sets in the west.
+br: West is the direction of sunset, and also a name a group of countries gives itself.
+inv: The direction opposite east, or a region lying that way.
+[PHY] Cardinal direction, where the sun sets.
+[REL] "The West" is a cultural and political grouping, not a fixed place; its boundaries are disputed.
+cc: A direction or a region oriented westward, or the grouping called the West.
+tb: "The West" is defined by politics and history more than geography. Directions are relative: every place is west of somewhere.
+st: [DEF]
+k: discovery

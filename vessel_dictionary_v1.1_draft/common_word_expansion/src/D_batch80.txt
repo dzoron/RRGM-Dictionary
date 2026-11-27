@@ -1,0 +1,26 @@
+@ C2-D-0001 | due
+cm: Expected or required at a certain time; owed; or (with "to") caused by.
+ex: The rent is due on the first; the delay was due to snow.
+br: Due links a thing to a time or a cause it is answerable to: a payment to its date, an outcome to what produced it.
+inv: Owed or expected by a set point, or attributable to a stated cause.
+[ECO] A due payment is an obligation with a date; once past it, it is overdue and may carry penalties.
+[FOR] "Due to" states a causal attribution, which can be checked against alternatives.
+[REL] "Giving someone their due" means granting what they have fairly earned, including credit.
+cc: A thing with a set time it is expected or owed by, or an outcome with an identified cause.
+tb: "Due to" asserts cause, not just sequence; that a delay followed snow does not prove the snow caused it. Being due is not the same as being paid or done.
+st: [DEF]
+k: discovery
+
+@ C2-D-0002 | development
+cm: The process of growing, changing or becoming more advanced; also a new event, or land and buildings that have been built or improved.
+ex: The child's language development was quick; there's been a development in the case.
+br: Development is change with a direction: each stage builds on the last, so the earlier forms are carried into the later ones rather than erased.
+inv: Change over time in which later states build on and extend earlier ones.
+[BIO] Growth and maturation of an organism from conception through adulthood.
+[COG] Developmental stages in thinking, language and social understanding.
+[ECO] Economic development; and property development, the building of homes or offices on land.
+[DIG] Software development: designing, writing, testing and maintaining programs.
+cc: A process of change in which successive states build on earlier ones, or an event that changes a situation.
+tb: Development is not always improvement; a situation can develop for the worse. Calling something "developing" assumes a direction that should be stated, not taken for granted.
+st: [DEF]
+k: discovery
