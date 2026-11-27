@@ -151,3 +151,145 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-E-0006 | easily
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Without difficulty; also by far; also very possibly.
+
+**Example:** She easily passed; it's easily the best café in town.
+
+**RRGM bridge:** Easily marks low resistance, or a wide margin.
+
+**Invariant MI [INV]:** With little effort, or by a large margin.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Manner and degree adverb.
+
+**Count condition:** An action done with little effort, or a clear margin.
+
+**Specific transfer boundary:** What is easy for one person is not easy for another.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-E-0007 | equipment
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The tools, machines or other things needed for a particular activity.
+
+**Example:** Camping equipment.
+
+**RRGM bridge:** Equipment is what a task needs in hand.
+
+**Invariant MI [INV]:** The set of tools and devices for an activity.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Capital equipment for production.
+
+**Count condition:** Items needed for an activity.
+
+**Specific transfer boundary:** Good equipment does not replace skill.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-E-0008 | eventually
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In the end, after a long time or a series of events.
+
+**Example:** Eventually they found the keys.
+
+**RRGM bridge:** Eventually places an outcome at the end of a delay.
+
+**Invariant MI [INV]:** At some later time, after delay.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Time adverb.
+
+**Count condition:** An outcome after delay.
+
+**Specific transfer boundary:** "Eventually" gives no date; a promise of eventually can mean never.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-E-0009 | economy
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The system of production, trade and money in a country or region; also careful use of resources.
+
+**Example:** The economy grew last year; economy class.
+
+**RRGM bridge:** An economy is the whole web of making, trading and spending in a place.
+
+**Invariant MI [INV]:** A system of production and exchange, or thrift.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Measured by output, jobs, prices and trade.
+- [REL] Economic policy distributes gains and losses.
+
+**Count condition:** A system of production and exchange, or careful use.
+
+**Specific transfer boundary:** A growing economy can leave many people worse off; averages hide distribution.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-E-0010 | executive
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A senior manager in a business; also the branch of government that carries out laws; as an adjective, having power to act.
+
+**Example:** The executive team; the executive branch.
+
+**RRGM bridge:** The executive is the part of a structure that acts, as against the parts that decide rules or judge.
+
+**Invariant MI [INV]:** One with authority to carry out decisions, or the branch that enforces law.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Separation of powers divides executive, legislative and judicial roles.
+- [ECO] Corporate executives run companies.
+
+**Count condition:** A senior manager, or the governing branch that executes law.
+
+**Specific transfer boundary:** Executive power checked by courts and legislatures is the basic design; unchecked, it concentrates.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

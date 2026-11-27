@@ -1025,3 +1025,118 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-P-0033 | patient
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person receiving medical treatment; as an adjective, able to wait or put up with things calmly.
+
+**Example:** The patient was discharged; be patient.
+
+**RRGM bridge:** A patient is one who undergoes; patience is the capacity to undergo without rush.
+
+**Invariant MI [INV]:** A person under care, or calm endurance.
+
+**Active domains:** [BIO], [REL], [AFF]
+
+**Domain entries:**
+
+- [BIO] Patient care and consent.
+- [REL] Patient rights include information and refusal.
+- [AFF] Patience as calm tolerance of delay. Provisional domain.
+
+**Count condition:** A person under medical care, or calm waiting.
+
+**Specific transfer boundary:** Being a patient does not remove the right to decide about one's own care.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0034 | professor
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A senior university teacher; in some countries any college or university teacher.
+
+**Example:** Her professor recommended a reading list.
+
+**RRGM bridge:** A professor professes a field, teaching and extending it.
+
+**Invariant MI [INV]:** A senior academic teacher.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Academic rank and tenure.
+
+**Count condition:** A university teacher of senior rank.
+
+**Specific transfer boundary:** A professor's authority is in their field; outside it they speak as anyone.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0035 | primary
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** First in order or importance; also relating to early schooling; also an election to choose candidates.
+
+**Example:** Primary school; the primary reason.
+
+**RRGM bridge:** Primary marks what comes first, in time or in weight.
+
+**Invariant MI [INV]:** First, earliest or most important.
+
+**Active domains:** [FOR], [REL]
+
+**Domain entries:**
+
+- [FOR] Primary sources are original records, as against later accounts.
+- [REL] Primary elections choose party candidates.
+
+**Count condition:** Something first in order, rank or source.
+
+**Specific transfer boundary:** A primary source can still be biased; being first does not make it right.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0036 | politics
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The activities of governing and of seeking power; also political views; also power relations within a group.
+
+**Example:** She's interested in politics; office politics.
+
+**RRGM bridge:** Politics is how a group decides who decides.
+
+**Invariant MI [INV]:** The contest and exercise of power in a group or state.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Parties, elections, policy, and power at every scale.
+
+**Count condition:** Activities concerning governance and power.
+
+**Specific transfer boundary:** "Playing politics" is used to dismiss positions; it is not an argument against them.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

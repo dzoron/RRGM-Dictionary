@@ -326,3 +326,88 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-H-0012 | highly
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To a high degree; very; also favourably.
+
+**Example:** Highly likely; she speaks highly of you.
+
+**RRGM bridge:** Highly raises a scale near its top.
+
+**Invariant MI [INV]:** To a great degree, or with approval.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Degree adverb.
+
+**Count condition:** A degree near the top of a scale, or approval.
+
+**Specific transfer boundary:** "Highly recommended" by whom matters.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-H-0013 | holy
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Dedicated to God or a religious purpose; sacred.
+
+**Example:** A holy place; the holy book.
+
+**RRGM bridge:** Holy sets a thing apart as sacred, removed from ordinary use.
+
+**Invariant MI [INV]:** Set apart as sacred.
+
+**Active domains:** [MYT], [REL]
+
+**Domain entries:**
+
+- [MYT] Sacred places, texts and times across traditions. Faith claims are held in their own domain.
+- [REL] What a community holds holy shapes its rules and boundaries.
+
+**Count condition:** Something regarded as sacred.
+
+**Specific transfer boundary:** Holiness is held within a tradition; one community's holy is not binding on another.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-H-0014 | hall
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A large room for meetings or events; also the entrance area of a house; also a large building.
+
+**Example:** The town hall; leave your coat in the hall.
+
+**RRGM bridge:** A hall is a room made for gathering or passing through.
+
+**Invariant MI [INV]:** A large room or building for gatherings, or an entrance passage.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Public halls host shared civic life.
+
+**Count condition:** A large room or building, or an entrance passage.
+
+**Specific transfer boundary:** "Hall of fame" honours chosen people; who chooses matters.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

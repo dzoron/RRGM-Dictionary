@@ -586,3 +586,91 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-M-0019 | master
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person with control or authority over others; also someone highly skilled; also an original copy; as a verb, to learn fully.
+
+**Example:** A master carpenter; she mastered French.
+
+**RRGM bridge:** Master names command over people, over a craft, or over a copy from which others are made.
+
+**Invariant MI [INV]:** One with control or full skill, or an original.
+
+**Active domains:** [REL], [COG], [DIG]
+
+**Domain entries:**
+
+- [REL] Master–servant relations; the word's history includes slavery.
+- [COG] Mastery: skill developed to a high level.
+- [DIG] "Master" branch naming in software has largely shifted to "main".
+
+**Count condition:** A person with authority or skill, an original, or the act of mastering.
+
+**Specific transfer boundary:** Mastery of one craft does not transfer automatically to others.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0020 | marriage
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The legally or formally recognised union of two people as partners; also a close combination of things.
+
+**Example:** Their marriage lasted fifty years.
+
+**RRGM bridge:** Marriage makes a partnership formal, so that law and community recognise it.
+
+**Invariant MI [INV]:** A recognised union of partners, or a close combination.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Marriage laws have changed widely, including who may marry.
+- [ECO] Marriage carries legal and financial consequences.
+
+**Count condition:** A recognised partnership, or a combining of elements.
+
+**Specific transfer boundary:** The legal form does not describe the relationship within it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0021 | mission
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An important task, often involving travel; also a group sent to do it; also a strong sense of purpose; also a religious centre.
+
+**Example:** A rescue mission; the company's mission.
+
+**RRGM bridge:** A mission is a sending-out toward a purpose.
+
+**Invariant MI [INV]:** An assigned purpose or the group sent to carry it out.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Religious missions spread faith, with complex histories in colonised places.
+- [ECO] Mission statements set an organisation's stated purpose.
+
+**Count condition:** A task with purpose, or those sent to do it.
+
+**Specific transfer boundary:** A stated mission is a claim; conduct shows the actual one.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

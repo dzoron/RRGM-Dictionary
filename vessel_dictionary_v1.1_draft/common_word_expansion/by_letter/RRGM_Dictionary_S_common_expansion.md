@@ -1425,3 +1425,434 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-S-0050 | sports
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Activities involving physical effort and skill, done competitively or for fun; also relating to them.
+
+**Example:** She loves sports; the sports section.
+
+**RRGM bridge:** Sports are play given rules, so effort and skill can be compared.
+
+**Invariant MI [INV]:** Physical competitive games collectively.
+
+**Active domains:** [BIO], [REL]
+
+**Domain entries:**
+
+- [BIO] Exercise and athletic performance.
+- [REL] Team loyalty and shared identity.
+
+**Count condition:** Rule-bound physical activities, or matters relating to them.
+
+**Specific transfer boundary:** Winning at sport measures skill on the day, not worth as a person.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0051 | stupid
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Lacking intelligence or good sense; also annoying or pointless.
+
+**Example:** It was a stupid mistake.
+
+**RRGM bridge:** Stupid judges an act or idea as lacking sense.
+
+**Invariant MI [INV]:** Showing a lack of good sense or intelligence.
+
+**Active domains:** [LIN], [PEJ]
+
+**Domain entries:**
+
+- [LIN] Common in casual speech, often for frustration.
+- [PEJ] Calling a person stupid dismisses their judgement as a whole; the mechanism moves from one error to the whole person.
+
+**Count condition:** An act or idea judged foolish, or something annoying.
+
+**Specific transfer boundary:** A stupid mistake does not make a stupid person; anyone errs.
+
+**Epistemic status:** [DEF]; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0052 | successful
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Having achieved an aim; also having gained wealth, status or fame.
+
+**Example:** A successful launch; a successful writer.
+
+**RRGM bridge:** Successful marks an aim reached.
+
+**Invariant MI [INV]:** Achieving an intended outcome.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Commercial success is measured by revenue or growth.
+
+**Count condition:** An outcome meeting its aim.
+
+**Specific transfer boundary:** Survivorship: the successful are seen; those who did the same and failed are not.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0053 | ship
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A large boat that carries people or goods by sea; as a verb, to send goods.
+
+**Example:** The ship docked at dawn; we ship worldwide.
+
+**RRGM bridge:** A ship carries a crew and cargo across water as one bounded world.
+
+**Invariant MI [INV]:** A large seagoing vessel, or to send goods.
+
+**Active domains:** [PHY], [ECO], [MYT]
+
+**Domain entries:**
+
+- [PHY] Buoyancy and displacement.
+- [ECO] Shipping carries most world trade.
+- [MYT] The ship of Theseus: is it the same ship when every plank is replaced?
+
+**Count condition:** A large seagoing vessel, or the act of sending.
+
+**Specific transfer boundary:** Identity through replaced parts depends on which criterion of sameness is used.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0054 | stock
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A supply of goods kept for sale or use; also shares in a company; also broth; also livestock; as an adjective, standard or typical.
+
+**Example:** The shop is out of stock; she bought stock in the firm; a stock phrase.
+
+**RRGM bridge:** Stock is what is held in store, and also the standard pattern things are cut from.
+
+**Invariant MI [INV]:** A stored supply, a share of ownership, or a standard type.
+
+**Active domains:** [ECO], [FOR], [LIN]
+
+**Domain entries:**
+
+- [ECO] Stock markets, inventory.
+- [FOR] In systems thinking, a stock changes only through its inflows and outflows.
+- [LIN] Stock phrases repeat without thought.
+
+**Count condition:** A supply, shares, broth or a standard pattern.
+
+**Specific transfer boundary:** Stock prices reflect expectations, not only present value.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0055 | secret
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Something kept hidden from others; as an adjective, not known or seen by others.
+
+**Example:** She kept the secret for years.
+
+**RRGM bridge:** A secret is knowledge held behind a boundary, shared with few or none.
+
+**Invariant MI [INV]:** Information kept from others deliberately.
+
+**Active domains:** [REL], [DIG]
+
+**Domain entries:**
+
+- [REL] Secrets bind those who share them; keeping or breaking them tests trust.
+- [DIG] Secret keys and credentials protect systems.
+
+**Count condition:** Information deliberately withheld.
+
+**Specific transfer boundary:** A secret kept to protect someone is different from one kept to harm them; the word covers both.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0056 | senior
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Older, or higher in rank; also an elderly person; also a final-year student.
+
+**Example:** A senior manager; discounts for seniors.
+
+**RRGM bridge:** Senior marks rank or age above others.
+
+**Invariant MI [INV]:** Higher in age, rank or standing.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Seniority can confer authority and protection.
+
+**Count condition:** A person older or higher in rank.
+
+**Specific transfer boundary:** Seniority is not the same as being right.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0057 | spring
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The season after winter; also a coil that returns to shape; also a source of water from the ground; as a verb, to jump.
+
+**Example:** Flowers bloom in spring; a spring in the mattress.
+
+**RRGM bridge:** Spring names release: of the year from winter, of a coil, of water from the ground.
+
+**Invariant MI [INV]:** The season of renewal, an elastic coil, or a natural water source.
+
+**Active domains:** [PHY], [BIO]
+
+**Domain entries:**
+
+- [PHY] Elastic potential energy; Hooke's law.
+- [BIO] Growth season.
+
+**Count condition:** The season, a coil, a source, or a jump.
+
+**Specific transfer boundary:** Seasons reverse between hemispheres.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0058 | skin
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The outer covering of the body; also the outer layer of fruit or other things.
+
+**Example:** Sunscreen protects your skin.
+
+**RRGM bridge:** Skin is the boundary that holds the body in and keeps the world out.
+
+**Invariant MI [INV]:** The outer protective layer of an organism or object.
+
+**Active domains:** [BIO], [REL]
+
+**Domain entries:**
+
+- [BIO] The body's largest organ: protects, senses, regulates temperature.
+- [REL] Skin colour has been used to sort and rank people, a social practice with no basis in biology.
+
+**Count condition:** An outer covering of a body or object.
+
+**Specific transfer boundary:** Skin colour reflects ancestry and sun exposure; it says nothing about a person's worth.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0059 | supposed
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Generally believed or claimed to be, though not certain; "supposed to" means expected or required to.
+
+**Example:** You're supposed to wear a helmet; his supposed illness.
+
+**RRGM bridge:** Supposed marks a claim as believed rather than shown, or a duty as expected.
+
+**Invariant MI [INV]:** Assumed or claimed, or expected by rule.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] An assumption held for argument.
+
+**Count condition:** A claimed state, or an expected duty.
+
+**Specific transfer boundary:** "Supposed" signals doubt; the claim may be false.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0060 | sweet
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Tasting of sugar; also pleasant or kind; as a noun (British), a sweet food or candy.
+
+**Example:** The cake is too sweet; how sweet of you.
+
+**RRGM bridge:** Sweet names the taste of sugar, and the pleasantness it is likened to.
+
+**Invariant MI [INV]:** Having the taste of sugar, or pleasing.
+
+**Active domains:** [BIO], [AFF]
+
+**Domain entries:**
+
+- [BIO] Sweet taste signals energy-rich food.
+- [AFF] Pleasantness or kindness. Provisional domain.
+
+**Count condition:** A sugary taste, or pleasant manner.
+
+**Specific transfer boundary:** Sweet words can mislead; pleasant is not honest.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0061 | sit
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To rest with one's weight on the buttocks; also to be placed; also to take an exam; also (of a body) to be in session.
+
+**Example:** Sit down; the court sits on Mondays.
+
+**RRGM bridge:** To sit is to settle in place.
+
+**Invariant MI [INV]:** To be seated, placed, or in session.
+
+**Active domains:** [BIO]
+
+**Domain entries:**
+
+- [BIO] A resting posture.
+
+**Count condition:** A seated position, a placement, or a session.
+
+**Specific transfer boundary:** "Sitting on" a decision means delaying it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0062 | spot
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A small round mark; also a particular place; as a verb, to notice.
+
+**Example:** A spot on the shirt; a good spot for a picnic; I spotted her.
+
+**RRGM bridge:** A spot is a small point, on a surface or on a map, and noticing it.
+
+**Invariant MI [INV]:** A small mark, a place, or to notice.
+
+**Active domains:** [COG]
+
+**Domain entries:**
+
+- [COG] Spotting: noticing a detail or pattern.
+
+**Count condition:** A mark, a location, or an act of noticing.
+
+**Specific transfer boundary:** Spotting a pattern is not proving it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0063 | shop
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A building or room where goods are sold; also a workshop; as a verb, to buy things.
+
+**Example:** The corner shop; let's go shopping.
+
+**RRGM bridge:** A shop is where goods meet buyers.
+
+**Invariant MI [INV]:** A place of sale or of work, or to buy.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Retail.
+
+**Count condition:** A place of retail or craft, or buying.
+
+**Specific transfer boundary:** "Shopping around" compares options; the cheapest is not always the best.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0064 | sick
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Ill; also feeling as if about to vomit; also (informally) fed up, or impressive.
+
+**Example:** She's sick with flu; I'm sick of waiting.
+
+**RRGM bridge:** Sick names the body out of order, and by extension being fed up.
+
+**Invariant MI [INV]:** Unwell, or nauseated, or weary of something.
+
+**Active domains:** [BIO], [LIN]
+
+**Domain entries:**
+
+- [BIO] Illness and nausea.
+- [LIN] Slang "sick" can mean excellent.
+
+**Count condition:** An unwell state, nausea, or weariness.
+
+**Specific transfer boundary:** Slang "sick" is praise; context decides.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

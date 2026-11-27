@@ -120,3 +120,31 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-L-0005 | literally
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In a literal way; exactly; also (informally) used for emphasis in non-literal statements.
+
+**Example:** Translate it literally; I literally died laughing.
+
+**RRGM bridge:** Literally insists on the exact sense, and is often used where the sense is not exact.
+
+**Invariant MI [INV]:** In the strict sense of the words, or as an intensifier.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Its emphatic use is old and common, and still disliked by some.
+
+**Count condition:** A statement meant word for word, or emphasised.
+
+**Specific transfer boundary:** "Literally" as emphasis does not make the statement literal.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

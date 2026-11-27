@@ -235,3 +235,60 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-W-0009 | weekend
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Saturday and Sunday, or the time off at the end of a working week.
+
+**Example:** We're going camping this weekend.
+
+**RRGM bridge:** The weekend is the rest set aside after the working week.
+
+**Invariant MI [INV]:** The days at the end of the week, usually free from work.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] The two-day weekend was won by labour movements.
+
+**Count condition:** The end-of-week days off.
+
+**Specific transfer boundary:** Not everyone has a weekend off; many work through it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-W-0010 | winter
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The coldest season, between autumn and spring.
+
+**Example:** The lake freezes in winter.
+
+**RRGM bridge:** Winter is the turn of the year when the sun is lowest and growth rests.
+
+**Invariant MI [INV]:** The coldest season.
+
+**Active domains:** [PHY], [BIO]
+
+**Domain entries:**
+
+- [PHY] Caused by axial tilt.
+- [BIO] Dormancy and hibernation.
+
+**Count condition:** The cold season.
+
+**Specific transfer boundary:** Winter in one hemisphere is summer in the other.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -1,0 +1,33 @@
+@ C2-O-0006 | organization
+cm: An organised group with a purpose, such as a company or charity; also the way something is arranged.
+ex: She works for a health organization; the organization of the files.
+br: An organization is a structure built so that people can act together.
+inv: A structured group, or an arrangement.
+[REL] Organisations have hierarchies, roles and cultures.
+[ECO] Firms, nonprofits and agencies.
+cc: A purposeful group, or an ordering.
+tb: An organisation's statements are made by particular people within it.
+st: [DEF]
+k: discovery
+
+@ C2-O-0007 | overall
+cm: Taking everything into account; in total; as a noun, a protective garment.
+ex: Overall, the trip was a success; she wore overalls.
+br: Overall steps back to take the whole.
+inv: Considered as a whole, or a protective garment.
+[FOR] An overall result can hide large differences between parts.
+cc: A whole view, or a work garment.
+tb: An overall average can hide groups that went the other way.
+st: [DEF]
+k: discovery
+
+@ C2-O-0008 | otherwise
+cm: In other circumstances; if not; also differently.
+ex: Leave now, otherwise you'll miss the bus.
+br: Otherwise opens the alternative branch, what happens if not.
+inv: In the other case, or in a different way.
+[FOR] The else-branch of a condition.
+cc: An alternative to a stated condition.
+tb: "Otherwise" can present one alternative as the only one; there may be others.
+st: [DEF]
+k: discovery

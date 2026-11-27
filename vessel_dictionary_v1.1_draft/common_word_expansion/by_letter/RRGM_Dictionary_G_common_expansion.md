@@ -63,3 +63,61 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-G-0003 | grand
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Magnificent and impressive; also large or important; informally, a thousand dollars or pounds.
+
+**Example:** A grand hall; the grand total.
+
+**RRGM bridge:** Grand marks scale and splendour.
+
+**Invariant MI [INV]:** Large, impressive or of high rank.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Prefix of kinship (grandmother) and of scale.
+
+**Count condition:** Something impressive, total or large.
+
+**Specific transfer boundary:** Grandeur is not substance; grand plans need small steps.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-G-0004 | gay
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Sexually or romantically attracted to people of the same sex; also, in older usage, cheerful.
+
+**Example:** Her brother is gay; the gay rights movement.
+
+**RRGM bridge:** Gay is a word people chose for themselves, which shifted from meaning cheerful to naming an identity.
+
+**Invariant MI [INV]:** Attracted to people of one's own sex, or (older) light-hearted.
+
+**Active domains:** [REL], [LIN], [PEJ]
+
+**Domain entries:**
+
+- [REL] A self-chosen identity term; legal rights for gay people have expanded in many countries and remain contested in others.
+- [LIN] The older sense of "cheerful" survives in old texts.
+- [PEJ] Used as an insult ("that's so gay") to mean bad or weak; the mechanism attaches contempt for a group to whatever is being dismissed.
+
+**Count condition:** A person attracted to their own sex, or (older) cheerful.
+
+**Specific transfer boundary:** The identity sense is how people describe themselves; the insult use turns their name into a put-down.
+
+**Epistemic status:** [DEF]; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -296,3 +296,89 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-D-0011 | directly
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Without anything or anyone in between; also immediately; also exactly.
+
+**Example:** Contact the office directly; directly opposite the bank.
+
+**RRGM bridge:** Directly removes the go-between from a path or a relation.
+
+**Invariant MI [INV]:** Without intermediary or deviation.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Direct communication can avoid distortion through others.
+
+**Count condition:** An action or position with nothing intervening.
+
+**Specific transfer boundary:** Direct is not always clearer; some messages travel better with a mediator.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-D-0012 | disease
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An illness or disorder of the body or mind, with particular signs or symptoms.
+
+**Example:** Heart disease is common.
+
+**RRGM bridge:** A disease is a breakdown in how a body keeps itself in working order.
+
+**Invariant MI [INV]:** A disorder of structure or function in an organism.
+
+**Active domains:** [BIO], [REL]
+
+**Domain entries:**
+
+- [BIO] Infectious, genetic, chronic and acute diseases.
+- [REL] Calling a group or behaviour a "disease" can stigmatise people.
+
+**Count condition:** A recognised disorder with signs or symptoms.
+
+**Specific transfer boundary:** Having a disease does not define the person who has it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-D-0013 | drug
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A substance used as medicine; also a substance taken for its effects on the mind, sometimes illegally.
+
+**Example:** The drug lowered her blood pressure.
+
+**RRGM bridge:** A drug changes how a body or mind works by acting on its chemistry.
+
+**Invariant MI [INV]:** A substance that alters bodily or mental function.
+
+**Active domains:** [BIO], [REL]
+
+**Domain entries:**
+
+- [BIO] Pharmacology: dose, effect, side effects and interactions.
+- [REL] Drug laws and attitudes differ widely across countries.
+
+**Count condition:** A substance taken for medical or psychoactive effect.
+
+**Specific transfer boundary:** Legal status is not a measure of harm; legal drugs can be dangerous and illegal ones less so.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -437,3 +437,88 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-T-0016 | thus
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** As a result; therefore; also in this way.
+
+**Example:** The road was closed; thus we were late.
+
+**RRGM bridge:** Thus links a conclusion to what produced it.
+
+**Invariant MI [INV]:** Therefore, or in this manner.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] Marks an inference.
+
+**Count condition:** A conclusion drawn from what came before.
+
+**Specific transfer boundary:** "Thus" asserts the inference; the inference still has to follow.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0017 | trip
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A journey, especially a short one; as a verb, to stumble, or to make a switch operate.
+
+**Example:** A day trip; she tripped on the step; the breaker tripped.
+
+**RRGM bridge:** A trip is a short journey, or a stumble that interrupts one.
+
+**Invariant MI [INV]:** A short journey, or a stumble, or a triggering.
+
+**Active domains:** [PHY]
+
+**Domain entries:**
+
+- [PHY] A circuit breaker trips when current exceeds a limit.
+
+**Count condition:** A journey, a stumble or a triggered switch.
+
+**Specific transfer boundary:** A tripped breaker is the safety working, not the fault.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0018 | teacher
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person who teaches, especially in a school.
+
+**Example:** Her teacher encouraged her to write.
+
+**RRGM bridge:** A teacher passes knowledge on and helps it take root in others.
+
+**Invariant MI [INV]:** One who teaches.
+
+**Active domains:** [COG], [REL]
+
+**Domain entries:**
+
+- [COG] Instruction and guidance in learning.
+- [REL] The teacher–student bond carries trust and influence.
+
+**Count condition:** A person who instructs.
+
+**Specific transfer boundary:** Learning happens in the learner; a teacher guides it but cannot do it for them.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

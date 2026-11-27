@@ -150,3 +150,32 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-R-0006 | rich
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Having a lot of money or possessions; also plentiful; also (of food) heavy with fat or flavour.
+
+**Example:** A rich businessman; a rich history; a rich sauce.
+
+**RRGM bridge:** Rich names abundance: of money, of detail, of flavour.
+
+**Invariant MI [INV]:** Having abundance.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Wealth concentration and inequality.
+- [REL] Admiration of the rich can distort moral judgement (Adam Smith).
+
+**Count condition:** A person or thing with abundance.
+
+**Specific transfer boundary:** Being rich is not evidence of merit; wealth and worth are separate.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -151,3 +151,88 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-O-0006 | organization
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An organised group with a purpose, such as a company or charity; also the way something is arranged.
+
+**Example:** She works for a health organization; the organization of the files.
+
+**RRGM bridge:** An organization is a structure built so that people can act together.
+
+**Invariant MI [INV]:** A structured group, or an arrangement.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Organisations have hierarchies, roles and cultures.
+- [ECO] Firms, nonprofits and agencies.
+
+**Count condition:** A purposeful group, or an ordering.
+
+**Specific transfer boundary:** An organisation's statements are made by particular people within it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-O-0007 | overall
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Taking everything into account; in total; as a noun, a protective garment.
+
+**Example:** Overall, the trip was a success; she wore overalls.
+
+**RRGM bridge:** Overall steps back to take the whole.
+
+**Invariant MI [INV]:** Considered as a whole, or a protective garment.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] An overall result can hide large differences between parts.
+
+**Count condition:** A whole view, or a work garment.
+
+**Specific transfer boundary:** An overall average can hide groups that went the other way.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-O-0008 | otherwise
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In other circumstances; if not; also differently.
+
+**Example:** Leave now, otherwise you'll miss the bus.
+
+**RRGM bridge:** Otherwise opens the alternative branch, what happens if not.
+
+**Invariant MI [INV]:** In the other case, or in a different way.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] The else-branch of a condition.
+
+**Count condition:** An alternative to a stated condition.
+
+**Specific transfer boundary:** "Otherwise" can present one alternative as the only one; there may be others.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

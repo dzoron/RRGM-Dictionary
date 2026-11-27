@@ -353,3 +353,60 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-F-0013 | fish
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A cold-blooded animal that lives in water, breathes with gills and has fins; as a verb, to try to catch fish, or to search.
+
+**Example:** We caught three fish; she fished in her bag for keys.
+
+**RRGM bridge:** A fish is life shaped for water.
+
+**Invariant MI [INV]:** An aquatic vertebrate with gills and fins, or to try to catch one.
+
+**Active domains:** [BIO], [ECO]
+
+**Domain entries:**
+
+- [BIO] Vast diversity; not a single evolutionary group.
+- [ECO] Fisheries and overfishing.
+
+**Count condition:** An aquatic gilled vertebrate, or the act of catching or searching.
+
+**Specific transfer boundary:** "Fishing for compliments" means trying to get praise indirectly.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0014 | fully
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Completely; entirely.
+
+**Example:** The room is fully booked.
+
+**RRGM bridge:** Fully fills a measure to its limit.
+
+**Invariant MI [INV]:** To the full extent.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Degree adverb.
+
+**Count condition:** A state complete in extent.
+
+**Specific transfer boundary:** Claims of "fully" checked or "fully" safe should be shown, not just stated.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

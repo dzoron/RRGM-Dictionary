@@ -962,3 +962,317 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-C-0032 | cancer
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A disease in which abnormal cells grow out of control and can spread to other parts of the body; also something harmful that spreads.
+
+**Example:** She was treated for skin cancer.
+
+**RRGM bridge:** Cancer is the body's own cells breaking the rules that keep growth in check.
+
+**Invariant MI [INV]:** A disease of uncontrolled cell growth and spread.
+
+**Active domains:** [BIO], [MYT]
+
+**Domain entries:**
+
+- [BIO] Mutations disable growth controls; tumours can invade tissue and spread (metastasis). There are many kinds with very different outlooks.
+- [MYT] Cancer, the crab, is also a zodiac sign and constellation. Astrological claims are held in their own domain.
+
+**Count condition:** A malignant growth of cells, or something likened to one.
+
+**Specific transfer boundary:** "Cancer" names many different diseases; outcomes vary greatly by type and stage. Using it as a metaphor for people or groups dehumanises them.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0033 | cash
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Money in coins or notes; also money available to spend.
+
+**Example:** Do you have cash or will you pay by card?
+
+**RRGM bridge:** Cash is money in hand, value you can pass on without a record.
+
+**Invariant MI [INV]:** Physical money, or immediately available funds.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Cash flow, cash reserves; cash is declining as digital payment grows.
+
+**Count condition:** Coins and notes, or liquid funds.
+
+**Specific transfer boundary:** Cash is untraceable for privacy and for crime alike; the same feature cuts both ways.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0034 | clearly
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In a way that is easy to see, hear or understand; also obviously.
+
+**Example:** Speak clearly; clearly, something went wrong.
+
+**RRGM bridge:** Clearly marks a thing as easy to see, or claims it is.
+
+**Invariant MI [INV]:** In a clear manner, or evidently.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Can mean "audibly" or be used to assert obviousness.
+
+**Count condition:** A clear manner, or a claim presented as obvious.
+
+**Specific transfer boundary:** "Clearly" asserts obviousness; it can be used to skip an argument that still needs making.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0035 | commercial
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to buying and selling; made for profit; as a noun, a television or radio advertisement.
+
+**Example:** A commercial airline; the commercial break.
+
+**RRGM bridge:** Commercial marks what is shaped by the aim of selling.
+
+**Invariant MI [INV]:** Concerned with trade or profit, or an advertisement.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Commerce and profit-making.
+
+**Count condition:** An activity aimed at profit, or a broadcast advertisement.
+
+**Specific transfer boundary:** Commercial success is not artistic or social worth.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0036 | commission
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An official group appointed to look into something; also a fee paid for selling; also an instruction to produce a work; also the act of committing a crime.
+
+**Example:** The commission published its findings; she earns commission on sales.
+
+**RRGM bridge:** A commission hands a task to someone, and the payment or authority that comes with it.
+
+**Invariant MI [INV]:** A delegated task or body, or payment for it.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Commissions of inquiry investigate on behalf of governments.
+- [ECO] Sales commissions reward selling.
+
+**Count condition:** A delegated body or task, or a fee.
+
+**Specific transfer boundary:** Pay by commission rewards closing sales, which can pull against the buyer's interest.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0037 | competition
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The activity of trying to win or be more successful than others; also an organised contest.
+
+**Example:** The competition for jobs is fierce.
+
+**RRGM bridge:** Competition sets parties against each other for a limited prize.
+
+**Invariant MI [INV]:** Rivalry for something not all can have, or a contest.
+
+**Active domains:** [ECO], [BIO]
+
+**Domain entries:**
+
+- [ECO] Market competition lowers prices when it works.
+- [BIO] Competition for resources shapes evolution, alongside cooperation.
+
+**Count condition:** Parties striving for a limited outcome.
+
+**Specific transfer boundary:** Competition is one force among others; cooperation is just as common in nature and markets.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0038 | congress
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A formal meeting of delegates; also the national legislature of the United States and some other countries.
+
+**Example:** Congress passed the bill; a medical congress.
+
+**RRGM bridge:** A congress is a coming-together of representatives to decide or discuss.
+
+**Invariant MI [INV]:** An assembly of delegates or a national legislature.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Legislatures represent and decide for a population.
+
+**Count condition:** An assembly of representatives.
+
+**Specific transfer boundary:** A legislature represents voters imperfectly; its votes are its members', not the public's directly.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0039 | captain
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The person in command of a ship or aircraft; also the leader of a team; also a military rank.
+
+**Example:** The captain announced our descent.
+
+**RRGM bridge:** A captain holds final responsibility on board.
+
+**Invariant MI [INV]:** The commander of a vessel, team or unit.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Command with responsibility; the captain answers for the crew's safety.
+
+**Count condition:** A person commanding a vessel, team or unit.
+
+**Specific transfer boundary:** The captain's authority comes with the duty to answer for what happens on board.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0040 | crime
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An action that is against the law and can be punished; also something wrong or shameful.
+
+**Example:** Crime fell in the city last year.
+
+**RRGM bridge:** A crime is an act a law has marked as punishable.
+
+**Invariant MI [INV]:** An act forbidden by law and liable to punishment.
+
+**Active domains:** [REL], [FOR]
+
+**Domain entries:**
+
+- [REL] What counts as crime differs across places and times; laws change.
+- [FOR] Guilt is established through legal procedure and evidence.
+
+**Count condition:** An act prohibited by law, or one judged deeply wrong.
+
+**Specific transfer boundary:** Illegal is not always wrong, and legal is not always right. Crime figures measure reported crime, not all crime.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0041 | camera
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A device for taking photographs or recording video.
+
+**Example:** The camera captured the moment.
+
+**RRGM bridge:** A camera records light from one point of view.
+
+**Invariant MI [INV]:** A device that records images.
+
+**Active domains:** [PHY], [DIG]
+
+**Domain entries:**
+
+- [PHY] Lens and sensor or film capture light.
+- [DIG] Cameras are now in phones and everywhere, raising questions of surveillance.
+
+**Count condition:** A device recording still or moving images.
+
+**Specific transfer boundary:** A camera sees from one angle; what it shows is a selection.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0042 | coast
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The land next to the sea; as a verb, to move without power, or to make progress without effort.
+
+**Example:** We drove along the coast; the bike coasted downhill.
+
+**RRGM bridge:** The coast is the meeting line of land and sea.
+
+**Invariant MI [INV]:** The shoreline region, or to move without effort.
+
+**Active domains:** [PHY], [ECO]
+
+**Domain entries:**
+
+- [PHY] Coasting is motion by momentum after power stops.
+- [ECO] Coastal economies depend on fishing, trade and tourism.
+
+**Count condition:** A seashore region, or effortless motion.
+
+**Specific transfer boundary:** Coasting along keeps moving only until friction takes the momentum.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

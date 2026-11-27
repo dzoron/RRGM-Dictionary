@@ -238,3 +238,60 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-A-0009 | awesome
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Informal: extremely good; formerly and still, inspiring awe.
+
+**Example:** The concert was awesome; the awesome power of the storm.
+
+**RRGM bridge:** Awesome began as the weight of awe and became everyday praise.
+
+**Invariant MI [INV]:** Inspiring awe, or (informally) excellent.
+
+**Active domains:** [AFF], [LIN]
+
+**Domain entries:**
+
+- [AFF] Awe: wonder mixed with a sense of vastness. Provisional domain.
+- [LIN] Its informal use has largely replaced the older sense in casual speech.
+
+**Count condition:** Something praised highly, or something that inspires awe.
+
+**Specific transfer boundary:** Informal "awesome" says little about what was good.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-A-0010 | anyway
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Used to change the subject or return to an earlier one; also regardless; also in any case.
+
+**Example:** Anyway, as I was saying; it rained, but we went anyway.
+
+**RRGM bridge:** Anyway carries on past an obstacle or a digression.
+
+**Invariant MI [INV]:** Regardless of what was said, or in any case.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Discourse marker for topic shifts.
+
+**Count condition:** A continuation despite a condition, or a topic shift.
+
+**Specific transfer boundary:** "Anyway" can close a topic without resolving it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

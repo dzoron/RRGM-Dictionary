@@ -10,11 +10,12 @@
 2. A word counted as missing only if neither it nor its base form (for example "walk" for "walked") was already a headword.
 3. The run covers words with a Zipf frequency of 4 or above, about 2,460 words. Personal names, brand names and stray fragments were removed, leaving **2,396 words**.
 4. Words are written in order of frequency, most common first.
+5. Headwords use US spelling, the baseline's convention. UK spellings whose US form is already a headword or is queued (centre, colour, behaviour, programme and others) are skipped. The skipped ones are listed in `queue.json`.
 
 ## Progress
 
-- **Done:** 240 headwords (249 sense records) in 4 batches, most frequent first.
-- **Remaining:** 2139 words. The queue is in `queue.json`.
+- **Done:** 300 headwords (309 sense records) in 5 batches, most frequent first.
+- **Remaining:** 2079 words. The queue is in `queue.json`.
 
 ## Entry format
 
