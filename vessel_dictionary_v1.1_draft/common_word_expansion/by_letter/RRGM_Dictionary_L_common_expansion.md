@@ -64,3 +64,59 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-L-0003 | lady
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A polite word for a woman; also a woman of high social rank, or a title for her.
+
+**Example:** The lady at the desk helped us; Lady Macbeth.
+
+**RRGM bridge:** Lady is a courteous name for a woman, and also a title of rank.
+
+**Invariant MI [INV]:** A woman, politely named, or a titled noblewoman.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Politeness and rank; can sound old-fashioned or patronising depending on use.
+
+**Count condition:** A woman, referred to courteously, or a woman of rank.
+
+**Specific transfer boundary:** "Lady" can be respectful or condescending depending on tone and context.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-L-0004 | leader
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person who leads or commands a group, organisation or country; also one in front in a race.
+
+**Example:** The team leader assigned the tasks.
+
+**RRGM bridge:** A leader is the one others follow, by choice, by appointment or by force.
+
+**Invariant MI [INV]:** One who leads or is ahead.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Leadership can be granted, earned or seized; accountable leaders answer to those they lead.
+
+**Count condition:** A person directing a group or in the front position.
+
+**Specific transfer boundary:** Being the leader grants position, not correctness.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

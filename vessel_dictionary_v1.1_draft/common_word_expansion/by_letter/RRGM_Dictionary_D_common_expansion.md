@@ -211,3 +211,88 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-D-0008 | double
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Twice as much or as many; consisting of two parts; as a verb, to become twice as large; also a person who looks just like another.
+
+**Example:** A double room; prices doubled.
+
+**RRGM bridge:** Double copies a measure once over, or names a second that matches the first.
+
+**Invariant MI [INV]:** Twice the amount, or paired, or a lookalike.
+
+**Active domains:** [FOR], [REL]
+
+**Domain entries:**
+
+- [FOR] Multiplication by two; doubling time in growth.
+- [REL] A double life hides one set of relations from another.
+
+**Count condition:** Something twofold or twice as great.
+
+**Specific transfer boundary:** Repeated doubling grows faster than intuition expects.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-D-0009 | definitely
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Without doubt; certainly.
+
+**Example:** I'll definitely be there.
+
+**RRGM bridge:** Definitely closes off doubt in what it marks.
+
+**Invariant MI [INV]:** With certainty.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Emphatic adverb.
+
+**Count condition:** A claim stated as certain.
+
+**Specific transfer boundary:** Saying "definitely" expresses confidence, not proof.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-D-0010 | dad
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Informal: father.
+
+**Example:** My dad taught me to fish.
+
+**RRGM bridge:** Dad is the warm everyday name for a father.
+
+**Invariant MI [INV]:** An informal word for father.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] A family role; adoptive and step-fathers are dads by relation.
+
+**Count condition:** A person's father, informally named.
+
+**Specific transfer boundary:** Fatherhood is a relation as well as biology.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -6,6 +6,34 @@ New headwords added for very common English words the baseline missed. Unreviewe
 
 ---
 
+## C2-G-0002 | generally
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In most cases; usually; also widely, by most people; also without detail.
+
+**Example:** Generally, the trains run on time.
+
+**RRGM bridge:** Generally states a rule of thumb, which holds for most cases and not all.
+
+**Invariant MI [INV]:** In most cases, or broadly.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] A generalisation; one exception doesn't break it, but many will.
+
+**Count condition:** A pattern holding in most cases.
+
+**Specific transfer boundary:** A general rule says little about a particular case.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
 ## C2-G-0001 | guy
 
 Discovery route: frequency-gap (route only, not a tag)

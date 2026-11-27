@@ -122,3 +122,119 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-A-0005 | ass
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A donkey; also (vulgar) the buttocks; also (vulgar, insult) a foolish or unpleasant person.
+
+**Example:** The farmer led the ass to market; don't be an ass.
+
+**RRGM bridge:** Ass starts as the name of a working animal and is turned into both a body word and an insult.
+
+**Invariant MI [INV]:** A donkey, or a vulgar word for the buttocks or for a fool.
+
+**Active domains:** [BIO], [LIN], [PEJ]
+
+**Domain entries:**
+
+- [BIO] The donkey, Equus asinus, a domesticated working animal.
+- [LIN] Vulgar in the body sense; American "ass" and British "arse" overlap.
+- [PEJ] As an insult, calls a person stupid or obnoxious; the mechanism borrows the donkey's old reputation for stubborn stupidity.
+
+**Count condition:** A donkey, the buttocks, or a person being insulted.
+
+**Specific transfer boundary:** The animal sense is neutral; the other senses are vulgar or insulting and depend on register.
+
+**Epistemic status:** [DEF]; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-A-0006 | absolutely
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Completely; totally; also used as strong agreement.
+
+**Example:** I'm absolutely sure; "Absolutely!"
+
+**RRGM bridge:** Absolutely removes every qualification from what it modifies.
+
+**Invariant MI [INV]:** Without any limit, condition or exception.
+
+**Active domains:** [LIN], [FOR]
+
+**Domain entries:**
+
+- [LIN] Intensifier and emphatic yes.
+- [FOR] An absolute claim allows no exceptions, so one counter-case breaks it.
+
+**Count condition:** A statement marked as unqualified, or strong agreement.
+
+**Specific transfer boundary:** "Absolutely" as agreement is emphasis, not evidence. Absolute claims are the easiest to refute.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-A-0007 | agree
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To have the same opinion; to consent to something; to match or be consistent.
+
+**Example:** We agree on the plan; the figures don't agree.
+
+**RRGM bridge:** To agree is to arrive at the same position from two sides, whether in view, consent or fit.
+
+**Invariant MI [INV]:** To share a view, consent, or correspond.
+
+**Active domains:** [REL], [FOR]
+
+**Domain entries:**
+
+- [REL] Agreement can be genuine, or given under pressure; consent that cannot be refused is not free.
+- [FOR] Two results agree when they match within the expected error.
+
+**Count condition:** Two parties sharing a view or consent, or two things that match.
+
+**Specific transfer boundary:** Agreement under pressure tells you about the pressure. Agreeing to a plan is not agreeing with every part of it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-A-0008 | anymore
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Any longer; at present (in some dialects, in positive sentences too).
+
+**Example:** I don't live there anymore.
+
+**RRGM bridge:** Anymore marks a state that has ended, set against when it held.
+
+**Invariant MI [INV]:** No longer, or nowadays.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Mostly used with negatives; "positive anymore" ("anymore, we eat late") is regional.
+
+**Count condition:** A former state contrasted with now.
+
+**Specific transfer boundary:** Something not done anymore was once done; the word implies a past.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

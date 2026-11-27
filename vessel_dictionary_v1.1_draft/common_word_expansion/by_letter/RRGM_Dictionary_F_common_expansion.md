@@ -295,3 +295,61 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-F-0011 | foot
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The lower end of the leg, on which a person stands; also a unit of length (about 30 cm); also the bottom of something.
+
+**Example:** She hurt her foot; the tree is ten feet tall; at the foot of the hill.
+
+**RRGM bridge:** The foot is where a body meets the ground, and the base measure of length in older systems.
+
+**Invariant MI [INV]:** The terminal part of the leg, a unit of length, or the base of something.
+
+**Active domains:** [BIO], [FOR]
+
+**Domain entries:**
+
+- [BIO] Bones, joints and muscles bearing body weight.
+- [FOR] Imperial unit: 12 inches, 0.3048 m.
+
+**Count condition:** A body part, a length of twelve inches, or a base.
+
+**Specific transfer boundary:** Imperial and metric units are easy to mix up; conversions should be explicit.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0012 | favorite
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Preferred above all others; as a noun, a person or thing most liked, or the competitor expected to win.
+
+**Example:** Blue is my favorite colour; the favorite won the race.
+
+**RRGM bridge:** Favorite ranks one thing first among many by preference.
+
+**Invariant MI [INV]:** Most preferred, or most expected to win.
+
+**Active domains:** [REL], [LIN]
+
+**Domain entries:**
+
+- [REL] Favoritism: treating one person better than others without fair reason.
+- [LIN] UK spelling "favourite".
+
+**Count condition:** A thing or person ranked first in preference or expectation.
+
+**Specific transfer boundary:** The favorite to win is not certain to win.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

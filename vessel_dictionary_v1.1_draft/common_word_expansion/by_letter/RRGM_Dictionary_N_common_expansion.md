@@ -95,3 +95,60 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-N-0004 | nearly
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Almost; very close to.
+
+**Example:** It's nearly midnight.
+
+**RRGM bridge:** Nearly marks a gap that is small but not closed.
+
+**Invariant MI [INV]:** Close to, but not fully.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Degree adverb.
+
+**Count condition:** A quantity or state close to a mark without reaching it.
+
+**Specific transfer boundary:** Nearly is not quite: "nearly passed" means failed.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-N-0005 | nobody
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** No person; also a person of no importance.
+
+**Example:** Nobody answered the door.
+
+**RRGM bridge:** Nobody names an absence of anyone, or dismisses someone as unimportant.
+
+**Invariant MI [INV]:** No person, or one treated as insignificant.
+
+**Active domains:** [LIN], [PEJ]
+
+**Domain entries:**
+
+- [LIN] Negative pronoun.
+- [PEJ] Calling someone "a nobody" denies their standing; the mechanism is erasing a person's significance.
+
+**Count condition:** An absence of any person, or a person dismissed as unimportant.
+
+**Specific transfer boundary:** "Nobody saw it" is a claim about witnesses, not proof that nothing happened.
+
+**Epistemic status:** [DEF]; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

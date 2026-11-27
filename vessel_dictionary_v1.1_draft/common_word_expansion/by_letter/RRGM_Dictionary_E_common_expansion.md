@@ -122,3 +122,32 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-E-0005 | episode
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An event or period in a series; one part of a series on television or radio.
+
+**Example:** I watched the first episode; a brief episode of illness.
+
+**RRGM bridge:** An episode is one bounded part of a longer sequence.
+
+**Invariant MI [INV]:** A distinct part of a series or sequence.
+
+**Active domains:** [LIN], [BIO]
+
+**Domain entries:**
+
+- [LIN] Unit of a broadcast or podcast series.
+- [BIO] An episode of an illness is a bounded period of symptoms.
+
+**Count condition:** One part within a sequence of events or a series.
+
+**Specific transfer boundary:** One episode does not define the whole series, or the whole person.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

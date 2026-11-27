@@ -178,3 +178,60 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-W-0007 | western
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Situated in or relating to the west; also relating to Europe and North America; also a film genre about the American frontier.
+
+**Example:** Western Canada; a classic western.
+
+**RRGM bridge:** Western marks direction, a cultural grouping, and a genre of frontier stories.
+
+**Invariant MI [INV]:** Of the west, or of the cultural West.
+
+**Active domains:** [REL], [MYT]
+
+**Domain entries:**
+
+- [REL] "Western" as a cultural label lumps diverse places together.
+- [MYT] The western genre built a myth of the frontier.
+
+**Count condition:** A western location, the cultural West, or the film genre.
+
+**Specific transfer boundary:** Western films told frontier history from one side; they are free fiction, not record.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-W-0008 | wow
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An expression of surprise or admiration.
+
+**Example:** Wow, look at that view!
+
+**RRGM bridge:** Wow is surprise released as one syllable.
+
+**Invariant MI [INV]:** An exclamation of surprise or admiration.
+
+**Active domains:** [AFF]
+
+**Domain entries:**
+
+- [AFF] Surprise or amazement. Provisional domain.
+
+**Count condition:** A reaction of surprise or wonder.
+
+**Specific transfer boundary:** Wow can be sarcastic; tone decides.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

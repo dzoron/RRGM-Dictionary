@@ -1,0 +1,11 @@
+@ C2-E-0005 | episode
+cm: An event or period in a series; one part of a series on television or radio.
+ex: I watched the first episode; a brief episode of illness.
+br: An episode is one bounded part of a longer sequence.
+inv: A distinct part of a series or sequence.
+[LIN] Unit of a broadcast or podcast series.
+[BIO] An episode of an illness is a bounded period of symptoms.
+cc: One part within a sequence of events or a series.
+tb: One episode does not define the whole series, or the whole person.
+st: [DEF]
+k: discovery

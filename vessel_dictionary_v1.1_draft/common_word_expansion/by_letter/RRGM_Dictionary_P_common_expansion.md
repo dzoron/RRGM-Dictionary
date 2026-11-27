@@ -882,3 +882,146 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-P-0028 | population
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** All the people living in a place; also all the members of a species or group in an area.
+
+**Example:** The city's population is two million.
+
+**RRGM bridge:** A population is everyone a count includes, the whole a sample is drawn from.
+
+**Invariant MI [INV]:** The total number of individuals of a kind in an area.
+
+**Active domains:** [BIO], [FOR], [ECO]
+
+**Domain entries:**
+
+- [BIO] Populations grow, shrink and evolve; carrying capacity limits them.
+- [FOR] In statistics, the population is the whole group a sample represents.
+- [ECO] Population shapes labour, demand and services.
+
+**Count condition:** All members of a group within defined bounds.
+
+**Specific transfer boundary:** A sample tells you about its population only if it represents it fairly.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0029 | particular
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to one individual thing rather than others; also especially great; also fussy.
+
+**Example:** In this particular case; she's particular about tea.
+
+**RRGM bridge:** Particular picks out one from the many and holds attention on it.
+
+**Invariant MI [INV]:** Specific to an individual case, or exacting.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] The particular versus the general: one case versus the rule.
+
+**Count condition:** An individual case singled out, or a demanding manner.
+
+**Specific transfer boundary:** A particular case doesn't prove a general rule.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0030 | photo
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A photograph.
+
+**Example:** She took a photo of the sunset.
+
+**RRGM bridge:** A photo fixes a moment of light so it can be seen later.
+
+**Invariant MI [INV]:** An image recorded by a camera.
+
+**Active domains:** [DIG], [REL]
+
+**Domain entries:**
+
+- [DIG] Digital photos can be edited or generated; an image is not proof on its own.
+- [REL] Photos carry memory and are shared to mark events.
+
+**Count condition:** An image captured by camera.
+
+**Specific transfer boundary:** A photo shows one frame from one angle; what is outside the frame is missing.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0031 | particularly
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Especially; to a higher degree than usual; also specifically.
+
+**Example:** It was particularly cold this morning.
+
+**RRGM bridge:** Particularly raises one item above the rest for attention.
+
+**Invariant MI [INV]:** Especially, or specifically.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Focusing adverb.
+
+**Count condition:** An item emphasised over others.
+
+**Specific transfer boundary:** Emphasis marks importance to the speaker, not necessarily in fact.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0032 | plus
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** With the addition of; also an advantage; also above zero.
+
+**Example:** Two plus two is four; the location is a plus.
+
+**RRGM bridge:** Plus adds: a number, an advantage, a little more.
+
+**Invariant MI [INV]:** With the addition of, or an advantage.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] The addition operator; a positive sign.
+
+**Count condition:** An addition, or a positive point.
+
+**Specific transfer boundary:** A list of pluses needs the minuses beside it to judge a choice.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

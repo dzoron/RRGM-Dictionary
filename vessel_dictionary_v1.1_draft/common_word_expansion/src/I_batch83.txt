@@ -1,0 +1,46 @@
+@ C2-I-0005 | island
+cm: A piece of land surrounded by water; also something isolated.
+ex: They sailed to a small island.
+br: An island is land bounded on every side by water, and by extension anything set apart.
+inv: Land surrounded by water, or an isolated area.
+[PHY] Land masses formed by volcanoes, coral or rising seas.
+[BIO] Island species evolve in isolation, often into unique forms.
+[REL] "No man is an island": no one is wholly separate.
+cc: Land fully surrounded by water, or something isolated.
+tb: Isolation breeds difference: island populations can diverge from mainland ones.
+st: [DEF]
+k: discovery
+
+@ C2-I-0006 | immediately
+cm: At once; without delay; also directly, with nothing between.
+ex: Call me immediately; the house immediately next door.
+br: Immediately removes the gap between now and the act, or between two things.
+inv: Without delay or intervening element.
+[LIN] Time and position adverb.
+cc: An act done at once, or a thing directly adjacent.
+tb: Urgency signalled by "immediately" can be pressure as well as need.
+st: [DEF]
+k: discovery
+
+@ C2-I-0007 | income
+cm: Money received, especially regularly, from work, business or investments.
+ex: Her income rose after the promotion.
+br: Income is what flows in, the inflow side of what a household or firm lives on.
+inv: Money received over a period.
+[ECO] Wages, profits, interest and transfers; income tax; income inequality.
+cc: Money received over time.
+tb: Income is a flow, not wealth: a high income can coexist with debt, and wealth with low income.
+st: [DEF]
+k: discovery
+
+@ C2-I-0008 | insurance
+cm: An arrangement where a company pays for loss or damage in return for regular payments.
+ex: The insurance covered the flood damage.
+br: Insurance pools risk, so many small payments cover a few large losses.
+inv: A contract transferring risk of loss to an insurer for a premium.
+[ECO] Premiums, claims and risk pools.
+[FOR] Based on probability over many cases.
+cc: A contract covering specified losses in exchange for payment.
+tb: Being insured is not being covered for everything; exclusions matter.
+st: [DEF]
+k: discovery

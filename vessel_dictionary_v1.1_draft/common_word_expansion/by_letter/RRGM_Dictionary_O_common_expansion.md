@@ -122,3 +122,32 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-O-0005 | opportunity
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A time or situation that makes it possible to do something.
+
+**Example:** The job is a great opportunity.
+
+**RRGM bridge:** An opportunity is an opening: a situation where a path becomes available.
+
+**Invariant MI [INV]:** A favourable circumstance for action.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Opportunity cost: the value of what is given up by choosing one option.
+- [REL] Equal opportunity concerns who gets access to openings.
+
+**Count condition:** A circumstance that makes an action possible.
+
+**Specific transfer boundary:** Equal opportunity on paper can be unequal in practice.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

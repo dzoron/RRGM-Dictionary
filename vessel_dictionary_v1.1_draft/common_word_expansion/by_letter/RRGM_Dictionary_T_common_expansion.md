@@ -352,3 +352,88 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-T-0013 | travel
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To go from one place to another, especially over a long distance; also the activity of doing so.
+
+**Example:** They travel to Japan every year.
+
+**RRGM bridge:** Travel moves a person through places, and changes what they have seen.
+
+**Invariant MI [INV]:** Movement between places.
+
+**Active domains:** [PHY], [ECO]
+
+**Domain entries:**
+
+- [PHY] Motion through space.
+- [ECO] Tourism and transport industries.
+
+**Count condition:** A journey between places.
+
+**Specific transfer boundary:** Seeing a place briefly is not knowing it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0014 | throughout
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In every part of; during the whole of.
+
+**Example:** It rained throughout the day.
+
+**RRGM bridge:** Throughout spreads a state over the whole of a span.
+
+**Invariant MI [INV]:** In every part, or for the whole duration.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Preposition and adverb of extent.
+
+**Count condition:** A state covering a whole space or period.
+
+**Specific transfer boundary:** "Throughout" claims full coverage; one gap breaks it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0015 | tour
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A journey visiting several places; also a guided visit; also a series of performances in different places.
+
+**Example:** The band is on tour; a tour of the castle.
+
+**RRGM bridge:** A tour is a loop through several places that comes back where it started.
+
+**Invariant MI [INV]:** A journey through a series of places, or a guided visit.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Tourism and touring performances.
+
+**Count condition:** A circuit of visits or performances.
+
+**Specific transfer boundary:** A guided tour shows what the guide chooses to show.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

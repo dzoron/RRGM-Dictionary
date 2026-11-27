@@ -1138,3 +1138,290 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-S-0040 | station
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A place where trains or buses stop; also a building for a service such as police or fire; also a broadcasting channel; also a position.
+
+**Example:** Meet me at the station; a radio station.
+
+**RRGM bridge:** A station is a fixed point in a system where things stop, start or are sent from.
+
+**Invariant MI [INV]:** A fixed place serving as a stop, base or transmitter.
+
+**Active domains:** [DIG], [REL]
+
+**Domain entries:**
+
+- [DIG] A radio or TV station; a workstation.
+- [REL] "Station in life" names social position.
+
+**Count condition:** A place where a service is based or vehicles stop, or a broadcaster.
+
+**Specific transfer boundary:** A person's station in life is a position, not a measure of worth.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0041 | sort
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A kind or type; as a verb, to arrange in groups or order; also to fix (informally, "sort out").
+
+**Example:** What sort of music do you like? Sort the files by date.
+
+**RRGM bridge:** Sort names kinds, and the act of putting things into them.
+
+**Invariant MI [INV]:** A kind, or to arrange by kind or order.
+
+**Active domains:** [DIG], [COG]
+
+**Domain entries:**
+
+- [DIG] Sorting algorithms put data in order.
+- [COG] Categorising is how minds make sense of variety.
+
+**Count condition:** A category, or an act of arranging.
+
+**Specific transfer boundary:** Sorting people into kinds can harden into stereotypes.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0042 | sell
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To give something in exchange for money; also to persuade someone to accept an idea.
+
+**Example:** They sold the car last week; she sold them on the plan.
+
+**RRGM bridge:** To sell is to let something go in exchange, or to make someone want to accept it.
+
+**Invariant MI [INV]:** To transfer for payment, or to persuade.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Sales and revenue.
+- [REL] "Selling out" means abandoning principles for gain.
+
+**Count condition:** An exchange for payment, or persuasion.
+
+**Specific transfer boundary:** A good sell is not a good product; persuasion and quality are separate.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0043 | significant
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Important or large enough to be noticed; also having meaning; in statistics, unlikely to be due to chance alone.
+
+**Example:** A significant increase; a significant look.
+
+**RRGM bridge:** Significant marks what signifies: what matters, or what carries a message.
+
+**Invariant MI [INV]:** Large or important enough to matter, or meaningful.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] Statistical significance means a result is unlikely under the null hypothesis; it is not the same as practical importance.
+
+**Count condition:** Something important, meaningful or statistically distinguishable from chance.
+
+**Specific transfer boundary:** Statistically significant is not the same as large or important.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0044 | safety
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The condition of being protected from danger, risk or injury.
+
+**Example:** Safety is our first priority.
+
+**RRGM bridge:** Safety is harm kept away, by structure, care or distance.
+
+**Invariant MI [INV]:** Freedom from danger or harm.
+
+**Active domains:** [BIO], [REL]
+
+**Domain entries:**
+
+- [BIO] Physical safety from injury.
+- [REL] Feeling safe with someone; safety culture in workplaces.
+
+**Count condition:** A state of being protected from harm.
+
+**Specific transfer boundary:** Safety measures can serve the protector more than the protected; ask whose safety a limit serves.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0045 | statement
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Something said or written that expresses a fact, opinion or position; also a bank account summary.
+
+**Example:** The company issued a statement; my bank statement.
+
+**RRGM bridge:** A statement puts a position on record where it can be checked.
+
+**Invariant MI [INV]:** A definite expression in words, or a financial account summary.
+
+**Active domains:** [FOR], [ECO]
+
+**Domain entries:**
+
+- [FOR] A claim that can be true or false.
+- [ECO] Account statements.
+
+**Count condition:** A definite assertion, or a formal summary.
+
+**Specific transfer boundary:** A statement is a claim, not proof; an official statement is still one side's account.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0046 | sun
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The star at the centre of our solar system, giving light and heat to the Earth; also its light.
+
+**Example:** The sun rose over the hills.
+
+**RRGM bridge:** The sun is the star whose energy runs nearly all life on Earth.
+
+**Invariant MI [INV]:** The star around which the Earth orbits.
+
+**Active domains:** [PHY], [BIO], [MYT]
+
+**Domain entries:**
+
+- [PHY] A G-type main-sequence star, fusing hydrogen into helium.
+- [BIO] Sunlight powers photosynthesis.
+- [MYT] Sun gods and sun worship across many cultures.
+
+**Count condition:** The solar system's star, or its light.
+
+**Specific transfer boundary:** Sunlight that reaches us left the sun about eight minutes earlier.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0047 | secretary
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person who handles correspondence and records for a person or organisation; also the head of a government department in some countries.
+
+**Example:** The Secretary of State; the club secretary.
+
+**RRGM bridge:** A secretary keeps the record and the correspondence that hold an organisation together.
+
+**Invariant MI [INV]:** One who keeps records and correspondence, or a senior official.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Office roles; also the title of senior ministers.
+
+**Count condition:** A record-keeping role or a high government office.
+
+**Specific transfer boundary:** The same title can mean very different levels of power.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0048 | sister
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A female sibling; also a woman in a religious order; also a senior nurse.
+
+**Example:** My sister lives in Montreal.
+
+**RRGM bridge:** A sister is named by relation, sharing a parent or a bond.
+
+**Invariant MI [INV]:** A female sibling, or a woman in a religious community or nursing role.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Sibling relation; "sisterhood" names solidarity.
+
+**Count condition:** A female sibling, nun or nurse.
+
+**Specific transfer boundary:** Sibling bonds vary; the word names the relation, not its quality.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0049 | seriously
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In a serious way; to a great degree; also used to show disbelief.
+
+**Example:** Take it seriously; seriously injured; "Seriously?"
+
+**RRGM bridge:** Seriously asks for weight, or registers surprise that something is meant.
+
+**Invariant MI [INV]:** In earnest, or gravely, or as a question of disbelief.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Intensifier and expression of incredulity.
+
+**Count condition:** An earnest manner, a high degree, or a disbelieving reply.
+
+**Specific transfer boundary:** Taking something seriously is not the same as agreeing with it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

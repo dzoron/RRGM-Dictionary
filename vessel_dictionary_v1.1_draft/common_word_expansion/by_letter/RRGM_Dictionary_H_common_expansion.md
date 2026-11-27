@@ -269,3 +269,60 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-H-0010 | husband
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A married man in relation to his spouse; as a verb, to use resources carefully.
+
+**Example:** Her husband is a teacher; husband your strength.
+
+**RRGM bridge:** Husband names a role within a marriage, and older uses name careful management.
+
+**Invariant MI [INV]:** A man in relation to the person he is married to, or to conserve.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Marriage roles vary by culture and law.
+- [ECO] "Husbandry" means farming and careful management.
+
+**Count condition:** A married man, named in relation to his spouse.
+
+**Specific transfer boundary:** The role does not define the person.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-H-0011 | hotel
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A building where people pay to stay overnight and may get meals.
+
+**Example:** They booked a hotel near the station.
+
+**RRGM bridge:** A hotel offers temporary shelter in exchange for payment.
+
+**Invariant MI [INV]:** A commercial establishment providing lodging.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Part of the travel and hospitality industry.
+
+**Count condition:** An establishment providing paid lodging.
+
+**Specific transfer boundary:** Star ratings mean different things in different countries.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -500,3 +500,89 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-M-0016 | mile
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A unit of distance equal to 1,760 yards (about 1.6 km).
+
+**Example:** The beach is two miles away.
+
+**RRGM bridge:** The mile is an old measure of walking distance, from the Roman thousand paces.
+
+**Invariant MI [INV]:** A unit of length of 1.609 km.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] Imperial unit; a nautical mile is longer (1.852 km).
+
+**Count condition:** A distance of 1,760 yards.
+
+**Specific transfer boundary:** A nautical mile is not a land mile.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0017 | manager
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person responsible for running an organisation, department or team.
+
+**Example:** The manager approved the leave.
+
+**RRGM bridge:** A manager holds a part of a structure together, deciding how its people and resources are used.
+
+**Invariant MI [INV]:** One who directs and is accountable for part of an organisation.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Managers allocate resources and answer for results.
+- [REL] Manager–staff relations shape workplace trust.
+
+**Count condition:** A person with responsibility for running a unit.
+
+**Specific transfer boundary:** A manager directs work but does not do all of it; credit and blame should follow who did what.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0018 | majority
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The greater number or part; more than half; also the age at which one becomes a legal adult.
+
+**Example:** The majority voted yes.
+
+**RRGM bridge:** A majority is the larger share, which in voting decides what happens.
+
+**Invariant MI [INV]:** More than half, or the larger part.
+
+**Active domains:** [REL], [FOR]
+
+**Domain entries:**
+
+- [REL] Majority rule decides; minority rights limit what it may decide.
+- [FOR] Simple majority (more than half) versus plurality (the largest share).
+
+**Count condition:** The larger part of a group, or legal adulthood.
+
+**Specific transfer boundary:** The majority decides what happens, not what is true. A plurality is not a majority.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

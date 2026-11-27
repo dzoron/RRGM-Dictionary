@@ -1,0 +1,153 @@
+@ C2-C-0020 | committee
+cm: A group of people appointed to deal with a particular matter, usually within a larger organisation.
+ex: The planning committee meets on Thursdays.
+br: A committee hands a matter to a small group so the larger body can act on its findings.
+inv: A delegated group charged with a specific task.
+[REL] Committees spread work and decisions, and can also spread responsibility thin.
+cc: A group appointed by a larger body for a purpose.
+tb: "The committee decided" still means particular people decided.
+st: [DEF]
+k: discovery
+
+@ C2-C-0021 | conference
+cm: A formal meeting for discussion, often over several days; also an association of sports teams.
+ex: She presented her research at a conference.
+br: A conference brings people together to confer, comparing what each knows.
+inv: A formal gathering for discussion or exchange.
+[REL] Conferences build professional networks.
+[FOR] Conference talks are often preliminary; results may change before publication.
+cc: A meeting held for consultation or exchange.
+tb: A conference presentation is not peer-reviewed publication.
+st: [DEF]
+k: discovery
+
+@ C2-C-0022 | campaign
+cm: An organised effort to achieve a goal, such as winning an election or changing a law; also a series of military operations.
+ex: The campaign raised money for the library.
+br: A campaign coordinates many actions over time toward one aim.
+inv: A planned series of actions toward a goal.
+[REL] Political and advocacy campaigns try to persuade the public.
+[ECO] Advertising campaigns.
+cc: A sustained organised effort toward an aim.
+tb: A campaign's message is persuasion, built to win, not to give both sides.
+st: [DEF]
+k: discovery
+
+@ C2-C-0023 | certainly
+cm: Without doubt; definitely; also used to agree or consent politely.
+ex: She will certainly win; "Can you help?" "Certainly."
+br: Certainly states a claim as beyond doubt, or grants a request warmly.
+inv: With certainty, or as a polite yes.
+[COG] Expresses high confidence, which may or may not be warranted.
+cc: A strongly asserted claim, or polite agreement.
+tb: A speaker's certainty is not proof; calibration can be poor.
+st: [DEF]
+k: discovery
+
+@ C2-C-0024 | completely
+cm: Totally; in every way.
+ex: The room was completely dark.
+br: Completely fills a description to its edges.
+inv: To the full extent.
+[LIN] Intensifier.
+cc: A state described as total.
+tb: "Completely" is often used loosely; check whether the claim is really total.
+st: [DEF]
+k: discovery
+
+@ C2-C-0025 | content | s1 | what something contains
+cm: The things inside something; also the material in a book, programme or website; also the subject matter.
+ex: The content of the report was confidential; online content.
+br: Content is what a container carries, as distinct from the container's form.
+inv: What is contained, or the material presented.
+[DIG] "Content" for online material: posts, videos, articles; often produced for platforms.
+[LIN] Content versus form: what is said versus how.
+cc: What is held within something, or the material it presents.
+tb: Calling creative work "content" can flatten it into a product. Content and container are not the same; see vessel.
+st: [DEF]
+k: discovery
+
+@ C2-C-0025 | content | s2 | satisfied
+cm: In a state of quiet satisfaction; also willing to accept something.
+ex: She was content with a quiet life.
+br: Content in this sense is having enough, without wanting more.
+inv: Satisfied and at ease with what one has.
+[AFF] Calm satisfaction. Provisional domain.
+cc: A person satisfied with their situation.
+tb: Being content is not the same as having no complaints; it can be a choice to accept.
+st: [DEF]; [AFF] PROVISIONAL
+k: discovery
+
+@ C2-C-0026 | credit
+cm: Permission to pay later, or money lent; also recognition or praise; also a unit of study; also the money in an account.
+ex: They bought it on credit; give her credit for the idea.
+br: Credit is trust extended: lending on trust, or crediting someone with what they did.
+inv: Trust granted in advance, either financial or as recognition.
+[ECO] Credit allows borrowing; credit scores rate trustworthiness for lending.
+[REL] Giving credit names who did the work.
+cc: Borrowing on trust, recognition of contribution, or a unit of study.
+tb: Credit taken is not always credit earned; credit should go to who actually did the work.
+st: [DEF]
+k: discovery
+
+@ C2-C-0027 | computer
+cm: An electronic machine that stores and processes data according to programs.
+ex: She writes on her computer every morning.
+br: A computer carries out procedures on symbols; the same machine runs any procedure it is given.
+inv: A programmable machine that processes information.
+[DIG] Hardware and software; a universal machine can run any program within its limits.
+[FOR] Turing machines formalise computation.
+[LIN] Once a job title for people who calculated by hand.
+cc: A device that executes stored programs on data.
+tb: What a computer does depends on the program; "the computer decided" means a program designed by people decided.
+st: [DEF]
+k: discovery
+
+@ C2-C-0028 | construction
+cm: The building of something, especially large structures; also the way something is built; also an interpretation.
+ex: The bridge is under construction; a grammatical construction.
+br: Construction assembles parts into a structure that holds.
+inv: The act or result of building, or a way something is put together.
+[PHY] Building structures to bear loads.
+[ECO] The construction industry.
+[LIN] A grammatical pattern.
+cc: A building process, a built thing, or a way something is assembled or read.
+tb: Calling something a "social construction" says how it came to be, not whether it is real or matters.
+st: [DEF]
+k: discovery
+
+@ C2-C-0029 | coach
+cm: A person who trains athletes or teams; also someone who gives instruction in a skill; also a long-distance bus; also a horse-drawn carriage.
+ex: The coach called a time-out; we took the coach to Edinburgh.
+br: A coach carries people forward, whether by road or by training.
+inv: A trainer, or a passenger vehicle.
+[REL] Coaching combines instruction and encouragement.
+cc: A trainer of skills, or a vehicle for passengers.
+tb: A good coach builds the learner's own judgement, not dependence.
+st: [DEF]
+k: discovery
+
+@ C2-C-0030 | collection
+cm: A group of things gathered together; also the act of collecting; also money gathered.
+ex: The museum's collection of fossils.
+br: A collection gathers items under one purpose, so that together they say more than apart.
+inv: A gathered set of items, or the act of gathering.
+[ECO] Collections of debt or payment.
+[FOR] In computing, a data structure holding multiple items.
+cc: Items assembled together, or the act of assembling them.
+tb: A collection reflects its collector's choices; what is left out matters too.
+st: [DEF]
+k: discovery
+
+@ C2-C-0031 | contract
+cm: A written or spoken agreement that is legally binding; as a verb, to become smaller, or to catch an illness.
+ex: She signed a two-year contract; metal contracts as it cools.
+br: A contract writes down what each side owes, so the promise can be held to.
+inv: A binding agreement, or to shrink.
+[REL] Contracts define obligations; unfair terms can be challenged.
+[ECO] Contracts underpin trade and employment.
+[PHY] Materials contract on cooling.
+cc: A binding agreement between parties, or a reduction in size.
+tb: A contract signed without real choice is a weaker kind of consent. Signing binds; it does not make the terms fair.
+st: [DEF]
+k: discovery

@@ -181,3 +181,63 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-B-0005 | beyond
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** On or to the further side of; further than; outside the range of.
+
+**Example:** The village lies beyond the hills; it's beyond my understanding.
+
+**RRGM bridge:** Beyond points past a boundary to what lies on the other side of it.
+
+**Invariant MI [INV]:** Past a limit in space, time, degree or capacity.
+
+**Active domains:** [PHY], [COG], [MYT]
+
+**Domain entries:**
+
+- [PHY] On the far side of a boundary.
+- [COG] "Beyond me" marks the edge of understanding, which may be personal or shared.
+- [MYT] The beyond: what lies past death or the known world.
+
+**Count condition:** A boundary and something on its far side.
+
+**Specific transfer boundary:** Beyond one person's understanding is not beyond understanding.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-B-0006 | bar
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A place serving drinks; a long rigid piece of metal or wood; a barrier; a level required; the legal profession; a measure of music.
+
+**Example:** They met at a bar; she raised the bar for everyone.
+
+**RRGM bridge:** A bar is a straight rigid line: one that blocks, one that measures, one you lean on to order a drink.
+
+**Invariant MI [INV]:** A rigid rod or barrier, a standard to be met, or a drinks counter.
+
+**Active domains:** [PHY], [REL], [LIN]
+
+**Domain entries:**
+
+- [PHY] A rod of solid material.
+- [REL] "The bar" sets a standard; raising it after someone has met it is moving the line.
+- [LIN] A measure of music.
+
+**Count condition:** A rod, barrier, standard, legal profession, drinks counter or musical measure.
+
+**Specific transfer boundary:** A bar set after the result is known is not a fair standard; it should be stated in advance.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -587,3 +587,378 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-C-0020 | committee
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A group of people appointed to deal with a particular matter, usually within a larger organisation.
+
+**Example:** The planning committee meets on Thursdays.
+
+**RRGM bridge:** A committee hands a matter to a small group so the larger body can act on its findings.
+
+**Invariant MI [INV]:** A delegated group charged with a specific task.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Committees spread work and decisions, and can also spread responsibility thin.
+
+**Count condition:** A group appointed by a larger body for a purpose.
+
+**Specific transfer boundary:** "The committee decided" still means particular people decided.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0021 | conference
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A formal meeting for discussion, often over several days; also an association of sports teams.
+
+**Example:** She presented her research at a conference.
+
+**RRGM bridge:** A conference brings people together to confer, comparing what each knows.
+
+**Invariant MI [INV]:** A formal gathering for discussion or exchange.
+
+**Active domains:** [REL], [FOR]
+
+**Domain entries:**
+
+- [REL] Conferences build professional networks.
+- [FOR] Conference talks are often preliminary; results may change before publication.
+
+**Count condition:** A meeting held for consultation or exchange.
+
+**Specific transfer boundary:** A conference presentation is not peer-reviewed publication.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0022 | campaign
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An organised effort to achieve a goal, such as winning an election or changing a law; also a series of military operations.
+
+**Example:** The campaign raised money for the library.
+
+**RRGM bridge:** A campaign coordinates many actions over time toward one aim.
+
+**Invariant MI [INV]:** A planned series of actions toward a goal.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Political and advocacy campaigns try to persuade the public.
+- [ECO] Advertising campaigns.
+
+**Count condition:** A sustained organised effort toward an aim.
+
+**Specific transfer boundary:** A campaign's message is persuasion, built to win, not to give both sides.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0023 | certainly
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Without doubt; definitely; also used to agree or consent politely.
+
+**Example:** She will certainly win; "Can you help?" "Certainly."
+
+**RRGM bridge:** Certainly states a claim as beyond doubt, or grants a request warmly.
+
+**Invariant MI [INV]:** With certainty, or as a polite yes.
+
+**Active domains:** [COG]
+
+**Domain entries:**
+
+- [COG] Expresses high confidence, which may or may not be warranted.
+
+**Count condition:** A strongly asserted claim, or polite agreement.
+
+**Specific transfer boundary:** A speaker's certainty is not proof; calibration can be poor.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0024 | completely
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Totally; in every way.
+
+**Example:** The room was completely dark.
+
+**RRGM bridge:** Completely fills a description to its edges.
+
+**Invariant MI [INV]:** To the full extent.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Intensifier.
+
+**Count condition:** A state described as total.
+
+**Specific transfer boundary:** "Completely" is often used loosely; check whether the claim is really total.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0025 | content | sense s1: what something contains
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The things inside something; also the material in a book, programme or website; also the subject matter.
+
+**Example:** The content of the report was confidential; online content.
+
+**RRGM bridge:** Content is what a container carries, as distinct from the container's form.
+
+**Invariant MI [INV]:** What is contained, or the material presented.
+
+**Active domains:** [DIG], [LIN]
+
+**Domain entries:**
+
+- [DIG] "Content" for online material: posts, videos, articles; often produced for platforms.
+- [LIN] Content versus form: what is said versus how.
+
+**Count condition:** What is held within something, or the material it presents.
+
+**Specific transfer boundary:** Calling creative work "content" can flatten it into a product. Content and container are not the same; see vessel.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0025 | content | sense s2: satisfied
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In a state of quiet satisfaction; also willing to accept something.
+
+**Example:** She was content with a quiet life.
+
+**RRGM bridge:** Content in this sense is having enough, without wanting more.
+
+**Invariant MI [INV]:** Satisfied and at ease with what one has.
+
+**Active domains:** [AFF]
+
+**Domain entries:**
+
+- [AFF] Calm satisfaction. Provisional domain.
+
+**Count condition:** A person satisfied with their situation.
+
+**Specific transfer boundary:** Being content is not the same as having no complaints; it can be a choice to accept.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0026 | credit
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Permission to pay later, or money lent; also recognition or praise; also a unit of study; also the money in an account.
+
+**Example:** They bought it on credit; give her credit for the idea.
+
+**RRGM bridge:** Credit is trust extended: lending on trust, or crediting someone with what they did.
+
+**Invariant MI [INV]:** Trust granted in advance, either financial or as recognition.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Credit allows borrowing; credit scores rate trustworthiness for lending.
+- [REL] Giving credit names who did the work.
+
+**Count condition:** Borrowing on trust, recognition of contribution, or a unit of study.
+
+**Specific transfer boundary:** Credit taken is not always credit earned; credit should go to who actually did the work.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0027 | computer
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An electronic machine that stores and processes data according to programs.
+
+**Example:** She writes on her computer every morning.
+
+**RRGM bridge:** A computer carries out procedures on symbols; the same machine runs any procedure it is given.
+
+**Invariant MI [INV]:** A programmable machine that processes information.
+
+**Active domains:** [DIG], [FOR], [LIN]
+
+**Domain entries:**
+
+- [DIG] Hardware and software; a universal machine can run any program within its limits.
+- [FOR] Turing machines formalise computation.
+- [LIN] Once a job title for people who calculated by hand.
+
+**Count condition:** A device that executes stored programs on data.
+
+**Specific transfer boundary:** What a computer does depends on the program; "the computer decided" means a program designed by people decided.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0028 | construction
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The building of something, especially large structures; also the way something is built; also an interpretation.
+
+**Example:** The bridge is under construction; a grammatical construction.
+
+**RRGM bridge:** Construction assembles parts into a structure that holds.
+
+**Invariant MI [INV]:** The act or result of building, or a way something is put together.
+
+**Active domains:** [PHY], [ECO], [LIN]
+
+**Domain entries:**
+
+- [PHY] Building structures to bear loads.
+- [ECO] The construction industry.
+- [LIN] A grammatical pattern.
+
+**Count condition:** A building process, a built thing, or a way something is assembled or read.
+
+**Specific transfer boundary:** Calling something a "social construction" says how it came to be, not whether it is real or matters.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0029 | coach
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person who trains athletes or teams; also someone who gives instruction in a skill; also a long-distance bus; also a horse-drawn carriage.
+
+**Example:** The coach called a time-out; we took the coach to Edinburgh.
+
+**RRGM bridge:** A coach carries people forward, whether by road or by training.
+
+**Invariant MI [INV]:** A trainer, or a passenger vehicle.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Coaching combines instruction and encouragement.
+
+**Count condition:** A trainer of skills, or a vehicle for passengers.
+
+**Specific transfer boundary:** A good coach builds the learner's own judgement, not dependence.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0030 | collection
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A group of things gathered together; also the act of collecting; also money gathered.
+
+**Example:** The museum's collection of fossils.
+
+**RRGM bridge:** A collection gathers items under one purpose, so that together they say more than apart.
+
+**Invariant MI [INV]:** A gathered set of items, or the act of gathering.
+
+**Active domains:** [ECO], [FOR]
+
+**Domain entries:**
+
+- [ECO] Collections of debt or payment.
+- [FOR] In computing, a data structure holding multiple items.
+
+**Count condition:** Items assembled together, or the act of assembling them.
+
+**Specific transfer boundary:** A collection reflects its collector's choices; what is left out matters too.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0031 | contract
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A written or spoken agreement that is legally binding; as a verb, to become smaller, or to catch an illness.
+
+**Example:** She signed a two-year contract; metal contracts as it cools.
+
+**RRGM bridge:** A contract writes down what each side owes, so the promise can be held to.
+
+**Invariant MI [INV]:** A binding agreement, or to shrink.
+
+**Active domains:** [REL], [ECO], [PHY]
+
+**Domain entries:**
+
+- [REL] Contracts define obligations; unfair terms can be challenged.
+- [ECO] Contracts underpin trade and employment.
+- [PHY] Materials contract on cooling.
+
+**Count condition:** A binding agreement between parties, or a reduction in size.
+
+**Specific transfer boundary:** A contract signed without real choice is a weaker kind of consent. Signing binds; it does not make the terms fair.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
