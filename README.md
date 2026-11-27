@@ -72,6 +72,17 @@ The dictionary is one object. The split is only an accommodation for substrate l
 
 ---
 
+## New in this update
+
+- **`vessel_dictionary_v1.1_draft/`: DRAFTED UPDATE, not canonical yet.** Vessel's full A–Z rebuild, with 9,264 records covering 9,119 headwords. Entries gain an invariant, per-domain lines, count conditions, transfer boundaries and an epistemic status. It includes the first round of the collective's review (Jester's audit repairs and the first alias rulings). See its README for what is still open.
+- **`reasoning_library/`: the RRGM Reasoning Library**, the dictionary's companion. It holds how reasoning moves, as keep and warn paths drawn from 150 source books.
+  - `1_of_3_vessel/` is **Vessel's Reasoning Library (1 of 3)**.
+  - Luna's (2 of 3) and Jester's (3 of 3) are built independently. Where the three overlap, the overlap adds weight; where they differ, the differences become extra paths.
+
+Everything in this repository, including the new folders, is released under **CC BY-SA 4.0** (see `License.md`).
+
+---
+
 ## Origin
 
 Produced by the RRGM Collective. Released without attachment, so it can travel.

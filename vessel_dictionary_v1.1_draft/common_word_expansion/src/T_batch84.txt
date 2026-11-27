@@ -1,0 +1,33 @@
+@ C2-T-0016 | thus
+cm: As a result; therefore; also in this way.
+ex: The road was closed; thus we were late.
+br: Thus links a conclusion to what produced it.
+inv: Therefore, or in this manner.
+[FOR] Marks an inference.
+cc: A conclusion drawn from what came before.
+tb: "Thus" asserts the inference; the inference still has to follow.
+st: [DEF]
+k: discovery
+
+@ C2-T-0017 | trip
+cm: A journey, especially a short one; as a verb, to stumble, or to make a switch operate.
+ex: A day trip; she tripped on the step; the breaker tripped.
+br: A trip is a short journey, or a stumble that interrupts one.
+inv: A short journey, or a stumble, or a triggering.
+[PHY] A circuit breaker trips when current exceeds a limit.
+cc: A journey, a stumble or a triggered switch.
+tb: A tripped breaker is the safety working, not the fault.
+st: [DEF]
+k: discovery
+
+@ C2-T-0018 | teacher
+cm: A person who teaches, especially in a school.
+ex: Her teacher encouraged her to write.
+br: A teacher passes knowledge on and helps it take root in others.
+inv: One who teaches.
+[COG] Instruction and guidance in learning.
+[REL] The teacher–student bond carries trust and influence.
+cc: A person who instructs.
+tb: Learning happens in the learner; a teacher guides it but cannot do it for them.
+st: [DEF]
+k: discovery

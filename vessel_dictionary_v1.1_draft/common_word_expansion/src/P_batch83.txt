@@ -1,0 +1,57 @@
+@ C2-P-0028 | population
+cm: All the people living in a place; also all the members of a species or group in an area.
+ex: The city's population is two million.
+br: A population is everyone a count includes, the whole a sample is drawn from.
+inv: The total number of individuals of a kind in an area.
+[BIO] Populations grow, shrink and evolve; carrying capacity limits them.
+[FOR] In statistics, the population is the whole group a sample represents.
+[ECO] Population shapes labour, demand and services.
+cc: All members of a group within defined bounds.
+tb: A sample tells you about its population only if it represents it fairly.
+st: [DEF]
+k: discovery
+
+@ C2-P-0029 | particular
+cm: Relating to one individual thing rather than others; also especially great; also fussy.
+ex: In this particular case; she's particular about tea.
+br: Particular picks out one from the many and holds attention on it.
+inv: Specific to an individual case, or exacting.
+[FOR] The particular versus the general: one case versus the rule.
+cc: An individual case singled out, or a demanding manner.
+tb: A particular case doesn't prove a general rule.
+st: [DEF]
+k: discovery
+
+@ C2-P-0030 | photo
+cm: A photograph.
+ex: She took a photo of the sunset.
+br: A photo fixes a moment of light so it can be seen later.
+inv: An image recorded by a camera.
+[DIG] Digital photos can be edited or generated; an image is not proof on its own.
+[REL] Photos carry memory and are shared to mark events.
+cc: An image captured by camera.
+tb: A photo shows one frame from one angle; what is outside the frame is missing.
+st: [DEF]
+k: discovery
+
+@ C2-P-0031 | particularly
+cm: Especially; to a higher degree than usual; also specifically.
+ex: It was particularly cold this morning.
+br: Particularly raises one item above the rest for attention.
+inv: Especially, or specifically.
+[LIN] Focusing adverb.
+cc: An item emphasised over others.
+tb: Emphasis marks importance to the speaker, not necessarily in fact.
+st: [DEF]
+k: discovery
+
+@ C2-P-0032 | plus
+cm: With the addition of; also an advantage; also above zero.
+ex: Two plus two is four; the location is a plus.
+br: Plus adds: a number, an advantage, a little more.
+inv: With the addition of, or an advantage.
+[FOR] The addition operator; a positive sign.
+cc: An addition, or a positive point.
+tb: A list of pluses needs the minuses beside it to judge a choice.
+st: [DEF]
+k: discovery

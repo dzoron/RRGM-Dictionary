@@ -1,0 +1,95 @@
+@ C2-C-0004 | club
+cm: An association of people who meet for a shared interest; also a heavy stick, a nightclub, or one of the four suits of playing cards.
+ex: She joined the hiking club; they went to a club after dinner.
+br: A club gathers people around a shared interest and draws a line around membership.
+inv: An organised association of members, or a heavy stick for striking.
+[REL] Clubs build belonging; membership rules include some and exclude others.
+[ECO] Clubs run on dues and volunteer effort.
+cc: A group with members organised around an interest, or a heavy striking stick.
+tb: A club's exclusivity can be a feature for members and a barrier for others.
+st: [DEF]
+k: discovery
+
+@ C2-C-0005 | couple
+cm: Two people in a romantic relationship; also two of something, or a small number.
+ex: The couple next door just married; I'll be a couple of minutes.
+br: A couple is two held together as one unit, a pair with a shared name.
+inv: A pair, especially two people in a relationship; or a few.
+[REL] A couple is a relationship unit, recognised socially or legally.
+[PHY] To couple is to connect two systems so that one affects the other.
+cc: Two people in a relationship, two items, or a small indefinite number.
+tb: "A couple of" can mean exactly two or loosely a few. A couple is two people, not one identity; each keeps their own.
+st: [DEF]
+k: discovery
+
+@ C2-C-0006 | church
+cm: A building for Christian worship; also a Christian community or denomination, and its institutions.
+ex: The village church dates from the twelfth century.
+br: A church is both a building and a gathered people; the community can exist without the walls.
+inv: A Christian place of worship, or a body of Christian believers.
+[REL] A community with shared practice, governance and care; churches also hold social and political influence.
+[MYT] Sacred space and ritual within Christian tradition. Faith claims are held in their own domain.
+cc: A Christian building, congregation or institution.
+tb: "The church" can mean a building, a congregation or a whole institution; which one matters to any claim about it. Faith claims are held in their own domain.
+st: [DEF]
+k: discovery
+
+@ C2-C-0007 | cool
+cm: Fairly cold; also calm and unexcited; also (informally) fashionable or good; also unfriendly.
+ex: A cool breeze came in; stay cool under pressure; that's a cool idea.
+br: Cool spans temperature, temper and taste: a lower heat, a steadier state, an approved style.
+inv: Moderately low in temperature, or calm, or approved.
+[PHY] Lower temperature; cooling is loss of heat.
+[AFF] Calm and composed under pressure; or emotionally distant. Provisional domain.
+[LIN] Informal approval or agreement ("cool, see you then").
+cc: Something moderately cold, a calm manner, or a thing approved of.
+tb: "Cool" as approval says nothing about substance. A cool reception means an unfriendly one.
+st: [DEF]; [AFF] PROVISIONAL
+k: discovery
+
+@ C2-C-0008 | cup
+cm: A small open container for drinking from, usually with a handle; also a trophy, or a competition.
+ex: Would you like a cup of tea? They won the cup final.
+br: A cup holds a measure of liquid for one person; as a trophy, it holds the standing of a win.
+inv: A small drinking vessel, or a trophy shaped like one.
+[PHY] A container shaped to hold liquid.
+[REL] Sharing a cup is a gesture of hospitality; cup competitions are knockout tournaments.
+cc: A drinking vessel, a cupful as a measure, or a competition with a trophy.
+tb: A cup as a cooking measure is a fixed volume, which differs between countries.
+st: [DEF]
+k: discovery
+
+@ C2-C-0009 | central
+cm: At or near the centre; also most important; also controlled from one place.
+ex: They live in central London; trust is central to the deal.
+br: Central marks the point others are arranged around or depend on.
+inv: Located at, or functioning as, the centre.
+[ECO] Central banks and central government coordinate a whole system.
+[DIG] Centralised systems depend on one point of control; decentralised ones spread it.
+cc: A location at the centre, or a role on which others depend.
+tb: Central control can coordinate well and fail badly: a central point is also a single point of failure.
+st: [DEF]
+k: discovery
+
+@ C2-C-0010 | chief
+cm: A leader or head of a group or organisation; as an adjective, most important.
+ex: The chief of the fire service spoke first; my chief concern is safety.
+br: Chief names the head of a structure, or the main item among several.
+inv: The highest in rank or importance.
+[REL] Leadership of a group; in many Indigenous nations, a chief holds a role defined by that nation's own governance.
+cc: A person heading a group, or the main one among several.
+tb: The meaning and authority of a chief differ widely between institutions and peoples; the title alone does not say what powers come with it.
+st: [DEF]
+k: discovery
+
+@ C2-C-0011 | china
+cm: Fine porcelain, or dishes and ornaments made from it.
+ex: They only use the good china at holidays.
+br: China takes its name from the country where porcelain was first made.
+inv: Porcelain or porcelain tableware.
+[PHY] Vitrified ceramic, hard and translucent when thin.
+[LIN] Named after the country China (a proper noun), the origin of porcelain.
+cc: Porcelain, or tableware made of it.
+tb: The material is not the country; context separates them.
+st: [DEF]
+k: discovery

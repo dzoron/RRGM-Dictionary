@@ -1,0 +1,37 @@
+@ C2-N-0001 | national
+cm: Relating to a nation as a whole, or belonging to a particular country; also a citizen of a country.
+ex: The national election is in the spring; she is a French national.
+br: National sets the scale at the whole nation, above local or regional and below international.
+inv: Of or belonging to a nation as a whole.
+[REL] National identity binds people through shared history, language or citizenship, and can include or exclude.
+[ECO] National economies, budgets and statistics are measured at the country level.
+cc: Something that concerns, belongs to or is organised at the level of a nation.
+tb: National does not mean uniform: a national policy can land very differently in different regions. "National" in a name ("National Bank") may be branding rather than state ownership.
+st: [DEF]
+k: discovery
+
+@ C2-N-0002 | news
+cm: Newly received information about recent events, especially as reported by newspapers, broadcasters or websites.
+ex: Have you heard the news? The bridge reopens Monday.
+br: News is the report of a change in the world, carried to people who were not there.
+inv: A report of recent events, passed on to those who did not witness them.
+[REL] News shapes what a community knows and talks about; choices about what to report are choices about attention.
+[DIG] Online news spreads quickly and is filtered by feeds and algorithms, which can favour engagement over accuracy.
+[FOR] A news report is a claim with a source; its reliability depends on the source and on checking.
+cc: Recent information reported to people who did not observe it directly.
+tb: Being in the news does not make something important or true, and absence from the news does not mean it didn't happen. Report and event are separate: the report can be wrong.
+st: [DEF]
+k: discovery
+
+@ C2-N-0003 | nice
+cm: Pleasant, agreeable or kind; also (of a distinction) fine or subtle.
+ex: It was nice of you to wait; that's a nice point.
+br: Nice names mild positive value, an easy approval that asks little.
+inv: Pleasantly agreeable, or finely precise.
+[AFF] A mild positive response to something pleasant. Provisional domain.
+[REL] Being nice smooths interaction; it can differ from being kind, which may sometimes mean saying something unwelcome.
+[LIN] Its meaning has shifted greatly over centuries, from "foolish" to "precise" to "pleasant".
+cc: Something or someone judged pleasant, kind or finely drawn.
+tb: Nice is not the same as good or honest; politeness can hide disagreement. "A nice distinction" means a subtle one, not a pleasant one.
+st: [DEF]; [AFF] PROVISIONAL
+k: discovery

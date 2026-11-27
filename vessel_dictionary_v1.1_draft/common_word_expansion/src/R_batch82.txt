@@ -1,0 +1,33 @@
+@ C2-R-0003 | related
+cm: Connected in some way; also belonging to the same family.
+ex: The two problems are related; we're related through my mother.
+br: Related marks a link without saying what kind.
+inv: Connected by some relation, including kinship.
+[FOR] A relation can be causal, correlational, logical or by kind; "related" leaves it open.
+[REL] Kinship by blood, marriage or adoption.
+cc: Two things with a connection, or people with kinship.
+tb: Related is not caused: two trends can be related without one producing the other.
+st: [DEF]
+k: discovery
+
+@ C2-R-0004 | recent
+cm: Having happened or begun a short time ago.
+ex: In recent years the town has grown.
+br: Recent places something just behind the present, close enough still to count.
+inv: Of a short time before now.
+[LIN] Relative: recent geology and recent news use very different scales.
+cc: Something that happened not long before the present.
+tb: What counts as recent depends on the field; a recent study may be old news in a fast-moving one.
+st: [DEF]
+k: discovery
+
+@ C2-R-0005 | recently
+cm: Not long ago; lately.
+ex: I recently moved to a new flat.
+br: Recently stamps an event as close behind the present.
+inv: At a time not long before now.
+[LIN] Time adverb; meaning depends on when it was written.
+cc: An event in the near past.
+tb: In a written record, "recently" refers to the time of writing.
+st: [DEF]
+k: discovery

@@ -1,0 +1,23 @@
+@ C2-F-0011 | foot
+cm: The lower end of the leg, on which a person stands; also a unit of length (about 30 cm); also the bottom of something.
+ex: She hurt her foot; the tree is ten feet tall; at the foot of the hill.
+br: The foot is where a body meets the ground, and the base measure of length in older systems.
+inv: The terminal part of the leg, a unit of length, or the base of something.
+[BIO] Bones, joints and muscles bearing body weight.
+[FOR] Imperial unit: 12 inches, 0.3048 m.
+cc: A body part, a length of twelve inches, or a base.
+tb: Imperial and metric units are easy to mix up; conversions should be explicit.
+st: [DEF]
+k: discovery
+
+@ C2-F-0012 | favorite
+cm: Preferred above all others; as a noun, a person or thing most liked, or the competitor expected to win.
+ex: Blue is my favorite colour; the favorite won the race.
+br: Favorite ranks one thing first among many by preference.
+inv: Most preferred, or most expected to win.
+[REL] Favoritism: treating one person better than others without fair reason.
+[LIN] UK spelling "favourite".
+cc: A thing or person ranked first in preference or expectation.
+tb: The favorite to win is not certain to win.
+st: [DEF]
+k: discovery

@@ -1,0 +1,23 @@
+@ C2-D-0003 | department
+cm: A division of a large organisation, such as a government, university, shop or company, dealing with a particular area.
+ex: She works in the sales department.
+br: A department is a section of a larger structure, given its own remit so the whole can divide its work.
+inv: A specialised division of an organisation.
+[ECO] Departments split budgets, staff and responsibility within an organisation.
+[REL] Department boundaries shape who talks to whom, and can become barriers.
+cc: A named division with its own area of responsibility within an organisation.
+tb: A matter falling between departments can end up owned by none; "not our department" is a common way responsibility goes missing.
+st: [DEF]
+k: discovery
+
+@ C2-D-0004 | director
+cm: A person who manages an organisation or department; also a member of a company's board; also the person who directs a film or play.
+ex: The film's director cast unknown actors.
+br: A director shapes where a group's effort goes, holding the overall view the parts work toward.
+inv: A person responsible for directing an organisation, activity or production.
+[REL] Directors hold authority and accountability, to boards, shareholders or the public.
+[ECO] Company directors have legal duties to the company.
+cc: A person holding a directing role over an organisation, department or production.
+tb: A film's director shapes the film but does not make it alone; credit is shared across many roles.
+st: [DEF]
+k: discovery

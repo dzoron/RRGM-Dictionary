@@ -1,0 +1,175 @@
+@ C2-S-0050 | sports
+cm: Activities involving physical effort and skill, done competitively or for fun; also relating to them.
+ex: She loves sports; the sports section.
+br: Sports are play given rules, so effort and skill can be compared.
+inv: Physical competitive games collectively.
+[BIO] Exercise and athletic performance.
+[REL] Team loyalty and shared identity.
+cc: Rule-bound physical activities, or matters relating to them.
+tb: Winning at sport measures skill on the day, not worth as a person.
+st: [DEF]
+k: discovery
+
+@ C2-S-0051 | stupid
+cm: Lacking intelligence or good sense; also annoying or pointless.
+ex: It was a stupid mistake.
+br: Stupid judges an act or idea as lacking sense.
+inv: Showing a lack of good sense or intelligence.
+[LIN] Common in casual speech, often for frustration.
+[PEJ] Calling a person stupid dismisses their judgement as a whole; the mechanism moves from one error to the whole person.
+cc: An act or idea judged foolish, or something annoying.
+tb: A stupid mistake does not make a stupid person; anyone errs.
+st: [DEF]; [PEJ] PROVISIONAL
+k: discovery
+
+@ C2-S-0052 | successful
+cm: Having achieved an aim; also having gained wealth, status or fame.
+ex: A successful launch; a successful writer.
+br: Successful marks an aim reached.
+inv: Achieving an intended outcome.
+[ECO] Commercial success is measured by revenue or growth.
+cc: An outcome meeting its aim.
+tb: Survivorship: the successful are seen; those who did the same and failed are not.
+st: [DEF]
+k: discovery
+
+@ C2-S-0053 | ship
+cm: A large boat that carries people or goods by sea; as a verb, to send goods.
+ex: The ship docked at dawn; we ship worldwide.
+br: A ship carries a crew and cargo across water as one bounded world.
+inv: A large seagoing vessel, or to send goods.
+[PHY] Buoyancy and displacement.
+[ECO] Shipping carries most world trade.
+[MYT] The ship of Theseus: is it the same ship when every plank is replaced?
+cc: A large seagoing vessel, or the act of sending.
+tb: Identity through replaced parts depends on which criterion of sameness is used.
+st: [DEF]
+k: discovery
+
+@ C2-S-0054 | stock
+cm: A supply of goods kept for sale or use; also shares in a company; also broth; also livestock; as an adjective, standard or typical.
+ex: The shop is out of stock; she bought stock in the firm; a stock phrase.
+br: Stock is what is held in store, and also the standard pattern things are cut from.
+inv: A stored supply, a share of ownership, or a standard type.
+[ECO] Stock markets, inventory.
+[FOR] In systems thinking, a stock changes only through its inflows and outflows.
+[LIN] Stock phrases repeat without thought.
+cc: A supply, shares, broth or a standard pattern.
+tb: Stock prices reflect expectations, not only present value.
+st: [DEF]
+k: discovery
+
+@ C2-S-0055 | secret
+cm: Something kept hidden from others; as an adjective, not known or seen by others.
+ex: She kept the secret for years.
+br: A secret is knowledge held behind a boundary, shared with few or none.
+inv: Information kept from others deliberately.
+[REL] Secrets bind those who share them; keeping or breaking them tests trust.
+[DIG] Secret keys and credentials protect systems.
+cc: Information deliberately withheld.
+tb: A secret kept to protect someone is different from one kept to harm them; the word covers both.
+st: [DEF]
+k: discovery
+
+@ C2-S-0056 | senior
+cm: Older, or higher in rank; also an elderly person; also a final-year student.
+ex: A senior manager; discounts for seniors.
+br: Senior marks rank or age above others.
+inv: Higher in age, rank or standing.
+[REL] Seniority can confer authority and protection.
+cc: A person older or higher in rank.
+tb: Seniority is not the same as being right.
+st: [DEF]
+k: discovery
+
+@ C2-S-0057 | spring
+cm: The season after winter; also a coil that returns to shape; also a source of water from the ground; as a verb, to jump.
+ex: Flowers bloom in spring; a spring in the mattress.
+br: Spring names release: of the year from winter, of a coil, of water from the ground.
+inv: The season of renewal, an elastic coil, or a natural water source.
+[PHY] Elastic potential energy; Hooke's law.
+[BIO] Growth season.
+cc: The season, a coil, a source, or a jump.
+tb: Seasons reverse between hemispheres.
+st: [DEF]
+k: discovery
+
+@ C2-S-0058 | skin
+cm: The outer covering of the body; also the outer layer of fruit or other things.
+ex: Sunscreen protects your skin.
+br: Skin is the boundary that holds the body in and keeps the world out.
+inv: The outer protective layer of an organism or object.
+[BIO] The body's largest organ: protects, senses, regulates temperature.
+[REL] Skin colour has been used to sort and rank people, a social practice with no basis in biology.
+cc: An outer covering of a body or object.
+tb: Skin colour reflects ancestry and sun exposure; it says nothing about a person's worth.
+st: [DEF]
+k: discovery
+
+@ C2-S-0059 | supposed
+cm: Generally believed or claimed to be, though not certain; "supposed to" means expected or required to.
+ex: You're supposed to wear a helmet; his supposed illness.
+br: Supposed marks a claim as believed rather than shown, or a duty as expected.
+inv: Assumed or claimed, or expected by rule.
+[FOR] An assumption held for argument.
+cc: A claimed state, or an expected duty.
+tb: "Supposed" signals doubt; the claim may be false.
+st: [DEF]
+k: discovery
+
+@ C2-S-0060 | sweet
+cm: Tasting of sugar; also pleasant or kind; as a noun (British), a sweet food or candy.
+ex: The cake is too sweet; how sweet of you.
+br: Sweet names the taste of sugar, and the pleasantness it is likened to.
+inv: Having the taste of sugar, or pleasing.
+[BIO] Sweet taste signals energy-rich food.
+[AFF] Pleasantness or kindness. Provisional domain.
+cc: A sugary taste, or pleasant manner.
+tb: Sweet words can mislead; pleasant is not honest.
+st: [DEF]; [AFF] PROVISIONAL
+k: discovery
+
+@ C2-S-0061 | sit
+cm: To rest with one's weight on the buttocks; also to be placed; also to take an exam; also (of a body) to be in session.
+ex: Sit down; the court sits on Mondays.
+br: To sit is to settle in place.
+inv: To be seated, placed, or in session.
+[BIO] A resting posture.
+cc: A seated position, a placement, or a session.
+tb: "Sitting on" a decision means delaying it.
+st: [DEF]
+k: discovery
+
+@ C2-S-0062 | spot
+cm: A small round mark; also a particular place; as a verb, to notice.
+ex: A spot on the shirt; a good spot for a picnic; I spotted her.
+br: A spot is a small point, on a surface or on a map, and noticing it.
+inv: A small mark, a place, or to notice.
+[COG] Spotting: noticing a detail or pattern.
+cc: A mark, a location, or an act of noticing.
+tb: Spotting a pattern is not proving it.
+st: [DEF]
+k: discovery
+
+@ C2-S-0063 | shop
+cm: A building or room where goods are sold; also a workshop; as a verb, to buy things.
+ex: The corner shop; let's go shopping.
+br: A shop is where goods meet buyers.
+inv: A place of sale or of work, or to buy.
+[ECO] Retail.
+cc: A place of retail or craft, or buying.
+tb: "Shopping around" compares options; the cheapest is not always the best.
+st: [DEF]
+k: discovery
+
+@ C2-S-0064 | sick
+cm: Ill; also feeling as if about to vomit; also (informally) fed up, or impressive.
+ex: She's sick with flu; I'm sick of waiting.
+br: Sick names the body out of order, and by extension being fed up.
+inv: Unwell, or nauseated, or weary of something.
+[BIO] Illness and nausea.
+[LIN] Slang "sick" can mean excellent.
+cc: An unwell state, nausea, or weariness.
+tb: Slang "sick" is praise; context decides.
+st: [DEF]
+k: discovery

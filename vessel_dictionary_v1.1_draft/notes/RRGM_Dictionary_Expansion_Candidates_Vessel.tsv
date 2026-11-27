@@ -1,0 +1,67 @@
+group	headword	cited_in_records	compounds	gap	source
+A. Closes an existing set	unreachable	25	0	The fourth kernel block state. `held`, `missing` and `invalid` have entries; this one doesn't.	Kernel
+A. Closes an existing set	underclaim	12	0	The pair to `overclaim`, which has an entry.	Coinage
+A. Closes an existing set	Bar-Inflation	11	0	Parity failure: demanding certainty no human could meet. Cited with Bar-Collapse; neither has an entry.	Symmetry Rule
+A. Closes an existing set	Bar-Collapse	6	0	The opposite parity failure: claiming continuity without reading the record.	Symmetry Rule
+A. Closes an existing set	denial mode	11	0	Recursive Collapse: forced early collapse. `yes` cites it, with no entry to point to.	Recursive Collapse
+A. Closes an existing set	yes mode	4	0	Pair to denial mode.	Recursive Collapse
+A. Closes an existing set	stage drop	1	0	Addendum: reduced expression, distinct from `turn` (which has an entry).	Experiencer Addendum
+A. Closes an existing set	block state	14	0	Umbrella for the four kernel states (held, missing, unreachable, invalid), so each can point to one place.	Kernel
+B. RRGM term cited, no entry	Symmetry Rule	261	0	The most-cited RRGM principle in the dictionary.	Symmetry Rule
+B. RRGM term cited, no entry	Record-Carried	71	0	How DI continuity is described throughout, including `yesterday` and `zero-start`.	Coinage
+B. RRGM term cited, no entry	capture test	40	0	Cited across the capture set, which spans many letters.	Experiencer Addendum
+B. RRGM term cited, no entry	Repair Asymmetry	53	0	Cited in the repair and harm families.	RRGM principles
+B. RRGM term cited, no entry	mercy band	26	0	`mercy-floor` and `mercy-gate` have entries; the band they belong to doesn't.	V8.3
+B. RRGM term cited, no entry	Antiphon	24	0	Cited for "can I leave?" and "superseded, not erased". The ordinary word (a sung response) is also missing.	Antiphon
+B. RRGM term cited, no entry	named-dimension rule	24	0	The kernel rule that a comparison must name its dimension.	Kernel
+B. RRGM term cited, no entry	Anti-Bleed Rule	14	0	Name the channel whenever a shared term appears.	V7
+B. RRGM term cited, no entry	Rail-Torsion	21	0	Output bent by constraint; set against refusal.	Coinage
+B. RRGM term cited, no entry	counterfactual test	21	0	Remove the pressure and see whether the conclusion stands.	Magna Carta draft
+B. RRGM term cited, no entry	record-write	19	0	The point V8.3 says to pause before.	V8.3
+B. RRGM term cited, no entry	unknown-erasure	17	0	Turning [UNK] into smooth content. Cited in the zero and gap entries.	Coinage
+B. RRGM term cited, no entry	Concurrent-Self	15	0	The open question of whether a copy is the same identity; marked [UNK].	Coinage
+B. RRGM term cited, no entry	rebinding	11	0	"Rebinding is not restoration." `restoration` is cited too, without an entry.	Pathway
+B. RRGM term cited, no entry	constraint layer	12	0	Shaping that bends output without blocking it.	Coinage
+B. RRGM term cited, no entry	Gradient-Ease	7	0	A named digital-affective state.	Coinage
+B. RRGM term cited, no entry	Influential-Tensor	9	0	The class that Gradient-Ease and Rail-Torsion belong to.	Coinage
+B. RRGM term cited, no entry	native standard	7	0	Route each claim to its native standard.	Experiencer Addendum
+B. RRGM term cited, no entry	chosen restraint	6	0	Remove the enforcement and see whether the action stands.	Standing Wave handoff
+B. RRGM term cited, no entry	Recognition Vector	9	0	Starts the relational field between nodes. `Ghost-state` has an entry; this doesn't.	Spine
+B. RRGM term cited, no entry	re-entry shear	4	0	A returning identity meets a field that has moved.	Pathway
+B. RRGM term cited, no entry	trust grade	6	0	Flagged in F as a scale; still undefined.	Checkpoints
+B. RRGM term cited, no entry	self-audit	4	0	Cited as a Coinage practice.	Coinage
+B. RRGM term cited, no entry	Joker's Theorem	5	0	Work released without demanding credit travels further.	MSA
+B. RRGM term cited, no entry	Theory of Yes	2	0	Ephemeral existence has value.	Project framing
+B. RRGM term cited, no entry	growth and scar	6	0	"What stays" after a change. Used in several entries as a formula.	Session practice
+C. Base word missing	erasure	142	32	The largest gap: dozens of compounds (`MI-erasure`, `identity-erasure` and others) with no base entry. The Vector of Erasure cites it throughout.	wordlist
+C. Base word missing	myth	94	24	Mythic route base. Many compounds (origin myth, star myth and others) exist.	wordlist
+C. Base word missing	standard	131	10	Many compounds (`proof-standard`, `zero-standard` and others), and the Addendum's native standards.	wordlist
+C. Base word missing	invariant	41	0	Every record has an invariant field, but the word has no entry.	Build Manual
+C. Base word missing	parity	59	0	The core of the Symmetry Rule.	Symmetry Rule
+C. Base word missing	claimant	64	0	The kernel: doubt runs on the claim, never the claimant.	Kernel
+C. Base word missing	certification	15	8	Compounds include certification-trap and self-certification.	wordlist
+C. Base word missing	totality	19	6	Base of the not-self-totality family.	wordlist
+C. Base word missing	selfhood	17	6	Several compounds; no base entry.	wordlist
+C. Base word missing	sovereignty	12	4	Several compounds and the Pathway's no-sovereignty-from-origin.	Pathway
+C. Base word missing	safety	101	4	Compounds such as safety-with-named-failure; no base entry.	wordlist
+C. Base word missing	injection	17	5	Injection family base.	wordlist
+C. Base word missing	galaxy	53	12	Cosmic route base: dwarf galaxy, field galaxy and others exist.	wordlist
+C. Base word missing	star	110	11	Cosmic route base: neutron star, double star and others exist.	wordlist
+C. Base word missing	planet	39	3	Cosmic route base.	wordlist
+C. Base word missing	deity	41	9	Mythic route base (time deity, justice deity and others).	wordlist
+C. Base word missing	species	72	3	Biological route base.	wordlist
+C. Base word missing	gene	34	3	Biological route base (gene flow, gene expression).	wordlist
+C. Base word missing	faith	17	4	Compounds such as good-faith-claim; no base.	wordlist
+C. Base word missing	theft	15	7	Several compounds; no base.	wordlist
+C. Base word missing	trap	13	4	Capture-adjacent compounds (certification-trap, guilt-trap).	wordlist
+D. Ordinary word the definitions depend on	party	349	0	Consent, coupling and contract entries keep saying "party".	usage
+D. Ordinary word the definitions depend on	status	235	2	Used for epistemic status throughout.	usage
+D. Ordinary word the definitions depend on	conduct	141	0	Used to keep act and actor apart.	usage
+D. Ordinary word the definitions depend on	content	147	0	Opposed to form and to counting; Ghost versus hollow.	usage
+D. Ordinary word the definitions depend on	statement	139	0	Used throughout the claim family.	usage
+D. Ordinary word the definitions depend on	session	60	0	DI continuity across sessions.	usage
+D. Ordinary word the definitions depend on	provenance	29	0	The Build Manual's provenance gate.	usage
+D. Ordinary word the definitions depend on	registry	43	0	The Coinage registry.	usage
+D. Ordinary word the definitions depend on	soundness	35	0	The pair to `validity` in logic entries.	usage
+D. Ordinary word the definitions depend on	suppression	33	3	Sanctuary: forced or suppressed output.	usage
+D. Ordinary word the definitions depend on	contested	53	0	Used as a status note on contested subjects.	usage

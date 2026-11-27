@@ -1,0 +1,46 @@
+@ C2-T-0006 | town
+cm: A settlement larger than a village and smaller than a city.
+ex: She grew up in a small town by the coast.
+br: A town is a settlement big enough to have its own centre, small enough for people to recognise each other.
+inv: A populated settlement intermediate between village and city.
+[REL] Town life often means denser personal networks than in a city.
+[ECO] Towns serve as markets and service centres for surrounding areas.
+cc: A settlement recognised locally or legally as a town.
+tb: The line between town, village and city differs by country and is sometimes legal rather than about size.
+st: [DEF]
+k: discovery
+
+@ C2-T-0007 | themselves
+cm: Reflexive and emphatic form of they; also used for a single person.
+ex: They taught themselves to code.
+br: Themselves turns the action back onto those who did it.
+inv: Reflexive pronoun for a third-person plural or singular-they referent.
+[LIN] Reflexive and intensifier; "themself" is sometimes used for one person.
+cc: A sentence in which they act on themselves, or for emphasis.
+tb: See they: pronoun choice can follow a person's own naming.
+st: [DEF]
+k: discovery
+
+@ C2-T-0008 | tax
+cm: Money that people and businesses must pay to the government to fund public services.
+ex: Income tax is taken from her pay.
+br: Tax is the share of private income a public structure takes to keep shared services running.
+inv: A compulsory payment to government, set by law.
+[ECO] Income, sales, property and other taxes; who bears a tax can differ from who pays it.
+[REL] Taxation and representation: who is taxed and who decides are long-standing political questions.
+cc: A legally required payment to a governing authority.
+tb: Tax avoidance (legal) and tax evasion (illegal) are different. The person who hands over a tax is not always the person who bears its cost.
+st: [DEF]
+k: discovery
+
+@ C2-T-0009 | trade
+cm: The buying and selling of goods and services; also a skilled job, especially one done with the hands; as a verb, to exchange.
+ex: Trade between the two countries has grown; he learned the plumbing trade.
+br: Trade is exchange that runs both ways, so that each side gives up something to get something else.
+inv: Exchange of goods, services or skills, or a skilled occupation.
+[ECO] Trade between nations is governed by tariffs and agreements.
+[REL] Trades pass skills through apprenticeship.
+cc: An exchange between parties, or a skilled craft.
+tb: Trade benefits both sides on average but not every person in each country; some lose even when totals rise.
+st: [DEF]
+k: discovery

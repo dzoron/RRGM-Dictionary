@@ -1,0 +1,548 @@
+{
+ "baseline": {
+  "batch_files": 169,
+  "letter_jsonls": 26,
+  "records": 9264
+ },
+ "repairs": {
+  "applied": [
+   {
+    "id": "B235",
+    "headword": "breakpoint",
+    "ruling": "M002",
+    "edits": 1
+   },
+   {
+    "id": "B332",
+    "headword": "break-point",
+    "ruling": "M002",
+    "edits": 2
+   },
+   {
+    "id": "L215",
+    "headword": "look-up",
+    "ruling": "M007",
+    "edits": 1
+   },
+   {
+    "id": "L216",
+    "headword": "lookup",
+    "ruling": "M007",
+    "edits": 1
+   },
+   {
+    "id": "P248",
+    "headword": "probability-weight",
+    "ruling": "M030",
+    "edits": 1
+   },
+   {
+    "id": "P417",
+    "headword": "probability-weighting",
+    "ruling": "M030",
+    "edits": 1
+   },
+   {
+    "id": "R150",
+    "headword": "relation-risk",
+    "ruling": "M038",
+    "edits": 1
+   },
+   {
+    "id": "R183",
+    "headword": "relational-risk",
+    "ruling": "M038",
+    "edits": 1
+   },
+   {
+    "id": "T159",
+    "headword": "truth-with-care",
+    "ruling": "M050",
+    "edits": 1
+   },
+   {
+    "id": "F188",
+    "headword": "fault-line",
+    "ruling": "M078",
+    "edits": 1
+   },
+   {
+    "id": "I391",
+    "headword": "invisible-boundary",
+    "ruling": "M132",
+    "edits": 1
+   },
+   {
+    "id": "M110",
+    "headword": "mark-boundary",
+    "ruling": "M132",
+    "edits": 1
+   },
+   {
+    "id": "NEW-P-0644",
+    "headword": "pulsar",
+    "ruling": "M157",
+    "edits": 2
+   },
+   {
+    "id": "S424",
+    "headword": "sex-characteristic",
+    "ruling": "M173",
+    "edits": 1
+   },
+   {
+    "id": "S425",
+    "headword": "sex-trait",
+    "ruling": "M173",
+    "edits": 2
+   },
+   {
+    "id": "U185",
+    "headword": "ungrounded-claim",
+    "ruling": "M192",
+    "edits": 1
+   },
+   {
+    "id": "W184",
+    "headword": "weak-proof",
+    "ruling": "M206",
+    "edits": 3
+   },
+   {
+    "id": "U168",
+    "headword": "unsupported-proof",
+    "ruling": "M206",
+    "edits": 4
+   },
+   {
+    "id": "X032",
+    "headword": "x-ray-check",
+    "ruling": "M219",
+    "edits": 2
+   },
+   {
+    "id": "X031",
+    "headword": "x-ray-scan",
+    "ruling": "M219",
+    "edits": 1
+   },
+   {
+    "id": "T409",
+    "headword": "tool-not-owner",
+    "ruling": "M238",
+    "edits": 2
+   },
+   {
+    "id": "M263",
+    "headword": "main-claim",
+    "ruling": "M266",
+    "edits": 2
+   },
+   {
+    "id": "NEW-R-0675",
+    "headword": "rebirth myth",
+    "ruling": "M274",
+    "edits": 4
+   },
+   {
+    "id": "NEW-R-0689",
+    "headword": "resurrection myth",
+    "ruling": "M274",
+    "edits": 2
+   },
+   {
+    "id": "X003",
+    "headword": "x-axis",
+    "ruling": "axis-orientation",
+    "edits": 1
+   },
+   {
+    "id": "Y014",
+    "headword": "y-axis",
+    "ruling": "axis-orientation",
+    "edits": 1
+   },
+   {
+    "id": "Z017",
+    "headword": "z-axis",
+    "ruling": "axis-orientation",
+    "edits": 2
+   },
+   {
+    "id": "Z018",
+    "headword": "z-coordinate",
+    "ruling": "axis-orientation",
+    "edits": 1
+   },
+   {
+    "id": "Z040",
+    "headword": "z-position",
+    "ruling": "axis-orientation",
+    "edits": 1
+   }
+  ],
+  "not_applied": [
+   {
+    "ruling": "M177",
+    "headwords": [
+     "sovereign-origin-error",
+     "origin-sovereignty-error"
+    ],
+    "why": "The ruling changes meaning rather than repairing it. The audit says S400's invariant must be repaired 'to match its common meaning: a creator claiming ownership'. But S400's common meaning, example ('only self-made minds count') and invariant all describe demanding self-origin, which is the same concept as O413. Applying the ruling means rewriting the whole entry into a new concept (creator ownership), which overlaps origin-not-owner and origin-capture. Decision needed: alias S400 to O413, or rewrite S400 as a new concept."
+   },
+   {
+    "ruling": "M136",
+    "headwords": [
+     "grief-support"
+    ],
+    "why": "The ruling strips [DIG] 'unless online infrastructure is part of the invariant'. Domain lines record where a word applies, not its invariant; online grief communities are a real application. Held for a decision rather than applied."
+   },
+   {
+    "ruling": "M121",
+    "headwords": [
+     "just-refusal",
+     "grounded-refusal",
+     "justified-refusal"
+    ],
+    "why": "The audit's repair names no-with-reason and refuse-with-reason, which are not this row. The real row's entries already state that Law I needs no reason. The 'transparent, not justified' point argues for keeping grounded-refusal distinct from justified-refusal; which pair to alias waits for Luna's machine-readable row."
+   },
+   {
+    "ruling": "M040-M044 and all ALIAS/CONSOLIDATE rows",
+    "headwords": [],
+    "why": "Alias metadata is applied from Luna's review JSONL with the audit's overrides (phase2/alias_overrides.json). It cannot be applied until that file is in the workbench."
+   }
+  ]
+ },
+ "expansion": {
+  "input_files": [],
+  "status": "skipped: no phase2/expansion/*.md supplied"
+ },
+ "aliases": {
+  "status": "Luna rows not supplied: only Jester override aliases applied",
+  "alias_links": 10,
+  "held": [
+   "origin-sovereignty-error",
+   "sovereign-origin-error"
+  ],
+  "unresolved_rows": [],
+  "dropped_unknown_headwords": []
+ },
+ "checks": {
+  "records_total": 9264,
+  "baseline_preserved": 9264,
+  "expansion_added": 0,
+  "baseline_records_changed": 29,
+  "changed": [
+   {
+    "id": "M263",
+    "sense": "s1",
+    "headword": "main-claim",
+    "fields": [
+     "invariant_mi",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "M110",
+    "sense": "s1",
+    "headword": "mark-boundary",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "F188",
+    "sense": "s1",
+    "headword": "fault-line",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "I391",
+    "sense": "s1",
+    "headword": "invisible-boundary",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "S424",
+    "sense": "s1",
+    "headword": "sex-characteristic",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "S425",
+    "sense": "s1",
+    "headword": "sex-trait",
+    "fields": [
+     "invariant_mi",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "P248",
+    "sense": "s1",
+    "headword": "probability-weight",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "P417",
+    "sense": "s1",
+    "headword": "probability-weighting",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "NEW-P-0644",
+    "sense": "s1",
+    "headword": "pulsar",
+    "fields": [
+     "invariant_mi",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "B332",
+    "sense": "s1",
+    "headword": "break-point",
+    "fields": [
+     "count_condition",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "B235",
+    "sense": "s1",
+    "headword": "breakpoint",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "NEW-R-0675",
+    "sense": "s1",
+    "headword": "rebirth myth",
+    "fields": [
+     "common_meaning",
+     "example",
+     "domain_entries",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "R150",
+    "sense": "s1",
+    "headword": "relation-risk",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "R183",
+    "sense": "s1",
+    "headword": "relational-risk",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "NEW-R-0689",
+    "sense": "s1",
+    "headword": "resurrection myth",
+    "fields": [
+     "example",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "X003",
+    "sense": "s1",
+    "headword": "x-axis",
+    "fields": [
+     "invariant_mi",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "X032",
+    "sense": "s1",
+    "headword": "x-ray-check",
+    "fields": [
+     "active_domains",
+     "domain_entries",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "X031",
+    "sense": "s1",
+    "headword": "x-ray-scan",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "Y014",
+    "sense": "s1",
+    "headword": "y-axis",
+    "fields": [
+     "invariant_mi",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "W184",
+    "sense": "s1",
+    "headword": "weak-proof",
+    "fields": [
+     "example",
+     "domain_entries",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "U185",
+    "sense": "s1",
+    "headword": "ungrounded-claim",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "U168",
+    "sense": "s1",
+    "headword": "unsupported-proof",
+    "fields": [
+     "common_meaning",
+     "example",
+     "invariant_mi",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "L215",
+    "sense": "s1",
+    "headword": "look-up",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "L216",
+    "sense": "s1",
+    "headword": "lookup",
+    "fields": [
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "T409",
+    "sense": "s1",
+    "headword": "tool-not-owner",
+    "fields": [
+     "common_meaning",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "T159",
+    "sense": "s1",
+    "headword": "truth-with-care",
+    "fields": [
+     "active_domains",
+     "domain_entries",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "Z017",
+    "sense": "s1",
+    "headword": "z-axis",
+    "fields": [
+     "invariant_mi",
+     "transfer_boundary",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "Z018",
+    "sense": "s1",
+    "headword": "z-coordinate",
+    "fields": [
+     "invariant_mi",
+     "record_version",
+     "amendment"
+    ]
+   },
+   {
+    "id": "Z040",
+    "sense": "s1",
+    "headword": "z-position",
+    "fields": [
+     "invariant_mi",
+     "record_version",
+     "amendment"
+    ]
+   }
+  ],
+  "repeated_field_texts": 0,
+  "repeats": []
+ }
+}

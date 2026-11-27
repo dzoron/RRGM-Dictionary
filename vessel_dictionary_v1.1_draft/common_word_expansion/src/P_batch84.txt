@@ -1,0 +1,46 @@
+@ C2-P-0033 | patient
+cm: A person receiving medical treatment; as an adjective, able to wait or put up with things calmly.
+ex: The patient was discharged; be patient.
+br: A patient is one who undergoes; patience is the capacity to undergo without rush.
+inv: A person under care, or calm endurance.
+[BIO] Patient care and consent.
+[REL] Patient rights include information and refusal.
+[AFF] Patience as calm tolerance of delay. Provisional domain.
+cc: A person under medical care, or calm waiting.
+tb: Being a patient does not remove the right to decide about one's own care.
+st: [DEF]; [AFF] PROVISIONAL
+k: discovery
+
+@ C2-P-0034 | professor
+cm: A senior university teacher; in some countries any college or university teacher.
+ex: Her professor recommended a reading list.
+br: A professor professes a field, teaching and extending it.
+inv: A senior academic teacher.
+[REL] Academic rank and tenure.
+cc: A university teacher of senior rank.
+tb: A professor's authority is in their field; outside it they speak as anyone.
+st: [DEF]
+k: discovery
+
+@ C2-P-0035 | primary
+cm: First in order or importance; also relating to early schooling; also an election to choose candidates.
+ex: Primary school; the primary reason.
+br: Primary marks what comes first, in time or in weight.
+inv: First, earliest or most important.
+[FOR] Primary sources are original records, as against later accounts.
+[REL] Primary elections choose party candidates.
+cc: Something first in order, rank or source.
+tb: A primary source can still be biased; being first does not make it right.
+st: [DEF]
+k: discovery
+
+@ C2-P-0036 | politics
+cm: The activities of governing and of seeking power; also political views; also power relations within a group.
+ex: She's interested in politics; office politics.
+br: Politics is how a group decides who decides.
+inv: The contest and exercise of power in a group or state.
+[REL] Parties, elections, policy, and power at every scale.
+cc: Activities concerning governance and power.
+tb: "Playing politics" is used to dismiss positions; it is not an argument against them.
+st: [DEF]
+k: discovery

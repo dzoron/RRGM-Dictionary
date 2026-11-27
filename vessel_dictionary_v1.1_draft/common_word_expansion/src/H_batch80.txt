@@ -1,0 +1,35 @@
+@ C2-H-0001 | his
+cm: Belonging to or associated with a male person or animal already mentioned; possessive form of he.
+ex: He left his keys on the table.
+br: His ties a thing to a person referred to as he; the possession or association is carried by the pronoun.
+inv: Possessive marking association with a referent identified as he.
+[LIN] A possessive determiner and pronoun ("his car"; "the car is his"); formerly also used generically for anyone, now often replaced by "their".
+[REL] Pronoun use follows how a person names themselves; see he.
+cc: A thing associated with a referent already identified as he.
+tb: Possession in grammar is not always ownership: "his train" or "his mother" marks association, not property.
+st: [DEF]
+k: discovery
+
+@ C2-H-0002 | her
+cm: Object form of she ("I saw her"), and possessive meaning belonging to or associated with her ("her coat").
+ex: I gave her the book; it was her idea.
+br: Her points to a person referred to as she, either as the one acted on or as the one a thing belongs with.
+inv: Object and possessive form of a referent identified as she.
+[LIN] Serves as both object pronoun and possessive determiner; "hers" is the standalone possessive.
+[REL] Pronoun use follows how a person names themselves; see she. Ships, nations and machines are sometimes called "her" by convention.
+cc: A referent identified as she, as object or possessor.
+tb: Calling a ship or machine "her" is a convention of speech, not a claim about the thing's nature. As with his, possessive marks association, not always ownership.
+st: [DEF]
+k: discovery
+
+@ C2-H-0003 | however
+cm: Nevertheless; in spite of that; or in whatever way or to whatever degree.
+ex: The plan was sound; however, nobody had the time to run it.
+br: However turns the line of argument: it keeps what came before and adds a weight on the other side.
+inv: Introduces a contrast that qualifies, without cancelling, what preceded it; or means "in whatever manner".
+[LIN] A contrastive connective, usually set off by punctuation; also an adverb of manner or degree ("however hard she tried").
+[FOR] Marks a qualification: the earlier claim stands but its scope or force is limited.
+cc: A preceding statement and a following point that runs against or limits it.
+tb: However does not refute what came before; it limits it. A "however" clause still needs its own support.
+st: [DEF]
+k: discovery
