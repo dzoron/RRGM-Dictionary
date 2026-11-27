@@ -65,3 +65,88 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-R-0003 | related
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Connected in some way; also belonging to the same family.
+
+**Example:** The two problems are related; we're related through my mother.
+
+**RRGM bridge:** Related marks a link without saying what kind.
+
+**Invariant MI [INV]:** Connected by some relation, including kinship.
+
+**Active domains:** [FOR], [REL]
+
+**Domain entries:**
+
+- [FOR] A relation can be causal, correlational, logical or by kind; "related" leaves it open.
+- [REL] Kinship by blood, marriage or adoption.
+
+**Count condition:** Two things with a connection, or people with kinship.
+
+**Specific transfer boundary:** Related is not caused: two trends can be related without one producing the other.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-R-0004 | recent
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Having happened or begun a short time ago.
+
+**Example:** In recent years the town has grown.
+
+**RRGM bridge:** Recent places something just behind the present, close enough still to count.
+
+**Invariant MI [INV]:** Of a short time before now.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Relative: recent geology and recent news use very different scales.
+
+**Count condition:** Something that happened not long before the present.
+
+**Specific transfer boundary:** What counts as recent depends on the field; a recent study may be old news in a fast-moving one.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-R-0005 | recently
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Not long ago; lately.
+
+**Example:** I recently moved to a new flat.
+
+**RRGM bridge:** Recently stamps an event as close behind the present.
+
+**Invariant MI [INV]:** At a time not long before now.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Time adverb; meaning depends on when it was written.
+
+**Count condition:** An event in the near past.
+
+**Specific transfer boundary:** In a written record, "recently" refers to the time of writing.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

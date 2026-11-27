@@ -793,3 +793,348 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-S-0028 | simply
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In a plain, easy way; also just, merely; also absolutely.
+
+**Example:** Explain it simply; it's simply not true.
+
+**RRGM bridge:** Simply strips away qualification, either to make something plain or to make it absolute.
+
+**Invariant MI [INV]:** In a plain manner, or merely, or without qualification.
+
+**Active domains:** [LIN], [PEJ]
+
+**Domain entries:**
+
+- [LIN] Can soften ("simply a question") or intensify ("simply wonderful").
+- [PEJ] "Simply a machine" or "simply following orders" uses the word to shrink something; the mechanism is reduction by adverb.
+
+**Count condition:** A plain manner, or a statement narrowed to one thing.
+
+**Specific transfer boundary:** Saying something is "simply" X does not show that it is nothing more than X.
+
+**Epistemic status:** [DEF]; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0029 | staff
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The people who work for an organisation; also a long stick; also the five lines music is written on.
+
+**Example:** The hospital staff worked through the night.
+
+**RRGM bridge:** Staff names the people a structure runs on, and also the stick one leans on.
+
+**Invariant MI [INV]:** The employees of an organisation, or a supporting rod.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Staffing levels and costs.
+- [REL] Staff relations with management.
+
+**Count condition:** The workers of an organisation, a stick, or a musical stave.
+
+**Specific transfer boundary:** "Staff shortages" describe a structure's choices as well as its circumstances.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0030 | super
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Informal: very good; also extremely; as a prefix, above or beyond.
+
+**Example:** That was super kind of you.
+
+**RRGM bridge:** Super is the prefix "above" turned into everyday praise.
+
+**Invariant MI [INV]:** Very good, or exceeding.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Prefix (supermarket, supernatural) and informal intensifier.
+
+**Count condition:** Informal praise or intensification, or a prefix meaning above.
+
+**Specific transfer boundary:** As praise, super says little about what was good.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0031 | sea
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The large body of salt water covering most of the Earth's surface; also a particular part of it, or a large quantity.
+
+**Example:** They swam in the sea; a sea of faces.
+
+**RRGM bridge:** The sea is the vast salt water that surrounds the land and gave rise to life.
+
+**Invariant MI [INV]:** The expanse of salt water of the Earth, or a large tract of it.
+
+**Active domains:** [PHY], [BIO], [MYT]
+
+**Domain entries:**
+
+- [PHY] Tides, currents and waves; the sea stores and moves heat.
+- [BIO] Life began in the sea; oceans hold most of Earth's biodiversity.
+- [MYT] The sea as chaos, origin and boundary in many myths.
+
+**Count condition:** A body of salt water, or a vast quantity.
+
+**Specific transfer boundary:** "Sea" and "ocean" overlap; the names follow convention more than measurement.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0032 | sir
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A polite way of addressing a man; also the title of a knight or baronet.
+
+**Example:** Excuse me, sir, you dropped your glove.
+
+**RRGM bridge:** Sir marks respect in address, a formality that sets a distance.
+
+**Invariant MI [INV]:** A respectful form of address for a man, or a knight's title.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Formal address signals politeness, rank or distance.
+
+**Count condition:** Addressing a man politely, or a knight by title.
+
+**Specific transfer boundary:** Respectful address does not require agreement; it can also be used coldly.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0033 | success
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The achieving of an aim or purpose; also fame, wealth or position.
+
+**Example:** The launch was a success.
+
+**RRGM bridge:** Success is an aim met, measured against the aim that was set.
+
+**Invariant MI [INV]:** The attainment of an intended result.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Business success is often measured by revenue or growth.
+- [REL] Social measures of success can differ from a person's own.
+
+**Count condition:** An aim and an outcome that meets it.
+
+**Specific transfer boundary:** Success by one measure can be failure by another. Survival and success are not proof of merit.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0034 | straight
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Not bent or curved; also direct; also honest; also (informally) heterosexual.
+
+**Example:** Draw a straight line; give me a straight answer.
+
+**RRGM bridge:** Straight names the shortest path, and by extension the direct and the honest.
+
+**Invariant MI [INV]:** Without bend, deviation or evasion.
+
+**Active domains:** [FOR], [REL]
+
+**Domain entries:**
+
+- [FOR] The shortest path between two points in flat space.
+- [REL] A straight answer is direct and honest.
+
+**Count condition:** A line, path or account without bend or evasion.
+
+**Specific transfer boundary:** A straight answer can still be wrong; directness is not accuracy.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0035 | shall
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Used to express the future, especially with I and we; also to make offers or suggestions; in rules, to state an obligation.
+
+**Example:** Shall we go?; the tenant shall pay rent monthly.
+
+**RRGM bridge:** Shall sets a course forward, as a plan, an offer or a binding rule.
+
+**Invariant MI [INV]:** A modal verb of future action, offer or obligation.
+
+**Active domains:** [LIN], [FOR]
+
+**Domain entries:**
+
+- [LIN] Now formal or legal in most uses; common in offers ("shall I").
+- [FOR] In legal drafting, "shall" marks a duty, though its precise force is disputed.
+
+**Count condition:** A future intention, an offer, or a rule of obligation.
+
+**Specific transfer boundary:** Legal drafters disagree about whether "shall" always means "must".
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0036 | standard
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A level of quality; also something used as a measure or model; as an adjective, normal or usual.
+
+**Example:** The work met the standard; standard procedure.
+
+**RRGM bridge:** A standard is a line fixed in advance, against which things are measured.
+
+**Invariant MI [INV]:** An agreed measure, model or level, or what is usual.
+
+**Active domains:** [FOR], [REL]
+
+**Domain entries:**
+
+- [FOR] Standards define units and specifications so that measurements can be compared.
+- [REL] Double standards apply different measures to different people.
+
+**Count condition:** A measure, model or level used for comparison, or what is usual.
+
+**Specific transfer boundary:** A standard should be stated before it is applied, and applied the same way to everyone it covers.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0037 | sale
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The exchange of something for money; also a period when goods are sold at lower prices.
+
+**Example:** The house is for sale; the shop has a sale on.
+
+**RRGM bridge:** A sale is the moment an exchange closes and ownership passes.
+
+**Invariant MI [INV]:** The transfer of goods or services for money.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Sales are revenue; discount sales move stock.
+
+**Count condition:** An exchange for money, or a period of reduced prices.
+
+**Specific transfer boundary:** A discount from an inflated price is not a real saving.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0038 | spend
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To pay out money; also to use time or energy.
+
+**Example:** She spent the afternoon reading.
+
+**RRGM bridge:** To spend is to use up something finite in exchange for something else.
+
+**Invariant MI [INV]:** To pay out or use up resources.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Spending moves money through an economy.
+
+**Count condition:** A resource used up or paid out.
+
+**Specific transfer boundary:** Time spent cannot be recovered; money spent sometimes can.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0039 | store
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A shop; also a supply kept for future use; as a verb, to keep something for later.
+
+**Example:** I'll get milk at the store; store the files safely.
+
+**RRGM bridge:** A store keeps things against later need, whether for sale or for safekeeping.
+
+**Invariant MI [INV]:** A place where goods are sold or kept, or to keep for later.
+
+**Active domains:** [DIG], [ECO]
+
+**Domain entries:**
+
+- [DIG] Data storage holds information for retrieval.
+- [ECO] Retail stores sell goods.
+
+**Count condition:** A shop, a reserve, or an act of keeping for later.
+
+**Specific transfer boundary:** Stored is not backed up; one copy can be lost.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -150,3 +150,31 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-W-0006 | whose
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Belonging to or associated with which person; also of whom or of which.
+
+**Example:** Whose coat is this? The man whose car was towed.
+
+**RRGM bridge:** Whose asks, or tells, who something belongs with.
+
+**Invariant MI [INV]:** Possessive form of who and which.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Interrogative and relative possessive.
+
+**Count condition:** A question or clause about possession or association.
+
+**Specific transfer boundary:** "Whose" is often confused with "who's" (who is).
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

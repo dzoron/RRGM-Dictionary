@@ -180,3 +180,118 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-F-0007 | financial
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to money, especially how it is managed.
+
+**Example:** She sought financial advice.
+
+**RRGM bridge:** Financial names the domain of money held, owed and moved.
+
+**Invariant MI [INV]:** Concerning money and its management.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Banking, investment, credit and markets.
+
+**Count condition:** A matter concerning money.
+
+**Specific transfer boundary:** Financial advice comes from someone with interests of their own; who pays the adviser matters.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0008 | foreign
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Belonging to or coming from another country; also strange, or not belonging.
+
+**Example:** She speaks two foreign languages; a foreign object in the eye.
+
+**RRGM bridge:** Foreign marks something as from outside the speaker's own boundary.
+
+**Invariant MI [INV]:** Of another country, or not belonging to the place where it is.
+
+**Active domains:** [REL], [BIO]
+
+**Domain entries:**
+
+- [REL] Foreign is relative: everyone is foreign somewhere.
+- [BIO] A foreign body is one the organism did not produce, which the immune system may attack.
+
+**Count condition:** Something from outside a country or system.
+
+**Specific transfer boundary:** Foreign is a position, not a property; it depends on where the speaker stands.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0009 | fan
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An enthusiastic supporter of a sport, team, person or activity; also a device that moves air.
+
+**Example:** She's a big fan of jazz; turn on the fan.
+
+**RRGM bridge:** A fan moves air; a fan keeps a following going.
+
+**Invariant MI [INV]:** A devoted supporter, or a device that creates airflow.
+
+**Active domains:** [REL], [PHY]
+
+**Domain entries:**
+
+- [REL] Fan communities share identity and enthusiasm; "fan" comes from "fanatic".
+- [PHY] Rotating blades move air and cool by convection and evaporation.
+
+**Count condition:** A supporter of something, or an air-moving device.
+
+**Specific transfer boundary:** Being a fan of something does not make one a fair judge of it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0010 | funny
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Causing laughter; also strange or odd.
+
+**Example:** The film was really funny; there's a funny smell.
+
+**RRGM bridge:** Funny marks a surprise that lands well, or one that unsettles.
+
+**Invariant MI [INV]:** Amusing, or unexpectedly odd.
+
+**Active domains:** [AFF], [COG]
+
+**Domain entries:**
+
+- [AFF] Amusement at incongruity. Provisional domain.
+- [COG] Humour often turns on a sudden shift in expectation.
+
+**Count condition:** Something amusing or strange.
+
+**Specific transfer boundary:** Funny to the teller is not funny to the target; humour can wound.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

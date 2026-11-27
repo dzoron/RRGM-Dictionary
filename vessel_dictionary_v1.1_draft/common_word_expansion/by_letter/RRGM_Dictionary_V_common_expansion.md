@@ -34,3 +34,31 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-V-0002 | via
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Travelling through a place on the way to another; also by means of.
+
+**Example:** We flew to Rome via Paris; send it via email.
+
+**RRGM bridge:** Via names the route or channel something passes through.
+
+**Invariant MI [INV]:** By way of, or by means of.
+
+**Active domains:** [DIG]
+
+**Domain entries:**
+
+- [DIG] The channel a message takes.
+
+**Count condition:** A route or medium through which something passes.
+
+**Specific transfer boundary:** The route is not the destination; a message sent via a channel can be read or changed there.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -93,3 +93,32 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-A-0004 | ahead
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Further forward in space or time; in front; also in a leading position.
+
+**Example:** The road ahead is closed; our team is two points ahead.
+
+**RRGM bridge:** Ahead points along the direction of travel, to what has not been reached yet.
+
+**Invariant MI [INV]:** In front, in the direction of motion or in the future.
+
+**Active domains:** [PHY], [REL]
+
+**Domain entries:**
+
+- [PHY] Position forward along a path.
+- [REL] "Getting ahead" names gaining advantage over others.
+
+**Count condition:** A position further along a path, sequence or ranking.
+
+**Specific transfer boundary:** Being ahead now is not winning; the lead can change.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -1,0 +1,80 @@
+@ C2-P-0021 | perhaps
+cm: Possibly; maybe; used to show uncertainty or to soften a statement.
+ex: Perhaps we should ask for directions.
+br: Perhaps opens a possibility without committing to it.
+inv: Marks a proposition as possible but not asserted.
+[LIN] Hedge, slightly more formal than "maybe".
+cc: A proposition held as possible.
+tb: Like maybe, perhaps carries no probability; it can soften a firm view as well as express doubt.
+st: [DEF]
+k: discovery
+
+@ C2-P-0022 | poor
+cm: Having little money or few possessions; also of low quality; also deserving pity.
+ex: The poor family shared one room; the poor dog was soaked.
+br: Poor names a lack: of money, of quality, of luck.
+inv: Lacking resources, quality or fortune.
+[ECO] Poverty: income below what is needed to meet basic needs.
+[REL] Poverty limits choice; it is a condition, not a character.
+cc: A person with little wealth, a thing of low quality, or one who is pitied.
+tb: Being poor is a circumstance, not a judgement on the person. Poor quality is a different meaning.
+st: [DEF]
+k: discovery
+
+@ C2-P-0023 | pick
+cm: To choose; also to pull or take something with the fingers, such as fruit or flowers; also a pointed tool.
+ex: Pick a card; we picked apples in the orchard.
+br: To pick is to take one from many: a choice made by hand or by mind.
+inv: To select, or to pluck, or a pointed tool.
+[COG] Choosing among options.
+[BIO] Harvesting by hand.
+cc: An act of choosing or plucking, or a pointed tool.
+tb: Picking from the options given is not the same as having had all the options.
+st: [DEF]
+k: discovery
+
+@ C2-P-0024 | popular
+cm: Liked or enjoyed by many people; also relating to ordinary people.
+ex: The café is popular with students.
+br: Popular measures how many are drawn to something, not what it is worth.
+inv: Widely liked or of the general public.
+[REL] Popularity reflects social approval and spreads through networks.
+cc: Something liked by many, or associated with the general public.
+tb: Popular is not the same as good or true; popularity can be bought or manufactured.
+st: [DEF]
+k: discovery
+
+@ C2-P-0025 | publish
+cm: To prepare and issue a book, article or other work for the public; to make information generally known.
+ex: She published her first novel at sixty.
+br: To publish is to release a work into public record, where others can read and judge it.
+inv: To make a work or information publicly available.
+[DIG] Online publishing is instant and often permanent.
+[FOR] Published research is open to checking and replication.
+cc: A work or information released to the public.
+tb: Being published is not being correct; peer review reduces errors but does not remove them.
+st: [DEF]
+k: discovery
+
+@ C2-P-0026 | professional
+cm: Relating to a job requiring special training; also done for pay rather than as a hobby; also competent and businesslike.
+ex: She hired a professional photographer.
+br: Professional marks skill brought under standards and paid for.
+inv: Of a trained occupation, or done to its standards.
+[ECO] Paid work in a field requiring training or licensing.
+[REL] Professional ethics: duties to clients and the public.
+cc: Work done for pay or to a trained standard.
+tb: Professional status is not proof of competence in a given case; amateurs can be skilled.
+st: [DEF]
+k: discovery
+
+@ C2-P-0027 | percent
+cm: In or for every hundred; a proportion out of a hundred.
+ex: Ten percent of the class was absent.
+br: Percent scales a part against a whole of one hundred so that different sizes can be compared.
+inv: Parts per hundred.
+[FOR] A ratio expressed out of 100.
+cc: A proportion expressed out of a hundred.
+tb: A change in percent is not a change in percentage points; a rise from 10% to 20% is ten points or a 100% increase.
+st: [DEF]
+k: discovery

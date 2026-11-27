@@ -64,3 +64,62 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-I-0003 | itself
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Reflexive and emphatic form of it.
+
+**Example:** The machine turns itself off.
+
+**RRGM bridge:** Itself turns an action back onto a thing.
+
+**Invariant MI [INV]:** Reflexive or emphatic pronoun for "it".
+
+**Active domains:** [LIN], [DIG]
+
+**Domain entries:**
+
+- [LIN] Reflexive ("cleans itself") and intensifier ("the idea itself").
+- [DIG] Self-reference in systems: programs that modify or describe themselves.
+
+**Count condition:** A sentence where a thing acts on or is emphasised as itself.
+
+**Specific transfer boundary:** Grammatical self-reference does not settle whether there is a self; it applies to thermostats and to people alike.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-I-0004 | internet
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The global network connecting computers and devices, over which websites, email and other services run.
+
+**Example:** She found the recipe on the internet.
+
+**RRGM bridge:** The internet is a network of networks, a shared structure no single owner controls.
+
+**Invariant MI [INV]:** The worldwide interconnection of computer networks using common protocols.
+
+**Active domains:** [DIG], [ECO], [REL]
+
+**Domain entries:**
+
+- [DIG] Packet-switched networking over shared protocols (TCP/IP); the web is one service on it.
+- [ECO] Internet access is now basic infrastructure, unevenly distributed.
+- [REL] Online communities and the spread of information, true and false.
+
+**Count condition:** The global network of networks, or services on it.
+
+**Specific transfer boundary:** The internet is not the web; the web runs on it. Finding something online does not make it true.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

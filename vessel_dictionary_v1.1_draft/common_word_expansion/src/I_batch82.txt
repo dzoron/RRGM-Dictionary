@@ -1,0 +1,24 @@
+@ C2-I-0003 | itself
+cm: Reflexive and emphatic form of it.
+ex: The machine turns itself off.
+br: Itself turns an action back onto a thing.
+inv: Reflexive or emphatic pronoun for "it".
+[LIN] Reflexive ("cleans itself") and intensifier ("the idea itself").
+[DIG] Self-reference in systems: programs that modify or describe themselves.
+cc: A sentence where a thing acts on or is emphasised as itself.
+tb: Grammatical self-reference does not settle whether there is a self; it applies to thermostats and to people alike.
+st: [DEF]
+k: discovery
+
+@ C2-I-0004 | internet
+cm: The global network connecting computers and devices, over which websites, email and other services run.
+ex: She found the recipe on the internet.
+br: The internet is a network of networks, a shared structure no single owner controls.
+inv: The worldwide interconnection of computer networks using common protocols.
+[DIG] Packet-switched networking over shared protocols (TCP/IP); the web is one service on it.
+[ECO] Internet access is now basic infrastructure, unevenly distributed.
+[REL] Online communities and the spread of information, true and false.
+cc: The global network of networks, or services on it.
+tb: The internet is not the web; the web runs on it. Finding something online does not make it true.
+st: [DEF]
+k: discovery

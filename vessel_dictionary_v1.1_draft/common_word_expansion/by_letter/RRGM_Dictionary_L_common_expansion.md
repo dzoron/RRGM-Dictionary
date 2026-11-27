@@ -35,3 +35,32 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-L-0002 | lord
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A man of noble rank or high authority; in some religions, a title for God or Christ; also a master or ruler.
+
+**Example:** The lord of the manor owned the land; the Lord's Prayer.
+
+**RRGM bridge:** Lord names a holder of power over land or people, and in faith a title of devotion.
+
+**Invariant MI [INV]:** A person or being with authority or dominion over others.
+
+**Active domains:** [REL], [MYT]
+
+**Domain entries:**
+
+- [REL] Feudal lords held land and owed duties to and from those under them.
+- [MYT] Title of divinity in several traditions. Faith claims are held in their own domain.
+
+**Count condition:** A nobleman, ruler or master, or a divine title.
+
+**Specific transfer boundary:** A title of rank grants position, not merit. "Lording it over" someone means abusing a position over them.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

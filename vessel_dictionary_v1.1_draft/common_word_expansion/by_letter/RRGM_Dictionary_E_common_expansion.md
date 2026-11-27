@@ -64,3 +64,61 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-E-0003 | economic
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to the economy, or to the production and use of money and resources; also profitable.
+
+**Example:** The country faced economic problems.
+
+**RRGM bridge:** Economic names the domain of how resources are made, moved and shared.
+
+**Invariant MI [INV]:** Concerning the production, distribution and use of resources.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Growth, employment, prices and trade.
+- [REL] Economic decisions distribute gains and losses among people.
+
+**Count condition:** A matter of economy or resources.
+
+**Specific transfer boundary:** "Economic" (about the economy) differs from "economical" (thrifty). An economic gain overall can be a loss for many people.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-E-0004 | election
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The formal process of choosing a person or group for a position, especially by voting.
+
+**Example:** The election is in October.
+
+**RRGM bridge:** An election converts many individual choices into one recorded decision about who holds power.
+
+**Invariant MI [INV]:** A formal choice of office-holders by vote.
+
+**Active domains:** [REL], [FOR]
+
+**Domain entries:**
+
+- [REL] Elections grant authority and allow peaceful transfer of power.
+- [FOR] Electoral systems differ: first-past-the-post, proportional, ranked choice; each turns the same votes into different results.
+
+**Count condition:** A procedure in which eligible voters choose among candidates or options.
+
+**Specific transfer boundary:** Winning an election grants authority, not correctness. Who is allowed to vote decides whose choice counts.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

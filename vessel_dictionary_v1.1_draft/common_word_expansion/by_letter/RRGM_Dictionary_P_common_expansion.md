@@ -682,3 +682,203 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-P-0021 | perhaps
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Possibly; maybe; used to show uncertainty or to soften a statement.
+
+**Example:** Perhaps we should ask for directions.
+
+**RRGM bridge:** Perhaps opens a possibility without committing to it.
+
+**Invariant MI [INV]:** Marks a proposition as possible but not asserted.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Hedge, slightly more formal than "maybe".
+
+**Count condition:** A proposition held as possible.
+
+**Specific transfer boundary:** Like maybe, perhaps carries no probability; it can soften a firm view as well as express doubt.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0022 | poor
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Having little money or few possessions; also of low quality; also deserving pity.
+
+**Example:** The poor family shared one room; the poor dog was soaked.
+
+**RRGM bridge:** Poor names a lack: of money, of quality, of luck.
+
+**Invariant MI [INV]:** Lacking resources, quality or fortune.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Poverty: income below what is needed to meet basic needs.
+- [REL] Poverty limits choice; it is a condition, not a character.
+
+**Count condition:** A person with little wealth, a thing of low quality, or one who is pitied.
+
+**Specific transfer boundary:** Being poor is a circumstance, not a judgement on the person. Poor quality is a different meaning.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0023 | pick
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To choose; also to pull or take something with the fingers, such as fruit or flowers; also a pointed tool.
+
+**Example:** Pick a card; we picked apples in the orchard.
+
+**RRGM bridge:** To pick is to take one from many: a choice made by hand or by mind.
+
+**Invariant MI [INV]:** To select, or to pluck, or a pointed tool.
+
+**Active domains:** [COG], [BIO]
+
+**Domain entries:**
+
+- [COG] Choosing among options.
+- [BIO] Harvesting by hand.
+
+**Count condition:** An act of choosing or plucking, or a pointed tool.
+
+**Specific transfer boundary:** Picking from the options given is not the same as having had all the options.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0024 | popular
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Liked or enjoyed by many people; also relating to ordinary people.
+
+**Example:** The café is popular with students.
+
+**RRGM bridge:** Popular measures how many are drawn to something, not what it is worth.
+
+**Invariant MI [INV]:** Widely liked or of the general public.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Popularity reflects social approval and spreads through networks.
+
+**Count condition:** Something liked by many, or associated with the general public.
+
+**Specific transfer boundary:** Popular is not the same as good or true; popularity can be bought or manufactured.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0025 | publish
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To prepare and issue a book, article or other work for the public; to make information generally known.
+
+**Example:** She published her first novel at sixty.
+
+**RRGM bridge:** To publish is to release a work into public record, where others can read and judge it.
+
+**Invariant MI [INV]:** To make a work or information publicly available.
+
+**Active domains:** [DIG], [FOR]
+
+**Domain entries:**
+
+- [DIG] Online publishing is instant and often permanent.
+- [FOR] Published research is open to checking and replication.
+
+**Count condition:** A work or information released to the public.
+
+**Specific transfer boundary:** Being published is not being correct; peer review reduces errors but does not remove them.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0026 | professional
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to a job requiring special training; also done for pay rather than as a hobby; also competent and businesslike.
+
+**Example:** She hired a professional photographer.
+
+**RRGM bridge:** Professional marks skill brought under standards and paid for.
+
+**Invariant MI [INV]:** Of a trained occupation, or done to its standards.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Paid work in a field requiring training or licensing.
+- [REL] Professional ethics: duties to clients and the public.
+
+**Count condition:** Work done for pay or to a trained standard.
+
+**Specific transfer boundary:** Professional status is not proof of competence in a given case; amateurs can be skilled.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0027 | percent
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In or for every hundred; a proportion out of a hundred.
+
+**Example:** Ten percent of the class was absent.
+
+**RRGM bridge:** Percent scales a part against a whole of one hundred so that different sizes can be compared.
+
+**Invariant MI [INV]:** Parts per hundred.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] A ratio expressed out of 100.
+
+**Count condition:** A proportion expressed out of a hundred.
+
+**Specific transfer boundary:** A change in percent is not a change in percentage points; a rise from 10% to 20% is ten points or a 100% increase.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

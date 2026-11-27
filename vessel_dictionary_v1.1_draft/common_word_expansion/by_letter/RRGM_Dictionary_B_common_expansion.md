@@ -152,3 +152,32 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-B-0004 | brown
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The colour of earth, wood or coffee, made by mixing red, yellow and black.
+
+**Example:** She has brown eyes; the leaves turned brown.
+
+**RRGM bridge:** Brown is the colour of soil and bark, warm and dark.
+
+**Invariant MI [INV]:** A dark colour between red, yellow and black.
+
+**Active domains:** [PHY], [BIO]
+
+**Domain entries:**
+
+- [PHY] A dark orange, perceived when orange light is dim relative to its surroundings.
+- [BIO] Common camouflage colour; melanin gives brown to eyes, hair and skin.
+
+**Count condition:** A colour in the brown range, or something of that colour.
+
+**Specific transfer boundary:** Using skin colour to sort people is a social practice, not a biological category.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

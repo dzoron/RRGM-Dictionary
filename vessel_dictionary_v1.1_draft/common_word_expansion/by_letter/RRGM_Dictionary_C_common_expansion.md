@@ -354,3 +354,236 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-C-0012 | council
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A group of people elected or appointed to advise, make decisions or govern, especially a local government body.
+
+**Example:** The city council voted to build a new library.
+
+**RRGM bridge:** A council gathers several voices so that a decision passes through more than one mind.
+
+**Invariant MI [INV]:** A deliberative body that advises or decides for a community or organisation.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Councils share authority among members and answer to those they represent.
+- [ECO] Local councils set local taxes and run services.
+
+**Count condition:** A body of members convened to deliberate and decide.
+
+**Specific transfer boundary:** A council's decision is collective; individual members may disagree with it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0013 | currently
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** At the present time.
+
+**Example:** She is currently working in Toronto.
+
+**RRGM bridge:** Currently stamps a fact with the moment it holds, so it can expire.
+
+**Invariant MI [INV]:** True at the time of speaking or writing.
+
+**Active domains:** [LIN], [DIG]
+
+**Domain entries:**
+
+- [LIN] Time-bound adverb; implies the fact may change.
+- [DIG] For a system with fixed training data, "currently" needs a date; what was current then may not be now.
+
+**Count condition:** A state holding at the time of the statement.
+
+**Specific transfer boundary:** A "currently" statement in an old document describes then, not now.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0014 | career
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The series of jobs a person has over their working life, especially in one field; as a verb, to move fast and out of control.
+
+**Example:** She built a career in medicine; the car careered off the road.
+
+**RRGM bridge:** A career is a working life read as a path, each job leading on from the last.
+
+**Invariant MI [INV]:** A person's progression through work over time.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Careers shape income, skills and security.
+- [REL] Career expectations often depend on networks and opportunity, not only ability.
+
+**Count condition:** A sequence of occupations in a working life.
+
+**Specific transfer boundary:** A career path seen afterward looks planned; in the living it is often a series of chances.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0015 | crazy
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Informal: very foolish, wild or unreasonable; also extremely enthusiastic; formerly used to mean mentally ill.
+
+**Example:** It was a crazy idea, but it worked; he's crazy about jazz.
+
+**RRGM bridge:** Crazy marks something as outside normal bounds, for better or worse.
+
+**Invariant MI [INV]:** Informally, wildly beyond the normal or reasonable.
+
+**Active domains:** [LIN], [PEJ]
+
+**Domain entries:**
+
+- [LIN] Very common intensifier and casual judgement.
+- [PEJ] Used against people to dismiss their views or experience as irrational, and as a slur on people with mental illness. The mechanism is discrediting the speaker instead of answering the claim.
+
+**Count condition:** Informal speech marking something as wild, extreme or unreasonable.
+
+**Specific transfer boundary:** Calling an idea crazy is not an argument against it. Calling a person crazy is a judgement about them, not about what they said.
+
+**Epistemic status:** [DEF]; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0016 | card
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A small flat piece of stiff paper or plastic; used for greetings, games, identification or payment.
+
+**Example:** She sent a birthday card; pay by card.
+
+**RRGM bridge:** A card carries a small, portable record: a greeting, an identity, a payment link, a playing value.
+
+**Invariant MI [INV]:** A small flat rectangle of stiff material bearing information or value.
+
+**Active domains:** [ECO], [DIG], [REL]
+
+**Domain entries:**
+
+- [ECO] Payment cards link to bank accounts or credit.
+- [DIG] Smart cards and SIM cards hold chips with data.
+- [REL] Greeting cards mark occasions and relationships.
+
+**Count condition:** A small flat stiff object bearing information, value or play.
+
+**Specific transfer boundary:** A card represents access or value; losing it does not mean losing the account, but someone else can use it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0017 | culture
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The customs, arts, beliefs and ways of life of a group of people; also the arts generally; also the growing of cells or microorganisms.
+
+**Example:** She studied Japanese culture; a bacterial culture.
+
+**RRGM bridge:** Culture is what a group passes on that is not in the genes: language, practice, art, meaning.
+
+**Invariant MI [INV]:** The learned and shared way of life of a group, or a grown population of cells.
+
+**Active domains:** [REL], [BIO], [LIN]
+
+**Domain entries:**
+
+- [REL] Shared norms, values and practices; cultures change and borrow from each other.
+- [BIO] A culture of cells or microbes grown in a medium.
+- [LIN] Language carries and shapes culture.
+
+**Count condition:** A group's shared learned practices, or cells grown in a medium.
+
+**Specific transfer boundary:** Cultures are not uniform; members differ and disagree. Judging another culture by one's own norms is the custom-is-king error.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0018 | century
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A period of one hundred years; also a score of a hundred in cricket.
+
+**Example:** The church was built in the twelfth century.
+
+**RRGM bridge:** A century is a span long enough that no one lives through it as an adult from start to end.
+
+**Invariant MI [INV]:** A period of one hundred years.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] The twelfth century covers years 1101–1200 in strict counting.
+
+**Count condition:** A hundred-year span, or a hundred runs in cricket.
+
+**Specific transfer boundary:** "The 20th century" means the 1900s, not years starting with 20.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0019 | capital
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The city where a country's or region's government sits; also wealth used to produce more wealth; also an upper-case letter.
+
+**Example:** Ottawa is the capital of Canada; the firm raised capital from investors.
+
+**RRGM bridge:** Capital names the head of a structure: the seat of government, the stock that funds production, the letter that heads a sentence.
+
+**Invariant MI [INV]:** The seat of government, or productive wealth, or an upper-case letter.
+
+**Active domains:** [ECO], [LIN]
+
+**Domain entries:**
+
+- [ECO] Capital as money or assets invested for return; also human and social capital.
+- [LIN] Capital letters mark sentence starts and proper names.
+
+**Count condition:** A governing city, invested wealth, or an upper-case letter.
+
+**Specific transfer boundary:** "Capital punishment" means the death penalty, from Latin caput, head.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

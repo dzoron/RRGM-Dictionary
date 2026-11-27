@@ -416,3 +416,87 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-M-0013 | modern
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to the present or recent times; also using new ideas, methods or styles.
+
+**Example:** Modern medicine has extended lives.
+
+**RRGM bridge:** Modern marks the present period against what came before, a line that keeps moving.
+
+**Invariant MI [INV]:** Of the present or recent era, or new in style or method.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] "Modern" is relative to the speaker's time; every age was modern once.
+
+**Count condition:** Something of recent times or new design.
+
+**Specific transfer boundary:** Modern is not automatically better; newness and improvement are separate.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0014 | minister
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A senior member of a government in charge of a department; also a member of the clergy.
+
+**Example:** The health minister announced new funding; the minister led the service.
+
+**RRGM bridge:** A minister is one who serves, whether a department of state or a congregation.
+
+**Invariant MI [INV]:** A person who heads a government department or serves as clergy.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Ministers answer to parliament or to their congregation.
+
+**Count condition:** A government department head or a clergy member.
+
+**Specific transfer boundary:** The word comes from Latin "servant"; the role's authority is meant to be in service.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0015 | married
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Joined in marriage.
+
+**Example:** They got married last spring.
+
+**RRGM bridge:** Married names a bond made formal, recognised by law or community.
+
+**Invariant MI [INV]:** In a state of marriage.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Marriage creates legal and social ties; who may marry has changed over time.
+
+**Count condition:** A person or couple in a marriage.
+
+**Specific transfer boundary:** Being married is a legal and social status; it does not describe the relationship's quality.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -125,3 +125,89 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-D-0005 | damn
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Mild profanity used to express anger, frustration or emphasis; in religious use, to condemn to eternal punishment.
+
+**Example:** Damn, I left my keys at home.
+
+**RRGM bridge:** Damn borrows a religious word for condemnation and spends it as an everyday release of frustration.
+
+**Invariant MI [INV]:** An expletive of frustration or emphasis; originally, to condemn.
+
+**Active domains:** [LIN], [MYT], [PEJ]
+
+**Domain entries:**
+
+- [LIN] Mild expletive and intensifier ("a damn good idea"); register varies by setting.
+- [MYT] In Christian tradition, damnation is condemnation to hell. Faith claims are held in their own domain.
+- [PEJ] "Damn you" directs condemnation at a person; the mechanism borrows religious weight for an insult.
+
+**Count condition:** An exclamation of frustration, an intensifier, or the act of condemning.
+
+**Specific transfer boundary:** As an exclamation it reports the speaker's frustration, not a judgement of anyone. Mild in many settings, offensive in some.
+
+**Epistemic status:** [DEF]; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-D-0006 | daily
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Done, happening or produced every day; also a newspaper published every day.
+
+**Example:** She takes a daily walk.
+
+**RRGM bridge:** Daily marks the rhythm of the day as the unit something repeats on.
+
+**Invariant MI [INV]:** Occurring once every day.
+
+**Active domains:** [BIO]
+
+**Domain entries:**
+
+- [BIO] Daily rhythms follow the circadian clock.
+
+**Count condition:** Something recurring every day.
+
+**Specific transfer boundary:** "Daily" averages can hide large day-to-day swings.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-D-0007 | district
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An area of a country or city, especially one set apart for administration or with a particular character.
+
+**Example:** The school district covers three towns; the theatre district.
+
+**RRGM bridge:** A district is a bounded piece of a larger territory, given its own name or rules.
+
+**Invariant MI [INV]:** A defined area within a larger region.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] District boundaries decide who votes where and which services people get.
+
+**Count condition:** An area with defined boundaries within a larger territory.
+
+**Specific transfer boundary:** Drawing district boundaries can change outcomes, as in gerrymandering.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

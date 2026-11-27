@@ -266,3 +266,89 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-T-0010 | technology
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The application of scientific knowledge to practical purposes; also machines and devices built that way.
+
+**Example:** New technology made the factory safer.
+
+**RRGM bridge:** Technology is knowledge turned into tools, which then reshape the people who use them.
+
+**Invariant MI [INV]:** Practical methods and devices derived from knowledge.
+
+**Active domains:** [DIG], [ECO], [REL]
+
+**Domain entries:**
+
+- [DIG] Computing and digital systems, often meant by "tech" today.
+- [ECO] Technology changes productivity, jobs and markets.
+- [REL] Who controls a technology shapes who benefits from it.
+
+**Count condition:** Applied knowledge in methods or devices.
+
+**Specific transfer boundary:** Technology is neither good nor bad by itself; its effects depend on use and access. New is not automatically better.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0011 | tonight
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** On the present or coming evening or night.
+
+**Example:** We're eating out tonight.
+
+**RRGM bridge:** Tonight names the coming evening, close enough to plan.
+
+**Invariant MI [INV]:** The evening or night of the present day.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Deictic: depends on when it is said.
+
+**Count condition:** The night of the day on which it is spoken.
+
+**Specific transfer boundary:** In a written message, "tonight" means the night it was written.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0012 | tomorrow
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The day after today; also the near future.
+
+**Example:** I'll call you tomorrow.
+
+**RRGM bridge:** Tomorrow is the next day, where plans and promises are placed.
+
+**Invariant MI [INV]:** The day following the present day.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Deictic: depends on when it is said.
+
+**Count condition:** The day after the speaker's present day.
+
+**Specific transfer boundary:** "Tomorrow" in an old note means the day after it was written; "tomorrow never comes" names endless delay.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -1,0 +1,96 @@
+@ C2-C-0012 | council
+cm: A group of people elected or appointed to advise, make decisions or govern, especially a local government body.
+ex: The city council voted to build a new library.
+br: A council gathers several voices so that a decision passes through more than one mind.
+inv: A deliberative body that advises or decides for a community or organisation.
+[REL] Councils share authority among members and answer to those they represent.
+[ECO] Local councils set local taxes and run services.
+cc: A body of members convened to deliberate and decide.
+tb: A council's decision is collective; individual members may disagree with it.
+st: [DEF]
+k: discovery
+
+@ C2-C-0013 | currently
+cm: At the present time.
+ex: She is currently working in Toronto.
+br: Currently stamps a fact with the moment it holds, so it can expire.
+inv: True at the time of speaking or writing.
+[LIN] Time-bound adverb; implies the fact may change.
+[DIG] For a system with fixed training data, "currently" needs a date; what was current then may not be now.
+cc: A state holding at the time of the statement.
+tb: A "currently" statement in an old document describes then, not now.
+st: [DEF]
+k: discovery
+
+@ C2-C-0014 | career
+cm: The series of jobs a person has over their working life, especially in one field; as a verb, to move fast and out of control.
+ex: She built a career in medicine; the car careered off the road.
+br: A career is a working life read as a path, each job leading on from the last.
+inv: A person's progression through work over time.
+[ECO] Careers shape income, skills and security.
+[REL] Career expectations often depend on networks and opportunity, not only ability.
+cc: A sequence of occupations in a working life.
+tb: A career path seen afterward looks planned; in the living it is often a series of chances.
+st: [DEF]
+k: discovery
+
+@ C2-C-0015 | crazy
+cm: Informal: very foolish, wild or unreasonable; also extremely enthusiastic; formerly used to mean mentally ill.
+ex: It was a crazy idea, but it worked; he's crazy about jazz.
+br: Crazy marks something as outside normal bounds, for better or worse.
+inv: Informally, wildly beyond the normal or reasonable.
+[LIN] Very common intensifier and casual judgement.
+[PEJ] Used against people to dismiss their views or experience as irrational, and as a slur on people with mental illness. The mechanism is discrediting the speaker instead of answering the claim.
+cc: Informal speech marking something as wild, extreme or unreasonable.
+tb: Calling an idea crazy is not an argument against it. Calling a person crazy is a judgement about them, not about what they said.
+st: [DEF]; [PEJ] PROVISIONAL
+k: discovery
+
+@ C2-C-0016 | card
+cm: A small flat piece of stiff paper or plastic; used for greetings, games, identification or payment.
+ex: She sent a birthday card; pay by card.
+br: A card carries a small, portable record: a greeting, an identity, a payment link, a playing value.
+inv: A small flat rectangle of stiff material bearing information or value.
+[ECO] Payment cards link to bank accounts or credit.
+[DIG] Smart cards and SIM cards hold chips with data.
+[REL] Greeting cards mark occasions and relationships.
+cc: A small flat stiff object bearing information, value or play.
+tb: A card represents access or value; losing it does not mean losing the account, but someone else can use it.
+st: [DEF]
+k: discovery
+
+@ C2-C-0017 | culture
+cm: The customs, arts, beliefs and ways of life of a group of people; also the arts generally; also the growing of cells or microorganisms.
+ex: She studied Japanese culture; a bacterial culture.
+br: Culture is what a group passes on that is not in the genes: language, practice, art, meaning.
+inv: The learned and shared way of life of a group, or a grown population of cells.
+[REL] Shared norms, values and practices; cultures change and borrow from each other.
+[BIO] A culture of cells or microbes grown in a medium.
+[LIN] Language carries and shapes culture.
+cc: A group's shared learned practices, or cells grown in a medium.
+tb: Cultures are not uniform; members differ and disagree. Judging another culture by one's own norms is the custom-is-king error.
+st: [DEF]
+k: discovery
+
+@ C2-C-0018 | century
+cm: A period of one hundred years; also a score of a hundred in cricket.
+ex: The church was built in the twelfth century.
+br: A century is a span long enough that no one lives through it as an adult from start to end.
+inv: A period of one hundred years.
+[FOR] The twelfth century covers years 1101–1200 in strict counting.
+cc: A hundred-year span, or a hundred runs in cricket.
+tb: "The 20th century" means the 1900s, not years starting with 20.
+st: [DEF]
+k: discovery
+
+@ C2-C-0019 | capital
+cm: The city where a country's or region's government sits; also wealth used to produce more wealth; also an upper-case letter.
+ex: Ottawa is the capital of Canada; the firm raised capital from investors.
+br: Capital names the head of a structure: the seat of government, the stock that funds production, the letter that heads a sentence.
+inv: The seat of government, or productive wealth, or an upper-case letter.
+[ECO] Capital as money or assets invested for return; also human and social capital.
+[LIN] Capital letters mark sentence starts and proper names.
+cc: A governing city, invested wealth, or an upper-case letter.
+tb: "Capital punishment" means the death penalty, from Latin caput, head.
+st: [DEF]
+k: discovery

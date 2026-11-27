@@ -153,3 +153,119 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-H-0006 | hell
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In some religions, a place of punishment after death; also a very unpleasant situation; also used as a mild expletive.
+
+**Example:** The commute was hell; what the hell happened?
+
+**RRGM bridge:** Hell names the worst place imaginable, and by extension any situation that feels like it.
+
+**Invariant MI [INV]:** A realm of punishment in some faiths, or an extremely bad experience.
+
+**Active domains:** [MYT], [LIN], [AFF]
+
+**Domain entries:**
+
+- [MYT] The underworld or place of punishment in many traditions, from Hades to Naraka. Faith claims are held in their own domain.
+- [LIN] Mild expletive and intensifier ("a hell of a lot").
+- [AFF] "Going through hell" names severe suffering. Provisional domain.
+
+**Count condition:** A religious realm of punishment, a terrible situation, or an exclamation.
+
+**Specific transfer boundary:** As an expletive it shows emphasis, not a belief. Calling a situation hell describes how it felt.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-H-0007 | hair
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The fine threads that grow from the skin of mammals, especially on the human head.
+
+**Example:** She has long dark hair.
+
+**RRGM bridge:** Hair is the body's thread-fine outer growth, and a common carrier of identity and style.
+
+**Invariant MI [INV]:** Thin keratin filaments growing from follicles in the skin.
+
+**Active domains:** [BIO], [REL]
+
+**Domain entries:**
+
+- [BIO] Keratin growth from follicles; protects and insulates.
+- [REL] Hairstyles carry cultural, religious and personal meaning, and rules about hair have been used to discriminate.
+
+**Count condition:** Filaments growing from skin, or a single such filament.
+
+**Specific transfer boundary:** Judging people by hair texture or style is a social judgement, not a measure of anything about them.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-H-0008 | hospital
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An institution providing medical and surgical treatment and nursing care for sick or injured people.
+
+**Example:** She was taken to hospital after the fall.
+
+**RRGM bridge:** A hospital concentrates care so that many people can be treated by many skills in one place.
+
+**Invariant MI [INV]:** An institution for treating the sick and injured.
+
+**Active domains:** [BIO], [ECO]
+
+**Domain entries:**
+
+- [BIO] Acute medical care, surgery and recovery.
+- [ECO] Hospitals are funded publicly, privately or by insurance, which shapes who gets care.
+
+**Count condition:** An institution providing inpatient medical care.
+
+**Specific transfer boundary:** Being admitted is not the same as being diagnosed.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-H-0009 | huge
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Extremely large.
+
+**Example:** A huge wave hit the boat.
+
+**RRGM bridge:** Huge stretches a scale until the measure falls away and only the sense of size remains.
+
+**Invariant MI [INV]:** Very great in size, amount or degree.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Strong intensifier, much used informally.
+
+**Count condition:** Something very large.
+
+**Specific transfer boundary:** "Huge" without a number can hide how big something actually is.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

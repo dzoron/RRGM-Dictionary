@@ -64,3 +64,33 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-U-0003 | union
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The act of joining together; also an organised group of workers (a trade union); also a political union of states.
+
+**Example:** The union negotiated higher pay.
+
+**RRGM bridge:** A union joins parts so they act as one, while each part remains itself.
+
+**Invariant MI [INV]:** A joining of parts into one body, or an association formed for shared interest.
+
+**Active domains:** [REL], [ECO], [FOR]
+
+**Domain entries:**
+
+- [REL] Trade unions bargain collectively for workers; marriage as a union.
+- [ECO] Unions affect wages and conditions.
+- [FOR] In set theory, the union of two sets contains every element of either.
+
+**Count condition:** A joining, or an association of members for a common purpose.
+
+**Specific transfer boundary:** Joining does not erase the members; a union holds parts together, it does not merge them into sameness.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
