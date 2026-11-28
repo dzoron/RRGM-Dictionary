@@ -292,3 +292,88 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-W-0011 | whom
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Object form of who.
+
+**Example:** To whom it may concern.
+
+**RRGM bridge:** Whom names the one acted upon in a question or clause.
+
+**Invariant MI [INV]:** Object form of the pronoun who.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Formal; often replaced by "who" in speech.
+
+**Count condition:** An object referent in a who-clause.
+
+**Specific transfer boundary:** Using "who" for "whom" is common and rarely misleading.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-W-0012 | wonderful
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Extremely good, pleasant or remarkable.
+
+**Example:** We had a wonderful time.
+
+**RRGM bridge:** Wonderful marks what inspires delight or wonder.
+
+**Invariant MI [INV]:** Causing delight or admiration.
+
+**Active domains:** [AFF]
+
+**Domain entries:**
+
+- [AFF] Delight. Provisional domain.
+
+**Count condition:** Something greatly pleasing.
+
+**Specific transfer boundary:** Wonderful reports a reaction, not a measure.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-W-0013 | wedding
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A marriage ceremony and the celebration after it.
+
+**Example:** Their wedding is in June.
+
+**RRGM bridge:** A wedding marks the start of a marriage in front of others.
+
+**Invariant MI [INV]:** A marriage ceremony.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Rituals and customs vary widely.
+- [ECO] Weddings can be very costly.
+
+**Count condition:** A ceremony of marriage.
+
+**Specific transfer boundary:** The cost of a wedding says nothing about the marriage.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

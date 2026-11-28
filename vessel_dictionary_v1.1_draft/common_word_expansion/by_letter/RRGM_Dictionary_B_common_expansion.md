@@ -241,3 +241,60 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-B-0007 | brand
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A type of product made by a particular company under a name; also an identifying mark burned on livestock; as a verb, to label.
+
+**Example:** What brand of coffee is this? He was branded a liar.
+
+**RRGM bridge:** A brand is a name made to carry trust from one product to the next.
+
+**Invariant MI [INV]:** A name or mark identifying a maker, or to mark with a lasting label.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Brand value and loyalty; branding shapes perception.
+- [REL] Being branded with a label can stick to a person long after it stops being fair.
+
+**Count condition:** A trade name or mark, or the act of labelling.
+
+**Specific transfer boundary:** A trusted brand is a reputation, not a guarantee of each product.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-B-0008 | budget
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A plan of how much money will be spent and received over a period; as an adjective, cheap.
+
+**Example:** The project went over budget; a budget airline.
+
+**RRGM bridge:** A budget sets limits in advance, so spending meets a plan rather than chance.
+
+**Invariant MI [INV]:** A plan for income and spending, or low-cost.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Household, corporate and government budgets.
+
+**Count condition:** A spending plan, or something low-cost.
+
+**Specific transfer boundary:** A budget shows priorities: what is funded and what is not.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

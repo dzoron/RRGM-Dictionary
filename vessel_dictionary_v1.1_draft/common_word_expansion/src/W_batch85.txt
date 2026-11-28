@@ -1,0 +1,33 @@
+@ C2-W-0011 | whom
+cm: Object form of who.
+ex: To whom it may concern.
+br: Whom names the one acted upon in a question or clause.
+inv: Object form of the pronoun who.
+[LIN] Formal; often replaced by "who" in speech.
+cc: An object referent in a who-clause.
+tb: Using "who" for "whom" is common and rarely misleading.
+st: [DEF]
+k: discovery
+
+@ C2-W-0012 | wonderful
+cm: Extremely good, pleasant or remarkable.
+ex: We had a wonderful time.
+br: Wonderful marks what inspires delight or wonder.
+inv: Causing delight or admiration.
+[AFF] Delight. Provisional domain.
+cc: Something greatly pleasing.
+tb: Wonderful reports a reaction, not a measure.
+st: [DEF]; [AFF] PROVISIONAL
+k: discovery
+
+@ C2-W-0013 | wedding
+cm: A marriage ceremony and the celebration after it.
+ex: Their wedding is in June.
+br: A wedding marks the start of a marriage in front of others.
+inv: A marriage ceremony.
+[REL] Rituals and customs vary widely.
+[ECO] Weddings can be very costly.
+cc: A ceremony of marriage.
+tb: The cost of a wedding says nothing about the marriage.
+st: [DEF]
+k: discovery

@@ -1140,3 +1140,204 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-P-0037 | pop
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A short sharp sound; also popular music; also a fizzy drink; informally, father; as a verb, to go somewhere quickly.
+
+**Example:** The balloon popped; pop music; pop into the shop.
+
+**RRGM bridge:** Pop is a burst: of sound, of fizz, of quick movement, and short for popular.
+
+**Invariant MI [INV]:** A sudden burst, popular music, or a quick visit.
+
+**Active domains:** [PHY], [REL]
+
+**Domain entries:**
+
+- [PHY] A sudden release of pressure.
+- [REL] Pop culture: widely shared entertainment.
+
+**Count condition:** A burst sound, popular music, soda, or a quick visit.
+
+**Specific transfer boundary:** "Pop" for soda and for father are regional.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0038 | powerful
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Having great power, strength or influence.
+
+**Example:** A powerful engine; a powerful speech.
+
+**RRGM bridge:** Powerful marks capacity to cause effects, on matter or on people.
+
+**Invariant MI [INV]:** Having great power or effect.
+
+**Active domains:** [PHY], [REL]
+
+**Domain entries:**
+
+- [PHY] High power output.
+- [REL] Influence over others, which needs checks.
+
+**Count condition:** Something or someone with great capacity to affect.
+
+**Specific transfer boundary:** Powerful is not right; power and justice are separate questions.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0039 | prior
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Existing or happening before; as a noun, the head of a religious house; in statistics, a prior belief.
+
+**Example:** Prior experience is required; a prior engagement.
+
+**RRGM bridge:** Prior names what came before and still bears on now.
+
+**Invariant MI [INV]:** Earlier, or an earlier belief.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] In Bayesian reasoning, the prior is belief before new evidence.
+
+**Count condition:** Something earlier, or a starting belief.
+
+**Specific transfer boundary:** A strong prior can resist evidence; it should update when evidence warrants.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0040 | partner
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person one is in a romantic relationship with; also a person who shares in a business or activity.
+
+**Example:** Her partner is a nurse; business partners.
+
+**RRGM bridge:** A partner is one who shares a part.
+
+**Invariant MI [INV]:** One who shares with another in a relationship or enterprise.
+
+**Active domains:** [REL], [ECO]
+
+**Domain entries:**
+
+- [REL] Partnership implies mutual standing.
+- [ECO] Business partnerships share profit and liability.
+
+**Count condition:** A person sharing in a relationship or enterprise.
+
+**Specific transfer boundary:** A partnership is two-sided; one party's say does not cover both.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0041 | previously
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** At an earlier time; before.
+
+**Example:** She previously worked in Paris.
+
+**RRGM bridge:** Previously stamps an event as earlier than now.
+
+**Invariant MI [INV]:** At a prior time.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Time adverb.
+
+**Count condition:** An event before the present reference point.
+
+**Specific transfer boundary:** What was true previously may not be true now.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0042 | profile
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** An outline seen from the side; also a short description of someone; also a person's page on a website; also public visibility.
+
+**Example:** Her profile against the window; update your profile; a high profile.
+
+**RRGM bridge:** A profile is an outline: of a face, of a life, of an account.
+
+**Invariant MI [INV]:** A side outline or a summary description.
+
+**Active domains:** [DIG], [REL]
+
+**Domain entries:**
+
+- [DIG] User profiles collect personal data.
+- [REL] Profiling people by group can lead to discrimination.
+
+**Count condition:** A side view, a summary, or an online account page.
+
+**Specific transfer boundary:** A profile is a summary; it leaves the person out.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-P-0043 | prime
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Most important; of the best quality; as a noun, the best period; in mathematics, a number divisible only by 1 and itself; as a verb, to prepare.
+
+**Example:** The prime minister; in her prime; seven is prime.
+
+**RRGM bridge:** Prime names what is first: in rank, in quality, in number theory.
+
+**Invariant MI [INV]:** First, best, or indivisible except by itself and one.
+
+**Active domains:** [FOR], [COG]
+
+**Domain entries:**
+
+- [FOR] Prime numbers.
+- [COG] Priming: earlier exposure influencing later responses.
+
+**Count condition:** Something foremost, a peak period, a prime number, or preparation.
+
+**Specific transfer boundary:** Some famous priming results failed to replicate; the effect is smaller than once claimed.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -382,3 +382,31 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-D-0014 | dude
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Informal: a man or person; also used as an exclamation.
+
+**Example:** That dude helped me move; "Dude, seriously?"
+
+**RRGM bridge:** Dude is casual address that signals ease.
+
+**Invariant MI [INV]:** An informal term for a person.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Originally a dandy; now widely used in casual speech.
+
+**Count condition:** Casual reference to or address of a person.
+
+**Specific transfer boundary:** Very informal; can sound dismissive in some settings.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

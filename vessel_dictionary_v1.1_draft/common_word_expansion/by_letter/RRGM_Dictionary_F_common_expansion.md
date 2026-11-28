@@ -410,3 +410,205 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-F-0015 | flight
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The act of flying; also a journey by aircraft; also escape; also a set of stairs.
+
+**Example:** Our flight was delayed; the flight of refugees.
+
+**RRGM bridge:** Flight names movement through air, and escape from danger.
+
+**Invariant MI [INV]:** Flying, an air journey, or escape.
+
+**Active domains:** [PHY], [BIO]
+
+**Domain entries:**
+
+- [PHY] Lift, thrust, drag and weight.
+- [BIO] Fight or flight: the body's rapid response to threat.
+
+**Count condition:** Flying, a journey by air, an escape, or stairs.
+
+**Specific transfer boundary:** Fleeing a threat is not cowardice; flight is a survival response.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0016 | fat
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The oily substance in animal bodies and some foods; as an adjective, having a lot of body fat, or thick.
+
+**Example:** Cut the fat off the meat; a fat book.
+
+**RRGM bridge:** Fat is the body's stored energy, and a word for thickness.
+
+**Invariant MI [INV]:** Lipid tissue or substance, or thick in size.
+
+**Active domains:** [BIO], [PEJ]
+
+**Domain entries:**
+
+- [BIO] Adipose tissue stores energy and insulates; dietary fats.
+- [PEJ] Used as an insult to shame people for their bodies; the mechanism turns a body description into a moral judgement.
+
+**Count condition:** Lipid substance, or something thick or large.
+
+**Specific transfer boundary:** Body size is not a measure of health or worth on its own.
+
+**Epistemic status:** [DEF]; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0017 | famous
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Known about by many people.
+
+**Example:** A famous painter.
+
+**RRGM bridge:** Famous measures how widely someone is known.
+
+**Invariant MI [INV]:** Widely known.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Fame brings attention, influence and loss of privacy.
+
+**Count condition:** Someone or something widely known.
+
+**Specific transfer boundary:** Famous is not the same as important or good.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0018 | fourth
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Coming after the third; also one of four equal parts (a quarter).
+
+**Example:** She finished fourth.
+
+**RRGM bridge:** Fourth is the next step after the third.
+
+**Invariant MI [INV]:** Ordinal of four, or a quarter.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] Ordinal 4; 1/4.
+
+**Count condition:** Position four, or one of four parts.
+
+**Specific transfer boundary:** "The fourth estate" means the press.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0019 | faith
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Complete trust or confidence in someone or something; also strong belief in a religion.
+
+**Example:** I have faith in her; people of different faiths.
+
+**RRGM bridge:** Faith is trust held ahead of proof, which can be well or badly placed.
+
+**Invariant MI [INV]:** Trust or belief not resting on proof.
+
+**Active domains:** [MYT], [REL], [COG]
+
+**Domain entries:**
+
+- [MYT] Religious faith. Faith claims are held in their own domain.
+- [REL] Good faith: honest intent in dealings.
+- [COG] Faith differs from evidence-based belief in what it rests on.
+
+**Count condition:** Trust in someone or something, or religious belief.
+
+**Specific transfer boundary:** Good faith is about honesty, not certainty. Faith in a person can be tested by their conduct.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0020 | fashion
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A popular style of clothes, hair or behaviour at a particular time; also a manner of doing something.
+
+**Example:** Short skirts were in fashion; in a strange fashion.
+
+**RRGM bridge:** Fashion is style that moves through a group for a time, then changes.
+
+**Invariant MI [INV]:** A prevailing style, or a manner.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] The fashion industry.
+- [REL] Fashion signals belonging and status.
+
+**Count condition:** A current style, or a way of doing.
+
+**Specific transfer boundary:** What is in fashion is not better, only current; ideas have fashions too.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-F-0021 | fund
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A sum of money saved or collected for a purpose; as a verb, to provide money for.
+
+**Example:** A pension fund; the study was funded by a charity.
+
+**RRGM bridge:** A fund is money set aside for a purpose, and funding chooses what goes forward.
+
+**Invariant MI [INV]:** A reserve of money for a purpose, or to finance.
+
+**Active domains:** [ECO], [FOR]
+
+**Domain entries:**
+
+- [ECO] Investment funds, public funding.
+- [FOR] Who funds research is part of evaluating it.
+
+**Count condition:** A pool of money, or the act of financing.
+
+**Specific transfer boundary:** Funding a study does not make its result false, but it is a reason to check it.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

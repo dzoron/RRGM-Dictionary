@@ -238,3 +238,61 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-I-0009 | interview
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A formal meeting in which someone is asked questions, for a job, a news report or research.
+
+**Example:** She has a job interview tomorrow.
+
+**RRGM bridge:** An interview is a structured exchange of questions and answers, where the asker shapes what comes out.
+
+**Invariant MI [INV]:** A meeting for questioning one party by another.
+
+**Active domains:** [REL], [FOR]
+
+**Domain entries:**
+
+- [REL] The interviewer holds power over the framing.
+- [FOR] Leading questions shape answers; research interviews avoid them.
+
+**Count condition:** A question-and-answer meeting with a purpose.
+
+**Specific transfer boundary:** An interview answer depends on how the question was asked.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-I-0010 | investment
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Putting money, time or effort into something in the hope of a later return.
+
+**Example:** The house was a good investment.
+
+**RRGM bridge:** Investment gives up something now for an expected gain later.
+
+**Invariant MI [INV]:** Commitment of resources for future return.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Stocks, property and capital investment.
+- [REL] Emotional investment in a relationship or cause.
+
+**Count condition:** Resources committed for an expected return.
+
+**Specific transfer boundary:** Past returns do not guarantee future ones.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -1,0 +1,82 @@
+@ C2-F-0015 | flight
+cm: The act of flying; also a journey by aircraft; also escape; also a set of stairs.
+ex: Our flight was delayed; the flight of refugees.
+br: Flight names movement through air, and escape from danger.
+inv: Flying, an air journey, or escape.
+[PHY] Lift, thrust, drag and weight.
+[BIO] Fight or flight: the body's rapid response to threat.
+cc: Flying, a journey by air, an escape, or stairs.
+tb: Fleeing a threat is not cowardice; flight is a survival response.
+st: [DEF]
+k: discovery
+
+@ C2-F-0016 | fat
+cm: The oily substance in animal bodies and some foods; as an adjective, having a lot of body fat, or thick.
+ex: Cut the fat off the meat; a fat book.
+br: Fat is the body's stored energy, and a word for thickness.
+inv: Lipid tissue or substance, or thick in size.
+[BIO] Adipose tissue stores energy and insulates; dietary fats.
+[PEJ] Used as an insult to shame people for their bodies; the mechanism turns a body description into a moral judgement.
+cc: Lipid substance, or something thick or large.
+tb: Body size is not a measure of health or worth on its own.
+st: [DEF]; [PEJ] PROVISIONAL
+k: discovery
+
+@ C2-F-0017 | famous
+cm: Known about by many people.
+ex: A famous painter.
+br: Famous measures how widely someone is known.
+inv: Widely known.
+[REL] Fame brings attention, influence and loss of privacy.
+cc: Someone or something widely known.
+tb: Famous is not the same as important or good.
+st: [DEF]
+k: discovery
+
+@ C2-F-0018 | fourth
+cm: Coming after the third; also one of four equal parts (a quarter).
+ex: She finished fourth.
+br: Fourth is the next step after the third.
+inv: Ordinal of four, or a quarter.
+[FOR] Ordinal 4; 1/4.
+cc: Position four, or one of four parts.
+tb: "The fourth estate" means the press.
+st: [DEF]
+k: discovery
+
+@ C2-F-0019 | faith
+cm: Complete trust or confidence in someone or something; also strong belief in a religion.
+ex: I have faith in her; people of different faiths.
+br: Faith is trust held ahead of proof, which can be well or badly placed.
+inv: Trust or belief not resting on proof.
+[MYT] Religious faith. Faith claims are held in their own domain.
+[REL] Good faith: honest intent in dealings.
+[COG] Faith differs from evidence-based belief in what it rests on.
+cc: Trust in someone or something, or religious belief.
+tb: Good faith is about honesty, not certainty. Faith in a person can be tested by their conduct.
+st: [DEF]
+k: discovery
+
+@ C2-F-0020 | fashion
+cm: A popular style of clothes, hair or behaviour at a particular time; also a manner of doing something.
+ex: Short skirts were in fashion; in a strange fashion.
+br: Fashion is style that moves through a group for a time, then changes.
+inv: A prevailing style, or a manner.
+[ECO] The fashion industry.
+[REL] Fashion signals belonging and status.
+cc: A current style, or a way of doing.
+tb: What is in fashion is not better, only current; ideas have fashions too.
+st: [DEF]
+k: discovery
+
+@ C2-F-0021 | fund
+cm: A sum of money saved or collected for a purpose; as a verb, to provide money for.
+ex: A pension fund; the study was funded by a charity.
+br: A fund is money set aside for a purpose, and funding chooses what goes forward.
+inv: A reserve of money for a purpose, or to finance.
+[ECO] Investment funds, public funding.
+[FOR] Who funds research is part of evaluating it.
+cc: A pool of money, or the act of financing.
+tb: Funding a study does not make its result false, but it is a reason to check it.
+st: [DEF]
+k: discovery

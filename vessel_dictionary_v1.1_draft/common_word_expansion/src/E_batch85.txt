@@ -1,0 +1,35 @@
+@ C2-E-0011 | everybody
+cm: Every person; everyone.
+ex: Everybody was invited.
+br: Everybody gathers all persons into one claim.
+inv: All people within the scope intended.
+[LIN] Universal pronoun.
+[FOR] Universal claim: one counterexample breaks it.
+cc: All people in a context.
+tb: "Everybody knows" often means "many people say"; it is a claim to check, not a source.
+st: [DEF]
+k: discovery
+
+@ C2-E-0012 | estate
+cm: A large area of land with a house, owned by one person or family; also all the property a person leaves at death; also a housing development.
+ex: The family estate; her estate went to her children.
+br: An estate is property held together as one whole.
+inv: Property taken as a whole, especially land or a person's total assets.
+[ECO] Real estate, estate taxes.
+[REL] Inheritance passes estates between generations.
+cc: A landed property, a total of assets, or a housing area.
+tb: "Real estate" means land and buildings, not real as opposed to fake.
+st: [DEF]
+k: discovery
+
+@ C2-E-0013 | employee
+cm: A person who works for another person or organisation for pay.
+ex: The company has fifty employees.
+br: An employee exchanges work for pay inside an employer's structure.
+inv: A person employed for wages or salary.
+[ECO] Employment contracts, wages and benefits.
+[REL] Employee rights and the balance of power with employers.
+cc: A person working for an employer under agreement.
+tb: Calling workers "contractors" can remove employee protections without changing the work.
+st: [DEF]
+k: discovery

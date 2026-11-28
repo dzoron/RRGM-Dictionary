@@ -179,3 +179,146 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-R-0007 | religious
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to religion; also devout.
+
+**Example:** Religious holidays; she's very religious.
+
+**RRGM bridge:** Religious marks what belongs to faith and its practice.
+
+**Invariant MI [INV]:** Of religion, or deeply devoted to it.
+
+**Active domains:** [MYT], [REL]
+
+**Domain entries:**
+
+- [MYT] Religious belief and practice. Faith claims are held in their own domain.
+- [REL] Religious freedom, communities and conflict.
+
+**Count condition:** Something relating to religion, or a devout person.
+
+**Specific transfer boundary:** "Religiously" also means regularly ("she exercises religiously").
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-R-0008 | ride
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To sit on and control a horse or bicycle; to travel in a vehicle; as a noun, a journey, or a fairground attraction.
+
+**Example:** Ride a bike; can I get a ride home?
+
+**RRGM bridge:** To ride is to be carried while staying in control, or simply carried.
+
+**Invariant MI [INV]:** To travel on or in something.
+
+**Active domains:** [PHY]
+
+**Domain entries:**
+
+- [PHY] Balance and momentum.
+
+**Count condition:** Travel on a mount or vehicle.
+
+**Specific transfer boundary:** "Taken for a ride" means deceived.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-R-0009 | royal
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to a king or queen or their family.
+
+**Example:** The royal family.
+
+**RRGM bridge:** Royal marks what belongs to a monarch.
+
+**Invariant MI [INV]:** Of a monarch.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Monarchies today are mostly constitutional and ceremonial.
+
+**Count condition:** Something connected with a monarch.
+
+**Specific transfer boundary:** Royal titles grant position by birth, not by merit.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-R-0010 | rose
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A prickly shrub with fragrant flowers; also a pink colour; also past tense of rise.
+
+**Example:** She planted roses; the sun rose.
+
+**RRGM bridge:** A rose is beauty with thorns.
+
+**Invariant MI [INV]:** A flowering shrub of the genus Rosa, or past tense of rise.
+
+**Active domains:** [BIO], [MYT]
+
+**Domain entries:**
+
+- [BIO] Cultivated widely; many varieties.
+- [MYT] Symbol of love and secrecy (sub rosa).
+
+**Count condition:** The flower, the colour, or the past of rise.
+
+**Specific transfer boundary:** Rose-tinted glasses see the past as better than it was.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-R-0011 | rise
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To move upward; to get up; to increase; to rebel; as a noun, an increase.
+
+**Example:** Prices rose; the sun rises in the east.
+
+**RRGM bridge:** To rise is to move up, from a low state to a higher one.
+
+**Invariant MI [INV]:** To ascend or increase.
+
+**Active domains:** [PHY], [REL]
+
+**Domain entries:**
+
+- [PHY] Upward motion.
+- [REL] A rising: a rebellion.
+
+**Count condition:** An upward movement or increase.
+
+**Specific transfer boundary:** A rise in a measure says nothing about its cause.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

@@ -674,3 +674,119 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-M-0022 | murder
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The crime of deliberately and unlawfully killing a person; as a verb, to commit this crime.
+
+**Example:** He was charged with murder.
+
+**RRGM bridge:** Murder is the law's gravest name for one person taking another's life.
+
+**Invariant MI [INV]:** The unlawful, deliberate killing of a person.
+
+**Active domains:** [REL], [FOR]
+
+**Domain entries:**
+
+- [REL] The most serious crime in most legal systems.
+- [FOR] Distinguished in law from manslaughter by intent.
+
+**Count condition:** An unlawful killing with intent.
+
+**Specific transfer boundary:** Guilt is for courts to establish; an accusation is not a finding. Informal uses ("murder a song") are hyperbole.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0023 | mobile
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Able to move or be moved easily; as a noun, a mobile phone, or a hanging decoration.
+
+**Example:** Call me on my mobile; mobile libraries.
+
+**RRGM bridge:** Mobile marks capacity to move, of people, devices and things.
+
+**Invariant MI [INV]:** Capable of moving, or a mobile phone.
+
+**Active domains:** [DIG], [ECO]
+
+**Domain entries:**
+
+- [DIG] Mobile devices and networks.
+- [ECO] Social mobility: moving between economic positions.
+
+**Count condition:** Something able to move, or a mobile phone.
+
+**Specific transfer boundary:** Social mobility on average can hide groups that are stuck.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0024 | mental
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to the mind; also (informally, offensive) mad.
+
+**Example:** Mental health matters.
+
+**RRGM bridge:** Mental names the domain of the mind.
+
+**Invariant MI [INV]:** Of the mind.
+
+**Active domains:** [COG], [BIO], [PEJ]
+
+**Domain entries:**
+
+- [COG] Mental processes: thinking, memory, perception.
+- [BIO] Mental health and illness have biological and social sides.
+- [PEJ] Informally used as an insult meaning crazy; the mechanism uses mental illness as a put-down.
+
+**Count condition:** Something relating to the mind, or (informally) a slur.
+
+**Specific transfer boundary:** Mental illness is health, not character; using it as an insult adds stigma.
+
+**Epistemic status:** [DEF]; [PEJ] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-M-0025 | mostly
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Mainly; for the most part; usually.
+
+**Example:** The audience was mostly students.
+
+**RRGM bridge:** Mostly names the larger share, leaving room for the rest.
+
+**Invariant MI [INV]:** For the greater part.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Degree adverb.
+
+**Count condition:** A majority share or most occasions.
+
+**Specific transfer boundary:** Mostly is not all; the remainder can matter.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

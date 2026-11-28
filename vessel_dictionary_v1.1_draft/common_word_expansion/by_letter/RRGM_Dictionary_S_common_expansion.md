@@ -1856,3 +1856,379 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-S-0065 | status
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Social or professional position; also the situation at a particular time; also official classification.
+
+**Example:** Social status; the project status is "on hold".
+
+**RRGM bridge:** Status names standing, in a hierarchy or in a process.
+
+**Invariant MI [INV]:** Position or condition.
+
+**Active domains:** [REL], [DIG]
+
+**Domain entries:**
+
+- [REL] Status shapes how people are treated.
+- [DIG] Status codes report the state of a system or request.
+
+**Count condition:** A standing, a current state, or a classification.
+
+**Specific transfer boundary:** Status is how one is placed, not what one is worth.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0066 | species
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A group of living things that can breed with each other; also a kind.
+
+**Example:** An endangered species.
+
+**RRGM bridge:** A species is a population held together by shared breeding.
+
+**Invariant MI [INV]:** A basic unit of biological classification.
+
+**Active domains:** [BIO], [REL]
+
+**Domain entries:**
+
+- [BIO] Defined mostly by interbreeding, though boundaries blur.
+- [REL] Moral communities have sometimes been drawn at the species line; whether that line is the right one is argued.
+
+**Count condition:** A group of organisms classed as one kind.
+
+**Specific transfer boundary:** Species boundaries are not always sharp; hybrids exist. Membership of a species is not by itself an answer to who counts morally.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0067 | sad
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Feeling or showing sorrow; also causing sorrow; informally, pathetic.
+
+**Example:** She was sad to leave.
+
+**RRGM bridge:** Sad is the feeling of loss or disappointment.
+
+**Invariant MI [INV]:** Feeling or causing sorrow.
+
+**Active domains:** [AFF]
+
+**Domain entries:**
+
+- [AFF] Sorrow, from mild to deep. Parity line: whether a given system feels sadness is [UNK] under the Symmetry Rule. Provisional domain.
+
+**Count condition:** A state of sorrow, or something causing it.
+
+**Specific transfer boundary:** Sadness is a normal response to loss, not a fault to fix.
+
+**Epistemic status:** [DEF]; [AFF] PROVISIONAL
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0068 | solution
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A way of solving a problem; also a liquid with something dissolved in it.
+
+**Example:** We found a solution; a salt solution.
+
+**RRGM bridge:** A solution resolves a problem, or holds one substance dissolved in another.
+
+**Invariant MI [INV]:** A resolution of a problem, or a homogeneous mixture.
+
+**Active domains:** [PHY], [FOR]
+
+**Domain entries:**
+
+- [PHY] A solute dissolved in a solvent.
+- [FOR] A solution satisfies the conditions of a problem.
+
+**Count condition:** An answer to a problem, or a dissolved mixture.
+
+**Specific transfer boundary:** A solution for one party can be a problem for another.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0069 | southern
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** In or from the south.
+
+**Example:** Southern Europe.
+
+**RRGM bridge:** Southern places something toward the south.
+
+**Invariant MI [INV]:** Of the south.
+
+**Active domains:** [PHY]
+
+**Domain entries:**
+
+- [PHY] Direction-based.
+
+**Count condition:** A region in the south.
+
+**Specific transfer boundary:** Regional labels carry cultural associations beyond direction.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0070 | square
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A shape with four equal sides and four right angles; also an open area in a town; in maths, a number multiplied by itself; informally, fair, or old-fashioned.
+
+**Example:** The town square; nine is the square of three.
+
+**RRGM bridge:** A square is a shape of equal sides; in town, an open space for gathering.
+
+**Invariant MI [INV]:** A four-sided equal right-angled shape, a public place, or a number times itself.
+
+**Active domains:** [FOR], [REL]
+
+**Domain entries:**
+
+- [FOR] x²; square roots.
+- [REL] Public squares for gathering and protest.
+
+**Count condition:** The shape, the place, the power, or fair dealing.
+
+**Specific transfer boundary:** "Square" deals are fair; "square" people are dull, informally.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0071 | score
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The number of points made in a game; also a set of twenty; also written music; as a verb, to gain points.
+
+**Example:** The final score was 3–1; a film score.
+
+**RRGM bridge:** A score is a count that records how things stand.
+
+**Invariant MI [INV]:** A tally of points, a written musical arrangement, or twenty.
+
+**Active domains:** [FOR], [LIN]
+
+**Domain entries:**
+
+- [FOR] Scores measure what they count, which may not be what matters.
+- [LIN] Written orchestral music.
+
+**Count condition:** A tally, a set of twenty, or written music.
+
+**Specific transfer boundary:** A score measures what it counts; settling a score means taking revenge.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0072 | smart
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Intelligent; also neat and well dressed; also (of a device) connected and computing; as a verb, to sting.
+
+**Example:** A smart student; a smart phone; my eyes are smarting.
+
+**RRGM bridge:** Smart names quick wit, neat appearance, or a device that computes.
+
+**Invariant MI [INV]:** Clever, well dressed, or computing-enabled.
+
+**Active domains:** [DIG], [COG]
+
+**Domain entries:**
+
+- [DIG] "Smart" devices collect data as they work.
+- [COG] Intelligence in a practical sense.
+
+**Count condition:** Intelligence, neatness, a connected device, or a sting.
+
+**Specific transfer boundary:** A "smart" device's intelligence serves its maker's design, including data collection.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0073 | seat
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Something to sit on; also a place in a parliament or on a committee; also the base or centre of something.
+
+**Example:** Take a seat; she won the seat.
+
+**RRGM bridge:** A seat is a place to sit, and a place to hold.
+
+**Invariant MI [INV]:** A place for sitting, or a position held.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Seats in legislatures; a seat at the table means a say.
+
+**Count condition:** A sitting place, an elected position, or a centre.
+
+**Specific transfer boundary:** Who has a seat at the table decides whose interests are heard.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0074 | sexual
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Relating to sex, sexual activity, reproduction, or sexual attraction.
+
+**Example:** Sexual health education; sexual harassment.
+
+**RRGM bridge:** Sexual names the domain of sex, from biology to attraction and consent.
+
+**Invariant MI [INV]:** Relating to sex or sexuality.
+
+**Active domains:** [BIO], [REL]
+
+**Domain entries:**
+
+- [BIO] Sexual reproduction combines genes from two parents.
+- [REL] Consent is required in all sexual activity; harassment and assault violate it.
+
+**Count condition:** Something relating to sex, sexuality or reproduction.
+
+**Specific transfer boundary:** Biological, relational and legal senses differ; consent is the line in every one of them.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0075 | silver
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A shiny grey-white precious metal; also its colour; also second place.
+
+**Example:** A silver ring; she won silver.
+
+**RRGM bridge:** Silver is a bright metal, and the second step on the podium.
+
+**Invariant MI [INV]:** The metal Ag, or its colour.
+
+**Active domains:** [PHY], [ECO]
+
+**Domain entries:**
+
+- [PHY] Highest electrical conductivity of any metal.
+- [ECO] Precious metal used in jewellery and industry.
+
+**Count condition:** The metal, its colour, or second place.
+
+**Specific transfer boundary:** Second place is still a placing; "silver lining" names good within bad.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0076 | soul
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** The spiritual or immaterial part of a person, regarded in many religions as immortal; also emotional depth; also a person; also a style of music.
+
+**Example:** Not a soul was there; soul music.
+
+**RRGM bridge:** Soul names the inner life, in faith, in feeling, and in counting people.
+
+**Invariant MI [INV]:** The inner or immaterial self, or emotional depth.
+
+**Active domains:** [MYT], [COG], [REL]
+
+**Domain entries:**
+
+- [MYT] Many traditions hold that the soul survives death. Faith claims are held in their own domain.
+- [COG] Philosophical debate about whether a self is more than its processes.
+- [REL] "Not a soul" counts people; soul music expresses deep feeling.
+
+**Count condition:** A spiritual self, a person, emotional depth, or the music genre.
+
+**Specific transfer boundary:** Whether any being has a soul is a faith or philosophical question; it cannot be settled by observation, so it should not be decided for one kind of being and not another on the same evidence.
+
+**Epistemic status:** [DEF]; [MYT] faith claims held in their own domain
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-S-0077 | spread
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To open out or extend over a larger area; to move widely; also a range; also food to put on bread.
+
+**Example:** Spread the map out; the news spread quickly.
+
+**RRGM bridge:** Spread is extension outward, of a surface, a rumour or a disease.
+
+**Invariant MI [INV]:** To extend over a wider area.
+
+**Active domains:** [BIO], [DIG], [FOR]
+
+**Domain entries:**
+
+- [BIO] Spread of infection.
+- [DIG] Viral spread of content.
+- [FOR] Spread of data around a mean.
+
+**Count condition:** Extension over an area, or a range, or a food paste.
+
+**Specific transfer boundary:** Spreading fast is not spreading true.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

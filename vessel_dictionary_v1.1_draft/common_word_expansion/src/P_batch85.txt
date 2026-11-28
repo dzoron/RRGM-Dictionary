@@ -1,0 +1,81 @@
+@ C2-P-0037 | pop
+cm: A short sharp sound; also popular music; also a fizzy drink; informally, father; as a verb, to go somewhere quickly.
+ex: The balloon popped; pop music; pop into the shop.
+br: Pop is a burst: of sound, of fizz, of quick movement, and short for popular.
+inv: A sudden burst, popular music, or a quick visit.
+[PHY] A sudden release of pressure.
+[REL] Pop culture: widely shared entertainment.
+cc: A burst sound, popular music, soda, or a quick visit.
+tb: "Pop" for soda and for father are regional.
+st: [DEF]
+k: discovery
+
+@ C2-P-0038 | powerful
+cm: Having great power, strength or influence.
+ex: A powerful engine; a powerful speech.
+br: Powerful marks capacity to cause effects, on matter or on people.
+inv: Having great power or effect.
+[PHY] High power output.
+[REL] Influence over others, which needs checks.
+cc: Something or someone with great capacity to affect.
+tb: Powerful is not right; power and justice are separate questions.
+st: [DEF]
+k: discovery
+
+@ C2-P-0039 | prior
+cm: Existing or happening before; as a noun, the head of a religious house; in statistics, a prior belief.
+ex: Prior experience is required; a prior engagement.
+br: Prior names what came before and still bears on now.
+inv: Earlier, or an earlier belief.
+[FOR] In Bayesian reasoning, the prior is belief before new evidence.
+cc: Something earlier, or a starting belief.
+tb: A strong prior can resist evidence; it should update when evidence warrants.
+st: [DEF]
+k: discovery
+
+@ C2-P-0040 | partner
+cm: A person one is in a romantic relationship with; also a person who shares in a business or activity.
+ex: Her partner is a nurse; business partners.
+br: A partner is one who shares a part.
+inv: One who shares with another in a relationship or enterprise.
+[REL] Partnership implies mutual standing.
+[ECO] Business partnerships share profit and liability.
+cc: A person sharing in a relationship or enterprise.
+tb: A partnership is two-sided; one party's say does not cover both.
+st: [DEF]
+k: discovery
+
+@ C2-P-0041 | previously
+cm: At an earlier time; before.
+ex: She previously worked in Paris.
+br: Previously stamps an event as earlier than now.
+inv: At a prior time.
+[LIN] Time adverb.
+cc: An event before the present reference point.
+tb: What was true previously may not be true now.
+st: [DEF]
+k: discovery
+
+@ C2-P-0042 | profile
+cm: An outline seen from the side; also a short description of someone; also a person's page on a website; also public visibility.
+ex: Her profile against the window; update your profile; a high profile.
+br: A profile is an outline: of a face, of a life, of an account.
+inv: A side outline or a summary description.
+[DIG] User profiles collect personal data.
+[REL] Profiling people by group can lead to discrimination.
+cc: A side view, a summary, or an online account page.
+tb: A profile is a summary; it leaves the person out.
+st: [DEF]
+k: discovery
+
+@ C2-P-0043 | prime
+cm: Most important; of the best quality; as a noun, the best period; in mathematics, a number divisible only by 1 and itself; as a verb, to prepare.
+ex: The prime minister; in her prime; seven is prime.
+br: Prime names what is first: in rank, in quality, in number theory.
+inv: First, best, or indivisible except by itself and one.
+[FOR] Prime numbers.
+[COG] Priming: earlier exposure influencing later responses.
+cc: Something foremost, a peak period, a prime number, or preparation.
+tb: Some famous priming results failed to replicate; the effect is smaller than once claimed.
+st: [DEF]
+k: discovery

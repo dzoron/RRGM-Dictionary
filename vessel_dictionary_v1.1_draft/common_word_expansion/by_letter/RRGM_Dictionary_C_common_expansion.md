@@ -1276,3 +1276,91 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-C-0043 | coffee
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A drink made from roasted and ground seeds of the coffee plant; also the seeds themselves.
+
+**Example:** I'll have a black coffee.
+
+**RRGM bridge:** Coffee is a daily ritual and a stimulant, shared across cultures.
+
+**Invariant MI [INV]:** A drink brewed from roasted coffee beans.
+
+**Active domains:** [BIO], [ECO], [REL]
+
+**Domain entries:**
+
+- [BIO] Caffeine is a stimulant that blocks adenosine.
+- [ECO] A major global commodity, grown mostly in the tropics.
+- [REL] Meeting "for coffee" is a common social ritual.
+
+**Count condition:** The drink or its beans.
+
+**Specific transfer boundary:** Coffee's price to drinkers says little about what its growers are paid.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0044 | cent
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A unit of money equal to one hundredth of a dollar, euro or other currency.
+
+**Example:** It costs ninety-nine cents.
+
+**RRGM bridge:** A cent is the smallest common step of a currency.
+
+**Invariant MI [INV]:** One hundredth of a monetary unit.
+
+**Active domains:** [ECO]
+
+**Domain entries:**
+
+- [ECO] Small change; prices ending in .99 exploit attention to the first digit.
+
+**Count condition:** One hundredth of a currency unit.
+
+**Specific transfer boundary:** "Not a cent" means nothing at all.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-C-0045 | click
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A short sharp sound; also the act of pressing a mouse button or touchscreen; informally, to become suddenly clear, or to get on well.
+
+**Example:** Click the link; it suddenly clicked.
+
+**RRGM bridge:** A click is a small discrete act that triggers a larger result.
+
+**Invariant MI [INV]:** A short sharp sound, or a selecting action on a device.
+
+**Active domains:** [DIG], [COG], [REL]
+
+**Domain entries:**
+
+- [DIG] Clicks are counted as engagement, which can reward attention-grabbing over accuracy.
+- [COG] An idea "clicking" names sudden understanding.
+- [REL] Two people clicking means getting on well at once.
+
+**Count condition:** A sound, a device input, or sudden fit.
+
+**Specific transfer boundary:** A click shows attention, not approval or trust.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

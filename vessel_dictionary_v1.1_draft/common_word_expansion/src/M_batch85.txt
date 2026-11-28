@@ -1,0 +1,47 @@
+@ C2-M-0022 | murder
+cm: The crime of deliberately and unlawfully killing a person; as a verb, to commit this crime.
+ex: He was charged with murder.
+br: Murder is the law's gravest name for one person taking another's life.
+inv: The unlawful, deliberate killing of a person.
+[REL] The most serious crime in most legal systems.
+[FOR] Distinguished in law from manslaughter by intent.
+cc: An unlawful killing with intent.
+tb: Guilt is for courts to establish; an accusation is not a finding. Informal uses ("murder a song") are hyperbole.
+st: [DEF]
+k: discovery
+
+@ C2-M-0023 | mobile
+cm: Able to move or be moved easily; as a noun, a mobile phone, or a hanging decoration.
+ex: Call me on my mobile; mobile libraries.
+br: Mobile marks capacity to move, of people, devices and things.
+inv: Capable of moving, or a mobile phone.
+[DIG] Mobile devices and networks.
+[ECO] Social mobility: moving between economic positions.
+cc: Something able to move, or a mobile phone.
+tb: Social mobility on average can hide groups that are stuck.
+st: [DEF]
+k: discovery
+
+@ C2-M-0024 | mental
+cm: Relating to the mind; also (informally, offensive) mad.
+ex: Mental health matters.
+br: Mental names the domain of the mind.
+inv: Of the mind.
+[COG] Mental processes: thinking, memory, perception.
+[BIO] Mental health and illness have biological and social sides.
+[PEJ] Informally used as an insult meaning crazy; the mechanism uses mental illness as a put-down.
+cc: Something relating to the mind, or (informally) a slur.
+tb: Mental illness is health, not character; using it as an insult adds stigma.
+st: [DEF]; [PEJ] PROVISIONAL
+k: discovery
+
+@ C2-M-0025 | mostly
+cm: Mainly; for the most part; usually.
+ex: The audience was mostly students.
+br: Mostly names the larger share, leaving room for the rest.
+inv: For the greater part.
+[LIN] Degree adverb.
+cc: A majority share or most occasions.
+tb: Mostly is not all; the remainder can matter.
+st: [DEF]
+k: discovery

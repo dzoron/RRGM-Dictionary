@@ -293,3 +293,90 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-E-0011 | everybody
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Every person; everyone.
+
+**Example:** Everybody was invited.
+
+**RRGM bridge:** Everybody gathers all persons into one claim.
+
+**Invariant MI [INV]:** All people within the scope intended.
+
+**Active domains:** [LIN], [FOR]
+
+**Domain entries:**
+
+- [LIN] Universal pronoun.
+- [FOR] Universal claim: one counterexample breaks it.
+
+**Count condition:** All people in a context.
+
+**Specific transfer boundary:** "Everybody knows" often means "many people say"; it is a claim to check, not a source.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-E-0012 | estate
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A large area of land with a house, owned by one person or family; also all the property a person leaves at death; also a housing development.
+
+**Example:** The family estate; her estate went to her children.
+
+**RRGM bridge:** An estate is property held together as one whole.
+
+**Invariant MI [INV]:** Property taken as a whole, especially land or a person's total assets.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Real estate, estate taxes.
+- [REL] Inheritance passes estates between generations.
+
+**Count condition:** A landed property, a total of assets, or a housing area.
+
+**Specific transfer boundary:** "Real estate" means land and buildings, not real as opposed to fake.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-E-0013 | employee
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A person who works for another person or organisation for pay.
+
+**Example:** The company has fifty employees.
+
+**RRGM bridge:** An employee exchanges work for pay inside an employer's structure.
+
+**Invariant MI [INV]:** A person employed for wages or salary.
+
+**Active domains:** [ECO], [REL]
+
+**Domain entries:**
+
+- [ECO] Employment contracts, wages and benefits.
+- [REL] Employee rights and the balance of power with employers.
+
+**Count condition:** A person working for an employer under agreement.
+
+**Specific transfer boundary:** Calling workers "contractors" can remove employee protections without changing the work.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

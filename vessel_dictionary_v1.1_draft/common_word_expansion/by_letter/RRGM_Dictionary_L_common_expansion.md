@@ -148,3 +148,61 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-L-0006 | library
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A building or room with collections of books and other materials for people to read or borrow; also a collection of software routines.
+
+**Example:** She borrowed three books from the library.
+
+**RRGM bridge:** A library holds a shared record open to anyone who comes to read.
+
+**Invariant MI [INV]:** An organised collection of books or resources for use.
+
+**Active domains:** [REL], [DIG]
+
+**Domain entries:**
+
+- [REL] Public libraries give free access to knowledge.
+- [DIG] Software libraries package reusable code.
+
+**Count condition:** A collection of materials for reading or use.
+
+**Specific transfer boundary:** A library holds what it chose to collect; absence from it is not absence from the world.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-L-0007 | lake
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A large area of water surrounded by land.
+
+**Example:** They swam in the lake.
+
+**RRGM bridge:** A lake is water held by land.
+
+**Invariant MI [INV]:** An inland body of standing water.
+
+**Active domains:** [PHY], [BIO]
+
+**Domain entries:**
+
+- [PHY] Formed by glaciers, rivers, tectonics or dams.
+- [BIO] Freshwater ecosystems.
+
+**Count condition:** An inland body of water.
+
+**Specific transfer boundary:** The line between lake and pond is a convention.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

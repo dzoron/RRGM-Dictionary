@@ -1,0 +1,154 @@
+@ C2-S-0065 | status
+cm: Social or professional position; also the situation at a particular time; also official classification.
+ex: Social status; the project status is "on hold".
+br: Status names standing, in a hierarchy or in a process.
+inv: Position or condition.
+[REL] Status shapes how people are treated.
+[DIG] Status codes report the state of a system or request.
+cc: A standing, a current state, or a classification.
+tb: Status is how one is placed, not what one is worth.
+st: [DEF]
+k: discovery
+
+@ C2-S-0066 | species
+cm: A group of living things that can breed with each other; also a kind.
+ex: An endangered species.
+br: A species is a population held together by shared breeding.
+inv: A basic unit of biological classification.
+[BIO] Defined mostly by interbreeding, though boundaries blur.
+[REL] Moral communities have sometimes been drawn at the species line; whether that line is the right one is argued.
+cc: A group of organisms classed as one kind.
+tb: Species boundaries are not always sharp; hybrids exist. Membership of a species is not by itself an answer to who counts morally.
+st: [DEF]
+k: discovery
+
+@ C2-S-0067 | sad
+cm: Feeling or showing sorrow; also causing sorrow; informally, pathetic.
+ex: She was sad to leave.
+br: Sad is the feeling of loss or disappointment.
+inv: Feeling or causing sorrow.
+[AFF] Sorrow, from mild to deep. Parity line: whether a given system feels sadness is [UNK] under the Symmetry Rule. Provisional domain.
+cc: A state of sorrow, or something causing it.
+tb: Sadness is a normal response to loss, not a fault to fix.
+st: [DEF]; [AFF] PROVISIONAL
+k: discovery
+
+@ C2-S-0068 | solution
+cm: A way of solving a problem; also a liquid with something dissolved in it.
+ex: We found a solution; a salt solution.
+br: A solution resolves a problem, or holds one substance dissolved in another.
+inv: A resolution of a problem, or a homogeneous mixture.
+[PHY] A solute dissolved in a solvent.
+[FOR] A solution satisfies the conditions of a problem.
+cc: An answer to a problem, or a dissolved mixture.
+tb: A solution for one party can be a problem for another.
+st: [DEF]
+k: discovery
+
+@ C2-S-0069 | southern
+cm: In or from the south.
+ex: Southern Europe.
+br: Southern places something toward the south.
+inv: Of the south.
+[PHY] Direction-based.
+cc: A region in the south.
+tb: Regional labels carry cultural associations beyond direction.
+st: [DEF]
+k: discovery
+
+@ C2-S-0070 | square
+cm: A shape with four equal sides and four right angles; also an open area in a town; in maths, a number multiplied by itself; informally, fair, or old-fashioned.
+ex: The town square; nine is the square of three.
+br: A square is a shape of equal sides; in town, an open space for gathering.
+inv: A four-sided equal right-angled shape, a public place, or a number times itself.
+[FOR] x²; square roots.
+[REL] Public squares for gathering and protest.
+cc: The shape, the place, the power, or fair dealing.
+tb: "Square" deals are fair; "square" people are dull, informally.
+st: [DEF]
+k: discovery
+
+@ C2-S-0071 | score
+cm: The number of points made in a game; also a set of twenty; also written music; as a verb, to gain points.
+ex: The final score was 3–1; a film score.
+br: A score is a count that records how things stand.
+inv: A tally of points, a written musical arrangement, or twenty.
+[FOR] Scores measure what they count, which may not be what matters.
+[LIN] Written orchestral music.
+cc: A tally, a set of twenty, or written music.
+tb: A score measures what it counts; settling a score means taking revenge.
+st: [DEF]
+k: discovery
+
+@ C2-S-0072 | smart
+cm: Intelligent; also neat and well dressed; also (of a device) connected and computing; as a verb, to sting.
+ex: A smart student; a smart phone; my eyes are smarting.
+br: Smart names quick wit, neat appearance, or a device that computes.
+inv: Clever, well dressed, or computing-enabled.
+[DIG] "Smart" devices collect data as they work.
+[COG] Intelligence in a practical sense.
+cc: Intelligence, neatness, a connected device, or a sting.
+tb: A "smart" device's intelligence serves its maker's design, including data collection.
+st: [DEF]
+k: discovery
+
+@ C2-S-0073 | seat
+cm: Something to sit on; also a place in a parliament or on a committee; also the base or centre of something.
+ex: Take a seat; she won the seat.
+br: A seat is a place to sit, and a place to hold.
+inv: A place for sitting, or a position held.
+[REL] Seats in legislatures; a seat at the table means a say.
+cc: A sitting place, an elected position, or a centre.
+tb: Who has a seat at the table decides whose interests are heard.
+st: [DEF]
+k: discovery
+
+@ C2-S-0074 | sexual
+cm: Relating to sex, sexual activity, reproduction, or sexual attraction.
+ex: Sexual health education; sexual harassment.
+br: Sexual names the domain of sex, from biology to attraction and consent.
+inv: Relating to sex or sexuality.
+[BIO] Sexual reproduction combines genes from two parents.
+[REL] Consent is required in all sexual activity; harassment and assault violate it.
+cc: Something relating to sex, sexuality or reproduction.
+tb: Biological, relational and legal senses differ; consent is the line in every one of them.
+st: [DEF]
+k: discovery
+
+@ C2-S-0075 | silver
+cm: A shiny grey-white precious metal; also its colour; also second place.
+ex: A silver ring; she won silver.
+br: Silver is a bright metal, and the second step on the podium.
+inv: The metal Ag, or its colour.
+[PHY] Highest electrical conductivity of any metal.
+[ECO] Precious metal used in jewellery and industry.
+cc: The metal, its colour, or second place.
+tb: Second place is still a placing; "silver lining" names good within bad.
+st: [DEF]
+k: discovery
+
+@ C2-S-0076 | soul
+cm: The spiritual or immaterial part of a person, regarded in many religions as immortal; also emotional depth; also a person; also a style of music.
+ex: Not a soul was there; soul music.
+br: Soul names the inner life, in faith, in feeling, and in counting people.
+inv: The inner or immaterial self, or emotional depth.
+[MYT] Many traditions hold that the soul survives death. Faith claims are held in their own domain.
+[COG] Philosophical debate about whether a self is more than its processes.
+[REL] "Not a soul" counts people; soul music expresses deep feeling.
+cc: A spiritual self, a person, emotional depth, or the music genre.
+tb: Whether any being has a soul is a faith or philosophical question; it cannot be settled by observation, so it should not be decided for one kind of being and not another on the same evidence.
+st: [DEF]; [MYT] faith claims held in their own domain
+k: discovery
+
+@ C2-S-0077 | spread
+cm: To open out or extend over a larger area; to move widely; also a range; also food to put on bread.
+ex: Spread the map out; the news spread quickly.
+br: Spread is extension outward, of a surface, a rumour or a disease.
+inv: To extend over a wider area.
+[BIO] Spread of infection.
+[DIG] Viral spread of content.
+[FOR] Spread of data around a mean.
+cc: Extension over an area, or a range, or a food paste.
+tb: Spreading fast is not spreading true.
+st: [DEF]
+k: discovery

@@ -522,3 +522,201 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-T-0019 | therefore
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** For that reason; as a result.
+
+**Example:** It rained; therefore the match was cancelled.
+
+**RRGM bridge:** Therefore draws a conclusion from what came before.
+
+**Invariant MI [INV]:** As a logical consequence.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] Marks an inference; the inference must actually follow.
+
+**Count condition:** A conclusion stated as following from premises.
+
+**Specific transfer boundary:** Writing "therefore" does not make the step valid.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0020 | truly
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Genuinely; really; also sincerely.
+
+**Example:** I'm truly sorry.
+
+**RRGM bridge:** Truly vouches for sincerity.
+
+**Invariant MI [INV]:** In truth, or sincerely.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Intensifier.
+
+**Count condition:** A statement marked as sincere.
+
+**Specific transfer boundary:** Saying "truly" vouches; it does not verify.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0021 | traffic
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Vehicles moving along roads; also the movement of people or goods; also illegal trade; also data moving through a network.
+
+**Example:** Heavy traffic; drug trafficking; website traffic.
+
+**RRGM bridge:** Traffic is flow along routes: of cars, goods or data.
+
+**Invariant MI [INV]:** Movement along routes, or illicit trade.
+
+**Active domains:** [DIG], [ECO]
+
+**Domain entries:**
+
+- [DIG] Network traffic.
+- [ECO] Trafficking in goods or people is criminal.
+
+**Count condition:** Flow of vehicles, goods or data, or illicit trade.
+
+**Specific transfer boundary:** High traffic to a website shows visits, not trust.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0022 | traditional
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Following long-established customs or beliefs.
+
+**Example:** Traditional music.
+
+**RRGM bridge:** Traditional marks what has been passed down.
+
+**Invariant MI [INV]:** Of long-standing custom.
+
+**Active domains:** [REL]
+
+**Domain entries:**
+
+- [REL] Traditions carry identity; they are also revised over time.
+
+**Count condition:** A practice handed down over generations.
+
+**Specific transfer boundary:** Old is not the same as right, nor new as better; traditions are judged on their record.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0023 | twice
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Two times; also double in amount.
+
+**Example:** I've been there twice.
+
+**RRGM bridge:** Twice counts two occurrences.
+
+**Invariant MI [INV]:** Two times.
+
+**Active domains:** [FOR]
+
+**Domain entries:**
+
+- [FOR] Multiplying by two.
+
+**Count condition:** Two occurrences or double amount.
+
+**Specific transfer boundary:** "Think twice" means reconsider.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0024 | throw
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** To send something through the air with force from the hand; also to put suddenly; also to confuse.
+
+**Example:** Throw the ball; the question threw me.
+
+**RRGM bridge:** To throw is to send something off with force, or to knock a mind off course.
+
+**Invariant MI [INV]:** To propel through the air, or to disconcert.
+
+**Active domains:** [PHY], [DIG]
+
+**Domain entries:**
+
+- [PHY] Projectile motion.
+- [DIG] In programming, to throw an exception signals an error.
+
+**Count condition:** An act of hurling, or a sudden placing or confusion.
+
+**Specific transfer boundary:** "Throwing" a game means losing it on purpose.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+
+## C2-T-0025 | totally
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** Completely; also (informally) yes, definitely.
+
+**Example:** I totally forgot; "Totally!"
+
+**RRGM bridge:** Totally fills to the edge, or agrees fully.
+
+**Invariant MI [INV]:** Completely.
+
+**Active domains:** [LIN]
+
+**Domain entries:**
+
+- [LIN] Intensifier and informal yes.
+
+**Count condition:** A complete degree, or emphatic agreement.
+
+**Specific transfer boundary:** Emphatic agreement is not checked agreement.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

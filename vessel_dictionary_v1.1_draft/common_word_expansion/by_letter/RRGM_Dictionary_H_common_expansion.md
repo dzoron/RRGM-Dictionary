@@ -411,3 +411,31 @@ Kind: discovery · prior exposure: none · record v1
 
 ---
 
+## C2-H-0015 | hill
+
+Discovery route: frequency-gap (route only, not a tag)
+
+**Common meaning:** A naturally raised area of land, smaller than a mountain.
+
+**Example:** They walked up the hill.
+
+**RRGM bridge:** A hill is ground lifted enough to give a view and a climb.
+
+**Invariant MI [INV]:** A rounded natural elevation of land.
+
+**Active domains:** [PHY]
+
+**Domain entries:**
+
+- [PHY] Formed by erosion, deposition or uplift.
+
+**Count condition:** A natural rise of land.
+
+**Specific transfer boundary:** The line between hill and mountain is a local convention.
+
+**Epistemic status:** [DEF]
+
+Kind: discovery · prior exposure: none · record v1
+
+---
+

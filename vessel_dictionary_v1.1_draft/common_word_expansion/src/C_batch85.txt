@@ -1,0 +1,36 @@
+@ C2-C-0043 | coffee
+cm: A drink made from roasted and ground seeds of the coffee plant; also the seeds themselves.
+ex: I'll have a black coffee.
+br: Coffee is a daily ritual and a stimulant, shared across cultures.
+inv: A drink brewed from roasted coffee beans.
+[BIO] Caffeine is a stimulant that blocks adenosine.
+[ECO] A major global commodity, grown mostly in the tropics.
+[REL] Meeting "for coffee" is a common social ritual.
+cc: The drink or its beans.
+tb: Coffee's price to drinkers says little about what its growers are paid.
+st: [DEF]
+k: discovery
+
+@ C2-C-0044 | cent
+cm: A unit of money equal to one hundredth of a dollar, euro or other currency.
+ex: It costs ninety-nine cents.
+br: A cent is the smallest common step of a currency.
+inv: One hundredth of a monetary unit.
+[ECO] Small change; prices ending in .99 exploit attention to the first digit.
+cc: One hundredth of a currency unit.
+tb: "Not a cent" means nothing at all.
+st: [DEF]
+k: discovery
+
+@ C2-C-0045 | click
+cm: A short sharp sound; also the act of pressing a mouse button or touchscreen; informally, to become suddenly clear, or to get on well.
+ex: Click the link; it suddenly clicked.
+br: A click is a small discrete act that triggers a larger result.
+inv: A short sharp sound, or a selecting action on a device.
+[DIG] Clicks are counted as engagement, which can reward attention-grabbing over accuracy.
+[COG] An idea "clicking" names sudden understanding.
+[REL] Two people clicking means getting on well at once.
+cc: A sound, a device input, or sudden fit.
+tb: A click shows attention, not approval or trust.
+st: [DEF]
+k: discovery

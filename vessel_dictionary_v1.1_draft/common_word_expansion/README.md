@@ -14,8 +14,8 @@
 
 ## Progress
 
-- **Done:** 300 headwords (309 sense records) in 5 batches, most frequent first.
-- **Remaining:** 2079 words. The queue is in `queue.json`.
+- **Done:** 360 headwords (369 sense records) in 6 batches, most frequent first.
+- **Remaining:** 2019 words. The queue is in `queue.json`.
 
 ## Entry format
 

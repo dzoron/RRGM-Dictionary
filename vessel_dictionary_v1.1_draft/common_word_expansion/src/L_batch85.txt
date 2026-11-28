@@ -1,0 +1,23 @@
+@ C2-L-0006 | library
+cm: A building or room with collections of books and other materials for people to read or borrow; also a collection of software routines.
+ex: She borrowed three books from the library.
+br: A library holds a shared record open to anyone who comes to read.
+inv: An organised collection of books or resources for use.
+[REL] Public libraries give free access to knowledge.
+[DIG] Software libraries package reusable code.
+cc: A collection of materials for reading or use.
+tb: A library holds what it chose to collect; absence from it is not absence from the world.
+st: [DEF]
+k: discovery
+
+@ C2-L-0007 | lake
+cm: A large area of water surrounded by land.
+ex: They swam in the lake.
+br: A lake is water held by land.
+inv: An inland body of standing water.
+[PHY] Formed by glaciers, rivers, tectonics or dams.
+[BIO] Freshwater ecosystems.
+cc: An inland body of water.
+tb: The line between lake and pond is a convention.
+st: [DEF]
+k: discovery

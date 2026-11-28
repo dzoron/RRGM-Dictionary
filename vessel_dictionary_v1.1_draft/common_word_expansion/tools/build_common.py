@@ -11,6 +11,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 B11, B12, EXP = (os.path.join(ROOT, x) for x in ("build_v1.1", "build_v1.2", "expansion_common"))
 LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 def norm(h): return re.sub(r"[\s\-']+", "", h.lower())
+# Distinct words that collide only when hyphens are ignored (checked by hand).
+DISTINCT = {"estate"}  # baseline has the RRGM term "E-state"
 
 if os.path.isdir(B12): shutil.rmtree(B12)
 os.makedirs(os.path.join(B12, "src_new")); os.makedirs(os.path.join(B12, "out"))
@@ -27,7 +29,7 @@ for p in sorted(glob.glob(os.path.join(EXP, "src", "*_batch8*.txt"))):
         if not re.fullmatch(rf"C2-{L}-\d{{4}}", wid): errs.append(f"bad id {wid} in {os.path.basename(p)}")
         if wid in seen_ids: continue          # extra senses share the id
         seen_ids.add(wid)
-        if norm(hw) in existing: errs.append(f"headword already present: {hw} ({wid})")
+        if norm(hw) in existing and hw not in DISTINCT: errs.append(f"headword already present: {hw} ({wid})")
         if hw[0].upper() != L: errs.append(f"{hw} filed under {L}")
         existing.add(norm(hw))
         supp.append({**{k: "" for k in fields}, "working_id": wid, "headword": hw, "sort_letter": L,

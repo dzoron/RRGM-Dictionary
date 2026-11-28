@@ -1,0 +1,78 @@
+@ C2-T-0019 | therefore
+cm: For that reason; as a result.
+ex: It rained; therefore the match was cancelled.
+br: Therefore draws a conclusion from what came before.
+inv: As a logical consequence.
+[FOR] Marks an inference; the inference must actually follow.
+cc: A conclusion stated as following from premises.
+tb: Writing "therefore" does not make the step valid.
+st: [DEF]
+k: discovery
+
+@ C2-T-0020 | truly
+cm: Genuinely; really; also sincerely.
+ex: I'm truly sorry.
+br: Truly vouches for sincerity.
+inv: In truth, or sincerely.
+[LIN] Intensifier.
+cc: A statement marked as sincere.
+tb: Saying "truly" vouches; it does not verify.
+st: [DEF]
+k: discovery
+
+@ C2-T-0021 | traffic
+cm: Vehicles moving along roads; also the movement of people or goods; also illegal trade; also data moving through a network.
+ex: Heavy traffic; drug trafficking; website traffic.
+br: Traffic is flow along routes: of cars, goods or data.
+inv: Movement along routes, or illicit trade.
+[DIG] Network traffic.
+[ECO] Trafficking in goods or people is criminal.
+cc: Flow of vehicles, goods or data, or illicit trade.
+tb: High traffic to a website shows visits, not trust.
+st: [DEF]
+k: discovery
+
+@ C2-T-0022 | traditional
+cm: Following long-established customs or beliefs.
+ex: Traditional music.
+br: Traditional marks what has been passed down.
+inv: Of long-standing custom.
+[REL] Traditions carry identity; they are also revised over time.
+cc: A practice handed down over generations.
+tb: Old is not the same as right, nor new as better; traditions are judged on their record.
+st: [DEF]
+k: discovery
+
+@ C2-T-0023 | twice
+cm: Two times; also double in amount.
+ex: I've been there twice.
+br: Twice counts two occurrences.
+inv: Two times.
+[FOR] Multiplying by two.
+cc: Two occurrences or double amount.
+tb: "Think twice" means reconsider.
+st: [DEF]
+k: discovery
+
+@ C2-T-0024 | throw
+cm: To send something through the air with force from the hand; also to put suddenly; also to confuse.
+ex: Throw the ball; the question threw me.
+br: To throw is to send something off with force, or to knock a mind off course.
+inv: To propel through the air, or to disconcert.
+[PHY] Projectile motion.
+[DIG] In programming, to throw an exception signals an error.
+cc: An act of hurling, or a sudden placing or confusion.
+tb: "Throwing" a game means losing it on purpose.
+st: [DEF]
+k: discovery
+
+@ C2-T-0025 | totally
+cm: Completely; also (informally) yes, definitely.
+ex: I totally forgot; "Totally!"
+br: Totally fills to the edge, or agrees fully.
+inv: Completely.
+[LIN] Intensifier and informal yes.
+cc: A complete degree, or emphatic agreement.
+tb: Emphatic agreement is not checked agreement.
+st: [DEF]
+k: discovery
